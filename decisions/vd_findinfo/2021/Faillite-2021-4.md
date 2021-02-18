@@ -1,0 +1,309 @@
+---
+decision_id: "vd_findinfo_Faillite___2021___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2021 / 4"
+decided: "2021-02-18"
+published: "2021-04-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CPF/Faillite/20210209110534378_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-191.md"]
+---
+
+# VD Findinfo Faillite / 2021 / 4
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ | 174 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 27.04.2021 (publié) Faillite / 2021 / 4
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ | 174 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FF20.045118-201844
+15
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+18 février 2021
+__________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Cherpillod, juges
+Greffier
+:
+Mme              U
+mulisa
+Musaby
+*****
+Art.
+174 al. 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+W.________
+,
+à Lausanne, contre le jugement rendu le 10 décembre 2020, par défaut de la partie requérante
+[...]
+,
+à Tolochenaz, par la Présidente du Tribunal d’arrondissement de Lausanne.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Par acte du 13 novembre 2020, la [...] (ci-après : la requérante) a requis la faillite
+de W.________. Elle a produit un commandement de payer, ainsi qu’une commination de faillite notifiés
+à celui-ci le 16 octobre 2019, respectivement le 8 octobre 2020, mentionnant une créance de
+la requérante à hauteur de 11'567 fr. 10.
+2.
+Par jugement du 10 décembre 2020, rendu par
+défaut de la requérante, notifié au failli le 15 décembre suivant, la Présidente
+du Tribunal d’arrondissement de Lausanne (ci-après : la présidente) a prononcé
+la faillite de W.________ avec effet au 10 décembre 2020 à 9 heures 12 (I) et a mis les frais
+judiciaires à la charge du failli (II).
+3.
+a)
+Par acte du 23 décembre 2020, le failli
+a recouru contre ce jugement, concluant préalablement à l’octroi de l’effet suspensif,
+principalement à l’annulation de la faillite, subsidiairement à l’annulation du
+jugement attaqué et au renvoi du dossier de la cause à l’autorité précédente
+pour nouvelle décision dans le sens des considérants. Le recourant a produit les pièces,
+dont notamment les suivantes :
+-
+un extrait du registre
+du commerce indiquant qu’il exploite une entreprise individuelle (S.________) « de pose
+de sols, peinture, rénovation et nettoyage » ;
+-
+un extrait du registre
+des poursuites (état au 22 décembre 2020), dont il ressort qu’à cette date le recourant
+faisait l’objet de poursuites totalisant 55'884 fr. 26 ;
+-
+un courriel du 18 décembre
+2020 de la requérante, informant le conseil du recourant que le solde du litige s’élevait
+à 7'053 fr. 40 et qu’elle « annulerait la faillite » si le recourant versait
+un acompte de 2'000 fr. d’ici le 21 décembre 2020 et le solde le 31 décembre 2020 au
+plus tard ;
+-
+un document établissant
+que le recourant a versé l’acompte de 2'000 fr. le 21 décembre 2020 ;
+-
+un courrier du 22 décembre
+2020 que la requérante a envoyé à la présidente l’informant qu’elle retirait
+la requête de faillite à la suite d’un arrangement intervenu entre les parties ;
+-
+un certificat médical
+du 21 décembre 2020 attestant une incapacité de travail du recourant à 50 % pour la période
+du 21 décembre 2020 au 17 janvier 2021 ;
+-
+deux bons de commande
+(n° B-2785 et B-2787) établis le 17 novembre 2020 par l’entreprise [...] pour les travaux
+de nettoyages, travaux mineurs de maçonnerie et la mise à disposition de nacelles, selon offres
+des 3 et 16 novembre 2020. Le bon n° B-2787 mentionne encore ce qui suit :
+«
+Référence
+: Bâtiment Z2               - CFC
+540              - CHF 8'500.-
+Bâtiment B03
+- CFC 255               - CHF 3'000.-
+» ;
+-
+une « Offre
+2020-1103 » du 27 novembre 2020 que le recourant a adressée à [...] pour un montant
+de 16'550 fr. ;
+-
+deux courriels des 8 et
+9 décembre 2020 par lesquels une entreprise a invité le recourant à lui faire une offre
+au plus vite, tandis qu’une autre lui a envoyé des plans des appartements dans lesquels les
+travaux, notamment de pose de carrelages, devaient avoir lieu.
+b)
+Par ordonnance du 28 décembre 2020, la Vice-présidente de la Cour des poursuites et faillites
+a admis la requête d’effet suspensif (I) et ordonné les mesures conservatoires consistant
+en l’établissement d’un inventaire et en l’audition du failli (II).
+c)
+Ce même jour, un extrait du registre des poursuites, daté du 28 décembre 2020, a été
+versé d’office au dossier. Il en ressort que le recourant fait l’objet d’une saisie
+de salaire ou de revenu à hauteur de 2'400 fr. par mois et de neuf poursuites ordinaires, totalisant
+40'423 fr. 45, qui se composent comme il suit :
+Par acte du 14 janvier 2021, le recourant s’est déterminé sur cet extrait.
+En droit
+:
+I.
+a)
+En vertu de l'art. 174 al. 1 LP (loi fédérale
+sur la poursuite pour dettes et la faillite; RS 281.1), la décision du juge de la faillite peut,
+dans les dix jours, faire l'objet d'un recours au sens du CPC (Code de procédure civile ; RS 272).
+Selon l'art. 321 al. 1 CPC, le recours s'exerce par le dépôt d'un acte écrit et motivé,
+introduit auprès de l'instance de recours.
+Aux termes de l'art. 174 al. 1 2ème phrase LP, les parties peuvent faire valoir devant l'instance
+de recours des faits nouveaux lorsque ceux-ci se sont produits avant le jugement de première instance.
+Cette disposition spéciale de la loi, au sens de l'art. 326 al. 2 CPC, vise les faits nouveaux improprement
+dits (faux
+nova
+ou
+pseudo-
+nova
+),
+à savoir ceux qui existaient déjà au moment de l'ouverture de la faillite et dont le premier
+juge n'a pas eu connaissance pour quelque raison que ce soit; ces faits peuvent être invoqués
+sans restriction et prouvés par pièces, pour autant qu'ils le soient dans le délai de
+recours. Aux termes de l'art. 174 al. 2 LP, le failli peut aussi invoquer de vrais
+nova
+,
+à savoir les faits, intervenus après l'ouverture de la faillite en première instance,
+qui sont énumérés aux chiffres 1 à 3; selon la jurisprudence, ces vrais
+nova
+doivent
+également être produits avant l'expiration du délai de recours (
+ATF
+139 III 491
+consid. 4.4; TF 5A_1005/2020 du
+19 janvier 2021 consid. 3.1.2).
+b)
+En l’espèce, le recours a été
+déposé en temps utile et dans les formes requises. Il est ainsi recevable. Il en va de même
+des pièces produites par le recourant, dès lors qu’elles ont été produites
+dans le délai de recours et qu’elles portent sur des nova au sens précité.
+II.
+a)
+En vertu de l'art. 174 al. 2 LP, l'autorité
+de recours peut annuler l'ouverture de la faillite lorsque le débiteur rend vraisemblable sa solvabilité
+et établit par titre que la dette, intérêts et frais compris, a été payée
+(ch. 1) ou que la totalité de la somme à rembourser a été déposée auprès
+de l'autorité judiciaire supérieure à l'intention du créancier (ch. 2), ou encore
+que celui-ci a retiré sa réquisition de faillite (ch. 3). Ces deux conditions, soit le paiement
+de la dette à l'origine de la faillite, le dépôt de la totalité de la somme à
+rembourser ou le retrait de la requête de faillite, d’une part, et la vraisemblance de la
+solvabilité, d’autre part, sont cumulatives (TF 5A_600/2020 du 29 septembre 2020 consid. 3.1
+; Bosshard, Le recours contre le jugement de faillite, in JdT 2010 II 113 ss, p. 127). Le débiteur
+ne doit pas seulement prouver le paiement de la dette à l’origine de la faillite ou le retrait
+de la réquisition de faillite, mais doit encore rendre vraisemblable sa solvabilité (TF 5A_510/2020
+du 24 juin 2020 consid. 5).
+La solvabilité, au sens de l'art. 174 al. 2 LP, se définit par opposition à l'insolvabilité
+au sens de l'art. 191 LP; elle consiste en la capacité du débiteur de disposer de liquidités
+suffisantes pour payer ses dettes échues et peut aussi être présente si cette capacité
+fait temporairement défaut, pour autant que des indices d'amélioration de la situation à
+court terme existent. Si le débiteur doit seulement rendre vraisemblable - et non prouver - sa solvabilité,
+il ne peut se contenter de simples allégations, mais doit fournir des indices concrets tels que
+récépissés de paiements, justificatifs des moyens financiers (avoirs en banque, crédit
+bancaire) à sa disposition, liste des débiteurs, extrait du registre des poursuites, comptes
+annuels récents, bilan intermédiaire, etc. En plus de ces documents, le poursuivi doit établir
+qu'aucune requête de faillite dans une poursuite ordinaire ou dans une poursuite pour effets de
+change n'est pendante contre lui et qu'aucune poursuite exécutoire n'est en cours contre lui. L'extrait
+du registre des poursuites constitue un document indispensable pour évaluer la solvabilité
+du failli. La condition selon laquelle le débiteur doit rendre vraisemblable sa solvabilité
+ne doit pas être soumise à des exigences trop sévères; il suffit que la solvabilité
+apparaisse plus probable que l'insolvabilité (TF 5A_251/2018 du 31 mai 2018 consid. 3.1 et les références).
+L'appréciation de la solvabilité repose sur une impression générale fondée sur
+les habitudes de paiement du failli. En principe, s'avère insolvable le débiteur qui, par exemple,
+fait systématiquement opposition et ne paie pas même des montants peu élevés. Des
+difficultés momentanées de trésorerie, même si elles amènent un retard dans
+le paiement des dettes, ne sont pas à elles seules un indice d'insolvabilité du débiteur,
+à moins qu'il n'y ait aucun indice important permettant d'admettre une amélioration de sa situation
+financière et qu'il semble manquer de liquidités pour une période indéterminée.
+A l'inverse, l'absence de poursuite en cours n'est pas une preuve absolue de solvabilité; elle constitue
+toutefois un indice sérieux de la capacité du débiteur de s'acquitter de ses engagements
+échus (TF 5A_600/2020 précité consid. 3.1 ; 5A_251/2018 précité consid.
+3.1 et les références).
+b)
+En
+l’espèce, s’il est vrai que la requête de faillite a été retirée,
+la solvabilité du recourant n’a pas été rendue vraisemblable. Il ressort de l’extrait
+du registre des poursuites que le recourant n’a des dettes qu’à l’égard de
+l’administration fiscale et de  la Caisse de compensation des entrepreneurs. Il apparaît
+qu’il paie tous ses créanciers privés mais ne s’acquitte pas des dettes publiques.
+Ce choix rend vraisemblable un manque de liquidités, qui ne lui permet pas de satisfaire tous ses
+créanciers.
+D’ailleurs, le recourant, qui indique que
+sa situation n’est pas brillante, ne prétend pas avoir des moyens financiers suffisants pour
+régler ses dettes échues. Il explique que sa situation est due à un arrêt-maladie
+prolongé, qui a toutefois pris fin. Le recourant aurait ainsi affronté une situation de crise
+passagère. Cela étant, le certificat médical qu’il a produit n’est pas en
+mesure de rendre vraisemblable ses allégations, puisqu’il atteste d’une incapacité
+de travail allant du 21 décembre 2020 au 17 janvier 2021. Outre le fait qu’il ne s’agit
+pas d’une incapacité prolongée, cette incapacité est postérieure au jugement
+de faillite du 10 décembre 2020. Elle ne saurait justifier les difficultés de trésorerie
+rencontrées par le recourant avant cette dernière date.
+En outre, les pièces produites ne permettent pas de déterminer qu’il disposera de liquidités
+susceptibles de désintéresser ses créanciers. En effet, d’une part, les courriels
+des 8 et 9 décembre 2020 établissent des appels d’offre reçus par le recourant,
+sans indiquer le prix des travaux envisagés. D’autre part, si l’offre 2020-1103 arrête
+quant à elle le prix des travaux à hauteur de 16'550 fr., il n’est pas rendu vraisemblable
+que cet offre ait été acceptée par [...]. Les seuls documents qui permettraient de considérer
+que le recourant dispose d’une créance à l’égard de tiers, ce sont les bons
+de commande nos E-2785 et 2787. Or à supposer que les montants de 8'500 fr. et 3'000 fr., figurant
+sur l’un de ces bons, correspondent aux prix définitivement arrêtés par les cocontractants,
+la somme de 11'500 fr. serait insuffisante pour régler les dettes échues, notamment les dettes
+fiscales. Il en irait de même si l’offre 2020-1103 précitée était acceptée.
+Même dans cette dernière hypothèse, le montant des créances (8'500 fr. + 3'000 fr.
++ 11'500 fr.) serait toujours inférieures aux montants des poursuites en cours (40'423 fr. 45).
+Certes, le recourant, dans son procédé du 14 janvier 2021, invoque qu’il a déposé
+auprès de l’administration cantonale des impôts des réclamations pour les poursuites
+n° 9113819 et 9113822, ainsi qu’une contestation pour la poursuite n° 9630578. Ces
+faits, articulés après l’échéance du délai de recours, sont irrecevables,
+et du reste non étayés. Enfin, le recourant allègue bénéficier du soutien des
+proches, sans toutefois le rendre vraisemblable.
+Au vu de qui précède, l’insolvabilité du recourant est plus vraisemblable que sa
+solvabilité. La deuxième condition cumulative prévue par l’art. 174 al. 2 LP
+n’est dès lors pas remplie.
+III.
+En conclusion, le recours doit être rejeté
+selon le mode procédural de l’art. 322 al. 1 CPC, et le jugement de faillite du 10 décembre
+2020 confirmé. Vu l’effet suspensif accordé, la faillite de W.________ prend effet à
+la date du présent arrêt.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., doivent être
+mis à la charge du recourant, qui succombe (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement de faillite du 10 décembre 2020
+est confirmé, la faillite de W.________ prenant effet, vu l’effet suspensif accordé,
+le
+18 février 2021 à 16 heures
+.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant W.________.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Elie Elkaim, avocat (pour W.________),
+‑
+Commission professionnelle paritaire du second œuvre vaudois,
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Préposé au Registre du Commerce
+du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne.
+La greffière :
