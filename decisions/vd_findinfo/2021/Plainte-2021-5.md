@@ -1,0 +1,330 @@
+---
+decision_id: "vd_findinfo_Plainte___2021___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2021 / 5"
+decided: "2021-03-02"
+published: "2021-05-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CPF/Plainte/20210215141000850_e.html"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-001.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-122.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/935.61/art-012.md"]
+---
+
+# VD Findinfo Plainte / 2021 / 5
+
+## Regeste
+
+ASSISTANCE JUDICIAIRE, INDEMNITÉ ÉQUITABLE, PLAINTE À L'AUTORITÉ DE SURVEILLANCE | 18 LP, 122 al. 1 let. a CPC (CH), 2 al. 1 RAJ
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 17.05.2021 (publié) Plainte / 2021 / 5
+
+ASSISTANCE JUDICIAIRE, INDEMNITÉ ÉQUITABLE, PLAINTE À L'AUTORITÉ DE SURVEILLANCE | 18 LP, 122 al. 1 let. a CPC (CH), 2 al. 1 RAJ
+
+TRIBUNAL
+CANTONAL
+FA20.017452-201226
+4
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+2 mars 2021
+__________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Cherpillod, juges
+Greffier
+:
+Mme              Umulisa Musaby
+*****
+Art.
+18 LP ; 122 al. 1 let. a CPC ; 2 al. 1 RAJ
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par Me
+R.________
+,
+avocate à Vevey, contre la décision fixant son indemnité de conseil d’office rendue
+le 12 août 2020, par la Présidente du Tribunal d’arrondissement d’Est vaudois,
+autorité inférieure de surveillance.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 6 mai 2020, sous la plume de l’avocate R.________, E.________ a déposé une plainte
+LP contre l’Office des poursuites du district d’Aigle (ci-après : l’Office),
+concluant, préalablement, à l’octroi de l’assistance judiciaire, et, principalement
+au constat du caractère illicite d’une saisie de salaire portant sur le montant de 7'605 fr.
+95 et à la restitution de ce montant en mains de la plaignante. La plainte comportait quatre pages
+et demie, y compris la page de garde. La plaignante a produit une pièce.
+Le 8 mai 2020, la Présidente du Tribunal d’arrondissement de l’Est vaudois (ci-après :
+la présidente) a désigné l’avocate précitée en qualité de conseil
+d’office de la plaignante avec effet au 4 mai 2020.
+Le 28 mai 2020, l’Office a déposé des déterminations, écrites sur trois pages
+et demie, y compris la page de garde, ainsi qu’un bordereau de sept pièces. Ces documents
+ont été communiqués à Me R.________.
+Il en est allé de même s’agissant des déterminations, rédigées sur deux
+pages et accompagnées de quatre pièces, déposées par la créancière saisissante,
+l’employeuse de la plaignante ( [...]).
+Le 30 juin 2020, la présidente a tenu une audience en présence de la plaignante, assistée
+de son conseil, et d’un représentant de l’Office. L’audience a duré de 15h50
+à 17h10.
+Par acte du 10 août 2020, Me R.________ a informé la présidente qu’après discussion
+avec sa cliente, celle-ci ne souhaitait plus maintenir sa plainte LP. L’avocate a produit sa liste
+d’opérations, indiquant qu’elle avait consacré 12,80 heures à ce dossier et
+détaillée comme il suit :
+2.
+Par prononcé du 12 août 2020, notifiée à Me R.________ le 17 août suivant, la
+présidente a fixé l’indemnité de conseil d’office de E.________, dans la procédure
+de plainte LP, à 2'191 fr. 30, TVA, débours et vacation compris, pour la période du 4
+mai 2020 au 10 août 2020 et l’a relevée de son mandat avec effet au 10 août 2020
+(I), a dit que la bénéficiaire de l’assistance judiciaire était, dans la mesure
+de l’art. 123 CPC, tenue au remboursement de l’indemnité du conseil d’office,
+laissée provisoirement à la charge de l’Etat (II) et a rendu ce prononcé sans frais
+(III).
+La présidente a réduit le temps de travail allégué de 12,80 heures à 10 heures
+et 8 minutes. Outre le montant des honoraires (10h08 x 180 fr.), elle a compté des débours
+forfaitaires par 91 fr. 20, un forfait de vacation par 120 fr., ainsi que la TVA.
+3.
+Par acte du 27 août 2020, Me R.________ a
+recouru contre ce prononcé, concluant, avec suite de frais, à ce que son chiffre I soit annulé,
+principalement à ce qu’il soit réformé en ce sens que l’indemnité qui
+lui est due est arrêtée à 2'734 fr. 70 et, subsidiairement, à ce que le dossier de
+la cause soit renvoyé à l’autorité précédente pour nouvel examen et nouvelle
+décision dans le sens des considérants.
+En droit :
+I.
+a)
+Selon l'art. 18 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ;
+RS 281.1), toute décision de l'autorité inférieure peut être déférée
+à l'autorité cantonale supérieure de surveillance dans les dix jours à compter de
+sa notification.
+b)
+En l’espèce, même si l’intitulé du prononcé attaqué se limite à
+mentionner que l’autorité qui a rendu la décision est « La Présidente
+du Tribunal civil », c’est bien en qualité d’autorité inférieure
+de surveillance que la présidente a octroyé l’assistance judiciaire pour la procédure
+de plainte, d’une part, et fixé l’indemnité litigieuse, d’autre part. La
+voie de recours est donc celle de l’art. 18 LP, mais pas celle des art. 319 ss CPC, indiquée
+à tort au pied de la décision entreprise.
+Formé contre une décision de l'autorité inférieure de surveillance dans le délai
+de dix jours suivant sa notification, le recours a été déposé en temps utile. Il
+comporte des conclusions et l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), de sorte
+qu’il est conforme aux exigences de l’art. 18 LP et de la jurisprudence y relative en matière
+de motivation (TF 5A_118/2018 du 7 février 2018 consid. 4.1).
+Dans la mesure où sa propre situation est affectée, le conseil d’office dispose à
+titre personnel d'un droit de recours au sujet de la rémunération équitable accordée
+(ATF 131 V 153 consid. 1 ; TF 8C_54/2013 du 8 mai 2013 consid. 1).
+Formé par une partie disposant d'un intérêt digne de protection (art. 59 al. 2 let. a
+CPC par analogie), le recours est recevable.
+II.
+a)
+La recourante soutient que les réductions
+opérées sur sa note d’honoraires ne seraient pas motivées. La présidente n’aurait
+pas indiqué en quoi le temps allégué serait excessif, et il serait impossible de savoir
+quelles opérations ont été admises et lesquelles ont été rejetées.
+b)
+La jurisprudence a déduit du droit d'être entendu, le devoir de l'autorité ou du juge
+de motiver sa décision afin que le destinataire puisse la comprendre, l'attaquer utilement s'il
+y a lieu et que l'autorité de recours puisse exercer son contrôle. Pour répondre à
+ces exigences, le juge doit mentionner, au moins brièvement, les motifs qui l'ont guidé dans
+sa décision, de manière à ce que l'intéressé puisse se rendre compte de la portée
+de celle-ci et l'attaquer en connaissance de cause. Le droit d'être entendu, garanti par l’art.
+29 al. 2 Cst. (Constitution fédérale; RS 101), impose à l'autorité ou au juge
+de motiver ses décisions, afin que le justiciable puisse les comprendre et exercer son droit de
+recours à bon escient. Pour satisfaire à cette exigence, il suffit que l'autorité mentionne
+au moins brièvement les motifs qui l'ont guidée et sur lesquels elle a fondé sa décision,
+de manière à ce que l’intéressé puisse se rendre compte de la portée de
+celle-ci et l’attaquer en toute connaissance de cause (ATF 141 V 557 consid. 3.2.1 ; TF 2C_640/2020
+du 1 décembre 2020 consid. 3.2 ; TF 8C_278/2020 du 17 août 2020 consid. 2.3). Elle n'a
+pas l'obligation d'exposer et de discuter tous les faits, moyens de preuve et griefs invoqués par
+les parties, mais peut au contraire se limiter à ceux qui, sans arbitraire, peuvent être tenus
+pour pertinents (
+ATF
+142 II 154
+consid. 4.2 p. 157 et les références).
+Dès lors que l'on peut discerner les motifs qui ont guidé la décision de l'autorité,
+le droit à une décision motivée est respecté même si la motivation présentée
+est erronée. La motivation peut d'ailleurs être implicite et résulter des différents
+considérants de la décision (
+ATF
+141 V 557
+consid. 3.2.1 p. 565 et les références ;
+TF 2C_640/2020 consid. 3.2).
+Selon la jurisprudence relative aux dépens, qui s'applique à l'indemnité due au défenseur
+d'office, la décision qui fixe le montant des honoraires de l'avocat n'a en principe pas besoin
+d'être motivée, du moins lorsqu'elle ne sort pas des limites définies par un tarif ou
+une norme légale prévoyant des minima et des maxima, et que des éléments extraordinaires
+ne sont pas allégués par l'intéressé. Il en va différemment lorsque l'autorité
+statue sur la base d'une liste de frais; si elle entend s'en écarter, elle doit alors exposer brièvement
+les motifs pour lesquels elle tient certaines prétentions pour injustifiées, afin que le destinataire
+de la décision puisse l'attaquer à bon escient (TF 4D_37/2018 du 5 avril 2019 consid. 4 ;
+5D_28/2014 du 26 mai 2014 consid. 2.2).
+c)
+En
+l’espèce, la décision attaquée opère deux réductions. La première
+concerne le temps
+consacré
+à l’analyse juridique (1 heure), à la rédaction de la plainte (1 heure), à
+la finalisation de celle-ci (50 minutes), à l’analyse du dossier (50 minutes) et à la
+préparation de l’audience (1 heure), soit un total de 4 heures et 40 minutes, ramené
+ex aequo et bono
+à 3 heures. La seconde concerne le temps consacré aux échanges de courriers électroniques
+les 4 mai (30 minutes), 6 mai (20 minutes), 11 mai (30 minutes), 3 juin (20 minutes) et 22 juin 2020
+(20 minutes), soit un total de 2 heures, ramené à 1 heure en équité. L’autorité
+inférieure a considéré, d’une part, que le dossier de la cause, constitué essentiellement
+de courriers et de courriels, n’était pas d’une complexité extraordinaire. D’autre
+part, elle a relevé que le conseil d’office aurait dû utiliser les échanges de courriels
+avec la plus grande modération, puisque ce mode de communication a une fâcheuse tendance à
+rendre les bénéficiaires de l’assistance judiciaire envahissant et entraîne une
+perte de maîtrise du client par l’avocat. La présidente a ainsi précisé les
+postes de la liste d’opérations, dont la durée lui paraissait excessive, et a exposé
+les motifs qui l’ont amené à opérer les deux réductions. Il n’était
+pas nécessaire de discuter de chacun des postes. Du reste, dans son recours, la recourante a été
+en mesure de cibler les deux réductions en cause et de les critiquer. Le droit d’être
+entendue de la recourante n’a dès lors pas été violé. Au demeurant, une éventuelle
+violation du droit d’être entendu serait réparée par la motivation du présent
+arrêt (cf. consid. III/c Infra).
+Il s’ensuit que le premier grief de la recourante est infondé.
+III.
+a)
+La recourante fait valoir que c’est à tort que la première juge a considéré
+que les heures retranchées (2h40) n’entraient pas raisonnablement dans l’accomplissement
+de son mandat. Elle soutient que les opérations en cause n’étaient pas inutiles ou superflues ;
+en particulier, il rentrerait dans son mandat de répondre aux messages électroniques de son
+client et de le rassurer en l’informant de ce qui se passe.
+b)
+aa)
+Dans la procédure de plainte et de recours du droit des poursuites, le droit à l'assistance
+judiciaire est réglé en premier lieu par le droit de procédure cantonal (art. 20a al.
+3 LP), sous réserve des principes généraux prévus à l'art. 20a al. 2 LP, et
+ce même après l'entrée en vigueur du Code de procédure civile du 19 décembre
+2008 (CPC; RS 272), celui-ci ne s'appliquant pas à la procédure devant les autorités cantonales
+de surveillance (art. 1 let. c CPC a contrario). Indépendamment du droit de procédure
+cantonal, le droit à l'assistance judiciaire repose sur l'art. 29 al. 3 Cst., qui confère au
+justiciable une garantie minimale (TF 5C_278/2020 consid. 4.1 ; 5A_147/2014 du 7 avril 2014 consid.
+2.2 ; 5A_275/2013 du 12 juin 2013 consid. 6.2.1).
+bb)
+A
+défaut de disposition de droit fédéral, le droit cantonal régit l’indemnisation
+des mandataires d’office (TF 5C_278/2020 consid. 2.1). Dans le canton de Vaud, les dispositions
+sur l’assistance judiciaire en matière civile sont applicables par analogie, en matière
+de plainte LP (art. 18 al. 5 LPA-VD [loi vaudoise sur la procédure administrative ; BLV 173.36] ;
+cf. par exemple CDAP PE.2017.0340 consid. 5). Il convient donc d’appliquer, par analogie,
+le règlement du 7 décembre 2010 sur l'assistance judiciaire en matière civile [RAJ; BLV
+211.02.3], adopté par le Tribunal cantonal en vertu de la délégation législative
+prévue à l’art. 39 al. 5 CDPJ [Code de droit privé judiciaire vaudois ; BLV
+211.02.3], dont l’art. 2 al. 1 let. a prévoit le droit à un défraiement équitable
+à un tarif horaire de 180 fr. en tant qu'avocat. Le Tribunal fédéral a considéré
+cette rémunération comme équitable (ATF 137 III 185 consid. 5.4). Quant aux débours,
+en première instance, ils sont fixés forfaitairement à 5 % du défraiement hors taxe
+(art. 3bis RAJ).
+cc)
+L'art. 2 al. 1 RAJ - qui renvoie à l'art.
+122 al. 1 let. a CPC - précise que le conseil juridique commis d'office a droit au remboursement
+de ses débours et à un défraiement équitable, qui est fixé en considération
+de l'importance de la cause, de ses difficultés, de l'ampleur du travail et du temps consacré
+par le conseil juridique commis d'office.
+Le
+conseil juridique commis d'office n'exerce pas un mandat privé, mais accomplit une tâche de
+droit public, à laquelle il ne peut se soustraire (cf. art. 12 let. g LLCA [loi fédérale
+du 23 juin 2000 sur la libre circulation des avocats ; RS 935.61]) et qui lui confère une prétention
+de droit public à être rémunéré équitablement dans le cadre des normes
+cantonales applicables (cf. art. 122 CPC; ATF 141 III 560 consid. 3.2.2 ; TF 8C_278/2020 consid.
+4.1). Ce droit ne comprend pas tout ce qui est important pour la défense des intérêts
+du mandant; en effet, le mandat d'office ne consiste ainsi pas simplement à faire financer par l'Etat
+un mandat privé. Il constitue une relation tripartite dans laquelle l'Etat confère au conseil
+d'office la mission de défendre les intérêts du justiciable démuni, lui conférant
+une sorte de mandat en faveur d'un tiers (ATF 141 III 560 précité). Le droit à l'indemnité
+n'existe dès lors que dans la mesure où les démarches entreprises sont nécessaires
+à la sauvegarde des droits de la défense et pas déjà lorsqu'elles sont simplement
+justifiables (ATF 141 I 124 consid. 3.1 ; TF 8C_278/2020 consid. 4.1 ; TF 4D_37/2018 du 5 avril
+2019 consid. 2). Dans le champ d'application du CPC, le législateur fédéral a délibérément
+renoncé à prescrire une pleine indemnisation (TF 4D_37/2018 consid. 2). L'art. 122 al.
+1 let. a CPC n'oblige qu'à une rémunération" équitable" du défenseur
+d'office (ATF 137 III 185 consid. 5.3 ; TF 5A_4/2018 du 17 avril 2018 consid. 3.2.2.1).
+En
+matière civile, le défenseur d'office peut être amené à accomplir dans le cadre
+du procès des démarches qui ne sont pas déployées devant les tribunaux, telles que
+recueillir des déterminations de son client ou de la partie adverse ou encore rechercher une transaction.
+De telles opérations doivent également être prises en compte (ATF 122 I 1 consid. 3a ;
+ATF 117 la 22 consid. 4c et les réf. citées). Cependant, le temps consacré à la défense
+des intérêts du client et les actes effectués ne peuvent être pris en considération
+sans distinction. Ainsi, le juge peut d'une part revoir le temps de travail allégué par l'avocat,
+s'il l'estime exagéré en tenant compte des caractéristiques concrètes de l'affaire,
+et ne pas rétribuer ce qui ne s'inscrit pas raisonnablement dans le cadre de l'accomplissement de
+sa tâche ; d'autre part, il peut également refuser d'indemniser le conseil pour des opérations
+qu'il estime inutiles ou superflues (TF 8C_278/2020 consid. 4.3 ; CREC 2 juin 2015/208 consid. 3b/ba).
+c)
+En
+l’espèce, c’est manifestement à juste titre que l’autorité inférieure
+de surveillance a considéré que les opérations de la recourante n’étaient pas
+toutes justifiées par l’accomplissement de sa tâche. Ainsi, 3 heures pour rédiger
+une plainte courte et simple (quatre pages et demie, y compris la page de garde) et préparer une
+audience d’une heure et 20 minutes est bien compté, étant précisé que ce temps
+ne comporte pas l’entretien préalable avec la cliente, d’une heure et 20 minutes, décompté
+à part. Quant aux multiples courriels explicatifs envoyés à la cliente jusqu’au
+22 juin 2020 et qui totalisent 2 heures, il était justifié de considérer qu’ils
+n’étaient pas tous nécessaires et de les ramener à une heure au total, soit 12 minutes
+environ par courriel. La cause était simple en fait et en droit. En outre, en dehors des courriels
+précités, dont la durée est ramenée à 1 heure, la liste d’opérations
+indique d’autres contacts entre l’avocat et la cliente jusqu’au 22 juin 2020 (des téléphones
+de 30 minutes des 6 mai et 3 juin 2020, ainsi qu’un entretien de plus d’une 1 heure et 30
+minutes le 16 juin 2020). La recourante a ainsi eu suffisamment de temps pour s’entretenir avec
+sa cliente et lui fournir des explications nécessaires à sa cause, étant rappelé
+que l'avocat n'a pas droit à l'indemnisation de contacts illimités avec son client, dont les
+courriels font précisément partie. Seuls les contacts nécessaires à la défense
+des intérêts du mandataire sont indemnisables (TF 5D_1/2009 du 13 février 2009 consid.
+2.3.4 et 2.4; CCUR 30 mai 2016/104 consid. 4.2; CREC 2 août 2016/295 consid. 3.2).
+Il s’ensuit que les réductions opérées sur la note d’opérations de la
+recourante échappent à la critique, cela d’autant plus que la première juge a inclus
+des opérations qui auraient pu être retranchées, à savoir des opérations antérieures
+à l’octroi de l’assistance judiciaire (des 29 avril 2020 et 1 mai 2020, totalisant 1
+heure et 20 minutes).
+IV.
+En conclusion, le recours
+doit être rejeté et la décision confirmée.
+Le présent arrêt est rendu sans frais judiciaires ni dépens (art. 20a al. 2 ch. 5 LP ;
+art. 61 al. 2 let. a et 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus
+en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me R.________
+‑
+Mme E.________
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
