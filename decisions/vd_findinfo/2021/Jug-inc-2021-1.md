@@ -1,0 +1,404 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2021___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2021 / 1"
+decided: "2021-04-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8371435"
+cites_law: ["switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-112.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-005.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-063.md", "switzerland/bund/acts/272/art-084.md", "switzerland/bund/acts/272/art-104.md", "switzerland/bund/acts/272/art-125.md", "switzerland/bund/acts/272/art-132.md", "switzerland/bund/acts/272/art-221.md", "switzerland/bund/acts/272/art-237.md", "switzerland/bund/acts/272/art-239.md"]
+---
+
+# VD Findinfo Jug-inc / 2021 / 1
+
+## Regeste
+
+CONDITION DE RECEVABILITÉ | 125 let. a CPC (CH), 221 CPC (CH), 237 CPC (CH), 5 al. 1 let. d CPC (CH), 59 al. 2 CPC (CH), 63 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 29.04.2021 Jug-inc / 2021 / 1
+
+CONDITION DE RECEVABILITÉ | 125 let. a CPC (CH), 221 CPC (CH), 237 CPC (CH), 5 al. 1 let. d CPC (CH), 59 al. 2 CPC (CH), 63 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+CO20.004815
+COUR
+CIVILE
+_________________
+Décision
+rendue dans la cause divisant
+O.________
+,
+à [...], d’avec
+L.________
+,
+à [...],
+P.________
+,
+à [...], et
+H.________
+,
+à [...].
+___________________________________________________________________
+Du
+29 avril 2021
+______________
+Composition
+:               Mme KUHNLEIN, présidente
+MM. Meylan et Kaltenrieder, juges
+Greffier
+:
+Mme Bron
+*****
+Statuant à huis clos, la Cour considère :
+En fait et en droit :
+Vu la requête de conciliation déposée
+le 31 juillet 2019 devant le juge délégué de la Chambre patrimoniale cantonale par la
+demanderesse O.________ contre les défendeurs L.________, P.________ et H.________, dont les conclusions
+sont les suivantes :
+"
+A
+LA FORME
+1.              Recevoir la présente
+Requête;
+AU
+FOND
+2.              Tenter de concilier
+O.________ et L.________, Monsieur P.________ et Monsieur H.________;
+3.              A défaut, délivrer
+l'autorisation de procéder pour les conclusions suivantes:
+-
+Condamner solidairement L.________, Monsieur P.________
+et Monsieur H.________ à verser à O.________ un montant de USD 720'516.65 plus intérêts
+à 5% l'an dès 15 septembre 2018.
+-
+Condamner solidairement L.________, Monsieur P.________
+et Monsieur H.________ en tous les frais judiciaires et dépens de l'instance. ",
+vu le prononcé du 30 décembre 2019 rendu par la juge déléguée de la Chambre
+patrimoniale cantonale qui a déclaré l’irrecevabilité de la requête de conciliation
+du 31 juillet 2019 pour raison d’incompétence
+ratione
+materiae
+,
+vu le courrier du 3 février 2020 par lequel la demanderesse a réintroduit sa requête de
+conciliation du 31 juillet 2019 devant la cour de céans pour valoir acte introductif d’instance
+d’une demande en paiement,
+vu l’avis du 2 mars 2020 par lequel le juge délégué de la Cour civile a notifié
+l’écriture du 3 février 2020 aux défendeurs, a imparti un délai au 3 avril
+2020 au défendeur H.________ pour déposer une réponse et a informé les autres défendeurs
+qu’un délai leur serait fixé ultérieurement pour déposer leur réponse,
+vu
+la requête incidente intitulée « demande de limitation de la procédure à
+la question de la recevabilité » déposée le 15 juillet 2020 par le défendeur
+au fond et requérant à l'incident H.________ (ci-après le requérant) à l'encontre
+de la demanderesse au fond et intimée à l'incident O.________ (ci-après l'intimée),
+dont les conclusions, avec suite de frais et dépens, sont les suivantes:
+«
+1.
+Limiter la procédure à la question de la recevabilité (art. 125 lit. A CPC) ;
+2.
+a.              déclarer la soi-disant
+Demande du 3 février 2020 d’ATOS AG irrecevable ;
+subsidiairement :
+b.              rendre une décision
+incidente quant à la recevabilité de la soi-disant Demande du 3 février 2020 d’O.________
+(art. 237 CPC) ;
+et
+c.              dans la mesure où
+une décision avec force de chose jugée confirmant la recevabilité de la Demande du 3 février
+2020 d’O.________ est rendue, impartir un nouveau délai de pas moins de 30 jours à H.________
+pour se déterminer sur le fond de ladite demande ;
+très subsidiairement
+3.
+Prolonger le délai de réponse de H.________ de 30 jours
+»,
+vu
+l’avis du 15 juillet 2020, par lequel le juge délégué a notifié la requête
+à l'intimée ainsi qu’aux défendeurs au fond L.________ et P.________, leur a imparti
+un délai au 17 août 2020 pour déposer des déterminations et les a informés que
+de nouveaux délais de réponse seraient fixés ultérieurement,
+vu
+l'avis du 15 juillet 2020, par lequel le juge délégué a imparti au requérant un délai
+prolongé au 17 août 2020 pour effectuer l'avance de frais de
+900
+fr.,
+vu
+le courrier du 20 juillet 2020 par lequel le requérant a demandé au juge délégué
+que son avis du 15 juillet 2020 relatif à l’avance de frais soit annulé,
+vu
+le courrier du 24 juillet 2020 par lequel les défendeurs au fond L.________ et P.________ ont informé
+le juge délégué qu’ils avaient des motifs d’irrecevabilité à soulever,
+autres que ceux figurant dans la requête du
+15
+juillet 2020, en relation notamment avec des procédures déposées par l’intimée
+en Hongrie qui porteraient sur des faits identiques,
+vu
+l’avis du 28 juillet 2020 par lequel le juge délégué a invité l’intimée
+à se déterminer sur la question de la limitation de la procédure et sur les questions
+de recevabilité soulevées par le requérant, et a informé les défendeurs au fond
+qu’ils pourraient faire valoir leurs éventuels moyens d’irrecevabilité dans le
+délai de réponse qui leur serait cas échéant imparti ultérieurement,
+vu
+le courrier des défendeurs au fond L.________ et P.________ du 6 août 2020 par lequel ils ont
+déclaré se rallier aux arguments soulevés par le requérant concernant la limitation
+de la procédure ainsi que concernant les questions de recevabilité,
+vu
+le courrier de l’intimée du 7 août 2020 par lequel elle a consenti à limiter la
+procédure à la question de la recevabilité et sollicité que cette question soit examinée
+pour l’ensemble des moyens qui pourraient être soulevés par les défendeurs au fond,
+vu
+le courrier du requérant du 10 août 2020 par lequel il s’est opposé à cette
+manière de procéder,
+vu
+le courrier du requérant du 14 août 2020 par lequel il a demandé une prolongation de délai
+pour effectuer l’avance de frais,
+vu
+l’avis du 18 août 2020 par lequel le juge délégué a indiqué au requérant
+que le délai pour l’avance de frais serait refixé ultérieurement, une fois que le
+principe de l’examen des moyens d’irrecevabilité serait tranché,
+vu
+l’avis du 13 janvier 2021 par lequel le juge délégué a fixé un délai aux
+défendeurs au fond L.________ et P.________ au 3 février 2021, prolongé au 18 mars 2021,
+pour faire valoir tous leurs moyens d’irrecevabilité, et a informé les parties qu’un
+délai serait ensuite imparti à l’intimée pour se déterminer sur l’ensemble
+des moyens invoqués,
+vu
+les déterminations du 18 mars 2021 des défendeurs au fond L.________ et P.________ qui ont
+conclu principalement à l’irrecevabilité de la demande du 3 février 2020, subsidiairement
+à la suspension de la procédure en cas de recevabilité de la demande du 3 février
+2020, et plus subsidiairement à la limitation de la procédure à la question de la prescription
+des prétentions de la demanderesse au fond en cas de recevabilité de la demande et de refus
+de la suspension de la procédure,
+vu
+l’avis du 25 mars 2021 par lequel le juge délégué a notifié les déterminations
+du 18 mars 2021 à l’intimée en lui fixant un délai au 12 avril 2021, prolongé
+au 26 avril 2021, pour se déterminer, et par lequel il a informé les parties que les requêtes
+subsidiaires et plus subsidiaires tendant respectivement à la suspension de la procédure ainsi
+qu’à la limitation de cette dernière à la question de la prescription seraient examinées
+le cas échéant ultérieurement, une fois jugée la question de la recevabilité
+de la demande,
+vu
+les déterminations du 26 avril 2021 de l’intimée qui a conclu au rejet des moyens d’irrecevabilité
+invoqués par les parties défenderesses au fond,
+vu
+les pièces au dossier,
+vu
+les art. 5, 59, 63, 125, 221 et 404 CPC (Code de procédure civile du 19 décembre 2008;
+RS 272);
+attendu que la compétence de la Cour civile pour le procès au fond, au vu des motifs invoqués
+par la demanderesse, découle de l’art. 5 al. 1 let. d CPC, applicable en matière
+de litiges relevant de la loi fédérale du 19 décembre 1986 contre la concurrence déloyale
+lorsque la valeur litigieuse dépasse 30'000 fr., et de l’art. 74 al. 3 LOJV (loi
+vaudoise d'organisation judiciaire du 12 décembre 1979; BLV 173.01),
+que la cour de céans est compétente pour statuer par une décision incidente au sens de
+l’art. 237 al. 1 CPC sur une conclusion tendant au constat de l’irrecevabilité de la
+demande (art. 43 al. 1 let. b du Code de droit privé judiciaire vaudois du 12 janvier 2010,
+a
+contrario
+; BLV 211.01) ;
+attendu qu'aux termes de l'art. 125 al. 1 let. a CPC, le tribunal peut, pour simplifier le procès,
+notamment limiter la procédure à des questions ou des conclusions déterminées,
+que la limitation de la procédure à des questions ou conclusions déterminées recouvre
+deux hypothèses, à savoir en premier lieu celle où il s'agit de trancher une question
+préjudicielle qui peut permettre de mettre fin au procès
+(p.ex.
+la légitimation) et en second lieu les questions qui ont trait à la recevabilité, telles
+que la question de la capacité d'être partie et les autres conditions mentionnées à
+l'art. 59 CPC (Haldy,
+in
+Bohnet et al. [éd.], Code de procédure civil commenté, Bâle 2011, n. 5 ad. art.
+125 CPC),
+que la décision du tribunal de limiter la procédure à des questions ou des conclusions
+déterminées peut être prise d'office ou sur requête d'une partie au procès (Haldy,
+op. cit., Bâle 2011, nn. 4 ad. art. 125 CPC; Gschwend/ Bornatico, Schweizerische Zivilprozessordnung,
+Bâle 2013, n. 3 ad art. 125),
+que si l'une des parties souhaite limiter la procédure à une telle conclusion ou question déterminée,
+elle devra solliciter le juge de façon à ce que celui-ci ordonne cette limitation (Haldy, op.
+cit., n. 5 ad. art. 125 CPC),
+qu'en l'espèce, le requérant considère qu’il convient de statuer sur les motifs
+d’irrecevabilité invoqués avant toute démarche au fond,
+que, pour ce faire, il a déposé le 14 juillet 2020 une écriture intitulée « demande
+de limitation de la procédure à la question de la recevabilité »,
+que l’intimé et les défendeurs au fond ont consenti à limiter dans un premier temps
+la procédure à la question de la recevabilité ;
+attendu qu'en vertu de l'art. 59 CPC, le tribunal n'entre en matière que sur les demandes et les
+requêtes qui satisfont aux conditions de recevabilité de l'action (al. 1),
+que la liste des conditions énumérées à l’art. 59 al. 2 CPC n’est pas
+exhaustive,
+que cette disposition n’indique en particulier pas si l’existence d’une demande en
+justice non viciée constitue une condition de recevabilité (Bohnet,
+in
+Bohnet et al. [éd.], Code de procédure civil commenté, Bâle 2011, n. 70 ad.
+art. 59 CPC),
+que la doctrine est partagée, certains auteurs relevant que l’existence d’une demande
+valable serait une condition de l’intervention du juge (Bohnet, op. cit., n. 70 ad. art. 59
+CPC),
+qu’une partie de la doctrine considère qu’il faut tout d’abord déterminer
+si l’acte est existant ou non et, s’il est existant, distinguer suivant que le vice dont
+il est entaché est irréparable ou réparable au sens de l’art. 132 CPC (Bohnet, op.
+cit., n. 70 ad. art. 59 CPC),
+qu’en l’espèce, le requérant soutient que la demande est irrecevable dans la mesure
+où les faits n’auraient pas été allégués dans un mémoire de demande
+au sens de l’art. 221 al. 1 let. d CPC, que seule la requête de conciliation déposée
+devant la Chambre patrimoniale le 31 juillet 2019 a été notifiée aux parties, et que cette
+écriture ne contiendrait en outre pas de conclusions satisfaisant aux exigences de l’art.
+221 al. 1 let. b CPC,
+qu’il ne prétend pas que la demande litigieuse n’existe pas, mais bien plutôt qu’elle
+est affectée de vices qui ne pourraient être réparés en vertu de l’art. 132
+CPC,
+qu’il convient dès lors d’entrer en matière et de procéder à l’examen
+de la recevabilité de cette écriture ;
+attendu
+que l’art. 221 al. 1 CPC prévoit que la demande déposée en justice en procédure
+ordinaire, doit contenir des allégations de fait détaillées permettant de préciser
+les preuves offertes pour chaque fait et de faciliter les déterminations du défendeur (let.
+d),
+que le tribunal doit faire respecter d’office cette exigence sous peine d’irrecevabilité,
+le cas échéant après avoir fixé à la partie un délai pour remédier
+à la formulation déficiente (Tappy,
+in
+Bohnet et al. [éd.], Code de procédure
+civil commenté, Bâle 2011, n. 18 ad. art. 221 CPC),
+que
+l'allégation globale d'un ensemble de faits par simple référence aux pièces produites
+n'est pas suffisante
+(TF
+4A_309/2013 du 16 décembre 2013 consid. 3),
+qu’un
+ensemble de faits passé entièrement sous silence dans les mémoires, même s'il peut
+être reconstitué par l'étude des pièces, n'est pas valablement introduit dans le
+procès (TF 4A_309/2013 du 16 décembre 2013 consid. 3),
+que
+l’art. 221 al. 1 CPC prévoit également que la demande doit contenir des conclusions permettant
+de déterminer la nature et l’objet de l’action (Tappy, op. cit., n. 12 ad art. 221 CPC),
+que
+les conclusions doivent être formulées de telle sorte qu’en cas d’admission de
+la demande, elles puissent être reprises telles quelles dans le dispositif du jugement et que celui-ci
+puisse être exécuté (ATF 137 III 617 consid. 4.3 ; Bohnet, op. cit., n.13 ad art.
+84 CPC),
+que
+des conclusions insuffisantes ne sont pas des vices réparables au sens de l’art. 132 CPC (TF
+4A_375/2015 du 26 janvier 2016 consid. 7.2),
+qu’en
+l’espèce, l’écriture déposée le 3 février 2020 devant la cour de
+céans consiste en un courrier et un chargé de pièces comprenant notamment la requête
+de conciliation déposée le 31 juillet 2019 devant la Chambre patrimoniale cantonale, ainsi
+que la décision d’irrecevabilité rendue le 30 décembre 2019 par la juge déléguée
+de cette autorité,
+qu’aucun
+mémoire de demande contenant une liste de faits allégués et de moyens de preuve offerts
+au sens de l’art. 221 CPC n’a été déposé devant la cour de céans
+et n’a dès lors été notifié aux parties défenderesses au fond,
+que
+la requête de conciliation du 31 juillet 2019 contient, elle, des allégués accompagnés
+de moyens de preuve ainsi qu’une conclusion adressée à l’autorité alors saisie
+consistant en la demande de concilier les parties, et à défaut, de délivrer une autorisation
+de procéder pour une prétention en paiement;
+attendu
+que l'art. 63 al. 1 CPC dispose que si l'acte introductif d'instance retiré ou déclaré
+irrecevable pour cause d'incompétence est réintroduit dans le mois qui suit le retrait ou la
+déclaration d'irrecevabilité devant le tribunal ou l'autorité de conciliation compétent,
+l'instance est réputée introduite à la date du premier dépôt de l'acte,
+que l'art. 63 CPC est applicable à tous les cas d'incompétence régis par le CPC,
+qu'il s'agisse de règles de compétence
+ratione
+loci
+ou
+ratione
+materiae
+(TF 4A_592/2013 du 4 mars 2014 consid.
+3.2, RSPC 2014 p. 322 ; ATF 141 III 481 consid. 3.2.4),
+que selon la jurisprudence, pour bénéficier de l’effet rétroactif de la litispendance
+prévu par l’art. 63 al. 1 CPC, le demandeur doit réintroduire l’écriture qui
+avait été initialement déposée et ce, en original et en temps utile auprès de
+l’autorité qu’il tient pour compétente (ATF 145 III 428 ; ATF 141 III 481),
+que cela vaut aussi lorsque le premier acte introduit consiste en une requête de conciliation remise
+à une autorité de conciliation matériellement incompétente, en tout cas lorsque la
+requête en question satisfaisait aux exigences d’une demande (ATF 145 III 428),
+que le demandeur est libre de joindre une lettre d'accompagnement explicative à l’écriture
+nouvellement déposée, qui peut, en particulier, contenir des explications sur le fait que l'affaire
+a été initialement portée devant une autorité qui n'était pas compétente
+et que l’écriture est redéposée auprès de l'autorité qui est réputée
+compétente (ATF 141 III 481),
+qu’en l’espèce, l’intimée a déposé devant la cour de céans
+l’original de l’écriture déposée devant la Chambre patrimoniale cantonale,
+accompagné d’une lettre explicative mentionnant qu’il procédait ainsi, dans le
+délai de l’art. 63 CPC, à la réintroduction de la requête de conciliation du
+31 juillet 2019 pour valoir acte introductif d’instance d’une demande en paiement à
+l’encontre des parties défenderesses conformément à la conclusion no 3 de l’écriture,
+que cette conclusion permet d’identifier l’objet de la réclamation de l’intimée
+qui agit en condamnation des parties défenderesses (art. 221 al. 1 let. b CPC),
+que l’écriture redéposée contient en outre des allégués de fait au sens
+de l’art. 221 al. 1 let. d CPC,
+que c’est donc à juste titre que l’intimée a déposé l’original
+de la requête de conciliation du 31 juillet 2019 et non une nouvelle demande en paiement ayant la
+même teneur que dite requête de conciliation,
+que retenir le contraire constituerait un acte de formalisme excessif,
+que
+la demande déposée par l’intimée devant la Cour civile le 3 février 2020 est
+ainsi recevable sous l'angle de l'art. 59 CPC;
+attendu
+que les frais judiciaires pour la présente décision, arrêtés à
+600
+fr., sont mis à la charge du requérant et des défendeurs au fond qui succombent, solidairement
+entre eux (art. 104 al. 2 CPC ; art. 4 al. 1, 28, 29 al. 3 et 51 du tarif des frais judiciaires
+en matière civile du 28 septembre 2010 ; BLV 270.11.5),
+que
+le requérant et les défendeurs au fond, solidairement entre eux, verseront un montant de 3'000
+fr. à l’intimé, à titre de dépens pour les frais nécessaires et les débours
+de son représentant professionnel (art. 2 al. 1, 3, 4 et 19 du tarif des dépens en matière
+civile du 23 novembre 2010 ; BLV 270.11.6) ;
+attendu qu'en vertu de l'art. 112 LTF (Loi sur le Tribunal fédéral du
+17
+juin 2005 ; RS 173.110), les décisions prises en instance cantonale unique selon les art. 5
+ss CPC doivent être communiquées par écrit, une communication orale suivie d'une motivation
+écrite selon les art. 239 al. 1 et 2 CPC étant exclue et la réserve du droit cantonal
+prévue à l'art. 112 al. 2 LTF ne s'appliquant pas non plus, dès lors que le domaine de
+la procédure civile ne relève plus du droit cantonal (Staehelin
+in
+Sutter-Somm
+et alii
+(éd.),
+ZPO-Kommentar, 2e éd. 2013, n. 38 ad art. 239 CPC; Oberhammer, Basler Kommentar ZPO, n. 10 ad art. 239
+CPC; Gasser/Rickli, Schweizerische Zivilprozessordnung, Kurzkommentar, Zurich 2010, n. 4 ad art. 239
+CPC; contra : Tappy, op. cit., nn. 24-25 ad art. 239 CPC),
+que la présente décision est par conséquent motivée d'office.
+*
+* * * *
+Par
+ces motifs,
+la
+Cour civile,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La demande déposée le 3 février 2020 par O.________ est recevable.
+II.
+Les frais judiciaires du présent prononcé, arrêtés à 600 fr. (six cents francs),
+sont mis à la charge de H.________, L.________ et P.________, solidairement entre eux.
+III.
+H.________, L.________ et P.________, solidairement
+entre eux, verseront à O.________ le montant de 3'000 fr. (trois mille francs), à titre de
+dépens.
+La
+Présidente :              Le greffier:
+C.
+Kühnlein              M. Bron
+Du
+Le jugement qui précède, lu et approuvé à huis clos, prend date de ce jour. Il est
+notifié, par l'envoi de photocopies, aux conseils des parties.
+Le présent jugement peut faire l’objet d’un recours en matière civile devant le
+Tribunal fédéral au sens des art. 72 ss et 90 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral,
+RS 173.110), cas échéant d
+’un
+recours constitutionnel subsidiaire au sens des art. 113 ss LTF. Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100 al. 1 LTF).
+Le greffier :
+M. Bron
