@@ -1,0 +1,179 @@
+---
+decision_id: "vd_findinfo_Faillite___2021___13"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2021 / 13"
+decided: "2021-05-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8292236"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md"]
+---
+
+# VD Findinfo Faillite / 2021 / 13
+
+## Regeste
+
+RESTITUTION DU DÉLAI, RETARD, MOTIVATION DE LA DEMANDE, DÉCISION D'IRRECEVABILITÉ | 174 al. 1 LP, 174 al. 2 LP, 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 31.05.2021 Faillite / 2021 / 13
+
+RESTITUTION DU DÉLAI, RETARD, MOTIVATION DE LA DEMANDE, DÉCISION D'IRRECEVABILITÉ | 174 al. 1 LP, 174 al. 2 LP, 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF20.042700-210492
+70
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+31 mai 2021
+__________________
+Composition
+:              M.
+Hack
+,
+président
+Mmes
+Byrde et Rouleau, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+174 al. 1 et 2 LP ; 321 al. 1 CPC
+Vu la requête de faillite du 30 octobre 2020 déposée auprès du Tribunal d’arrondissement
+de La Côte par
+E.________
+,
+à Pully, contre
+P.________
+,
+à Nyon,
+vu le courrier recommandé du 4 novembre 2020 par lequel la Présidente du tribunal saisi a communiqué
+cette requête à P.________ et convoqué les parties à une audience fixée au 7
+décembre 2020,
+vu le relevé de La Poste attestant que le pli contenant ce courrier a été notifié
+à P.________ le 6 novembre 2020,
+vu le jugement rendu le 7 décembre 2020 par la
+Présidente
+du Tribunal d’arrondissement de La Côte, statuant par défaut des parties, prononçant
+la faillite de P.________ (I) et mettant les frais, par 200 fr., à sa charge (II),
+vu le relevé de La Poste attestant que le pli contenant ce jugement a été notifié
+à P.________ le 8 décembre 2020,
+vu la clôture du dossier et la restitution des pièces aux parties intervenues le 21 janvier
+2021,
+vu le courrier daté du 4 mars 2021 et posté le 5 mars 2021, intitulé « demande
+de restitution de délai », dans lequel P.________ indique qu’il n’a pas reçu
+la convocation à l’audience et demande une suspension de la procédure de faillite « afin
+de reprendre en main [son] activité d’indépendant »,
+vu la décision rendue le 8 mars 2020 par laquelle la Présidente du Tribunal d’arrondissement
+de La Côte a déclaré irrecevable, pour cause de tardiveté, la demande de restitution
+de délai présentée par P.________ le 5 mars 2021,
+vu la nouvelle requête de restitution de délai déposée le 16 mars 2021 par P.________,
+qui explique avoir réglé la poursuite à l’origine de la faillite et avoir « trouvé
+un équilibre » pour pouvoir concilier son activité d’indépendant et son
+emploi de jardinier auprès de [...],
+vu le courrier du 18 mars 2021 par lequel la Présidente du tribunal a imparti à P.________
+un délai au 26 mars 2021 pour qu’il indique si son courrier du 16 mars 2021 devait être
+considéré comme un recours,
+vu le courrier déposé le 26 mars 2021 au greffe du tribunal d’arron-dissement par
+P.________
+dans lequel celui-ci confirme que sa lettre du 16 mars 2021 « fait l’objet d’un
+recours au tribunal cantonal »,
+vu la transmission du dossier par le Tribunal d’arrondissement de La Côte à la Cour de
+céans, autorité de recours, le 26 mars 2021,
+vu les autres pièces du dossier ;
+attendu que la voie du recours des art. 319 ss CPC (Code de procédure civile ; RS 272) est ouverte
+contre la décision déclarant irrecevable ou rejetant la requête de restitution de délai
+en vue d’obtenir la tenue d’une nouvelle audience de faillite (CPF 30 décembre 2020/354 ;
+CPF 5 mars 2018/26),
+qu’en procédure
+sommaire, le délai de recours est de dix jours dès la notification de la décision attaquée
+(art. 321 al. 2 CPC),
+qu’en l’espèce, P.________ a confirmé, dans le délai qui lui a été
+imparti à cet effet, que son écriture du 16 mars 2021 devait être considéré
+comme un recours,
+qu’en tant que le
+recours aurait pour objet l’annulation de la faillite – le recourant invoquant avoir payé
+la poursuite à l’origine de celle-ci – et serait donc dirigé contre le jugement
+du 7 décembre 2020, il est largement tardif et, par conséquent, irrecevable,
+qu’en
+tant qu’il est dirigé contre la décision du 8 mars 2021, le recours a été déposé
+en temps utile ;
+attendu que la partie qui entend user d'une voie de droit a la charge de se conformer à certaines
+règles de forme, à défaut de quoi sa démarche sera frappée d'irrecevabilité
+(Jeandin,
+in
+Bohnet
+et al.
+(éd.), Commentaire romand, Code de procédure civile, 2
+e
+éd., n. 1
+ad
+art. 321 CPC),
+que, pour
+être
+recevable, le recours doit être motivé (art. 321 al. 1
+in
+initio
+CPC),
+que si la motivation fait défaut, l’instance de recours n’entre pas en matière,
+que selon la jurisprudence du Tribunal fédéral, la motivation du recours doit à tout le
+moins satisfaire aux exigences qui sont posées pour un acte d’appel (TF 5A_488/2015 du 21
+août 2015 consid. 3.2.1 et 3.2.2, publié
+in
+RSPC 6/2015 pp. 512 s., et les arrêts cités),
+que cela signifie que le recourant doit démontrer le caractère erroné de la motivation
+de la décision attaquée et que son argumentation doit être suffisam-ment explicite pour
+que l’instance de recours puisse la comprendre, ce qui suppose une désignation précise
+des passages de la décision qu’il attaque et des pièces du dossier sur lesquelles il
+fonde sa critique (ibid.),
+qu'en l'espèce, dans son écriture du 16 mars 2021, le recourant se borne à expliquer avoir
+réglé la poursuite à l’origine de la faillite et avoir « trouvé un
+équilibre » professionnel,
+que, ce faisant, il ne formule aucun grief contre la décision du 8 mars 2021 dont le seul objet
+est la constatation du fait que sa requête de restitution de délai du 5 mars 2021 était
+tardive, et donc irrecevable,
+que, faute de motivation conforme, le recours est irrecevable ;
+attendu qu’au demeurant, même s’il était recevable, le recours devrait être
+considéré comme manifestement infondé et, par conséquent, rejeté,
+qu'il apparaît en effet que le jugement de faillite a été notifié au recourant le
+8 décembre 2020 et que même si, comme il l’affirme, P.________ n’avait pas été
+valablement convoqué à l’audience du 7 décembre 2020 – ce qui n’est
+pas le cas puisqu’il a reçu la convocation le 6 novembre 2020 – l’intéressé
+disposait d’un délai de dix jours à compter de la réception dudit jugement pour
+déposer une requête de restitution de délai en application de l’art. 148 CPC,
+que sa requête du 5 mars 2021 était dès lors très largement tardive et donc irrecevable ;
+attendu que le présent arrêt peut être rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. P.________.
+Le présent arrêt peut faire l'objet d'un recours en matière
+civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral – RS 173.110). Ce recours doit être déposé devant le Tribunal
+fédéral dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte.
+La greffière :
