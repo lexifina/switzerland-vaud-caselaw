@@ -1,0 +1,457 @@
+---
+decision_id: "vd_findinfo_Faillite___2021___11"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2021 / 11"
+decided: "2021-06-01"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8298942"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-053.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-248.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-253.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-168.md", "switzerland/bund/acts/281.1/art-172.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-293.md", "switzerland/bund/acts/281.1/art-293a.md", "switzerland/bund/acts/281.1/art-293d.md", "switzerland/bund/acts/281.1/art-294.md", "switzerland/bund/acts/281.1/art-296b.md", "switzerland/bund/acts/281.1/art-348.md"]
+---
+
+# VD Findinfo Faillite / 2021 / 11
+
+## Regeste
+
+NOUVEAU MOYEN DE PREUVE, SURSIS CONCORDATAIRE, OUVERTURE DE LA FAILLITE, DROIT D'ÊTRE ENTENDU | 168 LP, 293a al. 1 LP, 293a al. 3 LP, 326 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 01.06.2021 Faillite / 2021 / 11
+
+NOUVEAU MOYEN DE PREUVE, SURSIS CONCORDATAIRE, OUVERTURE DE LA FAILLITE, DROIT D'ÊTRE ENTENDU | 168 LP, 293a al. 1 LP, 293a al. 3 LP, 326 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FV20.044638-210321
+104
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+1
+er
+juin
+2021
+_________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Rouleau, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+168, 293a al. 1 et 3 LP ; 326 al. 1 et 2 CPC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+S.________
+,
+à [...], contre la décision rendue le 8 février 2021 par le Président du Tribunal
+d’arrondissement de la Broye et du Nord vaudois dans la cause en sursis concordataire provisoire
+le concernant.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Par
+acte du 7 octobre 2020, J.________ SA a requis du Président du Tribunal d’arrondissement de
+la Broye et du Nord vaudois qu’il prononce la faillite de S.________, qui exploite une entreprise
+individuelle ayant pour but les «
+conseils
+dans le domaine du pilotage des systèmes de [...]
+»
+A l’appui de sa requête, elle a produit
+les pièces suivantes :
+-
+une copie d’un commandement de payer les sommes de 1) 80'386 fr. 40 avec intérêt à
+5 % l’an dès le 9 décembre 2019, 2) 1'080 fr. 80 sans intérêt, 3) 3'640 fr.
+sans intérêt et 4) 12'360 fr. 10 sans intérêt, notifié à S.________ le
+12 décembre 2019 dans la poursuite n° 9'419’666 de l’Office des poursuites du district
+du Gros-de-Vaud, frappé d’opposition totale, indiquant comme titre de la créance ou cause
+de l’obligation :
+« 1.
+Primes LAMal 01.2014-09.2019
+2. Primes et part. LAMal 02.2014-05.2019
+3. Frais administratifs
+4. Intérêts échus » ;
+-
+une copie d’une commination de faillite notifiée à S.________ le 26 février 2020
+par l’Office des poursuites du district de Gros-de-Vaud sur réquisition de J.________ SA dans
+le cadre de la poursuite n° 9'419'666 susmentionnée.
+b)
+Par courrier recommandé du 9 octobre 2020,
+le président a cité les parties à comparaître à l’audience de faillite
+du 10 novembre 2020.
+2.
+a)
+Par acte du 9 novembre 2020, S.________, par
+son conseil, a indiqué qu’il déposerait à l’audience du lendemain une requête
+de sursis concordataire tendant à l’ajournement du jugement de faillite. Il a produit les
+pièces suivantes :
+-
+une procuration ;
+-
+une copie d’un courrier adressé le 8 novembre 2020 par le conseil de S.________ à J.________
+SA lui demandant un entretien pour trouver une solution permettant d’éviter la faillite de
+son client et le règlement de l’entier des arriérés de primes et lui communiquant
+un exposé établi à sa demande par S.________ de sa situation professionnelle présente
+et future ;
+-
+une copie d’un «
+Etat
+des contrats et des factures
+» établi
+le 6 novembre 2020 par S.________, faisant état de quatre contrats écrits en cours d’exécution,
+pour un total de 99'353 fr. payables entre le 6 novembre 2020 et le 31 janvier 2021 et cinq contrats
+oraux en cours d’exécution pour un montant de 115'670 fr. payables entre le 6 novembre 2020
+et le 31 janvier 2021 ; aucune pièce justifiant de l’existence de ces contrats n’était
+jointe ;
+-
+une copie d’un courriel de J.________ SA au conseil de S.________ du 9 novembre 2020, indiquant
+ne pas donner une suite favorable à la demande d’arrangement de paiement dans le cadre de
+la procédure de faillite susmentionnée.
+b)
+A l’audience de faillite du 10 novembre 2020, J.________ SA ne s’est pas présentée.
+Il ressort du procès-verbal que les comparants ont été entendus, puis que S.________ a
+déposé une requête de sursis concordataire provisoire ce qui a entraîné le «
+renvoi
+»
+de l’audience. Les conclusions de la requête sont les suivantes :
+« I.
+La requête est admise.
+II.              Un sursis concordataire
+provisoire d’une durée de quatre mois est accordé au requérant S.________.
+III.              L’agent d’affaires
+breveté Jean-Daniel NICATY, av. Mon-Repos 14, à 1005 Lausanne, est désigné comme
+commissaire au sursis concordataire provisoire.
+IV.              Un délai est cas
+échéant imparti au requérant S.________ pour produire un bilan et un compte de pertes
+et profits des activités de sa raison individuelle.
+IV. (sic)              Il est renoncé
+à rendre public le sursis concordataire provisoire jusqu’à son échéance. ».
+En plus des pièces déjà produites avec le courrier du 9 novembre 2020, S.________ a produit
+un extrait de registre du commerce concernant sa raison individuelle.
+Par courrier recommandé du 13 novembre 2020, le greffe du tribunal d’arrondissement a demandé
+à S.________, par son conseil, le paiement d’une avance de frais de 4'000 fr. dans un délai
+échéant le 3 décembre 2020 et l’a invité à déposer dans le même
+délai un bilan et un compte de pertes et profits des activités de la raison individuelle.
+L’avance de frais a été payée le 27 novembre 2020.
+Par courrier du 3 décembre 2020, S.________, par son conseil a sollicité une prolongation au
+30 janvier 2021 du délai de production d’un bilan et d’un compte de pertes et profits
+des activités de sa raison individuelle.
+Par courrier du 4 décembre 2020, le greffe du tribunal d’arrondissement a accordé à
+S.________ une ultime prolongation au 15 janvier 2021, en indiquant que faute de production des pièces
+requise le 13 novembre 2020, il ne serait pas entré en matière sur sa requête ; puis,
+le 21 janvier 2021, ledit délai a été prolongé au 1
+er
+février 2021, sur requête du conseil de S.________.
+Le 1
+er
+février 2021, le conseil de S.________ a constaté que son client ne lui avait pas remis les
+documents requis et, supposant une incapacité d’agir en raison de problèmes de santé,
+a requis une prolongation de délai de quinze jours «
+pour
+le cas où son client serait atteint dans sa santé. »
+Aucune pièce n’a été produite par ledit conseil ou le client attestant d’une
+telle atteinte.
+3.
+Par décision du 8 février 2021, notifiée
+au conseil de S.________ le 16 février 2021, le Président du Tribunal d’arrondissement
+de la Broye et du Nord vaudois, statuant en tant qu’autorité de première instance en
+matière sommaire de poursuites, a rejeté la requête de sursis concordataire provisoire
+du 10 novembre 2020 (I), a prononcé la faillite de S.________ avec effet au 8 février
+2021 à 9 heures (II), a arrêté les frais judiciaires à 200 fr. et les a mis à
+la charge de S.________ (III). En substance le premier juge a relevé que S.________ avait attendu
+le dernier moment pour déposer sa requête, que cette dernière était incomplète
+dans la mesure où elle n’était accompagnée d’aucun bilan ni compte de pertes
+et profits ou tout autre document officiel présentant l’état complet de son patrimoine
+et ses résultats actuels et futurs, ni d’un plan d’assainissement provisoire, et que
+S.________ n’avait pas satisfait à sa demande de production de pièces. Il a en conséquence
+considéré que la requête n’était pas motivée à satisfaction de l’art.
+293 let. a LP, ce qui entraînait son rejet et le prononcé de faillite.
+4.
+Par acte du 26 février 2021, S.________,
+par son conseil, a recouru contre cette décision en concluant, avec suite de frais et dépens,
+principalement à sa réforme en ce sens qu’un sursis concordataire de quatre mois lui
+est accordé, l’agent d’affaires breveté Nicaty étant désigné comme
+commissaire au sursis, et qu’il est renoncé à rendre public le sursis accordé. Subsidiairement,
+le recourant a conclu à l’annulation du chiffre II du dispositif de la décision et au
+renvoi de la cause au premier juge afin qu’il fixe une audience de faillite. Il a requis l’octroi
+de l’effet suspensif au recours et a produit un bordereau de trois pièces.
+Par décision du 4 mars 2021, le président de la cour de céans a rejeté la requête
+d’effet suspensif.
+L’intimée ne s’est pas déterminée dans le délai qui lui a été
+imparti.
+En droit
+:
+I.
+a)aa)
+La procédure sommaire s'applique aux
+décisions rendues en matière de concordat (art. 251 let. a CPC [Code de procédure civile
+du 19 décembre 2008; RS 272]). La voie du recours des art. 319 ss CPC est ouverte, à l'exclusion
+de celle de l'appel, contre ces décisions (art. 309 let. b ch. 7 et 319 let. a CPC).
+En vertu de l'art. 293d LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la
+faillite ; RS 281.1), l'octroi du sursis provisoire et la désignation d'un commissaire provisoire
+ne peuvent pas faire l'objet d'un recours. Cela signifie que les créanciers n'ont aucune voie de
+recours dans le cadre du sursis provisoire. Cela est dû au fait que la procédure est unilatérale ;
+les créanciers ne sont pas auditionnés (Message, in Feuille fédérale [FF] 2010 VI
+p. 5898). On déduit cependant a contrario de la même disposition que le refus de sursis provisoire
+peut faire l'objet d'un recours du débiteur - voire du créancier (art. 293 let. b LP) - dont
+la requête a été rejetée (Hunkeler, Kurzkommentar SchKG, 2e éd., n. 5 ad art.
+293d LP ; CPF 9 juillet 2015/187).
+bb)
+En
+l’espèce, le recours a été déposé dans le délai de dix jours de l’art.
+321 al. 2 CPC. Motivé conformément à l’art. 321 al. 1 CPC, il est recevable.
+b)aa)
+Selon
+l’art. 326 CPC, les conclusions, allégations de fait et preuves nouvelles sont irrecevables
+dans le cadre du recours (al. 1), les dispositions spéciales de la loi étant réservées
+(al. 2). En matière de concordat, la LP n’a pas prévu de régime dérogatoire
+réservé par l’art. 326 al. 2 CPC, à la différence du recours en matière
+de jugement de faillite (art. 174 al. 1 LP) et du recours en matière de sursis extraordinaire (art.
+348 al. 2 LP ; CPF 4 décembre 2020/356 ; CPF 13 mai 2015/131 ; CPF 15 janvier 2015/2).
+Le Tribunal fédéral a laissé ouverte la question de savoir si, lorsque le juge prononce
+d’office la faillite en application des art. 293a al. 3 et 294 al. 3 LP, des nova seraient admissibles
+en application de l’art. 174 al. 2 LP (TF 5A_495/2016 du 11 novembre 2016 consid. 3.2.4). Quant
+à la cour de céans, elle considère que le prononcé de la faillite n’est dans
+ce cas qu’un effet secondaire de la décision prise en matière de concordat et que si
+le recours ne porte pas sur le prononcé de faillite mais sur la décision refusant l’octroi
+d’un sursis concordataire, la production de pièces nouvelles n’était pas possible
+(CPF 4 décembre 2020/356 ; CPF 23 février 2018/8).
+bb)
+En
+l’espèce, le recours s’en prend principalement au refus du sursis, le prononcé
+de faillite n’étant attaqué que pour un vice de procédure. Le recourant ne s’attache
+pas à démontrer que les conditions de l’art. 174 al. 2 LP étaient réalisées
+mais soutient principalement que le sursis aurait dû être accordé. Les pièces produites
+à l’appui des recours tendent à compléter la requête de sursis provisoire conformément
+aux réquisitions du premier juge et n’ont pas pour but d’établir la solvabilité
+du recourant application de l’art. 174 al. 2 LP. Elles sont donc irrecevables.
+II.
+a)
+Le recourant invoque l’inopportunité
+du rejet de la requête de sursis concordataire provisoire. Il se déclare «
+conscient
+d’avoir tardé à procéder devant l’autorité de première instance
+»,
+et produit diverses pièces dont il faudrait déduire que son entreprise peut être assainie
+et ses créanciers désintéressés.
+b)
+Aux termes de l’art. 293 let. a LP, la procédure concordataire est introduite par la requête
+du débiteur, accompagnée des documents suivants : un bilan à jour, un compte de résultats
+et un plan de trésorerie ou d’autres documents présentant l’état actuel et
+futur de son patrimoine, de ses résultats ou de ses revenus ainsi qu’un plan d’assainissement
+provisoire.
+Lorsque la procédure est introduite à la requête du débiteur, l'art. 293 let. a LP,
+contrairement à l'ancien art. 293 al. 1 LP, n'exige pas du requérant qu'il produise un projet
+de concordat. Il doit toutefois motiver sa requête en fournissant autant de détails qu'il le
+peut, afin que le juge puisse statuer en toute connaissance de cause. Selon le Message (FF 2010 VI p.
+5896), le juge du concordat statue – en procédure sommaire (art. 251 let. a CPC) – sur
+l'octroi du sursis provisoire immédiatement après l'introduction de la requête ou après
+le transfert du dossier par la juge de la faillite (art. 293a al. 1 LP). Il vérifie d'office l'existence
+des conditions d'un sursis concordataire. Il n'est pas tenu d'auditionner les créanciers. Les conditions
+posées à l'octroi du sursis ne doivent pas être trop strictes. C'est uniquement lorsqu'il
+constate qu'il n'existe manifestement aucune perspective d'assainissement ou d'homologation d'un concordat
+que le juge du concordat ouvre la faillite (art. 293a al. 3 LP). Il fait de même dans les cas énumérés
+à l'art. 296b LP (sursis définitif). Dans les deux cas, le juge du concordat ouvre d'office
+la procédure de faillite ; cette solution présente l'avantage d'avoir supprimé l'obligation
+qui était faite aux créanciers dans l'ancien droit de requérir la faillite et les conséquences
+financières qui en découlaient (avance de frais, responsabilité pour les frais de faillite ;
+Message, op. et loc. cit. et p. 5901 ; CPF 5 juillet 2017/153 ; CPF 9 juillet 2015/187).
+Selon l’art. 293a LP, le juge du concordat accorde sans délai un sursis provisoire et arrête
+d’office les mesures propres à préserver le patrimoine du débiteur. Le juge prononce
+d’office la faillite s’il n’existe manifestement aucune perspective d’assainissement
+(al. 3). L’absence manifeste de toute perspective d’assainissement ou d’homologation
+d’un concordat prévue par l’art. 293a al. 3 LP constitue à la fois la cause du
+refus du sursis provisoire et celle de la faillite ; mise à part le cas où il estime que la
+requête de sursis provisoire doit être rejetée parce que prématurée ou abusive,
+le juge n’a pas d’autre alternative à l’octroi de ce sursis que le prononcé
+de la faillite, et il n’a pas à examiner d’autres conditions à cette fin (ATF 142
+III 364 consid. 2.3 et les réf. cit. ; TF 5A_950/2015 du 29 septembre 2016 consid. 8.2.1).
+Sous l’empire du nouvel art. 293a LP, les conditions d’octroi d’un sursis provisoire
+sont ainsi nettement amoindries et le sursis ne doit être refusé que dans les cas où il
+serait inutile, car il n’existe manifestement aucune perspective d’assainissement (Hunkeler,
+op. cit., n. 4 ad art. 293a LP). Pour le surplus, c’est dans la période de sursis provisoire,
+de quatre mois au maximum, que les perspectives (positives) d’assainissement doivent être
+éclaircies (Hunkeler, op. cit., n. 25 ad 293-336 LP). Ainsi le débiteur ne doit plus rendre
+vraisemblable les perspectives d’assainissement, mais seulement – dans le sens d’une
+condition négative – qu’il n’existe pas «
+manifestement
+aucune perspective d’assainissement
+»
+(Hunkeler, op. cit., n. 18 ad art. 293 LP). Il doit ainsi seulement démontrer qu’il peut être
+compté de manière réaliste avec quelques chances d’assainissement, même si
+la vraisemblance d’un tel assainissement est clairement moindre que la vraisemblance d’un
+échec (Hunkeler, op. cit., n. 19 ad art. 293 LP). Il doit exposer dans les grandes lignes la manière
+dont le financement de la phase de sursis sera assurée (Hunkeler, op. cit., n. 22 ad art. 293 LP).
+L’art. 294 al. 1 LP dispose que si, durant le sursis provisoire, des perspectives d’assainissement
+ou d’homologation d’un concordat apparaissent, le juge du concordat octroie définitivement
+un sursis de quatre à six mois. S’il n’existe aucune perspective d’assainissement
+ou d’homologation d’un concordat, le juge prononce d’office la faillite (art. 294 al.
+3 LP).
+c)
+En
+l’espèce, à l’appui de sa requête de sursis concordataire, le recourant a
+produit en première instance un «
+Etat
+des contrats et des factures
+» établi
+le 6 novembre 2020 par ses soins, faisant état de quatre contrats écrits en cours d’exécution,
+pour un total de 99'353 fr. payables entre le 6 novembre 2020 et le 31 janvier 2021 et cinq contrats
+oraux en cours d’exécution pour un montant de 115'670 fr. payables entre le 6 novembre 2020
+et le 31 janvier 2021. Ce document, établi par le recourant, n’était accompagné
+par aucune pièce susceptible d’étayer les allégations qu’il contenait. Au
+surplus, le recourant n’a pas donné suite dans le délai prolongé à cet effet
+à la réquisition du premier juge de production d’un bilan et du compte de pertes et profits,
+alors que ces documents sont exigés par l’art. 293 let. a LP. Contrairement à ce que
+soutient le recourant, cette carence n’interdisait pas au premier juge de prononcer la faillite
+malgré le fait que celui-ci n’était pas en mesure de déterminer s’il n’existait
+aucune perspective d’assainissement. En effet, il appartenait en premier lieu au recourant de produire
+les documents exigés par l’art. 293 let. a LP et, au surplus, de démontrer qu’il
+pouvait être compté de manière réaliste avec quelques chances d’assainissement.
+Or la production d’une seule pièce faisant état de contrats, dépourvue de tout annexe
+alors que certains de ces contrats ont été prétendument conclus par écrit, est dépourvue
+de force probante et ne vaut que comme allégation de partie. C’est donc à raison que
+le tribunal de première instance a rejeté la requête de sursis provisoire déposée
+lors de l’audience de faillite, le recourant n’ayant pas produit ni avec sa requête,
+ni dans le délai de presque deux mois, les pièces exigées par la loi. Il n’y a donc
+pas d’inopportunité en l’occurrence.
+Quant aux pièces nouvellement produites, elles ne justifient pas un réexamen de ce point, puisqu’elles
+sont irrecevables.
+Le recours doit être rejeté sur ce point.
+III.
+a)
+Le recourant invoque que c’est à
+tort que sa faillite a été prononcée en application de l’art. 293a al. 3 LP. Le
+fait qu’il n’a effectivement pas produit de pièces dans le délai imparti, prolongé
+au 1
+er
+février 2021, avait pour conséquence que le juge de première instance, dépourvu des
+documents requis, n’était pas en mesure de déterminer s’il existait manifestement
+aucune perspective d’assainissement ou d’homologation d’un concordat. Au surplus, s’il
+est vrai que le juge était en droit de rejeter sa requête de sursis sans fixer de nouvelle
+audience, il aurait dû fixer une nouvelle audience de faillite, ce qu’il n’a pas fait.
+L’art. 168 LP aurait été violé.
+b)
+La procédure sommaire, réglée
+par les art. 248 ss CPC, s'applique aux décisions rendues en matière de faillite (art. 251
+let. a CPC). En application de l'art. 253 CPC, lorsque la requête ne paraît pas manifestement
+irrecevable ou infondée, le tribunal donne à la partie adverse l'occasion de se déterminer
+oralement ou par écrit. Dans le même sens, l'art. 168 LP prévoit que le juge saisi d'une
+réquisition de faillite avise les parties des jour et heure de son audience au moins trois jours
+à l'avance ; elles peuvent s'y présenter ou s'y faire représenter. Ces dispositions
+concrétisent le droit d'être entendu des parties, garanti par l'art. 53 CPC ainsi que par les
+art. 29 al. 2 Cst (Constitution fédérale de la Confédération suisse du 18 avril 1999,
+RS 101) et 6 § 1 CEDH (Convention européenne de sauvegarde des droits de l'homme et des libertés
+fondamentales du 4 novembre 1950, RS 101) (Haldy, in Bohnet et alii (éd.), Commentaire romand, Procédure
+civile, 2
+e
+éd., 2019, nn. 1 à 5 ad art. 53 CPC ; Bohnet, in Commentaire romand précité,
+n. 2 ad art. 253 CPC ; Klinger, in Sutter-Somm/Hasenböhler/Leuenberger (éd.) Kommentar
+zur Schweizerischen Zivilprozessordnung, 3
+e
+éd., 2016 n. 1 ad art. 253 CPC).
+Le Tribunal fédéral a précisé que l'avis aux parties de l'audience de faillite avant
+la tenue de celle-ci (art. 168 LP) est une condition formelle de la décision de faillite. Si cet
+avis n'a pas lieu, le droit des parties d'être entendues, protégé par l'art. 29 al. 2
+Cst., est violé, car il découle de ce droit notamment le droit d'être cité régulièrement
+aux débats. Cette garantie a pour but d'assurer à chaque partie le droit de ne pas être
+condamnée sans avoir été mise en mesure de défendre ses intérêts (ATF 131
+I 185 consid. 2.1; ATF 117 Ib 347 consid. 2b/bb et les références ; TF 5A_466/2012 du 4 septembre
+2012 consid. 4.1.2). En particulier, le débiteur est privé de la possibilité de prouver
+les faits qui doivent conduire au rejet de la réquisition de faillite (art. 172 LP). L'atteinte
+causée par le défaut d'une citation valablement notifiée est d'une gravité telle
+qu'elle ne peut pas être réparée devant l'instance de recours ; si cette atteinte est
+réalisée, la cause doit être renvoyée à l'autorité de première instance
+(ATF 138 III 225 précité consid. 3.3 et les références ; TF 5A_466/2012 consid. 4.1.2
+précité ; CPF 30 janvier 2020/20).
+b)
+Dans
+l’arrêt CPF 9 juillet 2015/187, invoqué par le recourant, la cour de céans a relevé
+que le texte allemand des art. 293a et 296b LP parlait, non de prononcer la faillite, mais d’ouvrir
+la procédure de faillite (consid. IIa in fine). Elle a considéré que, lorsqu’une
+requête de faillite était déposée par un créancier, que les parties avaient
+été citées à comparaître à l’audience de faillite et que celle-ci
+avait été annulée avant sa tenue en raison du dépôt par le débiteur d’une
+requête de sursis concordataire, le juge qui rejetait la requête de sursis en application de
+l’art. 293a al. 3 LP, devait fixer à nouveau une audience de faillite pour se conformer à
+l’art. 168 LP. Elle a en outre relevé que le juge de première instance aurait pu maintenir
+l’audience de faillite telle qu’elle avait été fixée et, si le sursis paraissait
+possible, ajourner d’office le jugement de faillite et transmettre le dossier au juge du concordat
+ou, si le sursis ne paraissait pas possible, prononcer la faillite à l’issue de l’audience
+(consid. IIb).
+c)
+En
+l’espèce, l’audience de faillite du 10 novembre 2020 a été tenue et la mention
+du procès-verbal selon laquelle cette audience a été renvoyée est donc erronée.
+Les comparants ont été entendus ; puis le recourant a déposé une requête
+de sursis provisoire ; après avoir clos l’audience, le premier juge a fixé le 13 novembre
+2020 un délai au 3 décembre 2020, prolongé au 15 janvier, puis au 1
+er
+février 2021, au requérant pour produire un bilan et un compte de pertes et profits des activités
+de son entreprise. Dans ces circonstances l’exigence posée par l’art. 168 LP est ainsi
+remplie. Le droit d’être entendu du recourant dans la procédure de faillite a ainsi,
+à la différence de l’arrêt du 9 juillet 2015/187 susmentionné, été
+respecté. Le recourant n’a pas d’ailleurs pas fait valoir, ni a fortiori établi
+lors de cette audience ni à l’appui de son recours, que les dettes faisant l’objet de
+la commination de faillite dans la poursuite n° 9'419’666 de l’Office des poursuites
+du district du Gros-de-Vaud, avaient été réglées en capital, intérêts et
+frais ou que J.________ SA lui avait accordé un sursis à la date de cette audience (art. 172
+ch. 3 LP). Le prononcé de faillite est donc bien fondé et doit être confirmé.
+Le recours doit donc être rejeté sur ce point.
+IV.
+En conclusion, le recours doit être rejeté
+et le jugement confirmé.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 300
+fr., doivent être mis à la charge du recourant (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant S.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Laurent Savoy, avocat (pour S.________),
+-
+M. le Préposé à l'Office des poursuites du district du Gros-de-Vaud,
+-
+Mme la Préposée à l'Office des faillites de l'arrondissement de la Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de la Broye – Nord vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de la Broye et du Nord vaudois.
+Le greffier :
