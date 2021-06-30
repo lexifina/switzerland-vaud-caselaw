@@ -1,0 +1,150 @@
+---
+decision_id: "vd_findinfo_Plainte___2021___23"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2021 / 23"
+decided: "2021-06-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8338661"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md"]
+---
+
+# VD Findinfo Plainte / 2021 / 23
+
+## Regeste
+
+EFFET SUSPENSIF, MOTIVATION DE LA DÉCISION, DROIT D'ÊTRE ENTENDU | 29 al. 2 Cst.
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 30.06.2021 Plainte / 2021 / 23
+
+EFFET SUSPENSIF, MOTIVATION DE LA DÉCISION, DROIT D'ÊTRE ENTENDU | 29 al. 2 Cst.
+
+TRIBUNAL
+CANTONAL
+FA21.203014-210996
+29
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+30 juin 2021
+__________________
+Composition
+:               M.
+Hack
+,
+président
+M.
+Giroud Walther, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+29 al. 2 Cst.
+La Cour des poursuites et faillites du Tribunal
+cantonal, statuant à huis clos en sa qualité d'autorité de recours en matière sommaire
+de poursuites, s'occupe du recours exercé par
+A.________
+,
+à Chardonne, p.a. à Genève, contre le la décision rendue le 4 juin 2021 par
+la
+Présidente du Tribunal d’arrondissement de l’Est vaudois, rejetant la requête d’effet
+suspensif déposée par le recourant dans le cadre de la procédure de plainte le divisant
+d’avec l
+’
+Office
+des poursuites du district de La Riviera – Pays-d’Enhaut
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Par acte daté 21 mai 2021, reçu le 28 mai 2021 au Tribunal d’arron-dissement de l’Est
+vaudois, A.________ a déposé plainte au sens de l’art. 17 LP (loi fédérale
+sur la poursuite pour dettes et la faillite ; RS 281.1) contre quatre avis de saisie établis le
+14 mai 2021 par l’Office des poursuites du district de La Riviera – Pays-d’Enhaut.
+Par décision du 4 juin 2021, la Présidente du Tribunal d’arrondissement de l’Est
+vaudois a rejeté la requête d’effet suspensif contenue dans la plainte. Cette décision
+a été notifiée au plaignant le 10 juin 2021.
+2.
+Par acte daté du 18 et posté le 21 juin 2021, A.________ a recouru contre cette décision,
+concluant notamment à son annulation.
+En droit :
+I.
+Le recours a été déposé en temps utile, dans le délai de dix jours de l’art.
+18 al. 1 LP.
+II.
+a)
+A
+l’appui de sa conclusion en annulation, le recourant invoque entre autres griefs une violation
+de son droit à être entendu, au motif que la décision dont est recours n’est pas
+motivée.
+b)
+Le
+droit
+d’être entendu garanti par les art. 29 al. 2 Cst. (Constitution fédérale du 18 avril
+1999 ; RS 101) et 6 CEDH (Convention du 4 novembre 1950 de sauvegarde des droits de l’homme
+et des libertés fondamentales ; RS 0.101) implique l'obligation pour le juge de motiver sa
+décision afin que le justiciable puisse la comprendre, la contester utilement s'il y a lieu et que
+l'autorité de recours puisse exercer son contrôle. Il suffit que le juge mentionne, au moins
+brièvement, les motifs qui l'ont guidé et sur lesquels il a fondé sa décision, de
+manière à ce que l'intéressé puisse saisir la portée de celle-ci et l'attaquer
+en connaissance de cause (ATF 133 III 439 consid. 33, p. 445 et les arrêtés cités). Il
+n'a pas l'obligation d'exposer et de discuter tous les faits, moyens de preuve et griefs invoqués
+par les parties, mais peut se limiter à ceux qui lui paraissent pertinents (ATF 138 I 232 consid. 5.1).
+En revanche, une autorité se rend coupable d’un déni de justice formel si elle omet de
+se prononcer sur des griefs qui présentent une certaine pertinence ou de prendre en considération
+des allégués et arguments importants pour la décision à prendre (ATF 141 V 557 consid.
+3.2.1).
+c)
+En l’espèce, la décision du 4 juin 2021 ne contient absolument aucune motivation. On
+ignore donc tout des motifs qui ont conduit le premier juge à rejeter la requête d’effet
+suspensif. Le recours est donc bien fondé.
+IV.
+En conséquence, le recours est admis et la décision entreprise annulée. La cause est renvoyée
+au premier juge pour qu’il rende une nouvelle décision motivée, préjudiciellement
+à une éventuelle décision sur la plainte.
+Le présent arrêt
+est rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est admis.
+II.
+La décision du 4 juin 2021 est annulée et la cause renvoyée à la Présidente
+du Tribunal d’arrondissement de l’Est vaudois pour qu’elle procède dans le sens
+des considérants.
+III.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. A.________,
+-
+M. le Préposé à l’Of
+fice
+des poursuites du district de La Riviera – Pays-d’Enhaut.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d’arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
