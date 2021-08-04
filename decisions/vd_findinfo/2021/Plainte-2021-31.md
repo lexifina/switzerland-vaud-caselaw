@@ -1,0 +1,120 @@
+---
+decision_id: "vd_findinfo_Plainte___2021___31"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2021 / 31"
+decided: "2021-08-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8396352"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-020a.md"]
+---
+
+# VD Findinfo Plainte / 2021 / 31
+
+## Regeste
+
+PROCÈS DEVENU SANS OBJET | 18 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 04.08.2021 Plainte / 2021 / 31
+
+PROCÈS DEVENU SANS OBJET | 18 LP
+
+TRIBUNAL
+CANTONAL
+FA21.004308-210749
+25
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+4 août 2021
+__________________
+Composition
+:              M.
+Hack
+,
+président
+Mme
+Byrde et M. Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Vu la décision rendue le 28 avril 2021 par le Président du Tribunal d’arrondissement
+de l’Est vaudois, autorité inférieure de surveillance en matière de poursuite pour
+dettes et de faillite, rejetant la plainte déposée le 28 janvier 2021 par
+V.________
+et
+X.________
+,
+en [...], contre la décision rendue le 15 janvier 2021 par l’
+Office
+des poursuites du district de La Riviera - Pays-d'Enhaut
+,
+tendant à l’institution d’une gérance légale sur le bien-fonds dont les plaignants
+sont propriétaires en communauté (société simple) à [...], séquestré
+par ordonnances du 14 décembre 2020 rendues par le Juge de paix du district de La Riviera-Pays-d’Enhaut
+à la requête de
+W.________SA
+,
+représentée par [...] KmG, à Zurich, et révoquant l’effet suspensif accordé
+le 4 février 2021,
+vu le recours déposé le 10 mai 2021 par V.________ et X.________ contre cette décision,
+vu la décision du Président de la cour de céans du 12 mai 2021, rejetant la requête
+d’effet suspensif contenue dans le recours,
+vu la lettre adressée à la cour de céans le 1
+er
+juin 2021 par le conseil des recourants, indiquant qu’un accord était intervenu la veille
+entre ses mandants et la créancière séquestrante, comprenant notamment le retrait par
+celle-ci de ses requêtes de séquestre,
+vu la lettre adressée par le même conseil à la cour de céans le 15 juin 2021, indiquant
+que l’accord amiable intervenu avait été intégralement exécuté, la créancière
+ayant notamment retiré ses requêtes de séquestre et demandant que la cause, devenue ainsi
+sans objet, soit rayée du rôle ;
+attendu que le retrait des requêtes de séquestre rend effectivement sans objet la présente
+cause,
+qu’il y a donc lieu de la rayer du rôle,
+que la procédure de plainte étant gratuite, la présente décision est rendue sans
+frais ni dépens (art. 20a al. 2 ch. 5 LP ; art. 61 al. 2 let. a et 62 al. 2 OELP [ordonnance
+sur les émoluments perçus en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est sans objet.
+II.
+La cause est rayée du rôle.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Valentin Marmillod, avocat (pour V.________ et X.________),
+‑
+[...] KmG (pour W.________SA
+),
+‑
+M. le Préposé à l'Office des poursuites du district de La Riviera – Pays-d’Enhaut.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
