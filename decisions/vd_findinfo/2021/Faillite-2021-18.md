@@ -1,0 +1,278 @@
+---
+decision_id: "vd_findinfo_Faillite___2021___18"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2021 / 18"
+decided: "2021-08-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8424537"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-138.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-042.md", "switzerland/bund/acts/281.1/art-168.md", "switzerland/bund/acts/281.1/art-172.md"]
+---
+
+# VD Findinfo Faillite / 2021 / 18
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, CITATION À COMPARAÎTRE, AUDIENCE DE FAILLITE, PRINCIPE DE LA BONNE FOI | 168 LP, 174 al. 1 LP, 138 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 27.08.2021 Faillite / 2021 / 18
+
+OUVERTURE DE LA FAILLITE, CITATION À COMPARAÎTRE, AUDIENCE DE FAILLITE, PRINCIPE DE LA BONNE FOI | 168 LP, 174 al. 1 LP, 138 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF21.009545-210540
+196
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+27 août 2021
+___________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Giroud Walther, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+168 et 174 al. 1 LP ; 138 CPC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+E.________
+,
+à [...], contre le jugement rendu par défaut des parties le 25 mars 2021, à la suite de
+l’audience du même jour, par le Président du Tribunal d’arrondissement de Lausanne,
+prononçant la faillite du recourant à la requête de
+N.________SA
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 26 février 2021, N.________SA a adressé au Tribunal d’arron-dissement de Lausanne
+(ci-après : le tribunal) une requête de faillite contre E.________. Elle a produit notamment
+le commandement de payer du 5 décembre 2017 notifié le 13 décembre 2017 à l’intimé,
+à l’adresse «
+C/[...],
+[...] 31 B, [...]
+», et la commination
+de faillite du 18 novembre 2020 notifiée le 28 décembre 2020 – après plusieurs
+tentatives de distribution infructueuses - à l’intimé, à l’adresse «
+[...] 16 A, [...]
+»,
+dans la poursuite n° 8’516'948 de l’Office des poursuites du district de Lausanne.
+Par citation du 3 mars 2021 envoyée en courrier recommandé, les parties ont été citées
+à comparaître à l’audience de faillite du 25 mars 2021, à 9 heures. Le
+pli destiné à l’intimé, expédié à l’adresse «
+C/[...],
+[...] 31 B,
+[...]
+»
+contenait également la requête de faillite. Il est venu en retour au greffe du tribunal avec
+la mention «
+A déménagé.
+Délai de réexpédition expiré
+»,
+le 9 mars 2021. Le procès-verbal des opérations mentionne à cette date :
+«
+Selon
+RCpers., a déménagé à la [...] 16a à [...]. Renvoi en REC à cette nouvelle
+adresse.
+».
+2.
+A l’issue de l’audience du 25 mars
+2021, à laquelle personne ne s’est présenté, le Président du tribunal, constatant
+que la requête et les pièces produites étaient conformes aux réquisits légaux
+et que l’intimé n’avait pas justifié par titre que la créance avait été
+acquittée en capital, frais et intérêts, ou qu’un sursis lui avait été
+accordé, a prononcé la faillite d’E.________, le jour même, à 11 heures 35,
+et a mis les frais, par 200 fr., à la charge du failli.
+Le jugement a été adressé aux parties le même jour et notifié au failli le 6
+avril 2021.
+3.
+Par acte du 6 avril 2021, E.________ a recouru
+contre le jugement de faillite, concluant à l’octroi de l’effet suspensif à son
+recours, à sa réintégration dans la libre disposition de ses biens, à la constatation
+de la violation de l’art. 42 al. 2 LP «
+dès
+lors que la réquisition de continuer la poursuite a été faite plus d’un an et demi
+avant l’inscription au RC
+», à
+l’annulation de la décision du 25 mars 2021 et au renvoi de la cause à l’autorité
+précédente. Il a produit quatre pièces nouvelles.
+Par prononcé du 8 avril 2021, le Président de la cour de céans a admis la requête
+d’effet suspensif et ordonné, à titre de mesures conservatoires, l’inventaire et
+l’audition du failli.
+Le 21 avril 2021, l’Office des faillites de l’arrondissement de Lausanne a produit le procès-verbal
+de l’interrogatoire du recourant du 9 avril 2021.
+Le 27 avril 2021, le recourant a reçu le courrier recommandé du 19 avril 2021 contenant l’extrait
+des poursuites le concernant ; il ne s’est pas déterminé sur cette pièce dans le
+délai de dix jours dont il disposait.
+Par avis du greffe de la cour de céans du 11 juin 2021 que l’intimée a reçu le 14,
+un délai de dix jours a été imparti à celle-ci pour répondre au recours. Elle
+n’a pas procédé.
+En droit :
+I.
+En vertu de l'art. 174 al. 1, 1
+re
+phrase, LP (loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1), la décision
+du juge de la faillite peut, dans les dix jours, faire l'objet d'un recours au sens du CPC (Code de procédure
+civile ; RS 272). Selon l'art. 321 al. 1 CPC, le recours s'exerce par le dépôt d'un acte
+écrit et motivé, introduit auprès de l'instance de recours.
+En l’espèce, le recours a été déposé en temps utile et dans les formes
+requises. Il est recevable.
+Les pièces nouvelles sont également recevables (art. 174 al. 1, 2
+e
+phrase
+LP).
+II.
+Dans un premier grief, le recourant fait valoir
+que la citation à l’audience de faillite ne lui aurait pas été valablement notifiée
+et que, par ailleurs, il ne devait pas s’attendre à être intimé à une nouvelle
+requête de faillite (en lien avec la commination de faillite du 20 décembre 2020) dès
+lors qu’il avait formé une plainte 17 LP invoquant la nullité de la réquisition
+de continuer la poursuite et qu’il n’avait pas encore été statué sur cette
+plainte.
+a) aa)
+L'avis aux parties de l'audience de faillite
+avant la tenue de celle-ci (art. 168 LP) est une condition formelle de la décision de faillite.
+Si cet avis n'a pas lieu, le droit des parties d'être entendues, protégé par l'art. 29
+al. 2 Cst. (Constitution fédérale ; RS 101), est violé, car il découle de ce
+droit notamment le droit d'être cité régulièrement aux débats. Cette garantie
+a pour but d'assurer à chaque partie le droit de ne pas être condamnée sans avoir été
+mise en mesure de défendre ses intérêts (ATF 131 I 185 consid. 2.1; ATF 117 Ib 347 consid.
+2b/bb et les références ; TF 5A_466/2012 du 4 septembre 2012 consid. 4.1.2). En particulier,
+le débiteur est privé de la possibilité de prouver les faits qui doivent conduire au rejet
+de la réquisition de faillite (art. 172 LP). L'atteinte causée par le défaut d'une citation
+valablement notifiée est d'une gravité telle qu'elle ne peut pas être réparée
+devant l'instance de recours; si cette atteinte est réalisée, la cause doit être renvoyée
+à l'autorité de première instance (ATF 138 III 225 consid. 3.3 et les références).
+bb)
+A teneur de l'art. 138 al. 1 CPC, les citations doivent être notifiées par envoi recommandé
+ou d'une autre manière contre accusé de réception. Un acte est notamment réputé
+notifié en cas d'envoi recommandé, lorsque celui-ci n’a pas été retiré
+à l'expiration d'un délai de sept jours à compter de l'échec de la remise, si le
+destinataire devait s'attendre à recevoir la notification (art. 138 al. 3 let. a CPC). La fiction
+de notification valant en cas d'envoi recommandé ne s'applique toutefois pas à l'avis de l'audience
+de faillite (art. 168 LP ; ATF 138 III 225 consid. 3 ; TF 5A_466/2012 précité consid.
+4.1.1). En effet, la procédure de faillite n'est pendante qu'à partir de la réquisition
+de faillite et le devoir des parties de se comporter selon la bonne foi ne naît qu'après la
+création du rapport de procédure en découlant (ATF 138 III 225 consid. 3.2 ; TF 5A_466/2012
+consid. 4.1.1 précité).
+b)
+En l'espèce, la requête de faillite et la citation à comparaître à l'audience
+de faillite ont d’abord été envoyées sous pli recommandé au recourant à
+son ancienne adresse «
+C/[...]
+». Au retour de cet envoi avec la mention «
+a
+déménagé
+», le 9 mars
+2021, le greffe du tribunal, selon le procès-verbal des opérations, a renvoyé ce courrier
+recommandé à la nouvelle adresse du recourant «
+Rte
+d’Oron 16a
+». Ce dernier ne le
+conteste pas ; au contraire, il admet avoir été informé le 10 mars 2020 par un courriel
+de la Poste qu’un envoi recommandé était tenu à sa disposition à l’office
+de poste dès le lendemain, jusqu’au 17 mars suivant. Il n’allègue pas non plus
+ne pas avoir réclamé le pli. Il n’y a d’ailleurs pas trace au dossier d’un
+retour de ce pli « non réclamé ». Le recourant allègue en revanche avoir
+supposé que ce pli concernait deux procédures de plainte en cours et en avoir déduit qu’il
+devait compter avec un délai de recours de dix jours dont l’échéance, tombant le
+samedi 27 mars 2021, était reportée au lundi 29 mars suivant, de sorte que c’est seulement
+à cette date qu’il a eu connaissance du fait que l’envoi recommandé en cause concernait
+une nouvelle procédure de faillite et contenait une citation à comparaître à l’audience
+du 25 mars 2021.
+On peut comprendre de ces explications que le recourant a bien retiré le pli recommandé tenu
+à sa disposition par la poste à l’échéance du délai de garde, le 17 mars
+2021, mais a considéré en substance qu’il n’avait pas à prendre connaissance
+de son contenu avant l’échéance du délai de recours contre la décision sur
+plainte qu’il pensait avoir reçue sous ce pli. Dans ces conditions, il ne saurait se prévaloir
+de bonne foi d’un défaut de notification ou de l’absence de fiction de notification :
+le pli litigieux lui a été renvoyé en recommandé à la bonne adresse et lui a
+été remis. Il lui appartenait donc de prendre connaissance de son contenu à réception,
+le 17 mars 2021 au plus tard ; à ce moment-là, il disposait encore de suffisamment de
+temps avant l’audience de faillite pour préparer sa défense (art. 168 LP). Le recourant
+doit supporter les conséquences du fait qu’il a cru à tort pouvoir deviner le contenu
+de ce pli et temporiser pour l’ouvrir. Cela ne saurait constituer un motif d’annulation du
+jugement de faillite pour violation du droit d’être entendu.
+III.
+Dans un second grief, le recourant invoque la
+nullité de la commination de faillite pour deux motifs : premièrement, la réquisition
+de continuer la poursuite aurait été formée le 30 janvier 2018, soit avant la date de
+l’inscription au Registre du commerce de l’entreprise individuelle dont il est titulaire,
+ce qui constituerait une violation de l’art. 42 al. 2 LP ; deuxièmement, la décision
+statuant sur les créances litigieuses n’aurait pas été rendue par l’intimée
+ou des personnes habilitées à la représenter, mais par « des tiers ».
+Ce grief tombe à faux. La plainte formée par le recourant le 7 janvier 2021 pour les mêmes
+motifs contre la commination de faillite a été rejetée par décision de l’autorité
+inférieure de surveillance du 14 avril 2021. Saisie d’un recours du plaignant, la cour de
+céans, en sa qualité d’autorité supérieure de surveillance, a confirmé
+cette décision par arrêt du 25 juin 2021/17 en tranchant négativement les arguments présentés
+par le recourant, sur lesquels il n’y a dès lors pas lieu de revenir.
+IV.
+Vu ce qui précède, le recours doit être rejeté et le jugement de faillite confirmé,
+la faillite d’E.________ prenant effet, vu l’effet suspensif accordé, à la date
+du présent arrêt.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., sont mis à la
+charge du recourant (art. 106 al. 1 CPC).
+Il n’y a pas lieu d’allouer des dépens de deuxième instance à l’intimée,
+qui n’a pas procédé.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite d’E.________ prenant effet, vu l’effet suspensif
+accordé, le 27 août 2021, à 16 heures 15.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant.
+IV.
+Il n’est pas alloué de dépens de deuxième instance.
+Le
+président :               La greffière
+:
+Du
+27 août 2021
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. E.________,
+‑
+N.________SA,
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
