@@ -1,0 +1,485 @@
+---
+decision_id: "vd_findinfo_Plainte___2021___32"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2021 / 32"
+decided: "2021-08-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8436602"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-144.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-031.md", "switzerland/bund/acts/281.1/art-091.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-278.md"]
+---
+
+# VD Findinfo Plainte / 2021 / 32
+
+## Regeste
+
+PLAINTE{LP}, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, MOTIVATION DE LA DEMANDE, SUSPENSION DE LA PROCÉDURE | 18 al. 1 LP, 25 LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 31.08.2021 Plainte / 2021 / 32
+
+PLAINTE{LP}, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, MOTIVATION DE LA DEMANDE, SUSPENSION DE LA PROCÉDURE | 18 al. 1 LP, 25 LPA-VD
+
+TRIBUNAL
+CANTONAL
+FA21.023014-211099
+30
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+31 août 2021
+___________________
+Composition
+:               Mme
+Rouleau
+,
+vice-présidente
+Mmes
+Byrde et Giroud Walther, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1 LP et 25 LPA-VD
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+X.________
+,
+à [...], p.a. à [...], contre les décisions rendues les 30 juin et 6 juillet 2021 par
+la Présidente du Tribunal d’arrondissement de l’Est vaudois, autorité inférieure
+de surveillance, dans le cadre de la procédure de plainte opposant le recourant à l’
+Office
+des poursuites du district de La Riviera - Pays-d'Enhaut
+,
+à Vevey.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 17 décembre 2020, dans la cause référencée « C/25960/20 », le Juge
+du séquestre du Tribunal de première instance de la République et canton de Genève
+a scellé contre X.________, à la réquisition de G.________, une ordonnance de séquestre
+n° 9'826'999 portant sur les montants de 1) 1'784'941 francs 30, avec intérêt à
+5%
+dès le 30 août 2019, et 2) 3'200 fr., avec intérêt à
+5%
+dès le 24 février 2017, et indiquant comme titres des créances : 1) «
+Jugement
+TJPI/12122/2019 du 30 août 2019 ch. 18 du dispositif (liquidation du régime matrimonial)
+»
+et 2) «
+Arrêt
+ACJC/234/2017 du 24 février 2017 (frais et dépens)
+».
+L’ordonnance mentionne comme objet à séquestrer notamment la «
+parcelle
+[...] de la Commune de [...] (canton de Vaud), no plan [...] sise [...] sur laquelle une villa de 7 pièces
+est érigée
+».
+b)
+L’Office des poursuites du district de La Riviera – Pays-d’Enhaut (ci-après :
+l’Office) a réceptionné cette ordonnance le 18 décembre 2020. Il a établi le
+procès-verbal de séquestre n° 9'826'999 et l’a adressé le 19 janvier 2021 au
+poursuivi, notamment.
+c)
+Par lettre du 22 janvier 2021, l’Office cantonal des poursuites de Genève a informé l’Office
+que le séquestre n° 9'826'999 était validé au for ordinaire par une poursuite en
+validation de séquestre déposée le 15 janvier 2021 par la créancière séquestrante
+G.________. La réquisition de poursuite jointe à cette lettre portait sur trois créances,
+respectivement de 1'784'941 fr. 30, avec intérêt à
+5%
+dès le 30 août 2019, 3'200 fr., avec intérêt à
+5%
+dès le 24 février 2017, et 9'500 fr., avec intérêt à
+5%
+dès le 17 décembre 2020, et mentionnait comme titres des créances ou causes des obligations :
+«
+-
+Liquidation du régime
+matrimonial (ch. 18 du dispositif) selon Jugement JTPI/12122/2019 du 30 août 2019
+-
+Frais (fr. 1'200.-) et dépens (fr. 2'000.-)
+selon Arrêt ACJC/234/2017 du 24 février 2017
+-
+Frais (fr. 1'500.-) et dépens (fr. 8'000.-)
+selon Ordonnance de séquestre du 17 décembre 2020 (C/25960/20)
+».
+d)
+Par lettre du 11 mars 2021 adressée à l’Office, qui l’a réceptionnée
+le 18, l’Office cantonal des poursuites de Genève a requis qu’il procède à
+la saisie, par voie d’entraide, de la parcelle RF [...] de la commune de [...], propriété
+de X.________. Par courriel du 12 avril 2021, l’office genevois a communiqué la liste
+détaillée des réquisitions de saisie par voie d’entraide, qui concernaient quatre
+poursuites, dont deux exercées à l’instance de G.________ pour des montants de 1'946'386
+fr. 60 et de 4'438 fr. 70.
+2.
+a)
+Le 14 mai 2021, l’Office a envoyé à X.________, à l’adresse que celui-ci avait
+indiquée à [...], quatre avis de saisies relatives aux quatre poursuites susmentionnées,
+l’invitant à se rendre dans ses locaux le 21 mai 2021.
+b)
+Par acte daté du 21 mai 2021, reçu le 28 mai 2021 au Tribunal d’arrondissement de l’Est
+vaudois, X.________ a déposé plainte contre les avis de saisie susmentionnés et a requis
+l’octroi de l’assistance judiciaire. Il a fait en substance valoir que des procédures
+de mainlevée étaient encore pendantes devant le tribunal de première instance de Genève
+et que, partant, «
+les
+jugements de mainlevée concernant les poursuites en cause ne sont pas passés en force de chose
+jugée, le jugement de divorce n’étant passé en force de chose jugée que le
+5 février 2021
+». Il a pris les
+conclusions suivantes :
+-
+à la forme :
+1) déclarer la plainte recevable ainsi que la requête de restitution de délai ;
+-
+préalablement :
+1)
+le dispenser d’une avance de frais et du paiement des frais et dépens éventuels, et le
+mettre au bénéfice de l’assistance judiciaire complète, Me Guisan étant désigné
+comme son avocat d’office,
+2)
+lui accorder un délai en vue de déposer ses moyens de fait ou de droit, après la nomination
+dudit avocat,
+3)
+admettre la requête de restitution de délai,
+4)
+restituer le délai de dépôt de la plainte et des pièces, cas échéant,
+5)
+écarter préjudiciellement la motivation du tribunal de première instance de Genève
+du 17 décembre 2020 et du 30 août 2019 concernant des faits non évoqués par le tribunal
+de première instance, en violation de son droit d’être entendu,
+6)
+«
+suspendre la procédure
+jusqu’à droit connu dans le cadre de la procédure de divorce faisant l’objet d’une
+demande en révision et modification du jugement de divorce actuellement pendante devant le tribunal
+de première instance (C/6952/2014 ; ACJC/1816/2020), de l’assistance judiciaire gratuite
+dans le cadre de la présente procédure et jusqu’à droit connu dans le cadre de l’opposition
+au séquestre déposée pour violation des art. 91 à 109 et 271 LP et des procédures
+de mainlevée précitées
+»,
+7)
+accorder l’effet suspensif ;
+-
+principalement :
+8)
+constater que le séquestre n’a pas porté,
+9)
+constater que les biens saisis ne sont pas saisissables au sens de l’art. 92 LP, le jugement JTPI121219
+du 30 août 2019 n’étant pas passé en force de chose jugée et étant erroné,
+10)
+annuler les avis de saisie du 14 mai 2021 non notifiés à une adresse valable,
+11)
+condamner «
+l’intimée
+»
+aux frais et dépens ;
+-
+subsidiairement :
+12)
+condamner «
+le créancier
+»
+au versement d’une sûreté.
+Par pli recommandé du 31 mai 2021, envoyé à l’adresse qu’il avait indiquée
+à [...], le plaignant a été convoqué à une audience fixée au 6 juillet
+2021 pour voir statuer sur sa plainte.
+c)
+Le 3 juin 2021, l’Office a déposé des déterminations aux termes desquelles il a
+conclu au rejet de la requête d'effet suspensif.
+Par décision du 4 juin 2021, la Présidente du Tribunal d’arrondissement de l’Est
+vaudois (ci-après : la Présidente), autorité inférieure de surveillance, a rejeté
+la requête d’effet suspensif contenue dans la plainte.
+Par décision du 10 juin 2021, elle a rejeté la requête d’assistance judiciaire du
+plaignant.
+d)
+Le
+21 juin 2021, l’Office a déposé ses déterminations sur la plainte, concluant à
+son rejet.
+e)
+Par
+arrêt du 30 juin 2021/29, la cour de céans a annulé la décision précitée
+du 4 juin 2021 au motif qu’elle ne contenait aucune motivation et a renvoyé le dossier à
+la Présidente pour qu’elle rende une nouvelle décision motivée, préjudiciellement
+à une éventuelle décision sur la plainte.
+Par arrêt du 30 juin 2021/28, la cour de céans a rejeté, dans la mesure où il était
+recevable, le recours du plaignant contre la décision précitée de la Présidente du
+10 juin 2021, qu’elle a confirmée.
+f)
+Par décision du 30 juin 2021, indiquant la voie du recours des art. 319 ss CPC (Code de procédure
+civile ; RS 272), la Présidente a rejeté la requête de suspension du plaignant et
+a informé ce dernier que l’audience du 6 juillet 2021 était maintenue.
+Lors de l’audience du 6 juillet 2021, le plaignant a déposé d’entrée de cause
+des notes de plaidoirie ainsi qu’un acte daté du 5 juillet 2021 contenant les réquisitions
+de preuve suivantes :
+«
+1. Réquisition de production par le tribunal
+d’arrondissement de l’Est vaudois de la procédure d’opposition au séquestre
+du 4 janvier 2021 (C/25960), à adresser au tribunal de première instance de Genève.
+2. Réquisition de production par le tribunal d’arrondissement de l’Est vaudois du recours
+du plaignant à la Cour de Justice de Genève contre l’ordonnance d’irrecevabilité
+du 10 mars 2021 (OSQ/14/2021), à adresser à la Cour de Justice de Genève (procédure
+C/25960/2020).
+3. Réquisition de production par le tribunal d’arrondissement de l’Est vaudois de la
+procédure 5A_55/2021 et de l’arrêt du tribunal fédéral du 4 février 2021
+dans la procédure 5A_55/2021, à adresser au tribunal fédéral.
+4. Production par le tribunal de la plainte 17 LP contre l’avis de réception de la réquisition
+de vente au 14 juin 2021, actuellement pendante devant le tribunal d’arrondissement de l’Est
+vaudois.
+5. Production de l’arrêt du tribunal cantonal du 25 juin 2021 annulant l’ordonnance
+de rejet de l’effet suspensif au 4 juin 2021.
+6.
+Réquisition
+de production par le tribunal d’arrondissement de l’Est vaudois de la procédure de mainlevée
+définitive avec la poursuivante (C3952/2021), à adresser au tribunal de première instance
+de Genève. »
+Le plaignant a par ailleurs exposé les motifs justifiant selon lui une suspension de la procédure.
+L’Office a conclu au rejet de la requête de suspension.
+Par décision rendue sur le siège, indiquant la voie du recours des art. 319 ss CPC, la
+Présidente a rejeté la requête de suspension et les réquisitions de preuve précitées.
+3.
+Par acte daté du 9 et posté le 12 juillet
+2021, X.________ a déclaré recourir contre les décisions des 30 juin et 6 juillet 2021.
+Interpellé afin de produire les décisions attaquées, qui n’étaient pas jointes
+à son recours, il s’est exécuté le 26
+juillet
+2021.
+La requête d’effet suspensif contenue dans le recours a été rejetée, par décision
+du 28 juillet 2021.
+L’Office n’a pas été invité à se déterminer sur le recours.
+En droit :
+I.
+a)
+Le
+recourant invoque l’existence d’une voie de recours au sens des art. 319 ss CPC. Il s’agit
+des voies de droit indiquées par l’autorité inférieure de surveillance sur les décisions
+des 30 juin et 6 juillet 2021, manifestement à tort, la procédure de plainte étant une
+procédure de nature administrative, régie par les art. 17 à 20a LP (loi fédérale
+sur la poursuite pour dettes et la faillite ; RS 281.1), complétée par les dispositions cantonales
+topiques, en l’occurrence celles de la loi d’application dans le canton de Vaud de la LP
+(LVLP ; BLV 280.05 ; cf. art. 20a al. 3 LP).
+La voie de recours est donc exclusivement celle de l’art. 18 LP, qui prévoit que toute décision
+de l’autorité inférieure de surveillance - par quoi il faut comprendre toute décision
+qui peut être déférée au Tribunal fédéral, à savoir non seulement
+les décisions finales mais aussi les décisions incidentes (Cometta/Möckli,
+in
+Staehelin/Bauer/Staehelin (éd.), Basler Kommentar SchKG, vol. 1, 2e éd., n. 6
+ad
+art. 18 SchKG [LP] et les réf. cit.) - peut être déférée à l’autorité
+cantonale supérieure de surveillance dans un délai de dix jours dès sa notification. Dans
+la mesure où les décisions attaquées rejettent une requête de suspension et des réquisitions
+de preuve, une voie de droit est ouverte, en application de l’art. 18 LP. Déposé dans
+les dix jours suivant la notification de la décision la plus ancienne, soit celle du 30 juin 2021,
+survenue au plus tôt le 1
+er
+juillet 2021, de sorte que l’échéance du délai de recours de dix jours, tombant
+le samedi 10 juillet 2021, était reportée au lundi 12 juillet 2021 (art. 18 al. 1
+LP et 28 al. 1 et 73 al. 3 LVLP), le recours a été formé en temps utile.
+b)
+La question de savoir si le recourant, qui
+recourt contre un rejet de requête de suspension et de réquisitions de production de pièces,
+donc contre des décisions incidentes, justifie d’un intérêt suffisant à recourir
+peut rester indécise à ce stade.
+c)
+De jurisprudence constante, l’acte de
+recours, pour être recevable, doit contenir un exposé, à tout le moins sommaire, des motifs
+et des moyens invoqués contre la décision attaquée (TF 5A_118/2018 du 7 février 2018
+consid. 4.2 ; TF 7B.61/2005 du 29 avril 2005 et la doctrine citée ; v. déjà
+ATF 29 I 507 p. 508 s.) ; la motivation du recours doit être topique, savoir se rapporter aux
+questions factuelles et juridiques tranchée par la décision attaquée (TF 5A_118/2018 précité,
+et les références citées ; cf. aussi CPF 4 novembre 2020/37).
+La question de savoir si la motivation du recours répond à ces exigences sera examinée
+plus bas (cf. infra consid. II b).
+II.
+a) aa)
+Aux
+termes de l'art. 25 LPA-VD (loi vaudoise sur la procédure administrative ; BLV 173.36), applicable
+en l'espèce à titre de droit supplétif, la LVLP ne contenant aucune disposition topique
+sur la suspension ni aucun renvoi général au CPC, l’autorité peut, d’office
+ou sur requête, suspendre une procédure administrative pour de justes motifs, notamment lorsque
+la décision à prendre dépend de l’issue d’une autre procédure ou pourrait
+s’en trouver influencée d’une manière déterminante.
+Selon la jurisprudence, la suspension de procédure comporte le risque de retarder inutilement la
+procédure, de sorte qu'elle n'est admise qu'à titre exceptionnel, eu égard à l'exigence
+de célérité posée par l'art. 29 al. 1 Cst. ([Constitution fédérale ;
+RS 101] ; voir pour la procédure de plainte LP : TF 5A_263/2021 du 18 mai 2021 ;
+ATF 130 V 90 consid. 5 ; 119 II 386 consid. 1b et les références). Le juge saisi dispose
+d'une certaine marge d'appréciation, dont il doit faire usage en procédant à une pesée
+des intérêts des parties. Il lui appartiendra notamment de mettre en balance, d'une part, la
+nécessité de statuer dans un délai raisonnable et, d'autre part, le risque de décisions
+contradictoires (TF 5A_263/2021 du 18 mai 2021 consid. 3.1 ; TF 4P.143/2003 du 16 septembre
+2003 consid. 2.2, publié
+in
+SJ 2004 I 146). Dans les cas limites, l'exigence de célérité l'emporte (ATF 135 III 127
+consid. 3.4 ; 119 II 386 consid. 1b ; TF 5A_545/2017 du 13 avril 2018 consid. 5.2 ; TF
+5A_714/2014 du 2 décembre 2014 consid. 4.2 ; TF 5A_218/2013 du 17 avril 2013 consid. 3.1).
+bb)
+Dans le premier tiers de son acte de recours
+(pp. 2-12), et dans des conclusions spécifiques (ch. VI, p. 19), le recourant requiert, en substance
+et pêle-mêle, l’octroi de l’effet suspensif, l’assistance judiciaire, la
+désignation de Me Guisan en tant qu’avocat d’office, un délai au 31 août 2021
+pour compléter son recours et produire les pièces établissant son indigence et la suspension
+de la procédure de recours jusqu’à droit connu sur sa requête d’assistance
+judiciaire ; sur le fond, il conclut à l’annulation des décisions de l’autorité
+inférieure de surveillance des 30 juin et 6 juillet 2021, à ce qu’il soit enjoint
+à cette autorité de prononcer la suspension et d’admettre ses réquisitions de preuve
+et, subsidiairement, à ce que le dossier soit renvoyé à cette autorité pour nouvelle
+décision dans le sens des considérants. Il requiert, si l’on comprend bien, la production
+de six pièces par diverses juridictions genevoises (Tribunal de première instance et Cour de
+justice) et vaudoises (Tribunal d’arrondissement de l’Est vaudois et Tribunal cantonal) ainsi
+que par le Tribunal fédéral (pp. 12-13).
+La motivation du recours, exposée avant et après l’énoncé des conclusions formelles
+en page 19, est confuse et quasi incompréhensible.
+En pages 17 et 18, le recourant soutient en résumé que le recours est recevable selon
+l’art. 319 CPC, qu’il a un intérêt à l’annulation ou à la modification
+de la décision attaquée et que la décision attaquée viole le droit ; sur ce
+point, il fait à nouveau valoir, pêle-mêle, la violation d’une série de dispositions
+légales ou de divers principes constitutionnels, soit les art. 91 ss LP, 126 ss CPC, 29 Cst. (droit
+d’être entendu), 9 Cst. (interdiction de l’arbitraire) et 36 Cst. (proportionnalité).
+Il se plaint en outre «
+de
+la violation crasse des garanties procédurales, de l’abus du pouvoir d’appréciation
+et d’autorité, de l’établissement erroné des faits, de l’absence de
+motivation suffisante
+» ; il soutient
+en particulier que la décision attaquée ne mentionne «
+aucun
+fait justifiant le refus de suspension
+».
+En pages 20 à 26, le recourant énonce encore une série de «
+motifs
+»
+(ch. VIII), puis en pages 26 à 29, une série de «
+griefs
+»
+(ch. IX), puis à nouveau une série de «
+moyens
+»
+(ch. X), difficilement compréhensibles ou sans rapport avec la décision attaquée. Ainsi,
+par exemple, le recourant motive l’octroi d’un effet suspensif (pp. 21-23), revient sur le
+refus d’octroi de l’assistance judiciaire ayant fait l’objet d’une décision
+précédente et d’un recours devant la cour de céans (p. 24), invoque à nouveau
+la violation de son droit d’être entendu, résultant selon lui d’une motivation
+insuffisante de la décision (pp. 24-26, 30) et du fait qu’il n’aurait pas pu consulter
+le dossier (p. 26), soutient que le refus d’instruire serait arbitraire (p. 32) et, enfin,
+motive l’octroi de l’assistance judicaire pour la procédure de recours (pp. 27 ss).
+b)
+En l’espèce, le plaignant a déposé
+le 21 mai 2021 une requête incidente tendant à la suspension de la procédure de plainte
+jusqu’à droit connu sur une série de procédures auxquelles il est partie, soit une
+opposition à un séquestre, une procédure de mainlevée définitive, une procédure
+de modification et de révision d’un jugement de divorce et une procédure en responsabilité
+contre un avocat ; il a également déposé lors de l’audience du 6 juillet 2021
+une requête en production de pièces qui consiste – pour autant qu’on puisse la
+comprendre – à faire produire par diverses instances les pièces afférentes aux quatre
+procédures précitées dans la procédure de plainte.
+L’autorité précédente a rejeté la requête de suspension par la première
+décision attaquée du 30 juin 2021, maintenant l’audience du 6 juillet 2021 ; elle
+l’a rejetée à nouveau après avoir entendu le plaignant et l’Office à
+l’audience, par décision motivée prise sur le siège, par laquelle elle a également
+rejeté les réquisitions de preuve. Elle a considéré qu’aux termes de l’art.
+278 al. 4 LP, l’opposition au séquestre n’empêchait pas cette mesure de produire
+ses effets et, donc, ne faisait pas obstacle à l’envoi d’avis de saisie, que s’agissant
+de la procédure de mainlevée le plaignant n’exposait nullement le lien d’une telle
+décision avec l’objet de la plainte LP, que les procédures que le plaignant déclarait
+avoir ouvertes, au fond, en modification de son jugement de divorce et en responsabilité contre
+son précédent conseil ne pouvaient pas avoir d’incidence sur la procédure de séquestre
+déléguée à l’Office ni, partant, sur la procédure de plainte ; quant
+aux réquisitions de preuve, elles étaient dépourvues de pertinence pour la procédure
+de plainte, sous réserve de deux pièces déjà au dossier (la communication de l’opposition
+au séquestre produite par l’Office sous pièce 6 et l’arrêt de la cour de céans
+du 25 juin 2021).
+Dans son recours, le plaignant ne discute pas, de manière topique, la motivation précitée.
+Il se contente de citer une liste de dispositions légales, sans exposer en quoi la motivation de
+l’autorité inférieure de surveillance violerait ces dispositions. Dans cette mesure,
+le recours est irrecevable.
+Quant au grief formel, tiré de la prétendue absence de motivation de la décision du 6
+juillet 2021 au niveau factuel, il ne peut qu’être rejeté. En effet, le recourant perd
+de vue que c‘était à lui d’alléguer et de rendre vraisemblables les éléments
+factuels minimaux propres à convaincre l’autorité inférieure de surveillance que
+sa requête incidente en suspension de cause était fondée et que la décision à
+prendre sur la plainte LP dépendait de l’issue d’une autre procédure ou pourrait
+s’en trouver influencée d’une manière déterminante, au sens où l’entend
+l’art. 25 LPA-VD. Cela signifie qu’il incombait au recourant non seulement d’exposer
+les éléments factuels nécessaires pour comprendre en quoi les quatre procédures auxquelles
+il serait partie pourraient avoir une quelconque incidence sur la procédure de plainte, mais de
+produire les pièces nécessaires susceptibles de prouver ces éléments factuels. En
+effet, la maxime inquisitoire posée à l’art. 20a al. 2 ch. 2 LP, qui connaît du
+reste des limites selon la jurisprudence du Tribunal fédéral (ATF 123 III 328 consid. 3 ;
+TF 5A_764/2019 du 10 mars 2020, consid. 6.1 non publié à l’ATF 146 III 303 ; TF
+5A_253/2015 du 9 juin 2015 consid. 4.1 et les références), vaut pour la procédure de plainte
+elle-même, et non pour une procédure incidente en suspension de cause ouverte par la partie
+plaignante. A défaut de toute allégation claire au sujet des quatre procédures en cause
+et de production d’un minimum de pièces à l’appui de ces allégations, c’est
+à juste titre que l’autorité de surveillance a refusé de donner suite à la
+réquisition de production de ces procédures en mains des divers tribunaux concernés. Pour
+les mêmes raisons, il n’incombait pas à l’autorité inférieure de surveillance
+de pallier les carences du plaignant en rapport avec sa requête incidente et d’établir
+d’office un état de fait, comportant en particulier le détail desdites quatre procédures.
+Il n’y a donc pas de violation du droit du recourant d’être entendu et encore moins
+d’arbitraire.
+Quant à l’absence de motivation de la décision du 30 juin 2021, elle a été
+palliée par le fait que, le 6 juillet 2021, l’autorité inférieure de surveillance
+a statué sur le même objet par une décision motivée.
+III.
+a)
+Au vu de ce qui précède, le recours doit être rejeté dans la faible mesure de sa
+recevabilité, et les décisions attaquées confirmées, sans frais ni dépens (art.
+20a al. 2 ch. 5 LP, 61 al. 2 let. a et 62 al. 2 OELP [ordonnance sur les émoluments perçus
+en application de LP ; RS 281.35]).
+b)
+Vu le sort du recours, la requête d’assistance
+judiciaire du recourant ne peut qu’être rejetée (art. 29 al. 3 Cst.
+a
+contrario
+). Au demeurant, la procédure est
+gratuite (art. 20a al. 2 ch. 5 LP) et le recourant a rédigé et déposé son mémoire
+de recours sans l’assistance d’un avocat. La requête de prolongation du délai de
+recours doit également être rejetée, un délai légal n’étant pas prolongeable
+(art. 144 al. 1 CPC, applicable par renvoi de l’art. 31 LP). Il en va de même de la requête
+de restitution du délai de recours, ce délai ayant été respecté.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+Les décisions des 30 juin et 6 juillet 2021 sont confirmées.
+III.
+La requête d’assistance judiciaire est rejetée.
+IV.
+Les requêtes en prolongation et en restitution du délai de recours sont rejetées.
+V.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+vice-présidente :
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. X.________,
+-
+M. le Préposé à l’Office des poursuites du district de La Riviera – Pays-d’Enhaut.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
