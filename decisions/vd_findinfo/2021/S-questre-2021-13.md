@@ -1,0 +1,215 @@
+---
+decision_id: "vd_findinfo_S_questre___2021___13"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2021 / 13"
+decided: "2021-09-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8437811"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-327a.md", "switzerland/bund/acts/281.1/art-271.md"]
+---
+
+# VD Findinfo Séquestre / 2021 / 13
+
+## Regeste
+
+CONVENTION DE LUGANO, DÉLAI DE RECOURS, DÉCISION D'IRRECEVABILITÉ, SÉQUESTRE{LP}, RECONNAISSANCE DE LA DÉCISION, DÉCLARATION D'EXÉCUTION, FORME AUTHENTIQUE | 43 al. 1 CL, 327a CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 02.09.2021 Séquestre / 2021 / 13
+
+CONVENTION DE LUGANO, DÉLAI DE RECOURS, DÉCISION D'IRRECEVABILITÉ, SÉQUESTRE{LP}, RECONNAISSANCE DE LA DÉCISION, DÉCLARATION D'EXÉCUTION, FORME AUTHENTIQUE | 43 al. 1 CL, 327a CPC (CH)
+
+TRIBUNAL
+CANTONAL
+KH21.010267-211193
+209
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+2 septembre 2021
+__________________
+Composition
+:              M.
+Hack
+,
+président
+Mme
+Byrde et M. Maillard, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+327a al. 3 CPC ; 43 par. 5 CL 2007
+La Cour des poursuites
+et faillites du Tribunal cantonal, statuant à huis clos en sa qualité d'autorité de recours
+en matière sommaire de poursuites, s'occupe du recours exercé par
+M.________,
+à Commugny,
+contre l’ordonnance rendue
+le 10 mars 2021 par le Juge de paix du district de Nyon dans la cause opposant le recourant à
+A.________
+,
+à Monaco.
+Vu les pièces au
+dossier, la cour considère :
+En
+fait :
+1.
+a)
+Le 9 mars 2021, se fondant sur l’art.
+271 al. 1 ch. 6 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ;
+RS 281.1), A.________ a déposé une requête dirigée contre M.________, dans laquelle
+il demandait au Juge de paix du district de Nyon, notamment, de :
+–
+«
+Constater
+la force exécutoire de l’acte authentique « Quittance subrogative et
+prêt A.________ au profit de [...] » fait et signé en date du
+18 décembre 2015,
+par-devant
+Me [...], Notaire, titulaire d’un
+Office Notarial à [...], et
+enregistré au Pôle d’enregistrement [...]. » (conclusion 2), et
+–
+« Ordonner le séquestre au profit d’A.________ à concur-
+rence de la somme de CHF 9'880'886.80 (soir EUR 8'900'000.-, au taux de
+1.110212 en vigueur en date du 9 mars 2021) du bien immobilier, propriété de
+Monsieur M.________, bien-fonds [...] de la commune de [...]. »
+(conclusion 3).
+b)
+Le 10 mars 2021, le Juge de paix du district de Nyon a rendu une ordonnance de séquestre faisant
+droit à la conclusion 3 susmentionnée.
+Par une seconde ordonnance rendue également le 10 mars 2021, le juge de paix a déclaré
+exécutoire l’acte authentique « Quittance subrogative avec prêt – A la
+requête de la société A.________ » fait et signé en date du
+18
+décembre 2015 par-devant Me Stéphane Serratrice, Notaire, titulaire d’un Office Notarial
+à [...], et enregistré au Pôle d’enregistrement [...], annexée à l’ordonnance
+(I) et a rendu sa décision sans frais (II).
+Cette dernière ordonnance a été notifiée à M.________, par son avocat, le 28
+mai 2021.
+2.
+Par acte déposé le 29 juillet 2021, M.________ a recouru contre l’ordonnance du 10 mars
+2021 déclarant exécutoire l’acte authentique du
+18
+décembre 2015 concluant, avec suite de frais et dépens, principalement à son annulation.
+En droit :
+I.
+a)
+La décision querellée a pour objet l'exequatur d’un acte authentique intitulé « Quittance
+subrogative avec prêt – A la requête de la société A.________ » du 18
+décembre 2015, instrumenté par le notaire [...], titulaire d’un Office notarial dans
+les Alpes-Maritimes (France), et enregistré au Pôle d’enregistrement [...].
+b)
+La Convention concernant la compétence
+judiciaire, la reconnais-sance et l’exécution des décisions en matière civile et
+commerciale, conclue à Lugano le 30 octobre 2007 (ci-après : CL 2007), entrée
+en vigueur le 1
+er
+janvier 2010 dans les pays de l’Union européenne et le 1
+er
+janvier 2011 en Suisse (RS 0.275.12), s’applique, quelle que soit la nature de la juridiction,
+en matière civile et commerciale (art. 1 par. 1, 1
+ère
+phrase, CL 2007), à l’exception des questions relatives à l’état et la capacité
+des personnes physiques, aux régimes matrimoniaux, aux testaments et aux successions (art. 1 par. 2
+let. a CL 2007). Sont exclues les matières fiscales, douanière ou administrative (art. 1 par.
+1, 2
+e
+phrase, CL 2007), les faillites, concor-dats et autres procédures analogues, la sécurité
+sociale, et l’arbitrage (art. 1 par. 2 let. b, c et d CL 2007). En vertu de l’art. 63 par.
+1 CL 2007, la convention n’est applicable qu’aux actions judiciaires intentées et aux
+actes authentiques reçus postérieurement à son entrée en vigueur dans l’Etat
+d’origine et, s’il s’agit d’une requête en reconnaissance ou en exécution
+d’une décision ou d’un acte authentique, dans l’Etat requis.
+En l’espèce,
+il n’est pas contesté que cette convention est applicable à l’acte authentique
+dont la reconnaissance et la déclaration de force ont été demandées dans le cadre
+de la présente procédure.
+c)
+Aux termes de l’art. 57 par. 1 CL, les actes authentiques reçus et exécutoires dans un
+Etat lié par la présente Convention sont, sur requête, déclarés exécutoires
+dans un autre Etat lié par la présente Convention, conformément à la procédure
+prévue aux art. 38 et suivants. La juridiction auprès de laquelle un recours est formé
+en vertu des art. 43 ou 44 ne refuse ou révoque une déclaration constatant la force exécutoire
+que si l’exécution de l’acte authentique est manifestement contraire à l’ordre
+public de l’Etat requis.
+L’art. 43 par. 1 CL 2007 prévoit que l’une ou l’autre partie peut former un recours
+contre la décision relative à la demande de déclaration constatant la force exécutoire.
+Le recours est porté devant la juridiction indiquée sur la liste figurant à l’annexe
+III de la convention (art. 43 par. 2 CL 2007), soit, en Suisse, devant le Tribunal cantonal supérieur.
+Dans le canton de Vaud, c’est la Cour des poursuites et faillites qui est compétente pour
+statuer sur les recours en matière d’exécution forcée et d’exequatur de créances
+pécuniaires ou en constitution de sûretés (art. 75 al. 2 LOJV [loi vaudoise du 12 décembre
+1979 d’organisation judiciaire ; BLV 173.01]).
+Aux termes de
+l’art.
+43 par. 5 CL 2007, auquel renvoie l’art. 327a al. 3 CPC, le recours contre la déclaration
+constatant la force exécutoire doit être déposé dans un délai d’un mois
+dès la signification de la décision, ce délai étant de deux mois si la partie contre
+laquelle l’exécution est demandée est domiciliée sur le territoire d’un autre
+Etat lié par la convention que celui dans lequel la déclaration constatant la force exécutoire
+a été délivrée.
+En l’espèce, l’ordonnance du 10 mars 2021 attaquée, qui constate la force exécutoire
+de l’acte authentique en cause, a été signifiée au recourant le
+28
+mai 2021, selon son propre aveu (recours, all. 42, p. 8). Il ressort également de son propre aveu
+(recours, en-tête et all. 1, p. 3) que le recourant est domicilié en Suisse, à Commugny.
+Il s’ensuit qu’en vertu de l’art. 43 par. 5 CL 2007, M.________ disposait d’un
+délai d’un mois pour contester ladite ordonnance, à compter du 29 mai 2021. Déposé
+le 29 juillet 2021, le recours est donc manifeste-ment tardif.
+II.
+Au vu de ce qui précède, le recours doit être déclaré irrecevable.
+Le prés
+ent arrêt
+est rendu sans frais ni dépens.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’ordonnance du 10 mars 2021, déclarant
+exécutoire l’acte authen-tique « Quittance subrogative avec prêt – A
+la requête de la société A.________ » fait et signé en date du 18 décembre
+2015 par-devant Me [...], Notaire, titulaire d’un Office Notarial à [...], et enregistré
+au Pôle d’enregistrement [...], est maintenue.
+III.
+L’arrêt, rendu sans frais judiciaires
+ni dépens, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me David Kohler, avocat (pour M.________),
+‑
+Me Jamil Soussi, avocat (pour A.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 9'880'886 fr. 80.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe
+(art.
+74 LTF). Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Juge de paix du district de Nyon.
+La greffière :
