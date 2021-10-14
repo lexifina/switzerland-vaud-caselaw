@@ -1,0 +1,214 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2021___37"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2021 / 37"
+decided: "2021-10-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8542466"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/272/art-050.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/312.0/art-056.md"]
+---
+
+# VD Findinfo Réc-civile / 2021 / 37
+
+## Regeste
+
+RÉCUSATION, PLAINTE PÉNALE, ADMISSION DE LA DEMANDE, AVOCAT, VOIE DE DROIT PRÉMATURÉE, COMPOSITION DE L'AUTORITÉ | 56 let. f CPP (CH), 8a al. 5 CDPJ, 8b al. 2 CDPJ
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative 14.10.2021 Réc-civile / 2021 / 37
+Vaud Tribunal cantonal Cour administrative 14.10.2021 Réc-civile / 2021 / 37
+Vaud Tribunal cantonal Cour administrative 14.10.2021 Réc-civile / 2021 / 37
+
+RÉCUSATION, PLAINTE PÉNALE, ADMISSION DE LA DEMANDE, AVOCAT, VOIE DE DROIT PRÉMATURÉE, COMPOSITION DE L'AUTORITÉ | 56 let. f CPP (CH), 8a al. 5 CDPJ, 8b al. 2 CDPJ
+
+TRIBUNAL
+CANTONAL
+PE21.010532
+37
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 21 octobre 2021
+______________________
+Présidence
+de               Mme
+DI FERRO DEMIERRE, présidente
+ad
+hoc
+Juges
+:              Mmes
+Revey et Röthenbacher, juges
+Greffière
+:              Mme
+Schwab Eggs
+*****
+Art.
+56 let. f CPP ; art. 8a al. 5 et 8b al. 2 CDPJ
+Vu les plaintes pénales déposées par
+N.________
+et
+K.________
+contre
+D.________
+,
+vu la condamnation de D.________ pour défaut de comparution rendue le 27 août 2021 par le Procureur
+du Ministère public de l’arrondissement de Lausanne,
+vu le recours remis à la Poste le 1
+er
+septembre 2021 par D.________ contre cette décision devant la Chambre des recours pénale du
+Tribunal cantonal (ci-après : Chambre des recours pénale),
+vu la demande de récusation en corps de la Chambre des recours pénale, déposée par
+son président, Guillaume Perrot, le 6 septembre 2021, requérant la désignation d’une
+cour
+ad hoc
+,
+vu le courrier du 27 septembre 2021 par lequel le conseil de D.________ a requis la récusation du
+juge cantonal K.________ dans toutes les affaires concernant X.________ l’opposant à D.________
+ainsi que dans les affaires conduites par le mandataire pour d’autres clients et susceptibles d’être
+instruites ou jugées par ce magistrat,
+vu les pièces au dossier ;
+attendu que la cour de céans est compétente pour statuer sur les demandes de récusation
+formées les 6 et 27 septembre 2021 en vertu des art. 8a al. 5 CDPJ (Code de droit judiciaire
+privé vaudois du 12 janvier 2010 ; BLV 211.02) et 6 al. 1 let. a ROTC (règlement organique
+du Tribunal cantonal du 13 novembre 2007 ; BLV 173.31.1),
+que la Cour administrative est composée du président du Tribunal cantonal, du vice-président,
+d’un membre et d’un suppléant et qu’elle siège à trois (art. 11 al.
+1 RAOJ [règlement d’administration de l’ordre judiciaire ; BLV 173.01.3]),
+qu’en cas d’empêchement, un membre de la Cour administrative est remplacé par le
+suppléant ou, à défaut, par un autre juge dans l’ordre d’élection (art. 5
+al. 2 ROTC),
+que l’art. 40 al. 4 RAOJ prévoit de même qu’en cas de besoin, un juge peut être
+appelé à siéger provisoirement à la Cour administrative,
+que le Tribunal appelé à statuer sur la demande de récusation ne pourra pas comprendre
+la personne dont la récusation est demandée (Tappy, Commentaire romand, Code de procédure
+civile, Bâle 2019, 2
+e
+éd, n. 14 ad art. 50 CPC),
+qu’en l’espèce, les juges cantonaux Eric Kaltenrieder et Christophe Maillard font partie
+des juges de la Chambre des recours pénale dont la récusation est demandée,
+que tous deux sont également respectivement Président et Vice-président de la Cour administrative,
+qu’ils ne sauraient dès lors statuer sur une demande de récusation visant une cour dont
+ils font partie,
+que la Juge cantonale Anne Röthenbacher est dès lors appelée à siéger provisoirement
+à la Cour administrative pour statuer sur la requête de récusation, la présidence
+en étant confiée à la Juge cantonale Tania Di Ferro Demierre, juge suppléante de
+la Cour administrative,
+que les demandes satisfont aux exigences de fond et de forme,
+qu'elles sont ainsi recevables ;
+attendu qu’un magistrat est récusable, aux termes de l'art. 56 let. f CPP (Code de procédure
+pénale du 5 octobre 2007 ; RS 312.0), lorsque d'autres motifs, notamment un rapport d'amitié
+étroit ou d'inimitié avec une partie ou son conseil juridique, sont de nature à le rendre
+suspect de prévention,
+que cette disposition a la portée d'une clause générale recouvrant tous les motifs de
+récusation non expressément prévus aux lettres précédentes,
+qu’elle correspond à la garantie d'un tribunal indépendant et impartial instituée
+par les art. 30 al. 1 Cst. (Constitution fédérale de la Confédération suisse du 18
+avril 1999 ; RS 101) et 6 § 1 CEDH (Convention de sauvegarde des droits de l’homme et des
+libertés fondamentales du 4 novembre 1950 ; RS 0.101),
+qu’elle n'impose pas la récusation seulement lorsqu'une prévention effective du magistrat
+est établie, car une disposition interne de sa part ne peut guère être prouvée,
+qu’il suffit que les circonstances donnent l'apparence de la prévention et fassent redouter
+une activité partiale du magistrat, seules les circonstances constatées objectivement devant
+être prises en considération, les impressions purement individuelles d'une des parties au procès
+n’étant pas décisives (ATF 144 I 159 consid. 4.3 ; ATF 143 IV 69 consid. 3.2 ; TF 1B_583/2019
+du 17 février 2020 consid. 3.1) ;
+attendu que le président de la Chambre des recours pénale a requis la récusation en corps
+des membres de sa cour,
+qu'en l'espèce, K.________, une des parties plaignantes, exerce la fonction de juge cantonal au
+sein de la Cour des poursuites et faillites et de la Cour d'appel civile du Tribunal cantonal, sises
+au Palais de Justice de l'Hermitage,
+que le Palais de Justice de l'Hermitage abrite également la Chambre des recours pénale,
+que K.________ entretient ainsi des contacts quotidiens avec l’ensemble des juges et collaborateurs
+de cette juridiction,
+qu'il pourrait ainsi résulter de ces relations un rapport d'amitié étroite ou d'inimitié
+personnelle entre les membres de la Chambre des recours pénale et K.________,
+que c'est par conséquent à juste titre que le Président de la Chambre des recours pénale
+considère que les magistrats de cette cour ne peuvent pas traiter le recours de D.________, sans
+risque d'apparaître prévenus,
+que la demande de récusation en corps de la Chambre des recours pénale doit dès lors être
+admise ;
+attendu que le conseil de D.________ a requis la récusation du juge cantonal K.________ pour toutes
+les affaires concernant X.________ l’opposant à D.________,
+qu’il soutient que deux procédures seraient ouvertes au Tribunal des baux, en sus de la procédure
+pénale dont il est question ci-dessus,
+qu’à ce jour, les procédures introduites devant le Tribunal des baux n’ont pas
+été portées devant le Tribunal cantonal,
+que ce n’est dès lors pas le lieu de statuer sur une hypothétique cause à venir,
+cette requête étant prématurée,
+que de même, en tant qu’elle vise la procédure pénale opposant le juge cantonal
+K.________ au requérant, la requête est sans objet, dans la mesure où ce magistrat ne
+fait pas partie de la Chambre des recours pénale saisie du recours ;
+attendu que le conseil de D.________ a également requis la récusation du juge cantonal K.________
+dans les affaires conduites par lui-même pour d’autres clients et susceptibles d’être
+instruites ou jugées par ce magistrat,
+qu’il ne soutient pas que le juge cantonal K.________ serait actuellement en charge d’un
+dossier où il interviendrait comme mandataire,
+que cette requête est également sans objet ;
+attendu qu’au vu de l’admission de la requête du Président de la Chambre des recours
+pénale, le Tribunal cantonal désigne une cour
+ad
+hoc
+en son sein (art. 8b al. 2 CDPJ),
+que celle-ci sera constituée de magistrats cantonaux siégeant à la Cour de droit administratif
+et public I, dont le siège ne se situe pas au Palais de Justice de l'Hermitage,
+que doivent être ainsi désignés pour composer cette cour
+ad
+hoc
+, [...], en tant que président, [...]
+et [...], juges cantonaux ;
+attendu que le présent arrêt peut être rendu sans frais, ni dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation en corps de la Chambre des recours pénale du Tribunal cantonal déposée
+par le Président Guillaume Perrot le 6 septembre 2021 est admise.
+II.
+La demande de récusation déposée par D.________ le 27 septembre 2021 est rejetée,
+dans la mesure où elle a un objet.
+III.
+La cause (PE21.010532) est transmise, dans l'état où elle se trouve, à [...], [...] et
+[...], juges cantonaux au sein de la Cour de droit administratif et public I, désignés en qualité
+de président, respectivement membres de la Chambre des recours pénale
+ad
+hoc
+.
+IV.
+L'arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+Me Pierre-Xavier Luciani (pour D.________),
+-
+M. K.________, personnellement,
+-
+Mme N.________, personnellement.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président de la Chambre des recours pénale,
+-
+M. Stéphane Parrone, Président de la Chambre des recours pénale
+ad
+hoc
+, avec le dossier,
+-
+M. le Procureur du Ministère public de l’arrondissement de Lausanne.
+La greffière :
