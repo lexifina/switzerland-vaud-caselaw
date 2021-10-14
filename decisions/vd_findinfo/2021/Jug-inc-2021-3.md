@@ -1,0 +1,692 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2021___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2021 / 3"
+decided: "2021-10-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9467180"
+cites_law: ["switzerland/bund/acts/272/art-004.md", "switzerland/bund/acts/272/art-005.md", "switzerland/bund/acts/272/art-150.md", "switzerland/bund/acts/272/art-153.md", "switzerland/bund/acts/272/art-154.md", "switzerland/bund/acts/272/art-155.md", "switzerland/bund/acts/272/art-156.md", "switzerland/bund/acts/272/art-163.md", "switzerland/bund/acts/272/art-404.md"]
+---
+
+# VD Findinfo Jug-inc / 2021 / 3
+
+## Regeste
+
+153 CPC, 154 CPC, 156 CPC, 4 al. 2 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 14.10.2021 Jug-inc / 2021 / 3
+
+153 CPC, 154 CPC, 156 CPC, 4 al. 2 CPC
+
+TRIBUNAL
+CANTONAL
+CO09.012614
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+Z.________
+,
+à [...] ([...]), requérant, d'avec
+S.________
+,
+à [...], intimée.
+___________________________________________________________________
+Du
+14 octobre 2021
+________________
+Composition
+:               M
+Kaltenrieder
+,
+juge instructeur
+Greffier
+:              MBron
+*****
+Statuant à huis clos, le juge instructeur considère :
+En fait :
+1.
+Par demande du 30 mars 2009 déposée
+devant la Cour civile, la demanderesse S.________ a pris contre le défendeur Z.________ les conclusions
+suivantes, avec dépens:
+"1.
+Monsieur Z.________ est débiteur et doit prompt paiement à S.________ de la somme de CHF 1'000'585.30
+(…) avec intérêt à 5% l'an dès le 16 avril 2008.
+2.
+Lever l'opposition au commandement de payer notifié le 20 février 2009 (poursuite n° [...]).
+3.
+Dire que la poursuite n° [...] ira sa voie.",
+Par jugement incident du 7 avril 2010, le juge instructeur a rejeté la requête d'appel en cause
+du défendeur, tendant à être autorisé à prendre des conclusions contre [...],
+[...], [...], [...], [...] et [...], au motif que ni l’économie de procédure, ni la nécessité
+de prévenir le risque de jugements contradictoires ne l’emportaient sur le grave alourdissement
+de la procédure qu’aurait entraîné l’admission de l’appel en cause.
+Par prononcé du 9 septembre 2010, le juge instructeur a admis partiellement la requête de constat
+d’urgence déposée par la demanderesse et chargé un huissier de constater si la villa
+du défendeur était occupée par des personnes et si des objets d’art y étaient
+entreposés.
+Dans sa réponse du 15 décembre 2010, le défendeur a pris les conclusions suivantes avec
+suite de frais et dépens:
+"1.
+Les conclusions prises contre lui par la demanderesse dans sa Demande sont rejetées.
+2.
+Reconventionnellement, la demanderesse est la débitrice du défendeur et lui doit immédiat
+paiement de la somme de
+CHF
+9'891'343.50
+(…).
+3.
+Les oppositions formées aux commandements de payer poursuites Nos [...]; [...] sont définitivement
+levées.",
+La demanderesse a déposé une réplique le 16 mai 2011, confirmant les conclusions prises
+dans la demande et concluant au rejet des conclusions prises par le défendeur au pied de sa réponse.
+Le défendeur a déposé une duplique le 15 septembre 2011, ainsi qu’une écriture
+corrective le 25 mai 2012, comportant une liste des allégués qu’il acceptait de retirer
+et une liste des allégués et/ou des offres de preuves qu’il souhaitait modifier.
+La demanderesse a déposé des déterminations le 11 novembre 2011 et le 5 juin 2012.
+En résumé, le litige découle de divers travaux pour lesquels le défendeur a fait
+appel, au cours de l'année 1989, à l'architecte [...], administrateur président de la
+demanderesse, respectivement à celle-ci qui a été fondée le 11 février 1991.
+Ces travaux concernaient une maison sise à [...], et en particulier un abri pour œuvres d'art
+(parfois désigné comme "le musée"). Aucun contrat écrit n'a été
+signé (cf. all. 328 admis). Les relations entre les parties se sont détériorées
+au moins depuis le mois de juillet 2006, après que les températures et l'hygrométrie dans
+le musée ont atteint des valeurs dommageables pour les objets s'y trouvant. La demanderesse agit
+en paiement d'honoraires impayés, dont le défendeur conteste être le débiteur. A
+titre reconventionnel, le défendeur invoque une créance en réparation du dommage, en raison
+de la mauvaise exécution du contrat, de coûts de réfection consécutifs à des
+malfaçons de l'ouvrage, des dégâts causés aux pièces de sa collection par les
+défectuosités du musée, et des frais avant procès.
+L'audience préliminaire s’est tenue sur cinq dates consécutives, du
+24
+avril au 11 juillet 2012. A cette dernière occasion, les parties se sont entendues sur la nomination
+d'un collège d'experts présidé par l'expert-architecte, qui serait le seul interlocuteur
+du tribunal après l'acceptation des mandats des experts et coordonnerait les travaux de ceux-ci.
+Par ordonnance sur preuves du 22 août 2012, le juge instructeur a ordonné à la demanderesse
+de produire les pièces requises nos 1000 à 1557, et au défendeur de produire les pièces
+requises nos 151, 152, et 251 à 277.
+Par cette même ordonnance et les ordonnances sur preuves complémentaires des 30 janvier 2013,
+17 avril 2013, 7 juin 2013 et 2 juin 2014, le juge instructeur a en particulier nommé un expert-architecte
+soit [...], un expert en conservation préventive d'objets d'art soit [...], un expert chauffage-ventilation-climatisation
+(CVC) soit [...], un expert en qualité de l'air soit [...] et un expert en œuvres d’art
+soit [...].
+Le 3 décembre 2012, la demanderesse a produit les pièces requises nos 1000 à 1557.
+2.
+a)
+L'expert en conservation d'œuvres d'art [...] a déposé son rapport le 17 décembre
+2014 (timbre postal).
+L'expert CVC [...] a déposé un "mini rapport intermédiaire" le
+26
+août 2014, un rapport partiel le 17 décembre 2014 puis, après la mise en service de l'installation
+de ventilation et de climatisation, un rapport final le 17 mars 2015.
+L'expert en qualité de l'air [...] a déposé le 22 décembre 2014 un rapport partiel,
+indiquant que le contrôle de la qualité de l'air nécessitait la remise en service de l'installation
+de ventilation de la résidence du défendeur. Par courrier du 22 juillet 2015, il a confirmé
+ne pas pouvoir intervenir avant la réhabilitation de l'installation. Par avis du 12 août 2015,
+le juge instructeur a indiqué ignorer si cette remise en fonction était souhaitée, respectivement
+requise, relevant qu'elle semblait sortir du cadre de l'expertise.
+L'expert architecte [...] a déposé trois rapports intermédiaires les 22 décembre
+2014, 30 juin 2015 et 22 janvier 2016, puis un rapport final le 15 août 2016. Il
+a à chaque fois reproduit les réponses précédemment apportées, mettant en évidence
+le moment auquel il avait traité l'allégué en question. Il a encore apporté une correction
+à un point du rapport final par lettre du 25 octobre 2016.
+L’expert en œuvres d’art [...] a déposé un inventaire des œuvres le 27
+septembre 2015 et un rapport complémentaire le 4 juillet 2016.
+b)
+La demanderesse a déposé le 15 janvier 2018 une requête de complément d'expertise
+tendant, sous suite de frais et dépens, à ce que l'expertise soit complétée selon
+diverses remarques détaillées et à ce que vingt-six questions soient soumises à l'expert
+[...].
+Par requête parallèle du 15 janvier 2018, le défendeur a conclu à ce que des précisions
+ou réponses soient apportées sur septante points pour l’expert [...], six points pour
+l'expert [...], six points pour l'expert [...] et huit points pour l'expert [...], et à ce qu'une
+séance de mise en œuvre soit ordonnée pour la bonne compréhension des compléments
+sollicités.
+Par jugement incident du 9 novembre 2018, le juge instructeur a admis partiellement les requêtes
+de compléments d’expertise des parties et invité les experts à répondre à
+des questions complémentaires, huit pour l’expert [...], trois pour l’expert [...],
+deux pour l’expert [...] et deux pour l’expert [...].
+c)
+Tous les experts concernés ont été mis en œuvre.
+L'expert CVC [...] a déposé un "complément pour installations CVC - réactualisation"
+le 22 mai 2019.
+3.
+a)
+Par requête incidente de réforme datée du 13 novembre 2020, le défendeur au fond
+et requérant à l’incident Z.________ (ci-après le requérant) a pris, avec suite
+de frais et dépens, les conclusions suivantes :
+«
+I.
+La
+requête de réforme est admise.
+II.
+Un
+délai est imparti à Z.________ en vue d’introduire en procédure une Duplique complémentaire
+telle que jointe à la présente Requête et portant sur les allégués 1892 à
+2283.
+III.
+Les
+dépens frustraires seront fixés selon ce que Justice dira. »
+Il a annexé à sa requête une duplique complémentaire, un bordereau de preuves et
+un bordereau de pièces. Il a également requis à cette occasion que le sort des expertises
+complémentaires et la méthode d’exécution de l’expertise [...] soient tranchés
+dans le cadre de la réforme et de l’ordonnance sur preuve à venir dans ce cadre, voire
+qu’un nouveau délai lui soit octroyé pour se déterminer sur ces deux points dans
+l’hypothèse notamment où la réforme serait refusée.
+b)
+Les 2 et 11 décembre 2020, le requérant a procédé au versement des avances de dépens
+frustraires et de frais à hauteur respectivement de
+10'000
+fr. et de 900 francs.
+c)
+Le 8 février 2021, la demanderesse au fond et intimée à l’incident S.________ (ci-après
+l’intimée) a déclaré s’opposer à la requête de réforme et aux
+conclusions incidentes du requérant.
+Par courrier du 8 mars 2021, le requérant a confirmé les conclusions prises à l’appui
+de sa requête en réforme du 13 novembre 2020.
+Le 12 avril 2021, l’intimée a déposé une réponse à la requête de
+réforme et pris, sous suite de frais et dépens, les conclusions suivantes :
+«
+Principalement
+I.
+La Requête de réforme est rejetée.
+Subsidiairement
+II.
+En cas d’admission d’allégués
+en réforme, un délai raisonnable est octroyé à l’intimée afin de se déterminer
+sur les allégués faisant l’objet de cette admission et produire des allégués
+connexes. »
+Le 14 juillet 2021, le requérant a déposé une réplique et confirmé les conclusions
+de sa requête de réforme.
+Le 27 septembre 2021, l’intimée a déposé une duplique et confirmé les conclusions
+prises au pied de sa réponse du 12 avril 2021.
+Par courrier du 8 octobre 2021, le requérant a déposé des observations sur le mémoire
+de duplique de l’intimée.
+Par courrier du 18 octobre 2021, l’intimée a déposé des observations sur le courrier
+du requérant du 8 octobre 2021.
+En
+droit:
+I.
+Aux termes de l’art. 404 al. 1 CPC (Code
+suisse de procédure civile du 19 décembre 2008, en vigueur depuis le 1
+er
+janvier 2011 ; RS 272), les procédures pendantes avant l'entrée en vigueur du nouveau
+droit demeurent régies par l'ancien droit de procédure jusqu'à la clôture de l'instance.
+Cette règle s’applique également aux jugements incidents rendus dans le cadre de telles
+procédures (CREC 20 juillet 2011/66 consid 1a ; Haldy, La nouvelle procédure civile suisse,
+p. 3, n. 7 ; Tappy, Le droit transitoire applicable lors de l'introduction de la nouvelle procédure
+civile unifiée,
+in
+JdT 2010 III 11, spéc. pp. 36 à 38).
+Le procès au fond ayant été ouvert avant l’entrée en vigueur du CPC, le présent
+jugement incident reste soumis à l’ancien droit de procédure, en particulier au Code
+de procédure civile vaudoise (ci-après : CPC-VD, dans sa teneur en vigueur au 31 décembre
+2010 ; BLV 270.11).
+II.
+a)
+Selon l'art. 153 al. 1 CPC-VD,
+la partie qui désire obtenir la restitution d'un délai, corriger ou compléter sa procédure,
+peut, jusqu'à la clôture de l'audience de jugement, demander l'autorisation de se réformer,
+sous réserve de l'art. 317b CPC-VD. La requête de réforme est instruite et jugée
+en la forme incidente (art. 154 al. 2 CPC-VD).
+L’art. 154 al. 1 CPC-VD exige
+que la demande de réforme indique les motifs et l’étendue de la réforme demandée.
+La partie qui sollicite la réforme doit préciser dans sa requête les opérations nouvelles
+qu’elle se propose de faire dans le délai dont elle demande la restitution et les points sur
+lesquels elle entend corriger ou compléter sa procédure, en particulier les faits qu'elle veut
+alléguer et les preuves qu'elle entend faire administrer. Elle doit en outre exposer les motifs
+qui feraient apparaître la réforme demandée comme nécessaire ou utile à la solution
+du litige (Poudret/Haldy/Tappy, Procédure civile vaudoise, 3
+e
+éd., n. 1 ad art. 154 CPC-VD et les réf. cit.).
+b)
+En l’espèce, la requête incidente énumère toutes les allégations visées
+par la réforme ainsi que les moyens de preuve correspondants. Le requérant y expose en outre
+les motifs qui l’incitent à se réformer. L'art. 154 al. 1 CPC-VD est ainsi respecté.
+Au surplus, la requête de
+réforme observe les exigences des art. 19 et
+147
+al. 1
+CPC-VD
+(applicables
+par
+renvoi de l’art. 154
+al. 2 CPC-VD
+) ; e
+lle
+est donc recevable à la forme. Déposée avant la clôture de l’audience de jugement,
+elle intervient en outre en temps utile (art. 153 al. 1 CPC-VD).
+III.
+a)
+La
+réforme n'est accordée que si la partie y a un intérêt réel et si la requête
+n'est pas présentée à des fins dilatoires (art. 153 al. 2 et 3 CPC-VD). La partie requérante
+doit établir, d'une part, son intérêt réel à la preuve des faits allégués,
+c'est-à-dire leur pertinence, et, d'autre part, son intérêt réel à l'administration
+des preuves offertes, soit l'utilité que présente la preuve offerte pour établir les faits
+allégués (JdT 1988 III 70 consid. 4). Cet intérêt réel doit être apprécié
+au regard de l'ensemble des circonstances, en particulier de la pertinence du fait allégué,
+de sa vraisemblance, de la force de la preuve offerte et de la durée probable de la procédure
+probatoire après réforme (JdT 2002 III 190 et les réf. cit.). Le bien-fondé d'une
+requête de réforme s'apprécie sur la base des indications qui y sont contenues, notamment
+pour juger de la pertinence des faits allégués (JdT 2002 III 190 et les réf. cit.). En
+outre, si les faits invoqués à l'appui de la requête sont dénués de pertinence
+ou déjà invoqués sous une autre forme en procédure, la réforme devra être
+refusée (JdT 2003 III 114 consid. 4).
+Le juge ne doit refuser une preuve que si elle paraît d’emblée inutile. Le souci de ne
+pas entraver une partie dans ses moyens doit l’emporter sur celui de ne pas alourdir la procédure
+(
+Poudret/Haldy/Tappy, op. cit.,
+n. 5 ad art. 163 CPC-VD). Toutefois, l
+a pertinence
+des faits allégués (art. 163 al. 2 CPC-VD) et la nécessité des preuves offertes (art.
+5 al. 2 CPC-VD) doivent être appréciées plus strictement que dans l'ordonnance sur preuves
+(JdT 1988 III 70 consid. 4 précité). Le droit à la réforme n’est en revanche
+pas subordonné à l’absence de faute de la partie, car il a été précisément
+institué pour permettre au plaideur négligent de rattraper un délai ou rectifier une erreur,
+le jugement reposant ainsi sur un état de fait complet et autant que possible conforme à la
+réalité (BCG automne 1966, p. 719).
+b)
+Dans le cas présent, le requérant soutient que l’introduction de nouveaux allégués
+est nécessaire en vue de compléter l’état de fait sur des questions qui sont essentielles
+au sort de la cause (la conclusion du contrat conclu entre les parties et son contenu, les factures établies
+par l’intimée au fur et à mesure de l’avancement de son travail, l’étendue
+du mandat confié à l’intimée, la planification des travaux, la mauvaise ou partielle
+exécution du mandat, les surcoûts en résultant, les défauts, le musée et l’incident
+climatique, les dommages aux œuvres et leur propriété, le maître de l’ouvrage,
+ainsi que divers fait nouveaux et procéduraux). Il motive sa requête en s’appuyant sur
+le fait qu’il a déposé sa réponse (15 décembre 2010) et sa duplique (15 septembre
+2011) alors qu’il n'avait pas connaissance de très nombreuses pièces (pièces requises
+nos 1000 à 1557) qui ont été produites par l’intimée en 2012, soit après
+l’échange des écritures. Il relève également qu’à la suite du jugement
+incident du 7 avril 2010 rejetant sa requête d’appel en cause, il a dû ouvrir action
+à l’encontre de nombreux protagonistes du chantier litigieux. Dans le cadre de l’échange
+des écritures qui a pris fin postérieurement à la fin de l’échange des écritures
+dans la présente procédure, il a recueilli des informations et des pièces supplémentaires
+utiles au procès ouvert devant la Cour civile. Enfin, il prétend que les rapports d’expertise
+rendus mettent en exergue de nombreux éléments susceptibles de valider les conclusions reconventionnelles
+qu’il a prises au pied de sa réponse au fond.
+L’intimée soutient que les allégués nouveaux qu’entend faire valoir le requérant
+ont déjà été invoqués sous une autre forme, sont contradictoires, sans pertinence
+ou pas suffisamment prouvés. En outre, selon elle, s’agissant des motifs sur lesquels se fonde
+la requête, les pièces requises produites après l’échange des écritures
+se rapporteraient à des faits déjà allégués, de sorte que la majorité des
+faits y relatifs ont d’ores et déjà été allégués. Elle prétend
+également que, du fait du rejet de l’appel en cause, les faits auxquels le requérant
+a pu avoir accès dans le cadre des procédures ouvertes parallèlement contre les autres
+protagonistes du chantier litigieux ne sont pas pertinents dans la présente procédure. S’agissant
+des faits qui ressortiraient des rapports d’expertises, elle relève que ceux-ci suffisent
+à prouver les faits tels qu’allégués par les parties puisqu’en application
+de l’art. 4 al. 2 CPC-VD, le juge peut tenir compte des faits révélés par une expertise,
+ce qui a pour but d’éviter des réformes en remédiant « automatiquement »
+au défaut d’allégation du plaideur. Elle relève encore que les allégués
+qui ne ressortent pas des trois motifs invoqués par le requérant doivent être exclus,
+que certaines preuves ne seraient pas admissibles et que certains allégués auraient pu être
+introduits plus tôt dans la procédure. Enfin, elle soutient que la plupart des nouveaux allégués
+prouvés par pièces sont des faits négatifs et que le requérant n’a pas d’intérêt
+réel à leur introduction par le biais de la réforme. S’agissant de ceux qui sont
+soumis à la preuve par expertise, elle considère que la mise en œuvre d’une expertise
+prolongerait inutilement la procédure.
+Ce faisant, l’intimée procède à une lecture erronée des art. 153 ss CPC-VD,
+puisqu’aucune des dispositions concernées n’exclut la justification de l’intérêt
+réel à la réforme – seule condition à l’admission de la requête
+– par des motifs allant au-delà de ce qui aurait été invoqué par le requérant.
+Cet intérêt doit seulement être apprécié au vu notamment desdits motifs qui
+permettent de prendre la mesure des circonstances du cas d’espèce. Dans ce cadre, la pertinence
+des nouveaux allégués quant à leur influence sur la solution du litige ainsi que sur les
+conclusions prises au fond doit être examinée, qu’il s’agisse de faits positifs
+ou négatifs. Aucune des dispositions précitées n’exclut par ailleurs un quelconque
+mode de preuve à l’appui des allégués introduits par le biais de la réforme,
+la seule cautèle étant l’interdiction d’une manœuvre dilatoire, alors que
+la tardiveté et la faute du requérant n’entrent en revanche pas en considération.
+En l’occurrence, dans la mesure où
+le
+requérant a lui-même pris des conclusions reconventionnelles en paiement à l’encontre
+de l’intimée, il est peu suspect de vouloir prolonger la procédure lorsqu’il offre
+de prouver certains nouveaux allégués par l’expertise. Enfin, o
+n
+ne peut reprocher au requérant d’invoquer des faits qui ressortent des onze rapports d’expertise,
+dès lors que certains des compléments qu’il a requis dans le cadre de la procédure
+déposée le
+15 janvier
+2018, ont été rejetés par jugement incident du 9 novembre 2018 au motif justement que
+les allégués sur lesquels ils reposaient ne figuraient pas dans les écritures. Ainsi,
+seule la pertinence des nouveaux allégués au regard de la solution du litige au fond et le
+fait qu’ils ne figurent pas déjà dans la procédure sous une autre forme détermineront
+leur admission dans le cadre d’une duplique complémentaire.
+c)
+Le requérant demande l’autorisation d’introduire en procédure les allégués
+1892 à 2283 et les offres de preuve correspondantes, qu’il y a lieu d’examiner successivement.
+i)
+Contenu du contrat conclu entre les parties (all. 1892 à 1966)
+Le requérant revient sur la forme du contrat conclu entre les parties, l’application des normes
+SIA et les modalités de facturation convenues pour la phase D (all. 1892 à 1896). Or, la teneur
+de l’all. 1892 correspond à celle des allégués 328 et 501 qui ont été
+admis par l’intimée. En revanche, cela n’est pas le cas des allégués 1893
+à 1896 qui concernent la phase D du projet en particulier et qui précisent seulement les allégués
+502 et 503.
+Les allégués 1897 à 1930, ainsi que 1946 à 1962, ont pour objet les modalités
+et honoraires d’architectes des phases B et C de la construction auxquels se réfère le
+requérant s’agissant du calcul de la facturation relative à la phase D qui serait calquée
+sur les phases précédentes. Or, ces éléments ne figurent pas déjà dans
+les écritures des parties.
+Les allégués 1931 à 1945 s’intéressent aux négociations des honoraires
+de l’intimée pour la phase D dans le cadre des phases B et C. Comme pour les allégués
+précédents, il apparaît que les éléments afférents à ces deux phases
+n’ont pas été allégués par les parties auparavant.
+Quant aux allégués 1963 à 1966, ils se réfèrent au paiement par le requérant
+des montants alors calculés selon les allégués nouveaux 1897 à 1962, soit sur la
+base des calculs effectués pour les phases B et C qui n’ont pas été développés
+par les parties dans le cadre de leurs écritures jusqu’ici.
+Les allégués 1893 à 1966 doivent donc être admis en réforme et pris en considération
+dans le cadre d’une duplique complémentaire. L’allégué 1892 doit en revanche
+être exclu.
+ii)
+Factures établies par l’intimée (all. 1967 à 2031)
+Il en est de même des allégués 1967 à 2013, ainsi que des allégués 2016
+à 2022, dont certains mentionnent par ailleurs expressément les allégués nouveaux
+relatifs aux phases B et C sur lesquels ils se basent (cf. ad all. 1967 qui renvoie aux allégués
+nouveaux 1897 à 1909 et 1931 à 1962 par exemple).
+Si les allégués 2014 à 2015bis correspondent à ce qui figure à l’allégué
+1486 de la duplique, soit aux allégués 1486 à 1486octies de l’écriture corrective
+du 25 mai 2012, ils en précisent toutefois le contenu.
+Le requérant revient aux allégués 2023 à 2031 sur sa relation avec un intervenant
+extérieur en particulier et le travail de ce dernier sur le chantier, soit avec l’entreprise
+[...] qui est seulement mentionnée à l’allégué 1613 de la duplique comme étant
+un des intervenants extérieurs, sans que le contexte de son intervention ni sa prestation ne soient
+alors détaillés.
+Les allégués 1967 à 2031 doivent donc être admis en réforme et pris en considération
+dans le cadre d’une duplique complémentaire.
+iii)
+Etendue du mandat confié à l’intimée (all. 2032 à 2038quater)
+L’allégués 2032 reprend le fait selon lequel les parties ont conclu un contrat d’architecte
+global, invoqué à l’allégué 408 de la réponse, et selon lequel les règles
+de l’art d’un mandat d’architecte sont codifiées dans les RPH SIA 102. Toutefois,
+alors que les allégués 543 et 547 de la réponse se réfèrent aux éditions
+de 2001 et de 2003, le requérant allègue les éditions de 1984 et de 2003 dans le cadre
+de la comparaison qu’il effectue entre les taux appliqués par l’intimée et les
+taux ressortant aux normes SIA.
+Les allégués 2033 à 2035 reprennent des éléments qui ressortent du rapport d’expertise
+[...] du 12 août 2016 mais qui ne figurent pas sous cette forme précise dans les écritures
+des parties.
+L’allégué 2036 donne la liste des co-contractants de l’intimée qui ont œuvré
+sur le chantier, tout comme l’allégué 1783 de la duplique. Toutefois, l’allégué
+2036 précise que l’intimée a conclu les contrats concernés au nom et pour le compte
+du requérant. Cette nuance est importante s’agissant du type de relation contractuelle qui
+a lié les différents protagonistes du litige et dont découlent les allégués
+2037 et 2038.
+L’allégué 2038bis porte sur le refus initial du requérant de payer des montants
+qui résulteraient d’une activité partielle ou défectueuse, alors que les écritures
+des parties mentionnent l’absence de signature sur les décomptes et sa contestation des honoraires
+facturés.
+L’allégué 2038ter reprend en une phrase les différents points qui ont déjà
+été développés aux allégués 1486 à 1486octies de l’écriture
+corrective du
+25 mai 2012. Le requérant
+ne démontre pas ici un intérêt réel suffisant à son admission en réforme.
+L’allégué 2038quater concerne des propositions réalisées par l’intimée
+qui ne se recoupent pas avec les éléments développés aux allégués 1486
+ss de l’écriture corrective du 25 mai 2012, ni avec les allégués 1485 ss de cette
+même écriture. En outre, cet allégué amène une notion temporelle quant au moment
+de la facturation de ces prestations en particulier.
+Les allégués 2032 à 2038bis et 2038quater doivent donc être admis en réforme
+et pris en considération dans le cadre d’une duplique complémentaire. L’allégué
+2038ter doit en revanche être exclu.
+iv)
+Planification des travaux (all. 2039 à 2054)
+Les allégués 2039 à 2047, ainsi que 2049 et 2051 à 2054, se réfèrent à
+des éléments qui ressortent du rapport d’expertise [...] du 12 août 2016. Ils permettront
+en outre à cet expert-architecte de préciser certaines notions qu’il a alors utilisées
+dans son analyse.
+L’allégué 2048 précise les allégués 400 à 402 de la réponse
+puisqu’il porte sur « les situations et contrôle budgétaires avec une explication
+claire de l’évolution du budget » avec une référence temporelle « périodique »,
+alors que les allégués précités mentionnent seulement les devis, offres et contrats
+que le requérant aurait « rarement » vus.
+Les allégués 2049 et 2050 introduisent, quant à eux, les nouvelles notions de « tableau
+de planification » et de présentation par l’intimée du « montant
+disponible pour l’année suivante ».
+Les allégués 2039 à 2054 doivent donc être admis en réforme et pris en considération
+dans le cadre d’une duplique complémentaire.
+v)
+Exécution des travaux (all. 2055 à 2089)
+Les allégués 2055 à 2059, ainsi que 2061 à 2063, 2066 à 2069, 2071, 2073, 2075
+à 2076, 2078 à 2089, se réfèrent aux rapports d’expertise [...] du 12 août
+2016 et [...] du 17 décembre 2014. Ils permettront en outre à ces experts de préciser
+certains éléments qu’ils ont alors développés dans leurs analyses.
+Les allégués 2060, 2070, 2072 et 2074 s’appuient sur les pièces requises 1000 à
+1557 qui ont été produites après l’échange des écritures, sans que leur
+contenu ressorte précisément d’autres éléments déjà allégués
+par les parties.
+L’allégué 2064 précise l’allégué 1640 de la duplique selon lequel
+l’entreprise [...] avait déjà travaillé pour le requérant, en ce sens que ce
+dernier ne voyait pas d’obstacle à ce que cette entreprise travaille à nouveau avec lui.
+L’allégué 2065 entre dans le détail de ce que le requérant pouvait accepter
+dans ce cadre.
+Quant à l’allégué 2077, il fait expressément référence aux allégués
+précédents qui sont pertinents.
+Les allégués 2055 à 2089 doivent donc être admis en réforme et pris en considération
+dans le cadre d’une duplique complémentaire.
+vi)
+Surcoûts (all. 2090 à 2164)
+Les allégués 2090 à 2107 se réfèrent au rapport d’expertise [...] du 12
+août 2016 en donnant une synthèse des différents éléments relatifs aux surcoûts
+généraux, aux rabais d’adjudication, au compte prorata, à l’escompte, aux
+modifications de projets, au tarif régie et aux honoraires d’architecte. Ces allégués
+amènent de nombreuses précisions qui sont regroupées sous ce titre et qui sont utiles
+à la solution du litige puisque le requérant a aussi pris au fond des conclusions en paiement
+à l’encontre de l’intimée.
+L’allégué 2108 se réfère aux calculs qui ressortent de l’allégué
+2107 et est donc pertinent.
+Le requérant offre la preuve par expertise à l’appui des allégués 2109 à
+2115 dont le contenu n’a pas été développé par les parties dans leurs écritures
+antérieures et qui permettront d’obtenir une évaluation précise du dommage prétendu.
+Les allégués 2116 à 2124, 2126, 2128 à 2143, 2145 à 2146, 2148, 2150, 2154 à
+2156, 2158 à 2160, 2162 à 2164 vont encore plus loin dans l’analyse des rôles de
+plusieurs intervenants sur le chantier, y compris de l’intimée, et de leurs prestations, afin
+de connaître précisément celles qui pouvaient être considérés comme dues
+par le requérant, expertise et pièces nouvelles à l’appui. Les allégués
+2125, 2144, 2147, 2149, 2151 à 2153, 2157 et 2161 reprennent quant à eux des éléments
+qui ressortent de l’expertise [...] du 12 août 2016.
+L’allégué 2127 reprend en revanche le texte des allégués 690 et 691 de la réponse.
+Les allégués 2090 à 2126 et 2128 à 2164 doivent donc être admis en réforme
+et pris en considération dans le cadre d’une duplique complémentaire. L’allégué
+2127 doit en revanche être exclu.
+vii)
+Défauts (all. 2165 à 2195)
+L’allégué 2165 précise l’allégué 1741 de la duplique relatif à
+la problématique du choix du marbre dans la piscine, en ajoutant qu’elle concerne également
+l’entretien de ce matériau auquel le requérant n’aurait pas non plus été
+rendu attentif.
+Les allégués 2166 à 2173, 2175 à 2188, 2192 à 2195 reprennent des éléments
+qui ressortent de l’expertise [...] du 12 août 2016. Cet expert pourra les détailler
+à l’appui de ces allégués nouveaux. Il convient de relever que l’allégué
+2175, qui reprend le contenu de l’allégué 878 de la réponse, précise toutefois
+celui-ci en ce sens que le ponçage proposé l’était aux frais du requérant.
+Il faut donc prendre ce nouvel allégué en considération.
+L’allégué 2174 amène un élément nouveau de chronologie des faits relative
+à d’éventuelles tentatives de réparation avant 2006.
+Les allégués 2189 à 2191 se référent à des pièces nouvelles s’agissant
+de malfaçons constatées et de finitions.
+Les allégués 2165 à 2195 doivent donc être admis en réforme et pris en considération
+dans le cadre d’une duplique complémentaire.
+viii)
+Incident climatique (all. 2196 à 2220)
+Les allégués 2196 à 2213 et 2220 se référent pour certains aux rapports d’expertise
+rendus par les experts [...] et [...] en précisant des éléments qui pourront être
+confirmés par ces derniers en vue d’établir précisément le dommage prétendu
+du requérant.
+Les allégués 2214 à 2218 ne correspondent pas aux allégués 1184, 82 et 1815
+sur lesquels les témoins ont été interrogés.
+Le requérant offre une pièce nouvelle à l’appui de l’allégué 2219
+qui précise les circonstances de l’incident climatique.
+Les allégués 2196 à 2220 doivent donc être admis en réforme et pris en considération
+dans le cadre d’une duplique complémentaire.
+ix)
+Dommage (all. 2221 à 2254)
+Les allégués 2221 à 2233, 2236, 2238, 2240 à 2252, et 2254 s’appuient sur des
+pièces nouvelles et des témoignages afin de préciser la valeur des œuvres d’art,
+leur état et les frais de leur rénovation. Ils sont donc utiles à la solution du litige
+puisque le requérant a pris des conclusions reconventionnelles à l’encontre de l’intimée.
+Les allégués 2234, 2235, 2237 et 2253 se réfèrent à des éléments ressortant
+du rapport d’expertise complémentaire [...] du 4 juillet 2016. Cet expert en œuvres d’art
+pourra en préciser la teneur s’agissant des allégués 2237 et 2253.
+L’allégué 2239 indique le montant facturé à hauteur de 66'283 fr. 30 par l’entreprise
+Bau- und Umweltchemie pour ses rapports d’investigation. Ce montant ne ressort pas des allégués
+de la réponse ni de la duplique (cf. all. 1074 ss).
+Les allégués 2221 à 2254 doivent donc être admis en réforme et pris en considération
+dans le cadre d’une duplique complémentaire.
+x)
+Maître de l’ouvrage (all. 2255 à 2261)
+Le requérant offre des pièces nouvelles à l’appui des allégués 2255, 2256,
+2258 à 2261 relatifs à ses compétences en matière de construction.
+L’allégué 2257 s’appuie, quant à lui, sur une des annexes du rapport d’expertise
+[...] du 12 août 2016 afin de prouver quels étaient les objectifs financiers du requérant
+dans le cadre de la construction litigieuse.
+Les allégués 2255 à 2261 doivent donc être admis en réforme et pris en considération
+dans le cadre d’une duplique complémentaire.
+xi)
+Divers faits nouveaux et procéduraux (all. 2262 à 2283)
+Les allégués 2262, 2265 à 2276 et 2279, dont le contenu ne figure pas dans les écritures
+des parties, sont prouvés par de nouvelles pièces et de nouveaux témoignages. En revanche,
+l’allégué 2263 est similaire à l’allégué 1 qui a été admis
+par le requérant et à l’allégué 315. Le contenu de l’allégué
+2264 figure quant à lui déjà à l’allégué 316.
+Le requérant offre la preuve par expertise aux allégués 2277 et 2278. Or, on ne voit pas
+qu’une telle preuve soit nécessaire pour démontrer ces éléments qui doivent
+être soumis à l’appréciation du tribunal.
+Dans la mesure où le requérant soulève la question de la fourniture de sûretés
+de la part de l’intimée à l’allégué 2280 mais ne prend pas de conclusion
+dans ce sens, puisqu’il ne fait que confirmer les conclusions reconventionnelles prises au pied
+de sa réponse du 15 décembre 2020 et de sa duplique du 15 septembre 2011 (allégué
+2283 qui n’a par ailleurs pas lieu d’être considéré comme un nouvel allégué),
+il apparaît que cet allégué n’est pas pertinent pour la suite de la procédure.
+Quant à l’allégué 2281, il ne porte pas sur un fait nouveau.
+S’agissant de l’allégué 2282, il introduit un élément de fait (une date
+de départ des intérêts moratoires) et doit être pris en considération.
+Les allégués 2262, 2265 à 2276, 2279 et 2282 doivent donc être admis en réforme
+et pris en considération dans le cadre d’une duplique complémentaire. Les allégués
+2263, 2264, 2277, 2278, 2280, 2281 et 2283 doivent en revanche être exclus.
+d)
+Au vu de ce qui précède,
+il
+faut reconnaître au requérant un intérêt réel à compléter sa procédure
+par les allégués 1893 à 2038bis, 2038quater, 2039 à 2126, 2128 à 2262, 2265
+à 2276, 2279 et 2282, ainsi que les offres de preuves qui s’y rapportent. En tant qu'elle
+tend à introduire ces éléments, la requête n’apparaît pas présentée
+à des fins
+dilatoires
+,
+ce d’autant que le requérant a lui-même pris des conclusions reconventionnelles en paiement
+à l’encontre de l’intimée. Il est donc peu suspect de vouloir prolonger la procédure.
+En définitive, il y a lieu d’autoriser la réforme dans la mesure indiquée, un délai
+de vingt jours dès la notification du présent jugement incident étant fixé au requérant
+pour déposer une écriture complémentaire renfermant les allégués susmentionnés
+(à ranger sous les numéros d’ordre 1892 ss).
+L’intimée disposera ultérieurement d’un délai pour se déterminer sur
+les allégués introduits par la réforme
+et,
+au besoin,
+indiquer des faits nouveaux
+et des preuves connexes (JdT 1981 III 133).
+IV.
+Tous les actes du procès peuvent et doivent être maintenus (art. 155 CPC-VD).
+V.
+La partie qui obtient la réforme est chargée des dépens frustraires, fixés par le
+jugement de réforme, à moins qu'elle n'établisse n'avoir pu connaître en temps utile
+le fait qui l'incite à corriger sa procédure (art. 156 al. 2 CPC-VD).
+En l’occurrence, le requérant a apporté cette preuve libératoire. En effet, les
+pièces requises 1000 à 1557 ont été déposées après l’échange
+des écritures des parties, tout comme les onze rapports d’expertise. En outre, les éléments
+de fait relatifs aux divers intervenants sur le chantier litigieux, contre lesquels le requérant
+a agi parallèlement, ressortent d’une instruction qui a été clôturée après
+le dépôt des déterminations finales par l’intimée le 5 juin 2012. I
+l
+n’y a donc pas lieu de mettre des dépens frustraires à la charge du requérant.
+VI.
+Les frais du présent jugement
+incident sont arrêtés à 900 fr., à la charge du requérant
+(art.
+170a al. 1 du tarif des frais judiciaires en matière civile du
+4
+décembre 1984 [aTFJC], applicable en vertu de l'art. 99 al. 1 du tarif des frais judiciaires
+civils du 28 septembre 2010 [TFJC ; BLV 270.11.5], en vigueur depuis le 1
+er
+janvier
+2011)
+.
+Le
+juge statue librement sur l'adjudication des dépens de l'incident soulevé par la requête
+de réforme (art. 156 al. 3 CPC-VD).
+En
+l’espèce, l
+a réforme
+visait à introduire 391 allégués dont seuls dix sont refusés. L’intimée
+a conclu principalement au rejet de la requête et subsidiairement à ce qu’un délai
+raisonnable lui soit octroyé afin de se déterminer sur les allégués concernés
+et afin de produire des allégués connexes. Il se justifie par conséquent d’allouer
+au requérant des dépens de l’incident à hauteur de
+5’000
+fr. (art. 92 al. 1 et 2 et art. 150 al. 2 CPC-VD ; art. 2, 3 et 7 du
+tarif
+des honoraires d'avocat dus à titre de dépens du 17 juin 1986
+[
+Tav], applicable en vertu de l'art. 26 al. 2
+du tarif des dépens en matière civile du 23 novembre 2010 [TDC ; BLV 270.11.6], en
+vigueur depuis le 1
+er
+janvier 2011).
+*
+* * * *
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête de réforme déposée le 13 novembre 2020 par le requérant Z.________
+est admise.
+II.
+Le requérant est autorisé à introduire
+les allégués nos
+1893
+à 2038bis, 2038quater, 2039 à 2126, 2128 à 2262, 2265 à 2276, 2279 et 2282
+figurant
+dans sa requête ainsi que les offres de preuve y relatives.
+III.
+Un délai de
+vingt
+jours
+dès réception du présent
+jugement est imparti au requérant pour déposer une écriture complémentaire conforme
+au chiffre II ci-dessus en rangeant les allégués sous les numéros d’ordre 1892 ss.
+IV.
+Un délai de trente jours sera fixé à l’intimée S.________ pour se déterminer
+sur les allégués nouveaux du requérant et, le cas échéant, introduire des allégations
+et des preuves connexes à celles autorisées par la réforme.
+V.
+Tous les actes du procès sont maintenus.
+VI.
+Les frais de la procédure incidente sont arrêtés à 900 fr. (neuf cents francs) pour
+le requérant.
+VII.
+L’intimée versera au requérant la somme de 5’900 fr. (cinq mille neuf cents francs)
+à titre de dépens de la procédure incidente.
+Le
+juge instructeur :              Le greffier :
+E.
+Kaltenrieder              M. Bron
+Du
+Le jugement qui précède, directement motivé, lu et approuvé à huis clos, est
+notifié, par l'envoi de photocopies, aux conseils des parties.
+Le greffier :
+M. Bron
