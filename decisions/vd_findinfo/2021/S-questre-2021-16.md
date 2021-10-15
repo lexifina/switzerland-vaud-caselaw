@@ -1,0 +1,830 @@
+---
+decision_id: "vd_findinfo_S_questre___2021___16"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2021 / 16"
+decided: "2021-10-15"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8509913"
+cites_law: ["switzerland/bund/acts/101/art-009.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-721.md", "switzerland/bund/acts/210/art-951.md", "switzerland/bund/acts/272/art-254.md", "switzerland/bund/acts/272/art-311.md", "switzerland/bund/acts/272/art-317.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/272/art-335.md", "switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-273.md", "switzerland/bund/acts/281.1/art-278.md", "switzerland/bund/acts/291/art-016.md", "switzerland/bund/acts/291/art-046.md", "switzerland/bund/acts/291/art-048.md"]
+---
+
+# VD Findinfo Séquestre / 2021 / 16
+
+## Regeste
+
+SÉQUESTRE{LP}, DONATION, CONJOINT, RÉVOCATION{EN GÉNÉRAL}, EXIGIBILITÉ, INTERNATIONAL, PREUVE FACILITÉE, CONSTATATION DU DROIT ÉTRANGER | 16 LDIP, 48 LDIP, 271 al. 1 ch. 4 LP, 272 al. 1 ch. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 15.10.2021 Séquestre / 2021 / 16
+
+SÉQUESTRE{LP}, DONATION, CONJOINT, RÉVOCATION{EN GÉNÉRAL}, EXIGIBILITÉ, INTERNATIONAL, PREUVE FACILITÉE, CONSTATATION DU DROIT ÉTRANGER | 16 LDIP, 48 LDIP, 271 al. 1 ch. 4 LP, 272 al. 1 ch. 1 LP
+
+TRIBUNAL
+CANTONAL
+KE21.010513-211108
+224
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+15 octobre 2021
+____________________
+Composition
+:              M.
+Hack
+,
+président
+Mmes
+Rouleau et  Cherpillod, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+271 al. 1 ch. 4, 272 al. 1 ch. 1 LP ; 16, 48 LDIP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+P.________
+,
+à Monaco, contre le prononcé rendu le 26 avril 2021, à la suite de l’audience
+du même jour, par le Juge de paix du district de Lausanne admettant l’opposition de
+G.________
+,
+à Monaco, au séquestre ordonné le 26 janvier 2021 à la réquisition du recourant.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le [...] 2012, le requérant P.________ et l’opposante G.________ ont conclu un contrat de
+mariage notarié prévoyant notamment que toutes les affaires patrimoniales (actifs et passifs)
+pendant le mariage seraient régies par le régime de séparation de biens tel qu’il
+est prévu par le droit L.________ et que ce contrat de mariage aurait un effet mondial quel que
+soit le lieu où les parties auraient établi leur résidence ou leur domicile et quel que
+soit le lieu du ou des foyers matrimoniaux.
+Les parties se sont mariées le [...] 2013 à Malte, où elles avaient alors leur domicile.
+2.
+a)
+Le 4 mars 2020, l’opposante a introduit
+une demande de divorce à L.________. Le 27 mai 2020 le requérant en a fait de même devant
+les tribunaux monégasques.
+b)
+Le
+5 juin 2020, le requérant a déposé auprès du Tribunal de première instance de
+la Principauté de Monaco, une requête tendant à la révocation de toutes les donations
+faites à l’opposante durant leur mariage, à ce que la restitution des donations soit
+ordonnée et à la condamnation de l’opposante à lui restituer ces donations. Cette
+procédure est toujours pendante.
+Le même jour, le requérant a également déposé auprès de la même autorité
+une requête de saisie-arrêt afin d’obtenir le séquestre d’avoirs détenus
+par l’opposante à Monaco.
+c)
+Par
+arrêt du 25 septembre 2020, la Cour d’appel de la Principauté de Monaco a rendu le dispositif
+suivant :
+« Reçoit
+l’appel formé par P.________,
+Le déclare bien fondé,
+Infirme l’ordonnance rendue le 15 juin 2020 par la Présidente du Tribunal de première
+instance,
+Statuant à nouveau,
+Autorise P.________ à faire pratiquer une saisie-arrêt entre les mains de la SAM S.________
+Wealth Management (Monaco), ayant son siège social [...], à Monaco, sur toutes sommes, deniers
+ou valeurs détenus au nom de G.________ épouse P.________, domiciliée [...], à Monaco,
+et ce, pour avoir sûreté, garantie et paiement de la somme de 3'889.460,34 euros, sauf à
+parfaire ou à diminuer,
+Dit que le présent arrêt sera exécutoire sur minute qu’il en sera référé
+selon les modalités prévues par l’article 852 du Code de procédure civile en cas
+de difficultés,
+Laisse les dépens de l’ordonnance réformée et ceux du présent arrêt à
+la charge du Trésor ; »
+L’arrêt contient notamment les considérants suivants :
+« (…)
+Attendu qu’aux termes de l’art. 491 du Code de procédure civile sur le fondement duquel
+la demande a été soumise au premier juge, à défaut de titre, la saisie-arrêt
+peut avoir lieu en vertu de la permissions du juge et pour la somme qu’il fixe ;
+Que dans ce cas, le créancier qui entend solliciter, par requête non contradictoire, le bénéfice
+de cette autorisation judiciaire doit justifier d’un principe certain de créance présentant
+un caractère suffisant d’évidence, quand bien même la démonstration d’une
+créance liquide et exigible n’est pas exigée ;
+Qu’il s’ensuit que s’il n’a pas à justifier à ce stade d’une
+créance certaine, celle-ci doit cependant exister en germe ;
+Attendu qu’en l’espèce l’appelant soutient avoir effectué un certain nombre
+de dons manuels en faveur de son épouse au cours du mariage, donations qu’il entend désormais
+révoquer, ce dont il justifie en produisant l’assignation délivrée par devant le
+Tribunal de première instance à cette fin ;
+Que l’article 951 du Code civil consacre le principe de la libre révocation des donations
+faites entre époux durant le mariage ;
+Que toutefois les sommes d’argent remises à l’occasion d’un évènement
+pour lequel il est usage d’offrir un cadeau constituent de simples présent d’usage qui
+ne sont pas susceptible de révocation en application des dispositions de l’art. 721 du même
+Code ;
+Qu’ainsi l’exercice du droit consacré par l’article 951 précité caractérise
+un principe certain de créance présentant un caractère suffisant d’évidence
+pour les donations effectuées au bénéfice du conjoint durant le mariage ;
+(…)
+Qu’P.________ justifie ainsi d’un principe certain de créance à hauteur de la somme
+de 3.889.460,34 euros au regard des dépens effectuées en faveur de son épouse : acquisition
+des pièce de joaillerie (2.752.900 euros) [réd. : conclusion admise sur la base de la
+production par le requérant d’un ordre de virement donnés par lui en faveur d’un
+joailler et d’une facture de ce joailler au nom de l’opposante du même jour], du véhicule
+[...] (300.000 euros) [réd. : conclusion admise sur la base de la production par le requérant
+d’un ordre de virement donné par lui mentionnant le véhicule, d’une facture d’achat
+du même mois pour ledit véhicule au nom de l’opposante et d’un certificat d’immatriculation
+au nom de cette dernière], virements de 500.000 euros, 50.000 euros, 20.000 euros, 30.000 euros
+et 23.560,34 euros [réd. : conclusions admises sur la base de la production par le requérant
+d’ordres de virement donnés par lui en faveur de l’opposante ou indiquant celle-ci comme
+motif du virement]
+En revanche, la cour d’appel a refusé d’octroyer la saisie-arrêt pour des dépenses
+de robes de grands couturiers, car elles étaient conformes au train de vie des époux et à
+la position sociale du requérant, pour un virement à une maison de marque de luxe indiquant
+qu’il avait pour but un cadeau, car il s’agissait d’un présent d’usage,
+et pour un règlement d’achat auprès d’une maison de marque de luxe, faute de précision
+du bénéficiaire.
+d)
+L’opposante
+réside à Monaco depuis le mois de novembre 2020.
+e)
+Par
+ordonnance du 15 janvier 2021, la Présidente du Tribunal de Première instance de la Principauté
+de Monaco a rendu le dispositif suivant :
+«
+PAR
+CES MOTIFS
+Autorisons P.________ à faire pratiquer une saisie-arrêt entre les mains de l’établissement
+bancaire dénommé Bank S.________ Monaco SAM, dont le siège social se trouve [...] à
+Monaco, soit toutes sommes, valeurs ou titre détenus au nom et pour le compte de G.________ épouse
+P.________, et ce pour avoir sûreté, paiement et garantie de la somme de TROIS MILLIONS HUIT
+CENT QUATRE-VINGT-NEUF MILLLE QUATRE CENT SOIXANTE EUROS ET TRENTE QUATRE CENTIMES (3.889.460,34 euros),
+montant auquel Nous évaluons provisoirement la créance du requérant principal, sauf à
+parfaire ou à diminuer ;
+Disons qu’il Nous en sera référé en cas de difficultés ;
+Autorisons l’exécution de cette même ordonnance sur minute ; »
+3.
+Par acte du 26 janvier 2021, le requérant,
+par son précédent conseil, a pris, en se fondant sur le cas de séquestre de l’art.
+271 al. 1 ch. 4 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ;
+RS 281.1), les conclusions suivantes, avec suite de frais et dépens :
+«
+I.
+Ordonner le séquestre, à concurrence
+de CHF 4'237'139.20, de tous avoirs en compte et biens, créances, droits réels ou personnels,
+participations et autres biens, valeurs et droits patrimoniaux de quelque nature que ce soit, y compris
+les espèces et autres objets, y compris papiers-valeurs, déposés dans un coffre («
+safe
+»)
+détenus par G.________, épouse P.________, au sein de la Banque S.________ & Cie SA,
+via
+sa succursale sise [...] à [...] Lausanne,
+notamment les avoirs constituant le portefeuille n° [...]1 tels qu’un compte courante en euros
+(n° IBAN [...] 2) et 675 parts de la [...] n° ISIN [...]4.
+II.
+Ordonner
+au Préposé de l’Office des poursuites du district de Lausanne de procéder immédiatement
+au séquestre susmentionné.
+III. Dispenser P.________ de fournir des sûretés au sens de l’art. 273 LP »
+A l’appui de sa requête, il a notamment produit les pièces suivantes :
+-
+une liste de dix-sept opérations effectuées entre le 16 mai 2018 et le 11 novembre 2019 en
+faveur de diverses maison de marque de luxe ;
+-
+des copies de cinq factures de la boutique monégasque d’un grand joailler ;
+-
+des copies de deux factures de la boutique milanaise d’un grand couturier ;
+-
+une copie d’un avis de débit selon ordre du 28 janvier 2020 établi par Banque S.________
+& Cie SA, à Lausanne, attestant d’un virement de 30'000 fr. le 30 janvier 2020 en faveur
+d’une maison de marque de luxe, avec la mention : «
+CADEAU
+G.________
+» ;
+-
+une copie d’un avis de débit selon ordre du 25 février 2020 établi par Banque S.________
+& Cie SA, à Lausanne, attestant d’un virement de 8'824,50 euros. le 26 février 2020
+en faveur d’une maison de couture ;
+-
+une copie d’une facture de 300'000 euros adressée le 2 juillet 2018 par un garage monégasque
+à l’opposante pour la vente d’un véhicule de marque [...] ;
+-
+une copie d’une attestation du 10 août 2018 émanant du Service des titres de circulation
+de la Principauté de Monaco indiquant que l’opposante était propriétaire du véhicule
+susmentionné ;
+-
+une copie d’un avis de débit selon ordre du 9 juin 2016 établi par Banque S.________
+& Cie SA, à Lausanne, attestant d’un virement de 500’000 euros le 15 juin 2016 en
+faveur de l’opposante ;
+-
+une copie d’un avis de débit selon ordre du 19 octobre 2016 établi par Banque S.________
+& Cie SA, à Lausanne, attestant d’un virement de 50’000 euros le 19 octobre
+2016 en faveur de l’opposante ;
+-
+une copie d’un avis de débit selon ordre du 21 janvier 2019 établi par Banque S.________
+& Cie SA, à Lausanne, attestant d’un virement de 20’000 euros le 22 janvier 2019
+sur un compte bancaire de l’opposante à Zurich ;
+-
+une copie d’un avis de débit selon ordre du 21 janvier 2019 établi par Banque S.________
+& Cie SA, à Lausanne, attestant d’un virement de 20’000 euros le 22 janvier 2019
+sur un compte bancaire de l’opposante à Zurich ;
+-
+une copie d’un avis de débit selon ordre du 1
+er
+juillet 2019 établi par Banque S.________ & Cie SA, à Lausanne, attestant d’un virement
+de 30’000 euros le 1
+er
+juillet 2019 sur un compte bancaire de l’opposante à Zurich ;
+-
+une copie d’un avis de débit selon ordre du 31 mai 2016 établi par Banque S.________
+& Cie SA, à Lausanne, attestant d’un virement de 21'320'894,62 roubles le 31 mai
+20016 sur un compte bancaire d’ [...] COMPANY [...] à Moscou avec le libellé suivant :
+«
+G.________ GIFT
+FROM A NON-RESIDENT TO RESIDENT TO BUY A PROPERTY IN RUSSIA
+».
+4.
+Par ordonnance du 27 janvier 2021, le Juge de paix du district de Lausanne a prononcé le séquestre
+requis. Il a en outre dispensé le requérant de la fourniture de sûretés. L’ordonnance
+indique sous la rubrique «
+Titre
+et date de créance / Cause de l’obligation
+» :
+«
+créance de
+P.________ à l’égard de son épouse G.________, relative à des donations effectuées
+par P.________ à G.________ et dont il demande la révocation en application du droit en vigueur
+à Monaco
+».
+Le procès-verbal du séquestre n° 9'860'519, exécuté le 27 janvier 2021 par l’Office
+des poursuites du district de Lausanne indique qu’après réception du courrier de la banque
+le 3 février 2021, le séquestre pourrait avoir porté.
+5.
+a)
+Par acte du 8 mars 2021, G.________, par son
+conseil, a pris devant le Juge de paix du district de Lausanne, les conclusions suivantes :
+«
+A
+la forme
+1. Déclarer recevable la présent opposition à séquestre.
+Au
+fond
+Principalement
+2. Annuler l’Ordonnance de séquestre dans la procédure KH20.003940 ;
+Ceci fait :
+3. Ordonner à l’Office des poursuites du district de Lausanne de libérer tous les biens
+séquestrés sur la base de l’Ordonnance de séquestre précitée et l’inviter
+à notifier cette décision au tiers concerné.
+4. Débouter Monsieur P.________ de toutes autres, contraires ou plus amples conclusions.
+5. Condamner Monsieur P.________ aux dépens de la présente instance comprenant une équitable
+indemnité valant participation aux honoraires du conseil soussigné.
+Subsidiairement
+6. Condamner Monsieur P.________ à fournir des sûretés à concurrence d’un montant
+de CHF 100'000 au minimum, assorti de la menace de la caducité du séquestre et ainsi ordonner
+la libération de tous les biens séquestrés, selon la conclusions No 3 ci-dessus, si lesdites
+sûretés ne sont pas fournies dans un délai de 10 jours à compter de la décision
+rendue sur opposition ».
+A l’appui de ses conclusions, l’opposante a contesté l’existence de la créance
+réclamée, ainsi que l’existence d’un cas de séquestre.
+b)
+Par
+courriers recommandés du 11 mars 2021, le juge de paix a notifié l’opposition au requérant
+et a cité les parties à comparaître à l’audience du 26 avril 2021 à
+14 h 30, un délai de détermination échéant le 16 avril 2021, ultérieurement
+prolongé au 21 avril 2021, étant imparti au requérant pour se déterminer.
+Le 20 avril 2021, l’opposante a produit un acte de la procédure de saisie-arrêt pendante
+à Monaco.
+Par acte du 21 avril 2021, le requérant a requis la suspension de la procédure jusqu’à
+droit connu sur la procédure monégasque concernant la révocation des donations en cause
+et au renvoi de l’audience du 26 avril 2021 à début juin au plus tôt.
+L’opposante a conclu au rejet de ces requêtes par courrier du 22 avril 2021.
+Par décision du 23 avril 2021, le juge de paix a rejeté la requête de suspension et de
+renvoi de l’audience, pour le motif que la cause pendante à Monaco avait un caractère
+conservatoire.
+Le 26 avril 2021 à 10 h 30, le requérant a déposé des déterminations concluant,
+avec suite de frais et dépens, au rejet de l’opposition au séquestre.
+A l’audience du 26 avril 2021, les conseils des parties se sont présentés et ont confirmé
+leurs conclusions.
+6.
+Par prononcé non motivé du 26 avril
+2021, adressé aux parties le 10 mai 2021, le Juge de paix du district de Lausanne a admis l’opposition
+au séquestre (I), a révoqué l’ordonnance de séquestre du 26 janvier 2021 (II),
+a arrêté les frais judiciaires à 1'800 fr. (III), les a mis à la charge du requérant
+(IV) et a dit qu’en conséquence, celui-ci rembourserait à l’opposante son avance
+de frais, par 1'800 fr. et lui verserait des dépens fixés à 6'000 fr. (IV).
+Le 21 mai 2021, le requérant, par son conseil, a demandé la motivation du prononcé.
+Les motifs du prononcé ont été adressés aux parties le 25 juin 2021 et notifiés
+au requérant le 28 juin 2021. En droit le premier juge a considéré que l’opposition
+avait été déposée en temps utile, l’opposante ayant eu connaissance du séquestre
+le 25 janvier 2021, et constaté que le séquestre avait porté, de sorte que l’opposition
+était recevable. Il a considéré que l’arrêt de la Cour d’appel de la
+Principauté de Monaco du 25 septembre 2020 autorisant la saisie arrêt des biens de l’opposante
+ne constituait pas un titre à la mainlevée définitive. Il a jugé que la créance
+résultant de la révocation des donations faites durant le mariage était, selon le droit
+international privé suisse, soumise, en vertu de l’élection de droit effectuée par
+les parties, au droit L.________, celui-ci étant applicable quel que soit le lieu où les parties
+auraient établi leur résidence ou domicile. Or le droit L.________ prévoyait l’irrévocabilité
+(art. 1737 Code civil L.________), sauf le cas d’ingratitude prévu à l’art. 1787
+du Code civil L.________, moyen que n’avait pas plaidé le requérant. Par surabondance,
+l’arrêt du 25 septembre 2020 ne rendait pas vraisemblable l’exigibilité de la créance,
+puisqu’il précisait que «
+la
+démonstration d’une créance liquide et exigible n’est pas exigée
+».
+Le requérant n’ayant pas rendu vraisemblable l’existence d’une créance exigible,
+l’opposition devait être admise.
+7.
+Par acte du 8 juillet 2021, le requérant
+a recouru contre ce prononcé en concluant, avec suite de frais et dépens, à son annulation
+et à sa réforme en ce sens que l’opposition au séquestre du 8 mars 2021 est rejetée
+et l’ordonnance de séquestre du 27 janvier 2021 validée.
+L’intimée n’a pas été invitée à se déterminer.
+En droit
+:
+1.
+Le recours a été déposé dans
+le délai de dix jours qui a suivi la notification de la décision motivée, conformément
+à l’art. 321 al. 2 CPC (Code de procédure civile du 19 décembre 2008; RS 272), applicable
+par le renvoi de l’art. 278 al. 3 LP. Il est motivé et contient des conclusions. Il est dès
+lors recevable (art. 321 al. 1 CPC).
+2.
+2.1
+L’art. 321 al. 1 CPC impose au recourant de motiver son recours. La jurisprudence du Tribunal fédéral
+en a déduit qu’il lui incombait d’expliquer les motifs pour lesquels la décision
+attaquée devait être annulée et modifiée, par référence à l’un
+ou l’autre motif prévus à l’art. 320 CPC. La motivation doit être suffisamment
+explicite pour que l’instance de recours puisse la comprendre aisément, ce qui suppose une
+désignation précise des passages de la décision que le recourant attaque et des pièces
+du dossier sur lesquelles repose sa critique (ATF 138 III 374 consid. 4.3.1 ; 5A_503/2018 du 25 septembre
+2018 consid. 6.3 et les réf. cit. concernant les art. 310 et 311 CPC relatifs à l’appel,
+mais applicables par analogie au recours ; TF 4A_580/2015 du 11 avril 2016 consid. 2.2 et les réf.
+cit. ; TF 5D_190/2014 du 2 septembre 2014 consid. 4.2.1 ; cf. Jeandin, in Bohnet et alii (éd.),
+Commentaire romand, CPC, 2
+e
+éd., 2019, n. 2 et 4 ad art. 321 CPC). Un renvoi global aux arguments présentés en première
+instance ou aux pièces du dossier ni ne suffit à satisfaire au devoir de motivation ni ne constitue
+un allégué suffisant (TF 5A_113/2018 du 12 septembre 2018 consid. 4.2.1.2 ; 5A_573/2017 du
+19 octobre 2017 consid. 3.3; 5A_209/2014 du 2 septembre 2014 consid. 4.2.1; 4A_452/2013 du 31 mars 2014
+consid. 2.3; 4A_309/2013 du 16 décembre 2013 consid. 3.2, publié  in SJ 2014 I p. 196).
+De même, la reprise de la motivation développé devant le premier juge ne suffit pas (TF
+4A_101/2014 consid. 3.3 ; Jeandin, op. cit., n. 3b ad art. 311 CPC).
+2.2
+En
+matière d'opposition au séquestre, les parties peuvent alléguer des faits nouveaux (art.
+278 al. 3 LP). Les pièces nouvelles sont également recevables. Cette disposition déroge
+à l'art. 326 al. 1 CPC et permet aux parties à un recours contre une décision sur opposition
+au séquestre d'alléguer des faits nouveaux. Les pseudo-nova ne sont toutefois recevables qu'en
+tant que celui qui les allègue établit qu'ils ne pouvaient être invoqués ou produits
+devant la première instance bien qu'il ait fait preuve de la diligence requise – soit aux
+conditions de l’art. 317 al. 1 CPC appliqué par analogie (ATF 145 III 324 consid. 6, JdT 2019
+II 275).
+3.
+3.1
+Selon l'art. 272 al. 1 ch. 1 LP, le séquestre est autorisé lorsque le requérant rend vraisemblable
+que sa créance existe. A cet égard, le critère de la vraisemblance s'applique non seulement
+à l'existence de la créance en fait, mais aussi à son existence juridique (ATF 138 III
+232 consid. 4.1.1). Ainsi, les faits à l'origine du séquestre doivent être rendus simplement
+vraisemblables. Tel est le cas lorsque, se fondant sur des éléments objectifs, le juge acquiert
+l'impression que les faits pertinents se sont produits, mais sans qu'il doive exclure pour autant la
+possibilité qu'ils se soient déroulés autrement (ATF 138 précité loc. cit. ;
+en général : cf. ATF 130 III 321 consid. 3.3). A cet effet, le créancier séquestrant
+doit alléguer les faits et produire un titre (art. 254 al. 1 CPC) qui permet au juge du séquestre
+d'acquérir, au degré de la simple vraisemblance, la conviction que la prétention existe
+pour le montant énoncé et qu'elle est exigible (ATF 138 III 636 consid. 4.3.2; TF 5A_877/2011
+du 5 mars 2012 consid. 2.1 ; TF 5A_828/2015 du 23 février 2016 consid. 3).
+3.2
+La
+question de savoir si l'autorité cantonale est partie d'une juste conception du degré de la
+preuve exigé par le droit fédéral, soit en l'occurrence la simple vraisemblance, relève
+du droit. En revanche, celle de savoir si le degré de vraisemblance requis par le droit fédéral
+est atteint dans le cas particulier ressortit à l'appréciation des preuves (TF 5A_365/2012,
+5A_366/2012, 5A_367/2012 du 17 août 2012 consid. 5.1 non publié in ATF 138 III 636 ; également
+ATF 138 III 232 consid. 4.1.1; 130 III 321 consid. 5 et les références; TF 5A_629/2011 du 26
+avril 2012 consid. 5.3.1).
+4.
+La décision d'opposition au séquestre n'est susceptible que d'un recours au sens des art. 319
+ss CPC, de sorte que l'autorité cantonale n'intervient que si le juge de première instance
+a retenu – respectivement nié – de manière arbitraire la simple vraisemblable des
+faits (art. 320 let. b CPC ; TF 5A_582/2012 du 11 février 2013 consid. 3.1 ; également TF 5A_581/2011
+du 5 mars 2012 consid. 4.1.2).
+5.
+A l’appui de sa requête de séquestre, le recourant invoquait un arrêt du 25 septembre
+2020 de la Cour d’appel de la Principauté de Monaco lui reconnaissant «
+un
+principe certain de créance
+» à
+hauteur de la somme de 3'889'460.34 euros, soit 4'237'139 fr. 20 au taux de change à la date de
+l’envoi de la requête de séquestre. Selon cet arrêt, ce premier montant se composait
+de la manière suivante : acquisitions de pièces de joaillerie (2'752'900 euros), d’un
+véhicule [...] (300'000 euros) et virements de 500'000 euros, 50'000 euros, 20'000 euros, 30'000
+euros et 236'560,34 euros. Le recourant invoquait alors que ces donations étaient en partie débitées
+d’un compte bancaire suisse dont il était titulaire, en faveur d’un compte bancaire
+suisse de l’intimée. Le recourant faisait également valoir comme seul cas de séquestre
+celui, subsidiaire, prévu par l’art. 271 al. 1 ch. 4 LP.
+6.
+A l’appui de son recours, le recourant estime que l’autorité précédente a
+à tort nié la vraisemblance de sa créance. Il semble soutenir que l’autorité
+précédente n’avait pas à rechercher le droit applicable à la révocation
+de donation – et retenir en conséquence le droit L.________. Procédant, après avoir
+émis ce grief, à la détermination du droit interne applicable à la révocation
+d’une donation à la lumière de la LDIP (loi du 18 décembre 1987 sur le droit international
+privé ; RS 291), il estime que cette question s’examine indépendamment des questions
+de droit de la famille et, que selon l’art. 48 LDIP, régissant donc le droit applicable aux
+effets généraux du mariage, c’est le droit applicable de l’Etat de domicile des
+époux qu’il faut retenir. Ce serait donc le droit monégasque qu’il conviendrait
+d’appliquer.
+6.1
+Lorsque la créance n'est pas constatée
+dans un titre de mainlevée définitive ou provisoire, admettre la vraisemblance de son existence,
+de son montant et, le cas échéant, de son exigibilité suppose d'abord de déterminer
+le droit matériel applicable à la créance au moyen des règles de droit international
+privé suisse (Pahud, Le séquestre et la protection des créances pécuniaires, 2018,
+nn. 146 ss, pp. 48 et 49. ; Meier-Dieterle, in Hunkeler (éd.) KurzKommentar SchKG, 2
+e
+éd., n. 2 ad art. 271 LP). Il peut s’agir du droit suisse comme d’un droit étranger
+; le séquestre peut garantir une créance régie par un droit étranger. Une fois le
+droit matériel applicable déterminé, il s’agit de l’appliquer aux faits rendus
+vraisemblables. La créance en tant que première condition de l’autorisation de séquestre
+dépend donc tant de la vraisemblance des faits que de la vraisemblance du droit (Pahud, op. et loc.
+cit. ; Stoffel, in Staehelin/Bauer/Staehelin (éd.) Basler Kommentar SchKG II, 2
+e
+éd., n. 8 ad art. 272 LP).
+S’agissant de la vraisemblance du droit, il faut distinguer selon que la lex causae est le droit
+suisse ou un droit étranger désigné applicable par les règles de droit international
+privé suisse (Pahud, op. cit., n. 150 p. 50). Chaque fois que la créance est régie par
+le droit suisse, le principe jura novit curia est sans autre applicable. Lorsque la cause présente
+un élément d’extranéité et que le droit international privé suisse renvoie
+à un droit matériel étranger, le Tribunal fédéral a dit clairement que le droit
+étranger qui doit être appliqué en Suisse n’a pas le caractère d’un fait
+mais celui d’une norme (ATF 138 III 232 consid. 4.2.4 ; ATF 119 II 93 ; TF 5A_60/2013 du 27 mai
+2013 consid. 3.2.1.1). Ainsi même si, dans sa version française, l'art. 16 al. 1 LDIP parle
+de « preuve », le droit étranger qui doit être appliqué en Suisse ne relève
+pas du fait ; il faut donc comprendre le terme de preuve comme une constatation (« Nachweis »,
+et non « Beweis ») du droit étranger (ATF 145 III 213 consid. 6.1.2 ; ATF 138 III 232
+consid. 4.2.4; TF 5A_488/2019 du 10 mai 2019 consid. 3.1 ; TF 4A_65/2017 du 19 septembre 2017 consid.
+2.2.1). Dans un arrêt récent relatif à l’établissement du droit étranger
+en matière de procédure de mainlevée et, singulièrement, de moyen libératoire
+au sens de l’art. 82 al. 2 LP, le Tribunal fédéral a posé que, en matière de
+séquestre, qui suit les règles de la procédure sommaire au sens propre, le requérant
+doit seulement rendre vraisemblable le contenu du droit étranger, ce qui a pour corollaire que le
+juge procédera à un examen sommaire de celui-ci (ATF 145 III 213 consid. 6.1.3 ; TF 5P.355/2006
+du 8 novembre 2006 consid. 4.3, in Pra 2007 Nr. 47 p. 305).
+6.2
+La première affirmation du recourant selon laquelle l’autorité précédente n’avait
+pas à rechercher le droit applicable à la révocation de donation – et retenir en
+conséquence le droit L.________, ne saurait être suivie. L’arrêt 5A_60/2013, invoqué
+par lui, ne dit pas que le juge du séquestre n’a pas à rechercher le droit applicable,
+contrairement à ce que soutient le recourant. Le TF estime uniquement qu’ «
+en
+matière de séquestre (art. 271 ss LP), à savoir dans un domaine où le juge procède
+à un examen sommaire du bien-fondé de la créance alléguée (ATF 138 III 232 consid.
+4.1.1), il n'est pas arbitraire (art. 9 Cst.), vu l'urgence d’une telle mesure de renoncer à
+établir le contenu du droit étranger et d'appliquer directement le droit suiss
+e »
+(TF 5A_60/2013 du 27 mai 2013 consid. 3.2.1.2 ; ATF 140 III 456 consid. 2.3).
+Dans ce dernier arrêt, publié, ad consid. 2.4 confirmé par l’ATF 145 III 213 ad
+consid. 6.1.2, le TF a toutefois précisé que s’il n'incombe pas au juge de la mainlevée
+de constater de son propre chef le contenu du droit étranger, cela ne dispense pas le poursuivant
+d'établir ce droit, dans la mesure où l'on peut raisonnablement l'exiger de lui (art. 16 al.
+1, 3 e phrase, LDIP; cf. pour le séquestre: arrêt TF 5P.422/1999 du 13 mars 2000 consid. 3b),
+même sans y avoir été invité par le juge. De manière générale, le
+juge ne peut d'ailleurs s'en remettre au bon vouloir des parties de prouver ou non le contenu du droit
+étranger et, si elles ne le font pas, se référer au droit suisse. Le Tribunal fédéral
+a ainsi jugé qu’en procédure sommaire il appartenait au requérant d'établir
+le droit étranger, dans la mesure où l'on pouvait raisonnablement l'exiger de lui (art. 16
+al. 1, 3e phrase, LDIP), même sans y avoir été invité par le juge. Il a ajouté
+que, s'il n'y procédait pas, il n'y avait pas lieu d'appliquer le droit suisse, mais de rejeter
+la requête (cf. ATF 145 III 213 consid. 6.1.2 ; ATF 140 III 456 consid. 2.3 et 2.4).
+Dans ces conditions, le grief fait à l’autorité précédente d’avoir établi
+le droit applicable à la créance du recourant est infondé.
+6.3
+Avec le premier juge, il convient de constater qu’il n’existe pas de convention entre la
+Suisse et Monaco s’agissant du droit applicable à des donations entre époux. La question
+doit donc être résolue en application de la LDIP.
+Selon la doctrine, les actes juridiques entre époux sont des effets du mariage au sens des art.
+46 et 48 LDIP (Dutoit, Droit international privé suisse, 5
+e
+éd., 2016, n. 1 ad art. 46 LDIP; Bucher, in Bucher (éd.), Commentaire romand, LDIP, CL, n.
+6 ad art. 48 LDIP n° 6 ; Bodenschatz, in Grolimund/Loacker/Schnyder (éd.), Basler Kommentar,
+Internationales Privatrechts, 4
+e
+éd., 2021 n. 5 ad art. 46 LDIP). Une élection de droit n’est ainsi pas possible les concernant,
+contrairement à la question du régime matrimonial (Bucher, op. cit., n. 1 ad art. 48 LDIP ;
+Bodenschatz, op. cit., n. 27 ad art. 48 LDIP). Le droit applicable à un tel acte doit ainsi se déterminer
+selon l’art. 48 LDIP.
+Aux termes de l’art. 48 al. 1 LDIP, les effets du mariage sont régis par le droit de l’État
+dans lequel les époux sont domiciliés.
+6.4
+En l’espèce, le prononcé attaqué
+retient que l’intimée réside à Monaco depuis le mois de novembre 2020. Il est muet
+sur le domicile du recourant. Toutefois, il ressort de l’arrêt du 25 septembre 2020 que celui-ci
+demeure à Monaco. Dans son opposition au séquestre, l’intimée a allégué
+qu’au mois d’octobre 2019, les parties ont déposé une demande de résidence
+à Monaco. Il y a donc lieu de déduire notamment de cet élément d’intention
+que leur domicile est bien Monaco, partant que le droit applicable à la créance du recourant
+résultant de la révocation des donations litigieuses est le droit monégasque.
+6.5
+Il résulte des pièces produites que l’art. 951 CC Monaco consacre le principe de la libre
+révocation des donations faites entre époux. Celles d’usage ne sont toutefois pas susceptibles
+de révocation (art. 721 CC Monaco).
+A l’issue d’une procédure relativement complète, la Cour d’appel de la Principauté
+de Monaco, saisie d’une requête de saisie-arrêt par le recourant, et appliquant le droit
+monégasque, a retenu que le recourant avait effectué durant la vie commune, depuis des comptes
+dont il était bénéficiaire, un certain nombre de donations à l’intimée
+et détenait pour certaines d’entre elles un «
+principe
+certain de créance
+» résultant
+de la révocation de dites donations. Il s’agit d’acquisitions de pièces de joaillerie
+(2'752'900 euros), d’un véhicule [...] (300'000 euros) et de virements de 500'000 euros, 50'000
+euros, 20'000 euros, 30'000 euros et 236'560.34 euros, soit des donations pour un montant total de 3'889'460.34
+euros, soit 4'237'139 fr. 20 au taux de change à la date de l’envoi de la requête de
+séquestre.
+Elle a en revanche écarté l’existence d’un principe certain de créance pour
+d’autres donations invoquées, soit pour des dépenses de robes de grands couturiers, car
+elles étaient conformes au train de vie des époux et à la position sociale du requérant,
+pour un virement à une maison de marque de luxe indiquant qu’il avait pour but un cadeau,
+car il s’agissait d’un présent d’usage, et pour un règlement d’achat
+auprès d’une maison de marque de luxe, faute de précision du bénéficiaire.
+Au vu de l’instruction et de la procédure menées par la Cour d’appel monégasque,
+il convient de retenir comme vraisemblable que les différents virements litigieux retenus par elle
+ont été faits depuis un compte dont le recourant est bénéficiaire, ce bien que les
+pièces bancaires produites à l’appui de la requête de séquestre n’indiquent
+pas l’identité du titulaire des comptes débités. Au vu du droit cité supra
+et de cette décision, il convient également de considérer que le recourant a rendu vraisemblable
+l’existence de créances résultant de la révocation des donations admises comme révocables
+dans la procédure monégasque ayant abouti à l’arrêt du 25 septembre 2020 et
+totalisant 3'889'460.34 euros, soit 4'237'139 fr. 20 au taux de change applicable au jour du dépôt
+de la requête de séquestre.
+Le recourant n’invoque pas que d’autres créances auraient dû être retenues
+comme vraisemblables, notamment celles résultant de cadeaux d’«
+usage
+»,
+dont la révocation a été écartée par la Cour d’appel. Il n’y a pas
+lieu à revenir sur ce point, faute de grief (cf. ATF 147 III 176 consid. 4.2.1).
+Les donations retenues par l’arrêt du 25 septembre 2020 ont consisté pour la plupart
+dans des transferts d’argent (500'000 euros, 50'000 euros, 20'000 euros, 30'000 euros et 236'560.34
+euros). La créance en restitution de ces montants à la suite de la révocation des donations
+est de nature pécuniaire et peut donner lieu à un séquestre au sens des art. 271 ss LP.
+En revanche, dans la mesure où le recourant a payé les factures de joaillerie pour 2'752'900
+euros et un véhicule pour 300'000 euros et où il n’a pas démontré que le droit
+monégasque autorise, dans le cadre de la révocation de donations effectuées, à réclamer
+la contre-valeur du don et non seulement la restitution des objets donnés, l’usage du séquestre
+des art. 271 ss LP n’est pas autorisé : en effet, le séquestre est une mesure conservatoire
+officielle en vue de l’exécution forcée, une mainmise de l’autorité sur les
+biens du débiteur, pour garantir une créance qui fait l’objet d’une poursuite pendante
+ou fera celui d’une poursuite future (Gilliéron, Poursuite pour dettes, faillites et concordat,
+5
+e
+éd. N° 2134, p. 502). Le lien avec une poursuite selon la LP implique donc nécessairement
+que la créance pour laquelle le séquestre est réclamé soit de nature pécuniaire
+ou tende à la fourniture de sûretés (art. 335 al. 2 CPC), les sûretés pouvant
+être prévues contractuellement, par une décision judiciaire ou par la loi (Gilliéron,
+Poursuite précité., n° 158, p. 34). Le créancier d’un droit réel ou personnel
+sur une chose, devra, pour sauvegarder ses droits, utiliser les instruments prévus par la règlementation
+des mesures provisionnelles (annotation d’une restriction du droit d’aliéner, interdiction
+de disposer d’un objet, mise sous scellés) (Gilliéron, Poursuite précité, n°
+2149, pp. 504-505). Aussi, ne pourraient donner lieu à séquestre que les montant de 500'000
+euros, 50'000 euros, 20'000 euros, 30'000 euros et 236'560.34 euros, soit 836'560,34 euros qui représentent
+911'340 fr. 45 au taux de change du jour du dépôt de la requête.
+Le recours est ainsi infondé en ce qui concerne les bijoux et le véhicule pour ce premier motif
+déjà.
+7.
+Afin d’obtenir le séquestre requis, le recourant doit encore rendre vraisemblable l’existence
+d’un cas de séquestre au sens de l’art. 271 LP.
+7.1
+Sur ce point, pourtant central, et bien que l’intimée l’ait contesté et l’autorité
+précédente ne l’ait pas admis, le recourant se borne à soutenir que «
+les
+conditions du séquestre, au reste non discutées par le premier juge, sont réalisées
+». Ce faisant, le recourant, qui entend obtenir le rejet de l’opposition au séquestre
+admise par l’autorité précédente, n’expose pas de manière recevable pour
+quel motif la décision entreprise serait infondée et toutes les conditions du séquestre
+réalisées, notamment celle de la vraisemblance d’un cas de séquestre, qu’il
+ne précise même pas dans son recours. A cet égard son écriture apparait difficilement
+compatible avec les exigences posées en matière de motivation par l’art. 321 al. 1 CPC.
+7.2
+Selon l’art. 271 al. 1 ch. 4 LP, le créancier d’une dette échue et non garantie
+par gage peut requérir le séquestre des biens du débiteur qui se trouvent en Suisse lorsque
+ce dernier n’habite pas dans ce pays et qu'il n’y a pas d’autre cas de séquestre,
+pour autant que la créance ait un lien suffisant avec la Suisse ou qu’elle se fonde sur une
+reconnaissance de dette au sens de l’art. 82 al. 1 LP. Le séquestre, mesure conservatoire
+urgente, doit être autorisé par le juge compétent, lorsque le créancier rend vraisemblable
+l’existence de la créance qu’il allègue et, dans le cas de l’art. 271 al.
+1 ch. 4 LP, son exigibilité (art. 271 al. 2 LP), la réalisation du cas de séquestre invoqué
+et l’existence de biens appartenant au débiteur (art. 272 al. 1 LP).
+7.3
+En l’espèce, le recourant n’avait invoqué dans sa requête de séquestre,
+du 28 janvier 2021, que le cas de séquestre prévu par l’art. 271 al. 1 ch. 4 LP. Ce faisant
+en invoquant, alors qu’il est assisté d’un avocat suisse, l’art. 271 al. 1 ch.
+4 LP, soit le cas de séquestre subsidiaire lorsqu’aucun autre n’est réalisé,
+le recourant admettait clairement qu’il n’existait pas d’autres cas de séquestre.
+Le fait d’insister dans son recours sur le caractère exigible de la créance, sans exposer
+aucunement en quoi un autre cas de séquestre n’exigeant pas l’exigibilité de la
+créance serait réalisé, démontre au surplus qu’il ne considère pas que
+les cas de séquestre visés par l’art. 271 al. 1 ch. 1 (le débiteur n’a pas
+de domicile fixe) ou 2 (le débiteur, dans l’intention de se soustraire à ses obligations,
+fait disparaître ses biens, s’enfuit ou prépare sa fuite) LP seraient réalisés,
+ceux-ci ne nécessitant pas une créance exigible d’emblée (art. 271 al. 2 LP). Au
+demeurant, le dossier ne contient aucun élément tangible rendant vraisemblable la réalisation
+d’un des cas de séquestre visés par les art. 271 al. 1 ch. 1 à 3 LP.
+7.4
+La réalisation du cas de séquestre visé par l’art. 271 al. 1 ch. 4 LP suppose, comme
+dit ci-dessus, que la créance soit exigible.
+7.4.1
+Le recourant ne le conteste pas et allègue uniquement à l’appui de son recours sur ce
+point, sans aucune référence (recours, p. 6) : «
+qu’il
+n’est pas contesté que le recourant a exercé le droit formateur consistant à révoquer
+les donations. La créance en découlant est donc née et est exigible
+».
+7.4.2
+L’exigibilité des créances a été niée par l’autorité précédente.
+Celle-ci a d’une part considéré que l’arrêt de la Cour d’appel de la
+Principauté de Monaco n’était pas suffisant pour rendre vraisemblable l’existence
+d’une créance exigible. Elle a d’autre part estimé qu’en droit L.________
+la révocation pour ingratitude n’a jamais lieu de plein droit. Ce dernier argument est erroné
+au vu de ce qui précède et de l’application du droit monégasque à la question
+de droit matériel qu’est l’exigibilité des créances (cf. ATF 140 III 456 S.
+458 consid. 2.2.1) résultant des donations litigieuses. Cela ne rend toutefois pas à lui seul
+vraisemblable l’exigibilité des créances litigieuses.
+En l’occurrence, le recourant procède à un raisonnement fondé clairement sur le
+droit suisse. Quelques lignes plus haut, il invoquait toutefois – à raison – que c’est
+le droit monégasque qui devait s’appliquer. Il lui incombait donc manifestement d’exposer
+en quoi les créances litigieuses étaient exigibles à la lumière du droit monégasque.
+Dès lors qu’il était assisté, avant même le dépôt de sa requête
+de séquestre, d’une étude d’avocat monégasque le représentant précisément
+sur cette question de révocation de donations (pièce 9 notamment) et qu’il a par ailleurs
+fourni plusieurs extraits de la législation monégasque (pièces 8 et 11) ainsi qu’un
+avis de droit sur la question (pièce 12), on pouvait raisonnablement exiger de lui qu’il établisse
+le droit monégasque applicable en matière d’exigibilité des créances (cf. juris
+citée supra ; en particulier ATF 140 III 456 consid. 2.4 statuant précisément sur la condition
+de l’exigibilité).
+Or le recourant, assisté, n’expose aucunement, qui plus est en indiquant les dispositions
+légales ou jurisprudentielles précises applicables, en quoi les créances litigieuses seraient
+exigibles, aujourd’hui déjà, en droit monégasque. Dans ces conditions, et conformément
+à la jurisprudence citée supra ad consid. 6.2, sa requête de séquestre et partant
+son recours doivent être rejetés.
+7.4.3
+Au demeurant, l’arrêt sur appel du 25 septembre 2020 dit précisément que l’exigibilité
+n’est pas nécessaire et ne rend ainsi aucunement vraisemblable que les créances invoquées
+par le recourant seraient déjà exigibles. Le recourant ne saurait donc rien tirer en la matière
+de cette procédure, ce que l’autorité précédente avait déjà souligné,
+sans que le recourant ne conteste cette appréciation dans son recours. Quant à son action au
+fond (pièce 9), le recourant, assisté d’un avocat monégasque, a déclaré
+révoquer dites donations et a conclu non seulement à ce que l’exercice de ce droit soit
+constaté, mais également à ce que le tribunal, distinctement, ordonne la révocation
+des donations effectuées, puis condamne l’intimée à payer les montants versés
+ou à restituer les objets donnés (pièce 9, p. 13 et 14 ; également pièce 10,
+p. 1). Ainsi, il n’apparaît pas, au vu des éléments dont dispose la Cour de céans,
+au stade de la vraisemblance, qu’en droit monégasque la déclaration de révocation
+constitue un acte formateur suffisant pour que l’acte soit révoqué et la créance
+en résultant exigible. Le recourant qui aurait pu le dire, et fournir des pièces afin de rendre
+cet aspect vraisemblable, ne l’a toutefois pas fait, se bornant à présenter une brève
+réflexion valable en droit suisse, ici manifestement non pertinente. A ce stade et au vu des éléments
+fournis par le recourant, il convient de considérer que celui-ci n’a pas rendu vraisemblable
+qu’il détiendrait des créances exigibles découlant des donations révoquées
+au seul motif qu’il a révoqué ces donations. Au contraire, à lire les conclusions
+prises par son avocat, un ordre du tribunal apparait nécessaire pour que la révocation existe.
+Pour ce motif encore, son recours doit être rejeté, dans son entier.
+7.5
+Par surabondance, il y a lieu de relever que la réalisation du cas de séquestre visé par
+l’art. 271 al. 1 ch. 4 LP suppose de plus, de par son texte, que le débiteur n’habite
+pas en Suisse – condition réalisée – qu’il n’y a pas d’autres
+cas de séquestre – condition également réalisée – et, condition alternative,
+que la créance ait un lien suffisant avec la Suisse ou qu’elle se fonde sur une reconnaissance
+de dette au sens de l’art. 82 al. 1 LP. Le recourant ne soutient pas que cette dernière hypothèse
+serait réalisée. Le séquestre ne peut partant être prononcé que s’il apparaît
+vraisemblable que les créances litigieuses ont un lien suffisant avec la Suisse.
+7.5.1
+L'exigence
+d'un lien suffisant avec la Suisse ne doit pas être interprétée restrictivement (ATF 124
+III 219 c. 3; 123 III 494 c. 3a); elle est notamment réalisée, lorsque la créance invoquée
+à l'appui de la réquisition est soumise au droit suisse ou que les juridictions suisses sont
+compétentes ratione loci pour connaître du litige (ATF 124 III 219 précité c. 3b/bb;
+123 III 494 c. 3a précité; Stoffel, op. cit., n. 92 ad art. 271 LP; Patocchi/Lembo, Le lien
+suffisant de la créance avec la Suisse en tant que condition de recevabilité du séquestre
+selon la nouvelle teneur de l'art. 271 al. 1er ch. 4 LP – Quelques observations, in : Angst/Cometta/Gasser,
+Schuldbetreibung und Konkurs im Wandel, pp. 385 ss, spéc. pp. 400 ss et les auteurs cités).
+De manière générale, le juge doit mettre en balance les intérêts du créancier
+avec ceux du débiteur. Le lien est suffisant lorsque l'intérêt du créancier à
+poursuivre au lieu du séquestre se base sur un point de rattachement avec la Suisse qui l'emporte,
+au regard de l'ensemble des circonstances, sur l'intérêt du débiteur à une possession
+intacte (Stoffel/Chabloz, in Dallèves/Foêx/Jeandin (éd.), Commentaire romand LP, n. 76
+ad art. 271). La jurisprudence retient notamment comme point de rattachement le lieu d'exécution
+en Suisse de la prestation du créancier séquestrant ou de celle du débiteur séquestré
+(ATF 123 III 494 consid. 3a ; TF 5A_519/2018 du 1
+er
+mai 2018 consid. 3.2). Ainsi, le paiement sur un compte en Suisse en relation avec le contrat litigieux
+peut constituer un lien suffisant avec la Suisse (TF 5A_222/2012 du 2 novembre 2012 consid. 4.1.1
+et les références ; également TF 5A_519/2018 précité consid. 3.2).
+7.5.2
+En l’espèce, on ne saurait considérer que le recourant n’a qu’une créance
+contre l’intimée. Il en a autant qu’il a fait de donations qu’il a déclaré
+révoquer. Il convient d’analyser en conséquence distinctement l’existence d’un
+lien suffisant de chacune de ses créances avec la Suisse.
+7.5.3
+Les pièces justificatives produites à l’appui de la requête de séquestre (pièce
+4 du bordereau 26 janvier 2021), ni d’ailleurs aucun élément, ne permettent de retenir
+que le véhicule soi-disant offert à l’intimée, acheté auprès d’un
+vendeur sis à Monaco et immatriculé à Monaco, d’une valeur d’achat de 300'000
+euros, aurait été acheté par le biais d’un compte suisse ou que ce montant serait
+passé par un compte suisse. Les parties ne sont pas domiciliés en Suisse, le droit applicable
+à la révocation de la donation n’est pas le droit suisse. On ne voit pas que les juridictions
+suisses soient compétentes au fond, le recourant ayant au demeurant ouvert action sur ce point à
+Monaco (pièce 9). Dans ces conditions, il convient pour cette créance de considérer que
+l’existence d’un lien suffisant avec la Suisse n’a pas été rendu vraisemblable.
+Le recours est ainsi infondé la concernant pour ce motif encore.
+7.5.4
+S’agissant des bijoux, d’une valeur d’achat de 2'752'900 euros, les pièces précitées
+contiennent une liste de paiements, sans indication ni du compte débiteur, ni du compte créancier.
+Celle-ci apparait avoir été envoyée d’un employé de banque sise au Liechtenstein,
+sans référence à un quelconque compte en banque suisse. Elle ne permet pas de penser que
+le montant des bijoux, achetés, selon la facture, à Monaco, pour l’intimée alors
+domiciliée à L.________, aurait été acquitté par le biais d’un débit
+d’un compte ouvert en Suisse, encore moins crédité sur un compte ouvert en Suisse. Ici
+également, le recourant ne rend pas vraisemblable l’existence d’un lien suffisant avec
+la Suisse, de sorte que la créance invoquée ne saurait non plus fonder un séquestre. Le
+recours sur ce point aussi doit être rejeté pour ce second motif.
+7.5.5
+De même, les pièces justificatives établissent un versement de 21'320'894 roubles –
+semblant correspondre au montant précité de 236'560.34 euros - d’un compte suisse dont
+le détenteur n’est pas indiqué à un compte ouvert en Russie dont le bénéficiaire,
+lui indiqué, n’est pas l’intimée.
+A nouveau, les parties ne sont pas domiciliés en Suisse et le recourant a lui-même ouvert action
+pour la restitution de ce montant également à Monaco, admettant ainsi tacitement que ce sont
+les autorités de ce pays et non les autorités suisses qui sont compétentes. La donation
+a quant à elle été exécutée en Russie, la somme devant au demeurant –
+de l’aveu du recourant – être utilisée par l’intimée en Russie. Le lieu
+d’exécution de cette donation n’est ainsi pas non plus en Suisse. Ici également
+le lien avec la Suisse, constitué uniquement du fait que ce montant aurait peut-être été
+débité depuis un compte suisse dont le recourant est bénéficiaire – fait dont
+la vraisemblance n’est retenue que sur la base de l’arrêt sur appel et non sur la base
+de pièces bancaires produites par le recourant dans la présente procédure, alors qu’il
+l’aurait pu - n’est pas suffisant pour retenir la vraisemblance d’un lien suffisant
+avec la Suisse au sens de l’art. 271 al. 1 ch. 4 LP. Le recours sur ce point aussi doit être
+rejeté pour ce second motif.
+7.5.6
+Les pièces justificatives
+précitées permettent de retenir, au stade de la vraisemblance, qu’un montant de 500'000
+euros a été viré le 15 juin 2016 d’un compte suisse dont le recourant est bénéficiaire
+sur un compte suisse dont l’intimée est bénéficiaire. Il en va de même, le
+19 octobre 2016 d’un montant de 50'000 euros, le 22 janvier 2019 de 20'000 euros et le 1
+er
+juillet 2019 de 30'000 euros. Ces quatre versements ayant été exécutés par le biais
+d’un compte suisse sur un compte suisse, il convient, pour celles-ci d’admettre la vraisemblance
+de l’existence d’un lien suffisant avec la Suisse au sens de l’art. 271 al. 1 ch. 4
+LP. Cela ne change toutefois rien au sort du recours qui doit être rejeté, à l’instar
+de la requête de séquestre, faute pour le recourant d’avoir rendu vraisemblable l’exigibilité
+des créances invoquées en relation avec ces versements ou la réalisation d’un autre
+cas de séquestre.
+8.
+En conclusion, le recours doit être rejeté
+selon le mode procédural de l’art. 322 CPC et le prononcé confirmé.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 2'700
+fr. (art. 48 et 61 OELP ; ordonnance du 23 septembre 1996 sur les émoluments perçus en
+application de la LP ; RS 281.35), doivent être mis à la charge du recourant.
+Il n’y a pas lieu d’allouer de dépens de deuxième instance à l’intimée,
+dès lors qu’elle n’a pas été invitée à se déterminer sur le
+recours.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 2'700 fr. (deux mille sept
+cents francs), sont mis à la charge du recourant P.________.
+IV.
+L'arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. P.________,
+‑
+Me Alexis Schoeb, avocat (pour G.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 4'237'137 fr. 20.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Juge de paix du district de Lausanne.
+Le greffier :
