@@ -1,0 +1,541 @@
+---
+decision_id: "vd_gerichte_a41ef29b-ecb5-4fc8-992d-cfb9fc14c38a"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "TPRAC"
+docket: "a41ef29b-ecb5-4fc8-992d-cfb9fc14c38a"
+decided: "2021-11-16"
+published: "2023-02-28"
+language: "fr"
+legal_area: "Conflit Lpers Etat de Vaud"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/a41ef29b-ecb5-4fc8-992d-cfb9fc14c38a"
+cites_decisions: ["2P.63/2003", "8C_637/2012", "9C_403/2011", "BGE 135 IV 113", "BGE 137 II 164", "BGE 141 III 444"]
+cites_law: ["switzerland/bund/acts/172.220.1/art-014.md", "switzerland/bund/acts/172.220.1/art-016.md", "switzerland/bund/acts/172.220.1/art-024.md", "switzerland/bund/acts/272/art-110.md", "switzerland/bund/acts/272/art-209.md"]
+---
+
+# Conflit Lpers Etat de Vaud
+
+## Text
+
+TRIBUNAL DE PRUD'HOMMES
+DE L'ADMINISTRATION CANTONALE
+Palais de justice de Montbenon
+TF20.03563
+1014 Lausanne
+8
+JUGEMENT
+rendu par le
+TRIBU NAL DE PRUD'H OMME S
+DE L 'ADMINISTRATION CAN TONALE
+le 16 novembre 2021
+dans la cause
+S.________ c/ État de Vaud
+MOTIVATIO N
+*****
+Audience : 4 et 16 novembre 2021
+Président : M. Matthieu GENILLOD, v.-p.
+Assesseurs : Mme Farinaz FASSA RECROSIO et M. Yves NOËL
+Greffière : Mme Olivia TROGER, a.h.
+Téléphone 021 316 69 69 Fax 021 316 69 55 CCP 10-3940-7
+20246X
+
+- 12 -
+Statuant au complet et à huis clos immédiatement à l'issue de
+l'audience du 16 novembre 2021, le Tribunal de prud'hommes de
+l'Administration cantonale (ci-après : le TRIPAC) retient ce qui suit :
+EN FAIT :
+1. a) S.________ (ci-après : la demanderesse), née le [...] 1989, a
+obtenu un master en droit en 2015 et a travaillé quelques mois en qualité
+de stagiaire puis de greffière dans différents tribunaux d’arrondissements
+tessinois.
+b) Le 1er août 2015, la demanderesse a été engagée en
+qualité de juriste stagiaire à 100% en contrat de durée déterminée auprès
+de l’ÉTAT DE VAUD (ci-après : le défendeur), dans la division état civil du
+Service de la population (ci-après : SPOP).
+c) Dès le 1er décembre 2015, le contrat de durée déterminée
+de la demanderesse a été transformé en contrat de durée indéterminée à
+titre de juriste spécialiste à 30% et de spécialiste de l’état civil à 50%. Elle
+bénéficiait alors d’une classe salariale 11.
+d) Son taux d’activité a varié au fil du temps :
+- Dès le 1er septembre 2016 : 80% juriste spécialiste et 20%
+spécialiste état civil ;
+- Dès le 1er mai 2017 : 60% juriste spécialiste et 20 %
+spécialiste état civil ;
+- Dès le 1er janvier 2018 : 80% juriste spécialiste et 0%
+spécialiste état civil ;
+- Dès le 1er décembre 2018 : 80% juriste spécialiste ;
+- Dès le 1er octobre 2019 : 100% juriste spécialiste ;
+- Dès le 1er décembre 2019 : 80% juriste spécialiste.
+2. La demanderesse a remplacé à trois reprises et sur des
+périodes relativement longues sa supérieure hiérarchique colloquée en
+classe 12, en qualité de juriste spécialiste et cheffe de l’office spécialisée
+de l’état civil vaudois.
+20246X
+
+- 13 -
+3. a) Dès 2018, les supérieures de la demanderesse ont adressé
+des requêtes au Service du personnel de l’État de Vaud (ci-après : SPEV)
+afin de revaloriser la classe salariale des juristes de la division état civil,
+engagés au SPOP, afin que la fonction passe de la classe salariale 11 à la
+classe salariale 12. Cette revalorisation avait pour but de supprimer une
+différence de traitement entre les juristes du SPOP de la division état civil,
+colloqués en classe salariale 11 et ceux de la division asile et étrangers,
+colloqués en classe salariale 12 depuis 2014.
+b) Une enquête a donc été menée par le SPEV afin
+d’approuver cette demande de revalorisation. En outre, des échanges de
+courriers ont eu lieu entre C.________, employée des ressources humaines
+du SPEV et la responsable des ressources humaines du SPOP, P.________,
+au sujet de ces modifications. Il est question à plusieurs reprises de la
+notion de « revalorisation », d’assurer une équité entre ces postes et de
+privilégier la cohérence interne.
+c) Au mois de novembre 2019, le SPEV a approuvé cette
+demande et a décidé d’appliquer de manière effective cette revalorisation
+dès le 1er février 2020.
+d) Le 1er janvier 2020, avant l’effectivité de cette
+revalorisation, la demanderesse était en classe salariale 11, échelon 4,
+pour un salaire annuel brut de 76'539.20 fr, pour un taux d’activité à 80%.
+7. Le 6 février 2020, la demanderesse a reçu l’avenant à son
+contrat de travail et s’est aperçue qu’il prévoyait une classe salariale 12 et
+un échelon 2 en lieu et place de l’échelon 4 acquis au 1er janvier 2020,
+pour un salaire de 79'648.20 fr. La perte de deux échelons lui
+occasionnant ainsi une perte annuelle de 3'702.20 fr. pour l’année 2020.
+En effet, en classe salariale 12, échelon 4, le revenu brut de la
+demanderesse devrait s’élever à 83'350.40 pour un taux d’activité à 80%.
+8. Le 11 février 2020, la demanderesse a contesté ce
+changement par courriel auprès des ressources humaines du SPOP, qui a
+20246X
+
+- 14 -
+maintenu sa position et a justifié la perte de ces échelons par le fait que
+l’âge d’entrée théorique dans la fonction prévue par la classe salariale 12
+était de 28.5 ans, alors qu’il était de 27 ans pour la classe salariale 11. Il a
+considéré que la demanderesse avait bénéficié d’un passage à un niveau
+de fonction plus élevé et qu’il était donc justifié de se référer aux
+dispositions relatives aux promotions, soit de l’art. 7b du Règlement relatif
+au système de rétribution des collaborateurs de l’État de Vaud du 28
+novembre 2008 (RSV 172.315.2 ; RSRC). Le défendeur a par ailleurs invité
+la demanderesse à saisir le TRIPAC en cas de contestation au sujet de
+cette adaptation salariale.
+9. a) Le 20 mars 2020, la demanderesse a déposé une requête
+de conciliation auprès du TRIPAC.
+b) Le 17 juin 2020, une audience de conciliation a été tenue,
+au terme de laquelle aucun accord n’a été trouvé entre les parties. Une
+autorisation de procéder a par conséquent été délivrée à la
+demanderesse.
+c) Le 14 septembre 2020, sous la plume de son conseil, la
+demanderesse a déposé une demande au fond auprès du Tribunal de
+céans, accompagnée d’un bordereau de pièces et de l’autorisation de
+procéder délivrée le 17 juin 2020. Il a pris les conclusions suivantes sous
+suite de frais et dépens :
+« I. Constater que S.________ a droit dès le 1er février
+2020 au salaire correspondant à la classe 12 échelon 4 et inviter l’ÉTAT DE
+VAUD à établir et à lui délivrer un nouvel avenant au contrat de travail en
+ce sens ;
+II. Condamner l’ÉTAT DE VAUD à payer S.________ la somme
+correspondant à la différence entre les salaires auxquels elle a droit
+compte tenu du montant du salaire fixé selon le chiffre I ci-dessus et les
+salaires qu’elle a effectivement perçus dès le 1er février 2020, avec intérêt
+à 5% l’an, courant dès chacune des échéances salariales. ».
+20246X
+
+- 15 -
+d) En date du 12 novembre 2020, soit dans le délai prolongé à
+la requête du défendeur, celui-ci, représenté par le SPEV, a déposé un
+mémoire réponse, dans lequel il a pris la conclusion suivante :
+« Rejeter les conclusions prises par Madame S.________ au pied
+de sa Demande du 14 septembre 2020. ».
+e) En date des 4 et 16 novembre 2021, le Tribunal de céans a
+tenu deux audiences respectivement d’instruction et de jugement. Les
+témoins, G.________, M.________ et H.________ au bénéfice d’une
+autorisation de témoigner, ont été entendus à l’audience du 4 novembre
+2021 et P.________ pour le défendeur, lors de l’audience du 16 novembre
+2021, leurs propos sont repris ci-après.
+ea) G.________, juriste depuis 2018 dans la division état civil et
+collègue de la demanderesse, a confirmé effectuer les mêmes tâches et
+assumer les mêmes responsabilités depuis son engagement à ce jour. Elle
+a ajouté que son cahier des charges a été mis à jour de sorte qu’il
+s’agissait selon elle d’une simple formalité administrative. Elle a précisé
+n’avoir pas changé de fonction, de poste ou de cahier des charges au sein
+de la division état civil. De plus, elle a déclaré bénéficier d’un salaire plus
+élevé que la demanderesse suite à la modification salariale, bien qu’elle
+ait moins d’expérience professionnelle qu’elle.
+eb) M.________, cadre du SPEV, a confirmé que pour la fonction
+de juriste colloquée dans la chaîne 361, classe 12, l’âge d’entrée théorique
+de 28.5 ans correspondait à l’obtention d’un master à l’âge de 24 ans,
+complété d’une expérience professionnelle de 4.5 ans. Il a indiqué
+qu’effectivement selon les règles relatives à la promotion, le nouvel
+échelon était égal ou inférieur à l’échelon avant promotion. Il a ajouté que
+face à un cas de promotion, se traduisant par une augmentation de
+salaire, en principe à la suite d’un changement de fonction, une fixation de
+salaire initiale était établie systématiquement, dès lors que chaque
+fonction de la grille dispose d’un âge d’entrée théorique différent puisqu’à
+tout du moins, l’expérience attendue diffère d’une fonction à l’autre. Il a
+précisé qu’il n’existait pas de droit acquis en matière d’échelon. Il a en
+20246X
+
+- 16 -
+outre indiqué que par respect du principe d’égalité de traitement les
+règles de fixation de salaire initiale étaient appliquées de la même
+manière pour l’ensemble des collaborateurs-rices de l’État de Vaud. Il a
+expliqué que l’expérience exploitable maximale se limitait à la différence
+entre l’âge de la personne et l’âge d’entrée théorique dans la fonction.
+Cette expérience exploitable maximale permet d’analyser l’expérience de
+la personne à rebours sur cette période définie, donc en lien avec
+l’expérience du poste pour lequel elle exerce la fonction. Il a précisé que
+cet âge de référence était lié au niveau de fonction, puisqu’il était le
+résultat de la combinaison de trois critères à savoir la formation de base,
+la formation complémentaire et le savoir-faire. Il a justifié la différence de
+traitement entre la demanderesse et sa collègue G.________ en raison de
+leur différence d’âge car le même coefficient leur a été appliqué.
+S’agissant d’une potentielle exception au principe ancré à l’art. 3a al. 4
+RSRC, le témoin a expliqué qu’une telle exception pouvait être retenue
+dans des cas spécifiques, notamment lorsqu’une personne
+particulièrement brillante achèverait sa formation de base bien plus
+rapidement que la moyenne, de sorte qu’elle aurait acquis l’expérience
+utile à l’exercice d’un poste antérieurement à l’âge minimal d’entrée
+théorique à partir duquel une fonction peut être exercée. Il a confirmé qu’il
+était de la compétence du SPEV d’effectuer une réévaluation du niveau
+d’un poste lorsque les activités du cahier des charges y afférent ont
+évolués. Il a ajouté finalement que le terme « promotion » faisait référence
+à un passage à un niveau de fonction plus élevé et a précisé que ce qui
+influençait le niveau de fonction était le niveau de compétence attendu.
+ec) H.________, responsable de la demanderesse, a expliqué
+qu’effectivement depuis 2019 des requêtes étaient adressées au SPEV afin
+de revaloriser la classe salariale des juristes engagés au SPOP dans la
+division état civil et qu’il existait une différence de traitement anormale
+entre les juristes de la division asile et étrangers et ceux de la division état
+civil. Elle a relevé que cette revalorisation n’avait induit aucun
+changement dans les tâches et responsabilités des juristes de la division
+état civil. En outre, elle a déclaré que le cahier des charges avait été mis à
+jour car il n’était plus correct, cependant l’activité des collaborateurs n’a
+quant à elle pas connu de modification. Elle a précisé qu’il ne s’agissait
+20246X
+
+- 17 -
+que d’une modification purement formelle et non matérielle et que le
+nouveau cahier des charges établi ne contenait qu’une description plus
+complète et plus précise des tâches effectivement réalisées par la
+demanderesse et ses collègues depuis plusieurs années. Elle a soutenu
+que la demanderesse n’avait pas changé de fonction, de poste ou de
+cahier des charges au sein de la division état civil. Elle a confirmé que
+lorsque des collaborateurs sont engagés à un poste sans avoir atteint
+l’âge d’entrée théorique en fonction, ils ne sont pas maintenus
+artificiellement à un échelon 0 au-delà de la première année de service, ce
+qui signifie que l’expérience accumulée à ce même poste est
+comptabilisée, conformément à l’art. 7a RSRC qui prévoit que le collabore
+progresse chaque année d’un échelon.
+ed) P.________, responsable des ressources humaines du SPOP,
+a confirmé que le SPOP avait initié en mars 2019 la demande de
+réévaluation du poste des juristes de la division état civil auprès du SPEV.
+Elle a précisé qu’il n’y avait pas eu de demande de modification avant
+cette date. Elle a déclaré en outre que la nouvelle collocation avait bien
+pris effet au 1er février 2020. Elle a expliqué par la suite qu’une demande
+avait été faite par le SPEV dès mars 2017 concernant la cohérence des
+métiers transversaux, à savoir le secteur des ressources humaines, de la
+communication, le secteur juridique et financier afin de clarifier l’ensemble
+des fonctions et d’adopter un langage commun en ce qui concerne le
+cahier des charges. Elle a expliqué que grâce à ce référentiel des métiers
+transversaux, le SPEV avait établi un lexique qui leur avait permis d’établir
+un nouveau cahier des charges, notamment de mettre en évidence les
+compétences et les tâches des collaborateurs.
+Finalement, elle a précisé que le cahier des charges qui existait à l’époque
+sans modification n’aurait pas permis de revalorisation.
+f) À la reprise de l’audience le 16 novembre 2021, le Président
+a clos l’instruction. Les parties ont plaidé en maintenant leurs conclusions
+respectives.
+20246X
+
+- 18 -
+g) Le jugement, rendu sous la forme d’un dispositif, a été
+notifié aux parties le 17 novembre 2021. Par courriers du 18 novembre
+2021, les parties en ont chacune requis la motivation en temps utile.
+EN DROIT :
+I. a) Aux termes de son art. 2 al. 1, la loi sur le personnel de
+l’État de Vaud du 12 novembre 2001 (LPers-VD, RSV 172.31) s’applique à
+toute personne exerçant une activité régulière, dans une fonction non
+éligible, pour laquelle elle perçoit de l’État un salaire. L’art. 14 LPers-VD
+précise que le Tribunal de prud’hommes de l’Administration cantonale
+connaît, à l’exclusion de toute autre juridiction, toute contestation relative
+à l’application de cette loi et de la Loi fédérale sur l’égalité entre femmes
+et hommes (LEg ; RS 151.1) dans les rapports de travail entre l’État de
+Vaud et ses employés.
+En l’espèce, la demanderesse a été liée par un contrat de
+travail avec le défendeur, représenté par le SPEV. Il ne fait aucun doute
+que les relations de travail qui lient les parties sont soumises à
+l’application de la LPers-VD. Le présent litige, relatif au niveau d’échelon
+dans la collocation du rapport de travail de la demanderesse, relève dès
+lors de la compétence du Tribunal de céans, ce que les parties n’ont
+d’ailleurs pas contesté.
+b) L’art. 16 al. 1 LPers-VD précise que la procédure est régie
+par les art. 103 ss CDPJ (Code de droit privé judiciaire vaudois du 12
+janvier 2010 ; RSV 211.02), lequel prévoit, à son art. 104, l’application
+supplétive du CPC (Code fédéral de procédure civile du 19 décembre
+2008 ; RS 272). L'art. 16 al. 3 LPers-VD dispose que les actions devant le
+Tribunal de prud'hommes de l'Administration cantonale se prescrivent par
+un an lorsqu'elles tendent exclusivement à des conclusions pécuniaires et
+par soixante jours dans les autres causes. La prescription court dès
+l'exigibilité de la créance ou dès la communication de la décision
+contestée.
+20246X
+
+- 19 -
+En l’espèce, la demanderesse a introduit une procédure de
+conciliation le 20 mars 2020 afin de contester le calcul de son échelon. La
+conciliation du 17 juin 2020 n’ayant pas abouti, le Tribunal a délivré une
+autorisation de procéder à la demanderesse le jour même. Le 14
+septembre 2020, la demanderesse a déposé une demande auprès du
+Tribunal de céans, accompagnée d’un bordereau de pièces, respectant
+ainsi le délai de trois mois pour porter action devant le tribunal (art. 209
+al. 2 CPC), de sorte que son action au fond est recevable.
+II. a) Aux termes de l'article 19 al. 1 LPers-VD, les rapports de
+travail entre l’État de Vaud et ses collaborateurs sont régis par le droit
+public, sauf dispositions particulières contraires. L'application du droit
+public aux rapports de travail entre l’État et ses employés a pour corollaire
+que l'État est tenu de respecter les principes constitutionnels régissant
+l'ensemble de son activité, tels la légalité, l'égalité de traitement,
+l'interdiction de l'arbitraire ou encore le droit d'être entendu (TF
+2P.63/2003 du 29 juillet 2003, consid. 2.3, non publié).
+b) Conformément à l'article 23 LPers-VD, les collaborateurs de
+l'État ont droit à une rémunération sous la forme d'un salaire
+correspondant à la fonction qu'ils occupent en proportion de leur taux
+d'activité (lettre a) ou sous la forme d'une indemnité ou émolument (lettre
+b). Le Conseil d'État arrête l'échelle des salaires et fixe le nombre de
+classes et leur amplitude (art. 24 al. 1 LPers-VD). Il détermine également
+les modalités de progression du salaire (augmentation annuelle) à
+l'intérieur de chaque classe salariale (art. 24 al. 2 LPers-VD). Enfin, il
+définit les fonctions et les évalue (art. 24 al. 3 LPers-VD).
+c) Le présent litige porte sur la position de la demanderesse
+dans le système de classification des fonctions de l’État de Vaud, en
+particulier sur l’échelon qui lui a été attribué. Le Tribunal ne saurait, dans
+un tel domaine, substituer son appréciation à celle de l’employeur (HC
+2017/311 du 27 avril 2017 et réf. citées). Toutefois, il lui incombe de
+vérifier que le résultat du système respecte les principes de droit
+administratif, à tout le moins s’agissant de la légalité, de l’égalité et de
+l’interdiction de l’arbitraire.
+20246X
+
+- 20 -
+III. a) La demanderesse estime avoir fait l’objet d’une
+revalorisation de poste au sein de la division état civil du SPOP et conteste
+un changement de fonction, de poste ou de cahier de charges impliquant
+une modification du degré de responsabilité, d’exigence ou de
+compétence. Elle soutient que cette revalorisation ne doit donc pas avoir
+de conséquence sur les échelons acquis, à savoir sur ses années
+d’expériences à ce même poste et souhaite ainsi conserver l’échelon 4
+acquis précédemment.
+De son côté, le défendeur soutient que le cahier des charges
+de la demanderesse a subi une évolution significative en termes
+d’exigences et de compétences attendues pour le poste. Il prétend qu’au
+regard de ce nouveau cahier des charges, la demanderesse a bénéficié
+d’un passage à un niveau de fonction plus élevé, ce qui correspond à une
+promotion selon l’art. 7b al.1 RSRC et justifie l’application des critères des
+art. 3a et 3b RSRC. Il conteste une quelconque mauvaise application du
+règlement.
+b) Le principe de la légalité, ancré à l’art. 5 al. 1 de la
+Constitution fédérale suisse du 18 avril 1999 (ci-après : Cst., RS 101),
+implique que toute compétence étatique doit reposer sur une base légale.
+De même, la jurisprudence prévoit que ces compétences doivent être
+exercées selon les modalités qui sont imposées par la loi. Il s’agit donc
+avant tout de déterminer quelles sont les règles à appliquer à un cas
+d’espèce, et cas échéant de les interpréter.
+La loi s'interprète en premier lieu selon sa lettre (interprétation
+littérale). Si le texte n'est pas absolument clair, si plusieurs interprétations
+sont possibles, il convient de rechercher quelle est la véritable portée de la
+norme, en la dégageant de tous les éléments à considérer, soit
+notamment des travaux préparatoires (interprétation historique), du but
+de la règle, de son esprit, ainsi que des valeurs sur lesquelles elle repose,
+singulièrement de l'intérêt protégé (interprétation téléologique) ou encore
+de sa relation avec d'autres dispositions légales (interprétation
+systématique) (ATF 141 III 444 ; TF 8C_637/2012 du 5 juin 2013). Le
+20246X
+
+- 21 -
+Tribunal fédéral ne privilégie aucune méthode d'interprétation, mais
+s'inspire d'un pluralisme pragmatique pour rechercher le sens véritable de
+la norme. Il ne se fonde sur la compréhension littérale du texte que s'il en
+découle sans ambiguïté une solution matériellement juste (ATF 137 II 164 ;
+TF 9C_403/2011 du 12 juin 2012).
+Le juge s’écartera ainsi d’un texte légal clair que dans la mesure
+où les autres méthodes d’interprétation précitées montrent que ce texte
+ne correspond pas en tous points au sens véritable de la disposition visée
+et conduit à des résultats que le législateur ne peut avoir voulus, lesquels
+heurtent le sentiment de la justice ou le principe de l’égalité de traitement
+(ATF 135 IV 113).
+Selon l’art. 7b RSRC, lorsque le collaborateur fait l’objet d’une
+promotion, soit le passage à un niveau de fonction plus élevé, le Service
+du personnel détermine le nouveau salaire conformément aux dispositions
+relatives à la fixation du salaire initial (al.1), le salaire déterminé
+conformément à l’alinéa 1 ne peut pas être inférieur au salaire avant
+promotion (al.2).
+La promotion est définie comme « le passage à un niveau de
+fonction plus élevé », ce qui implique une modification du degré de
+responsabilité, d’exigence, de compétence attendu par le poste. La
+définition du passage à un niveau de fonction plus élevé est une notion
+claire, qui ne nécessite pas d’interprétation particulière. La demanderesse
+n’a pas changé de poste, n’a pas changé de fonction, l’application des
+dispositions relatives à la promotion ne se justifie donc pas en l’espèce.
+c) Il ressort de l’instruction, des pièces au dossier et
+notamment des témoignages de H.________ et de G.________ que le cahier
+des charges de la division état civil du SPOP n’a pas subi de modification
+matérielle. En effet, le nouveau cahier des charges établi ne contient pas
+de véritables nouvelles tâches mais n’est que le résultat d’une description
+plus complète et précise des tâches qui étaient déjà réalisées par les
+collaborateurs de la division état civil avant la modification. La
+demanderesse n’a donc pas changé de poste, n’a pas effectué de
+20246X
+
+- 22 -
+nouvelles tâches ou assumé de nouvelles fonctions qui justifieraient
+l’application des dispositions relatives à une promotion et a fortiori des
+dispositions relatives à la fixation du salaire initial. Les témoins ainsi
+qu’P.________ ont soulevé le fait qu’il y avait effectivement une inégalité de
+traitement injustifiée entre les juristes de la division état civil et ceux de la
+division asile étrangers qui a été corrigée par la suite, notamment en
+revalorisant le poste des juristes de la division état civil à la classe 12.
+Ainsi, il est bien question d’une revalorisation de la classe salariale de la
+demanderesse qui ne justifie pas la perte des échelons acquis par elle au
+1er février 2020. De plus, la notion de « revalorisation » est citée à
+plusieurs reprises lors des échanges entre le SPEV et le SPOP. En outre, le
+défendeur n’a pas réussi à justifier qu’il était question d’une véritable
+nouvelle fonction et d’un nouveau cahier des charges.
+À la lumière des éléments qui précèdent le Tribunal ne peut
+que constater que le défendeur a, à tort, appliqué les dispositions relatives
+à un cas de promotion. La demanderesse n’a pas subi de modification
+substantielle de son cahier des charges. Partant, le Tribunal constate que
+la demanderesse aurait dû être classée au niveau de fonction 12, échelon
+4 à compter du 1er février 2020. Dès lors, il convient d’astreindre le
+défendeur à modifier l’avenant de son contrat de travail et à lui verser la
+somme correspondant à la différence entre les salaires effectivement
+perçus et ceux auxquels elle a droit.
+IV. a) A titre subsidiaire, la demanderesse conteste la bonne
+application de la règlementation contenue dans le RSRC, notamment l’art.
+3a RSRC, dans l’hypothèse où celle-ci serait applicable.
+Le défendeur soutient pour sa part que la méthode de fixation
+de l’échelon a été appliquée correctement, conformément aux art. 3a et
+3b RSRC et s’estime lié par la règle de l’art. 3a al. 4 RSRC.
+b) L’art. 3a RSRC prévoit que le service du personnel fixe le
+salaire initial du collaborateur entre le minimum et le maximum de la
+classe salariale attribuée à la fonction (al. 1), que l’expérience exploitable
+du collaborateur détermine l’échelon d’entrée de la fonction (al. 2), qu’est
+20246X
+
+- 23 -
+considéré comme expérience exploitable l’expérience utile pour l’exercice
+de la fonction (al. 3), que l’expérience exploitable maximale correspond en
+règle générale à la différence entre l’âge du collaborateur et l’âge d’entrée
+théorique dans la fonction (al. 4) et que les âges d’entrée théorique dans
+les fonctions sont définis par le Conseil d’État (al. 5).
+Aux termes de l’art. 3b RSRC, les expériences du collaborateur
+résultant de son dossier de candidature sont converties en années
+d’expérience exploitable sur la base des coefficients de 1.00 pour une
+expérience identique ou très semblable (let. a), de 0.66 pour une
+expérience en majeure partie exploitable (let. b), de 0.33 pour une
+expérience en partie exploitable (let. c) et de 0.00 pour une expérience
+sans relation avec la fonction (let. d).
+Chaque fonction de la grille correspond à un âge théorique
+d’entrée. Il est déterminé par le niveau de formation et le savoir-faire
+requis pour l’exercice de la fonction. L’expérience exploitable maximale
+d’un collaborateur correspond à l’écart entre l’âge théorique dans la
+fonction et l’âge effectif du collaborateur.
+L’expérience exploitable du collaborateur sert à déterminer
+l’échelon d’entrée dans la fonction pour déterminer l’expérience
+exploitable d’un candidat ; toutes ses expériences sont analysées. Elles
+sont converties en années d’expérience exploitable sur la base d’un
+coefficient distinct selon le degré d’utilité de ladite expérience pour
+l’exercice de la fonction. En conséquence, il y a lieu de constater que la
+méthode mise en œuvre par le RSRC, pour la fixation du salaire initial,
+appliqué sur l’ensemble de l’État de Vaud, est claire et convaincante.
+Toutefois, cette méthode prévoit des exceptions et laisse une certaine
+marge de manœuvre dans son application (TRIPAC TD09.006752 consid.
+IV bb) du 9 juillet 2014).
+c) En l’espèce, le défendeur a effectué le calcul suivant en
+application de l’art. 3a al. 4 RSRC : 30.2 ans (âge de la demanderesse) –
+28.5 ans (âge d’entrée théorique dans la fonction) = 1.77 = échelon 2.
+20246X
+
+- 24 -
+Cependant la disposition prévoit les termes « en règle générale » laissant
+une place à des dérogations possibles.
+Par ailleurs, il ressort des témoignages de H.________, de
+M.________ et des échanges de mails entre la demanderesse et P.________
+que lorsque des collaborateurs sont engagés à un poste sans avoir encore
+atteint l’âge d’entrée théorique en fonction pour le poste, ceux-ci ne sont
+pas maintenu artificiellement à un échelon 0 au-delà de la première année
+de service, ce qui signifie donc que l’expérience accumulée à ce même
+poste est comptabilisée conformément à l’art. 7a RSRC qui prévoit que le
+collaborateur progresse d’un échelon chaque année. Si la demanderesse
+avait été engagée initialement en classe 12, celle-ci n’aurait pas stagné à
+l’échelon avant d’atteindre l’âge d’entrée en fonction et aurait bénéficié
+d’un échelon par an.
+Dans son témoignage, M.________ cite notamment que la
+situation d’une personne particulièrement brillante qui achèverait sa
+formation de base bien plus rapidement que la moyenne, de sorte qu’elle
+aurait acquis l’expérience utile à l’exercice d’un poste antérieurement à
+l’âge minimal d’entrée théorique à partir duquel une fonction peut être
+exercée serait une exception possible à l’application du principe de l’art.
+3a al. 4 RSRC.
+En définitive, la demanderesse a effectué sans interruption la
+fonction de juriste spécialiste à la division de l’état civil à différents taux
+d’activité. Elle n’a pas changé de fonction et a acquis une expérience
+notable de manière continue qu’il paraît justifié de comptabiliser. Une
+exception à l’art. 3a al. 4 RSRC paraît se justifier en l’espèce.
+Partant, au vu des éléments cités, les conclusions de la
+demanderesse doivent être entièrement admises.
+V. Au vu de ce qui précède, il n’est pas nécessaire d’analyser le
+moyen soulevé par la demanderesse relatif à l’égalité de traitement,
+puisque l’application de la loi suffit à modifier sa collocation.
+20246X
+
+- 25 -
+VI. a) Enfin, dès lors que la procédure judiciaire est gratuite
+lorsque la valeur litigieuse est inférieure à 30'000 fr. conformément à l’art.
+16 al. 6 LPers-VD, le présent jugement peut être rendu sans frais.
+b) Il y a en revanche lieu d’allouer des dépens à la
+demanderesse qui a obtenu gain de cause et qui a engagé de frais
+externes de représentation, en application de l’art. 5 al. 1 du Tarif des
+dépens en matière civile du 23 novembre 2010 (ci-après : TDC, RSV
+270.11.6) qui prévoit, pour une valeur litigieuse de 30'000 fr. comme en
+l’espèce, qu’ils se situent entre 1'500 fr. et 5'000 fr.
+Au vu des échanges d’écritures et des deux audiences nécessaires à
+l’instruction de la cause, le tribunal de céans alloue à la demanderesse,
+des dépens à hauteur de 3'000 fr. à charge du défendeur.
+Par ces motifs, statuant immédiatement, au complet, à huis clos
+et en contradictoire le Tribunal de Prud'hommes de
+l'administration cantonale prononce :
+I. La demande déposée le 14 septembre 2020 par S.________ est
+admise ;
+II. S.________ a droit dès le 1er février 2020 au salaire
+correspondant à la classe 12 échelon 4 ;
+III. L’ÉTAT DE VAUD doit établir et délivrer à S.________ un nouvel
+avenant au contrat de travail conformément au chiffre II du
+présent dispositif ;
+IV. L’ÉTAT DE VAUD doit paiement à S.________ de la somme
+correspondante à la différence de salaire selon le chiffre II du
+présent dispositif et les salaires qu’elle a effectivement perçus
+dès le 1er février 2020 avec intérêt à 5% l’an, courant dès
+chacune des échéances salariales ;
+V. L’ÉTAT DE VAUD doit paiement à S.________ de la somme de
+3'000 fr. (trois mille francs) à titre de dépens ;
+VI. Pour le surplus, le jugement est rendu sans frais.
+20246X
+
+- 26 -
+Le président La greffière :
+Matthieu GENILLOD, v.-p. Olivia TROGER, a.h.
+20246X
+
+- 27 -
+Du
+Les motifs du jugement qui précède sont notifiés aux parties.
+Appel : Un appel au sens des articles 308 ss CPC peut être
+formé dans un délai de trente jours dès la notification de la présente
+décision en déposant au greffe du Tribunal cantonal un mémoire écrit et
+motivé. La décision objet de l’appel doit être jointe.
+Recours séparé en matière d'assistance judiciaire et/ou
+de frais (art. 110 CPC) : Un recours au sens des articles 319 ss CPC peut
+être formé dans un délai de trente jours dès la notification de la présente
+décision en déposant au greffe du Tribunal cantonal un mémoire motivé.
+La décision qui fait l'objet du recours doit être jointe.
+La greffière :
+20246X
