@@ -1,0 +1,321 @@
+---
+decision_id: "vd_findinfo_D_cision___2022___58"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2022 / 58"
+decided: "2021-11-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8680439"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-133.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.1/art-001.md", "switzerland/bund/acts/312.1/art-007.md", "switzerland/bund/acts/312.1/art-018.md", "switzerland/bund/acts/312.1/art-030.md", "switzerland/bund/acts/312.1/art-039.md"]
+---
+
+# VD Findinfo Décision / 2022 / 58
+
+## Regeste
+
+DROIT PÉNAL DES MINEURS, CLASSEMENT DE LA PROCÉDURE | 319 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 18.11.2021 Décision / 2022 / 58
+
+DROIT PÉNAL DES MINEURS, CLASSEMENT DE LA PROCÉDURE | 319 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+1056
+PM21.002573-BTA/APN
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+18 novembre 2021
+__________________
+Composition :
+M.
+Perrot
+,
+président
+Mme
+Fonjallaz et M. Kaltenrieder, juges
+Greffière :
+Mme              Vuagniaux
+*****
+Art.
+133 CP ; 319 al. 1 CPP
+Statuant sur le recours interjeté le 27 septembre 2021 par
+X.________
+contre l’ordonnance de classement rendue le 10 septembre 2021 par la Vice-présidente du Tribunal
+des mineurs dans la cause
+n
+o
+PM21.002573-BTA/APN
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 29 février 2020, à [...], à B.________, alors qu’une fête d’anniversaire
+se déroulait dans une salle, un groupe d’un nombre indéterminé d’individus
+encagoulés, armés de matraques et de barres de fer, a tenté de s’introduire dans
+la salle en frappant contre les vitres et en soulevant les stores notamment. Alerté, X.________,
+né le [...] 1977, ami de famille d’une participante à la fête et se trouvant alors
+dans le même quartier, est intervenu en demandant aux individus encagoulés de mettre un terme
+à leurs agissements. Il s’est rapidement fait prendre à partie physiquement par l’un
+d’entre eux, qui l’a défié en le poussant avec le torse. X.________ l’a repoussé
+des mains et l’individu a fait de même, en lui faisant perdre l’équilibre puis
+chuter au sol. Alors que X.________ voulait se relever, ce même individu lui a donné un coup
+de poing au visage. Ensuite, plusieurs autres individus encagoulés, dont l’un d’entre
+eux était armé d’un coup-de-poing-américain, se sont joints à la bagarre et
+ont roué X.________ de coups au visage. A l’arrivée de plusieurs adultes, le groupe a
+finalement quitté les lieux en courant.
+X.________ a souffert notamment d’une fracture à l’arcade sourcilière gauche et
+d’hématomes au visage, ce qui a entraîné un arrêt de travail. Il a déposé
+plainte le 1
+er
+mars 2020.
+Z.________, né le [...] 2003, est soupçonné d’être impliqué dans les faits
+susmentionnés, en raison notamment d’une tenue vestimentaire (veste noire Adidas avec le logo
+rose de la Juventus) trouvée à son domicile lors d’une perquisition ayant eu lieu en
+juin 2020 dans le cadre d’une autre affaire le concernant, similaire à celle d’un individu
+encagoulé figurant sur une photographie de groupe prise le soir des faits incriminés, découverte
+dans le téléphone d’[...] (déféré séparément). L’enquête
+dirigée contre Z.________ a été ouverte pour rixe, subsidiairement lésions corporelles
+simples.
+B.
+Par ordonnance du 10 septembre 2021, la Vice-présidente
+du Tribunal des mineurs a prononcé le classement de la procédure pénale dirigée contre
+Z.________ (I), a dit qu’il n’y avait pas lieu de lui allouer une indemnité basée
+sur les art. 429 ss CPP (II), a fixé l’indemnité due à Me Luis Carlos dos Santos
+Gonçalves, conseil juridique gratuit de X.________, à 2'571 fr., débours et vacations
+compris (III), et a laissé les frais de procédure à la charge de l’Etat (IV).
+La Juge des mineurs a considéré qu’aucun élément ne permettait d’incriminer
+Z.________. En effet, le fait qu’un des participants à la rixe portait une veste de training
+de la Juventus similaire à celle trouvée chez le prévenu ne suffisait pas pour établir
+sa culpabilité. L’individu qui se dissimulait le visage avec un bonnet, une écharpe et
+des lunettes en faisant un doigt d’honneur à l’objectif, et qu’on voyait sur une
+photographie trouvée dans le téléphone du prévenu, avec le texte «
+Sinon
+je viens comme ça
+», n’avait
+pas pu être identifié. Les déclarations et déductions du témoin T3.________,
+présente à la fête d’anniversaire, ne démontraient pas l’implication
+du prévenu et aucune des personnes auditionnées (une trentaine) n’avait mis en cause
+le prévenu. Dans la mesure où il était très probable voire sûr qu’un jugement
+aboutirait à un acquittement, il se justifiait de classer la procédure.
+C.
+Par acte du 27 septembre 2021, X.________ a recouru
+contre cette ordonnance, en concluant, sous suite de frais et dépens, à son annulation et au
+renvoi de la cause à l’autorité intimée pour nouvel examen.
+Le 13 octobre 2021, le Ministère public central, division affaires spéciales, a déclaré
+renoncer à déposer des déterminations.
+En droit
+:
+1.
+1.1
+La loi fédérale sur la procédure pénale applicable aux mineurs du 20 mars 2009
+(PPMin ; RS 312.1) régit la poursuite et le jugement des infractions prévues par
+le droit fédéral commises par des mineurs au sens de l’art. 3 al. 1 de la loi fédérale
+régissant la condition pénale des mineurs du 20 juin 2003 (DPMin ; RS 311.1), ainsi que
+l’exécution des sanctions prononcées à l’encontre de ceux-ci (art. 1
+PPMin). Sauf dispositions particulières de la PPMin, le Code de procédure pénale suisse
+du 5 octobre 2007 (CPP ; RS 312.0) est applicable (art. 3 al. 1 et 2 PPMin).
+Selon l’art. 30 PPMin, l’autorité d’instruction – qui, dans le canton de
+Vaud, est le juge des mineurs (art. 3 al. 1 let. b et 8 LVPPMin [loi vaudoise du 2 février
+2010 d'introduction de la loi fédérale sur la procédure pénale applicable aux mineurs
+du 20 mars 2009 ; BLV 312.05]) – dirige la poursuite pénale et effectue tous les actes
+de procédure nécessaires à l’établissement de la vérité (al. 1).
+Lors de l’instruction, elle exerce les compétences et effectue les tâches que le CPP
+attribue au Ministère public à ce stade de la procédure (al. 2). Le juge des mineurs,
+en tant qu’autorité d’instruction, est ainsi compétent pour rendre une ordonnance
+de non-entrée en matière aux conditions prévues à l’art. 310 CPP ou pour ordonner
+le classement de la procédure aux conditions prévues à l’art. 319 CPP (Hug/Schläfli,
+Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozess-ordnung, 2
+e
+éd.,
+Bâle 2014, n. 1 ad art. 30 PPMin ; CREP 18 septembre 2019/756 consid. 1.1 et les références).
+La recevabilité et les motifs du recours sont régis par l’art. 393 CPP (art. 39 al. 1
+PPMin). La compétence pour statuer sur les recours appartient à l'autorité de recours
+des mineurs (art. 39 al. 3 PPMin ; art. 7 al. 1 let. c PPMin) qui, dans le canton de Vaud,
+est la Chambre des recours pénale du Tribunal cantonal (art. 18 LVPPMin).
+Ainsi, les parties – à savoir, conformément à l’art. 18 PPMin, le prévenu
+mineur, ses représentants légaux, la partie plaignante et le Ministère public des mineurs
+– peuvent attaquer une ordonnance de classement dans les dix jours devant l'autorité de recours
+des mineurs (art. 322 al. 2 CPP; art. 396 al. 1 CPP), pour les motifs énoncés à l’art.
+393 al. 2 CPP.
+1.2
+En l’espèce, interjeté en temps utile, auprès de l’autorité compétente,
+dans les formes prescrites (art. 385 al. 1 CPP) et par une partie qui a un intérêt au recours
+(art. 382 al. 1 CPP), le recours est recevable.
+2.
+Selon l'art. 319 al. 1 CPP, le Ministère public ordonne le classement de tout ou partie de la procédure
+lorsqu'aucun soupçon justifiant une mise en accusation n'est établi (let. a), lorsque les éléments
+constitutifs d'une infraction ne sont pas réunis (let. b), lorsque des faits justificatifs empêchent
+de retenir une infraction contre le prévenu (let. c), lorsqu'il est établi que certaines conditions
+à l'ouverture de l'action pénale ne peuvent pas être remplies ou que des empêchements
+de procéder sont apparus (let. d) ou lorsqu'on peut renoncer à toute poursuite ou à toute
+sanction en vertu de dispositions légales (let. e).
+De manière générale, les motifs de classement sont ceux «
+qui
+déboucheraient à coup sûr ou du moins très probablement sur un acquittement ou une
+décision similaire de l'autorité de jugement
+»
+(Message du Conseil fédéral relatif à l'unification du droit de la procédure pénale
+du 21 décembre 2005, FF 2006 pp. 1057 ss, spéc. 1255).
+Un
+classement s'impose donc lorsqu'une condamnation paraît exclue avec une vraisemblance confinant
+à la certitude. La possibilité de classer la procédure ne saurait toutefois être
+limitée à ce seul cas, car une interprétation aussi restrictive imposerait un renvoi en
+jugement, même en présence d'une très faible probabilité de condamnation (ATF 138
+IV 86 consid. 4.1.1 ; TF 1B_272/2011 du 22 mars 2012 consid. 3.1.1). Le principe
+in
+dubio pro duriore
+exige donc simplement qu'en
+cas de doute, la procédure se poursuive. Pratiquement, une mise en accusation s'impose lorsqu'une
+condamnation apparaît plus vraisemblable qu'un acquittement. En effet, en cas de doute, ce n'est
+pas à l'autorité d'instruction ou d'accusation mais au juge matériellement compétent
+qu'il appartient de se prononcer (ATF 138 IV 86 consid. 4.1.1 ; ATF 138 IV 186 consid. 4.1 ;
+ATF 137 IV 219 consid. 7 ; TF 1B_272/2011 du 22 mars 2012 consid. 3.1.1).
+Pour pouvoir constater légitimement que l’instruction ne corrobore aucun soupçon justifiant
+une mise en accusation (art. 319 al. 1 let. a CPP), le Ministère public doit avoir préalablement
+procédé, conformément à la maxime de l’instruction (art. 6 al. 1 CPP), à
+toutes les mesures d’instruction pertinentes susceptibles d’établir l’existence
+de soupçons suffisants justifiant une mise en accusation (CREP 17 décembre 2019/1012 ;
+CREP 10 mai 2016/305).
+3.
+Le recourant fait valoir qu’indépendamment
+de la question de savoir s’il a été agressé ou non par Z.________, la Juge des mineurs
+aurait dû se convaincre de la présence et de la participation de celui-ci à la bagarre.
+En outre, compte tenu de la gravité des faits dénoncés, il estime que la Juge des mineurs
+aurait dû admettre ses réquisitions de preuve formulées le 11 juin 2021, à savoir
+l’audition d’T1.________ et T2.________.
+Le recourant invoque plusieurs éléments qui démontreraient que Z.________ a participé
+à la bagarre du 29 février 2020, malgré ses dénégations :
+-              La version des faits
+de Z.________ n’aurait pas toujours été cohérente et il se serait même contredit
+sur certains points. Il aurait ainsi menti en déclarant ne pas être souvent à B.________
+et ignorer qu’il existait une rivalité entre les jeunes de B.________ et ceux de C.________.
+Le prévenu a effectivement tenté de minimiser la fréquence de sa présence à
+B.________, puisque, confronté à la déclaration du témoin T3.________ selon laquelle
+il traînait souvent à B.________ à l’époque des faits, il a finalement admis
+que «
+pendant le
+confinement j’étais souvent à B.________
+»
+(PV aud. 32, lignes 180). S’agissant de la connaissance de la rivalité entre les jeunes
+de B.________ et ceux de C.________, le prévenu ne l’a pas entièrement niée. En
+effet, à la question «
+Y
+a-t-il une rivalité entre les jeunes de B.________ et de C.________ ?
+»,
+il a répondu «
+Non.
+Enfin, oui, mais c’est personnel. Pour ma part, il y a une ou deux personnes que je n’aime
+pas à C.________, il s’agit d’[...] et de [...], je ne connais pas leur nom de famille
+»
+(PV aud. 27, R. 15). De toute manière, le fait que le prévenu tente ou pas de minimiser ces
+deux points ne fonde pas encore sa présence lors de la bagarre ;
+-              Les explications données
+par Z.________ concernant une photographie trouvée dans son téléphone portable montrant
+un individu qui se dissimule le visage avec un bonnet, une écharpe et des lunettes en faisant un
+doigt d’honneur à l’objectif, avec le texte «
+Sinon
+je viens comme ça
+», seraient absurdes
+et aberrantes (PV aud. 32, lignes 139-142). En effet, cette photographie est datée du 29 février
+2020 à 12h03, de sorte qu’il serait évident que cela avait un rapport avec la rixe prévue
+le même jour.
+En réalité, il n’a pas été possible d’établir qui était sur
+cette photographie. Le fait que le recourant doute des dénégations de Z.________ comme étant
+la personne photographiée ne suffit pas à établir qu’il s’agissait bien de
+lui, faute d’éléments permettant de faire naître un doute à ce sujet ;
+-              L’audition de T3.________
+du 26 avril 2021 permettrait de mettre en cause Z.________ (PV aud. 33, lignes 47-62). En effet, ce témoin
+a déclaré qu’elle avait croisé le prévenu après la fête derrière
+chez elle, soit à environ 150-200 mètres du lieu où s’était déroulée
+la fête, et que celui-ci lui avait montré, quelques semaines après les faits, une vidéo
+d’individus cagoulés le soir en question dans un garage menant à la salle où avait
+eu lieu la fête.
+Le recourant oublie de mentionner que le témoin T3.________ a précisé que ce n’était
+qu’une heure après l’altercation et l’intervention de la police, alors que les
+assaillants avaient disparu, qu’elle avait croisé le prévenu, et que, surtout, elle ne
+l’avait pas vu ni entendu au cours de la soirée dans le local en question ;
+-              C’est à tort
+que la direction de la procédure aurait rejeté sa requête tendant à l’audition
+d’T1.________ et de T2.________ et rien n’indique que ceux-ci auraient été spécifiquement
+interrogés sur l’implication de Z.________.
+En réalité, T1.________ a été entendu trois fois par la police et T2.________ une
+fois par la police et une fois par la Juge des mineurs. Ils ont tous deux admis qu’ils étaient
+sur le lieu de la bagarre et articulé le nom de plusieurs participants à celle-ci, mais aucun
+n’a mis en cause le prévenu pour y avoir participé.
+Les éléments qui précèdent, même considérés dans leur globalité,
+ne permettent pas de retenir l’existence de soupçons suffisants à l’encontre de
+Z.________. Sur la base du dossier, une condamnation ou une mise en accusation paraissent clairement
+exclues. Comme exposé ci-dessus, les témoins dont l’audition est requise se sont déjà
+exprimés sur les faits litigieux et on ne discerne pas quelle mesure d’instruction complémentaire
+permettrait de conduire à une appréciation différente de la situation.
+Il s'ensuit que le classement de la procédure concernant Z.________ doit être confirmée.
+4.
+En définitive, le recours de X.________ doit être rejeté et l’ordonnance entreprise
+confirmée.
+Les frais de la procédure de recours sont fixés à 440 fr. (art. 20 al. 1 et 2 TFIP
+[tarif des frais de procédure et indemnités en matière pénale du 28 septembre
+2010 ; BLV 312.03.1]). S’agissant de l’indemnisation de Me Luis Carlos dos Santos Gonçalves,
+conseil juridique gratuit du plaignant, il sera retenu, au vu des déterminations déposées
+et de la nature de la cause, 4 heures d'activité nécessaire d’avocat au tarif horaire
+de 180 fr. (art. 2 al. 1 let. a et 3 al. 2 RAJ [règlement sur l'assistance judiciaire en matière
+civile du 7 décembre 2010 ; BLV 211.02.3] par renvoi de l'art. 26b TFIP), soit 720
+francs. S'y ajoutent 2 % pour les débours (art. 3bis al. 1 RAJ par renvoi de l'art. 26b
+TFIP), soit 14 fr. 40, et 7,7 % de TVA sur le tout, de sorte que l'indemnité d'office
+est arrêtée au total à 791 fr. en chiffres arrondis.
+Les frais de la procédure de recours ainsi que l’indemnité allouée au conseil juridique
+gratuit seront exceptionnellement laissés à la charge de l’Etat, compte tenu des circonstances
+de la cause.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce :
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 10 septembre 2021 est confirmée.
+III.
+L'indemnité allouée à Me Luis Carlos
+dos Santos Gonçalves, conseil juridique gratuit de X.________, est fixée à 791 fr.
+(sept cent nonante et un francs).
+IV.
+Les
+frais d'arrêt, par 440 fr. (quatre cent quarante francs), ainsi que l'indemnité allouée
+au conseil juridique gratuit de X.________, par 791 fr. (sept cent nonante et un francs), sont laissés
+à la charge de l’Etat.
+V.
+L’arrêt est exécutoire.
+Le
+président :              La
+greffière :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Luis Carlos dos Santos Gonçalves, avocat (pour X.________),
+-
+M. Z.________,
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Vice-présidente du Tribunal des mineurs,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi sur le Tribunal fédéral du 17 juin 2005 ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+sur l’organisation des autorités pénales de la Confédération du 19 mars 2010 ;
+RS 173.71]). Ce recours doit être déposé devant le Tribunal pénal fédéral
+dans un délai de dix jours dès la notification de l’arrêt attaqué (art. 396
+al. 1 CPP).
+La greffière :
