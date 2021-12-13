@@ -1,0 +1,167 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2021___40"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2021 / 40"
+decided: "2021-12-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8564118"
+cites_law: ["switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-048.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2021 / 40
+
+## Regeste
+
+RÉCUSATION, AUTORITÉ DE PROTECTION DE L'ADULTE, PERSONNE CONCERNÉE{PROTECTION DE L'ADULTE}, PARENTÉ, ADMISSION DE LA DEMANDE | 47 al. 1 let. a CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative 13.12.2021 (publiziert) Réc-civile / 2021 / 40
+Vaud Tribunal cantonal Cour administrative 13.12.2021 (publié) Réc-civile / 2021 / 40
+Vaud Tribunal cantonal Cour administrative 13.12.2021 (pubblicato) Réc-civile / 2021 / 40
+
+RÉCUSATION, AUTORITÉ DE PROTECTION DE L'ADULTE, PERSONNE CONCERNÉE{PROTECTION DE L'ADULTE}, PARENTÉ, ADMISSION DE LA DEMANDE | 47 al. 1 let. a CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+TRIBUNAL
+CANTONAL
+41
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 17 novembre 2021
+__________________
+Présidence
+de               M.
+Kaltenrieder
+,
+président
+Juges
+:              M.
+Maillard et Mme Revey
+Greffière
+:              Mme
+Spitz
+*****
+Art.
+47 al. 1 let. a CPC ; 8a al. 3 et 8b al. 4 CDPJ
+Vu le rapport de renseignement valant comme signalement – demande d’instauration de mesure
+de protection du jeune adulte concernant
+A.X.________
+,
+à [...], adressé par la Direction générale de l’enfance et de la jeunesse,
+Office régional de protection des mineurs du [...] (ci-après : l’ORPM), à la
+Justice de paix du district de [...] (ci-après : la justice de paix),
+vu le courrier du 1
+er
+novembre 2021 par lequel la Première juge de paix du district de [...] a spontanément requis
+la récusation en corps de son office dans le cadre de la procédure précitée,
+vu les pièces au dossier ;
+attendu que la Cour de céans est compétente pour statuer sur la demande de récusation
+du 28 mars 2021 en vertu des art. 8a al. 3 CDPJ (Code de droit privé judiciaire vaudois
+du 12 janvier 2010 ; BLV 211.02) et 6 al. 1 let. a ROTC (Règlement
+organique du Tribunal cantonal du 13 novembre 2007 ; BLV 173.31.1),
+que la demande satisfait aux exigences de fond et de forme,
+qu’elle est ainsi recevable ;
+attendu que le juge d'une cause civile est récusable dans les cas énumérés à
+l'art. 47 al. 1 let. a à e CPC [Code de procédure civile du 19 décembre 2008 ; RS
+272]), ainsi que selon l'art. 47 al. 1 let. f CPC, s'il est « de toute autre manière »
+suspect de partialité, notamment en raison d’un rapport d’amitié ou d’inimitié
+avec une partie ou son représentant (TF 4A_172/2019 du 4 juin 2019 consid. 4.1.2),
+que selon la jurisprudence, cette disposition
+doit être appliquée dans le respect des principes de la garantie d'un tribunal indépendant
+et impartial instituée par les art. 6 par. 1 CEDH (Convention de sauvegarde des droits de l'homme
+et des libertés fondamentales du 4 novembre 1950 ; RS 0.101) et 30 al. 1 Cst. (Constitution
+fédérale de la Confédération suisse du 18 avril 1999 ; RS 101) (ATF 140 III
+221 consid. 4.2 ; ATF 139 III 433 consid. 2.2
+in
+fine
+),
+que cette garantie permet au plaideur d'exiger
+la récusation d'un juge dont la situation ou le comportement est de nature à faire naître
+un doute sur son impartialité et tend notamment à éviter que des circonstances extérieures
+à la cause puissent influencer le jugement en faveur ou au détriment d'une partie,
+qu’elle n'impose pas la récusation seulement lorsqu'une prévention effective du juge
+est établie, car une disposition interne de sa part ne peut guère être prouvée, mais
+il suffit que les circonstances donnent l'apparence de la prévention et fassent redouter une activité
+partiale du magistrat,
+que seules des circonstances constatées objectivement doivent être prises en considération,
+les impressions purement individuelles d'une des parties au procès n’étant pas décisives
+(ATF 144 I 159 consid. 4.3 et les réf. citées ; TF 5A_738/2017 du 25 octobre
+2018 consid. 3.1),
+que le risque de prévention ne doit pas être admis trop facilement, sous peine de compromettre
+le fonctionnement normal des tribunaux (ATF 144 I 159 consid. 4.4 ; TF 5A_843/2019 du 8 avril 2020
+consid. 4.2.1 ; TF 5A_98/2018 du 10 septembre 2018 consid. 4.2 et les réf. citées),
+qu'à teneur de l'art. 48 CPC, le magistrat
+ou le fonctionnaire judiciaire concerné fait état en temps utile d'un motif de récusation
+possible et se récuse lorsqu'il considère que ce motif est réalisé ;
+attendu qu’en l’espèce, la Première juge de paix du district de [...] fait valoir
+que le jeune adulte concerné par le signalement dont son office a été saisi est le fils
+de B.X.________, employée en qualité de gestionnaire de dossier au sein de ladite justice de
+paix,
+que la collaboratrice précitée, qui officie au greffe contentieux, est appelée à
+collaborer avec tous les magistrats de cet office,
+qu’il est possible qu’un rapport d'amitié ou d'inimitié ait pu naître des
+relations professionnelles entre B.X.________ et les membres de la justice de paix concernée (cf.
+p. ex. CA 11 juin 2021/20 ; CA 22 avril 2021/17 ; CA 21 décembre 2020/47 ; CA 1
+er
+décembre
+2020/43 ; CA 4 août 2020/19),
+qu’A.X.________ et B.X.________ sont liés par un lien de parenté étroit, au premier
+degré,
+qu’il pourrait ainsi résulter de ces relations une apparence de prévention, à tout
+le moins aux yeux de l’intéressé par la mesure de protection sollicitée par l’ORPM,
+à laquelle il serait de surcroît opposé,
+que la situation pourrait également être délicate pour les membres de l’office amenés
+à intervenir dans la cause,
+qu'afin de garantir l'impartialité de l’autorité appelée à connaître de
+la cause ouverte par l’ORPM, concernant A.X.________, la requête de récusation spontanée
+présentée par la Première juge de paix du district de [...] doit ...]être admise,
+que dans un tel cas, la cause doit être transmise dans l'état où elle se trouve à
+une autre autorité ayant les mêmes compétences (art. 8b al. 4 CDPJ),
+qu'elle sera en l’espèce transmise à la Justice de paix du district de [...];
+attendu que le présent arrêt peut être rendu sans frais judiciaires, ni dépens (Tappy,
+Commentaire romand du Code de procédure civile, Bâle 2019, 2
+e
+éd.,
+n. 28 ad. art. 48 CPC).
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La requête de récusation formée le 1
+er
+novembre 2021 par la Première juge de paix du district de [...] est admise.
+II.
+La cause est transmise dans l’état où elle se trouve à la Justice de paix du district
+de [...].
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+la DGEJ, ORPM du [...];
+-
+B.X.________.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Première juge de paix du district de [...],
+-
+Mme la Première juge de paix du district de [...], avec le dossier.
+La greffière :
