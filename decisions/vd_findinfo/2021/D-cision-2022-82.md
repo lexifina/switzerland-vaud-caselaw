@@ -1,0 +1,457 @@
+---
+decision_id: "vd_findinfo_D_cision___2022___82"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2022 / 82"
+decided: "2021-12-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8703053"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-179quater.md", "switzerland/bund/acts/312.0/art-003.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-120.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-318.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-418.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-427.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-432.md"]
+---
+
+# VD Findinfo Décision / 2022 / 82
+
+## Regeste
+
+NON-LIEU, FRAIS DE LA PROCÉDURE, PRINCIPE DE LA BONNE FOI | 3 al. 2 let. a CPP (CH), 319 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 17.12.2021 Décision / 2022 / 82
+
+NON-LIEU, FRAIS DE LA PROCÉDURE, PRINCIPE DE LA BONNE FOI | 3 al. 2 let. a CPP (CH), 319 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+1146
+PE20.006500-PGT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+17 décembre 2021
+__________________
+Composition
+:               M.
+P E R R O T, président
+M.
+Meylan et Mme Byrde, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+179
+quater
+CP; 3 al. 2 let. a, 319, 423 al. 1 CPP
+Statuant sur le recours interjeté le 18 septembre 2021 conjointement par
+B.R.________
+et
+A.R.________
+contre
+l’ordonnance
+de classement rendue le 6 septembre 2021 par le Ministère public de l’arrondissement du Nord
+vaudois dans la cause
+n° PE20.006500-PGT
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 22 avril 2020, les époux B.R.________ et A.R.________ ont déposé plainte pénale
+contre [...] et son fils [...] pour violation du domaine secret ou du domaine privé au moyen d’un
+appareil de prise de vues (art. 179
+quater
+CP [Code pénal; RS 311.0]).
+Les plaignants, qui habitent sur la parcelle n° [...], à [...], dont ils sont propriétaires,
+ont constaté, durant la fin de la semaine de Pâques de l’année 2020, alors qu’ils
+travaillaient dans leur jardin potager, qu’une caméra de vidéosurveillance, probablement
+raccordée au bureau d’architecte du fils de leur voisine [...], avait été installée
+contre une poutre, sous la toiture du bâtiment en transformation situé sur la parcelle n°
+[...], contiguë à la leur et dont la prénommée est propriétaire, à environ
+7 mètres de hauteur et à quelque 3 mètres de la limite de leur terrain. Ils ont produit
+un plan de situation (P. 4/1). Ils estiment, au vu de la position et de l’orientation du dispositif,
+que le champ de vision de la caméra couvrirait une partie de leur jardin potager et qu’ils
+seraient donc filmés par celle-ci lorsqu’ils se trouvent sur leur propriété, pourtant
+à l’abri des regards provenant de l’espace public. Ils reprochent ainsi à [...]
+et [...] de porter atteinte à leur sphère privée et requièrent que ceux-ci soient
+sanctionnés pour de tels agissements.
+b)
+Le 7 mai 2020, [...] et [...] se sont déterminés auprès de la police sur les accusations
+des époux B.R.________. Ils ont en substance confirmé la pose d’une caméra et indiqué
+qu’elle avait fonctionné du 31 juillet au 14 septembre 2019 et avait été débranchée
+à compter de cette dernière date, à la suite de la construction de plusieurs murs. Ils
+ont ajouté que le dispositif de surveillance avait pour vocation de prévenir des intrusions
+clandestines lors des travaux de transformation du bâtiment concerné et qu’il était
+orienté de telle façon qu’il ne pouvait pas filmer le fonds contigu, ce d’autant
+plus que des bâches étaient posées sur les échafaudages, empêchant la vue sur
+la parcelle de B.R.________ et A.R.________.
+c)
+Par ordonnance du 19 mai 2020, le Ministère
+public de l’arrondissement du Nord vaudois a refusé d’entrer en matière sur la
+plainte de B.R.________ et A.R.________ (I) et a dit que les frais du dossier étaient laissés
+à la charge de l’Etat (II).
+Le Procureur a notamment et en substance relevé que les soupçons des plaignants prenaient appui
+sur les problèmes qu’ils rencontraient de longue date avec leurs voisins et que rien ne permettait,
+à ce stade, de mettre en doute la parole de ces derniers, qui avaient indiqué que la caméra
+litigieuse avait été débranchée le 14 septembre 2019, qu’elle était orientée
+de telle façon qu’elle ne filmait pas le fonds contigu et que, par ailleurs, des bâches
+avaient été posées sur les échafaudages, empêchant de filmer autre chose que
+les travaux effectués sur le bâtiment en rénovation. Ainsi, selon le Ministère public,
+il apparaissait que la plainte, qui ne se fondait sur aucun élément sérieux, avait été
+déposée avec légèreté, probablement à titre préventif ou par mesure
+de rétorsion.
+d)
+Par
+arrêt du 19
+juin 2020 (n° 474), la Chambre des recours pénale a admis le recours interjeté par les
+plaignants et annulé l’ordonnance du 19 mai 2020. Elle a considéré que les griefs
+formulés en seconde instance par les recourants étaient bien fondés. Prenant appui sur
+des photographies et des éléments pertinents (P. 8/1), ceux-ci rendaient vraisemblable que
+les voisins avaient installé une caméra de vidéosurveillance susceptible de filmer la
+propriété des plaignants, plus précisément leur jardin potager. Partant, le raisonnement
+du Procureur violait manifestement l’art. 310 CPP (Code de procédure pénale suisse du
+5 octobre 2007; RS 312.0) et le principe
+in
+dubio pro duriore
+, puisque celui-ci était
+face à des versions partiellement contradictoires et que dans la mesure où de simples mesures
+d’instruction pouvaient être menées afin de recueillir des preuves et de vérifier
+les allégations de chacune des parties, il ne pouvait pas dénier d’emblée toute
+crédibilité à celles des plaignants sous le seul prétexte que les intéressés
+étaient en conflit de voisinage. On ne voyait en outre pas en quoi la plainte déposée
+par les recourants l’aurait été avec légèreté. Par conséquent, il
+appartenait au Ministère public d’ouvrir une instruction pénale et de procéder à
+toutes les mesures d’instruction utiles afin de déterminer si la caméra de vidéosurveillance
+litigieuse avait filmé ou filmait encore une partie de la parcelle des recourants et si elle avait
+bel et bien porté atteinte à leur sphère privée.
+e)
+Le 11 décembre 2020, le Procureur a demandé une enquête de police avant ouverture d’instruction
+(P. 17).
+Le 7 janvier 2021, la police a déposé son rapport. Celui-ci relève que la gendarmerie
+s’était tout d’abord déplacée le 4 janvier 2021 au domicile des époux
+A.R.________, notamment sur leur jardin potager, d’où elle avait constaté que la caméra
+en cause n’était pas branchée, et que les policiers s’étaient ensuite rendus
+le 7 janvier 2021 chez [...], où elle avait relevé, d’une part, que la caméra,
+qui n’était pas branchée, n’avait pas servi depuis plusieurs mois vu la poussière
+et les toiles d’araignées accumulées et, d’autre part, qu’en fonction de
+son emplacement et de son angle, elle filmait exclusivement la propriété du prénommé
+(P. 18).
+B.
+a)
+Par ordonnance du
+3 février 2021, le Ministère public de l’arrondissement du Nord vaudois a derechef refusé
+d’entrer en matière sur la plainte de B.R.________ et A.R.________ (I) et a dit que les frais
+du dossier étaient laissés à la charge de l’Etat (II).
+Le Procureur a considéré que, faute de soupçons suffisants justifiant l’ouverture
+d’une instruction pénale, il avait requis de la police qu’elle procède à toutes
+investigations utiles aux fins de clarifier les faits évoqués par les plaignants et qu’il
+résultait des informations ainsi recueillies qu’il n’y avait pas matière à
+ouvrir une instruction pénale contre [...] ou [...] à raison des faits dénoncés.
+b)
+Par arrêt du 3 mars 2021 (n° 219), la Chambre des recours pénale a admis le recours interjeté
+par les plaignants et annulé l’ordonnance du 3 février 2021. Elle a considéré
+que, dès lors qu’elle avait annulé l’ordonnance de non-entrée en matière
+du 19 mai 2020 en invitant le Ministère public à ouvrir une instruction pénale, le Procureur
+ne pouvait plus rendre une ordonnance de non-entrée en matière, mais qu’il devait, selon
+les instructions reçues, ouvrir formellement une instruction pénale (art. 309 al. 3 CPP), instruire
+les faits, puis rendre une ordonnance pénale ou adresser un avis de prochaine clôture aux parties
+conformément à l’art. 318 CPP. Or, le Procureur s’était écarté sans
+raison de l’arrêt de la Chambre de céans du 19 juin 2020 et avait demandé une enquête
+de police avant instruction (P. 17), puis rendu l’ordonnance attaquée à réception
+du rapport de police (P. 18).
+c)
+Par la suite, le Procureur a ouvert formellement une instruction à l’encontre de [...] et
+de [...]. Par
+avis
+de prochaine clôture rendu le 8 juin 2021, il a fait part aux parties que l’instruction pénale
+apparaissait complète et qu’il entendait rendre une ordonnance de classement à raison
+du chef de prévention de violation du domaine secret ou du domaine privé au moyen d’un
+appareil de prise de vues. Le magistrat a ajouté qu’il entendait laisser les frais à
+la charge de l’Etat.
+Agissant conjointement, par leur défenseur de choix, dans le délai prolongé de détermination,
+[...] et [...], ont, par mémoire du 8 juillet 2021, conclu à ce qu’une ordonnance de
+classement soit rendue en leur faveur, les frais étant mis à la charge des plaignants. Les
+prévenus ont en outre conclu à l’allocation d’une indemnité de 1'600 fr.,
+TVA comprise, à raison de leurs frais d’avocat (P. 25).
+Les plaignants n’ont pas présenté de réquisition.
+d)
+Par
+ordonnance du 6 septembre 2021, le Ministère public de l’arrondissement du Nord vaudois a
+prononcé le classement de la procédure pénale dirigée contre [...] et [...] pour
+violation du domaine secret ou du domaine privé au moyen d’un appareil de prise de vues (I),
+a dit que B.R.________ et A.R.________, solidairement entre eux, étaient les débiteurs de [...]
+et [...] de la somme de 1'233 fr. 15 en remboursement de leurs frais de défense (II) et a mis
+les
+frais de procédure à la charge de B.R.________ et de A.R.________, par moitié chacun (III).
+Sur la base du rapport de gendarmerie du 7 janvier 2021, déjà mentionné,
+le
+Procureur a considéré que les mesures d’investigation entreprises n’avaient pas
+corroboré les allégations des plaignants selon lesquelles les prévenus avaient installé
+une caméra de vidéosurveillance susceptible de filmer leur propriété, plus précisément
+leur jardin potager. Dès lors, et comme aucune autre opération n’était susceptible
+d’apporter d’éléments supplémentaires, la procédure devait être
+classée, à défaut de toute infraction pénale susceptible d’avoir été
+commise.
+Quant aux effets accessoires du classement, les frais de procédure et l’indemnité en
+faveur des prévenus ont été mis à la charge des plaignants, motif pris que l’infraction
+dénoncée ne se poursuivait que sur plainte et que la procédure était classée.
+C.
+Par acte du 17 septembre 2021, mis à la poste
+le lendemain, B.R.________ et A.R.________ ont recouru auprès de la Chambre des recours pénale
+du Tribunal cantonal contre cette ordonnance, en concluant à son annulation, l’affaire étant
+«
+enfin traitée
+de manière équitable
+». Les
+recourants ont versé les sûretés requises, de 550 fr., dans le délai imparti à
+cet effet.
+Invité à se déterminer sur le recours, le Ministère public a, par lettre du 9 décembre
+2021, indiqué qu’il n’entendait pas déposer de déterminations. Le Procureur
+a ajouté que l’indication, dans l’avis de prochaine clôture, selon laquelle les
+frais de la cause seraient laissés à la charge de l’Etat, était une erreur.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le Ministère public en application des art. 319 ss CPP dans les dix jours
+devant l’autorité de recours (art. 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP),
+qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP
+[Loi d’introduction du Code de procédure pénale suisse du 19 mai 2009; BLV 312.01]; art.
+80 LOJV [Loi d’organisation judiciaire du 12 décembre 1979; BLV 173.01]).
+1.2
+Interjeté dans le délai légal et dans les formes prescrites (art. 385 al. 1 CPP)
+auprès de l’autorité compétente, par les plaignants qui ont la qualité pour
+recourir (art. 382 al. 1 CPP; ATF 140 IV 155 consid. 3.3.1), le recours est recevable.
+2.
+Selon l'art. 319 al. 1 CPP, le
+Ministère
+public ordonne le classement de tout ou partie de la procédure lorsqu'aucun soupçon justifiant
+une mise en accusation n'est établi (let. a), lorsque les éléments constitutifs d'une
+infraction ne sont pas réunis (let. b), lorsque des faits justificatifs empêchent de retenir
+une infraction contre le prévenu (let. c), lorsqu'il est établi que certaines conditions à
+l'ouverture de l'action pénale ne peuvent pas être remplies ou que des empêchements de
+procéder sont apparus (let. d) ou lorsqu'on peut renoncer à toute poursuite ou à toute
+sanction en vertu de dispositions légales (let. e).
+De manière générale, les motifs de classement sont ceux « qui déboucheraient
+à coup sûr ou du moins très probablement sur un acquittement ou une décision similaire
+de l'autorité de jugement » (Message du Conseil fédéral relatif à l'unification
+du droit de la procédure pénale du 21 décembre 2005, FF 2006 1057, p. 1255). Un classement
+s'impose donc lorsqu'une condamnation paraît exclue avec une vraisemblance confinant à la certitude.
+La possibilité de classer la procédure ne saurait toutefois être limitée à ce
+seul cas, car une interprétation aussi restrictive imposerait un renvoi en jugement, même en
+présence d'une très faible probabilité de condamnation (ATF 138 IV 86 consid. 4.1.1; TF
+1B_272/2011 du 22 mars 2012 consid. 3.1.1). Le principe
+« in
+dubio pro duriore » exige donc simplement qu'en cas de doute, la procédure se poursuive.
+Pratiquement, une mise en accusation s'impose lorsqu'une condamnation apparaît plus vraisemblable
+qu'un acquittement. En effet, en cas de doute, ce n'est pas à l'autorité d'instruction ou d'accusation
+mais au juge matériellement compétent qu'il appartient de se prononcer (ATF 143 IV 241 consid.
+2.3.1, JdT 2017 IV 357; ATF 138 IV 86 consid. 4.1.1; ATF 138 IV 186 consid. 4.1; ATF 137 IV 219 consid.
+7).
+3.
+3.1
+Les recourants reprochent au
+Procureur
+de n’avoir rien fait de plus qui ne l’avait été auparavant déjà et de
+ne s’être ainsi fondé que sur les investigations qui avaient déjà été
+effectuées lors de l’ordonnance de non-entrée en matière du 3 février 2021,
+de sorte que l’ordonnance de classement rendue le 8 septembre 2021 est similaire, dans son résultat,
+à cette précédente décision. Ils font aussi grief au magistrat de ne pas avoir soumis
+les pièces du dossier aux gendarmes, en ajoutant que ceux-ci ne sont guère familiarisés
+avec le fonctionnement d’une caméra.
+3.2
+Il est vrai que le Procureur n’a rien fait de plus que d’ouvrir formellement une instruction
+sur la base des faits dénoncés (art. 309 CPP), conformément à l’arrêt
+de la Chambre de céans du 3 mars 2021. Il n’en reste cependant pas moins que les recourants
+n’ont requis aucune mesure d’instruction, alors même que l’avis de prochaine clôture
+rendu le 8 juin 2021 leur impartissait un délai à cette fin. Ils ont néanmoins eu la faculté
+d’expliquer la situation de vive voix et sur place aux gendarmes dépêchés sur les
+lieux le 4 janvier 2021. Les enquêteurs étaient ainsi parfaitement renseignés quant à
+leurs griefs. Trois jours plus tard, soit le 7 janvier 2021, les gendarmes se sont déplacés
+chez les voisins. Point n’est besoin d’être technicien pour constater si une caméra
+fonctionne et quelle est son orientation. Le constat des gendarmes est donc probant. La « contre-expertise »
+requise par les recourants ne pourrait dès lors qu’être vaine. Au surplus, on ne voit
+pas quelle autre mesure d’instruction pourrait d’ailleurs être entreprise et les recourants
+n’en indiquent aucune. Leurs moyens portant sur le sort de l’action pénale doivent ainsi
+être rejetés.
+Le classement prononcé procède dès lors d’une correcte application de l’art.
+319 al. 1 let. a, respectivement let. b, CPP.
+4.
+4.1
+Les recourants contestent également les effets
+accessoires du classement.
+S’agissant d’abord des frais, ils se prévalent du fait que l’avis de prochaine
+clôture indiquait qu’ils seraient laissés à la charge de l’Etat. Pour ce qui
+est, ensuite, de l’indemnité allouée selon l’art. 429 al. 1 let. a CPP aux prévenus
+libérés, ils se limitent à faire grief d’arbitraire au Procureur, dans la mesure
+où ils relèvent qu’il aurait «
+pris
+une décision inique
+».
+4.2
+4.2.1
+Le sort des frais de procédure à l'issue
+de celle-ci est régi par les art. 422 et suivants CPP. En principe, les frais sont mis à la
+charge de la Confédération ou du canton qui a conduit la procédure, les dispositions contraires
+du CPP étant réservées (art. 423 al. 1 CPP).
+Selon l'art. 427 al. 2 CPP, en cas d'infractions poursuivies sur plainte, les frais de procédure
+peuvent être mis à la charge de la partie plaignante ou du plaignant qui, ayant agi de manière
+téméraire ou par négligence grave, a entravé le bon déroulement de la procédure
+ou rendu celle-ci plus difficile lorsque la procédure est classée ou le prévenu acquitté
+(let. a) et que le prévenu n'est pas astreint au paiement des frais conformément à l'art.
+426 al. 2 CPP (let. b).
+4.2.2
+Dans ce contexte, le plaignant doit être
+compris comme la personne qui a déposé une plainte pénale et qui a renoncé à
+user des droits qui sont les siens au sens de l'art. 120 CPP, étant précisé que cette
+renonciation ne vaut pas retrait de la plainte pénale (ATF 138 IV 248 consid. 4.2.1;
+TF
+6B_538/2021 du 8 décembre 2021 consid. 1.1.1; TF 6B_369/2018 du 7 février 2019 consid. 2.1).
+Contrairement à la version française, les versions allemande et italienne opèrent une
+distinction entre la partie plaignante («
+Privatklägerschaft »
+;
+«
+accusatore privato »
+)
+et le plaignant («
+antragstellende
+Person »
+; «
+querelante »
+).
+Ainsi la condition d'avoir agi de manière téméraire ou par négligence grave et de
+la sorte entravé le bon déroulement de la procédure ou rendu celle-ci plus difficile ne
+s'applique qu'au plaignant. En revanche, cette condition ne s'applique pas à la partie plaignante
+à qui les frais peuvent être mis à charge sans autre condition (ATF 138 IV 248 consid.
+4.2.2; TF 6B_538/2021 du 8 décembre 2021 précité consid. 1.1.1 et les réf. citées;
+6B_446/2015 du 10 juin 2015 consid. 2.1.2). La personne qui porte plainte pénale et qui prend part
+à la procédure comme partie plaignante doit assumer entièrement le risque lié aux
+frais, tandis que la personne qui porte plainte mais renonce à ses droits de partie ne doit supporter
+les frais qu'en cas de comportement téméraire (ATF 138 IV 248 consid. 4.2.3; TF 6B_538/2021
+du 8 décembre 2021 précité consid. 1.1.1 et les réf. citées; TF 6B_446/2015
+du 10 juin 2015 précité consid. 2.1.2). La jurisprudence a toutefois précisé que
+les frais de procédure ne peuvent être mis à la charge de la partie plaignante ayant déposé
+une plainte pénale qui, hormis le dépôt de la plainte, ne participe pas activement à
+la procédure que dans des cas particuliers (ATF 138 IV 248 consid. 4.4.1; TF 6B_538/2021 du 8 décembre
+2021 précité consid. 1.1.1 et les réf. citées; TF 6B_446/2015 du 10 juin 2015 précité
+consid. 2.1.2).
+4.2.3
+Selon
+l'art.
+432 al. 2 CPP, lorsque le prévenu obtient gain de cause sur la question de sa culpabilité et
+que l'infraction est poursuivie sur plainte, la partie plaignante ou le plaignant qui, ayant agi de manière
+téméraire ou par négligence grave, a entravé le bon déroulement de la procédure
+ou a rendu celle-ci plus difficile peut être tenu d'indemniser le prévenu pour les dépenses
+occasionnées par l'exercice raisonnable de ses droits de procédure.
+Cette disposition constitue le pendant de l’art. 427 al. 2 CPP, qui régit les conditions dans
+lesquelles les frais de procédure peuvent être mis à la charge de la partie plaignante
+ou du plaignant (ATF 138 IV 248 consid. 5.3). La jurisprudence concernant cette disposition est donc
+applicable par analogie à l’art. 432 al. 2 CPP (ATF 138 IV 248 consid. 5.3; TF 6B_438/2013
+du 18 juillet 2013 consid. 3.1; CREP 8 juin 2020/128 consid. 2.2.2). Le dommage dont il est question
+à l'art. 432 al. 2 CPP est le même que celui de l'art. 429 al. 1 let. a CPP, aux termes duquel
+le prévenu acquitté totalement ou en partie ou qui bénéficie d'une ordonnance de
+classement a droit à une indemnité pour les dépenses occasionnées par l'exercice
+raisonnable de ses droits de procédure (Moreillon/Parein-Reymond, Petit commentaire CPP, 2
+e
+éd., Bâle 2016, n. 11 ad art. 432 CPP).
+4.3
+Aux termes de l'art. 5 al. 3 Cst. (Constitution
+fédérale de la Confédération suisse du 18 avril 1999; RS 101), les organes de l'Etat
+et les particuliers doivent agir de manière conforme aux règles de la bonne foi. De ce principe
+général découle notamment le droit fondamental du particulier à la protection de
+sa bonne foi dans ses relations avec l'Etat, consacré à l'art. 9 in fine Cst. (ATF 147 IV 274
+consid. 1.10.1 p. 286; ATF 144 IV 189 consid. 5.1; ATF 138 I 49 consid. 8.3.1 p. 53 et les références
+citées). Le principe de la bonne foi est également concrétisé à l'art. 3 al.
+2 let. a CPP et concerne, en procédure pénale, non seulement les autorités pénales
+mais, le cas échéant, les différentes parties, y compris le prévenu (ATF 146 IV 297
+consid. 2.2.6 p. 308; ATF 144 IV 189 consid. 5.1; ATF 143 IV 117 consid. 3.2 p. 121; TF 6B_1100/2020
+du 16 décembre 2021 consid. 3.3).
+4.4
+En l’occurrence, l’avis de prochaine
+clôture indiquait, par erreur, que les frais seraient laissés à la charge de l’Etat.
+L’issue probable mentionnée dans l’ordonnance de clôture ne lie toutefois pas le
+Ministère public (Moreillon/Parein-Reymond, op. cit., n. 2 ad art. 318 CPP).
+Cela étant, l’infraction réprimée par l’art. 179
+quater
+CP, seule en cause, est poursuivie sur plainte uniquement. Contrairement à ce que paraît considérer
+le Procureur, cela ne saurait suffire à justifier l’application de l’art. 427 al. 2
+CPP, ni, partant, celle de l’art. 432 al. 2 CPP. En effet, les
+plaignants
+n’ont pas participé activement à la procédure, ni pris de conclusions civiles; en
+particulier, ils n’ont pas procédé suite à l’avis de prochaine clôture.
+Il n’apparaît pas davantage qu’ils auraient agi de manière téméraire
+ou par négligence grave, comme en a déjà statué la Chambre de céans dans son
+premier arrêt, rendu le 19 juin 2020 (n° 474, précité). Partant, conformément
+à la jurisprudence résumée au considérant 4.2 ci-dessus, ces motifs interdisent également
+de mettre à leur charge tout frais de procédure ou indemnité. Bien plutôt, ceux-ci
+doivent être laissés, respectivement mis, à la charge de l’Etat, les prévenus
+étant créanciers solidaires de l’indemnité.
+Le recours doit être admis dans cette mesure.
+5.
+Il résulte de ce qui précède que
+le recours doit être partiellement admis et l’ordonnance du 6 septembre 2021
+réformée
+en ce sens les frais de procédure, par 525 fr., et l’indemnité allouée aux prévenus
+selon l’art. 429 al. 1 let. a CPP, par 1'233 fr. 15, sont laissés, respectivement mis, à
+la charge de l’Etat. L’ordonnance sera confirmée pour le surplus.
+Les frais de la procédure de recours, par 1’210 fr. (art. 20 al. 1 TFIP [tarif des frais
+de procédure et indemnités en matière pénale du 28 septembre 2010; BLV 312.03.1]),
+seront mis à raison de la moitié, soit par 605 fr., à la charge des recourants, qui succombent
+partiellement (art. 428 al. 1 CPP), solidairement entre eux (art. 418 al. 2 CPP), et seront laissés
+à la charge de l’Etat pour le surplus (art. 423 al. 1 CPP). Les frais mis à la charge
+des recourants seront compensés à due concurrence avec le montant de 550 fr. déjà
+versé par eux à titre de sûretés (art. 7 TFIP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce :
+I.
+Le recours est partiellement admis.
+II.
+L’ordonnance du 6 septembre 2021 est réformée comme il suit :
+II.
+dit que l’Etat de Vaud est le débiteur de [...] et de [...], solidairement entre eux, de la
+somme de 1'233 fr. 15 en remboursement de leurs frais de défense;
+III.
+laisse les frais de procédure à la charge de l’Etat.
+L’ordonnance est maintenue pour le surplus.
+III.
+Les
+frais d’arrêt, par 1’210 fr. (mille deux cent dix francs), sont mis à la charge
+des recourants B.R.________ et A.R.________, à raison de la moitié, soit par 605 fr. (six cent
+cinq francs), solidairement entre eux
+,
+et laissés à la charge de l’Etat pour le surplus.
+IV.
+Le
+montant de 550 fr. (cinq cent cinquante francs) déjà versé par les recourants est imputé
+sur les frais mis à leur charge au chiffre III ci-dessus.
+V.
+L’arrêt est exécutoire.
+Le
+président :              Le
+greffier :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Mme B.R.________,
+-
+M. A.R.________,
+-
+Ministère public
+central,
+et communiqué à :
+‑
+M. le Procureur du Ministère public de l’arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
