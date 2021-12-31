@@ -1,0 +1,466 @@
+---
+decision_id: "vd_findinfo_D_cision___2022___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2022 / 1"
+decided: "2021-12-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8634826"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-060.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-236.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2022 / 1
+
+## Regeste
+
+EXÉCUTION ANTICIPÉE DES PEINES ET DES MESURES, RISQUE DE FUITE | 236 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 31.12.2021 Décision / 2022 / 1
+
+EXÉCUTION ANTICIPÉE DES PEINES ET DES MESURES, RISQUE DE FUITE | 236 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+1192
+PE20.015896-MNU
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+31 décembre 2021
+__________________
+Composition
+:               M.
+P E R R O T, président
+MM.
+Meylan et Maillard, juges
+Greffier
+:              M.
+Jaunin
+*****
+Art.
+236 CPP
+Statuant sur le recours interjeté le 23 décembre 2021 par
+L.________
+contre l’ordonnance rendue le 16 décembre 2021 par le Ministère public de l’arrondissement
+de La Côte dans la cause
+n° PE20.015896-MNU
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le
+Ministère public de l’arrondissement de La Côte (ci-après : Ministère
+public) instruit une enquête pénale contre L.________ pour vol, escroquerie par métier,
+utilisation frauduleuse d’un ordinateur, faux dans les titres, faux dans les certificats et usurpation
+de fonctions. Les faits reprochés sont les suivants :
+1.
+A [...], [...], en août 2011, L.________
+a, en sa qualité de représentant de la société D.________, remis un devis pour la
+pose de fenêtres, d’un montant de 9'004.80 euros, à K.________, puis exigé un acompte
+de
+4'500 euros, payé le 18 août
+2011. Il a ensuite informé ce dernier qu’il n’était plus employé de ladite
+société, mais de la société A.________. Après avoir effectué de nouvelles
+mesures, cette société a adressé à K.________ un devis de 9'848.80 euros et l’a
+informé que l’acompte versé le 18 août 2011 n’avait jamais été réceptionné.
+2.
+A [...], [...], le 29 novembre 2019, L.________
+a dérobé le portemonnaie d’U.________, contenant notamment des cartes bancaires et des
+papiers d’identité, dont un permis B.
+3.
+A [...], [...], le 15 janvier 2020, L.________
+a loué deux véhicules auprès de R.________. Pour garantir cette location, il a présenté
+une carte de crédit qu’il avait volée à F.________. En outre, il ne s’est
+pas acquitté du montant de la location d’une valeur de 1'967 fr. 25.
+4.
+A [...] et à [...], les 14 et 17 février
+2020, L.________ a retiré respectivement 1'500 et 1'100 fr. au guichet de [...] sur le compte d’U.________,
+en présentant la carte bancaire et les papiers d'identité qu’il avait dérobés
+à ce dernier quelques mois auparavant (cf. cas 2).
+5.
+Les 18 et 23 juin 2020, se faisant passer pour
+le directeur la société H.________, L.________ a commandé du matériel à la société
+N.________. Il s’est ensuite présenté, sous l’identité d’U.________,
+au guichet des magasins sis à [...], [...] et [...] afin de prendre possession des machines et du
+matériel commandés, d’une valeur totale de 2'109 fr. 70.
+6.
+A [...], [...], le 13 juillet 2020, L.________
+s’est présenté, sous l’identité de F.________, au guichet de l’entreprise
+Q.________ afin d’acheter du matériel d’une valeur de 756 fr. 45, en s’assurant
+que la facture soit envoyée la société H.________.
+7.
+A [...], [...], entre le 30 septembre et le
+1
+er
+octobre 2020, L.________ a commandé une montre connectée d’une valeur de 509 fr. et souscrit
+deux abonnements téléphoniques, avec l’acquisition de deux téléphones portables,
+en utilisant l’identité d’U.________ au moyen de sa carte d’identité et de
+son permis B (cf. cas 2).
+8.
+A [...], [...], au sein de la filiale de la société
+N.________, le 9 octobre 2020, L.________ a tenté de se faire remettre de la marchandise en se faisant
+passer pour un employé de l’entreprise [...] de [...].
+9.
+A [...], le 9 octobre 2020, L.________ s’est
+adressé par courriel à U.________ en se faisant passer pour un gendarme de la Police cantonale
+fribourgeoise, afin obtenir de lui des documents officiels, notamment une copie du bail de son logement
+et sa dernière fiche de salaire.
+10.
+A [...], [...], le 10 octobre 2020, L.________
+a commandé sur le site internet de la société J.________ un téléphone portable
+d’une valeur de 1'452 fr. et une montre connectée d’une valeur de 516 fr., en utilisant
+l’identité d’U.________. Il a récupéré le colis, en se légitimant
+au moyen des papiers d’identité de ce dernier. Le 12 octobre 2020, de la même manière,
+il a commandé un autre téléphone portable d’une valeur de 1'800 francs.
+11.
+A [...] et à [...], entre le 21 septembre
+et le 12 octobre 2020, L.________ a falsifié le permis B d’U.________ en y apposant sa propre
+photographie et l’a utilisé afin de vendre différents objets dans des magasins de l’enseigne
+[...].
+12.
+A [...], [...], le 13 octobre 2020, L.________,
+se faisant passer pour U.________, a commandé du matériel à la société N.________,
+au nom de l’entreprise [...]. Il s'est ensuite présenté au guichet du magasin afin de
+prendre possession des machines et du matériel commandés, d’une valeur totale de 1'885
+fr. 40, toujours sous l’identité d’U.________.
+13.
+A [...], [...], le 13 octobre 2020, L.________
+a modifié l'adresse de livraison d’U.________ sur le compte en ligne de [...] de ce dernier
+afin que le colis qui avait été commandé, soit un lecteur DVD d'une valeur de
+35
+fr., soit livré à l'office postal de [...]. Le colis n'a toutefois pas pu être récupéré
+par le prévenu, celui-ci ayant été renvoyé à l’adresse d’U.________.
+14.
+A [...], [...], au sein de la filiale de la société
+N.________, le 19 octobre 2020, L.________ a tenté de se faire remettre de la marchandise en se
+faisant passer pour un employé de l’entreprise P.________.
+15.
+Aux agences [...] de [...] et [...], le 9 novembre
+2020, L.________ a retiré 1'000 fr. et 3'800 fr. sur le compte bancaire d’U.________, en présentant
+le permis B de ce dernier, sur lequel il avait apposé sa propre photographie. Le
+11
+décembre 2020, à l’agence [...] de [...], L.________, en usant du même procédé,
+a tenté encore une fois de retirer de l’argent, mais a pris la fuite avant l’arrivée
+de la police alertée par le dispositif de sécurité de la banque.
+b)
+Le casier judiciaire suisse de L.________ ne contient
+aucune inscription. Son casier judiciaire français fait quant à lui état de
+27
+condamnations prononcées entre décembre 2002 et septembre 2017, essentiellement pour des infractions
+de nature patrimoniale.
+c)
+Par ordonnance du 28 février 2021, le Tribunal des mesures de contrainte, retenant l’existence
+de soupçons suffisants de culpabilité, ainsi que des risques de fuite et de réitération,
+a ordonné la détention provisoire de L.________ pour une durée maximale de trois mois,
+soit jusqu’au 25 mai 2021 au plus tard.
+La détention provisoire de L.________ a été prolongée par ordonnances du Tribunal
+des mesures de contrainte des 20 mai et 18 août 2021, toujours en raison des risques de fuite et
+de réitération.
+Depuis le 23 août 2021, L.________ est détenu sous le régime de l’exécution
+anticipée de peine.
+d)
+En cours d’enquête, L.________ a été soumis à une expertise psychiatrique.
+Dans son rapport du 10 octobre 2021, le Prof. Bruno Gravier a posé les diagnostics de dépendance
+aux produits stupéfiants et de trouble sévère de la personnalité comportant des aspects
+émotionnellement labiles de type borderline et des traits dyssociaux. Il a estimé que le risque
+de récidive d’actes de même nature était grand. Il a préconisé la mise
+en œuvre d’un traitement institutionnel au sens de l’art. 60 CP, tout en relevant que
+la dépendance aux stupéfiants n’était pas l’unique moteur du comportement
+délictueux du prévenu.
+e)
+Le 20 octobre 2021, L.________ a demandé à pouvoir exécuter sa mesure de manière
+anticipée dans le cadre d’une institution du type de la Fondation Bartimée, du Levant
+ou encore des Oliviers.
+f)
+Dans son préavis du 10 novembre 2021, l’Office d’exécution des peines a informé
+le Ministère public qu’il n’avait pas d’objection à l’exécution
+anticipée d’une mesure de traitement des addictions, en faveur de L.________, tout en précisant
+qu’un placement effectif était subordonné à diverses exigences. Il a en outre indiqué
+que toutes nouvelles procédures d’admission au sein de la Fondation Bartimée, au demeurant
+inenvisageable en l’état pour l’intéressé, étaient suspendues, mais que
+d’autres établissements socio-éducatifs étaient à même d’accueillir
+des personnes au bénéfice d’une exécution anticipée de mesure, à savoir
+en particulier la Fondation du Levant, la Fondation Les Oliviers et la Fondation l’Epi.
+g)
+Par
+courrier du 1
+er
+décembre 2021, L.________ a informé le Ministère public qu’une place était
+disponible à la Fondation Les Oliviers, mais que le processus d’admission devait encore être
+formalisé.
+h)
+Le 3 décembre 2021, la procureure a indiqué à L.________ qu’elle envisageait de
+refuser l’exécution anticipée de la mesure dès lors qu’un placement au sein
+d’une institution telle que celles proposées n’était pas à même d’offrir
+une garantie suffisante quant au risque de fuite.
+i)
+Par courrier du 9 décembre 2021, L.________ a maintenu sa requête d’exécution anticipée
+de la mesure. Il a précisé qu’il se tenait prêt à déposer ses papiers
+d’identité en mains du Ministère public pour écarter tout risque de fuite.
+B.
+Par ordonnance du 16 décembre 2021, le Ministère
+public a refusé le passage de L.________ en exécution anticipée de mesure (I) et a dit
+que les frais suivaient le sort de la cause (II).
+En substance, la procureure a considéré que L.________ présentait un risque de fuite et
+de récidive élevé et qu’il fallait garantir sa présence tant à son audition
+finale du 21 janvier 2022 qu’aux débats de première instance. Elle a notamment souligné
+que le prévenu était ressortissant français, que ses attaches sociales étaient dans
+son pays d’origine et qu’il était multirécidiviste.
+C.
+Par acte du 23 décembre 2021, L.________
+a recouru contre cette ordonnance, en concluant, sous suite de frais et dépens, à sa réforme
+en ce sens que l’exécution anticipée de la mesure soit autorisée.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393 al. 1 let. a CPP,
+le recours est recevable contre les décisions et actes de procédure du Ministère public.
+Une décision par laquelle le Ministère public refuse d’autoriser le prévenu à
+exécuter de manière anticipée une peine privative de liberté ou une mesure entraînant
+une privation de liberté, respectivement révoque l’autorisation donnée, est ainsi
+susceptible de recours selon les art. 393 ss CPP (Stephenson/Thiriet, in : Niggli/Heer/Wiprächtiger
+[éd.], Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung,
+2
+e
+éd., Bâle 2014, n. 10 ad art. 393 StPO ; Hug, in : Donatsch/Hansjakob/Lieber [éd.], Kommentar
+zur Schweizerischen Strafprozessordnung, 2
+e
+éd., 2014, n. 17 ad art. 236 StPO ; CREP 10 septembre 2021/840 consid. 1 ; CREP 26 janvier
+2021/74 consid. 1). Ce recours doit être adressé par écrit, dans un délai de dix
+jours dès la notification de la décision attaquée (cf. art. 384 let. b CPP),
+à l’autorité de recours (art. 396 al. 1 CPP) qui est, dans le canton de Vaud, la Chambre
+des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise d’introduction du code
+de procédure pénale suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [loi vaudoise
+d’organisation judiciaire du 12 décembre 1979 ; BLV 173.01]).
+1.2
+En l’espèce, interjeté en temps utile auprès de l’autorité compétente
+par le prévenu qui a qualité pour recourir (art. 382 al. 1 CPP) et dans les formes prescrites
+(art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Invoquant une violation de l’art. 236 CPP,
+L.________ fait valoir que l’expert préconise un traitement des addictions à la forme
+de l’art. 60 CP et qu’il est vraisemblable que cette mesure sera prononcée par l’autorité
+de jugement. Il précise que la procédure touche à sa fin et qu’il s’est montré
+collaborant durant l’enquête. Il conteste par ailleurs tout risque de fuite dès lors
+qu’il n’a aucun intérêt à retourner en France puisqu’il serait immédiatement
+«
+interpellé
+par la justice française
+», tout
+en soulignant avoir proposé au Ministère public de déposer sa carte d’identité
+et son permis de conduire pour pallier ce risque. En outre, il relève qu’en dépit de
+leur caractère plus ouvert, les établissements proposés par l’expert offrent un
+cadre strict et surveillé, qu’il a la «
+volonté
+marquée et sincère de se rétablir
+»
+et qu’il a déjà bénéficié par le passé et sur un mode volontaire
+d’un suivi psychologique «
+ayant
+débouché sur des résultats tout à fait satisfaisants
+»
+de sorte que ses capacités à s’investir dans un traitement, sans qu’on puisse craindre
+une fuite de sa part, ne sauraient être mises en doute. S’agissant du risque de récidive,
+le recourant relève que son casier judiciaire suisse est vierge, que ses multiples infractions étaient
+motivées par sa consommation excessive de substances illicites et qu’une prise en charge thérapeutique
+réduirait de toute évidence ce risque. Il explique avoir désormais pris conscience de
+sa pathologie et de la nécessité de se soigner et fait valoir un bon comportement en détention,
+ainsi qu’un repentir sincère. Enfin, le recourant soutient qu’une place serait disponible
+au sein de la Fondation Les Oliviers et qu’il serait disproportionné d’attendre le jugement
+qui n’aura pas lieu avant plusieurs mois.
+2.2
+Selon
+l'art. 236 al. 1 CPP, la direction de la procédure peut autoriser le prévenu à exécuter
+de manière anticipée une peine privative de liberté ou une mesure entraînant une
+privation de liberté si le stade de la procédure le permet. Le but de la disposition est d'offrir
+au détenu un régime d'exécution tenant compte notamment de sa situation et de lui assurer,
+le cas échéant, de meilleures chances de resocialisation (ATF 143 IV 160 consid. 2.1, JdT 2018
+IV 3 ; TF 1B_107/2020 du 24 mars 2020 consid. 2.1). Dès l'entrée du prévenu dans
+l'établissement, l'exécution de la peine ou de la mesure commence et le prévenu est soumis
+au régime de l'exécution, sauf si le but de la détention provisoire ou de la détention
+pour des motifs de sûreté s'y oppose (art. 236 al. 4 CPP).
+L'exécution anticipée
+d'une peine ou d’une mesure relève de l'exécution de la détention provisoire et
+de la détention pour des motifs de sûreté. Le fondement juridique de la privation de liberté
+n'est pas la peine privative de liberté qui sera probablement prononcée mais la détention
+pendant la procédure (ATF 143 IV 160 consid. 2.1). Ainsi, la poursuite de la détention sous
+la forme de l’art. 236 CPP présuppose tout d'abord l'existence d'un des motifs de détention
+provisoire prévus à l'art. 221 al. 1 let. a, b ou c CPP et sa durée doit respecter
+le principe de proportionnalité (TF 1B_127/2017 du 20 avril 2017 consid. 2.1 et les références
+citées).
+L'art. 236 al. 1
+in
+fine
+CPP suppose que le « stade de la
+procédure » concernée permette une exécution anticipée de la peine ou de
+la mesure. Ce stade correspond au moment à partir duquel la présence du prévenu n'est
+plus immédiatement nécessaire à l'administration des preuves : tel est en principe
+le cas lorsque l'instruction est sur le point d'être close. Cette restriction répond principalement
+à des besoins pratiques, en raison de l'éventuel éloignement géographique entre les
+lieux d'exécution de peine et ceux où a lieu l'administration des preuves (TF 1B_107/2020 du
+24 mars 2020 consid. 2.1 ; TF 1B_372/2019 du
+27
+août 2019 consid. 2.1 et la référence citée).
+L’exécution
+anticipée de la mesure a été introduit au niveau fédéral « afin que
+la durée de l’instruction puisse être judicieusement mise à profit, que les bonnes
+dispositions à l’égard de la thérapie ne soient pas annihilées par une longue
+détention préventive et que l’on dispose, au moment du jugement, d’expériences
+concrètes avec une thérapie déterminée » (FF 1999 1880). Elle vise particulièrement
+les cas de dépendance à la drogue et suppose d'une part le consentement de l'intéressé
+et d'autre part une probabilité suffisante qu'une mesure déterminée soit ordonnée
+par le juge du fond. De plus, l'exécution anticipée ne doit pas nécessairement être
+autorisée sur la base d'une expertise, faute de quoi toute exécution anticipée serait
+impossible au stade de l'instruction, tant que l'expert ne s'est pas prononcé. L'un des buts de
+l'exécution anticipée est précisément de donner au juge du fond des indications sur
+le traitement adéquat (ATF 136 IV 65 consid. 2.2, JdT 2011 IV 209).
+2.3
+En
+l’espèce, on peut admettre, à l’instar de la procureure, qu’au vu des conclusions
+de l’expertise psychiatrique, il existe une probabilité suffisante qu’un traitement
+institutionnel au sens de l’art. 60 CP sera ordonné par le juge du fond et constater que le
+recourant consent à l’instauration d’une telle mesure. Toutefois, comme le relève
+le Ministère public, l’instruction n’est pas encore terminée puisque des auditions
+doivent encore avoir lieu dans le courant du mois de janvier 2022, avant que le prévenu soit mis
+en accusation. Il s’agit donc de garantir la présence du recourant tant pour la suite de l’instruction
+qu’aux débats de première instance.
+Cela étant, il est
+notoire qu’aucun des établissements évoqués par l’expert ou l’Office
+d’exécution des peines n’est en mesure d’assurer que L.________ reste à disposition
+de la justice, respectivement d’empêcher qu’il prenne la fuite une fois qu’il
+y aura été admis. Or, le risque qu’il cherche à se soustraire aux autorités
+suisses est en l’occurrence particulièrement élevé. Le recourant est en effet de
+nationalité française. Lors de son arrestation, il était domicilié en France où
+il a toujours vécu. Il avait un travail ainsi qu’une compagne. Son fils de 12 ans vit également
+dans ce pays (PV aud. 8, R. 3). En d’autres termes, toutes les attaches du recourant se trouvent
+dans son pays d’origine. De plus, contrairement à ce que soutient la défense, on ne voit
+pas à quel risque il s’exposerait en retournant dans ce pays. En effet, lors de son audition
+par la police du 26 février 2021, le recourant a indiqué que s’il était certes sous
+contrôle judiciaire en France au moment de son arrestation, il avait néanmoins le droit de
+se rendre en Suisse pour des motifs professionnels et que son agent de probation était au courant
+de ses venues dans notre pays (PV aud. 8, R. 3, p. 2). Le recourant est par ailleurs conscient qu’au
+vu de la quantité pléthorique des infractions qu’il aurait commises sur le sol helvétique,
+il s’expose à une lourde condamnation. Il existe dès lors un risque concret et sérieux
+qu’il cherche à échapper à la justice suisse en s’enfuyant en France, pays
+qui n’extrade pas ses ressortissants. On rappellera par ailleurs que le dépôt des papiers
+d’identité - proposé par
+le recourant - n’est pas de nature à prévenir un départ à l’étranger
+ou une entrée dans la clandestinité, mais uniquement à le constater
+a
+posteriori
+(TF 1B_158/2021 du 20 avril 2021, consid.
+3.5).
+Le
+risque que le recourant s’enfuie est d’ailleurs d’autant plus élevé qu’en
+dépit des bonnes intentions qu’il affiche, il ne semble pas encore prêt à réellement
+s’investir dans un traitement thérapeutique. Il ressort en effet du rapport d’expertise
+psychiatrique du 10 octobre 2021 que la demande d’admission qu’il a formulée auprès
+de la Fondation Bartimée a jusqu’à présent été rejetée par les responsables
+de cette institution, qui ont estimé que l’intéressé se trouvait encore au stade
+de « précontemplation », c’est-à-dire qu’il n’avait pas
+véritablement pris conscience de sa problématique addictive autant en termes de consommation
+de substances que de répétition délictuelle. L’expert relève également
+que si le souhait exprimé par le recourant de traiter ses addictions apparaît authentique,
+il est toutefois à craindre qu’il ne résiste pas à l’épreuve de la réalité
+une fois sorti de prison, comme cela a déjà été le cas à de nombreuses reprises.
+L’expert souligne en particulier que si le recourant fait assaut de bonnes résolutions et
+met en avant le changement survenu pendant sa détention et son désir de poursuivre ce changement
+pour se réhabiliter, il est toutefois encore bien loin d’ébaucher une véritable
+démarche introspective et n’a pas vraiment de représentation autre qu’intellectuelle
+de ce que pourrait véritablement signifier une démarche thérapeutique impliquant une modification
+de son environnement, de son mode de vie et une acceptation de ce qu’implique une alliance thérapeutique
+sur le long terme (cf. P. 90, p. 11).
+En
+définitive, il apparaît donc que le placement du recourant dans un établissement d’exécution
+des mesures n’est pas compatible avec le risque de fuite considérable qu’il présente.
+Par
+surabondance, la Chambre de céans relèvera encore qu’en cas de fuite, la récidive
+serait alors programmée. Il ressort en effet du dossier que le recourant est un multirécidiviste
+endurci, totalement incapable de gérer ses addictions. Il suffit pour s’en convaincre de parcourir
+non pas son casier judiciaire suisse - qui est effectivement vierge comme la défense croit utile
+de le relever - mais son casier judiciaire français qui ne comporte pas moins de 27 condamnations,
+parfois à des peines privatives de liberté fermes, sans qu’aucune d’entre elles
+n’ait manifestement suffit à le dissuader de récidiver.
+Au
+vu de ce qui précède, il y a lieu de constater que l’exécution anticipée de
+la mesure n’est pas compatible avec la nécessité de garantir la présence du prévenu
+pour la suite de la procédure pas plus qu’avec la nécessité d’éviter
+la survenance de nouvelles infractions. C’est donc à juste titre qu’elle a été
+refusée par la procureure. Enfin, on ne voit pas en quoi ce refus serait disproportionné dans
+la mesure où il repose sur l’existence d’un risque de fuite sérieux et avéré.
+3.
+Au vu de ce qui précède,
+le recours, manifestement mal fondé, doit être rejeté sans échange d’écritures
+(art. 390 al. 2 CPP) et l’ordonnance entreprise confirmée.
+Les
+frais de la procédure de recours, constitués en l'espèce de l'émolument d'arrêt,
+par 1'210 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010 ; BLV 312.03.1]), et des frais imputables à la défense d'office
+(art. 422 al. 1 et 2 let. a CPP), fixés à 440 fr. sur la base d’une durée d’activité
+nécessaire d’avocat-stagiaire estimée à 4 heures au tarif horaire de 110 fr., auxquels
+il convient d’ajouter des débours forfaitaires à concurrence de 2 % (art. 3bis al.
+1 RAJ [Règlement sur l’assistance judiciaire en matière civile du 7 décembre 2010 ;
+BLV 211.02.3], applicable par renvoi de l’art. 26b TFIP), par 8 fr. 80, et la TVA, par 34
+fr. 60, soit à 484 fr. au total, en chiffres arrondis, seront mis à la charge du recourant,
+qui succombe (art. 428 al. 1 CPP).
+Le remboursement à
+l’Etat de l’indemnité allouée au défenseur d’office du recourant ne
+sera toutefois exigible que pour autant que la situation financière de ce dernier le permette (art.
+135 al. 4 let. a CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 16 décembre 2021 est confirmée.
+III.
+L’indemnité allouée au défenseur
+d’office de L.________ est fixée à 484 fr. (quatre cent huitante-quatre francs).
+IV.
+Les
+frais d’arrêt, par 1'210 fr. (mille deux cent dix francs), ainsi que l’indemnité
+due au défenseur d’office de L.________,
+par
+484 fr. (quatre cent huitante-quatre francs), sont mis à la charge de ce dernier.
+V.
+Le remboursement à l’Etat de l’indemnité allouée au chiffre III ci-dessus
+ne sera exigible que pour autant que la situation financière de L.________ le permette.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Samuel Pahud, avocat (pour L.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
