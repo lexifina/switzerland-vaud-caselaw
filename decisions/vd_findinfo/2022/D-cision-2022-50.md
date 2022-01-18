@@ -1,0 +1,405 @@
+---
+decision_id: "vd_findinfo_D_cision___2022___50"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2022 / 50"
+decided: "2022-01-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8666998"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-146.md", "switzerland/bund/acts/311.0/art-148a.md", "switzerland/bund/acts/311.0/art-217.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# VD Findinfo Décision / 2022 / 50
+
+## Regeste
+
+VIOLATION D'UNE OBLIGATION D'ENTRETIEN, NON-LIEU, REJET DE LA DEMANDE | 217 CP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 18.01.2022 Décision / 2022 / 50
+
+VIOLATION D'UNE OBLIGATION D'ENTRETIEN, NON-LIEU, REJET DE LA DEMANDE | 217 CP
+
+TRIBUNAL
+CANTONAL
+43
+PE21.011265-VIY
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+18 janvier 2022
+__________________
+Composition
+:               M.
+P E R R O T, président
+Mme
+Fonjallaz et M. Meylan, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+146, 148a al. 1, 217 CP; 319 al. 1 let. b CPP
+Statuant sur le recours interjeté le 11 octobre 2021 par l’
+ETAT
+de VAUD
+,
+représenté par le Bureau de recouvrement et d'avances de pensions alimentaires, contre l’ordonnance
+de classement rendue le 1
+er
+octobre 2021 par le Ministère public de l’arrondissement de Lausanne dans la cause n°
+PE21.011265-VIY
+,
+dirigée contre
+D.________
+,
+la Chambre des recours pénale considère  :
+En fait :
+A.
+a)
+D.________,
+ressortissant chilien, né en 1988, sans profession,
+est
+débiteur d’aliments en faveur de son fils [...], né le [...] 2007. D.________ est également
+débiteur d’aliments en faveur de son autre fils, [...], né le [...] 2012.
+b)
+Par convention du 14 juillet 2014, approuvée le 21 août 2014 par la Justice de paix du district
+de Lausanne, D.________ s’est engagé à verser  450 fr. mensuellement dès le
+1
+er
+août 2015 pour son fils [...],
+en mains de la mère, [...], jusqu’à ce que l’enfant ait atteint l’âge
+de six ans révolus, puis 500 fr.
+dès
+lors et jusqu’à ce que l’enfant ait atteint l’âge de douze ans révolus,
+et, enfin, 550 fr. dès lors et jusqu’à sa majorité, ou, s’il poursuit des
+études ou un apprentissage, au-delà de la majorité, jusqu’à la fin de sa formation
+professionnelle, pour autant que cette dernière soit terminée dans les délais normaux
+(ch. III
+de la convention).
+Le chiffre IV de la convention prévoit ce qui suit : «
+La
+pension prévue sous chiffre III ci-dessus tient compte du fait que D.________ est actuellement sans
+emploi et bénéficie du revenu d’insertion. Le délai d’une année doit
+lui permettre de trouver
+(un)
+emploi lui permettant d’acquitter la pension prévue sous chiffre III.
+(…) » (P. 7/1).
+Le débiteur d’aliments n’a jamais payé de pension en faveur de son fils [...],
+à tout le moins depuis le 1
+er
+décembre 2016 (cf. not. PV aud. 1, R. 6). Au bénéfice d’une cession, le Bureau de
+recouvrement et d'avances de pensions alimentaires (BRAPA) a versé des avances pour l’enfant
+depuis le 1
+er
+décembre 2016.
+c)
+Par convention du 23 mai 2018, approuvée le même jour
+par
+la Justice de paix du district de Lausanne, D.________ s’est engagé à verser  400
+fr. par mois mensuellement pour son fils [...], en mains de la mère, [...], jusqu’à ce
+que l’enfant ait atteint l’âge de douze ans révolus, et 450 fr. dès lors et
+jusqu’à sa majorité, ou, s’il poursuit des études ou un apprentissage, au-delà
+de la majorité, jusqu’à la fin de sa formation pour autant qu’elle soit achevée
+dans des délais normaux (ch. IV de la convention). Le préambule de la convention indique que
+le débiteur d’aliments «
+n’a
+pas terminé de formation professionnelle et touche actuellement le RI, étant précisé
+qu’il est d’accord de prévoir une pension pour son fils sur la base d’un revenu
+hypothétique de 3'750 fr. net
+»
+(P. 5/1).
+Le débiteur d’aliments n’a jamais payé de pension en faveur de son fils [...] (cf.
+not. PV aud. 1, R. 5 et 6). Au bénéfice d’une cession, le BRAPA a versé des avances
+pour l’enfant
+depuis le 1
+er
+juin 2018.
+d)
+Par deux actes séparés du 1
+er
+avril 2021, l’Etat de Vaud, agissant par le BRAPA, a déposé plainte pénale contre
+D.________, respectivement l’a dénoncé, pour violation d’une obligation d'entretien.
+Il lui reprochait d’avoir dolosivement failli à verser les aliments dus en faveur de ses deux
+enfants (P. 4 et 6, avec annexes).
+e)
+Le débiteur d’aliments a été
+entendu, en qualité de prévenu, par la police le 16 juin 2021, puis par le Ministère public
+le 13 juillet suivant (PV aud. 1 et 2). Il a indiqué qu’il avait certes effectué plusieurs
+apprentissages, mais qu’il ne les avait jamais terminés, qu’il n’avait plus exercé
+d’activité lucrative stable depuis 2004 et qu’il n’avait plus aucun travail depuis
+quatre ans, raison pour laquelle il ne lui avait pas été possible de s’acquitter des
+pensions dues. Il a en outre relevé qu’en raison de son état mental, il lui était
+impossible de se projeter dans la vie active. Enfin, il a déclaré souhaiter un jour pouvoir
+verser la pension due pour ses deux enfants.
+f)
+Selon un rapport médical établi par
+le Centre de psychiatrie et psychothérapie des Toises le 28 juillet 2021, le débiteur d’aliments
+suit un traitement depuis le 16 février 2021. Son état de santé «
+ne
+permet pas une prise d’emploi
+»
+et «
+n’est
+pas compatible avec une prise d’emploi
+».
+Les auteurs du rapport ajoutaient que « [c]
+ette
+incapacité remont
+[ait]
+à ses 18 ans et a
+[vait]
+mis en échec les formations et emplois que le patient a
+[vait]
+voulu entreprendre
+». L’objectif
+des soins était qu’il reprenne une formation qu’il pourrait mener à bien et qui
+lui permettrait de payer sa pension, ce qui n’était pas possible à l’heure actuelle
+(P. 14).
+Il ressort d’une lettre adressée au BRAPA par l’Office de l’assurance-invalidité
+(OAI) le 6 septembre 2021 que le droit du débiteur d’aliments à une rente a été
+examiné et qu’aucune prestation n’est allouée (P. 18/6).
+B.
+Par ordonnance du 1
+er
+octobre 2021, le Ministère public a prononcé le classement de la procédure pénale
+dirigée sur plaintes du BRAPA contre D.________ pour violation d’une obligation d'entretien
+(I), a dit qu’il n’y avait pas lieu d’octroyer au prévenu une indemnité au
+sens de l’art. 429 CPP (Code de procédure pénale suisse du 5 octobre 2007; RS 312.0)
+(II) et a laissé les frais de procédure à la charge de l’Etat (III).
+La Procureure a estimé que le débiteur d’aliments ne s’était pas mis fautivement
+dans l’impossibilité d’assumer ses obligations, dès lors qu’il n’était
+pas à même de s’acquitter des pensions au vu de sa situation personnelle, soit de l’incapacité
+qu’il présentait pour des motifs médicaux.
+C.
+Par acte du 11 octobre 2021, l’Etat de Vaud,
+représenté par le Bureau de recouvrement et d'avances de pensions alimentaires, a recouru contre
+cette ordonnance, en concluant, sous suite de frais, implicitement à son annulation et, explicitement,
+au renvoi du dossier de la cause au Ministère public,
+pour
+qu’il en poursuive l’instruction et, le cas échéant, renvoie l’affaire en
+jugement. Le recourant a produit des pièces.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le Ministère public en application des art. 319 ss CPP dans les dix jours
+devant l’autorité de recours (art. 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP),
+qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP
+[Loi vaudoise d’introduction du Code de procédure pénale suisse du
+19
+mai 2009; BLV 312.01]; art. 80 LOJV [Loi vaudoise d’organisation judiciaire du 12 décembre
+1979; BLV 173.01]).
+1.2
+En l’espèce, le recours a été
+interjeté en temps utile devant l’autorité compétente. Lésé, par l’effet
+de la subrogation, à concurrence des avances non remboursées, l’Etat de Vaud est partie
+plaignante au sens des art. 104 al. 1 let. b et 118 al. 1 CPP, de sorte qu’il a la qualité
+pour recourir (art. 382 al. 1 CPP; TF 1B_158/2018 du 11 juillet 2018; CREP 17 septembre 2021/890;
+CREP 4 novembre 2020/855; Dupuis/Moreillon/Piguet/Berger/Mazou/Rodigari [éd.], Petit commentaire
+CP, 2
+e
+éd., Bâle 2017, n. 25 ad art. 217 CP). Au surplus, le recours satisfait aux conditions
+de forme prescrites (art. 385 al. 1 CPP). Il est donc recevable.
+1.3
+Les
+pièces nouvelles sont recevables
+(art.
+390 al. 4 in fine CPP; CREP 8 novembre 2021/1020 consid. 1.3; CREP 9 juillet 2012/427 consid. 1b
+et les réf. citées).
+2.
+2.1
+Le recourant fait valoir qu’au moment où a été signée la convention du 23 mai
+2018, le prévenu se trouvait déjà en défaut de paiement de la contribution en faveur
+de son fils [...] et qu’il avait indiqué avoir signé cette convention à l’insu
+du BRAPA; or, compte tenu de ces circonstances, on ne peut pas, selon le recourant, exclure une éventuelle
+volonté délictueuse du prévenu, voire de la mère de cet enfant, pour obtenir le versement
+d’avances alors qu’il se savait insolvable. En outre, comme le suivi du débiteur d’aliments
+au Centre des Toises n’a débuté qu’en février 2021 et que sa demande de rente
+AI a été rejetée, on ne saurait retenir qu’il n’avait pas eu la possibilité
+d’obtenir des ressources pour pouvoir verser les contributions d’entretien.
+2.2
+Selon l'art. 319 al. 1 CPP, le
+ministère public ordonne le classement de tout ou partie de la procédure notamment lorsqu'aucun
+soupçon justifiant une mise en accusation n'est établi (let. a) ou lorsque les éléments
+constitutifs d'une infraction ne sont pas réunis (let. b).
+De manière générale, les motifs de classement sont ceux « qui déboucheraient
+à coup sûr ou du moins très probablement sur un acquittement ou une décision similaire
+de l'autorité de jugement » (Message du Conseil fédéral du 21 décembre
+2005 relatif à l'unification du droit de la procédure pénale, FF 2006 pp. 1057 ss,
+spéc. 1255). La décision de classer la procédure doit être prise en application du
+principe
+in
+dubio pro duriore
+, qui signifie
+qu'en règle générale, un classement ou une non-entrée en matière ne peut être
+prononcé par le ministère public que lorsqu'il apparaît clairement que les faits ne sont
+pas punissables ou que les conditions à la poursuite pénale ne sont pas remplies. La procédure
+doit se poursuivre lorsqu'une condamnation apparaît plus vraisemblable qu'un acquittement ou lorsque
+les probabilités d'acquittement et de condamnation apparaissent équivalentes, en particulier
+en présence d'une infraction grave. En effet, en cas de doute s'agissant de la situation factuelle
+ou juridique, ce n'est pas à l'autorité d'instruction ou d'accusation mais au juge matériellement
+compétent qu'il appartient de se prononcer (ATF 143 IV 241 consid. 2.2.1, JdT 2017 IV 357; ATF 138
+IV 86 consid. 4.1.2 et les réf. citées; TF 6B_854/2020 du 19 janvier 2021 consid. 2.1). En
+revanche, le ministère public doit classer la procédure s’il apparaît, sur la base
+de faits assez clairs pour qu’il n’y ait pas lieu de s’attendre à une appréciation
+différente de l’autorité de jugement (ATF 143 IV 241 consid. 2.3.2), qu’un renvoi
+aboutirait selon toute vraisemblance à un acquittement.
+2.3
+2.3.1
+Aux termes de l’art. 217 CP (Code pénal du 21 décembre 1937;
+RS
+311.0), celui qui n'aura pas fourni les aliments ou les subsides qu'il doit en vertu du droit de la famille,
+quoiqu'il en eût les moyens ou pût les avoir, sera, sur plainte, puni d'une peine privative
+de liberté de trois ans au plus ou d'une peine pécuniaire.
+D’un point de vue objectif, l’obligation d’entretien est violée lorsque le débiteur
+ne fournit pas intégralement, à temps et à disposition de la personne habilitée à
+la recevoir, la prestation d’entretien qu’il doit en vertu du droit de la famille (Corboz,
+Les infractions en droit suisse, vol. II, 3
+e
+éd., Berne 2010, n. 14 ad art. 217 CP). Cependant, on ne peut reprocher à l'auteur d'avoir
+violé son obligation d'entretien que s'il avait les moyens de la remplir ou s'il aurait pu les avoir
+(Corboz, op. cit., n. 20 ad art. 217 CP). On entend à cet égard qu'est également punissable
+celui qui, d'une part, ne dispose certes pas de moyens suffisants pour s'acquitter de son obligation,
+mais qui, d'autre part, ne saisit pas les occasions de gain qui lui sont offertes et qu'il pourrait accepter
+(ATF 126 IV 131 consid. 3a; TF 6B_540/2020 du 22 octobre 2020 consid. 2.3). Selon la jurisprudence, il
+n'est pas nécessaire que le débiteur ait eu les moyens de fournir entièrement sa prestation,
+il suffit qu'il ait pu fournir plus qu'il ne l'a fait et qu'il ait, dans cette mesure, violé son
+obligation d'entretien (ATF 114 IV 124 consid. 3b p. 124 s.; TF 6B_540/2020 du 22 octobre 2020, précité,
+ibid.).
+Le juge pénal est lié par la contribution d'entretien fixée par le juge civil (ATF 106
+IV 36; TF 6B_540/2020 du 22 octobre 2020, précité, ibid.; TF 6B_573/2013 du 1
+er
+octobre 2013 consid. 1.1; TF 6B_264/2011 du 19 juillet 2011 consid. 2.1.3). En revanche, la question
+de savoir quelles sont les ressources qu'avait ou qu'aurait pu avoir le débiteur d'entretien doit
+être tranchée par le juge pénal s'agissant d'une condition objective de punissabilité
+au regard de l'art. 217 CP. Il peut certes se référer à des éléments pris en
+compte par le juge civil. Il doit cependant concrètement établir la situation financière
+du débiteur, respectivement celle qui aurait pu être la sienne en faisant les efforts pouvant
+raisonnablement être exigés de lui (ATF 126 IV 131 consid. 3; TF 6B_787/2017 et 132/2018 du
+12 avril 2018 consid. 6.1; Bosshard, Basler Kommentar, Strafrecht II, 3
+e
+éd., Bâle 2013, n. 7 ad art. 217 CP, pp. 1467 s. et les références).
+L’infraction est intentionnelle, le dol éventuel étant suffisant. L’auteur doit
+connaître l’étendue de son obligation, savoir qu’il lui est possible de la respecter
+en tout ou en partie et avoir la volonté de la violer au moins partiellement (Dupuis/ Moreillon/Piguet/Berger/Mazou/Rodigari
+[éd.], Petit commentaire du Code pénal, 2
+e
+éd., Bâle 2017, n. 22 ad art. 217 CP et les références).
+2.3.2
+En vertu de l'art. 146 al. 1 CP, se rend coupable
+d'escroquerie celui qui, dans le dessein de se procurer ou de procurer à un tiers un enrichissement
+illégitime, aura astucieusement induit en erreur une personne par des affirmations fallacieuses
+ou par la dissimulation de faits vrais ou l'aura astucieusement confortée dans son erreur et aura
+de la sorte déterminé la victime à des actes préjudiciables à ses intérêts
+pécuniaires ou à ceux d'un tiers.
+2.3.3
+Aux termes de l’art. 148a al. 1 CP, quiconque,
+par des déclarations fausses ou incomplètes, en passant des faits sous silence ou de toute
+autre façon, induit une personne en erreur ou la conforte dans son erreur, et obtient de la sorte
+pour lui-même ou pour un tiers des prestations indues d’une assurance sociale ou de l’aide
+sociale, est puni d’une peine privative de liberté d’un an au plus ou d’une peine
+pécuniaire. L’art. 148a CP vise toutes les formes de tromperie, sans astuce. Concrètement,
+la tromperie est avérée en présence d’informations fausses ou incomplètes.
+Il en va ainsi du fait de dissimuler sa situation financière ou personnelle réelle (revenus,
+fortune, état de santé, etc.), comme de passer certains faits sous silence, à l’image
+de l’omission de signaler que sa propre situation (en général financière) s’est
+améliorée. Selon les dispositions de droit fédéral ou de droit cantonal, toute personne
+bénéficiant d’aide ou de prestations sociales doit spontanément annoncer une amélioration
+de sa situation économique (FF 2013 5373, p. 5432; Dupuis et alii. [éd.], op. cit., n. 4 ad
+art. 148a CP).
+3.
+En
+l’espèce, il est établi que le prévenu n’a jamais disposé des revenus
+qui lui permettraient de verser des contributions d’entretien. En outre, compte tenu du rapport
+médical du 28 juillet 2021 établissant qu’il souffre d’une pathologie qui n’est
+pas compatible avec une prise d’emploi et que cette incapacité remonte à ses 18 ans,
+on ne peut pas retenir qu’il aurait pu entreprendre une formation ou obtenir et conserver un emploi
+qui lui aurait évité d’émarger au revenu d’insertion, soit d’avoir des
+revenus lui permettant de s’acquitter des contributions d’entretien. Le fait qu’une
+rente AI lui a été refusée n’y change rien. En particulier, ce fait ne permet pas
+de retenir que le débiteur aurait pu, pendant les périodes concernées où il avait
+notamment suivi un stage, réaliser des revenus. Il s’ensuit que les éléments constitutifs
+objectifs de l’infraction réprimée par l’art. 217 CP ne sont pas réunis. Partant,
+une condamnation paraît bien moins vraisemblable qu’un acquittement.
+S’agissant de la convention du 23 mai 2018, le prévenu a déclaré ce qui suit :
+« (…)
+J’ai
+accepté cette convention à crédit sur le dos du BRAPA. Je me suis dit que lorsque je vais
+gagner ma vie, je rembourserai le BRAPA. Mais actuellement cela n’est pas possible
+» (PV aud. 1, R. 5). Or, cette convention mentionne que le prévenu n’a pas terminé
+de formation professionnelle, qu’il perçoit le revenu d’insertion et qu’il consent
+à ce qu’il soit tenu compte d’un revenu hypothétique net de 3'750 francs. Dès
+lors que cet accord indique qu’il n’a pas d’activité professionnelle et qu’il
+ne connaissait alors pas le diagnostic posé en 2021 seulement, on ne saurait retenir que le prévenu
+a fait preuve d’astuce au sens de l’art. 146 CP et qu’il a donné des renseignements
+erronés. Par ailleurs, lorsque le BRAPA a commencé à verser des avances pour l’enfant
+[...], il connaissait la situation du débiteur d’aliments, puisqu’il allouait alors
+déjà des avances pour l’enfant [...]. On ne discerne ainsi pas comment les conditions
+des art. 146 et 148a CP pourraient être réunies.
+S’agissant de la convention du 14 juillet 2014, elle décrit la situation économique du
+débiteur d’aliments et prévoit un délai d’un an pour lui permettre de trouver
+du travail. Les éléments constitutifs des infractions des art. 146 et 148a CP ne paraissent
+ainsi d’emblée pas réalisés.
+Enfin, ces deux conventions ont été ratifiées par la Justice de paix, de sorte qu’en
+tout état de cause, on voit mal qu’elles puissent être constitutives d’infractions
+pénales.
+Le classement procède donc d’une correcte application de l’art. 319
+al.
+1 let. b CPP.
+4.
+Il résulte de ce qui précède que
+le recours, manifestement mal fondé, doit être rejeté sans échange d’écritures
+(art. 390 al. 2 CPP) et l’ordonnance du 1
+er
+octobre 2021 confirmée.
+Les frais de la procédure de recours, par 990 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010; BLV 312.03.1]), seront laissés
+à la charge de l’Etat (art. 423 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 1
+er
+octobre 2021 est confirmée.
+III.
+Les frais d’arrêt, par 990 fr. (neuf
+cent nonante francs), sont laissés à la charge de l’Etat.
+IV.
+L’arrêt est exécutoire
+.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction
+a été approuvée à huis clos, est notifié, par l'envoi d'une copie complète,
+à :
+-
+Bureau de recouvrement et d'avances de pensions alimentaires,
+-
+M
+inistère public
+central,
+et communiqué à :
+-
+Mme la Procureure du Ministère public de l’arrondissement de Lausanne,
+-
+M. D.________,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
