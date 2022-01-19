@@ -1,0 +1,194 @@
+---
+decision_id: "vd_findinfo_D_cision___2022___14"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2022 / 14"
+decided: "2022-01-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8653239"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-081.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2022 / 14
+
+## Regeste
+
+PROCÈS DEVENU SANS OBJET, INTÉRÊT ACTUEL | 382 al. 1 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 19.01.2022 Décision / 2022 / 14
+
+PROCÈS DEVENU SANS OBJET, INTÉRÊT ACTUEL | 382 al. 1 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+11
+AP21.022307-GPE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+19 janvier 2022
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+MM.
+Meylan et Kaltenrieder, juges
+Greffière
+:              Mme
+Desponds
+*****
+Art.
+382 al. 1 et 393 al. 1 let. a CPP
+Statuant sur le recours interjeté le 21 décembre 2021 par
+B.________
+contre la décision rendue le 15 décembre 2021 par l’Office d’exécution des
+peines (ci-après : OEP) dans la cause
+n° AP21.022307-GPE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+B.________ est incarcéré au sein des
+Etablissements de la plaine de l’Orbe (ci-après : EPO), en régime d’exécution
+de peine. Le 6 décembre 2021, la direction des EPO a prononcé une sanction disciplinaire
+à son encontre, du fait qu’une prise d’urine à laquelle il avait été
+soumis trois jours auparavant a révélé la présence de THC dans son organisme. Le
+15 décembre 2021, la direction des EPO a prononcé une nouvelle sanction disciplinaire
+à son encontre, du fait que le 3 décembre 2021, une fouille opérée dans sa cellule
+a révélé la présence d’un téléphone portable, d’un chargeur
+avec câble USB et d’une boulette de cannabis (moins de 2 grammes).
+B.
+a)
+Le 15 novembre 2021, B.________ a présenté
+une demande de congé au sens de l’art. 12 al. 2 let. a et b RASAdultes (règlement concernant
+l’octroi d’autorisations de sortie aux personnes condamnées adultes et jeunes adultes
+du 31 octobre 2013, BLV 340.93.1) à compter du 24 décembre 2021 et pour une durée
+de 36 heures.
+b)
+Par décision du 15 décembre 2021,
+l’OEP a refusé d’accorder à B.________ un congé de 36 heures à compter
+du 24 décembre 2021.
+L’autorité a considéré que B.________ n’était pas digne de la confiance
+accrue que la sortie sollicitée requérait et qu’un risque de récidive était
+présent, compte tenu du fait qu’il avait été sanctionné le 3 décembre
+2021 pour consommation de produits prohibés et le 15 décembre 2021 pour fraude et trafic.
+C.
+Par acte daté du 21 décembre 2021 et
+remis le 22 décembre 2021 à la poste, B.________ a recouru contre cette décision, en concluant
+à son annulation.
+Il n’a pas été ordonné d’échange d’écriture.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 38 al. 1 LEP (loi sur l’exécution des condamnations pénale
+du 4 juillet 2006 ; BLV 340.01), les décisions rendues par l’OEP peuvent faire l’objet
+d’un recours auprès du Tribunal cantonal. Selon l’art. 38 al. 2 LEP, la procédure
+est régie par les disposition du CPP (Code de procédure pénale suisse du 5 octobre 2007 ;
+RS 312.0) relatives au recours. Le recours doit ainsi être adressé par écrit, dans un
+délai de dix jours dès la notification de la décision attaquée (art. 384 let. b et
+396 al. 1 CPP), à l’autorité de recours qui est, dans le canton de Vaud, la Chambre des
+recours pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise d’introduction du Code de
+procédure pénale suisse du 19 mai 2009 ; BLV 312.01]) ; art. 80 LOJV [loi vaudoise
+d’organisation judiciaire du 12 septembre 1979 ; BLV 173.01]).
+1.2
+En l’espèce, le recours a été interjeté en temps utile, auprès de l’autorité
+compétente, par un détenu qui a qualité pour recourir (art. 382 al. 1 CPP) et satisfait
+aux conditions de forme prescrites (art. 385 al. 1 CPP).
+2.
+2.1
+Le recourant fait en substance grief à l’OEP et à la Direction des EPO de s’être
+fondés sur des motifs erronés et d’avoir méconnu des dispositions topiques pour
+lui refuser le congé qu’il sollicitait, en vue de passer les fêtes de Noël auprès
+de sa famille.
+2.2
+Aux termes de l’art. 382 al. 1 CPP, le recourant doit disposer d’un intérêt juridiquement
+protégé à l’annulation ou à la modification de la décision entreprise.
+En droit pénal, la recevabilité d’un recours dépend ainsi en particulier de l’existence
+d’un intérêt actuel à l’annulation de la décision entreprise. Cet intérêt
+doit exister non seulement au moment du dépôt du recours, mais encore au moment où l’arrêt
+est rendu (ATF 144 IV 81 consid. 2.3.1). De cette manière, les tribunaux sont assurés de trancher
+uniquement des questions concrètes et non de prendre des décisions à caractère théorique
+(ATF 140 IV 74 consid. 1.3.1). Lorsque l’intérêt pour recourir fait défaut au moment
+du dépôt du recours, l’autorité pénale n’entre pas en matière sur
+celui-ci et elle le déclare irrecevable. En revanche, si l’intérêt actuel disparaît
+en cours de procédure, le litige est déclaré sans objet et la cause est radiée du
+rôle (ATF 139 I 206 consid. 1.1). Il peut exceptionnellement être fait abstraction de l’exigence
+d’un intérêt actuel lorsque la contestation peut se reproduire en tout temps dans des
+circonstances identiques ou analogues, que sa nature ne permet pas de la trancher avant qu’elle
+perde son actualité et que, en raison de sa portée de principe, il existe un intérêt
+public suffisamment important à la solution de la question litigieuse (ATF 140 IV 74 précité
+consid. 1.3.3 ; ATF 139 I 206 consid. 1.1).
+Selon le Tribunal fédéral (TF 6B_1209/2017 du 25 avril 2018 consid. 2), ne dispose pas d’un
+intérêt juridiquement protégé actuel, au sens de l’art. 81 al. 1 LTF (Loi sur
+le tribunal fédéral du 17 juin 2005 ; RS 173.110), celui qui s’attaque au refus
+d’un congé pour une date échue, lorsque la demande de congé – et, partant,
+son refus – portent sur une sortie ponctuelle et non sur l’octroi d’un régime
+de congés futurs. Tout comme le Tribunal fédéral, la Chambre de céans considère
+que la notion d’intérêt juridiquement protégé au sens de l’art. 382 al.
+1 CPP doit être interprétée restrictivement, cette notion n’étant pas différente
+de celle figurant à l’art. 81 al. 1 LTF (CREP du 1
+er
+octobre 2018/761 consid. 1.3).
+2.3
+En l’espèce, la demande de congé du recourant portait sur une période déterminée
+de trente-six heures à compter du 24 décembre 2021, période qui est désormais échue.
+A contrario
+,
+il ne s’agissait pas d’une demande portant sur un régime de congés futurs. A ce
+jour, l’intérêt actuel du recourant à l’annulation de la décision entreprise
+a disparu.
+Il faut constater au surplus que le recourant n’invoque pas de façon défendable qu’il
+existerait, malgré l’absence d’intérêt actuel et pratique, un intérêt
+public suffisamment important à la résolution de la question litigieuse.
+3.
+Il résulte de ce qui précède que
+le recours interjeté par B.________ est devenu sans objet et la cause doit être rayée
+du rôle. La demande d’assistance judiciaire du recourant doit à cet égard être
+rejetée.
+Vu l’issue de la cause, les frais de la procédure de recours, constitués du seul émolument
+d’arrêt, par 550 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront laissés à la
+charge de l’Etat (art. 423 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est sans objet.
+II.
+La cause est rayée du rôle.
+III.
+Les frais d’arrêt, par 550 fr. (cinq
+cent cinquante francs), sont laissés à la charge de l’Etat.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+B.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+Office d’exécution des peines,
+-
+Direction des Etablissements de la plaine de l’Orbe,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
