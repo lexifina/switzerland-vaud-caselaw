@@ -1,0 +1,366 @@
+---
+decision_id: "vd_gerichte_24736647-873f-4ac7-bb4d-8e8ca44face6"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CACI"
+docket: "18"
+decided: "2022-01-19"
+published: "2022-02-25"
+language: "fr"
+legal_area: "Fixation contribution d'entretien et    droits parentaux"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/24736647-873f-4ac7-bb4d-8e8ca44face6"
+cites_decisions: ["5D_4/2016", "BGE 122 I 1", "BGE 139 III 133"]
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-095.md", "switzerland/bund/acts/272/art-096.md", "switzerland/bund/acts/272/art-105.md", "switzerland/bund/acts/272/art-109.md", "switzerland/bund/acts/272/art-122.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-241.md", "switzerland/bund/acts/272/art-296.md"]
+---
+
+# Fixation contribution d'entretien et droits parentaux
+
+## Text
+
+TRIBUNAL CANTONAL
+JI18.048757-211620
+18
+CO UR D'AP PEL CI VI LE
+____________________________
+Arrêt du 19 janvier 2022
+__________________
+Composition : M. DE MONTVALLON, juge unique
+Greffière : Mme Cottier
+*****
+Art. 105, 109 al. 1 et 241 al. 2 et 3 CPC ; 65 al. 2 et 67 al. 1 TFJC
+Statuant sur l’appel interjeté par B.________, à [...], intimé,
+contre l’ordonnance de mesures provisionnelles rendue le 7 octobre 2021
+par le Président du Tribunal civil de l’arrondissement de La Côte dans la
+cause divisant l’appelant d’avec G.________, à [...], requérante, le Juge
+unique de la Cour d'appel civile du Tribunal cantonal considère :
+1113
+
+- 2 -
+En fait et e n droi t :
+1. Par ordonnance de mesures provisionnelles du 7 octobre 2021,
+le Président du Tribunal civil de l’arrondissement de La Côte (ci-après : le
+président) a dit que la garde de l’enfant A.________, né le [...] 2017, restait
+confiée à sa mère G.________ (I), a dit que B.________ exercerait un libre et
+large droit de visite sur son fils d’entente avec G.________, et a dit qu’à
+défaut d’entente, il aurait son fils auprès de lui, à charge pour lui d’aller le
+chercher là où il se trouve et de l’y ramener toutes les semaines, du lundi
+à la sortie de l’école jusqu’au mardi après-midi à la reprise de l’école, un
+week-end sur deux du vendredi à la sortie de l’école au dimanche à 18
+heures, la moitié des vacances scolaires et des jours fériés (II), a constaté
+que le montant mensuel nécessaire pour couvrir l’entretien convenable de
+l’enfant A.________, allocations familiales non déduites, s’élevait à 1'772 fr.
+70 (III), a dit que B.________ contribuerait à l’entretien de son fils A.________
+par le régulier versement d’une pension mensuelle de 1'685 fr., allocations
+familiales non comprises et dues en sus, payable d’avance le premier de
+chaque mois en mains d’G.________, dès et y compris le 1er août 2021 (IV),
+a renvoyé les décisions sur les indemnités d’office de Me Véronique
+Fontana et Me Aude Longet-Cornuz à des décisions ultérieures (V et VI), a
+dit que la décision était rendue sans frais judiciaires ni dépens (VII) et a
+rejeté toutes autres ou plus amples conclusions (VIII).
+2. Par acte du 21 octobre 2021, B.________, appelant, a fait appel
+de l’ordonnance de mesures provisionnelles précitée.
+Par ordonnance rectificative du 26 octobre 2021, adressée
+pour notification le 3 novembre 2021, le Juge unique de la Cour d’appel
+civile (ci-après : le juge unique) a accordé l’assistance judiciaire à
+l’appelant pour la procédure d’appel, avec effet au 11 octobre 2021, et a
+désigné l’avocate Aude Longet-Cornuz en qualité de conseil d’office.
+Le 8 novembre 2021, G.________, intimée, a déposé une
+réponse.
+
+- 3 -
+Par ordonnance du 9 novembre 2021, le juge unique a
+également accordé l’assistance judiciaire à l’intimée pour la procédure
+d’appel, avec effet au 29 octobre 2021, et a désigné l’avocate Véronique
+Fontana en qualité de conseil d’office.
+Le 18 novembre 2021, l’appelant s’est déterminé
+spontanément sur la réponse déposée par l’intimée.
+3. Lors de l'audience d'appel du 29 novembre 2021, les parties
+ont signé une convention, consignée au procès-verbal et ratifiée séance
+tenante par le juge unique pour valoir arrêt sur appel de mesures
+provisionnelles, dont la teneur est la suivante :
+« I. L’ordonnance de mesures provisionnelles du 7 octobre
+2021 est modifiée en ses chiffres II et IV comme il suit :
+II. DIT, que dès et y compris la date à laquelle
+B.________ aura déménagé à [...], celui-ci exercera un libre
+et large droit de visite sur son fils A.________, né le [...]
+2017, d’entente avec G.________, et DIT qu’à défaut
+d’entente, il aura son fils auprès de lui, à charge pour lui
+d’aller le chercher là où il se trouve et de l’y ramener :
+- toutes les semaines du lundi à la sortie de l’école à
+11 heures 40 jusqu’au mardi après-midi à la reprise de
+l’école à 13 heures 55 ;
+- un week-end sur deux du vendredi à la sortie de l’école
+à 11 heures 40 jusqu’au mardi après-midi reprise de
+l’école à 13 heures 55 ;
+- la moitié des vacances scolaires et des jours fériés ;
+IIbis. B.________ rappelle qu’il a pris des conclusions
+au fond en garde alternée et qu’il accepte les modalités du
+droit de visite précitées uniquement par gain de paix et
+sans reconnaissance aucune.
+IV. DIT que B.________ contribuera à l’entretien de
+son fils A.________, né le [...] 2017, par le régulier versement
+d’une pension mensuelle de 1'420 fr. (mille quatre cent
+vingt francs), allocations familiales non comprises et dues
+en sus, payable d’avance le premier de chaque mois en
+mains d’G.________, dès et y compris le 1er décembre 2021 ;
+IVbis. Il est précisé que cette contribution d’entretien
+prend en compte un revenu de 5'867 fr. 65 s’agissant de
+B.________ et de 4'654 fr. s’agissant d’G.________
+
+- 4 -
+(indemnités de chômage). Pour l’enfant, ses charges ont
+été arrêtées à 1'420 fr. comme suit : 400 fr. (montant de
+base), 280 fr. (participation au loyer), 50 fr. (primes
+d’assurance-maladie, subsides déduits), 30 fr. (frais
+médicaux non pris en charge), et 960 fr. (frais de jeune fille
+au pair), allocations familiales par 300 fr. en sus.
+IVter. Pour autant qu’G.________ obtienne et perçoive
+concrètement dans le cadre du procès qui l’oppose au père
+des jumeaux des montants de contributions d’entretien en
+lien avec des frais de garde à partir du 1er août 2021 de
+960 fr. actuellement payés par B.________, celle-ci s’engage
+à les lui rembourser. B.________ s’engage à ne formuler
+aucune pression à ce sujet et que, de son côté, G.________
+s’engage à l’informer si elle vient à percevoir ces montants.
+IVquater. B.________ déclare contester le montant de
+l’entretien convenable retenu au ch. III de l’ordonnance du
+7 octobre 2021 et réserve tous ses moyens dans le cadre
+du procès au fond. De son côté, G.________ déclare que,
+selon elle, les considérants de l’ordonnance attaquée ne
+prêtent pas le flanc à la critique et que l’entretien
+convenable a été fixée dans les règles.
+L’ordonnance de mesures provisionnelles est confirmée
+pour le surplus.
+II. Parties conviennent de se répartir les frais judiciaires par
+moitié et renoncent à l’allocation de dépens. »
+4.
+4.1 Selon l'art. 241 CPC (Code de procédure civile du 19 décembre
+2008 ; RS 272), toute transaction, tout acquiescement et tout désistement
+d’action consignés au procès-verbal par le tribunal doivent être signés par
+les parties (al. 1). Une transaction, un acquiescement ou un désistement
+d’action a les effets d’une décision entrée en force (al. 2) et le tribunal
+raye l’affaire du rôle (al. 3).
+La transaction judiciaire elle-même, en tant qu'acte juridique
+des parties, met fin au procès (ATF 139 III 133 consid. 1.3). Une
+transaction ne peut toutefois porter que sur des droits dont les parties
+peuvent librement disposer. Dans des causes qui sont soustraites à la libre
+disposition des parties, une transaction à proprement parler n’est pas
+possible, d’éventuels accords entre les parties pouvant toutefois prendre
+la forme d’une convention soumise à une ratification par le tribunal et
+
+- 5 -
+intégrée au dispositif d’une décision finale (Tappy, in : Bohnet et al.,
+Commentaire romand, Code de procédure civile, 2e éd., Bâle 2019, nn. 8
+et 10 ad art. 241 CPC).
+4.2 Les conditions précitées étant remplies et la convention
+apparaissant comme étant conforme à l’intérêt de l’enfant A.________ (cf.
+art. 296 al. 3 CPC), le juge unique a ratifié sur le siège la convention des
+parties pour valoir arrêt sur appel de mesures provisionnelles.
+5. Les frais judiciaires sont fixés et répartis d'office (art. 105 al. 1
+CPC), selon le tarif des frais cantonal (art. 96 CPC). Lorsque les parties
+transigent en justice, elles supportent les frais – à savoir les frais
+judiciaires et les dépens (art. 95 al. 1 CPC) – conformément à la
+transaction (art. 109 al. 1 CPC).
+En l'espèce, les frais judiciaires de deuxième instance, réduits
+de deux tiers selon l'art. 67 al. 1 TFJC (tarif des frais judiciaires civils du
+28 septembre 2010, BLV 270.11.5), seront arrêtés à 200 fr. (art. 65 al. 2
+TFJC) et répartis par moitié entre les parties. Ils seront laissés
+provisoirement à la charge de l'Etat (art. 122 al. 1 let. b CPC).
+Il n’y a pas lieu à l’allocation de dépens de deuxième instance,
+les parties y ayant renoncé.
+6.
+6.1 Le conseil d’office a droit à une rémunération équitable pour
+ses opérations et débours dans la procédure d’appel (art. 122 al. 1 let. a
+CPC).
+Pour fixer la quotité de l'indemnité, l'autorité cantonale doit
+tenir compte de la nature et de l'importance de la cause, des difficultés
+particulières que celle-ci peut présenter en fait et en droit, du temps que
+
+- 6 -
+l'avocat lui a consacré, de la qualité de son travail, du nombre des
+conférences, audiences et instances auxquelles il a pris part, du résultat
+obtenu et de la responsabilité qu'il a assumée (TF 5D_4/2016 du 26 février
+2016 consid. 4.3.3 et les réf. citées). En matière civile, le défenseur
+d'office peut être amené à accomplir dans le cadre du procès des
+démarches qui ne sont pas déployées devant les tribunaux, telles que
+recueillir des déterminations de son client ou de la partie adverse ou
+encore rechercher une transaction. De telles opérations doivent
+également être prises en compte (ATF 122 I 1 consid. 3a ; ATF 117 Ia 22
+consid. 4c et les réf. citées). Cependant, le temps consacré à la défense du
+client et les actes effectués ne peuvent être pris en considération sans
+distinction. Ainsi, le juge peut d'une part revoir le travail allégué par
+l'avocat, s'il l'estime exagéré en tenant compte des caractéristiques
+concrètes de l'affaire, et ne pas rétribuer ce qui ne s'inscrit pas
+raisonnablement dans le cadre de l'accomplissement de la tâche du
+défenseur ; d'autre part, il peut également refuser d'indemniser le conseil
+pour des opérations qu'il estime inutiles ou superflues. L'avocat d'office ne
+saurait être rétribué pour des activités qui ne sont pas nécessaires à la
+défense des intérêts de l'assisté ou qui consistent en un soutien moral
+(ATF 109 Ia 107 consid. 3b ; TF 5D_4/2016 précité consid. 4.3.3). L'avocat
+doit cependant bénéficier d'une marge d'appréciation suffisante pour
+déterminer l'importance du travail qu'il doit consacrer à l'affaire (ATF 118
+Ia 133 consid. 2d ; ATF 109 Ia 107 consid. 3b).
+Le juge applique un tarif horaire de 180 fr. pour l’avocat (art. 2
+al. 1 RAJ [règlement du 7 décembre 2010 sur l’assistance judiciaire en
+matière civile ; BLV 211.02.3]).
+6.2 Le conseil de l’appelant a indiqué, dans sa liste d’opérations,
+avoir consacré 33 heures et 40 minutes au dossier.
+Le temps consacré à la rédaction de l’appel, d’une durée totale
+de 11 heures et 50 minutes, auquel s’ajoute encore 1 heure d’étude du
+dossier le 20 octobre 2021, est excessif pour une activité déployée dans
+une procédure d’appel, sans difficulté juridique particulière, portant
+
+- 7 -
+uniquement sur les modalités du droit de visite et la contribution
+d’entretien due à l’enfant. On constate en particulier que le dispositif et les
+faits de l’ordonnance attaquée sont repris tel quel dans l’appel sur plus de
+5 pages, ce qui ne justifie pas de rémunération. De même, les griefs de
+l’appelant sont mentionnés deux fois dans le mémoire d’appel, soit à la
+fois dans la partie en fait et dans celle en droit. Compte tenu de la nature
+du litige et des difficultés de la cause, une durée totale de 7 heures sera
+retenue. Le temps consacré à la rédaction de la réplique spontanée, par
+5 heures, est également excessif, la cause ne représentant pas une
+situation exceptionnelle, et sera ramené à une durée de 2 heures. On ne
+tiendra pas compte des opérations destinées à la confection de
+bordereaux les 21 octobre et 27 novembre 2021, par 50 minutes au total,
+non prises en compte à titre d’activité d’avocat (Juge délégué CACI
+7 novembre 2019/586 consid. 7.3.2).
+Le temps consacré à la rédaction des courriers des 1er et 18
+novembre 2021 d’une durée de 20 minutes chacun est excessif, s’agissant
+de simples courriers. Il en va de même de l’étude de la lettre de la Cour de
+céans du 1er novembre 2021, par 35 minutes. On retiendra ainsi une durée
+admissible de 35 minutes au total à cet égard.
+Le temps consacré à la préparation de l’audience d’une durée
+de 2 heures et 50 minutes, est excessif, le dossier étant déjà connu à ce
+stade, seule une durée de 2 heures sera retenue.
+En définitive, on retiendra un temps admissible consacré à la
+procédure d’appel de 22 heures et 40 minutes (33h40 – 5h50 – 0h50 –
+3h00 – 0h40 – 0h50).
+Il s’ensuit qu’au tarif horaire de 180 fr., l’indemnité d’office de
+Me Aude Longet-Cornuz doit être fixée à 4'080 fr., montant auquel
+s’ajoutent les débours par 81 fr. 60 (2 % de 4'080 fr.), le forfait de
+vacation par 120 fr. (art. 3bis al. 3 RAJ) et la TVA sur le tout par 329 fr. 70,
+soit 4'611 fr. au total.
+
+- 8 -
+6.3 Le conseil de l’intimée fait état, dans sa liste d’opérations,
+d’une durée totale consacrée au dossier de 16 heures. Vu la nature du
+litige et les difficultés de la cause, il y a lieu d’admettre ce décompte. Il
+convient toutefois de retenir un forfait de débours de 2 % (cf. art. 3bis al. 1
+RAJ). Il s’ensuit qu’au tarif horaire de 180 fr. pour l’avocat breveté,
+l’indemnité du conseil d’office doit être fixée à 2'880 fr., montant auquel
+s’ajoutent les débours forfaitaires, par 57 fr. 60, le forfait de vacation, par
+120 fr., et la TVA sur le tout, par 235 fr. 45, soit à 3'293 fr. au total.
+6.4 Les bénéficiaires de l’assistance judiciaire sont tenus au
+remboursement des frais judiciaires et de l’indemnité à leur conseil
+d’office mis provisoirement à la charge de l’Etat, dès qu’ils seront en
+mesure de le faire (art. 123 CPC).
+Il incombe à la Direction du recouvrement de la Direction
+générale des affaires institutionnelles et des communes de fixer le
+principe et les modalités de ce remboursement (art. 39a CDPJ (Code de
+droit privé judiciaire vaudois du 12 janvier 2010 ; BLV 121.02]).
+Par ces motifs,
+le Juge unique
+de la Cour d'appel civile
+prononce :
+I. Il est rappelé la convention signée par les parties lors de
+l’audience d’appel du 29 novembre 2021, ratifiée séance
+tenante pour valoir arrêt sur appel de mesures provisionnelles,
+dont la teneur est la suivante :
+« I. L’ordonnance de mesures provisionnelles du 7 octobre
+2021 est modifiée en ses chiffres II et IV comme il suit :
+II. DIT, que dès et y compris la date à laquelle
+B.________ aura déménagé à [...], celui-ci exercera un libre
+
+- 9 -
+et large droit de visite sur son fils A.________, [...] 2017,
+d’entente avec G.________, et DIT qu’à défaut d’entente, il
+aura son fils auprès de lui, à charge pour lui d’aller le
+chercher là où il se trouve et de l’y ramener :
+- toutes les semaines du lundi à la sortie de l’école à
+11 heures 40 jusqu’au mardi après-midi à la reprise de
+l’école à 13 heures 55 ;
+- un week-end sur deux du vendredi à la sortie de l’école
+à 11 heures 40 jusqu’au mardi après-midi reprise de
+l’école à 13 heures 55 ;
+- la moitié des vacances scolaires et des jours fériés ;
+IIbis. B.________ rappelle qu’il a pris des conclusions
+au fond en garde alternée et qu’il accepte les modalités du
+droit de visite précitées uniquement par gain de paix et
+sans reconnaissance aucune.
+IV. DIT que B.________ contribuera à l’entretien de
+son fils A.________, né le [...] 2017, par le régulier versement
+d’une pension mensuelle de 1'420 fr. (mille quatre cent
+vingt francs), allocations familiales non comprises et dues
+en sus, payable d’avance le premier de chaque mois en
+mains d’G.________, dès et y compris le 1er décembre 2021 ;
+IVbis. Il est précisé que cette contribution d’entretien
+prend en compte un revenu de 5'867 fr. 65 s’agissant de
+B.________ et de 4'654 fr. s’agissant d’G.________
+(indemnités de chômage). Pour l’enfant, ses charges ont
+été arrêtées à 1'420 fr. comme suit : 400 fr. (montant de
+base), 280 fr. (participation au loyer), 50 fr. (primes
+d’assurance-maladie, subsides déduits), 30 fr. (frais
+médicaux non pris en charge), et 960 fr. (frais de jeune fille
+au pair), allocations familiales par 300 fr. en sus.
+IVter. Pour autant qu’G.________ obtienne et perçoive
+concrètement dans le cadre du procès qui l’oppose au père
+des jumeaux des montants de contributions d’entretien en
+lien avec des frais de garde à partir du 1er août 2021 de
+960 fr. actuellement payés par B.________, celle-ci s’engage
+à les lui rembourser. B.________ s’engage à ne formuler
+aucune pression à ce sujet et que, de son côté, G.________
+s’engage à l’informer si elle vient à percevoir ces montants.
+IVquater. B.________ déclare contester le montant de
+l’entretien convenable retenu au ch. III de l’ordonnance du
+7 octobre 2021 et réserve tous ses moyens dans le cadre
+du procès au fond. De son côté, G.________ déclare que,
+selon elle, les considérants de l’ordonnance attaquée ne
+prêtent pas le flanc à la critique et que l’entretien
+convenable a été fixée dans les règles.
+L’ordonnance de mesures provisionnelles est confirmée
+pour le surplus.
+II. Parties conviennent de se répartir les frais judiciaires par
+moitié et renoncent à l’allocation de dépens. »
+
+- 10 -
+II. Les frais judiciaires de deuxième instance, arrêtés à 100 fr.
+(cent francs) pour l’appelant B.________ et à 100 fr. (cent
+francs) pour l’intimée G.________, sont laissés provisoirement à
+la charge de l’Etat.
+III. L'indemnité d'office de Me Aude Longet-Cornuz, conseil de
+l'appelant, est arrêtée à 4'611 fr. (quatre mille six cent onze
+francs), TVA, frais de vacation et débours compris.
+IV. L'indemnité d'office de Me Véronique Fontana, conseil de
+l'intimée, est arrêtée à 3'293 fr. (trois mille deux cent nonante-
+trois francs), TVA, frais de vacation et débours compris.
+V. Les bénéficiaires de l’assistance judiciaire sont tenus au
+remboursement des frais judiciaires et de l’indemnité due à
+leur conseil d’office, mis provisoirement à la charge de l’Etat,
+dès qu’ils seront en mesure de le faire (art. 123 CPC).
+VI. Il n'est pas alloué de dépens de deuxième instance.
+VII. La cause est rayée du rôle.
+VIII. L'arrêt est exécutoire.
+Le juge unique : La greffière :
+
+- 11 -
+Du
+Le présent arrêt est notifié à :
+- Me Aude Longet-Conuz (pour B.________),
+- Me Véronique Fontana (pour G.________),
+et communiqué, par l'envoi de photocopies, à :
+- M. le Président du Tribunal civil de l’arrondissement de La Côte.
+Le juge unique de la Cour d'appel civile considère que la valeur
+litigieuse est supérieure à 30'000 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière
+civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), le cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Dans les affaires
+pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de
+droit du bail à loyer, à 30'000 fr. dans les autres cas, à moins que la
+contestation ne soulève une question juridique de principe (art. 74 LTF).
+Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
