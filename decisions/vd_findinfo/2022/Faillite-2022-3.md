@@ -1,0 +1,334 @@
+---
+decision_id: "vd_findinfo_Faillite___2022___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2022 / 3"
+decided: "2022-01-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8665627"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-725a.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-111.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-327.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-194.md", "switzerland/bund/acts/281.1/art-293a.md"]
+---
+
+# VD Findinfo Faillite / 2022 / 3
+
+## Regeste
+
+DÉCISION DE RENVOI | 327 al. 3 let. a CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2022 / 3
+
+DÉCISION DE RENVOI | 327 al. 3 let. a CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FW21.007686-211803
+4
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+24 janvier 2022
+____________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Giroud Walther, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+327 al. 3 let. a CPC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+Q.________SA
+,
+à [...], contre le jugement rendu le 8 novembre 2021, à la suite des audiences des 20 avril
+et 29 juin 2021, par le Président du Tribunal d’arrondissement de l’Est vaudois, rejetant
+la requête de faillite déposée le 17 février 2021 par la recourante contre
+Y.________SA
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Par jugement du 8 novembre 2021, le Président du Tribunal d’arrondissement de l’Est
+vaudois (ci-après : le Président du tribunal) a rejeté la requête de faillite
+sans poursuite préalable déposée le 17 février 2021 par Q.________SA (ci-après :
+Q.________SA) contre Y.________SA (I), a arrêté les frais judiciaires à 300 fr., les a
+mis à la charge de la requérante et les a compensés avec l’avance de frais déjà
+effectuée (II), a dit que la requérante était la débitrice de l’intimée
+de la somme de 2'000 fr. à titre de dépens (III) et a rejeté toutes autres ou plus amples
+conclusions (IV).
+2.
+a)
+Par acte du 19 novembre 2021, Q.________SA
+a recouru contre le jugement précité en concluant, avec suite de frais et dépens, principalement
+à ce qu’il soit déclaré nul, subsidiairement à ce qu’il soit réformé
+en ce sens que la requête de faillite sans poursuite préalable est admise, que les frais judiciaires,
+arrêtés à 300 fr., sont mis à la charge d’Y.________SA et que celle-ci est
+sa débitrice de la somme de 2’000 fr. à titre de dépens, plus subsidiairement, à
+ce que le jugement soit annulé et la cause renvoyée au Président du tribunal pour nouvelle
+décision dans le sens des considérants de l’arrêt à intervenir. La recourante
+a notamment fait valoir (sous ch. 1, §§ 7 à 14) que le jugement attaqué avait été
+rendu alors que le Président, par décision rendue le 22 septembre 2021 (réf. FU21.039907 ;
+pièce 1 produite à l’appui du recours), à la suite du dépôt par Y.________SA,
+le 21 septembre 2021, d’une requête d’ajournement de faillite (art. 725a CO [Code
+des obligations ; RS 220]) comprenant une demande d'effet suspensif (pièce 3 produite à
+l’appui du recours), avait suspendu «
+les
+poursuites actuellement pendantes et celles qui pourraient être introduites
+»
+et ajourné «
+toute
+décision devant être rendue à la suite de requêtes de faillites ordinaires, de change
+ou sans poursuite préalable, jusqu’à droit connu sur la demande d’ajournement de
+faillite
+» ; le 23 septembre 2021, il
+avait cité Y.________SA à comparaître à son audience du 16 novembre 2021 et
+en avait informé les parties intéressées (pièce 2 produite à l’appui du
+recours) ; au moment où le jugement attaqué du 8 novembre 2021 avait été rendu,
+l’audience n’avait donc pas encore eu lieu et le sort de la demande d’ajournement de
+faillite n’était pas connu ; violant la décision de suspension et d’ajournement
+du 22 septembre 2021, le jugement attaqué devait être déclaré nul, subsidiairement,
+être annulé.
+b)
+Spontanément,
+le 3 décembre 2021, l’intimée Y.________SA s’est déterminée sur le recours
+en concluant à son rejet «
+faute
+d’objet
+». Elle a produit une
+décision rendue le 1
+er
+décembre 2021 par le Président du tribunal, dont il ressort qu’elle a déposé,
+le 12 novembre 2021, une nouvelle requête d'ajournement de faillite (réf. FU21.039907) [réd. :
+il s’agit en fait d’une détermination complémentaire] et, le 26 novembre 2021,
+une requête de sursis concordataire (réf. FV21.050384). Dans cette dernière cause, par
+ladite décision du 1
+er
+décembre 2021, le Président a accordé à Y.________SA un sursis concordataire au sens
+de l’art. 293a LP (loi fédérale sur la poursuite pour dettes et la faillite ; RS
+281.1) jusqu’au 5 avril 2022, a suspendu la procédure d’ajournement de faillite
+(FU21.039907) et a dit que cette dernière cause serait reprise d’office en cas de révocation
+du sursis.
+La recourante s’est déterminée sur cette écriture et la pièce produite, le
+8 décembre 2021.
+3.
+Le 15 décembre 2021, Q.________SA a requis
+l’octroi de l’effet suspensif à son recours en ce qui concerne l’allocation de
+dépens de 2'000 fr. à l’intimée, mise à sa charge par le jugement attaqué.
+Par décision du 16, prenant date le 17 décembre 2021, le Président de la cour de céans
+a admis la requête d’effet suspensif en ce sens que l’exécution du chiffre III
+du dispositif du jugement attaqué a été suspendue.
+4.
+a)
+Par avis du 20 décembre 2021, le Président
+de la cour de céans a invité le Président du tribunal à se déterminer sur le
+premier point soulevé dans le recours de Q.________SA contre sa décision du 8 novembre 2021;
+il a par ailleurs fixé un délai de dix jours à la recourante pour se déterminer sur
+la liste des poursuites contre l'intimée au 23 novembre 2021 versée d'office au dossier, et
+un délai de même durée à l'intimée pour se déterminer également sur
+cette liste ainsi que sur le recours.
+b)
+L'intimée s'est déterminée dans une écriture du 23 décembre 2021, concluant,
+avec suite de frais et dépens, à titre liminaire, à la suspension du recours jusqu'à
+droit connu sur la procédure de sursis concordataire, et à titre principal, au rejet des conclusions
+prises dans le recours. Elle a soutenu que «
+le
+premier juge, malgré sa décision du 22 septembre 2021, n'avait pas à surseoir à statuer
+sur la présente cause, vu le défaut de la qualité de créancière de la recourante
+. »
+Elle a fait valoir en outre que la décision du 1
+er
+décembre 2021 était définitive et exécutoire (pièce 101 produite à l’appui
+de la réponse). Par ailleurs, elle a contesté être en cessation de paiement.
+c)
+Dans une écriture du 24 décembre 2021, la recourante a soutenu en substance que la situation
+financière de l’intimée, telle qu’elle ressortait de l’extrait des poursuites
+la concernant, était catastrophique.
+d)
+Par lettre du 29 décembre 2021, le Président du tribunal a indiqué renoncer à se
+déterminer sur le premier point soulevé dans le recours de Q.________SA.
+En droit
+:
+I.
+a)
+En vertu de l’art. 174 al. 1 LP, auquel
+renvoie l’art. 194 al. 1 LP, le jugement statuant sur une requête de faillite sans poursuite
+préalable peut, dans les dix jours, faire l’objet d’un recours au sens du CPC (Code
+de procédure civile ; RS 272).
+b)
+En l’espèce, le recours a été introduit dans les formes requises, auprès de
+l'instance de recours, par acte écrit et motivé (art. 321 al. 1 CPC), et en temps utile, dans
+le délai de dix jours à compter de la notification de la décision attaquée (art.
+174 al. 1 LP et 321 al. 2 CPC), par la requérante à la faillite sans poursuite préalable
+qui a un intérêt digne de protection à l’annulation ou à la modification du
+jugement attaqué (art. 59 al. 2 let a CPC ; cf. sur la définition du lésé en
+procédure civile : TF 4A_470/2021 du 18 novembre 2021 consid. 4.2). Il est ainsi recevable.
+La réponse de l’intimée au recours du 23 décembre 2021, déposée dans le
+délai imparti (art. 322 CPC), est également recevable.
+Il en va de même de la réponse spontanée de l’intimée au recours du 3 décembre
+2021, déposée dix jours après réception de la copie du recours transmise par la recourante,
+comme de la détermination spontanée de la recourante sur cette écriture (ATF 142 III 48
+consid. 4.1.1 et les réf. cit. ; TF 5A_294/2020 du 14 décembre 2020 consid. 3.2.1).
+II.
+a)
+Dans la procédure de recours contre une
+décision du juge de la faillite, selon l’art. 174 al. 1
+in
+fine
+LP, les parties peuvent faire valoir des
+faits nouveaux lorsqu’ils se sont produits avant le jugement de première instance. La loi
+vise ici les faits nouveaux improprement dits (faux
+nova
+ou
+pseudo nova
+),
+soit ceux qui existaient déjà au moment de l'ouverture de la faillite et dont le premier juge
+n'a pas eu connaissance pour quelque raison que ce soit ; ces faits peuvent être invoqués sans
+restriction et prouvés par pièces, pour autant qu'ils le soient dans le délai de recours
+(ATF 139 III 491 consid. 4.4 ; TF 5A_874/2017 du 7 février 2018 consid. 4.2.1, RSPC 2018 p. 238 ;
+TF 5A_571/2010 du 2 février 2011 consid. 2, SJ 2011 I 149; Amonn/Walther, Grundriss des Schuldbetreibungs-
+und Konkursrechts, 9
+e
+éd., 2013, p. 339). Il s’ensuit que, même en deuxième instance, les deux parties
+peuvent alléguer des faits qui se sont produits avant le prononcé de faillite et produire des
+titres aux fins d’établir ces faits.
+Le débiteur doit en outre être autorisé à invoquer de vrais
+nova
+et à produire, dans le délai de recours ou de réponse au recours, des pièces nouvelles
+destinées à établir que le créancier a retiré sa réquisition de faillite
+après le jugement (art. 174 al. 2 ch. 3 LP), le cas échéant, et à rendre vraisemblable
+sa solvabilité (art. 174 al. 2 LP).
+b)
+En l’espèce, les pièces produites à l’appui du recours sont recevables, à
+l'exception de la pièce 4 qui porte sur des faits postérieurs à la décision attaquée.
+On relève cependant qu’il s’agit de la détermination complémentaire de l’intimée
+à sa requête d’ajournement de faillite, à laquelle se réfère la décision
+du Président du tribunal du 1
+er
+décembre 2021 (cf. infra).
+La décision du 1
+er
+décembre 2021 produite spontanément par l’intimée le 3 décembre 2021, accordant
+à celle-ci un sursis concordataire provisoire, est recevable ; sauf à faire preuve de
+formalisme excessif, on doit admettre également que l’attestation d’exequatur de cette
+décision du 21 décembre 2021 (pièce 101 produite avec la réponse de l’intimée
+au recours) est recevable.
+III.
+Il résulte du dossier que, par décision
+du 22 septembre 2021 (réf. FU21.039907), le Président du tribunal, saisi d’une requête
+d’ajournement de faillite déposée par Y.________SA avec demande d’effet suspensif,
+a ajourné toute décision devant être rendue notamment à la suite d’une
+requête de faillite sans poursuite préalable «
+jusqu’à
+droit connu sur la demande d’ajournement de faillite
+»
+et que cette procédure d’ajournement de faillite a ensuite été elle-même suspendue
+par la décision du Président du tribunal du 1
+er
+décembre
+2021 (FV21.050384), accordant à Y.________SA un sursis concordataire provisoire jusqu’au 5 avril
+2022 et disant que la cause en ajournement serait reprise d’office en cas de révocation du
+sursis.
+On ignore pour quel motif le Président a rendu le jugement attaqué du 8 novembre 2021
+alors qu’il avait ajourné toute décision de ce type. Son absence de détermination
+ne permet pas d’éclaircir ce point. L’intimée soutient que, «
+malgré
+sa décision du 22 septembre 2021
+»,
+le Président n’avait pas à surseoir à statuer «
+vu
+le défaut de la qualité de créancière de la recourante
+».
+On peine à comprendre cet argument. La question de la qualité de créancière de la
+partie qui requiert la faillite sans poursuite préalable de son prétendu débiteur doit
+effectivement être examinée par le juge au moment de statuer sur la requête, mais ne saurait
+être en quelque sorte tranchée « préjudiciellement » pour justifier
+de rendre une décision alors même qu’il a été décidé de surseoir
+à une telle décision. En d’autres termes, le jugement attaqué ne pouvait ni ne devait
+être rendu avant droit connu dans la procédure d’ajournement de faillite – laquelle
+est d’ailleurs actuellement suspendue.
+IV.
+Vu ce qui précède, le recours doit être admis, le jugement attaqué annulé et
+la cause renvoyée au premier juge (art. 327 al. 3 let. a CPC) pour qu’il statue sur la requête
+de faillite sans poursuite préalable lorsqu’il n’y aura plus de motifs d’y surseoir,
+soit quand le sort de la procédure de sursis concordataires et, partant, celui de la procédure
+d’ajournement de faillite seront connus, ne serait-ce, le cas échéant, que pour constater
+que la requête de faillite sans poursuite préalable n’a plus d’objet.
+La requête de l’intimée tendant à la suspension de la procédure de recours
+doit être rejetée, la cause étant de fait déjà suspendue par la décision
+du 1
+er
+décembre
+2021.
+Les frais de deuxième instance doivent être mis à la charge de l’intimée (art.
+106 al. 1 CPC). Les frais judiciaires étant arrêtés à 300 fr., compensés avec
+l’avance de frais de la recourante (art. 53 et 61 OELP [ordonnances sur les émoluments perçus
+en application de la LP ; RS 281.35] ; art. 111 al. 1, 1
+re
+phrase, CPC), l’intimée doit par conséquent rembourser à la recourante son avance
+de frais à concurrence de ce montant et lui verser en outre des dépens (art. 111 al. 2 CPC),
+fixés à 2'000 fr. (art. 3 al. 2 et 8 TDC [tarif des dépens en matière civile ;
+BLV 270.11.6]), soit au total 2'300 francs.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le jugement du 8 novembre 2021 est annulé.
+III.
+Le dossier de la cause est renvoyé au Président du Tribunal d’arrondissement de l’Est
+vaudois pour nouvelle décision dans le sens des considérants.
+IV.
+La requête de suspension de la procédure de recours est rejetée.
+V.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de l’intimée.
+VI.
+L’intimée Y.________SA doit verser à la recourante Q.________SA la somme de 2'300 fr.
+(deux mille trois cents francs) à titre de restitution d’avance de frais judiciaires et de
+dépens de deuxième instance.
+VII.
+L’arrêt est exécutoire.
+Le président :               La
+greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Alain Dubuis, avocat (pour Q.________SA),
+‑
+Me Dario Barbosa, avocat (pour Y.________SA),
+-
+M. le Préposé à l'Office des poursuites du district de La Riviera – Pays-d’Enhaut,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l’Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de l’Est vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois.
+La greffière :
