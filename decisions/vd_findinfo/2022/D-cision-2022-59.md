@@ -1,0 +1,227 @@
+---
+decision_id: "vd_findinfo_D_cision___2022___59"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2022 / 59"
+decided: "2022-01-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8663126"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-067.md", "switzerland/bund/acts/312.0/art-081.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2022 / 59
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ, MOTIVATION DE LA DEMANDE, SORTIE, EXÉCUTION DES PEINES ET DES MESURES | 38 LEP, 385 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 27.01.2022 Décision / 2022 / 59
+
+DÉCISION D'IRRECEVABILITÉ, MOTIVATION DE LA DEMANDE, SORTIE, EXÉCUTION DES PEINES ET DES MESURES | 38 LEP, 385 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+67
+OEP/PPL/152331/fld
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+27 janvier 2022
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Kaltenrieder et Perrot, juges
+Greffière
+:              Mme
+Maire Kalubi
+*****
+Art.
+385 al. 1 CPP
+Statuant sur le recours interjeté le 18 janvier 2022 par
+U.________
+contre la décision rendue le 6 janvier 2022 par l’Office d’exécution des peines
+dans la cause
+n° OEP/PPL/152331/fld
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Par jugement du 13 novembre 2018, confirmé par arrêt de la Cour d’appel pénale du
+Tribunal cantonal du 11 avril 2019 (n° 73) et par arrêt de la Cour de droit pénal du Tribunal
+fédéral du 27 novembre 2019 (6B_738/2019), le Tribunal criminel de l’arrondissement de
+la Broye et du Nord vaudois a notamment condamné U.________, ressortissant nigérian établi
+en Allemagne, à une peine privative de liberté de six ans, sous déduction de 444 jours
+de détention avant jugement et de 5 jours à titre de réparation du tort moral, pour blanchiment
+d’argent qualifié et infraction grave à la loi fédérale sur les stupéfiants
+(LStup ; RS 812.121), et a ordonné son expulsion du territoire suisse pour une durée de
+dix ans.
+Après avoir été détenu à la Prison de Champ-Dollon, aux Etablissements pénitentiaires
+de Bellechasse et à la Prison de la Croisée, U.________ exécute sa peine aux Etablissements
+de la Plaine de l’Orbe depuis le 25 janvier 2021.
+B.
+Le 3 décembre 2021, U.________ a présenté
+une demande d’autorisation de sortie d’une journée pour le 29 janvier 2022, afin de
+passer du temps avec sa famille.
+Par décision du 6 janvier 2022, l’Office d’exécution des peines, se référant
+notamment au préavis négatif émis par la direction de l’établissement de détention
+et au plan d’exécution de la sanction du 22 juillet 2020, lequel ne prévoyait pas d’élargissement
+de ce type, a refusé d’accorder à l’intéressé la sortie sollicitée,
+relevant pour le surplus que le détenu séjournait illégalement en Suisse et se trouverait
+donc en infraction à la loi fédérale sur les étrangers et l’intégration
+(LEI ; RS 142.20) en cas de congé.
+C.
+Par acte daté du 16 janvier 2022 et remis
+à la poste le 18 janvier 2022, intitulé «
+recours
+contre le décision de l’autorité de placement du 6 janvier 2022 contre congé
+»
+et rédigé pour le surplus en anglais, U.________ a recouru auprès de la Chambre de céans
+contre cette décision en ces termes : «
+I
+am appealing this decision on bases that I don’t know actually what I have done to deserve this
+treatment and refusal. I will withdraw this appeal if what I have done will warrant it. But I am still
+waiting for the Autorite to inform me exactly what I have done to warrant this refusal. Thanks for your
+understanding.
+».
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Selon l'art. 38 al. 1 LEP (loi vaudoise sur l'exécution
+des condamnations pénales du 4 juillet 2006 ; BLV 340.01), peuvent notamment faire l'objet
+d'un recours au Tribunal cantonal les décisions rendues par l'Office d'exécution des peines.
+Aux termes de l'art. 38 al. 2 LEP, la procédure est régie par les dispositions du CPP (Code
+de procédure pénale suisse du 5 octobre 2007 ; RS 312.0) relatives au recours.
+Le recours doit ainsi être adressé par écrit, dans un délai de dix jours dès
+la notification de la décision attaquée (art. 384 let. b CPP), à l'autorité de recours
+(art. 396 al. 1 CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal
+cantonal (art. 13 LVCPP [loi vaudoise d’introduction du Code de procédure pénale
+suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 al. 1 let. d LOJV [loi vaudoise d’organisation
+judiciaire du 12 décembre 1979 ; BLV 173.01]).
+1.2
+Selon l'art. 67 CPP, la Confédération
+et les cantons déterminent les langues dans lesquelles leurs autorités pénales conduisent
+les procédures (al. 1) ; les autorités pénales cantonales accomplissent tous les actes
+de procédure dans ces langues, la direction de la procédure pouvant autoriser des dérogations
+(al. 2). La jurisprudence déduit de ces dispositions que les actes des parties doivent être
+rédigés dans la langue officielle du canton (ATF 143 IV 117 consid. 2.1). A défaut, un
+délai doit être accordé pour produire, sous peine d’irrecevabilité, une traduction
+dans la langue officielle (ATF 143 IV 117 précité ; TF 6B_1281/2016 du 4 août 2017 consid.
+8.1.2 ; CREP 22 juin 2020/479 consid. 1.3). Dans le canton de Vaud, la langue de la procédure est
+le français (art. 16 LVCPP).
+1.3
+1.3.1
+Le recours s’exerce par le dépôt d’un mémoire écrit et dûment motivé
+(art. 390 al. 1 et 396 al. 1 CPP). Les exigences de motivation du recours sont posées à l’art.
+385 al. 1 CPP. Selon cette disposition, la personne ou l’autorité qui recourt doit indiquer
+précisément les points de la décision qu’elle attaque (let. a), les motifs qui commandent
+une autre décision (let. b) et les moyens de preuves qu’elle invoque (let. c).
+Ainsi, le recourant doit d’abord indiquer « les points de la décision »
+qui sont attaqués (art. 385 al. 1 let. a CPP), par quoi il faut entendre les points du dispositif
+(cf. art. 81 al. 4 CPP) qui devraient être changés et quelle formulation devrait avoir la nouvelle
+décision si le recours était admis (Ziegler/Keller, in : Niggli/Heer/Wiprächtiger
+[éd.], Basler Kommentar, Schweizerische Strafprozess-ordnung, Jugendstrafprozessordnung, 2
+e
+éd., Bâle 2014 [ci-après : Basler Kommentar], n. 1a ad art. 385 StPO ; Pitteloud,
+Code de procédure pénale suisse, Commentaire à l’usage des praticiens, Zurich/St-Gall
+2012, n. 1126 ; CREP 29 novembre 2021/1086 ; CREP 23 juillet 2021/677).
+Le recourant doit ensuite énoncer « les motifs qui commandent une autre décision »
+(art. 385 al. 1 let. b CPP), à savoir les arguments, de fait ou de droit, sur lesquels il prétend
+se fonder pour faire modifier la décision en sa faveur. Cela suppose que le recourant expose précisément,
+en se référant aux considérants de la décision attaquée, quels motifs commandent
+– sous l’angle des faits et du droit – de prendre une autre décision ; le
+recourant ne saurait se contenter d’une contestation générale, notamment se référer
+aux arguments qu’il a invoqués devant l’instance précédente, ni simplement
+reprendre ceux-ci ; il ne saurait non plus se contenter de renvoyer à une écriture ou
+aux pièces qu’il avait déposées devant l’instance précédente (TF
+6B_191/2021 du 11 août 2021 consid. 2 ; TF 6B_510/2020 du 15 septembre 2020
+consid. 2.2 ; TF 1B_472/2019 du 29 octobre 2019 consid. 3.1 ; Keller, in : Donatsch/Lieber/Summers/Wohlers
+[éd.], Zürcher Kommentar, Kommentar zur Schweizerischen Strafprozessordnung, 3
+e
+éd. 2020, n. 14 ad art. 396 StPO et les références citées ; Calame,
+in : Jeanneret et al. [éd.], Commentaire romand, Code de procédure pénale suisse,
+2
+e
+éd., Bâle 2019, n. 21 ad art. 385 CPP ; Guidon, in : Basler Kommentar, op. cit.,
+n. 9c ad art. 396 StPO et les références citées).
+1.3.2
+L’art. 385 al. 2, 1
+re
+phrase, CPP prévoit que si le mémoire ne satisfait pas aux exigences mentionnées à
+l’alinéa 1, l’autorité de recours le renvoie au recourant pour qu’il le complète
+dans un bref délai.
+Cette disposition vise uniquement à protéger le justiciable contre un formalisme excessif de
+la part de l’autorité. Elle ne permet en revanche pas de suppléer un défaut de motivation.
+Il est en effet communément admis en procédure que la motivation d’un acte de recours
+doit être entièrement contenue dans l’acte de recours lui-même. Elle ne saurait
+dès lors être complétée ou corrigée ultérieurement, l’art. 385 al.
+2 CPP ne devant pas être appliqué afin de détourner la portée de l’art. 89
+al. 1 CPP, qui interdit la prolongation des délais fixés par la loi et n’autorise pas
+la partie à compléter un acte dépourvu de motivation (TF 6B_609/2021 du 19 juillet
+2021 consid. 2.4 ; TF 6B_510/2020 précité ; TF 6B_510/2018 du 31 juillet 2018
+consid. 1 et les références citées).
+2.
+En l’espèce, la recevabilité de
+l’acte de recours sous l’angle du respect du délai de recours et de la langue de la
+procédure peut demeurer indécise dès lors que le recours doit de toute manière être
+déclaré irrecevable, faute de satisfaire aux exigences de motivation de l’art. 385 al.
+1 CPP.
+En effet, dans son acte, U.________ se contente d’indiquer qu’il ignore ce qu’il a
+fait pour mériter un tel traitement et un tel refus et qu’il attend que les autorités
+le renseignent sur ce qu’il a fait exactement pour justifier ce refus. Ce faisant, il ne prend
+aucunement appui sur la motivation de la décision attaquée et ne critique pas l’argumentation
+– pourtant claire – de l’Office d’exécution des peines. Cet écrit ne
+permet dès lors pas de comprendre les motifs qui commanderaient une autre décision, de sorte
+que le recours ne satisfait pas aux exigences de motivation de l'art. 385 al. 1 CPP.
+Un tel défaut de motivation ne saurait justifier qu'un délai supplémentaire soit fixé
+au recourant pour compléter son acte en application de l'art. 385 al. 2 CPP.
+3.
+Il résulte de ce qui précède que le recours doit être déclaré irrecevable,
+sans échange d’écritures (art. 390 al. 2 CPP).
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt (art. 422 al. 1 CPP), par 660 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront
+exceptionnellement laissés à la charge de l’Etat.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Les frais d’arrêt, par 660 fr. (six cent soixante francs), sont laissés à la charge
+de l’Etat.
+III.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. U.________, (et par efax),
+-
+Ministère public central, (et par efax),
+et communiqué à :
+‑
+Office d’exécution des peines, (et par efax),
+-
+Direction des Etablissements de la Plaine de l’Orbe, (et par efax),
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
