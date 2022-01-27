@@ -1,0 +1,376 @@
+---
+decision_id: "vd_findinfo_D_cision___2022___86"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2022 / 86"
+decided: "2022-01-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8758900"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-126.md", "switzerland/bund/acts/311.0/art-285.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-420.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# VD Findinfo Décision / 2022 / 86
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, CLASSEMENT{ZONE}, NON-LIEU, RANG, ACQUITTEMENT, IN DUBIO PRO DURIORE, VIOLENCE CONTRE LES AUTORITÉS | 285 ch. 1 CP, 319 CPP (CH), 393 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale Décision / 2022 / 86
+
+CLASSEMENT DE LA PROCÉDURE, CLASSEMENT{ZONE}, NON-LIEU, RANG, ACQUITTEMENT, IN DUBIO PRO DURIORE, VIOLENCE CONTRE LES AUTORITÉS | 285 ch. 1 CP, 319 CPP (CH), 393 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+78
+PE20.020850-LCT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+27 janvier 2022
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+M.
+Meylan et Mme Byrde, juges
+Greffière
+:              Mme
+Desponds
+*****
+Art.
+285 ch. 1 al. 1 CP ; 319 et 393 ss CPP
+Statuant sur le recours interjeté le 8 novembre 2021 par
+E.________
+contre l’ordonnance de classement rendue le 20 octobre 2021 par le Ministère public de l’arrondissement
+de Lausanne dans la cause
+n° PE20.020850-LCT
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 28 novembre 2020, E.________, assistant de sécurité publique, a déposé plainte
+pénale contre U.________. Il lui reprochait de l’avoir, le jour même, à la gare
+CFF de [...], aux alentours de 5h55, tandis qu’il venait d’entamer son service, poussé
+par derrière et menacé verbalement à plusieurs reprises (PV aud. 1).
+Le 28 novembre 2020, la police a procédé à l’audition d’U.________. Celui-ci
+a notamment déclaré : «
+Ce
+matin, j’étais devant la Coop du hall de la gare de [...]. C’était juste avant
+6 heures. Il y avait deux jeunes hommes que je connaissais de vue qui étaient assis. Lorsque l’on
+s’est vu, nous nous sommes approchés les uns des autres. Je leur ai proposé de leur offrir
+une boisson. Peut-être il y avait de l’enthousiasme et l’agent qui était présent
+a cru que je les agressais. L’agent est arrivé. Je ne me rappelle plus bien ce qu’il
+s’est passé. Mais je crois que je lui ai dit que tout allait bien. Il m’a pointé
+du doigt en disant que je faisais le malin. Je l’ai ignoré et j’ai attendu que la Coop
+ouvre. Ensuite vos collègues sont arrivés (...) Je ne vais pas venir vous dire que j’ai
+agressé quelqu’un alors que ce n’est pas vrai. Je l’ai peut-être poussé
+quand il est venu vers nous. Ma volonté à moi c’était d’offrir des boissons
+à ces jeunes par gentillesse. Je n’étais pas dans mon état. J’étais dans
+un état second. Mon but n’était pas d’agresser un homme qui n’a rien fait
+(...) je ne suis pas très lucide. Peut importe ce que j’ai fait je m’en excuse. Je ne
+l’ai jamais touché. Je n’ai rien fait. Je ne pense pas que je l’ai touché
+»
+(PV aud. 2).
+Le jour même, le Ministère public de l’arrondissement de Lausanne a ouvert une instruction
+pénale contre U.________ pour avoir injurié et légèrement poussé E.________
+ainsi que pour séjourner en Suisse sans titre de séjour.
+Le 25 janvier 2021, le Ministère public a procédé à l’audition d’U.________.
+Ce dernier a notamment déclaré : «
+Le
+policier a dû croire que je me faisais agresser parce qu’il est intervenu. Je ne me souviens
+pas bien de ce que j’ai fait mais je lui ai peut-être dit de me laisser tranquille. J’en
+ai reparlé avec les jeunes en question qui m’ont dit que j’avais rien fait de spécial
+(...) Je ne pense vraiment pas l’avoir poussé. En tout cas les deux jeunes m’ont confirmé
+que je ne l’avais pas poussé. Je me souviens qu’il est venu assez agressivement vers
+les jeunes et moi parce qu’il pensait que nous allions nous bagarrer. Dans tous les cas je m’excuse
+auprès du policier pour ce que j’ai fait. J’ai du respect pour les policiers et j’ai
+des bons contacts avec eux
+» (PV aud.
+4, l. 30-47).
+Le 20 mai 2021, le Ministère public a procédé à l’audition d’E.________.
+Celui-ci a confirmé ses déclarations faites à la police le 28 novembre 2020. Il a notamment
+déclaré : «
+J’ai
+eu peur quand il m’a dit je vais te faire du mal. Je me rappelle plus s’il a dit « sale
+flic » ou « sale poulet ». S’agissant des gestes violents, quand
+il m’a poussé c’était violent il n’y a pas de doute là-dessus. C’était
+un geste sec. Vous me faites part que la vidéo ne corrobore pas mes dires. Je ne sais pas quoi dire,
+j’ai eu peur quoiqu’il ait fait, il m’a poussé de manière suffisamment sèche
+et violente pour m’effrayer. En plus, les paroles menaçantes ont suivi juste après. Le
+choc qui a eu un effet sur ma mémoire est dû conjointement aux gestes violents et aux propos
+menaçants d’U.________ qui ont suivi juste après. S’il m’avait juste poussé
+sans les menaces, il est possible que je n’aurais pas déposé plainte
+»
+(PV aud. 5, l. 32-40).
+Il ressort des images de vidéosurveillance du magasin situé à proximité des lieux
+de l’altercation dont E.________ se dit victime qu’entre 5h54 et 5h59, celui-ci se tenait
+debout à quelques mètres des portes coulissantes du commerce. A 5h54’56’’,
+U.________ arrive par derrière et touche de sa main gauche l’agent de sécurité sur
+l’épaule, sans violence. U.________ continue ensuite de marcher et se dirige vers les portes
+coulissantes du commerce, qui sont encore closes. Il fait alors demi-tour. A 5h55’17’’,
+il se retrouve face à E.________. Tous deux ont ce qui semble être un échange verbal.
+On distingue deux autres individus. On ne constate aucun contact physique entre les interlocuteurs en
+cause. A 5h55’30’’, les deux individus précités s’en vont et E.________
+et U.________ poursuivent leur échange. A 5h55’39’’, E.________ s’éloigne
+d’U.________ tandis que ce dernier continue de s’adresser brièvement à lui, avant
+de retourner se poster devant les portes coulissantes. A 5h56’04’’, E.________ s’en
+va pour peu à peu sortir du champ de vision de la caméra ; dans cet intervalle, U.________
+revient dans sa direction en s’adressant à lui ; on ne constate aucun contact physique
+entre les deux individus à cet instant. E.________ n’apparaît plus dans le champ de vision
+de la caméra à partir de 5h56’17’’ et U.________ revient se poster devant
+les portes coulissantes du commerce. Jusqu’à 5h58’19’’ il reste à cet
+endroit et discute avec des passants. Il ne démontre aucune forme d’agressivité physique
+envers qui que ce soit. A 5h58’20’’, deux agents de police arrivent en courant sur
+les lieux, suivis par E.________. Les minutes suivantes, les deux policiers ont un échange verbal
+avec U.________ au cours duquel on ne distingue pas de geste violent de la part de ce dernier. A 5h59’05,
+les portes du commerce s’ouvrent. Les deux policiers, U.________ et E.________ sont toujours en
+train de discuter calmement à quelques pas des portes. A 5h59’38’’, U.________
+avance pour entrer dans le commerce mais est retenu par la parole par les deux agents de police ;
+la discussion se poursuit, E.________ est toujours présent, en retrait. La discussion se termine
+à 6h00’14’’, U.________ entre dans le commerce tandis qu’E.________ discute
+avec les deux policiers.
+B.
+Par ordonnance du 20 octobre 2021, le Ministère
+public a prononcé le classement de la procédure pénale dirigée contre U.________
+pour violence ou menace contre les autorités et les fonctionnaires et infraction à la Loi fédérale
+sur les étrangers (I), a ordonné le maintien au dossier du CD versé sous fiche n°
+29892 à titre de pièce à conviction (II), a dit qu’il n’y avait pas lieu d’octroyer
+à U.________ une indemnité au sens de l’art. 429 CPP (Code de procédure pénale
+du 5 octobre 2007 ; RS 312.0) (III) et a dit qu’E.________ devrait rembourser à l’Etat,
+une fois dite ordonnance définitive et exécutoire, les frais de la procédure, par 1'200
+fr., en application de l’art. 420 CPP (IV).
+Le procureur a relevé qu’U.________ avait contesté formellement s’en être
+pris au plaignant ; qu’il avait expliqué qu’il était en très bons termes
+avec la Police Riviera et que c’était l’agent qui était intervenu, alors qu’il
+était avec des jeunes, pensant peut-être qu’il était en conflit avec ces derniers ;
+qu’il était alcoolisé au moment des faits et ne se souvenait pas exactement de ce qui
+s’était passé, mais qu’il pensait tout au plus avoir demandé à l’agent
+de les laisser tranquilles. Le procureur a observé que la scène avait été filmée
+par les caméras de surveillance de la gare et que les images ne confirmaient pas les accusations
+du plaignant, puisque le prévenu semblait uniquement effleurer E.________, alors que ce dernier
+avait expliqué avoir été violemment poussé au point qu’il serait presque tombé
+à terre. Au vu de ces images qui contredisaient la plainte d’E.________ en ce qui concernait
+les violences qu’il aurait subies, le procureur a considéré qu’aucun crédit
+ne pouvait être donné à ses déclarations, de telle sorte qu’il y avait lieu
+également de mettre en doute la réalité des menaces qu’il reprochait à U.________
+et qui étaient contestées par celui-ci. Concernant l’infraction à la LEI (Loi fédérale
+sur les étrangers et l’intégration d 16 décembre 2005 ; RS 142.20), le procureur
+a retenu que bien que le permis de séjour d’U.________ était échu depuis le 1
+er
+janvier 2019, dans la mesure où une demande de renouvellement était en cours et à rigueur
+des renseignements obtenus auprès du Service de la population, il n’était pas en situation
+illégale lors de son interpellation.
+C.
+Par acte du 8 novembre 2021, E.________, par son
+avocat, Me Charles Piguet, a recouru contre cette ordonnance, en concluant, à son annulation et
+au renvoi de la cause au Ministère public pour poursuite de l’instruction. Il a par ailleurs
+sollicité qu’un second échange d’écritures soit ordonné pour lui permettre
+de faire état de ses observations sur les images de vidéo surveillance.
+Le 12 janvier 2021, le greffe de la Cour de céans a transmis à E.________ le DVD contenant
+les images de vidéosurveillance des évènements survenus le 28 novembre 2020 à
+la gare de [...].
+Le 24 janvier 2021, dans le délai imparti pour prendre position sur ces images, E.________, par
+son avocat, a concédé que sa représentation initiale des faits lui faisait apparaître
+le comportement du prévenu comme étant nettement plus violent que ce que les images permettaient
+de constater mais a estimé qu’il en ressortait toutefois clairement que le comportement d’U.________
+était volontairement provocateur. Il a par ailleurs estimé que ces images témoignaient
+de l’attitude agressive d’U.________ qui corroborait les menaces qu’il lui avait proférées.
+Il a en définitive confirmé les conclusions prises dans son acte du 8 novembre 2021 et a requis
+pour le surplus qu’ordre soit donné au Ministère public d’identifier les employés
+du commerce visibles sur les images de vidéo surveillance et de procéder à leur audition.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance du classement rendue par le ministère public en application
+des art. 319 ss CPP dans les dix jours devant l’autorité de recours (art. 322 al. 2 et 396
+al. 1 CPP ; cf. art. 20 al. 1 let. b CPP [Code de procédure pénale suisse du 5 octobre 2007 ;
+RS 312.0]), qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal
+(art. 13 LVCPP [loi d’introduction du Code de procédure pénale suisse du 19 mai 2009 ;
+BLV 312.01] ; art. 80 LOJV [loi d’organisation judiciaire du 12 décembre 1979 ; BLV 173.01]).
+1.2
+Interjeté en temps utile contre une ordonnance de classement rendue par le Ministère public,
+par le plaignant qui a qualité pour recourir (art. 382 al. 1 CPP), le recours d’E.________
+est recevable.
+2.
+Dénonçant une violation du principe
+«
+in dubio pro duriore
+»,
+le recourant soutient que les faits ont été constatés de manière incomplète
+et erronée, voire arbitraire, par le Ministère public. Il lui reproche de n’avoir pas
+entrepris toutes les mesures d’instruction qui étaient envisageables – auditions des
+employés des commerces alentours et confrontation avec le prévenu – pour établir
+les faits à satisfaction. Il fait en outre grief au procureur d’avoir accordé, sans motif
+valable, davantage de crédit à la version du prévenu plutôt qu’à la sienne,
+alors que les déclarations d’U.________ auraient varié en cours d’enquête.
+2.1
+2.1.1
+Selon l'art. 319 al. 1 CPP, le ministère public ordonne le classement de tout ou partie de la procédure
+lorsqu'aucun soupçon justifiant une mise en accusation n'est établi (let. a), lorsque les éléments
+constitutifs d'une infraction ne sont pas réunis (let. b), lorsque des faits justificatifs empêchent
+de retenir une infraction contre le prévenu (let. c), lorsqu'il est établi que certaines conditions
+à l'ouverture de l'action pénale ne peuvent pas être remplies ou que des empêchements
+de procéder sont apparus (let. d) ou lorsqu'on peut renoncer à toute poursuite ou à toute
+sanction en vertu de dispositions légales (let. e).
+De manière générale, les motifs de classement sont ceux « qui déboucheraient
+à coup sûr ou du moins très probablement sur un acquittement ou une décision similaire
+de l'autorité de jugement » (Message du Conseil fédéral du 21 décembre 2005
+relatif à l'unification du droit de la procédure pénale, FF 2006 pp. 1057 ss, spéc.
+1255). La décision de classer la procédure doit être prise en application du principe
+in dubio pro duriore, qui signifie qu’en règle générale, un classement ou une non-entrée
+en matière ne peut être prononcé par le ministère public que lorsqu’il apparaît
+clairement que les faits ne sont pas punissables ou que les conditions à la poursuite pénale
+ne sont pas remplies. La procédure doit se poursuivre lorsqu’une condamnation apparaît
+plus vraisemblable qu’un acquittement ou lorsque les probabilités d’acquittement et
+de condamnation apparaissent équivalentes, en particulier en présence d’une infraction
+grave. En effet, en cas de doute s’agissant de la situation factuelle ou juridique, ce n’est
+pas à l’autorité d’instruction ou d’accusation mais au juge matériellement
+compétent qu’il appartient de se prononcer (ATF 143 IV 241 consid. 2.2.1, JdT 2017 IV 357 ;
+ATF 138 IV 86 consid. 4.1.1 et les références citées ; TF 6B_1381/2021 du 24 janvier
+2022 consid. 2). En revanche, le ministère public doit classer la procédure s’il apparaît,
+sur la base de faits assez clairs pour qu’il n’y ait pas lieu de s’attendre à
+une appréciation différente de l’autorité de jugement (ATF 143 IV 241 précité),
+qu’un renvoi aboutirait selon toute vraisemblance à un acquittement.
+Pour pouvoir constater légitimement que l’instruction ne corrobore aucun soupçon justifiant
+une mise en accusation (art. 319 al. 1 let. a CPP), le ministère public doit avoir préalablement
+procédé, conformément à la maxime de l’instruction (art. 6 al. 1 CPP), à
+toutes les mesures d’instruction pertinentes susceptibles d’établir l’existence
+de soupçons suffisants justifiant une mise en accusation (CREP 10 mai 2016/305 et les références
+citées).
+2.1.2
+Aux termes de l’art.
+285
+ch. 1 al. 1 CP, celui qui, en usant de violence ou de menace, aura empêché une autorité,
+un membre d’une autorité ou un fonctionnaire à faire un acte entrant dans ses fonctions,
+les aura contraints à faire un tel acte ou se sera livré à des voies de fait sur eux pendant
+qu’ils y procédaient, sera puni d’une peine privative de liberté de trois ans au
+plus ou d’une peine pécuniaire. Cette disposition réprime ainsi deux infractions différentes
+: la contrainte contre les autorités ou les fonctionnaires et les voies de fait contre ceux-ci (TF
+6B_366/2021 du 26 janvier 2022 consid. 3.1 ; TF 6B_1191/2019 du 4 décembre 2019 consid. 3.1 ; TF
+6B_863/2015 du 15 mars 2016 consid. 1.1).
+S’agissant de la première variante, la loi exige la menace d’un dommage sérieux,
+c’est-à-dire que la perspective de l’inconvénient présenté comme dépendant
+de la volonté de l’auteur soit propre à entraver le destinataire dans sa liberté
+de décision ou d’action (ATF 120 IV 17 consid. 2a/aa ; TF 6B_1183/2021 du 6 décembre
+2021 consid. 4.1). La question doit être tranchée en fonction de critères objectifs, en
+se plaçant du point de vue d’une personne de sensibilité moyenne (ATF 122 IV 322 consid.
+1a ; ATF 120 IV 17 consid. 2a/aa ; TF 6B_1253/2019 du 18 février 2020 consid. 4.2).
+Selon la deuxième variante, l’auteur se livre à des voies de fait sur une autorité,
+un membre d’une autorité ou un fonctionnaire pendant qu’ils procèdent à un
+acte entrant dans leurs fonctions. Le membre de l’autorité ou le fonctionnaire agit en cette
+qualité dans le cadre de sa mission officielle et c’est en raison de cette activité que
+l’auteur se livre à des voies de fait sur lui. Le but poursuivi est sans pertinence. Il n’est
+donc pas exigé que l’auteur essaie d’empêcher l’acte officiel (TF 6B_1191/2019
+précité consid. 3.1 et les références citées). La notion de voies de fait est
+la même que celle figurant à l’art. 126 CP. Celles-ci se définissent comme des atteintes
+physiques qui excèdent ce qui est toléré selon l’usage courant et les habitudes
+sociales et qui ne causent ni lésions corporelles, ni dommage à la santé. Une telle atteinte
+peut exister même si elle n’a causé aucune douleur physique (ATF 134 IV 189 consid. 1.2).
+Les voies de fait au sens de l’art. 285 CP doivent revêtir une certaine intensité. Le
+fait de provoquer une situation manifestement inconfortable pour la personne visée, à l’exemple
+d’un crachat, est toutefois suffisant (TF 6B_1191/2019 précité consid. 3.1 et les références
+citées). L’intensité de la violence doit être analysée selon les circonstances
+concrètes ; peu importe dès lors que l’auteur emploie ses mains, ses pieds ou un objet
+(TF 6B_1339/2018 du 21 février 2019 consid. 2.2 et la référence citée). Les voies
+de faits doivent intervenir pendant l’accomplissement de l’acte officiel. Toutefois, une
+interprétation littérale conduirait à des résultats choquants, notamment lorsque
+l’acte étatique revêt un caractère instantané. Il suffit, en fonction de la
+ratio legis, que la violence soit motivée par l’acte officiel et qu’elle se produise
+immédiatement sans qu’il y ait à examiner à quel moment l’acte officiel doit
+être tenu pour être accompli (TF 6B_1338/2018 précité consid. 2.2 ; TF 6B_863/2015
+précité consid. 1.1 et la référence citée). L’art. 285 CP vise également
+tous les cas où les voies de fait sont commises pour obtenir d’un fonctionnaire une action
+positive et non pour l’en empêcher (TF 6B_863/2015 précité consid. 1.2.2).
+2.2
+En l’espèce, s’il est vrai qu’U.________ a dit, lors de sa première audition
+par la police, qu’il n’avait que de vagues souvenirs des évènements, on ne saurait
+pour autant en déduire avec la certitude dont se prévaut le recourant qu’il aurait fait
+preuve d’agressivité tant verbale que physique envers E.________. Seul est établi à
+ce stade le fait que le prévenu était passablement alcoolisé, puisque son organisme accusait
+un taux de 0.79 mg/L à 6h39, respectivement de 0.66 mg/L à 8h12 (P.5). Il est compréhensible
+dans ces circonstances que l’intéressé énonce des souvenirs confus des évènements.
+Par ailleurs et contrairement à ce qu’avance le recourant, U.________ n’a jamais partiellement
+admis les faits tels que dénoncés ; il n’a simplement pas exclu avoir pu adopter
+une attitude inadéquate en raison de son état alcoolisé. Cela, une fois encore, ne suffit
+pas à alimenter la thèse du recourant. Pas plus que le fait qu’U.________ ait présenté
+à plusieurs reprises ses excuses pour son attitude le jour des faits en question.
+Quoi qu’il en soit, si les versions des deux protagonistes divergent, les images de vidéosurveillance
+qui portent sur l’intégralité de la scène litigieuse sont quant à elles très
+claires ; elles ne montrent rien qui corresponde aux dénonciations du recourant. A l’inverse,
+on perçoit distinctement qu’U.________ ne se montre à aucun moment agressif envers E.________,
+pas plus qu’il n’esquisse le moindre geste de bousculade. On voit uniquement le prévenu
+passer la main sur l’épaule du plaignant et, pour le surplus, lui parler.
+S’agissant de la mesure d’instruction visant à identifier les employés du commerce
+visibles sur les images de vidéosurveillance en vue de procéder à leur audition en qualité
+de témoins, on ne distingue pas son utilité. En effet, les images de vidéosurveillance
+suffisent à ôter toute crédibilité à la version du recourant et étayer
+celle d’U.________. Force est au demeurant de relever que ce dernier n’a pas adapté
+sa version au fil de l’instruction, à l’inverse d’E.________, qui tempère
+– et perd en crédibilité – ses propos au gré des éléments de preuve
+qui lui sont soumis.
+Compte tenu des éléments qui précèdent, la version la plus plausible est clairement
+celle du prévenu. Il n’est pas vraisemblable que le prévenu ait poussé le recourant
+et l’on ne perçoit pas non plus d’attitude menaçante de sa part, qui soit de nature
+à envisager la réalisation de l’infraction de violence ou menace contre les autorités
+et les fonctionnaires. On ne distingue pas plus la manière dont le Ministère public aurait
+constaté les faits de manière incomplète ou erronée et aurait contrevenu au principe
+«
+in dubio pro duriore
+»,
+ni aurait fait preuve d’arbitraire ou violé la loi en prononçant le classement de la
+procédure diligentée contre U.________.
+En définitive, en l’absence d’indices concrets de la commission de la moindre infraction,
+c’est à juste titre que le Ministère public a prononcé le classement de la procédure
+et l’ordonnance qu’il a rendue dans ce sens doit être confirmée.
+3.
+Il résulte de ce qui précède que le recours d’E.________, manifestement mal fondé,
+doit être rejeté sans échange d’écritures (art. 390 al. 2 CPP) et l’ordonnance
+du 20 octobre 2021 confirmée.
+Les frais de la procédure de recours, constitués du seul émolument d’arrêt,
+par 1’100 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010 ; BLV 312.03.1]), seront mis à la charge du recourant, qui
+succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 20 octobre 2021 est confirmée.
+III.
+Les frais d’arrêt, par 1’100
+fr. (mille cent francs), sont mis à la charge d’E.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Charles Piguet, avocat (pour E.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. U.________,
+-
+M. le Procureur de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
