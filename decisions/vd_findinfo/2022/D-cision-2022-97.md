@@ -1,0 +1,361 @@
+---
+decision_id: "vd_findinfo_D_cision___2022___97"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2022 / 97"
+decided: "2022-02-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8706538"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-081.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-136.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-323.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-420.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2022 / 97
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ, MOTIVATION DE LA DEMANDE | 310 CPP (CH), 385 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 07.02.2022 Décision / 2022 / 97
+
+DÉCISION D'IRRECEVABILITÉ, MOTIVATION DE LA DEMANDE | 310 CPP (CH), 385 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+108
+PE21.014559-ECO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+7 février 2022
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM
+Meylan et Perrot, juges
+Greffière
+:              Mme
+Choukroun
+*****
+Art.
+385 al. 1 CPP
+Statuant sur le recours interjeté le 5 janvier 2022 par
+A.D.________
+contre l’ordonnance de non-entrée en matière rendue le 22 décembre 2021 par le Procureur
+général du Canton de Vaud dans la cause
+n° PE21.014559-ECO
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Depuis
+2017, A.D.________ a déposé de multiples plaintes dans le Canton de Vaud et le Canton
+de Genève, en lien avec la mise en danger prétendu de son enfant B.D.________ (née
+le [...] 2011 de sa relation avec A.Q.________) par les époux B.Q.________ et C.________,
+parents de son ancien compagnon. Selon la plaignante, ces derniers auraient eu divers comportements ayant
+pu porter atteinte à l’intégrité physique, psychique ou sexuelle de leur petite-fille.
+Les différentes plaintes déposées par A.D.________ ont fait l’objet des ordonnances
+suivantes :
+aa)
+Par ordonnance du 11 avril 2018,
+le Ministère public de l’arrondissement de l’Est vaudois, par la [...], a classé
+la procédure pénale dirigée contre A.Q.________ et C.________ pour actes d’ordre
+sexuel avec des enfants et toute autre forme d’atteinte à l’intégrité physique,
+psychique ou sexuelle de B.D.________, et a mis les frais de procédure à la charge d’A.D.________
+(référence ...]PE17.016274-MYO). Par arrêt du 20 juillet 2018, la Chambre des recours
+pénale du Tribunal cantonal a partiellement admis le recours interjeté par A.D.________ contre
+cette ordonnance, en ce sens que les frais de procédure ont été laissés à la
+charge de l’Etat, l’ordonnance étant confirmée pour le surplus. Par arrêt
+du 14 novembre 2018, la Cour de droit pénal du Tribunal fédéral a rejeté dans la
+mesure où il était recevable le recours interjeté par A.D.________ contre l’arrêt
+cantonal. Par arrêt du 18 décembre 2018, le Tribunal fédéral a également déclaré
+irrecevable une demande de révision de la plaignante.
+ab)
+Par ordonnance du 8 avril 2019, le Ministère public de l’arrondissement de l’Est vaudois
+a refusé de reprendre la procédure préliminaire suite à une nouvelle plainte d’A.D.________
+(référence PE17.016274-MYO). Cette ordonnance a été confirmée par la Chambre
+des recours pénale par arrêt du 29 avril 2019. Par arrêt du 9 octobre 2019, la Cour de
+droit pénal du Tribunal fédéral a rejeté dans la mesure où il était recevable
+le recours d’A.D.________ dirigé contre l’arrêt cantonal.
+ac)
+Par ordonnance du 8 juin 2020, le Ministère
+public de l’arrondissement de l’Est vaudois a refusé d’entrer en matière
+sur une nouvelle plainte d’A.D.________ contre B.Q.________ et C.________, relative
+au même complexe de faits que les procédures précédentes (référence PE20.008831-MYO).
+Cette ordonnance a été confirmée par la Chambre des recours pénale par arrêt
+du 28 septembre 2020. Par arrêt du 27 novembre 2020, la Cour de droit pénal du Tribunal fédéral
+a déclaré irrecevable le recours de la plaignante dirigé contre l’arrêt cantonal.
+ad)
+Par ordonnance du 10 août 2020, le Ministère public de l’arrondissement de l’Est
+vaudois a refusé d’entrer en matière sur de nouvelles plaintes d’A.D.________ contre B.Q.________
+et C.________, déposées toujours en relation avec le même complexe de faits (référence
+...]PE20.013101-OJO). Cette ordonnance a été confirmée par la Chambre des recours pénale
+par un arrêt rendu le 28 septembre 2020. Par arrêt du 27 novembre 2020, la Cour de droit
+pénal du Tribunal fédéral a déclaré irrecevable le recours de la plaignante
+dirigé contre l’arrêt cantonal.
+ae)
+Le 29 juillet 2020, A.D.________ a déposé une plainte pénale contre la Procureure [...]
+pour
+« abus
+d’autorité, calomnie, entrave de (sic) justice en erreur et mise en danger de [s]a fille mineur
+(sic) ».
+Se référant
+à la procédure PE17.016274-MYO qui avait été menée par cette magistrate,
+la plaignante reprochait à la procureure, en bref, de ne pas faire son travail et de ne pas protéger
+un enfant, ainsi que d’avoir versé dans
+« l’abus
+du pouvoir »
+. Le 12 septembre 2020, A.D.________
+s’est rendue au centre de police de la Blécherette pour étendre la plainte déposée
+contre la même procureure aux griefs de
+« mise
+en danger d’un mineur (…), induction de la justice en erreur, calomnie (…), atteinte
+à la personnalité (…), abus d’autorité, violation du secret de fonction et
+toute autre infraction que [s]on récit permettrait de qualifier »
+.
+Par
+ordonnance du 29 octobre 2020, le Procureur général du Canton de Vaud a refusé d’entrer
+en matière sur cette plainte (référence ...]PE20.013369-ECO). Cette ordonnance a
+été confirmée par la Chambre des recours pénale par arrêt du 19 novembre 2020.
+af)
+Par ordonnance du 25 novembre 2020, le Procureur général adjoint du Canton de Vaud a refusé
+d’entrer en matière sur la plainte d'A.D.________(I), lui a refusé l’octroi de
+l’assistance judiciaire et la désignation d’un conseil juridique (II), a dit qu’il
+ne sera donné aucune suite à toute éventuelle plainte pénale qu’A.D.________ viendrait
+à déposer dans le même contexte de faits (III), et a mis les frais, par 450 fr., à
+charge de la plaignante (IV).
+b)
+Le 28 juillet 2021, le Ministère public du Canton de Vaud a reçu du Ministère public du
+canton de Berne une demande de reprise de for portant sur une dénonciation d’A.D.________
+parvenue aux autorités bernoises par courriel daté du 25 juillet 2021 et faisant valoir
+des abus d’autorité commis par « le Pouvoir Judiciaire du Canton de Genève
+et de Vaud » (P. 4). La demande de reprise de for bernoise précisait que concernant la
+plainte contre le Ministère public du Canton de Genève, une demande de reprise de for distincte
+avait été adressée au Ministère public de ce canton.
+La demande de reprise de for a été acceptée par le Ministère public vaudois le 5
+août 2021, ce qui a été confirmé par avis de reprise de cause du 24 août 2021
+notifié à la plaignante. La plainte a été attribuée au Procureur général,
+dans la mesure où elle était dirigée contre l’ensemble des magistrats du Ministère
+public (cf. Directive publique n° 1.4 du Procureur général « Procédures
+pénales dirigées contre des procureurs », ch. 1).
+Par courrier du 31 août 2021, A.D.________ a contesté dite reprise de for, arguant que puisque
+sa plainte était précisément dirigée contre le pouvoir judiciaire vaudois et contre
+son Procureur général, ce dernier n’était pas compétent pour instruire la cause
+(P. 7/1). Au vu de cette contestation, par décision du 2 septembre 2021, définitive et exécutoire,
+le Procureur général a rendu une décision ordonnant la reprise de for.
+Dans sa plainte du 25 juillet 2021, A.D.________ reproche au «
+Pouvoir
+Judiciaire du Canton de
+[…]
+Vaud
+»
+d’avoir commis un «
+abus
+d’autorité et de droit
+[…]
+pour
+couvrir la pédocriminalité de la “grand-mère” “pasteure” que ses
+propres fils et frère ont accusé des pires horreurs
+».
+La plaignante affirme subir depuis sa décision de séparation «
+une
+violance étatique équivalante du terrorisme étati
+[que] ».
+Elle se dit par ailleurs menacée, harcelée et calomniée par les juges suisses (P. 5).
+B.
+Par ordonnance du 22 décembre
+2021, le Procureur général du Canton de Vaud a refusé d’entrer en matière sur
+la plainte (I) et a mis les frais, par 450 fr., à la charge d’A.D.________.
+Il a considéré en premier lieu que les écritures récentes de la plaignante n’apportaient
+aucun fait ou moyen de preuve nouveau s’agissant des faites déjà examinés dans le
+cadre des ordonnances de non-entrée en matière passées en force. L’art. 323 CPP
+ne trouvait donc pas application. Quant aux nouveaux griefs soulevés par la plaignante d’abus
+de droit, de menaces, de harcèlement et de calomnie, portés à l’encontre du « pouvoir
+judiciaire du Canton de Vaud », dans sa plainte du 25 juillet 2021, il a retenu qu’ils
+n’étaient pas explicités ou étayés si ce n’est par des pièces non
+pertinentes ressortant de procédures civiles auxquelles la plaignante était partie. Le Procureur
+général a relevé qu’en réalité, la plaignante était insatisfaite
+des décisions rendues par les autorités judiciaires dans le cadre de ses litiges et que c’était
+pour ce motif qu’elle s’en prenait de manière générale à l’ensemble
+du pouvoir judiciaire du canton de Vaud, mais que sa nouvelle plainte ne visait aucune personne en particulier
+et n’apportait aucun élément susceptible de démontrer l’existence d’une
+infraction pénale, a fortiori commise par un magistrat vaudois. Constatant qu’elle faisait
+preuve « d’acharnement dans le dépôt de plaintes pénales successives,
+non étayées et ne mettant en lumière aucun soupçon de commission d’une infraction »,
+il a mis les frais à sa charge en application de l’art. 420 CPP.
+C.
+Par acte du 5 janvier 2022, A.D.________ a recouru
+auprès de la Chambre des recours pénale contre cette ordonnance en concluant, en substance,
+à l’octroi de l‘assistance juridique, à l’annulation de l’ordonnance
+entreprise et à ce que l’instruction de sa plainte soit reprise « par le canton
+de Berne ou un autre canton alémanique ou italien ».
+Par avis du 14 janvier 2022, la recourante a été invitée à effectuer un dépôt
+de 550 fr. à titre de sûretés avant le 4 février 2022. Par courrier du 24 janvier
+2022, la recourante a requis d’être mise au bénéfice de l’assistance judiciaire.
+Par avis du 31 janvier 2022, la Présidente de la Chambre des recours pénale a dispensé
+A.D.________ de l’avance de frais de procédure, indiquant qu’une décision sur l’octroi
+de l’assistance judiciaire serait rendue ultérieurement s’il y avait lieu et que la
+dispense ne préjugeait pas de l’admission des conditions de cet octroi.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le ministère public en application de l’art. 310
+CPP (Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0) dans les dix jours devant
+l’autorité de recours (art. 310 al. 2, 322 al. 2 et 396 al. 1 CPP ; cf. art. 20 al. 1 let.
+b CPP), qui est, dans le Canton de Vaud, la Chambre des recours pénale du Tribunal cantonal
+(art.
+13 LVCPP [Loi d’introduction du Code de procédure pénale suisse du 19 mai 2009 ; BLV
+312.01] ; art. 80 LOJV [Loi d’organisation judiciaire du 12 décembre
+1979
+; BLV 173.01]).
+1.2
+1.2.1
+Le recours s’exerce par le dépôt d’un mémoire écrit et dûment motivé
+(art. 390 al. 1 et 396 al. 1 CPP). Les exigences de motivation du recours sont posées à l’art.
+385 al. 1 CPP. Selon cette disposition, la personne ou l’autorité qui recourt doit indiquer
+précisément les points de la décision qu’elle attaque (let. a), les motifs qui commandent
+une autre décision (let. b) et les moyens de preuves qu’elle invoque (let. c).
+Ainsi, le recourant doit d’abord indiquer «
+les
+points de la décision
+» qui sont
+attaqués (art. 385 al. 1 let. a CPP), par quoi il faut entendre les points du dispositif (cf. art.
+81 al. 4 CPP) qui devraient être changés et quelle formulation devrait avoir la nouvelle décision
+si le recours était admis (Ziegler/Keller, in : Niggli/ Heer/Wiprächtiger [éd.], Basler
+Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung, 2
+e
+éd.,
+Bâle 2014 [ci-après : Basler Kommentar], n. 1a ad art. 385 StPO ; Pitteloud, Code de procédure
+pénale suisse, Commentaire à l’usage des praticiens, Zurich/St-Gall 2012, n. 1126 ; CREP
+19 février 2021/163).
+Le recourant doit ensuite énoncer «
+les
+motifs qui commandent une autre décision
+»
+(art. 385 al. 1 let. b CPP), à savoir les arguments, de fait ou de droit, sur lesquels il prétend
+se fonder pour faire modifier la décision en sa faveur. Cela suppose que le recourant expose précisément,
+en se référant aux considérants de la décision attaquée, quels motifs commandent
+– sous l’angle des faits et du droit – de prendre une autre décision ; le recourant
+ne saurait se contenter d’une contestation générale, notamment se référer aux
+arguments qu’il a invoqués devant l’instance précédente, ni simplement reprendre
+ceux-ci ; il ne saurait non plus se contenter de renvoyer à une écriture ou aux pièces
+qu’il avait déposées devant l’instance précédente (TF 6B_510/2020 du
+15 septembre 2020 consid. 2.2 ; TF 1B_472/2019 du 29 octobre 2019 consid. 3.1 ; TF 6B_120/2016 du 20
+juin 2016 consid. 3.1 ; Keller, in : Donatsch/Lieber/Summers/Wohlers [éd.], Zürcher Kommentar,
+Kommen­tar zur Schweizerischen Strafprozessordnung, 3
+e
+éd.
+2020, n. 14 ad art. 396 StPO et les réf. cit. ; Calame, in : Jeanneret et al. [éd.], Commentaire
+romand, Code de procédure pénale suisse, 2
+e
+éd.,
+Bâle 2019, n. 21 ad art. 385 CPP ; Guidon, in : Basler Kommentar, op. cit., n. 9c ad art. 396 StPO
+et réf. cit.).
+1.2.2
+L’art. 385 al. 2, 1
+re
+phr.,
+CPP prévoit que si le mémoire ne satisfait pas aux exigences mentionnées à l’al.
+1, l’autorité de recours le renvoie au recourant pour qu’il le complète dans un
+bref délai. Cette disposition vise uniquement à protéger le justiciable contre un formalisme
+excessif de la part de l’autorité. Elle ne permet en revanche pas de suppléer un défaut
+de motivation. Il est en effet communément admis en procédure que la motivation d’un
+acte de recours doit être entièrement contenue dans l’acte de recours lui-même.
+Elle ne saurait dès lors être complétée ou corrigée ultérieurement, l’art.
+385 al. 2 CPP ne devant pas être appliqué afin de détourner la portée de l’art.
+89 al. 1 CPP, qui interdit la prolongation des délais fixés par la loi et n’autorise
+pas la partie à compléter un acte dépourvu de motivation (TF 6B_609/2021 du 19 juillet
+2021 consid. 2.4 ; TF 6B_510/2020 du 15 septembre 2020 consid. 2.2 ; CREP 4 janvier 2021/4
+consid. 4.3 ; CREP 28 mai 2020/413 consid. 1.2).
+1.3
+En l’espèce, la recourante se borne à accuser les procureurs [...] et [...] en relation
+avec les faits qu’elle a dénoncés précédemment et pour lesquels des ordonnances
+de non-entrée en matière ont été rendues, qui sont passées en force.
+Elle
+n’expose aucun grief en relation avec la motivation du Procureur général à cet égard,
+selon laquelle, il n’y avait pas lieu de reprendre la procédure en application de l’art.
+323 CPP. Elle se borne également
+à reproduire
+le texte d’articles de loi. Elle
+n’articule
+toutefois pas le moindre moyen dont on pourrait déduire que la non-entrée en matière prononcée
+par le Procureur général le 22 décembre 2021 serait erronée, ni n’expose
+pour quel motif de fait ou de droit une modification de ladite ordonnance s’imposerait. Partant,
+le recours d’A.D.________, ne satisfaisant pas aux exigences de motivation imposées par l’
+art.
+385 al. 1 CPP
+, doit être d’emblée
+déclaré irrecevable, un tel défaut de motivation ne pouvant justifier l’octroi d’un
+délai supplémentaire pour compléter l’acte de recours en application de l’art.
+385 al. 2 CPP.
+2.
+2.1
+Au vu de ce qui précède,
+le recours interjeté par A.D.________ doit être déclaré irrecevable, sans autre échange
+d’écritures (art. 390 al. 2 CPP).
+2.2
+La recourante demande à bénéficier
+de l’assistance judiciaire pour la procédure de recours.
+L'art. 136 CPP concrétise les conditions
+d'octroi de l'assistance judiciaire pour la partie plaignante dans un procès pénal. Selon
+l'art. 136 al. 1 CPP, la direction de la procédure accorde entièrement ou partiellement l'assistance
+judiciaire à la partie plaignante indigente (let. a) pour lui permettre de faire valoir ses
+prétentions civiles si l'action civile ne paraît pas vouée à l'échec (let. b).
+L'assistance judiciaire comprend l'exonération d'avances de frais et de sûretés (art.
+136 al. 2 let. a CPP), l'exonération des frais de procédure (let. b) et/ou la désignation
+d'un conseil juridique gratuit, lorsque la défense des intérêts de la partie plaignante
+l'exige (let. c).
+Comme le recours était dénué de toute chance de succès et que les conditions d’une
+éventuelle action civile ne sont ainsi manifestement pas réunies, la requête d’assistance
+judiciaire doit être rejetée.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt (art. 422 al. 1 CPP), par 990 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront mis à
+la charge de la recourante, qui doit être considérée comme ayant succombé (art. 428
+al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+La requête d’
+assistance
+judiciaire
+est rejetée.
+III.
+Les frais d’arrêt, par 990 fr. (neuf
+cent nonante francs), sont mis à la charge d’A.D.________.
+IV.
+L’arrêt
+est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Mme A.D.________,
+-
+M. le Procureur général
+du Canton de Vaud,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
