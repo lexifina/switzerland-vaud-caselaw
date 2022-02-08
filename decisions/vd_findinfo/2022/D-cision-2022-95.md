@@ -1,0 +1,366 @@
+---
+decision_id: "vd_findinfo_D_cision___2022___95"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2022 / 95"
+decided: "2022-02-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8803527"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-101.md", "switzerland/bund/acts/312.0/art-107.md", "switzerland/bund/acts/312.0/art-108.md", "switzerland/bund/acts/312.0/art-113.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2022 / 95
+
+## Regeste
+
+CONSULTATION DU DOSSIER, OBLIGATION DE PRODUIRE DES PIÈCES, PIÈCE COMPTABLE, PERQUISITION DE DOCUMENTS ET ENREGISTREMENTS, ADMISSION DE LA DEMANDE | 101 al. 1 CPP (CH), 107 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 08.02.2022 Décision / 2022 / 95
+
+CONSULTATION DU DOSSIER, OBLIGATION DE PRODUIRE DES PIÈCES, PIÈCE COMPTABLE, PERQUISITION DE DOCUMENTS ET ENREGISTREMENTS, ADMISSION DE LA DEMANDE | 101 al. 1 CPP (CH), 107 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+20
+PE20.009416-JRU
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+8 février 2022
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Meylan et Perrot, juges
+Greffière
+:              Mme
+de Benoit
+*****
+Art.
+101 al. 1 et
+107
+al. 1 let. a CPP
+Statuant sur le recours interjeté le 3 décembre 2021 par
+R.________
+contre l’ordonnance rendue le 22 novembre 2021 par le Ministère public de l’arrondissement
+de La Côte dans la cause
+n° PE20.009416-JRU
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 15 juin 2020, la société T.________, par ses administrateurs, a déposé plainte
+contre R.________, en sa qualité d’administrateur, de fondé de pouvoir et enfin d’employé,
+notamment pour gestion déloyale, appropriation illégitime et accès indu à un système
+informatique. Elle lui reproche de lui avoir fait supporter des frais ou d’avoir obtenu indûment
+le remboursement de frais relevant de dépenses purement privées ou à charge d’autres
+entités pour un montant total de plus de 265'000 fr. entre 2015 et le début 2020, mais encore
+des factures provenant de sociétés dont l’ayant droit est l’intéressé,
+sans aucune justification. Il lui est également reproché d’avoir emporté différents
+biens appartenant à la plaignante, refusé de les restituer, indument adressé un commandement
+de payer portant sur des prétentions infondées, développé et exercé des activités
+concurrentes à la société, accédé indument au système informatique de la
+société pour y supprimer du contenu, notamment des messages électroniques, ainsi que contrôlé
+les messages émis par C.________.
+Par mandat d’investigation du 24 septembre 2021, le Ministère public de l’arrondissement
+de La Côte (ci-après : Ministère public) a notamment donné instruction à
+la police de procéder à la perquisition du domicile de R.________ et de procéder à
+son audition.
+Cette perquisition a été exécutée le 19 janvier 2021 et s’est notamment soldée
+par la saisie des documents administratifs de R.________. Il ressort de l’inventaire de perquisition
+que la police a saisi une clé USB contenant la comptabilité de la société Z.________,
+dont R.________ est administrateur.
+Le 23 février 2021, R.________ a requis du Ministère public qu’il donne ordre à
+T.________ de produire sa comptabilité ainsi que d’autres documents administratifs. Le 11 mars
+2021, le Ministère public a ordonné la production de documents comptables de la part de T.________.
+Le 11 mars 2021 également, le Ministère public a requis de R.________ qu’il produise
+un certain nombre de documents concernant ses sociétés, notamment les comptes de Z.________
+depuis 2008 (P. 28).
+Le 1
+er
+avril 2021, R.________ a indiqué que les documents demandés étaient vraisemblablement
+en mains de la police, celle-ci ayant perquisitionné son domicile et emporté toute la documentation
+dont il disposait. Il a néanmoins produit quelques factures de ses sociétés.
+Le 9 avril 2021, T.________ a produit un lot de documents contenus sur une clé USB, qui font
+l’objet de la pièce 44, tandis que la clé USB a été versée au dossier
+à titre de pièce à conviction ; la fiche de pièce à conviction n
+o
+41665, du 21 avril 2021, fait ainsi l’objet de la pièce 45.
+Le 21 avril 2021, R.________ a requis la consultation du dossier.
+Les 23 avril et 24 juin 2021, le Ministère public a remis à R.________, par l’intermédiaire
+de son défenseur, la photocopie numérique du dossier par voie informatique, laquelle ne contenait
+toutefois pas les pièces 44 et 45.
+B.
+Les 21 mai, 28 juillet, 3, 9 et 17 septembre 2021,
+R.________ a demandé la consultation de l’entier du dossier, y compris la comptabilité
+de la société plaignante T.________ qu’il avait requise.
+Le 8 septembre 2021, le Ministère public a relevé que R.________ n’avait pas donné
+suite à sa réquisition de produire des pièces comptables et a précisé qu’aucune
+consultation ne serait accordée tant que ces documents ne seraient pas au dossier (P. 62).
+Le 24 novembre 2021, R.________ a répété que, selon toute vraisemblance, les documents
+sollicités se trouvaient en mains des autorités de poursuite pénale, rappelant que l’inventaire
+établi ensuite de la perquisition mentionnait la saisie d’une clé USB contenant la comptabilité
+de la société Z.________. Estimant que la condition posée par le Ministère public
+était déjà remplie, il a requis une nouvelle fois la consultation du dossier complet de
+la procédure.
+Par ordonnance du 22 novembre 2021, le Ministère public de l’arrondissement de La Côte
+a refusé à R.________ la consultation des pièces 44 et 45 de la procédure jusqu’à
+ce que ce dernier produise la comptabilité de la société Z.________, selon la requête
+qui lui avait été adressée (I), et a dit que les frais suivaient le sort de la cause (II).
+Le procureur a considéré que l’avancement de l’instruction ne permettait qu’une
+consultation partielle et a relevé que le prévenu n’avait pas donné suite à
+la requête de production de factures (
+recte
+:
+la comptabilité) de Z.________, mis à part la production de copies de quelques factures. Sa
+demande de consultation s’apparentait ainsi à une forme de
+fishing
+operation
+(
+recte
+:
+expedition
+),
+de sorte qu’il y avait lieu de restreindre la consultation des pièces requises, soit les pièces
+44 et 45, en application de l’art. 101 al. 1 CPP.
+Le 24 novembre 2021, R.________ a encore indiqué au Ministère public que celui-ci était
+déjà en possession de la comptabilité de Z.________, faisant référence à
+la clé USB saisie lors de la perquisition opérée à son domicile le 19 janvier
+2021 (P. 74).
+C.
+Par acte du 3 décembre 2021, R.________,
+par son conseil, a formé recours contre l’ordonnance précitée, en concluant, avec
+suite de frais et dépens, à sa réforme en ce sens qu’ordre soit donné au Ministère
+public de lui octroyer un accès complet au dossier pénal. A titre subsidiaire, il a conclu
+à la réforme de l’ordonnance entreprise en ce sens qu’ordre soit donné au
+Ministère public de lui octroyer un accès à toutes les pièces du dossier, excepté
+les pièces 44 et 45.
+Le 3 décembre 2021, le Ministère public a indiqué à R.________ qu’après
+interpellation, l’enquêtrice chargée des investigations policière avait confirmé
+avoir retrouvé la comptabilité sur les supports informatiques saisis, mais aucune pièce
+justificative. Le courriel de l’inspectrice, joint en copie, mentionne en particulier que l’extraction
+de la clé USB n’avait pas encore été effectuée, étant précisé
+qu’il était possible que les documents ne puissent pas être lus et qu’il serait
+ainsi préférable de solliciter la production de cette documentation sous format papier, le
+prévenu disposant toujours des fichiers originaux, qui se trouvaient sur son Cloud lors de la perquisition
+à son domicile. Le Ministère public a ainsi, une fois de plus, fixé un délai au prévenu
+pour produire les documents requis (P. 76).
+Le 29 décembre 2021, dans le délai imparti à cet effet, le Ministère public a produit
+ses déterminations auprès de la Chambre de céans et a conclu au rejet du recours, aux
+frais de son auteur.
+Le 30 décembre 2021, dans le délai imparti à cet effet, T.________, par son conseil, a
+produit ses déterminations et a conclu au rejet du recours et à la confirmation de la décision
+entreprise.
+Le 13 janvier 2022, R.________ a déposé des observations complémentaires, confirmant les
+conclusions de son recours.
+Le 27 janvier 2022, T.________ a encore déposé des déterminations complémentaires.
+Il ressort des indications figurant au Registre du commerce accessible sur Internet, qui sont notoires
+(ATF 143 IV 380 consid. 1.1.1 et les réf. ; TF 6B_145/2021 du 3 janvier 2022 consid. 1.2)
+que la société T.________ a été déclarée en faillite le 31 janvier 2022,
+avec effet à partir du même jour, à 10h30. Sa raison sociale est depuis lors T.________
+en liquidation.
+En droit
+:
+1.
+L'art. 393 al. 1 let. a CPP ouvre la voie du recours
+contre les décisions du Ministère public. Le recours s'exerce par le dépôt, dans
+les dix jours, d'un mémoire motivé adressé à l'autorité de recours, soit, dans
+le canton de Vaud, à la Chambre des recours pénale du Tribunal cantonal (art. 396 al. 1 CPP ;
+art. 13 al. 1 LVCPP [loi vaudoise d’introduction du Code de procédure
+pénale suisse du 19 mai 2009 ; BLV 312.01]).
+En l’espèce, interjeté dans le délai légal, auprès de l'autorité
+compétente et dans les formes prescrites (art. 385 al. 1 CPP), par le prévenu qui a un intérêt
+juridiquement protégé (art. 382 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Le recourant se plaint en premier lieu d’une
+constatation inexacte des faits, arguant qu’il avait eu accès au dossier le 24 juin 2021,
+soit après que la partie plaignante avait produit les pièces requises, mais que le dossier
+électronique transmis par le Ministère public mentionnait simplement que la pièce 44 était
+« hors onglet », sans autre indication de limitation à la consultation du dossier.
+Il expose également qu’il était fort probable que les documents dont la production était
+requise de sa part étaient déjà en possession des autorités pénales, puisqu’ils
+avaient été saisis par la police lors de la perquisition à son domicile. La motivation
+que lui prêtait le Ministère public pour justifier sa demande d’accès (qui s’apparenterait
+à une
+fishing operation
+[
+recte
+:
+expedition
+]) serait ainsi erronée. Le recourant
+en déduit que, puisque le Ministère public, respectivement la police, serait déjà
+en possession des documents dont la production était demandée, la consultation des pièces
+44 et 45 devrait être autorisée. Il invoque en outre que le Ministère public aurait violé
+l’art. 101 al. 1 CPP en refusant l’accès au dossier pour des pièces qui ne
+feraient pas l’objet d’une restriction ; c’est ainsi à tort qu’il n’avait
+pas pu consulter le dossier depuis le 25 juin 2021.
+2.2
+Le droit d'être entendu, garanti
+par les art. 29 al. 2 Cst. (Constitution fédérale de la Confédération suisse du 18
+avril 1999 ; RS 101) et 3 al. 2 let. c CPP implique notamment le droit d’avoir accès
+au dossier (ATF 135 I 187 consid. 2.2 ; ATF 129 II 497 consid. 2.2).
+L'accès au dossier est garanti aux parties de manière générale par l'art. 107
+al. 1 let. a CPP, selon lequel une partie a le droit d’être entendue et, à ce titre,
+peut notamment consulter le dossier.
+Selon l'art. 101 al. 1 CPP, les
+parties peuvent consulter le dossier d'une procédure pénale pendante, au plus tard après
+la première audition du prévenu et l'administration des preuves principales par le Ministère
+public ; l'art. 108 CPP est réservé.
+L’art. 101 al. 1 CPP pose deux conditions cumulatives à la consultation du dossier. Ainsi,
+cette consultation est possible, au plus tard, après la première audition du prévenu par
+le Ministère public, d’une part, et après l’administration des preuves principales
+par celui-ci, d’autre part (Fontana,
+in
+:
+Jeanneret/Kuhn/Perrier Depeursinge [édit.], Commentaire romand, Code de procédure pénale
+suisse, 2
+e
+éd.,
+Bâle 2019, n. 4 ad art. 101 CPP). S’agissant de la première condition («
+après
+la première audition du prévenu
+(…)
+par
+le ministère public
+»),
+le législateur a clairement refusé de manière générale au prévenu le droit
+de consulter le dossier au début de la procédure, celle-ci pouvant mettre en péril la
+recherche de la vérité matérielle. Le texte légal ne précise pas si la personne
+concernée, lors de son audition par le ministère public, doit s’être effectivement
+exprimée sur les faits de la cause ; la doctrine majoritaire est d’avis que cette disposition
+s’applique même si le prévenu a fait usage du droit de se taire ou a refusé de collaborer
+lors de son audition par le procureur (Brüschweiler/Grünig,
+in
+:
+Donatsch/Lieber et al. [édit.], Zürcher Kommentar StPO, 3
+e
+éd.,
+Zurich/Bâle 2020, n. 4 ad art. 101 StPO et les références citées; Fontana, op.
+cit., n.
+4a
+ad art. 101 CPP). Quant à la seconde condition («
+l’administration
+des preuves principales par le ministère public
+»),
+il s’agit d’une notion indéterminée qui doit être interprétée au
+cas par cas ; le CPP ne contient pas de définition légale ou un «
+numerus
+clausus
+» des preuves.
+Par «
+preuves
+principales
+», il faut
+comprendre celles dont la mise en œuvre se révèle indispensable à l’objectif
+de l’instruction, à savoir la recherche de la vérité matérielle ; il s’agit,
+en règle générale, de l’audition du ou des prévenus, y compris de confrontation,
+de l’audition de la ou des victimes, de l’audition des principaux témoins, des perquisitions
+et séquestres, de l’extraction des données électroniques, des expertises médico-légales
+et des rapports de la police scientifique (TF 1B_4/2017 du 3 mars 2017 consid. 4.3 ; Brüschweiler/Grünig,
+op. cit., n. 5 ad art. 101 StPO et les références citées ; Fontana, op.
+cit., n. 4b ad art. 101 CPP et les références citées).
+La direction de la procédure statue sur la consultation des dossiers (art. 102 al. 1, 1
+re
+phr.,
+CPP).
+2.3
+En l’espèce, le recourant a déjà pu consulter le dossier à deux reprises, la
+dernière fois le 24 juin 2021, mais les pièces 44 et 45 n’y figuraient pas. Depuis
+lors, le Ministère public lui a refusé l’accès au dossier, subordonnant une nouvelle
+consultation à la production par le recourant des pièces requises. Il est en effet exact que
+le recourant n’a pas produit celles-ci sous forme papier, hormis quelques factures. Comme le soutient
+le recourant et selon les déterminations du Ministère public, il apparaît cependant que
+la police est bien en possession d’une clé USB sur laquelle se trouverait la comptabilité
+de la société Z.________. Ces faits ne figurant pas dans la décision attaquée, le
+grief de constatation incomplète des faits doit être admis. Cependant, faute pour la police
+d’avoir encore examiné la clé USB en question, alors même que celle-ci est à
+sa disposition depuis le 19 janvier 2021 (P. 20 et 21), le Ministère public ignore en réalité
+quels documents comptables elle contient et si ceux-ci peuvent être lus. La police devrait pourtant
+être en mesure de vérifier l’existence de ces fichiers numériques depuis près
+d’une année. Par conséquent, le Ministère public pose une condition à la consultation
+des pièces 44 et 45 du dossier alors même qu’il est possible que celle-ci soit déjà
+remplie. La production des pièces requises étant le seul moyen invoqué à l’appui
+de la restriction de consultation, alors même que celle-ci, comme on l’a vu, n’apparaît
+pas forcément nécessaire ni justifiée, la décision contestée est dépourvue
+de fondement à ce stade et doit être annulée.
+En définitive, il appartiendra au Ministère public d’inviter la police à analyser
+rapidement la clé USB contenant la comptabilité de la société Z.________. Ainsi,
+dans l’hypothèse où les documents requis en mains du recourant figurent effectivement
+sur cette clé USB et sont consultables par les autorités pénales, le solde du dossier,
+y compris les pièces 44 et 45, doit pouvoir être consulté par le recourant, sous réserve
+d’autres motifs de refus de consultation, au sens de l’art. 101 CPP. Dans le cas contraire,
+les mesures d’instruction ordonnées par le Ministère public pourraient encore se heurter
+au droit de refuser de collaborer du recourant, conformément à l’art. 113 CPP, étant
+précisé que de nouvelles mesures de contrainte, telles qu’une perquisition ou un séquestre,
+resteraient possibles.
+3.
+Il s’ensuit que le recours doit être admis et l’ordonnance attaquée annulée.
+Le dossier de la cause sera renvoyé au Ministère public de l’arrondissement de La Côte
+pour qu’il procède dans le sens des considérants.
+Les frais d'arrêt, par 990 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront mis à la charge
+de l’intimée T.________ en liquidation, qui succombe (art. 428 al. 1 CPP).
+Le recourant, qui a
+procédé avec l’assistance d’un avocat et qui a obtenu gain de cause, a droit à
+une indemnité pour les dépenses occasionnées par la procédure de recours. Au vu du
+mémoire de recours, de la réplique du recourant et des écritures déposées durant
+la procédure de recours dont celui-ci a dû prendre connaissance, les honoraires peuvent être
+fixés à 1’500 fr., correspondant à 5 heures d’activité nécessaires
+à 300 fr. de l’heure (cf. art. 26a al. 3 TFIP), auxquels s’ajoutent les débours
+forfaitaires de 2 %, par 30 fr. (cf. art. 26a TFIP qui renvoie à l'art. 19 al. 2
+TDC [tarif des dépens en matière civile du 23 novembre 2010 ; BLV 270.11.6]), ainsi
+qu’un montant correspondant à la TVA (cf. par ex. CREP 4 juin 2019/459 consid. 3 ; CREP
+3 juin 2019/352), par 117 fr. 85, ce qui totalise 1'647 fr. 85. En définitive, il sera alloué
+à ce titre à R.________ un montant arrondi de 1’648 fr., à la charge de T.________
+en liquidation (art. 432 al. 1 et 436 CPP ; TF 6B_938/2017 du 2 juillet 2018 consid. 7.2).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 22 novembre 2021 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l’arrondissement de La Côte pour qu’il procède dans le sens des considérants.
+IV.
+Une indemnité de 1'648 fr. (mille six cent quarante-huit francs) est allouée au recourant R.________
+pour l’exercice raisonnable de ses droits dans la procédure de recours, à la charge de
+T.________ en liquidation.
+V.
+Les frais d’arrêt, par 990 fr. (neuf cent nonante francs), sont mis à la charge de T.________
+en liquidation.
+VI.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Steve Gomes, avocat (pour R.________),
+-
+Me Thomas Roullet, avocat (pour T.________ en liquidation).
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
