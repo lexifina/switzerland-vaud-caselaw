@@ -1,0 +1,615 @@
+---
+decision_id: "vd_findinfo_D_cision___2022___93"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2022 / 93"
+decided: "2022-02-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8697246"
+cites_law: ["switzerland/bund/acts/101/art-007.md", "switzerland/bund/acts/101/art-009.md", "switzerland/bund/acts/101/art-010.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/173.110/art-097.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-106.md", "switzerland/bund/acts/311.0/art-081.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-136.md", "switzerland/bund/acts/312.0/art-139.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-389.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-391.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2022 / 93
+
+## Regeste
+
+DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION, MOTIVATION DE LA DEMANDE, TRAVAIL, EXÉCUTION DES PEINES ET DES MESURES, MESURE DISCIPLINAIRE, INTÉRÊT ACTUEL, ADMINISTRATION DES PREUVES, INTERDICTION DE L'ARBITRAIRE | 81 al. 1 CP, 29 al. 2 Cst., 38 LEP, 382 al. 1 CPP (CH), 385 al. 1 CPP (CH), 389 CPP (CH), 38 RDD, 39 RSPC
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 10.02.2022 Décision / 2022 / 93
+
+DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION, MOTIVATION DE LA DEMANDE, TRAVAIL, EXÉCUTION DES PEINES ET DES MESURES, MESURE DISCIPLINAIRE, INTÉRÊT ACTUEL, ADMINISTRATION DES PREUVES, INTERDICTION DE L'ARBITRAIRE | 81 al. 1 CP, 29 al. 2 Cst., 38 LEP, 382 al. 1 CPP (CH), 385 al. 1 CPP (CH), 389 CPP (CH), 38 RDD, 39 RSPC
+
+TRIBUNAL
+CANTONAL
+110
+AP22.001899
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+10 février 2022
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Meylan et Krieger, juges
+Greffière
+:              Mme
+Maire Kalubi
+*****
+Art.
+29 al. 2 Cst. ; 95 et 97 LTF ; 81 al. 1 CP ; 382 al. 1, 385 al.1, 389 CPP ; 38 LEP ;
+39 RSPC ; 38 RDD
+Statuant sur le recours interjeté le 1
+er
+février 2022 par
+D.________
+contre la décision rendue le 21 janvier 2022 par la Cheffe du Service pénitentiaire dans la
+cause
+n° AP22.01899
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+D.________, né le [...] 1986, est incarcéré
+depuis le 9 février 2021 aux Etablissements de la plaine de l’Orbe (ci-après :
+EPO), où il exécute diverses peines privatives de liberté.
+b)
+Le 5 août 2021, D.________ a refusé
+d’exécuter le travail donné par le remplaçant du chef de l’atelier « charpente »,
+auquel il était affecté ; il est ensuite retourné dans sa cellule pour la journée
+et n’a pas travaillé, outre le 5 août 2021, les 6 et 9 août 2021.
+Par décision de sanction disciplinaire du
+18 août 2021, la Direction des EPO a prononcé à son encontre trois jours de suppression
+temporaire, complète ou partielle, de télévision, pour inobservation des règlements
+et directives.
+Le 23 août 2021, D.________ a recouru auprès du Service pénitentiaire (ci-après :
+SPEN) contre cette décision, invoquant en substance qu’il ne pourrait pas travailler dans
+un tel atelier pour des raisons médicales justifiées par un certificat médical émis
+par le Service de médecine et psychiatrie pénitentiaires (ci-après : SMPP).
+Le
+6 septembre 2021, la Direction des EPO s’est déterminée et a conclu que la décision
+de sanction disciplinaire était manifestement légitime et proportionnée, compte tenu de
+la nature des agissements du détenu, du contenu ressortant du certificat médical du 28 juin
+2021 réalisé par le SMPP, des mesures adaptées en place au sein de l’atelier « charpente »
+pour pallier la problématique somatique de D.________ relevée par le SMPP, de ses antécédents
+disciplinaires et des nouvelles décisions de sanctions disciplinaires rendues à son encontre
+et constitutives d’une multi-récidive spéciale, ainsi que de son absence de collaboration
+avec les intervenants professionnels jusqu’alors.
+c)
+Entre le 10 et le 13 août 2021, puis entre le 16 et le 18 août 2021, D.________ ne s’est
+pas présenté à l’atelier « charpente » auquel il était
+affecté.
+Par décisions de
+sanctions disciplinaires des 25 août et 1
+er
+septembre 2021,
+la Direction des EPO a prononcé six jours, respectivement sept jours de suppression de télévision
+à son encontre pour inobservation des règlements et directives.
+Dans ses recours des 30
+août et 6 septembre 2021
+auprès
+du SPEN, D.________ a invoqué les mêmes motifs que ceux présentés dans son recours
+du 23 août 2021.
+Le 23 septembre 2021,
+la Direction des EPO a conclu à la confirmation des deux décisions de sanctions disciplinaires
+entreprises, pour les mêmes motifs que ceux invoqués dans ses déterminations du 6 septembre
+2021. Elle a notamment rappelé que l’intéressé n’était pas au bénéfice
+d’un certificat d’incapacité de travail, mais uniquement d’un certificat du SMPP
+mettant en lumière les modalités dans lesquelles il devait travailler en raison de ses allergies,
+de sorte que ses absences devaient être considérées comme injustifiées, relevant
+par ailleurs que des mesures sanitaires existaient au sein de l’atelier « charpente »
+afin que les personnes y évoluant ne soient pas impactées dans leur santé, telles que
+la mise à disposition de masques professionnels pour les travaux engendrant de la poussière.
+d)
+Entre le 23 et le 26 août 2021, D.________ ne s’est pas présenté à l’atelier
+« charpente » auquel il était affecté.
+Par décision de sanction disciplinaire du 8 septembre 2021, la Direction des EPO a prononcé
+à son encontre quatorze jours de suppression du matériel média pour inobservation des
+règlements et directives.
+Le 13 septembre 2021, D.________ a recouru auprès du SPEN contre cette décision et a requis
+de pouvoir travailler dans un endroit stérile sans particule de poussière.
+Par acte du 28 septembre 2021, la Direction des EPO a renvoyé à ses déterminations des
+6 et 23 septembre 2021, relevant pour le surplus que D.________ s’était engagé, par courrier
+du 27 septembre 2021, à se rendre à l’atelier « charpente » dès
+lors que certains aménagements avaient été apportés à sa place de travail, laquelle
+avait été approuvée par le SMPP, le détenu ayant toutefois précisé que
+«
+si des effets néfastes
+ou qui pourront provoquer atteinte à [s]on intégrité physique ou à [s]a santé
+de quelque manière ou façon que soit, [il] quitterai[t] les lieux aussitôt et définitivement
+».
+e)
+Entre le 30 août et le 1
+er
+septembre 2021, entre le 3 et le 8 septembre 2021, entre le 9 et le 14 septembre 2021 et entre le
+15 et le 17 septembre 2021, D.________ ne s’est pas présenté à l’atelier
+« charpente » auquel il était affecté.
+Par
+décisions de sanctions disciplinaires des 15, 22 et 29 septembre 2021, la Direction des
+EPO a respectivement prononcé à l’encontre du détenu deux jours d’arrêts
+disciplinaires avec sursis pendant trente jours, la révocation du précédent sursis et
+deux jours d’arrêts disciplinaires supplémentaires, ainsi qu’un avertissement pour
+inobservation des règlements et directives.
+Par actes des 21, 27 septembre
+et 4 octobre 2021, D.________ a recouru auprès du SPEN contre chacune de ces décisions.
+Le 12 octobre 2021, considérant
+que les trois décisions de sanction contestées s’inscrivaient dans un complexe de faits
+identique à celui des précédentes décisions, la Direction des EPO a renvoyé
+à ses déterminations des 6 et 23 septembre 2021 et à leur complément du 28 septembre 2021,
+précisant qu’au vu de la multi-récidive spéciale que représentaient les agissements
+de l’intéressé, la nature de la sanction s’était modifiée, les arrêts
+disciplinaires avec sursis, puis fermes, étant d’une part justifiés et proportionnés
+compte tenu des antécédents disciplinaires du détenu et de son absence persistante de
+collaboration malgré la prise en compte de sa situation somatique et, d’autre part, par des
+motifs de prévention spéciale. En prononçant un avertissement dans sa décision du
+29 septembre 2021, la Direction des EPO a par ailleurs indiqué avoir souhaité quittancer
+le fait que l’intéressé se rendait depuis le 24 septembre 2021 au sein de l’atelier
+« charpente », où il travaillait à un poste adapté, soit au montage
+et démontage des palettes à l’extérieur des locaux.
+f)
+Le 11 octobre 2021, D.________ a déposé des observations complémentaires.
+B.
+Par décision du 21 janvier 2022, la Cheffe
+du Service pénitentiaire a rejeté les recours formés les 23, 30 août, 6, 13, 21,
+27 septembre et 4 octobre 2021 par D.________ (I), a confirmé les décisions de sanctions
+disciplinaires rendues les 18, 25 août, 1
+er
+,
+8, 15, 22 et 29 septembre 2021 par la Direction des EPO à l'encontre de D.________ (II),
+a rejeté les requêtes d’assistance judiciaire (III) et a dit que sa décision était
+rendue sans frais (III).
+Après avoir constaté que les faits à l’origine des décisions contestées
+étaient établis, la Cheffe du Service pénitentiaire a en substance considéré
+que les sanctions prononcées par la Direction des EPO apparaissaient manifestement légitimes
+et proportionnées compte tenu des faits reprochés au recourant et de sa persistance à
+refuser de se rendre à l’atelier malgré les mesures prises à son égard et la
+confirmation par le SMPP que la place de travail était adaptée à son état de santé.
+C.
+a)
+Par acte du 1
+er
+février 2022 assorti d’une requête d’effet suspensif, D.________ a recouru auprès
+de la Chambre de céans contre cette décision, en concluant en substance principalement, sous
+suite de frais et dépens, à son annulation, une indemnité de 350'000 fr. lui étant
+allouée au titre des art. 429, 431 et 436 CPP (Code de procédure pénale suisse du 5 octobre
+2007 ; RS 312.0). A titre subsidiaire, il a conclu à l’annulation de la décision
+entreprise et au renvoi de la cause au SPEN pour nouvelle décision dans le sens des considérants.
+Il a par ailleurs requis d’être mis au bénéfice de l’assistance judiciaire
+pour la procédure de recours.
+Le recourant a en outre produit douze pièces.
+b)
+Par décision du 2 février 2022, la Présidente de la Chambre de céans, considérant
+que les requêtes d’effet suspensif déposées par l’intéressé en cours
+de procédure avaient été rejetées les 30 août, 8 et 23 septembre ainsi que les
+4 et 6 octobre 2021, a rejeté la requête d’effet suspensif dans la mesure de sa
+recevabilité, relevant que les sanctions disciplinaires contestées avaient déjà été
+exécutées et que la requête n’était au demeurant pas motivée à satisfaction.
+c)
+Il n’a pas été ordonné d'échange d'écritures.
+En droit
+:
+1.
+1.1
+En vertu de l’art. 38 al. 1 LEP (loi vaudoise
+sur l'exécution des condamnations pénales du 4 juillet 2006 ; BLV 340.01), les décisions
+rendues sur recours par le Service pénitentiaire peuvent faire l'objet d'un recours auprès
+du Tribunal cantonal. Selon l’art. 38 al. 2 LEP, la procédure est régie par les dispositions
+du CPP relatives au recours.
+Le recours doit ainsi être adressé par écrit, dans un délai de dix jours dès
+la notification de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité
+de recours (art. 396 al. 1 CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du
+Tribunal cantonal (art. 13 LVCPP [loi vaudoise d’introduction du Code de procédure pénale
+suisse du 19 mai 2009 ; BLV 312.01] et art. 80 LOJV [loi vaudoise d’organisation judiciaire du
+12 décembre 1979 ; BLV 173.01]).
+1.2
+L'art. 385 al. 1 CPP énonce que si le Code exige que le recours soit motivé, la personne ou
+l'autorité qui recourt doit indiquer précisément, les points de la décision qu'elle
+attaque (let. a), les motifs qui commandent une autre
+décision
+(let. b) et les moyens de preuve qu'elle invoque (let. c).
+Les motifs au sens de l'art. 385 al. 1 let. b CPP se réfèrent aux différents motifs de
+recours énoncés à l’art. 393 CPP, soit la violation du droit, y compris l’excès
+ou l’abus du pouvoir d’appréciation (art. 393 al. 2 let. a CPP), ou la constatation
+incomplète ou erronée des faits (art. 393 al. 2 let. b CPP) ; cela suppose, sous peine d’irrecevabilité,
+que le recourant expose précisément, en se référant aux considérants de la décision
+attaquée, quels motifs commandent – sous l’angle des faits et du droit – de prendre
+une autre décision ; le recourant ne saurait se contenter d’une contestation générale,
+notamment se référer aux arguments qu’il a invoqués devant l’instance précédente,
+ni simplement reprendre ceux-ci ; il ne saurait non plus se contenter de renvoyer à une écriture
+ou aux pièces qu’il avait déposées devant l’instance précédente
+(TF 6B_510/2020 du 15 septembre 2020 consid. 2.2 ; TF 1B_472/2019 du 29 octobre 2019 consid.
+3.1; Keller, in : Donatsch/Lieber/Summers/Wohlers [éd.], Zürcher Kommentar, Kommentar
+zur Schweizerischen Strafprozessordnung, 3
+e
+éd. 2020, n. 14 ad art. 396 StPO et les références citées ; Guidon, in :
+Niggli/Heer/Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung,
+2
+e
+éd.,
+Bâle 2014 [ci-après : Basler Kommentar], n. 9c ad art. 396 StPO et les références
+citées).
+1.3
+En matière de sanctions disciplinaires, l’art. 38 al. 3 LEP restreint les motifs de recours
+admissibles à ceux fixés aux art. 95 et 97 LTF (loi sur le Tribunal fédéral du 17
+juin 2005 ; RS 173.110).
+Selon l’art. 95 LTF, le recours peut être formé pour violation du droit fédéral
+(let. a), du droit international (let. b), de droits constitutionnels cantonaux (let. c), de dispositions
+cantonales sur le droit de vote des citoyens ainsi que sur les élections et votations populaires
+(let. d) et du droit intercantonal (let. e). Le droit fédéral inclut les droits constitutionnels
+des citoyens (ATF 134 III 349 consid. 1.2) ; la notion de droit fédéral s’oppose en principe
+à celle de droit cantonal ou communal. Il est toutefois possible de se plaindre devant le Tribunal
+fédéral d’une violation arbitraire du droit cantonal ou du droit communal, car il s’agit
+là de la violation du droit fédéral (cf. art. 9 Cst. [Constitution fédérale
+de la Confédération suisse du 18 avril 1999 ; RS 101]), à la condition de présenter
+une motivation répondant aux exigences de l’art. 106 al. 2 LTF, lequel dispose que le Tribunal
+fédéral n’examine la violation de droits fondamentaux ainsi que celle de dispositions
+de droit cantonal et intercantonal que si ce grief a été invoqué et motivé par le
+recourant (ATF 138 I 1 consid. 2.1 ; Corboz, in : Corboz et al. [éd.], Commentaire de la LTF,
+2
+e
+éd., Berne 2014, n. 21 ad art. 95 LTF et la jurisprudence citée). Quant à
+la violation du droit international, elle suppose que la norme soit directement applicable (Corboz, op. cit.,
+n. 33 ad art. 95 LTF). L’art. 97 al. 1 LTF prévoit que le recours ne peut critiquer les
+constatations de fait que si les faits ont été établis de façon manifestement inexacte
+ou en violation du droit au sens de l'art. 95 LTF, et si la correction du vice est susceptible d'influer
+sur le sort de la cause. En parlant de faits établis de façon manifestement inexacte, le législateur
+a envisagé en réalité un cas d’arbitraire (Message du Conseil fédéral
+concernant la révision totale de l’organisation judiciaire fédérale, FF 2001 p.
+4135).
+1.4
+Aux termes de l'art. 382 al. 1 CPP, le recourant doit en outre disposer d'un intérêt juridiquement
+protégé à l'annulation ou à la modification de la décision entreprise. En droit
+pénal, la recevabilité d'un recours dépend ainsi en particulier de l'existence d'un intérêt
+actuel à l'annulation de la décision entreprise. Cet intérêt doit exister non seulement
+au moment du dépôt du recours, mais encore au moment où l'arrêt est rendu (ATF 137
+I 296 consid. 4.2). Lorsque l'intérêt pour recourir fait défaut au moment du dépôt
+du recours, l'autorité pénale n'entre pas en matière sur celui-ci et elle le déclare
+irrecevable. En revanche, si l'intérêt actuel disparaît en cours de procédure, le
+litige est déclaré sans objet et la cause est radiée du rôle (ATF 139 I 206
+consid. 1.1).
+1.5
+En l’espèce, le recours de D.________ a été interjeté en temps utile devant
+l’autorité compétente.
+Il y a lieu de relever que les sanctions auxquelles s’oppose le recourant ont déjà été
+exécutées. Celui-ci conserve toutefois un intérêt à faire vérifier la pertinence
+de ces sanctions dès lors qu’elles ont une influence non seulement sur d’éventuelles
+futures sanctions, mais aussi sur le Plan d’exécution de la sanction (PES). Le recourant dispose
+dès lors d’un intérêt juridiquement protégé actuel à l’annulation
+ou à la réforme de la décision entreprise.
+Le recours de D.________ est donc recevable sous cet angle, sous réserve de ce qui sera exposé
+aux considérants suivants, ses motifs étant toutefois limités à l’arbitraire
+conformément à l’art. 38 al. 3 LEP (cf. consid. 1.3
+supra
+).
+Les pièces nouvelles produites par le recourant sont également recevables.
+2.
+2.1
+Le recourant requiert l’administration de
+diverses preuves, à savoir «
+l’exposé
+qu’il aurait refusé d’obtempérer aux injonctions du chef d’atelier charpente
+»
+(let. a), «
+la production
+de la confirmation datée et signée par le SMPP que la place de travail est ou était adaptée
+et depuis quelle date
+» (let. b), «
+le
+courrier du 27 septembre 2021 adressé à la commission d’incorporation qu’indique
+que la place de travail avait été adapté
+»
+(let. c), «
+la motivation
+basée sur le droit légal de l’obligation d’accepter un travail inadapté
+»
+(let. d) et «
+les
+enregistrements de vidéo-surveillance des trois caméras de l’emplacement dit « la
+grille » du 1
+er
+octobre 2021 entre 18:00 et 20:30
+»
+(let. e).
+2.2
+Selon l’art. 389 al. 1 CPP, la procédure
+de recours se fonde sur les preuves administrées pendant la procédure préliminaire et
+la procédure de première instance. L’art. 389 al. 3 CPP règle les preuves complémentaires.
+Ainsi, l’autorité de recours administre, d’office ou à la demande d’une partie,
+les preuves complémentaires nécessaires au traitement du recours.
+Conformément
+à l'art. 139 al. 2 CPP, il n'y a pas lieu d'administrer des preuves sur des faits
+non pertinents, notoires, connus de l'autorité ou déjà suffisamment prouvés. Cette
+disposition codifie, pour la procédure pénale, la règle jurisprudentielle déduite
+de l'art. 29 al. 2 Cst. en matière d'appréciation anticipée des preuves (TF 6B_78/2020
+du 1
+er
+avril 2020
+consid. 1.1 ; TF 6B_178/2020 du 20 mars 2020 consid. 1.1). Le tribunal peut ainsi refuser
+des preuves nouvelles lorsqu'une administration anticipée de ces preuves démontre qu'elles
+ne seront pas de nature à modifier le résultat de celles déjà administrées (ATF
+136 I 229 consid. 5.3, JdT 2011 I 58). Ce refus d'instruire ne viole le droit d'être entendu
+des parties et l'art. 389 al. 3 CPP que si l'appréciation anticipée effectuée est entachée
+d'arbitraire (ATF 144 II 427 consid. 3.1.3 ; ATF 141 I 60 consid. 3.3, JdT 2015 I
+115 ; TF 6B_1331/2020 du 18 janvier 2021 consid. 1.1 ; TF 6B_818/2020 du 18 janvier 2021
+consid. 2.1 ; TF 6B_197/2020 du 7 mai 2020 consid. 1.1).
+2.3
+En l’espèce,
+force est de constater que le dossier est complet et permet à la Chambre de céans de statuer
+sur la base des pièces essentielles transmises par le SPEN, le recourant n’indiquant au demeurant
+pas ce qu’il entendrait tirer des documents et enregistrements de vidéo-surveillance sollicités,
+de sorte qu’il n’y a pas lieu d’administrer les preuves sollicitées, lesquelles
+ne seraient de toute manière pas de nature à modifier le résultat de celles déjà
+administrées.
+Les conditions de l’art.
+389 al. 3 CPP n’étant pas réalisées, les mesures d’instruction requises
+doivent donc être rejetées.
+3.
+3.1
+Dans un grief d’ordre
+formel, le recourant se plaint d’une motivation insuffisante de la décision entreprise.
+3.2
+Le droit d’être
+entendu garanti à l'art. 29 al. 2 Cst.
+implique,
+pour l'autorité, l'obligation de motiver sa décision, afin que le destinataire puisse la comprendre,
+l'attaquer utilement s'il y a lieu et afin que l'autorité de recours puisse exercer son contrôle.
+Le juge doit ainsi mentionner, au moins brièvement, les motifs qui l'ont guidé et sur lesquels
+il a fondé sa décision, de manière que l'intéressé puisse se rendre compte de
+la portée de celle-ci et l'attaquer en connaissance de cause (ATF 143 IV 40 consid. 3.4.3 ;
+ATF 141 IV 249 consid. 1.3.1 ; ATF 139 IV 179 consid. 2.2 ; TF 6B_196/2020 du 14 octobre
+2020 consid. 2.1). Il n'est pas tenu de discuter tous les arguments soulevés par les parties,
+mais peut se limiter à l'examen des questions décisives pour l'issue du litige (ATF 142 II
+154 consid. 4.2 ; ATF 139 IV 179 précité ; TF 6B_196/2020 précité).
+Dès lors que l'on peut discerner les motifs qui ont guidé la décision de l'autorité,
+le droit à une décision motivée est respecté, même si la motivation présentée
+est erronée (ATF 141 IV 557 consid. 3.2.1 ; TF 6B_196/2020 précité). La motivation
+peut d'ailleurs être implicite et résulter des différents considérants de la décision
+(ATF 141 IV 557 précité ; TF 6B_179/2020 du 18 mai 2020 consid. 1.2).
+Le
+droit d'être entendu est une garantie constitutionnelle de caractère formel, dont la violation
+doit entraîner l'annulation de la décision, indépendamment des chances de succès
+du recours sur le fond (ATF 135 I 187 consid. 2.2 ; ATF 122 II 464 consid. 4a). Une telle violation
+peut toutefois être réparée dans le cadre de la procédure de recours lorsque l'irrégularité
+n'est pas particulièrement grave et pour autant que la partie concernée ait la possibilité
+de s'exprimer et de recevoir une décision motivée de la part de l'autorité de recours
+disposant d'un pouvoir d'examen complet en fait et en droit (art. 391 al. 1 et 393 al. 2
+CPP ; TF 6B_854/2018 du 23 octobre 2018 consid. 3.3). Une réparation du vice
+procédural est également possible lorsque le renvoi à l'autorité inférieure
+constituerait une vaine formalité, provoquant un allongement inutile de la procédure, incompatible
+avec l'intérêt de la partie concernée à ce que sa cause soit tranchée dans un
+délai raisonnable (ATF 145 I 167 consid. 4.4 ; ATF 142 II 218 consid. 2.8.1 et les références
+citées ; TF 6B_860/2019 du 18 septembre 2019 consid. 2.1). La Chambre des recours pénale
+dispose d'un pouvoir d'examen complet en fait et en droit, permettant de guérir un tel vice procédural
+(art. 391 al. 1 CPP ; CREP 29 avril 2021/174 ; CREP 30 mars 2021/303 ; CREP 19 mai 2020/378).
+3.3
+Le
+recourant se contente d’invoquer une motivation insuffisante, sans démontrer en quoi ses arguments
+n’auraient pas été pris en compte par la Cheffe du service pénitentiaire, de sorte
+que ce moyen, faute de satisfaire aux exigences de motivation de l’art. 385 al. 1 CPP, ne semble
+pas recevable. Quand bien même il l’eût été, ce grief devrait de toute manière
+être rejeté pour les motifs qui suivent.
+En
+l’espèce, la Cheffe du Service pénitentiaire a mentionné, dans une décision
+de six pages, les rapports et les décisions sur lesquels elle s’est fondée, les procès-verbaux
+d’audition pris en compte, les décisions de sanctions contestées, ainsi que les courriers
+de l’unité juridique et les déterminations des parties. Elle a en outre indiqué
+les dispositions légales applicables, a résumé dans quatre considérants distincts
+les différents griefs soulevés par le recourant, ainsi que les déterminations de la Direction
+des EPO à cet égard, puis a exposé dans une vingtaine de considérants les motifs
+qui l'ont guidée et sur lesquels elle a fondé sa décision, en traitant l’ensemble
+des moyens soulevés par le recourant.
+La
+décision entreprise répond ainsi manifestement aux exigences de motivation commandées
+par la loi, de sorte qu’on ne discerne aucune violation du droit d’être entendu du recourant,
+celui-ci ayant au demeurant été en mesure d’attaquer la décision litigieuse en connaissance
+de cause en contestant le raisonnement de la Cheffe du Service pénitentiaire devant l’autorité
+de céans (cf. consid. 4
+infra
+).
+Infondé,
+ce moyen doit donc être rejeté dans la mesure où il est recevable.
+4.
+4.1
+Le recourant conteste
+avoir refusé de se soumettre à un travail adapté en détention. Il se plaint d’avoir
+été astreint à travailler dans l’atelier de menuiserie sans que des mesures aient
+été prises pour protéger sa santé et invoque à cet égard un certificat
+médical du SMPP du 28 juin 2021 qui indique qu’il ne doit pas travailler, pour des raisons
+médicales, «
+dans
+une activité en contact avec des pollens (arbres/plantes), poils et poussière
+»
+(cf. bordereau, P. 5/2).
+4.2
+4.2.1
+Aux termes de l’art.
+81 al. 1 CP (Code pénal suisse du 21 décembre 1937 ; RS 311.0), le détenu
+est astreint au travail. Ce travail doit correspondre, autant que possible, à ses aptitudes, à
+sa formation et à ses intérêts.
+Cette
+disposition – par ailleurs en accord avec la Convention internationale concernant le travail forcé
+ou obligatoire, qui réserve expressément, à son art. 2 ch. 2 let. c, l’admissibilité
+du travail qui découle d’une condamnation pénale – prévoit une obligation
+pour le détenu de travailler, obligation qui est indépendante de l’âge, et qui n’existe
+par ailleurs pas pour les détenus en régime de détention provisoire (ATF 139 I 180 consid.
+2 et 3 ; Oberholzer, Grundzüge des Strafprozessrechts, 4
+e
+éd. 2020, n° 1352 p. 418 ; Macaluso/Piquerez, Procédure pénale suisse, 3
+e
+éd. 2011, n° 1272 p. 448). La Cour européenne des droits de l’homme ne prévoit
+pour sa part aucune obligation distincte du système légal suisse en vigueur sur ce point précis.
+4.2.2
+Dans le canton de Vaud,
+l’art. 39 RSPC (règlement du 16 août 2017 sur le statut des personnes condamnées
+exécutant une peine privative de liberté ou une mesure ; BLV 340.01.1) prévoit
+que les personnes condamnées à une peine privative de liberté sont astreintes au travail,
+indépendamment de leur âge (al. 1). L’inaptitude et d’éventuelles conditions
+du travail des personnes condamnées sont déterminées par le service médical et communiquées
+à la direction de l’établissement. Elles doivent être régulièrement réévaluées
+(al. 3).
+Quant à l’art.
+38 RDD (règlement du 30 octobre 2019 sur le droit disciplinaire applicable aux personnes détenues
+avant jugement et condamnées ; BLV 340.07.1), il prévoit que la personne détenue
+qui aura contrevenu aux règlements et aux directives qui lui sont applicables sera sanctionnée
+de l’avertissement (let. a), de l’amende jusqu’à 10 jours (let. b), de la suppression
+temporaire, complète ou partielle, de la possibilité de disposer de ressources financières
+jusqu’à 10 jours (let. c), de la suppression temporaire, complète ou partielle, des activités
+de loisirs jusqu’à 90 jours (let. d), de la suppression temporaire, complète ou partielle,
+des relations avec le monde extérieur jusqu’à 90 jours (let. e), de la consignation
+en cellule jusqu’à 10 jours (let. f) ou des arrêts jusqu’à 10 jours (let.
+g). L’art. 41 al. 1 RDD précise que la suppression temporaire, complète ou partielle,
+des activités de loisirs a pour effet de priver,
+complètement
+ou partiellement, durant une période déterminée, une personne détenue de la possibilité
+de participer aux activités physiques et récréatives, d'accéder aux installations
+mises en place et d'utiliser le matériel mis à disposition ou autorisé ; la sanction
+ne s'applique pas à la promenade. Quant à l’art. 44 al. 1 RDD, il précise que les
+arrêts consistent dans le placement pour une durée déterminée de la personne détenue
+dans une cellule prévue à cet effet.
+4.3
+Dans ses différentes déterminations, la Direction des EPO a allégué que des mesures
+sanitaires avaient été prises pour se conformer au certificat médical établi par
+le SMPP, relevant que le recourant n’avait au demeurant pas été dispensé de travailler
+et observant que celui-ci s’était d’ailleurs finalement présenté à son
+poste de travail après les premières sanctions. Elle a indiqué que des mesures sanitaires
+étaient quotidiennement mises en œuvre pour préserver la santé des personnes détenues
+évoluant au sein de l’atelier « charpente », en particulier pour que celles-ci
+ne soient pas impactées par la poussière engendrée, ces mesures prenant la forme de la
+mise à disposition de masques de protection professionnels prévus pour des travaux engendrant
+de la poussière, ainsi que d’une ventilation, et a précisé que le recourant travaillait
+à un poste adapté à sa situation, soit au montage et démontage des palettes à
+l’extérieur des locaux, lequel avait été validé par le SMPP.
+Le recourant invoque l’illégalité
+des sanctions prononcées à son encontre. Il ne précise cependant pas quelle norme de droit
+fédéral aurait été violée, de sorte que sa motivation n’est pas conforme
+au regard de l’art. 106 al. 2 LTF (cf.
+supra
+consid. 1.3). Il fait certes valoir qu’il n’existerait aucune obligation légale de travailler
+en détention et reproche à la Direction des EPO de ne jamais lui avoir notifié un quelconque
+règlement ou loi prévoyant l’obligation de travailler et,
+a
+fortiori
+, indiquant les sanctions encourues en
+cas de refus. Ce grief, à supposer recevable, tombe ainsi à faux, dès lors que les art.
+81 al. 1 CP et 39 RSPC consacrent comme on l’a vu l’obligation pour les personnes détenues
+de travailler et que l’art. 38 RDD mentionne les sanctions envisageables en cas de refus de se
+soumettre aux règlements et directives. Aucune « notification » préalable
+n’était dès lors nécessaire pour garantir la légalité de l’astreinte
+au travail et des sanctions prononcées en cas d’insoumission à celle-ci.
+Le recourant invoque en
+outre pêle-mêle des violations de ses droits fondamentaux, notamment «
+le
+droit à la dignité humaine (art. 7 Cst.), de même que la liberté personnelle (art.
+10 Cst.), ainsi que le droit à la proportionnalité (art. 36 Cst.)
+».
+Ce faisant, il se borne à une contestation d’ordre général, sans exposer de manière
+concrète en quoi ces garanties constitutionnelles n’auraient pas été respectées
+en l’espèce. Les moyens que le recourant voudrait tirer de ces règles et principes juridiques
+sont dès lors irrecevables, faute de satisfaire aux exigences de motivation de l’art. 385
+al. 1 CPP. La Chambre de céans ne distingue au demeurant aucune violation de ces droits dans l’obligation
+de travailler imposée aux personnes détenues.
+Invoquant encore une violation
+de son droit d’être entendu, le recourant se plaint de ne pas avoir bénéficié
+d’un entretien pour demander un travail adapté à sa situation, contrairement à ce
+qui est stipulé par l’art. 81 al. 1 CP. Cette critique est vaine, dès lors que la disposition
+invoquée ne donne pas au détenu le choix du travail auquel il sera astreint, mais précise
+que le travail doit correspondre « autant que possible » à ses aptitudes, à
+sa formation et à ses intérêts. L’adjonction des mots « autant que possible »
+démontre ainsi que le détenu n’a pas un droit à la mise en œuvre effective
+de cette disposition, dès lors qu’il est évident que chaque détenu ne peut pas bénéficier
+d’un travail adapté à sa formation et à ses intérêts dans un établissement
+pénitentiaire où les postes de travail ne sont pas aussi variés que dans la vie civile,
+étant précisé que l’art. 81 al. 1 CP, qui consacre l’obligation de travailler,
+ne confère au demeurant pas au détenu le droit de travailler. Dès lors que le SMPP avait
+jugé son poste de travail adapté à son état de santé, il appartenait quoi qu’il
+en soit au recourant – comme il en avait d’ailleurs été informé par certains
+surveillants – de demander son changement d’incorporation et, dans l’intervalle, de
+poursuivre le travail auquel il avait été astreint avec les mesures sanitaires qui lui avaient
+été proposées.
+Le recourant rediscute
+enfin les sanctions prononcées à son encontre dans une suite de critiques peu claires. Dès
+lors que le pouvoir d’examen de la Chambre de céans se limite, en matière d’application
+du droit cantonal, à l’arbitraire – lequel ne ressort en l’espèce aucunement
+du dossier – il n’y a pas lieu de réexaminer, dans le cadre du présent recours,
+la proportionnalité des sanctions ou la manière dont l’instruction a été menée
+à cet égard, la Chambre des recours pénale n’ayant pas à revoir l’échelle
+des sanctions. Du reste, le recourant ne précise pas ni ne démontre quelle norme de droit cantonal
+aurait été violée.
+Compte tenu des éléments
+qui précèdent, la décision de la Cheffe du Service pénitentiaire se révèle
+conforme au droit et ne procède
+a
+fortiori
+d’aucun arbitraire.
+5.
+En définitive, le
+recours, manifestement mal fondé, doit être rejeté dans la mesure où il est recevable,
+sans échange d'écritures (art. 390 al. 2 CPP), et la décision entreprise confirmée.
+S’agissant de la
+requête du recourant tendant à l’octroi de l’assistance judiciaire pour la procédure
+de recours, elle ne vise de fait que la désignation d’un défenseur d’office, dès
+lors que l’assistance judiciaire pour une telle procédure, comprenant l’exonération
+des frais de procédure et d’avances de frais, ne peut être accordée qu’à
+la partie plaignante (cf. art. 136 CPP) et non au prévenu, respectivement au condamné (cf.
+art. 132 CPP applicable par analogie ; CREP 15 septembre 2021/861 ; CREP 27 avril
+2021/397 ; CREP 2 décembre 2015/793, JdT 2016 III 33). Or, dès lors que
+la procédure est simple et la cause dépourvue de difficultés particulières, l’assistance
+d’un défenseur d’office ne se justifie pas en l’espèce, le recourant ayant
+au demeurant été en mesure de faire valoir ses droits dans le cadre de la présente procédure
+de recours.
+Vu l’issue de la
+procédure, il n’y a par ailleurs pas lieu d’allouer au recourant une indemnité
+au sens de l’art. 429 CPP, laquelle est réservée au prévenu acquitté totalement
+ou partiellement, ou mis au bénéfice d’un classement (art. 429 al. 1 CPP).
+Les frais de la procédure
+de recours, constitués en l’espèce du seul émolument d’arrêt, par 1’760
+fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en matière pénale
+du 28 septembre 2010 ; BLV 312.03.1]), seront mis à la charge du recourant, qui succombe (art. 428
+al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+La décision du 21 janvier 2022 est confirmée.
+III.
+La requête d’assistance judiciaire
+est rejetée.
+IV.
+Les frais d’arrêt, par 1’760 fr. (mille sept cent soixante francs), sont mis à
+la charge de D.________.
+V.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. D.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Cheffe du Service pénitentiaire,
+-
+Direction des Etablissements de la plaine de l’Orbe,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF. Ce recours doit être déposé devant le Tribunal
+fédéral dans les trente jours qui suivent la notification de l'expédition complète
+(art. 100 al. 1
+LTF).
+La greffière :
