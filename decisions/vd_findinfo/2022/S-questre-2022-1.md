@@ -1,0 +1,433 @@
+---
+decision_id: "vd_findinfo_S_questre___2022___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2022 / 1"
+decided: "2022-03-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8713511"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-127.md", "switzerland/bund/acts/210/art-129.md", "switzerland/bund/acts/210/art-130.md", "switzerland/bund/acts/220/art-018.md", "switzerland/bund/acts/220/art-116.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-111.md", "switzerland/bund/acts/272/art-142.md", "switzerland/bund/acts/272/art-317.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-334.md", "switzerland/bund/acts/281.1/art-080.md", "switzerland/bund/acts/281.1/art-081.md", "switzerland/bund/acts/281.1/art-083.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-278.md"]
+---
+
+# VD Findinfo Séquestre / 2022 / 1
+
+## Regeste
+
+MAINLEVÉE DÉFINITIVE, TITRE DE MAINLEVÉE, CAS DE SÉQUESTRE, EXTINCTION DE L'OBLIGATION, OBLIGATION D'ENTRETIEN, TRANSACTION JUDICIAIRE, REMARIAGE | 127 CC, 129 CC, 130 al. 2 CC, 271 al. 1 ch. 6 LP, 272 al. 1 LP, 278 al. 3 LP, 80 LP, 81 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Séquestre / 2022 / 1
+
+MAINLEVÉE DÉFINITIVE, TITRE DE MAINLEVÉE, CAS DE SÉQUESTRE, EXTINCTION DE L'OBLIGATION, OBLIGATION D'ENTRETIEN, TRANSACTION JUDICIAIRE, REMARIAGE | 127 CC, 129 CC, 130 al. 2 CC, 271 al. 1 ch. 6 LP, 272 al. 1 LP, 278 al. 3 LP, 80 LP, 81 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+KE21.031433-211647
+18
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+2 mars 2022
+__________________
+Composition
+:              M.
+Hack
+,
+président
+Mmes
+Byrde et Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+127, 129 et 130 al. 2 CC ; 80, 81 al. 1, 271 al. 1 ch. 6, 272 al. 1 et 278 al. 3 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+W.________
+,
+à [...], contre le prononcé rendu le 13 septembre 2021, à la suite de l’audience
+du même jour, par le Juge de paix du district de Lausanne, dans la cause en opposition au séquestre
+divisant le recourant d’avec
+B.________
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Mariées depuis 2001, les parties ont divorcé en 2013. Le 22 mars 2013, elles ont signé
+une convention de divorce avec accord complet, dont l’article 6 a la teneur suivante :
+«
+De
+la contribution d’entretien post-divorce
+Les
+époux conviennent que Monsieur W.________ s’acquittera d’une contribution d’entretien
+en faveur de Madame B.________ d’un montant de Frs 10'000.--, par mois et d’avance, dès
+le 31 janvier 2013, et ce, jusqu’au 31 août 2025.
+Madame
+B.________ renonce dès lors au bénéfice de l’Arrêt de la Cour de Justice (…)
+du 22 octobre 2010 à compter du 31 janvier 2013, en ce qui concerne la contribution à la famille,
+à la condition que le jugement de divorce ratifie la présente convention.
+De
+manière à mettre en œuvre le présent accord pris sous condition suspensive, les parties
+conviennent que Monsieur W.________ s’acquittera de la contribution d’entretien due à
+la famille conformément à l’Arrêt de la Cour de Justice (…) du 22 octobre
+2010, en CHF 14'500 par mois, jusqu’à la date de l’audience de comparution personnelle
+des parties qui sera fixée suite au dépôt, ce jour, en justice, de la requête commune
+de divorce des parties. A compter de cette date, seule la contribution d’entretien de CHF 10'000
+sera versée à Madame B.________. Les parties conviennent que le trop versé (correspondant
+à CHF 4'500 par mois) sera compensé entièrement avec les premières contributions
+d’entretien de CHF 10'000 payables à Madame B.________. Un décompte du trop perçu
+par Madame B.________ sera dressé le jour de l’audience, pour valoir novation, au sens de
+l’art. 116 CO [Code des obligations ; RS 220].
+Au
+surplus, toute modification de cette contribution d’entretien sera à l’avenir conventionnellement
+complètement exclue, ce en vertu de l’art. 127 CC [Code civil suisse ; RS 210]
+».
+Cette convention a été ratifiée par le Tribunal de première instance de la République
+et Canton de Genève pour faire partie intégrante du jugement de divorce des parties du 24 septembre
+2013.
+b)
+B.________ s’est remariée en 2018. W.________, par lettre de son conseil à son ex-épouse
+du 11 février 2020, a dit avoir appris le remariage de celle-ci et, invoquant l’art. 130 al.
+2 CC, que son obligation d’entretien envers elle s’était éteinte légalement
+le 22 septembre 2018 ; il a cessé de verser la pension convenue dès le mois de février
+2020. Il a par ailleurs ouvert action au fond contre son ex-épouse en enrichissement illégitime.
+c)
+Le 9 juillet 2021, à la requête de B.________ invoquant le cas de séquestre de l’art.
+271 al. 1 ch. 6 LP (loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1),
+soit la possession d’un titre de mainlevée définitive contre le débiteur, le Juge
+de paix du district de Lausanne a scellé contre W.________ une ordonnance de séquestre portant
+sur tous ses avoirs, biens, titres et valeurs sur un compte détenu auprès de la Banque Cantonale
+Vaudoise à Lausanne, pour une créance de 110'000 fr. avec intérêt à
+5%
+l’an dès le 31 janvier 2020, et de 60'000 fr. avec intérêt à
+5%
+l’an dès le 31 décembre 2020.
+d)
+Par
+acte du 19 juillet 2021, W.________ (ci-après : le requérant) a formé opposition
+au séquestre, concluant, avec suite de frais judiciaires et dépens, principalement à l’annulation
+de l’ordonnance de séquestre du 9 juillet 2021, subsidiairement à la condamnation de
+l’intimée à la fourniture de sûretés à concurrence de 75'000 francs. Il
+a produit seize pièces sous bordereau.
+e)
+A l’audience du 13 septembre 2021, le conseil de l’intimée a conclu au rejet de l’opposition
+au séquestre, avec dépens, et a déposé neuf pièces sous bordereau.
+2.
+Par décision rendue à la suite de l’audience
+précitée, dont le dispositif a été adressé le 27 et notifié le 28 septembre
+2021 aux parties, le Juge de paix du district de Lausanne a rejeté l’opposition au séquestre
+(I), a confirmé l’ordonnance de séquestre du 9 juillet 2021 (II), a arrêté
+à 660 fr. les frais judiciaires, compensés avec l’avance de frais du requérant (III),
+a mis les frais à la charge de ce dernier (IV) et a dit qu’il verserait à l’intimée
+la somme de 4'000 fr. à titre de dépens (défraiement de son représentant professionnel)
+(V).
+Le requérant ayant demandé la motivation de la décision, par lettre du 29 septembre 2021,
+les motifs du prononcé ont été adressés le 12 et notifiés le 13 octobre
+2021 aux parties. Le premier juge a considéré en bref que l’application de l’art.
+130 al. 2 CC avait été exclue par la convention des parties, ratifiée par le juge du divorce,
+qui valait ainsi titre de mainlevée définitive pour la contribution d’entretien à
+laquelle prétendait l’intimée.
+3.
+Par acte du 25 octobre 2021, W.________ (ci-après :
+le recourant) a recouru contre le prononcé précité en concluant, en substance, avec suite
+de frais judiciaires et dépens, principalement à sa réforme en ce sens que l’ordonnance
+de séquestre litigieuse est annulée, subsidiairement à la condamnation de l’intimée
+à la fourniture de sûretés à concurrence de 75'000 francs. Il n’a pas produit
+de pièces nouvelles.
+L’intimée s’est déterminée dans une réponse du 13 janvier 2022, concluant,
+avec suite de frais judiciaires et dépens, au rejet du recours. Elle n’a pas produit de pièces
+nouvelles.
+Le recourant a déposé une réplique spontanée le 24 janvier 2022.
+En droit
+:
+I.
+a)
+Selon l’art. 278 al. 3 LP, la décision
+sur opposition au séquestre peut faire l’objet d’un recours au sens des art. 319 ss
+CPC (Code de procédure civile ; RS 272). Le recours doit être écrit et motivé
+(art. 321 al. 1 CPC) et déposé dans le délai de dix jours suivant la notification de la
+décision attaquée motivée (art. 321 al. 2 CPC). Conformément à l’art.
+320 CPC, le recours est recevable pour violation du droit (let. a) et pour constatation manifestement
+inexacte des faits (let. b) (ATF 138 III 232, JdT 2012 II 511).
+En l’espèce, le recours a été exercé dans les formes requises et en temps utile,
+le lundi 25 octobre 2021 (art. 142 al. 3 CPC). Il est ainsi recevable.
+b)
+Déposée dans le délai imparti (art. 322 CPC), la réponse de l’intimée
+est également recevable, sous réserve des déterminations qu’elle contient sur les
+faits allégués dans le mémoire d’opposition au séquestre. En cette matière,
+les parties peuvent alléguer des faits nouveaux dans la procédure de recours (art. 278
+al. 3 LP). Dans un arrêt paru aux ATF 145 III 324 consid. 6 (JdT 2019 II 275), le Tribunal fédéral
+a confirmé la pratique de la cour de céans qui considérait que seuls les vrais
+nova
+pouvaient être invoqués (CPF 24 mars 2016/103 ; CPF 30 septembre 2013/397 et les réf.
+cit. ; CPF 3 mai 2013/185) et que les
+pseudo-nova
+n'étaient recevables qu'en tant que la partie qui les alléguait établissait qu'ils ne
+pouvaient être invoqués ou produits devant la première instance bien qu'elle ait fait
+preuve de la diligence requise (cf. art. 317 al. 1 CPC par analogie).
+En l’espèce,
+l’intimée a procédé en première instance en se faisant représenter à
+l’audience par son conseil, qui a alors produit des pièces ; rien ne l’empêchait
+de déposer, avant cela ou simultanément, des déterminations sur les faits allégués
+dans le mémoire d’opposition au séquestre, qui lui avait été notifié en
+même temps que la citation à l’audience, par courrier du 22 juillet 2021.
+c)
+La réplique spontanée du recourant, qui n’est pas tardive et est limitée aux moyens
+invoqués en réponse au recours, est recevable (ATF 142 III 48 consid. 4.1.1 et les réf.
+cit. ; TF 5A_294/2020 du 14 décembre 2020 consid. 3.2.1).
+II.
+Le recourant invoque une violation de son droit d’être entendu, le premier juge n’ayant
+pas exposé pour quel motif il avait écarté l’application de l’art. 130
+CC, ne citant ni doctrine, ni jurisprudence.
+a)
+La
+jurisprudence a déduit du droit d’être entendu, garanti par l’art.
+29 al. 2 Cst (Constitution fédérale ;
+RS 101), l'obligation pour les autorités de motiver leurs décisions afin que le destinataire
+puisse la comprendre, l'attaquer utilement s'il y a lieu et que l'autorité de recours puisse exercer
+son contrôle. Pour répondre à ces exigences, le juge doit mentionner, au moins brièvement,
+les motifs qui l'ont guidé dans sa décision, de manière à ce que l'intéressé
+puisse se rendre compte de la portée de celle-ci et l'attaquer en connaissance de cause. Il n'a
+toutefois pas l'obligation d'exposer et de discuter tous les faits, moyens de preuve et griefs invoqués
+par les parties, mais peut au contraire se limiter à ceux qui, sans arbitraire, lui paraissent pertinents
+(ATF 145 III 324 consid. 6.1 et les références citées).
+b)
+En l’espèce, le juge de paix a expliqué qu’il ressortait de la formulation «
+claire
+et précise
+» de l’article
+6 de la convention que les parties avaient «
+complètement
+»
+exclu «
+toute modification
+»
+de la contribution d’entretien ; il apparaissait ainsi qu’elles avaient «
+vraisemblablement
+réfléchi à toutes les hypothèses, y compris à celle du remariage
+» ;
+il existait donc une «
+convention
+contraire
+» à l’extinction
+de l’obligation d’entretien lors du remariage du créancier.
+Une telle motivation est conforme aux exigences en la matière, découlant du droit d’être
+entendu. Elle ne saurait être qualifiée d’insuffisante au seul motif que le premier juge
+n’a pas cité à l’appui de son appréciation des avis de doctrine ou de jurisprudence,
+ni repris la teneur des dispositions applicables. Le recourant a par ailleurs très bien compris
+ce raisonnement puisqu’il le reprend ensuite pour soutenir qu'il serait erroné.
+Le grief de violation du droit d’être entendu est infondé.
+III.
+Le recourant estime ensuite que le raisonnement
+du premier juge est erroné. Selon lui, «
+comme
+le soutient la doctrine majoritaire, la mention de l’art. 127 CC n’a pas d’incidence
+sur l’application de l’art. 130 CC
+»
+(recours, p. 6). L’art. 127 CC ne viserait que les modifications judiciaires de la pension, régies
+par l’art. 129 CC, mais non son extinction
+ex
+lege
+prévue par l’art. 130 CC. Le recourant
+appuie encore son grief en soulignant que la convention passée entre les parties utilise le terme
+«
+modification
+»
+et non «
+extinction
+».
+Il soutient donc que l’art. 130 al. 2 CC est applicable et que la pension est éteinte, au
+sens de l’art. 81 al. 1 LP, du fait du remariage de l’intimée, de sorte que celle-ci
+ne détient plus de titre de mainlevée définitive au sens de l’art. 80 LP.
+L’intimée soutient au contraire que la convention stipulait clairement «
+que
+toute modification de cette dernière telle qu’elle a été prévue serait à
+l’avenir conventionnellement complètement exclue
+»
+et qu’il «
+est
+ainsi patent que la volonté des parties à l’époque était celle de prévoir,
+que, quelles que soient les circonstances nouvelles, la convention demeure inchangée
+»,
+partant, que «
+quelle
+que soit la modification de la situation, la contribution d’entretien demeurerait la même
+jusqu’au 31 août 2025
+» ;
+le remariage de l’intimée ne modifierait donc en rien la créance dont elle est titulaire
+contre le recourant et il ne s’agirait «
+en
+aucun cas d’une condition résolutoire
+».
+a)
+La procédure d'opposition a le même objet que la procédure de séquestre, à savoir
+les conditions d'autorisation de celui-ci. Il suffit ainsi à l’intimée de rendre vraisemblable
+l’existence des conditions de séquestre, soit l’existence de sa créance, d’un
+cas de séquestre et de biens du débiteur (art. 272 al. 1 LP ; TF 5A_151/2020 du 13
+mai 2020 consid. 5.1.3). Toutefois, le créancier qui invoque le cas de séquestre de l'art.
+271 al. 1 ch. 6 LP, soit la possession d'un titre de mainlevée définitive au sens de l'art.
+80 LP contre le débiteur, n'a pas - contrairement aux autres cas (art. 271 al. 1 ch. 1 à 5
+LP, en lien avec l'art. 272 al. 1 ch. 2 LP) - à rendre vraisemblable sa créance, laquelle découle
+en effet directement du titre produit (TF 5A_806/2014 du 28 avril 2015 consid. 2.3.1). Il n'en demeure
+pas moins que le débiteur peut faire valoir les exceptions prévues à l'art. 81 al. 1 LP
+(TF 5A_228/2017 du 26 juin 2017 consid. 3.1) et que, si une des exceptions est tenue pour plus vraisemblable
+que l'existence de la créance alléguée, celle-ci doit être réduite, en tout
+ou en partie, selon le montant éteint par l'exception (TF 5A_159/2021 du 9 septembre 2021 consid.
+6.1.2).
+b)
+La
+transaction judiciaire est assimilée à un jugement et permet donc au poursuivant d'obtenir
+la mainlevée définitive de l'opposition, sans qu'il soit possible pour le poursuivi d'intenter
+l'action en libération de dette (art. 83 al. 2 LP). Au vu de cette assimilation et de ses conséquences,
+il n'y a aucune raison de traiter cet acte différemment qu'un jugement. Dès lors, de même
+qu'il ne peut pas interpréter une décision judiciaire comme s'il était saisi d'une demande
+fondée sur l'art. 334 CPC, le juge de la mainlevée ne peut pas non plus interpréter, au
+sens de l'art. 18 al. 1 CO, une transaction judiciaire. Par ailleurs, comme en présence d'un jugement,
+pour constituer un titre de mainlevée définitive, la transaction judiciaire doit clairement
+obliger définitivement le débiteur au paiement d'une somme d'argent déterminée. Le
+juge de la mainlevée doit seulement décider si cette obligation en ressort (ATF 143 III 564
+consid. 4.4.4).
+c)
+En l’espèce, le titre invoqué par la requérante au séquestre est la convention
+de divorce passée le 22 mars 2013, ratifiée pour valoir jugement le 24 septembre 2013.
+Comme on l’a vu, le recourant fait valoir que l’obligation d’entretien qu’elle
+prévoit est éteinte. Selon l’intimée, cette extinction aurait été conventionnellement
+exclue.
+Aux termes de l’art. 129, al. 1, 1
+re
+phrase, CC, si la situation du débiteur ou du créancier change notablement et durablement,
+la rente peut être diminuée, supprimée ou suspendue pour une durée déterminée.
+Selon l’art. 127 CC, toutefois, les époux peuvent, par convention, exclure complètement
+ou partiellement la modification ultérieure d’une rente fixée d’un commun accord.
+Une telle convention aura pour effet d’exclure toute modification de la rente reposant sur une
+action en justice, fondée sur l’art. 129 CC (Leuba/Meier/Papaux van Delden, Droit du divorce,
+Conditions – effets - procédure, 2021, p. 371, § 903).
+L’art. 130 al. 2 CC prévoit que sauf convention contraire, l’obligation d’entretien
+s’éteint
+lors du remariage du créancier.
+Les conventions prévues aux art. 127 et 130 CC n’ont pas le même objet. La première
+permet d’exclure une modification, voire une suppression judiciaire de la pension, fondée
+sur un changement dans la situation des parties. La seconde permet d’exclure une extinction ex
+lege de l’obligation d’entretien, fondée sur le remariage du créancier.
+Une clause générale d’exclusion de modification ne vise donc pas les cas d’extinction
+du droit à la rente prévus par la loi à l’art. 130 CC (Leuba
+et
+al.
+,
+op. cit.
+,
+§ 904 et les références citées ; Schwenzer/Büchler,
+in
+FamKommentar, Schwenzer/Fankhauser [éd.], Scheidung, Band I : ZGB, 3
+e
+éd., n. 5
+ad
+art. 127 CC), puisque l’art. 127 CC doit se lire uniquement en lien avec les possibilités
+de modifications prévues par l’art. 129 CC (Pichonnaz, Commentaire romand, n. 16
+ad
+art. 127 CC). Elle n’empêche pas la rente de s’éteindre ex lege aux conditions
+de l’art. 130 CC (Simeoni,
+in
+Commentaire pratique, Bohnet/Guillod [éd.], Droit matrimonial, Fond et procédure, 2016, n.
+11
+ad
+art. 127 CC). Les conjoints peuvent cependant prévoir expressément, conformément à
+l’art. 130 al. 2 CC, que la rente continuera d’être due en cas de remariage du créancier
+ou de décès de l’un des conjoints (Simeoni,
+op.
+cit.
+, n. 21
+ad
+art. 127 CC et n. 14
+ad
+art. 130 CC).
+En l’espèce, les parties ont bien exclu toute modification ultérieure de la rente prévue
+par l’art. 129 CC, comme l’indiquent la référence expresse à cette dernière
+disposition ainsi que, en lien avec cette référence, l’usage du terme « modification ».
+En revanche, leur convention ne dit mot de l’hypothèse d’extinction ex lege de l’art.
+130 al. 2 CC, ne cite pas cette disposition et ne précise pas que la rente continuerait d’être
+due en cas de remariage de l’intimée. On ne peut donc pas considérer que l’éventualité
+du remariage de la créancière a été prise en compte par les parties.
+Il s’ensuit que, très vraisemblablement, l’obligation d’entretien du recourant
+est éteinte  ex lege en raison du remariage de l’intimée.
+IV.
+Vu ce qui précède, le recours doit être
+admis et le prononcé attaqué réformé en ce sens que l’opposition au séquestre
+est admise, que l’ordonnance de séquestre est révoquée et que les frais judiciaires
+de première instance, arrêtés à 660 fr., sont mis à la charge de l’intimée
+(art. 106 al. 1 CPC), celle-ci devant verser au requérant la somme de 4'660 fr. à titre restitution
+d’avance de frais judiciaires et de dépens de première instance (art. 111 al. 2 CPC ;
+art. 6 TDC (tarif des dépens en matière civile ; BLV 270.11.6).
+Les frais judiciaires de deuxième instance, arrêtés à 990 fr., sont mis à la
+charge de l’intimée (art. 106 al. 1 CPC). Celle-ci doit rembourser au recourant son avance
+de frais du même montant et lui verser en outre des dépens de deuxième instance (art.
+111 al. 2 CPC), fixés à 3'500 fr., plus débours de 70 fr. (art. 8 et 19 al. 2 TDC), soit
+une somme totale de 4'560 francs.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le prononcé est réformé comme il suit :
+I.
+L’opposition au séquestre est admise.
+II.
+L’ordonnance de séquestre du 9 juillet
+2021 est révoquée.
+III.
+Les frais judiciaires de première instance,
+arrêtés à 660 fr. (six cent soixante francs), sont mis à la charge de l’intimée.
+IV.
+L’intimée B.________ doit verser au
+requérant W.________ la somme de 4’660 fr. (quatre mille six cent soixante francs) à
+titre de dépens et de restitution d’avance de frais judiciaires de première instance.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 990 fr. (neuf cent nonante
+francs), sont mis à la charge de l’intimée.
+IV.
+L’intimée B.________ doit verser au recourant W.________ la somme de 4'560 fr. (quatre mille
+cinq cent soixante francs) à titre de dépens et débours et de restitution d’avance
+de frais judiciaires de deuxième instance.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Lisa Locca, avocate (pour W.________),
+‑
+Me Thomas Barth, avocat (pour B.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 170’000 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l’envoi de photocopies, à :
+‑
+M. le Préposé à l’Office des poursuites du district de Lausanne,
+et
+communiqué à :
+‑
+M. le Juge de paix du district de Lausanne.
+La greffière :
