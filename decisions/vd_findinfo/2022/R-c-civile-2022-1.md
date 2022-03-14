@@ -1,0 +1,328 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2022___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2022 / 1"
+decided: "2022-03-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8740584"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-050.md", "switzerland/bund/acts/272/art-107.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2022 / 1
+
+## Regeste
+
+RÉCUSATION, ADMISSION DE LA DEMANDE, DROIT À UNE AUTORITÉ INDÉPENDANTE ET IMPARTIALE, PROTECTION DE L'ADULTE | 47 al. 1 let. b CPC (CH), 50 al. 2 CPC (CH), 8a al. 7 CDPJ
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative 14.03.2022 Réc-civile / 2022 / 1
+Vaud Tribunal cantonal Cour administrative 14.03.2022 Réc-civile / 2022 / 1
+Vaud Tribunal cantonal Cour administrative 14.03.2022 Réc-civile / 2022 / 1
+
+RÉCUSATION, ADMISSION DE LA DEMANDE, DROIT À UNE AUTORITÉ INDÉPENDANTE ET IMPARTIALE, PROTECTION DE L'ADULTE | 47 al. 1 let. b CPC (CH), 50 al. 2 CPC (CH), 8a al. 7 CDPJ
+
+TRIBUNAL
+CANTONAL
+OF18.033103
+6
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 14 mars 2022
+__________________
+Présidence
+de               M.
+Kaltenrieder
+,
+président
+Juges
+:              M.
+Maillard et Mme Bernel
+Greffier
+:              M.
+Klay
+*****
+Art.
+47 al. 1 let. b, 50 al. 2 CPC ; art. 8a al. 7 CDPJ
+Vu la procédure en suivi de la mesure de curatelle instituée en faveur de Z.________, né
+le [...] 1962, instruite par le Juge de paix du district de Lausanne H.________ (ci-après :
+la juge de paix),
+Vu la requête du 6 octobre 2021, par laquelle Z.________, représenté par Me Loraine Michaud
+Champendal, a demandé la désignation de cette dernière en qualité de curatrice de
+représentation
+ad hoc
+pour l’assister afin d’ouvrir une action en responsabilité contre l’Etat de Vaud,
+ainsi que la délivrance d’une autorisation de plaider et de transiger,
+vu l’attribution à la juge de paix de la procédure relative à cette requête,
+vu la demande adressée à la Justice de paix du district de Lausanne (ci-après: la justice
+de paix) le 23 novembre 2021 par Z.________, tendant notamment à la récusation de la juge de
+paix pour la procédure ouverte par sa requête du 6 octobre 2021 susmentionnée,
+vu la décision du 29 novembre 2021 – adressée pour notification le 3 décembre
+2021 et notifiée à Z.________ le 13 décembre 2021 – par laquelle la justice de paix
+a rejeté la demande de récusation déposée le 23 novembre 2021 par le prénommé
+dans le cadre du suivi de la mesure de curatelle instituée en sa faveur (I) et a mis les frais de
+cette décision, par 400 fr., à la charge de l’intéressé (II),
+vu le recours formé le 23 décembre 2021 contre la décision précitée par Z.________
+(ci-après : le recourant), représenté par Me Loraine Michaud Champendal, concluant
+à sa réforme en ce sens que la juge de paix est récusée et que la demande de désignation
+de Me Loraine Michaud Champendal en qualité de curatrice de représentation
+ad
+hoc
+est confiée à un autre juge de paix,
+à ce qu’une indemnité conforme à la liste d’opérations qui sera produite
+à l’issue des échanges d’écritures est allouée à Me Loraine Michaud
+Champendal et à ce que les frais de la présente procédure de recours sont laissés
+à la charge de l’Etat,
+vu la lettre de la juge de paix du 8 février 2022, informant la Cour administrative qu’elle
+renonçait à se déterminer,
+vu l’avis du 18 février 2022 de la Cour de céans, transmettant la lettre susmentionnée
+au recourant,
+vu les pièces au dossier ;
+attendu qu’en matière de protection l’adulte – comme en l’espèce –,
+si le droit fédéral y relatif (art. 360 à 456 CC) et le droit cantonal ne contiennent
+pas de règles particulières, la procédure est régie par le CPC (Code de procédure
+civile du 19 décembre 2008 ; RS 272), applicable à titre de droit cantonal supplétif
+(art. 12 al. 1, 20 al. 1 LVPAE [Loi du 29 mai 2012 d'application du droit fédéral
+de la protection de l'adulte et de l'enfant ; BLV 211.255] et 450f CC [ATF 140 III 167 consid.
+2.3 ; TF 5A_844/2017 du 15 mai 2018 consid. 9.2 ; 5A_1017/2015 du 23 mars 2016 consid.
+2.2 ; 5A_171/2015 du 20 avril 2015 consid. 6.1]),
+qu’aux termes de l’art. 50 al. 2 CPC, la décision sur récusation peut faire l’objet
+d’un recours au sens des art. 319 ss CPC,
+que le recours, écrit et motivé, doit être adressé dans un délai de dix jours
+(art. 321 al. 1 et 2 CPC ; ATF 145 III 469 consid. 3.4 ; Colombini, Note sur les « autres
+décisions » au sens de l’art. 319 let. b CPC, notamment en matière
+de protection de l’enfant, in JdT 2020 III 182) à la Cour administrative du Tribunal cantonal
+(art. 8a al. 7 CDPJ [Code de droit privé judiciaire vaudois du 12 janvier 2010 ;
+BLV 211.02] et 6 al. 1 let. a ROTC [règlement organique du Tribunal cantonal du 13 novembre
+2007 ; BLV 173.31.1]),
+qu’en l’espèce, dirigé contre une décision statuant sur la récusation
+d’une magistrate de première instance, déposé en temps utile par une partie qui
+a qualité pour recourir et respectant les exigences de forme et de fond, le recours est recevable ;
+attendu que la garantie d'un juge indépendant et impartial, telle qu'elle résulte de l'art.
+30 al. 1 Cst. (Constitution fédérale de la Confédération suisse du 18 avril
+1999 ; RS 101) et de l'art. 6 ch. 1 CEDH (Convention de sauvegarde des droits de l’homme et
+des libertés fondamentales du 4 novembre 1950 ; RS 0.101), permet de demander la récusation
+d'un magistrat dont la situation ou le comportement est de nature à susciter des doutes quant à
+son impartialité,
+qu’elle vise à éviter que des circonstances extérieures à la cause ne puissent
+influencer le jugement en faveur ou au détriment d'une partie,
+qu’elle n'impose pas la récusation uniquement lorsqu'une prévention effective est établie,
+car une disposition interne de la part du juge ne peut être prouvée,
+qu’il suffit que les circonstances donnent l'apparence d'une prévention et fassent redouter
+une activité partiale du magistrat,
+que, cependant, seules les circonstances objectivement constatées doivent être prises en considération,
+les impressions purement individuelles n'étant pas décisives (ATF 144 I 159 consid. 4.3 ;
+TF 4A_52/2021 du 26 août 2021 consid. 2.1) ;
+attendu que le juge d'une cause civile est récusable dans les cas énumérés à
+l'art. 47 al. 1 let. a à e CPC, soit notamment lorsqu’un juge agit dans la même cause
+à un autre titre, notamment à titre de membre d'une autorité (art. 47 al. 1 let.
+b CPC),
+que la notion de « même cause » s'entend de manière formelle, c'est-à-dire
+comme la procédure ayant conduit à la décision attaquée ou devant conduire à
+celle attendue, mais n'englobe pas une procédure distincte ou préalable se rapportant à
+la même affaire au sens large, soit au même ensemble de faits et de droits concernant les mêmes
+parties (ATF 143 IV 69 consid. 3.1 ; TF 4A_52/2021 du 26 août 2021 consid. 2.1),
+qu’ainsi, une « même cause » implique une identité de parties, de
+procédure et de questions litigieuses (ATF 143 IV 69 consid. 3.1 ; TF 5A_489/2017 du 29 novembre
+2017 consid. 3.2),
+que pour être récusable, le juge doit en plus être intervenu « à un autre
+titre », c'est-à-dire dans des fonctions différentes (ATF 143 IV 69 consid. 3.1 ;
+TF 4A_52/2021 du 26 août 2021 consid. 2.1),
+que le critère décisif est de savoir si, d’un point de vue objectif, l’issue de
+la procédure apparaît encore ouverte (ATF 142 III 732 consid. 4.2.2, JdT 2017 II 303 ;
+ATF 140 I 240 consid. 2.2 ; ATF 140 III 221 consid. 4.1 ; TF 4A_327/2017 du 31 août 2017
+consid. 5.2),
+que le cumul des fonctions n'est ainsi admissible que si le magistrat, en participant à des décisions
+antérieures relatives à la même affaire, n'a pas déjà pris position au sujet
+de certaines questions de manière telle qu'il ne semble plus à l'avenir exempt de préjugés
+et que, par conséquent, le sort du procès n'apparaisse plus indécis,
+que pour en juger, il faut tenir compte des faits, des particularités procédurales ainsi que
+des questions concrètes soulevées au cours des différents stades de la procédure,
+et mettre en évidence leur éventuelle analogie ou leur indépendance (ATF 138 I 425 consid.
+4.2.1 ; ATF 131 I 24 consid. 1.1 ; TF 5A_591/2007 du 10 avril 2008 consid. 3.2.1, JdT
+2008 II 121 ; TF 5A_841/2020 du 17 décembre 2021 consid. 3.2 ; TF 5A_307/2021 du 5 mai
+2021 consid. 4.1),
+que, selon la jurisprudence topique, il n'y a pas lieu à récusation d'un juge qui est derechef
+saisi de la même cause par suite de l'annulation de sa décision par l'autorité de recours,
+ni des juges d'appel en situation d'examiner à nouveau une affaire qu'ils avaient renvoyée
+à l'autorité inférieure, ni du juge appelé à connaître de plusieurs recours
+subséquents ou concomitants, ni, non plus, du juge qui s'est prononcé en défaveur du plaideur
+requérant dans une procédure antérieure, voire dans la même affaire (ATF 143 IV 69
+consid. 3 ; TF 4A_52/2021 du 26 août 2021 consid. 2.1 ; TF 4A_23/2019 du 27 mai 2019 consid.
+5),
+qu’en revanche, le juge du divorce ne peut juger ensuite, en tant que juge pénal, de l’accusation
+de faux témoignage portée contre un témoin qu’il a entendu lors de la procédure
+de divorce (ATF 126 I 168) ;
+attendu qu’en l’espèce, le recourant est au bénéfice d’une curatelle
+de représentation et de gestion avec limitation de l’exercice des droits civils et privation
+de la faculté d’accéder à certains biens,
+que dans le cadre du suivi de cette mesure, la juge de paix a autorisé le curateur de l’intéressé
+à signer, au nom et pour le compte de ce dernier, un acte de vente concernant un bien immobilier
+dont il était propriétaire à [...] au prix de 1'200'000 fr., vente qui a ensuite eu lieu
+à ce prix,
+que le recourant estime que son bien immobilier aurait pu être vendu à un prix supérieur
+et que l’autorisation de la juge de paix de le vendre à 1'200'000 fr. lui aurait créé
+un préjudice de « plusieurs centaines de milliers de francs »,
+que c’est dans ce cadre qu’il a sollicité la désignation de Me Loraine Michaud
+Champendal, par requête du 6 octobre 2021, en qualité de curatrice de représentation
+ad
+hoc
+en vue de déposer une action en responsabilité
+contre l’Etat de Vaud du chef du préjudice susmentionné qu’il entend invoqué,
+que, par son recours, Z.________ requiert la récusation de la juge de paix dans le cadre de ladite
+procédure en désignation d’une curatrice de représentation
+ad
+hoc
+, au motif unique que la magistrate ne saurait
+statuer sur sa requête du 6 octobre 2021 alors que c’est elle-même qui avait rendu une
+décision autorisant la vente du bien immobilier à [...] au prix de 1'200'000 francs,
+que le recourant fait valoir que lui désigner une curatrice de représentation
+ad
+hoc
+reviendrait ainsi pour la juge de paix à
+désavouer une décision qu’elle a elle-même rendue ;
+attendu que se pose ainsi la question de savoir si un juge peut statuer sur une requête en désignation
+d’un curateur de représentation
+ad
+hoc
+afin de permettre à la personne concernée
+d’ouvrir une action contre l’Etat de Vaud en raison d’une autre décision rendue
+par ce même juge,
+que force est de constater que les présentes circonstances procédurales amènent à
+considérer que les questions concrètes soulevées par l’une et l’autre décisions
+sont profondément dépendantes,
+qu’en l’occurrence, la juge de paix, du moins sa décision autorisant la vente immobilière,
+est précisément mise en cause par l’action en responsabilité contre l’Etat
+de Vaud qu’entend introduire le recourant,
+que, par conséquent, ce dernier ne peut motiver la nécessité de lui désigner une
+curatrice de représentation
+ad
+hoc
+sans faire de reproches directs à l’encontre
+de la magistrate chargée de l’affaire,
+qu’admettre la requête du 6 octobre 2021 pourrait impliquer pour la juge de paix de remettre
+en cause le bienfondé de sa décision ayant autorisé la vente de l’immeuble,
+qu’il pourrait être délicat pour la juge de paix de considérer que la désignation
+d’une curatrice de représentation
+ad
+hoc
+afin d’ouvrir une action en responsabilité
+contre l’Etat de Vaud serait justifiée, au motif que l’autorisation de vendre le bien
+immobilier du recourant au prix de 1'200'000 fr. n’aurait pas été légitimée,
+que, si la Cour de céans n’a aucun doute sur les capacités concrètes de la juge
+de paix à faire la part des choses et à rendre une décision impartiale ensuite de la requête
+du 6 octobre 2021, force est cependant de constater qu’il existe,
+in
+casu
+, des circonstances qui peuvent donner l’apparence
+d’une prévention et faire redouter, d’un point de vue objectif, une activité partiale
+de la juge de paix,
+que le cumul des fonctions de la juge de paix tel que dénoncé par le recourant n’est
+en définitive pas souhaitable,
+que la récusation de la juge de paix pour la procédure en désignation d’une curatrice
+de représentation
+ad hoc
+doit ainsi être prononcée ;
+attendu qu’il convient de relever que, par la décision litigieuse, la justice de paix a rejeté
+la demande de récusation de Z.________ dans le cadre du suivi de la mesure de curatelle instituée
+en sa faveur,
+que l’objet de la demande de récusation du 23 novembre 2021 n’est pas clairement exprimé,
+que l’on croit néanmoins comprendre à la lecture de cet acte que l’intéressé
+y requiert la récusation de la magistrate tant dans le cadre de la procédure du suivi de la
+mesure de curatelle instituée en sa faveur que dans le cadre de la procédure en désignation
+d’une curatrice de représentation
+ad
+hoc
+,
+qu’ainsi, le rejet de la requête de récusation dans le cadre du suivi de la mesure de
+curatelle doit être confirmé, Z.________ ne le contestant pas en procédure de recours,
+que, partant, le recours doit être admis et la décision entreprise réformée en ce
+sens que la requête de récusation est admise dans le cadre de la procédure en désignation
+d’un curateur de représentation
+ad
+hoc
+pour assister le recourant afin d’ouvrir
+action en responsabilité contre l’Etat de Vaud et en délivrance d’une autorisation
+de plaider et de transiger, le chiffre I de la décision querellée étant quant à lui
+confirmé,
+que le dossier doit donc être renvoyé à la justice de paix afin qu'elle désigne un
+nouveau magistrat pour statuer sur la requête du recourant du 6 octobre 2021,
+que, dans la mesure où Z.________ obtient partiellement gain de cause devant la première instance
+quant à sa demande de récusation du 23 novembre 2021 et où le dossier de la procédure
+en désignation d’un curateur de représentation
+ad
+hoc
+aurait directement dû être attribué
+à un autre juge de paix que celui intimé, les frais judiciaires de première instance mis
+à la charge de Z.________, arrêtés par la justice de paix à 400 fr., seront réduits
+à 200 francs (cf. art. 107 al. 2 CPC),
+que le présent arrêt peut être rendu sans frais judiciaires de deuxième instance
+(art. 74a al. 4 TFJC [tarif du 28 septembre 2010 des frais judiciaires civils ;
+BLV 270.11.5]),
+que l’Etat versera au recourant la somme de 800 fr. à titre de dépens de deuxième
+instance (art. 9 al. 2 et 19 al. 2 TDC [tarif des dépens en matière civile du 23 novembre 2010 ;
+BLV 270.11.6]), Z.________ obtenant entièrement gain de cause en procédure de recours dans
+une procédure n’impliquant qu’une seule partie (ATF 142 III 110 consid. 3.3).
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+Le recours déposé le 23 décembre 2021 par Z.________ est admis.
+II.
+La décision rendue le 29 novembre 2021 par la Justice de paix du district de Lausanne est complétée
+par un chiffre Ibis et réformée en son chiffre II comme suit :
+Ibis.
+admet la demande de récusation déposée le 23 novembre 2021 par Z.________, né le
+[...] 1962, dans le cadre de la procédure en désignation d’un curateur de représentation
+ad hoc
+pour assister le prénommé afin d’ouvrir une action en responsabilité contre l’Etat
+de Vaud et en délivrance d’une autorisation de plaider et de transiger ;
+II.
+met les frais de la présente décision, par 200 fr. (deux cents francs), à la charge de
+Z.________.
+La
+décision est confirmée pour le surplus.
+III.
+La cause est renvoyée à la Justice de paix du district de Lausanne afin qu’elle désigne
+un autre magistrat pour se charger du dossier en désignation d’un curateur de représentation
+ad hoc
+pour assister Z.________ afin d’ouvrir une action en responsabilité contre l’Etat de
+Vaud et en délivrance d’une autorisation de plaider et de transiger.
+IV.
+L’arrêt est rendu sans frais judiciaires de deuxième instance.
+V.
+L’Etat de Vaud versera au recourant Z.________ la somme de 800 fr. (huit cents francs) à titre
+de dépens de deuxième instance.
+VI.
+L'arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+Me Loraine Michaud Champendal (pour Z.________),
+-
+Mme H.________, Juge de paix du district de Lausanne,
+-
+M. [...], curateur, Service des curatelles et tutelles professionnelles,
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Première Juge de paix du district de Lausanne.
+Le greffier :
