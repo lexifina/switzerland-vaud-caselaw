@@ -1,0 +1,384 @@
+---
+decision_id: "vd_findinfo_Faillite___2022___8"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2022 / 8"
+decided: "2022-05-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8802797"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-935.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-151.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-048.md", "switzerland/bund/acts/281.1/art-050.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-191.md"]
+---
+
+# VD Findinfo Faillite / 2022 / 8
+
+## Regeste
+
+INSOLVABILITÉ, REJET DE LA DEMANDE, OUVERTURE DE LA FAILLITE | 174 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 10.05.2022 Faillite / 2022 / 8
+
+INSOLVABILITÉ, REJET DE LA DEMANDE, OUVERTURE DE LA FAILLITE | 174 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FF21.053486-220125
+38
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+10 mai 2022
+__________________
+Composition
+:               M.
+Hack
+,
+président
+M.
+Maillard et Mme Giroud Walther, juges
+Greffière
+:              Mme
+Saghbini
+*****
+Art.
+174 al. 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+C.________
+,
+à Londres, contre le jugement rendu le 20 janvier 2022, par défaut des parties, par le Président
+du Tribunal d’arrondissement de Lausanne, prononçant la faillite de la recourante à la
+requête de
+G.________SA
+,
+au Mont-sur-Lausanne.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Selon l’extrait du registre du commerce,
+C.________, à [...] (GB), succursale de Prilly, a pour but le courtage dans la vente et l’achat
+de commerces.
+Il ressort du dossier que la dénomination de la raison de commerce de cette société a
+varié selon les requêtes, actes de poursuites et procédures, ayant été désignée
+« C.________ SA », « C.________ SA/LT » ou encore « C.________
+LTD ». Cela étant, il n’y a aucun doute sur sa raison de commerce exacte (cf. consid.
+II.c
+infra
+).
+2.
+a)
+Le 28 mai 2021, à la requête de G.________SA, l’Office des poursuites du district de
+l’Ouest lausannois a notifié à C.________ un commandement de payer dans la poursuite
+n° 10'013'897.
+La poursuivie y a formé opposition totale.
+b)
+Par prononcé non motivé rendu le 6 septembre 2021, adressés aux parties le lendemain,
+la Juge de paix du district de l’Ouest lausannois a prononcé la mainlevée provisoire
+de l’opposition à concurrence de 312 fr. 35, plus intérêt à 5% l’an dès
+le 1
+er
+janvier 2021, mettant en outre les frais à la charge de la poursuivie.
+c)
+Par acte du 14 décembre 2021, G.________SA a requis la faillite de C.________. Elle a produit le
+commandement de payer précité, le prononcé du 6 septembre 2021 et une commination de faillite
+notifiée à la poursuivie le 2 novembre 2021.
+3.
+Par jugement du 20 janvier 2022, rendu par défaut
+des parties, notifié à la faillie le lendemain, le Président du Tribunal civil d’arrondissement
+de Lausanne a prononcé la faillite de C.________ avec effet au 20 janvier 2022 à 9 heures
+30 (I) et a mis les frais judiciaires, par 200 fr., à la charge de la faillie (II).
+Le 21 janvier 2022, le Préposé du Registre du commerce a indiqué au Tribunal civil d’arrondissement
+de Lausanne qu’aucune société n’était inscrite au registre du commerce sous
+la raison de commerce « C.________ SA » et lui a demandé de préciser
+si le jugement concernait « C.________ SA/LTD à [...] (GB), succursale de Prilly ».
+Par courrier du 24 janvier 2022, le Président du Tribunal civil d’arrondissement de Lausanne
+a confirmé qu’il s’agissait de la succursale de Prilly.
+La faillite de la succursale de C.________ a été inscrite au registre du commerce le 28 janvier
+2022.
+4.
+Par acte du 27 janvier 2022, C.________ a recouru
+contre ce jugement en concluant à l’annulation de la faillite. La recourante a produit, outre
+le jugement attaqué, un extrait du registre du commerce la concernant.
+Le 16 février 2022, la recourante a requis qu’un "délai suspensif" lui soit
+accordé, indiquant qu’elle avait payé la poursuite pour laquelle une demande de mise
+en faillite avait été faite. Interpellée par le Président de la Cour de céans,
+elle a confirmé qu’elle sollicitait l’octroi d’un effet suspensif à son recours.
+Par courrier du 17 février 2022, la recourante a produit une quittance de paiement établie
+par l’Office des poursuites du district de l’Ouest lausannois le 14 février 2022
+dans la poursuite 10'013'897.
+Par ordonnance du 25 février 2022, le Président de la Cour de céans a admis la requête
+d’effet suspensif.
+Sur réquisition de la Cour de céans, l’Office des poursuites du district de l’Ouest
+lausannois a produit la liste des affaires en cours au 9 février 2022 relative à la recourante
+dont il ressort qu’elle fait l’objet des trois poursuites suivantes pour un montant total
+de 856 fr. 75 :
+(1)
+Commandement de payer du 16 mars 2021, d’un
+montant de 42 fr. 80, réclamé par la Confédération suisse, représentée
+par l’Administration fédérale des contributions – TVA, frappé d’opposition
+totale ;
+(2)
+Commandement de payer du 25 mai 2021, d’un
+montant de 57 fr. 70, réclamé par [...], frappé d’opposition totale ;
+(3)
+Commandement de payer du 3 novembre 2021, d’un
+montant de 762 fr. 25, réclamé par G.________SA, frappé d’opposition totale.
+Par ailleurs, il ressort de cette liste d’affaire que la recourante fait également l’objet
+de six actes de défaut de biens totalisant 3'686 fr. 50, selon les précisions suivantes :
+(1)
+Acte de défaut de biens du 3 juin 2021, d’un
+montant de 1'064 fr. 80, délivré à la Confédération suisse, représentée
+par l’Administration fédérale des contributions – TVA ;
+(2)
+Acte de défaut de biens du 3 juin 2021, d’un
+montant de 355 fr. 30, délivré à la Confédération suisse, représentée
+par l’Administration fédérale des contributions – TVA ;
+(3)
+Acte de défaut de biens du 17 septembre 2021,
+d’un montant de 1’215 fr. 70, délivré à la Caisse AVS de [...] ;
+(4)
+Acte de défaut de biens du 17 septembre 2021,
+d’un montant de 148 fr. 75, délivré à l’Etat de Vaud, représenté
+par l’Office d’impôts des personnes morales ;
+(5)
+Acte de défaut de biens du 11 novembre 2021,
+d’un montant de 146 fr. 55, délivré à la Confédération suisse, représentée
+par l’Administration fédérale des contributions – TVA ;
+(6)
+Acte de défaut de biens du 11 novembre 2021,
+d’un montant de 755 fr. 40, délivré à la Confédération suisse, représentée
+par l’Administration fédérale des contributions – TVA.
+En droit
+:
+I.
+a)
+En vertu de l'art. 174 al. 1 LP (loi fédérale
+sur la poursuite pour dettes et la faillite ; RS 281.1), la décision du juge de la faillite
+peut, dans les dix jours, faire l'objet d'un recours au sens du CPC (Code de procédure civile ;
+RS 272). Selon l'art. 321 al. 1 CPC, le recours s'exerce par le dépôt d'un acte écrit
+et motivé, introduit auprès de l'instance de recours.
+Aux termes de l'art. 174 al. 1, 2
+e
+phrase LP, les parties peuvent faire valoir devant l'instance de recours des faits nouveaux lorsque ceux-ci
+se sont produits avant le jugement de première instance. Cette disposition spéciale de la loi,
+au sens de l'art. 326 al. 2 CPC, vise les faits nouveaux improprement dits (faux
+nova
+ou
+pseudo-nova
+),
+à savoir ceux qui existaient déjà au moment de l'ouverture de la faillite et dont le premier
+juge n'a pas eu connaissance pour quelque raison que ce soit ; ces faits peuvent être invoqués
+sans restriction et prouvés par pièces, pour autant qu'ils le soient dans le délai de
+recours. L'art. 174 al. 2 LP prévoit que le failli peut aussi invoquer de vrais
+nova
+,
+à savoir les faits, intervenus après l'ouverture de la faillite en première instance,
+qui sont énumérés aux chiffres 1 à 3 ; selon la jurisprudence, ces vrais
+nova
+doivent également être produits avant l'expiration du délai de recours (ATF 139 III 491
+consid. 4.4 ; TF 5A_1005/2020 du 19 janvier 2021 consid. 3.1.2).
+b)
+En l’espèce, le recours a été déposé en temps utile et dans les formes
+requises. Il est ainsi recevable.
+En revanche, la pièce produite le 17 février 2022, soit la quittance de paiement de la créance
+de l’intimée établie le 14 février 2022, est irrecevable dès lors qu’elle
+a été adressée à l’autorité de céans après l’échéance
+du délai de recours.
+II.
+La recourante s’interroge sur la régularité
+de la mise en faillite qui serait entachée d’un vice de procédure. Elle souligne que
+la société « C.________ SA » n’existe pas en tant que telle,
+la raison de commerce exacte étant « C.________ SA/LTD ». Il s’agissait
+donc d’une
+compagny limited
+by shares
+, et non pas d’une société
+anonyme.
+a)
+En principe le débiteur domicilié à l’étranger ne peut être poursuivi
+en Suisse. L’art. 50 a. 1 LP prévoit toutefois un for spécial en ce sens que le débiteur
+domicilié à l’étranger qui possède un établissement en Suisse –
+par exemple une succursale – peut y être poursuivi pour les dettes de celui-ci (ATF 114 III
+6 consid. 1c ; TF 5A_295/2020 du 28 décembre 2020 consid. 7.2 et les références
+citées, non publié in ATF 147 III 78). A cet égard, il est sans importance que la succursale
+n'ait pas, en tant que telle, la capacité d'ester en justice, ni celle d'être poursuivie ;
+en effet, la procédure de poursuite n'est pas dirigée contre elle, mais contre son détenteur
+(ibid.). A la différence des autres fors spéciaux de poursuite (art. 48 ss LP), l’art.
+50 al. 1 LP constitue un for pour tous les modes de poursuite (TF 5A_883/2020 du 16 mars 2021 consid.
+2.3.1 et les références citées). Lorsque l’établissement est inscrit au registre
+du commerce, le mode de la faillite est applicable (
+ATF
+79 III 13 consid. 2-3 ; JdT 1995 II 118 ; Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, Lausanne 1999, n. 19 et 21 ad art. 50 LP ; Schmid in
+Staehelin/Bauer/Staehelin [éd.], Basler Kommentar SchKG I, 3
+e
+éd., Bâle 2021, n. 26 ad art. 50 LP ; Krüsi in Kren Kostkiewicz/Vock [éd.],
+Kommentar SchKG, 4
+e
+éd.,
+Zurich/Genève/Bâle 2017, n. 12 ad art. 50 LP ;
+Michel
+Ochsner, La poursuite contre le débiteur étranger, JdT 2014 II 3, spéc. p. 25). Eu égard
+au principe de la territorialité, la faillite n’a toutefois qu’un effet limité
+en Suisse (ATF 114 II 6 consid. 1b et les références citées ; TF 5P.327/1999
+du 14 janvier 2000 consid. 4a).
+La désignation inexacte d’une partie, que ce soit son nom ou son siège, qui ne vise que
+l’inexactitude purement formelle, même si la désignation erronée correspond à
+un tiers qui existe réellement, relève du vice de forme (ATF 131 I 57 consid. 2). Elle
+peut être rectifiée lorsqu'il n'existe dans l'esprit du juge et des parties aucun doute raisonnable
+sur l'identité de la partie, notamment lorsque son identité résulte de l'objet du litige
+(en procédure civile, cf. TF 4A_242/2016 du 5 octobre 2016 consid. 3.4, non publié in
+ATF 142 III 623 ; TF 4A_560/2015 du 20 mai 2016 consid. 4.2 ; TF 4A_116/2015 du 9
+novembre 2015 consid. 3.5.1, non publié in ATF 141 III 539 ; ATF 131 I 57 consid. 202 ;
+ATF 114 II 335 consid. 3 ; en matière de poursuite pour dettes, cf. ATF 120 III 11 consid.
+1b ; ATF 114 III 62 consid. 1a).
+b)
+En l’espèce, le commandement de payer ainsi que la commination de faillite mentionnent comme
+débitrice « C.________ SA/LT ». Les procédures de mainlevée et de
+faillite ont quant à elles été ouvertes contre « C.________ SA ».
+C’est en définitive la faillite de « C.________ SA » qui a été
+prononcée par jugement du 20 janvier 2022.
+Or il ressort effectivement de l’extrait du registre du commerce,
+qui
+constituent un fait notoire (art. 151 CPC ; ATF 143 IV 380 consid. 1.1.1 ; ATF 138 II 557 consid.
+6.2),
+que la raison de commerce exacte de la société
+étrangère poursuivie est « C.________ SA/LTD ». L’erreur a toutefois
+été rectifiée auprès du registre du commerce qui a ainsi pu procéder correctement
+aux inscriptions nécessaires à la suite du jugement de faillite. La recourante, à laquelle
+tous les actes de poursuites ont pu être notifiés et qui se dit d’ailleurs disposée
+à régler le montant dû, ne prétend pas qu’il existerait un doute quant à
+l’identité de la personne poursuivie, respectivement mise en faillite. Elle ne soutient d’ailleurs
+pas qu’elle aurait, d’une manière ou d’une autre, été lésée
+dans ses intérêts. En tout état de cause, la recourante est particulièrement mal
+venue de se plaindre d’une désignation inexacte dès lors que son propre papier en-tête
+est lui-même erroné puisqu’il porte la mention « C.________ LTD ».
+Pour le reste, il résulte de la jurisprudence rappelée ci-avant qu’indépendamment
+de la forme juridique de la société étrangère poursuivie, c’est bien le mode
+de la faillite qui est applicable dès lors qu’elle dispose en Suisse d’une succursale
+inscrite – obligatoirement d’ailleurs (cf. art. 935 al. 2 CO [Code des obligations du 30 mars
+1911 ; RS 220]) – au registre du commerce.
+Le moyen doit donc être rejeté.
+III.
+Sur le fond, la recourante conteste sa mise en faillite invoquant qu’elle entend payer la somme
+due et que ses activités, interrompues en raison de la pandémie liée au Covid-19, pourront
+reprendre dans le milieu de l’année.
+a)
+Selon l'art. 174 al. 2 LP, l'autorité de recours peut annuler l'ouverture de la faillite lorsque
+le débiteur rend vraisemblable sa solvabilité et établit par titre que la dette, intérêts
+et frais compris, a été payée (ch. 1) ou que la totalité de la somme à rembourser
+a été déposée auprès de l'autorité judiciaire supérieure à l'intention
+du créancier (ch. 2), ou encore que celui-ci a retiré sa réquisition de faillite (ch.
+3). Ces deux conditions, soit le paiement de la dette à l'origine de la faillite, le dépôt
+de la totalité de la somme à rembourser ou le retrait de la requête de faillite, d’une
+part, et la vraisemblance de la solvabilité, d’autre part, sont cumulatives (TF 5A_600/2020
+du 29 septembre 2020 consid. 3.1 ; Bosshard, Le recours contre le jugement de faillite, in JdT 2010
+II 113 ss, p. 127). Le débiteur ne doit pas seulement prouver le paiement de la dette à l’origine
+de la faillite ou le retrait de la réquisition de faillite, mais il doit encore rendre vraisemblable
+sa solvabilité (TF 5A_510/2020 du 24 juin 2020 consid. 5).
+La solvabilité, au sens de l'art. 174 al. 2 LP, se définit par opposition à l'insolvabilité
+au sens de l'art. 191 LP ; elle consiste en la capacité du débiteur de disposer de liquidités
+suffisantes pour payer ses dettes échues et peut aussi être présente si cette capacité
+fait temporairement défaut, pour autant que des indices d'amélioration de la situation à
+court terme existent. Si le débiteur doit seulement rendre vraisemblable - et non prouver - sa solvabilité,
+il ne peut se contenter de simples allégations, mais doit fournir des indices concrets tels que
+récépissés de paiements, justificatifs des moyens financiers (avoirs en banque, crédit
+bancaire) à sa disposition, liste des débiteurs, extrait du registre des poursuites, comptes
+annuels récents, bilan intermédiaire, etc. En plus de ces documents, le poursuivi doit établir
+qu'aucune requête de faillite dans une poursuite ordinaire ou dans une poursuite pour effets de
+change n'est pendante contre lui et qu'aucune poursuite exécutoire n'est en cours contre lui. L'extrait
+du registre des poursuites constitue un document indispensable pour évaluer la solvabilité
+du failli. La condition selon laquelle le débiteur doit rendre vraisemblable sa solvabilité
+ne doit pas être soumise à des exigences trop sévères ; il suffit que la solvabilité
+apparaisse plus probable que l'insolvabilité (TF 5A_251/2018 du 31 mai 2018 consid. 3.1 et les références
+citées).
+L'appréciation de la solvabilité repose sur une impression générale fondée sur
+les habitudes de paiement du failli. En principe, s'avère insolvable le débiteur qui, par exemple,
+fait systématiquement opposition et ne paie pas même des montants peu élevés. Des
+difficultés momentanées de trésorerie, même si elles amènent un retard dans
+le paiement des dettes, ne sont pas à elles seules un indice d'insolvabilité du débiteur,
+à moins qu'il n'y ait aucun indice important permettant d'admettre une amélioration de sa situation
+financière et qu'il semble manquer de liquidités pour une période indéterminée.
+A l'inverse, l'absence de poursuite en cours n'est pas une preuve absolue de solvabilité ;
+elle constitue toutefois un indice sérieux de la capacité du débiteur de s'acquitter de
+ses engagements échus (TF 5A_600/2020 précité consid. 3.1 ; 5A_251/2018 précité
+consid. 3.1 et les références citées).
+b)
+En l’espèce, la recourante fait valoir que le jugement lui causerait un préjudice difficilement
+réparable, qu’elle est en mesure de régler la situation et ne fait pas l’objet
+d’autres menaces de mises en faillite, et que si elle a été inactive en raison des effets
+du Covid-19, elle va reprendre ses activités et le cours normal de son exploitation d’ici
+le milieu de l’année. Ce faisant, la recourante n’invoque pas – et établit
+encore moins – que les conditions posées à l’art. 174 al. 2 LP pour permettre
+l’annulation de la faillite seraient réalisées.
+En particulier, la recourante n’a pas établi avoir payé, dans le délai de recours,
+l’entier de la créance en poursuite, intérêt et frais compris, la pièce produite
+à ce sujet étant irrecevable (cf. consid. I.b
+supra
+).
+La première condition fait donc défaut. Par ailleurs, la recourante se contente de simples
+allégations et ne fournit aucune preuve permettant de rendre vraisemblable sa solvabilité.
+L’extrait des poursuites montre au contraire que la recourante a laissé s’accumuler
+plusieurs poursuites de faibles montants en 2021, dont certaines ont fait l’objet d’actes
+de défaut de biens. Ces derniers se rapportent en outre exclusivement à des dettes envers l’Administration
+fédérale des contributions et TVA ainsi qu’une créance de l’Office d’impôts
+des personnes morales vaudois. Ces éléments révèlent un manque de liquidités
+et le fait que la recourante ne semble pas en mesure de satisfaire tous ses créanciers. Il en découle
+que la deuxième condition n’est pas réalisée non plus.
+En définitive, force est de considérer que c’est à juste titre que le premier juge
+a prononcé la faillite de la recourante.
+IV.
+En conclusion, le recours doit être rejeté
+et le jugement de faillite du 20 janvier 2022 confirmé. Vu l’effet suspensif accordé,
+la faillite de C.________ prend effet à la date du présent arrêt.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., doivent être
+mis à la charge de la recourante, qui succombe (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement de faillite du 22 janvier 2022 est confirmé, la faillite de C.________ prenant effet,
+vu l’effet suspensif accordé,
+le
+12 mai 2022 à 16 heures
+.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante C.________.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+C.________,
+‑
+G.________SA,
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+-
+M. le Préposé à l'Office des poursuites du district de l’Ouest lausannois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
