@@ -1,0 +1,408 @@
+---
+decision_id: "vd_findinfo_Faillite___2022___13"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2022 / 13"
+decided: "2022-07-15"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8895431"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-255.md", "switzerland/bund/acts/272/art-293.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-293.md", "switzerland/bund/acts/281.1/art-294.md", "switzerland/bund/acts/281.1/art-295b.md", "switzerland/bund/acts/281.1/art-295c.md", "switzerland/bund/acts/641.20/art-091.md"]
+---
+
+# VD Findinfo Faillite / 2022 / 13
+
+## Regeste
+
+SURSIS CONCORDATAIRE, PROLONGATION, ASSAINISSEMENT FINANCIER | 294 LP, 295b al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2022 / 13
+
+SURSIS CONCORDATAIRE, PROLONGATION, ASSAINISSEMENT FINANCIER | 294 LP, 295b al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FV21.012669220392
+108
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+15 juillet 2022
+___________________
+Composition
+:               M.
+Hack
+,
+président
+M.
+Maillard et Mme Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+294 et 295b al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par la
+Confédération
+suisse
+, représentée par l’
+Administration
+fédérale des contributions
+, à Berne,
+contre la décision rendue le 15 mars 2022, à la suite de l’audience du 3 février
+2022, par le Président du Tribunal d’arrondissement de Lausanne, prolongeant le sursis concordataire
+accordé à
+V.________Sàrl
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 19 janvier 2018, V.________Sàrl a déposé un avis de surendettement et une requête
+d’ajournement de faillite de six mois, demandant la nomination de l’agent d’affaires
+breveté W.________ comme curateur. L’intimée indiquait devoir à ses créanciers
+un montant de 387'000 fr. dont 272'992 fr. en poursuite. Elle mentionnait un chiffre d’affaires
+« stable » pour les années 2015 à 2016, « oscillant entre 1'400'000
+fr. et 1'200'000 fr. » et disait avoir réduit ses charges d’exploitation, notamment
+en diminuant sa masse salariale. Elle estimait pouvoir régler l’intégralité de ses
+dettes, à savoir principalement des charges sociales et des impôts, en y affectant l’intégralité
+de son bénéfice, pensant ainsi pouvoir consigner un montant de 5'000 fr. à 10'000 fr.
+par mois sur le compte de son mandataire. Elle entendait également recouvrer ses créances auprès
+de ses débiteurs arriérés pour un montant de 162'639 fr. 55.
+Par décision du 22 janvier 2018, la Présidente du Tribunal d’arrondissement de Lausanne
+a suspendu les poursuites et ajourné toute décision de faillite. Par décision prenant
+date le 29 mars 2018, elle a ordonné l’ajournement de faillite (art. 820 al. 2 et 725a al.
+1, 2
+e
+phrase, CO [Code des obligations ; RS 220]) jusqu’au 30 juin 2018 et désigné l’agent
+d’affaires breveté W.________ comme curateur.
+L’ajournement de faillite a par la suite été prolongé à cinq reprises, pour
+des périodes de six ou neuf mois, la dernière fois jusqu’au 16 mars 2021.
+b)
+Le 22 mars 2021, V.________Sàrl a requis un sursis concordataire provisoire de quatre mois, suivi
+d’un sursis concordataire définitif de six mois. A l’appui de sa requête, elle
+a produit notamment le rapport du curateur du 1
+er
+mars 2021, établi « en l’absence des comptes 2020 » (pièce 3), et
+le rapport annuel de sa fiduciaire sur ses comptes arrêtés au 31 décembre 2020 (pièce
+4).
+Par décision du 9 avril 2021, le Président du Tribunal d’arrondissement de Lausanne a
+accordé à la requérante un sursis provisoire de quatre mois, a désigné l’agent
+d’affaires breveté W.________ en qualité de commissaire provisoire et a convoqué
+les parties à son audience du 12 août 2021. A la suite de cette audience, par décision
+prenant date le 19 août 2021, le président a accordé à la requérante un sursis
+concordataire définitif de six mois échéant le 9 février 2022 et a désigné
+le commissaire provisoire en qualité de commissaire au sursis.
+c)
+Par lettre du 23 août 2021, l’Administration fédérale des contributions (ci-après :
+AFC) a informé le président du tribunal que la TVA due entre l’ajournement de faillite
+et le sursis provisoire de 11'331 fr. 90 (décompte Q04/20) n’avait toujours pas été
+réglée et que le décompte trimestriel de TVA échu à fin mai 2021 (Q01/2021)
+n’avait pas encore été remis et payé, circonstances qui pouvaient, selon elle, être
+interprétée comme une péjoration de la situation financière de la société.
+Invitée à se déterminer, la sursitaire a produit, le 31 août 2021, la preuve du paiement
+de 11'331 fr. 90, exécuté le même jour. Le 30 septembre 2021, elle a produit le décompte
+de TVA Q01/2021 remis à l’AFC.
+Par lettre du 15 décembre 2021, l’AFC a informé le président du tribunal que la
+sursitaire n’était pas à jour avec ses dettes courantes, le décompte de TVA du deuxième
+trimestre 2021 échu le 31 août 2021, de 8'066 fr. 50, n’étant toujours pas payé.
+Invitée à se déterminer, la sursitaire a produit, le 25 janvier 2022, la preuve du paiement
+de 8'066 fr. 50, exécuté le 23 décembre 2021.
+d)
+Le commissaire au sursis a produit son rapport, établi le 31 janvier 2022 et fondé sur les
+comptes arrêtés au 31 décembre 2020, ainsi que la liste des productions de créances
+et la liste des débiteurs. La première présentait une somme totale de 335'801 fr. 80,
+dont 62'077 fr. 22 en première classe, 62'140 fr. 15 en deuxième classe et 211'584 fr. 43 en
+troisième classe ; dans cette dernière classe de créanciers figuraient notamment
+l’AFC pour des créances de 125'137 fr. 80 (TVA), l’Administration cantonale des impôts
+pour des créances de 20'154 fr. 78 (impôts à la source 2019 et 2020) et l’Office
+d’impôt des personnes morales pour des créances de 10'206 fr. 20 (soldes d’impôt
+sur le bénéfice et le capital et d’impôt fédéral direct 2013, 2014 et
+2015). La liste des débiteurs présentait une somme totale d’impayés de 207'786 fr.
+84. Le rapport concluait à la prolongation du sursis pour une durée de six mois supplémentaire.
+e)
+Lors de l’audience qui s’est tenue le 3 février 2022, la sursitaire a indiqué adhérer
+aux conclusions du rapport du commissaire. Le représentant de l’Office des poursuites du district
+de l’Ouest lausannois a produit les dernières réquisitions de poursuite reçues à
+l’encontre de la sursitaire et s’est opposé à la prolongation du sursis. Le commissaire
+a produit une relevé relatif aux cotisations LPP de la requérante, montrant que celle-ci était
+à jour dans ses paiements depuis l’octroi du sursis.
+2.
+Par décision adressée pour notification
+aux parties le 15 mars 2022 et publiée dans la Feuille des avis officiels, le sursis concordataire
+a été prolongé de six mois, soit jusqu’au 9 août 2022 (I), le commissaire au
+sursis a été maintenu dans ses fonctions (II) et invité à déposer son rapport
+une semaine avant l’audience fixée au 4 août 2022 (IV et VI), et les frais judiciaires,
+arrêtés à 400 fr., ont été mis à la charge de la sursitaire (VII).
+3.
+Par acte du 30 mars 2022, l’AFC a recouru
+contre la décision précitée, concluant à l’annulation de la prolongation du
+sursis et à la révocation du sursis concordataire, avec suite de frais et dépens. Les
+pièces produites à l’appui de son recours ne sont pas nouvelles, à l’exception
+de certaines correspondances qu’elle a échangées avec le commissaire entre 2018 et 2021.
+L’Office des poursuites du district de l’Ouest lausannois et l’Office des faillites
+de l’arrondissement de Lausanne ont déclaré s’en remettre à justice, par lettres
+des 9 et 13 juin 2022.
+Le commissaire, par détermination du 16 juin 2022, a conclu au rejet du recours.
+L’intimée, par mémoire de réponse du 17 juin 2022, a conclu au rejet du recours
+et à la confirmation de la décision attaquée. Elle a produit le rapport du commissaire
+au sursis du 31 janvier 2022 ainsi que deux pièces nouvelles, à savoir le rapport du commissaire
+à l’assemblée des créanciers du 4 mai 2022 et le décompte de TVA du quatrième
+semestre 2021 adressé à l’AFC.
+En droit
+:
+I.
+a)
+En vertu de l'art. 295c al. 1 LP, le débiteur
+et les créanciers peuvent attaquer la décision du juge du concordat par la voie du recours,
+conformément au CPC (Code de procédure civile ; RS 272), soit plus précisément
+aux art. 319 à 327a CPC (TF 5A_874/2017 du 7 février 2018 consid. 4.2.1).
+En l’espèce, la recourante, créancière de l’intimée, a ainsi qualité
+pour recourir. Elle a agi dans les formes requises, par acte écrit et motivé, et en temps utile,
+dans les dix jours suivant la notification de la décision attaquée (art. 321 al. 1 et 2 CPC).
+Les pouvoirs de représentation de la signataire de l’acte ont été dûment établis
+par la production d’une procuration. Le recours est recevable.
+b)
+Les réponses de l’intimée, du commissaire au sursis et des deux offices des faillites
+et des poursuites concernés, déposées dans le délai de dix jours suivant la notification
+du recours pour détermination (art. 322 CPC), sont également recevables.
+II.
+Selon l’art. 326 CPC, les conclusions, allégations
+de fait et preuves nouvelles sont irrecevables dans le cadre du recours (al. 1), les dispositions spéciales
+de la loi étant réservées (al. 2). En matière de concordat, la LP n’a pas prévu
+de régime dérogatoire (CPF 13 mai 2015/131 ; CPF 15 janvier 2015/2).
+Il s’ensuit que les faits nouveaux allégués et les preuves nouvelles produites par les
+parties sont irrecevables. C’est en particulier la cas des pièces et faits nouveaux invoqués
+par l’intimée relatifs à l’assemblée des créanciers du 4 mai 2022.
+III.
+a)
+La recourante estime que le sursis accordé est disproportionné et injustifié et que la
+prolongation ne se base sur aucun élément objectif pertinent. Selon elle, la durée de
+la procédure d’ajournement de faillite (de plus de trois ans) aurait dû être prise
+en compte dans la fixation de la durée du sursis et dans la question de sa prolongation ; les
+conditions d’octroi du sursis et de prolongation du sursis devraient être d’autant plus
+restrictives lorsqu’une entreprise a déjà pu bénéficier d’une suspension
+des procédures d’encaissement durant presque quatre ans par l’enchaînement d’un
+ajournement de faillite et d’un sursis concordataire, ces « délais à rallonge »
+n’étant pas sans conséquence pour les créanciers ; la recourante invoque à
+cet égard le risque de prescription fiscale (art. 91 LTVA [loi fédérale régissant
+la taxe sur la valeur ajoutée ; RS 641.20]), mettant en péril l’encaissement de
+ces impôts à moyen terme. La recourante estime également que l’autorité précédente
+a outrepassé son pouvoir d’appréciation en ne tenant pas compte du fait que la sursitaire
+n’a proposé aucune solution d’arrangement pour les arriérés, alors que son
+cas ne présente aucune complexité particulière ; or depuis l’ouverture de la
+procédure d’ajournement de faillite (en mars 2018), aucune proposition concrète n’a
+été soumise à la recourante, qui a fait valoir une créance de « 125'356
+fr. » [réd. recte : 125'137 fr. 80]. La recourante demande l’annulation de
+la prolongation du sursis concordataire et la révocation de ce sursis.
+b)
+Aux termes de l’art. 293 let. a LP, la procédure concordataire est introduite par la requête
+du débiteur, accompagnée des documents suivants : un bilan à jour, un compte de résultats
+et un plan de trésorerie ou d’autres documents présentant l’état actuel et
+futur de son patrimoine, de ses résultats ou de ses revenus ainsi qu’un plan d’assainissement
+provisoire.
+aa)
+Selon l’art. 294 LP, si, durant le sursis provisoire, des perspectives d’assainissement ou
+d’homologation d’un concordat apparaissent, le juge du concordat octroie définitivement
+un sursis de quatre à six mois ; il statue d’office avant l’expiration du sursis
+provisoire (al. 1). Le juge cite le débiteur et, le cas échéant, le créancier requérant
+à comparaître à une audience préliminaire. Le commissaire provisoire fait rapport
+oralement ou par écrit. Le juge peut entendre d’autres créanciers (al. 2). Le juge prononce
+d’office la faillite s’il n’existe aucune perspective d’assainissement ou d’homologation
+d’un concordat (al. 3).
+Pour que le sursis définitif soit accordé, la perspective d'un assainissement sans conclusion
+d'un concordat suffit. Le juge prononce en revanche d'office la faillite s'il n'existe aucune perspective
+d'assainissement ou d'homologation d'un concordat (art. 294 al. 3 LP). Le défaut de perspective
+n'a pas besoin d'être manifeste. Est déterminante l'existence de chances réalistes d'assainissement
+ou de concordat (TF 5A_495/2016 du 11 novembre 2016 consid. 3.1 ; 5A_950/2015 du 29 septembre
+2016 consid. 8.3.1). Lors de l’assainissement, tous les créanciers doivent être totalement
+satisfaits, à moins que des solutions individuelles puissent être trouvées (TF 5A_495/2016
+précité consid. 3.1). A côté de l’apport de nouveaux moyens, entrent également
+en considération des mesures telles que la vente d’actifs de l’entreprise (TF 5A_495/2016
+précité consid. 3.1). Selon un arrêt récemment publié, le Tribunal fédéral
+a encore précisé que l’exigence de perspectives d’assainissement ou d’homologation
+d’un concordat posée par l’art. 294 al. 1 LP signifie qu’un assainissement doit
+pouvoir être attendu, ou qu’un concordat doit présenter des chances réalistes d’aboutir
+(ATF 147 III 226 consid. 3.1.3).
+Pour juger si les conditions de l’homologation d’un concordat sont remplies, au sens de l’art.
+294 al. 1 LP, le juge du concordat, qui statue en procédure sommaire (art. 251 let. a CPC), doit
+se fonder sur les documents mentionnés à l’art. 293 let. a LP précité,
+ainsi que sur l’avis du commissaire au sursis provisoire, qui peut être entendu par écrit
+ou par oral ; le rapport du commissaire doit avant tout renseigner sur le point de savoir s’il
+existe des perspective d’assainissement ou de concordat. La procédure est soumise à la
+maxime d’office, de sorte que le juge peut demander la production d’autres pièces (art.
+255 let. a CPC ; Spühler/Dolge, Schuldbetreibungs- und Konkursrecht II, 8
+e
+éd., Zurich 2014, n. 399, p. 168 ; CPF 3 juin 2019/71 consid. 2 b aa).
+bb)
+Sur demande du commissaire, le sursis – définitif – peut être prolongé jusqu’à
+douze mois et, dans les cas particulièrement complexes, jusqu’à vingt-quatre mois
+(art. 295b al. 1 LP).
+c)
+En l’espèce, la prolongation du sursis concordataire, initialement octroyé le 19 août
+2021, a été accordée - par la décision attaquée rendue le 15 mars 2022 à
+la suite de l’audience du 3 février précédent - sur la base du rapport du commissaire
+du 31 janvier 2022. Or ce rapport se fonde sur des comptes arrêtés au 31 décembre 2020.
+C’est dire que même pour se voir accorder le sursis provisoire et le premier sursis définitif,
+respectivement en mars et en août 2021, l’intimée, pourtant assistée et en procédure
+d’ajournement de faillite depuis trois ans, ce qui aurait dû lui donner le temps de réunir
+les éléments prescrits par l’art. 293 let. a CPC, n’a pas respecté l’exigence
+posée par cette disposition de produire un bilan à jour, ainsi qu’un compte de résultats
+et un plan de trésorerie présentant l’état actuel et futur de son patrimoine. Pour
+ce motif, l’octroi du sursis définitif initial prêtait déjà le flanc à
+la critique. La prolongation de ce sursis est d’autant plus injustifiée qu’elle a été
+demandée sur la base de comptes datant de plus de douze mois, dont on ne saurait admettre qu’ils
+présentent les actifs actuels de la société comme le soutient le commissaire. Au demeurant,
+ce dernier a rapporté que ces comptes « ont fait état d’un résultat à
+l’équilibre de – fr. 5'400.45 », ce qui signifie en réalité
+qu’ils sont déficitaires. A cela s’ajoute que l’intimée avait indiqué,
+dans sa requête d’ajournement de faillite du 19 janvier 2018, qu’elle pourrait
+consigner 5'000 fr. à 10'000 fr. par mois pour régler l’intégralité de ses
+dettes. Or selon le rapport du commissaire établi le 31 janvier 2022, soit quarante-huit mois plus
+tard, elle n’avait consigné que 53'142 fr. 60, somme totalement insuffisante pour
+acquitter, même partiellement, le montant de ses dettes, la seule créance de la recourante
+s’élevant déjà à 125'137 fr. 80 au moins. En outre, le commissaire au sursis,
+curateur de l’intimée depuis 2018, a indiqué dans son rapport du 31 janvier 2022 que
+celle-ci pourrait consigner en plus quelque 20'000 fr. à 25'000 fr. « d’ici la fin
+de l’année » - alors que la prolongation était demandée pour une durée
+de six mois -, mais il n’a pas fait état de perspectives d’assainissement, au sens de
+la jurisprudence exposée ci-dessus. Il n’a pas non plus fait état de démarches concrètes
+en matière d’homologation d’un concordat avec les créanciers de l’intimée,
+alors que ceux-ci, dont la recourante, attendaient alors depuis quatre ans. Dire que la consignation
+évoquée – soit quelque 73'000 fr. à 78'000 fr. au total – « couvrira
+partiellement le montant des créanciers privilégiés » n’était qu’un
+pronostic très insuffisant, d’autant que le sort des autres créanciers, dont la recourante,
+ne faisait l’objet que d’une ébauche de solution évoquée dans les termes les
+plus vagues et dépendante d’une nouvelle prolongation du sursis, durant laquelle il s’agirait
+« de constituer un matelas de liquidités destiné à proposer aux créanciers
+chirographaires un concordat dividende (…) dont le taux ainsi que les échéances
+restent à déterminer ».
+On notera encore que dans son rapport du 1
+er
+mars 2021, le curateur indiquait que les mesures d’assainissement – déjà « exposées
+dans la requête d’ajournement de faillite du 19 janvier 2018, et débattues à l’occasion
+de [ses] rapports antérieurs [réd. soit six entre juin 2018 et août 2020] »
+– tendaient « à l’augmentation du chiffre d’affaires, à la diminution
+des charges, et par conséquent à l’augmentation de la marge en vue de résorber l’état
+de surendettement résultant des comptes ». Or, le rapport du 31 janvier 2022 qu’il
+a établi en qualité de commissaire au sursis indique que « pour l’année
+2021, il est escompté un chiffre d’affaires équilibré », et ne dit
+rien de la diminution des charges, mais mentionne que le règlement des charges LPP et AVS échues
+au 31 décembre 2021 « reste à justifier par la sursitaire ». On voit mal
+comment on pourrait estimer que des mesures d’assainissement, certes envisagées, seraient
+réalisables dans ces conditions. On constate de plus à lire le dernier rapport annuel des comptes
+de l’intimée au dossier, au 31 décembre 2020, que la situation de l’intimée
+a empiré entre 2019 et 2020 : son surendettement a passé de 67'503 fr. 22 à 72'903
+fr. 67, ses produits ont baissé et son résultat a passé de positif (3'100 fr.) à
+négatif (-5'400 fr.). En outre, l’intimée comptait 33'800 fr. d’actifs immobilisés
+sous forme de véhicules, alors que son associé gérant a indiqué, lors de l’audience
+du 3 février 2022, qu’il ne vendait plus d’automobiles depuis 2016, rendant ce chiffre
+peu sérieux. Par ailleurs, dans la demande de sursis concordataire provisoire du 22 mars 2021, le
+conseil de l’intimée indiquait que celle-ci avait « pu mettre des montant relativement
+importants de côté de l’ordre de 75'000 fr. », alors que dans son rapport
+du 31 janvier 2022, le commissaire au sursis a indiqué un montant de 53'142 fr. 60. Ainsi, la somme
+a diminué de près d’un tiers, sans qu’on ait d’explication à ce sujet,
+ce qui rend d’autant moins probable l’existence de ressources permettant de mettre en œuvre
+des mesures d’assainissement, a fortiori des mesures d’assainissement suffisantes ou la passation
+d’un concordat.
+Les motifs de la décision attaquée ne permettent pas de modifier cette appréciation. Cette
+décision retient que l’intimée a engagé un employé de plus à un taux de
+10
+0
+%.
+Cela implique plus de charges et non moins comme les mesures d’assainissement envisagées le
+voulaient. La décision retient par ailleurs qu’il y a encore des dettes courantes à payer
+(cotisations AVS et prêt COVID). Elle retient également que « d’après
+les déclarations du représentant de la requérante, l’activité de la société
+semble bien se porter ». L’associé gérant de l’intimée a en effet
+déclaré en audience que la société avait « beaucoup de travail ».
+Sans autre élément, cela ne suffit toutefois pas pour considérer que la société,
+menacée de faillite, irait mieux. Quant au montant consigné, il était de 68'000 fr. au
+jour de l’audience du 3 février 2022, soit toujours inférieur au montant « de
+l’ordre de 75'000 fr. » mentionné par le conseil de l’intimée en 2021
+comme « mis de côté », sans qu’on ait d’explication à
+ce sujet. La décision attaquée considère néanmoins comme des « perspectives
+de concordat » le fait que la société « escompte en outre la consignation
+d’un montant de 20'000 fr. à 25'000 fr. d’ici à la fin de l’année 2022 »
+et que « le montant ainsi consigné devrait couvrir partiellement le montant des créanciers
+privilégiés ». En définitive, la décision attaquée est fondée
+principalement sur le fait que le commissaire se déclare « optimiste quant à la possibilité
+d’assainissement et d’homologation d’un concordat ». Or ni l’une ni
+l’autre n’a été réalisée ou rendue vaguement crédible malgré
+le temps imparti, le curateur, devenu commissaire, étant en charge depuis 2018 de trouver une solution
+sans que rien n’ait été concrètement fait, et la situation de l’intimée
+s’étant au contraire péjorée selon les derniers comptes produits. Cette seule déclaration
+d’optimisme apparait dès lors bien trop vague et peu étayée pour suffire à
+justifier une autre prolongation du sursis et retarder encore le recouvrement de leurs créances
+par les créanciers.
+Dans ces conditions, il apparait que la décision ne peut pas être confirmée et que la
+cause doit être renvoyée au premier juge pour nouvelle instruction, notamment sur les perspectives
+réelles d’assainissement ou d’homolo-gation d’un concordat au moment de la demande
+de prolongation, et nouvelle décision, tenant compte du temps imparti à l’intimée
+depuis la demande d’ajournement de faillite en janvier 2018 pour s’acquitter de ses dettes
+et du risque que celles-ci se prescrivent.
+III.
+Vu ce qui précède, le recours doit être
+admis, la décision attaquée annulée et la cause renvoyée au juge de première
+instance pour nouvelle instruction et nouvelle décision dans le sens des considérants.
+Les frais judiciaires de deuxième instance, arrêtés à 800 fr., dont la recourante
+a fait l’avance, doivent être mis à la charge de l’intimée (art. 106 al. 1
+CPC). Celle-ci remboursera donc à la recourante son avance de frais de 800 francs.
+Il n’est pas alloué de dépens de deuxième instance à la recourante, qui a procédé
+sans l’assistance d’un mandataire professionnel.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est admis.
+II.
+La décision est annulée et la cause renvoyée au Président du Tribunal d’arrondissement
+de Lausanne pour nouvelle instruction et nouvelle décision dans le sens des considérants.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 800 fr. (huit cents francs),
+sont mis à la charge de l’intimée V.________Sàrl.
+IV.
+Il n’est pas alloué de dépens de deuxième instance.
+V.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Administration fédérale des contributions (pour la Confédération suisse),
+‑
+M. Pascal Stouder, agent d’affaires breveté (pour V.________Sàrl),
+-
+M. W.________, agent d’affaires breveté (commissaire au sursis),
+-
+M. le Préposé à l'Office des poursuites du district de l’Ouest lausannois,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
