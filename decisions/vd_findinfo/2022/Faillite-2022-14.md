@@ -1,0 +1,464 @@
+---
+decision_id: "vd_findinfo_Faillite___2022___14"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2022 / 14"
+decided: "2022-07-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8891962"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-255.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-033.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-293.md", "switzerland/bund/acts/281.1/art-294.md", "switzerland/bund/acts/281.1/art-295c.md"]
+---
+
+# VD Findinfo Faillite / 2022 / 14
+
+## Regeste
+
+RÉVOCATION DU SURSIS CONCORDATAIRE, OUVERTURE DE LA FAILLITE, ASSAINISSEMENT FINANCIER | 294 al. 3 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 20.07.2022 Faillite / 2022 / 14
+
+RÉVOCATION DU SURSIS CONCORDATAIRE, OUVERTURE DE LA FAILLITE, ASSAINISSEMENT FINANCIER | 294 al. 3 LP
+
+TRIBUNAL
+CANTONAL
+FV22.000226-220604
+113
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+20 juillet 2022
+___________________
+Composition
+:               M.
+Hack
+,
+président
+Mme
+Byrde et M. Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+294 al. 3 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+H.________Sàrl
+,
+à [...], contre le jugement rendu le 9 mai 2022, à la suite de l’audience du 3 mai 2022,
+par le Président du Tribunal d’arrondissement de l’Est vaudois, et rectifié le
+13 mai suivant, révoquant le sursis concordataire provisoire accordé à la recourante le
+17 janvier 2022 et prononçant la faillite de celle-ci avec effet au 9 mai 2022 à midi.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+H.________Sàrl est une société
+de droit suisse dont le but est «
+d’offrir
+des services liés au domaine de l’immobilier, tels qu’expertises et mandats de courtage,
+gestion et administration d’immeubles, direction de travaux, entreprise générale de construction
+[…] ». Son associé gérant avec signature individuelle, également détenteur
+de la totalité des parts, est H.________.
+Par requête du 4 janvier 2022, la société a requis du Président du Tribunal d’arrondissement
+de l’Est vaudois (ci-après : le Président) qu’il ajourne sa faillite et lui
+accorde un sursis concordataire provisoire de quatre mois dans le cadre de la poursuite n° 10’016'935
+de l’Office des poursuites du district d’Aigle exercée contre elle à l’instance
+d’O.________SA. A l’appui de sa requête, elle a produit notamment :
+-
+ses comptes annuels provisoires au 22 décembre 2021 ;
+-
+un tableau de flux de trésorerie provisoire pour 2022 ;
+-
+six reconnaissances de dette datées du 3 janvier 2022 par lesquelles quatre sociétés
+différentes, toutes représentées par H.________, confirmaient devoir verser à la
+requérante, en remboursement de frais engagés par celle-ci dans le cadre de divers projets
+immobiliers, les montants respectifs de 760'432 fr. 30 pour la fin du mois de février 2022, de 100'000
+fr. pour la fin du mois de mars 2022, de deux fois 150'000 fr. et de 300'000 fr. pour la fin du mois
+d’avril 2022, et de 75'986 fr. 80 pour la fin du mois de mai 2022 ;
+-
+une proposition de plan d’assainissement fondée sur la prévision d’encaissement
+d’une somme totale de 1'536'419 fr. 10 jusqu’à la fin du mois de mai 2022 et des discussions
+engagées avec des créanciers en vue de postposer certaines de ses dettes, prévoyant de
+verser à O.________SA le montant de 15'000 fr. dans un délai au 21 janvier 2022 et le
+solde de sa créance avant la fin du mois de février 2022.
+b)
+Par
+décision du 17 janvier 2022, le Président a accordé à la requérante un sursis
+provisoire jusqu’au 15 mai 2022, a désigné en qualité de commissaire provisoire
+au sursis la société G.________SA et l’a invitée à déposer un rapport
+détaillé sur la situation de la société sursitaire le 14 avril 2022 au plus tard,
+et a fixé une audience consacrée à l’examen de l’octroi d’un sursis
+définitif au 3 mai 2022.
+c)
+Le commissaire au sursis provisoire a déposé son rapport le 13 avril 2022. D’emblée,
+il relevait que la sursitaire n’avait eu aucune activité commerciale durant la période
+du sursis, ni de dépenses d’exploitation, et expliquait que l’associé gérant
+de la société, promoteur immobilier, créait une nouvelle société pour chaque
+promotion et qu’il n’y avait aucun projet en cours dans la société sursitaire.
+Aucun montant n’avait été encaissé sur le compte de consignation ouvert par le commissaire,
+ni sur les autres comptes de la société. Le montant total des dettes connues, selon la liste
+des créanciers, s’élevait à 4'273'456 fr. 06, dont 862'311 fr. 96 «
+contestés
+et en procédure auprès de tribunaux
+»,
+2'673’209 fr. 70 envers «
+des
+créanciers avec qui M. H.________ est "proche"
+»
+et 314'898 fr. 50 envers «
+des
+créanciers courants à payer
+».
+La proposition de règlement de ces dettes s’articulait en trois points :
+«
+1. Paiement à 100% de toutes les créances
+en cours, soit CHF 314'898.50.
+2.              Obtention d’une
+acceptation de postposition – après les créances en cours – des créanciers
+qui sont proches de M. H.________ pour CHF 2'673'209.70
+3.              Consignation de CHF
+500'000 pour couvrir les décisions judiciaires ou les accords avec les créanciers qui sont
+en procédure judiciaire et dont M. H.________ est convaincu qu’il ne doit pas TOUT payer et
+dont il veut continuer les procédures.
+»
+S’agissant des «
+projections
+de recettes futures
+», la société
+allait encaisser, selon les informations du gérant, la somme de 1'615'000 fr. «
+dans
+un délai de 60 jours environ
+»,
+provenant d’une part d’une société [...] SL, qui s’était engagée
+par lettre du 7 avril 2022 à investir à hauteur de 1'200'000 fr. «
+dans
+un partenariat avec vous et votre société
+»,
+et d’autre part d’une société [...] Sàrl, représentée par H.________,
+pour 160'000 fr. et 265'000 fr. provenant des bénéfices de deux ventes immobilières. Le
+rapport relevait en outre ce qui suit : «
+De
+plus, M. H.________, au travers de ses sociétés, est en train de construire plusieurs
+promotions qui devraient lui permettre de recevoir passablement d’argent. Actuellement il se trouve
+dans un "goulet financier" par le fait que les investissements sont "en cours"
+mais que les ventes n'ont pas encore été encaissées, car les travaux de construction ne
+sont pas terminés
+». Le commissaire
+concluait son rapport en proposant de prolonger le sursis de trois mois pour pouvoir, durant cette période,
+encaisser les montants prévus, formuler les demandes de postpositions, finaliser le projet de concordat
+après l’encaissement des montants prévus et procéder au règlement des charges
+sociales «
+dès
+que possible
+», et à la fin du
+sursis, régler les créances en cours, laisser une somme de 500'000 fr. sur le compte de consignation
+pour liquider les procédures et libérer le solde des montants encaissés pour permettre
+à la société de reprendre ses activités.
+2.
+L’audience fixée le 3 mai 2022 s’est
+tenue en présence de l’associé gérant de la requérante, assisté de son
+conseil, du commissaire et de certains créanciers, assistés de leur conseil. Le procès-verbal
+de l’audience mentionne que le Président a interrogé les comparants, que le commissaire
+a confirmé la teneur de son rapport, que la requérante a «
+fait
+droit à la conclusion prise par le commissaire
+»
+et que les créanciers présents, par la voix de leur conseil, s’en sont remis à justice.
+Par courrier du 4 mai 2022, le commissaire a remis
+au Président sa note d’honoraires ainsi que deux actes de ventes, du 23 mars et du 23 novembre
+2021, qu’il avait reçu après l’établissement de son rapport et qui justifiait
+à ses yeux la liquidation de deux dettes qu’il avait mises à l’inventaire, à
+savoir la créance de C. [...] SA de 819'305 fr. et la créance de [...] et [...] SA de
+400'000 francs.
+Par jugement du 9 mai 2022, notifié à la recourante le 10 mai 2022, rectifié par prononcé
+du 13 mai 2022, le Président a révoqué le sursis provisoire accordé le 17 janvier
+2022 (I) et a prononcé la faillite de H.________Sàrl avec effet au 9 mai 2022 à midi (II
+rectifié), a relevé G.________SA de sa mission de commissaire au sursis provisoire (III) et
+a fixé ses honoraires à 7'583 fr. 70, TVA et débours compris (IV), a dit que la décision
+serait publiée dans la FAO et la FOSC (V), a arrêté à 1'000 fr. les frais de la décision
+et les a mis à la charge de la faillie, frais de publication en sus (VI) et a rejeté toutes
+autres ou plus amples conclusions (VII). Il a constaté d’abord que la requérante n’avait
+eu aucune activité commerciale durant la période de sursis concordataire et qu’aucun
+versement n’était intervenu, contrairement aux prévisions de la requérante fondant
+sa proposition de plan d’assainissement du 4 janvier 2022 ; il a considéré
+ensuite que l’engagement d’investissement de la société [...] SL ne constituait
+qu’une perspectives de développement et de profit, une projection, et non une mesure d’assainissement
+concrète permettant de conclure à une augmentation des liquidités disponibles de la requérante ;
+quant aux montants à encaisser auprès de la société [...] Sàrl qui proviendraient
+de bénéfices liés à des actes de vente, il a considéré que seul l’associé
+gérant de la requérante, et non la requérante elle-même, était formellement
+engagé dans les ventes en question et qu’au surplus, les actes de vente n’indiquaient
+pas la date des versements prévus ; la requérante n’avait pas fourni d’autre
+garantie pour le paiement des créanciers ; par ailleurs, elle ne s’acquittait pas d’un
+certain nombre de charges courantes (acomptes d’impôt pour 2021, loyers de septembre 2021
+à avril 2022, cotisations AVS) ; aucun indice concret ne permettait d’espérer que
+dans un délai raisonnable, elle serait en mesure de mobiliser des liquidités permettant d’assainir
+sa situation ; elle échouait donc à justifier, même au stade de la vraisemblance,
+une prolongation du sursis sans que les intérêts des créanciers ne soient mis en péril.
+3.
+a)
+Par recours du 20 mai 2022 la faillie a conclu,
+avec suite de frais et dépens, à la réforme du jugement qui précède, principalement
+en ce sens que l’ouverture de la faillite est annulée, subsidiairement en ce sens que le sursis
+provisoire est prolongé pour une durée de trois mois et qu’il est renoncé à
+prononcer la faillite, très subsidiairement à l’annulation du prononcé et au renvoi
+de la cause au premier juge pour nouveau prononcé dans le sens des considérants de l’arrêt
+à rendre. Elle a produit des pièces.
+b)
+Par décision du 24 mai 2022, la requête d’effet suspensif contenue dans le recours a
+été admise et les mesures conservatoires usuelles d’inventaire et d’audition de
+la faillie ont été ordonnées.
+c)
+Le 3 juin 2022, la recourante, invoquant l’art. 33 al. 4 LP (loi fédérale sur la poursuite
+pour dettes et la faillite ; RS 28.1), a requis «
+la
+restitution du délai résultant de l’art. 174 LP pour le paiement de la poursuite n°
+10’016’935
+».
+Par lettre du 10 juin 2022, le président de la cour de céans a informé la recourante qu’il
+serait statué sur sa requête dans l’arrêt à intervenir.
+d)
+Par écriture du 20 juin 2022, la recourante s’est déterminée sur l’extrait
+des poursuites au 24 mai 2022 la concernant, comme elle avait été invitée à le faire
+par avis du 7 juin 2022.
+En droit
+:
+I.
+a)
+En vertu de l'art. 295c al. 1 LP, le débiteur
+et les créanciers peuvent attaquer la décision du juge du concordat par la voie du recours,
+conformément au CPC (Code de procédure civile ; RS 272), soit plus précisément
+aux art. 319 à 327a CPC (TF 5A_874/2017 du 7 février 2018 consid. 4.2.1).
+Lorsque dans la même décision, la faillite est prononcée à la suite du refus de l’octroi
+du sursis définitif (art. 294 al. 3 LP) parce qu’il n’existe pas de perspective d’assainissement
+ou d’homologation d’un concordat, la partie recourante doit attaquer les deux points (TF
+5A_950/2015 du 29 septembre 2016 consid. 8.3.2 et 8.3.3.1) et le recours est régi par l’art
+.
+174
+LP
+(TF 5A_874/2017 précité ; TF
+5A_495/2016 du 11 novembre 2016 consid. 3.2.4).
+En l’espèce, déposé dans les formes requises, par acte écrit et motivé
+(art. 321 al. 1 CPC), et en temps utile, dans les dix jours suivant la notification du jugement attaqué
+(art. 321 al. 2 CPC ; art. 174 al. 1 LP), le recours, dans la mesure où il tend à l’annulation
+de la faillite et à l’octroi d’une prolongation du sursis concordataire, est recevable.
+b)
+Selon l’art. 326 CPC, les conclusions, allégations de fait et preuves nouvelles sont irrecevables
+dans le cadre du recours (al. 1), les dispositions spéciales de la loi étant réservées
+(al. 2). En matière de concordat, la LP n’a pas prévu de régime dérogatoire
+réservé par l’art. 326 al. 2 CPC ; une telle dérogation existe en revanche
+pour le recours en matière de jugement de faillite (art. 174 al. 1 LP). Il s’ensuit que, lorsque
+le jugement attaqué prononce la faillite de la partie recourante, celle-ci peut faire valoir des
+faits nouveaux qui se sont produits avant l’audience de première instance ainsi que de vrais
+nova tendant à prouver sa solvabilité (CPF 26 février 2019/50 et les arrêts
+cités).
+Dans cette mesure, les pièces produites à l’appui du recours sont recevables. Elles sont
+décrites infra dans la mesure utile au raisonnement en droit.
+II.
+a)
+Dans son écriture du 3 juin 2022, invoquant
+l’art. 33 al. 4 LP, la recourante a requis la restitution du délai résultant de l’art.
+174 LP pour le paiement de la poursuite n° 10'016'935, «
+seule
+demeurant parmi les poursuites ayant donné lieu à la réquisition de faillite
+»,
+en faisant valoir que le paiement en faveur d’O.________SA «
+semble
+avoir été annulé par la banque
+».
+A titre de preuves, elle a offert de fournir «
+ultérieurement
+»,
+n’ayant pas encore reçu ces éléments de la part de la banque, la preuve de l’exécution
+du paiement et un courrier de la banque expliquant les raisons de l’absence d’exécution
+immédiate de ce paiement. A l’appui de son recours, elle a produit l’ordre de paiement
+du montant de 162'315 fr. 90 en faveur de l’Office des poursuites du district d’Aigle, avec
+la mention de la poursuite concernée, donné le 20 mai 2022 à la Banque Raiffeisen au débit
+d’un compte dont elle n’est pas titulaire, mais une société [...] Sàrl –
+dont l’associé gérant est H.________ (pièce 4).
+b)
+Dans la mesure où le recours est en l’occurrence régi par l’art. 174 LP, la restitution
+du délai dix jours fixés par cette disposition paraît effectivement devoir s’examiner
+au regard de l’art. 33 al. 4 LP et non de l’art. 148 CPC. La question peut toutefois rester
+ouverte, dès lors que les deux dispositions exigent une absence de faute de la partie défaillante
+dans son empêchement d’agir dans le délai prescrit – ou une faute seulement légère
+(art. 148 al. 1 CPC). Or, en l’espèce, la recourante s’est bornée à alléguer
+que l’ordre de paiement avait été annulé par la banque sans faute de sa part.
+Elle n’a produit toutefois aucun document susceptible d’établir les raisons de l’inexécution
+de cet ordre. Si on ne peut certes pas complètement exclure que, comme elle l’allègue,
+«
+du fait du système
+de vérification interne de l’établissement bancaire, des contrôles supplémentaires
+auraient été exigés
+»,
+on peut toutefois aussi concevoir que l’ordre n’ait pas été exécuté en
+raison d’un solde insuffisant sur le compte en question. Certes, la recourante n’en est pas
+titulaire, mais son associé gérant est aussi celui de la société titulaire du compte.
+Elle n’a d’ailleurs produit aucune pièce qui établirait que ce paiement a désormais
+été effectué.
+III.
+a)
+Selon l’art. 294 LP, si, durant le sursis
+provisoire, des perspectives d’assainissement ou d’homologation d’un concordat apparaissent,
+le juge du concordat octroie définitivement un sursis de quatre à six mois ; il statue
+d’office avant l’expiration du sursis provisoire (al. 1). Le juge cite le débiteur et,
+le cas échéant, le créancier requérant à comparaître à une audience
+préliminaire. Le commissaire provisoire fait rapport oralement ou par écrit. Le juge peut entendre
+d’autres créanciers (al. 2). Le juge prononce d’office la faillite s’il n’existe
+aucune perspective d’assainissement ou d’homologation d’un concordat (al. 3).
+Pour que le sursis définitif soit accordé, la perspective d'un assainissement sans conclusion
+d'un concordat suffit. Le juge prononce en revanche d'office la faillite s'il n'existe aucune perspective
+d'assainissement ou d'homologation d'un concordat (art. 294 al. 3 LP). Le défaut de perspective
+n'a pas besoin d'être manifeste. Est déterminante l'existence de chances réalistes d'assainissement
+ou de concordat (TF 5A_495/2016 du 11 novembre 2016 consid. 3.1 ; 5A_950/2015 du 29 septembre
+2016 consid. 8.3.1). Lors de l’assainissement, tous les créanciers doivent être totalement
+satisfaits, à moins que des solutions individuelles puissent être trouvées (TF 5A_495/2016
+précité consid. 3.1). A côté de l’apport de nouveaux moyens, entrent également
+en considération des mesures telles que la vente d’actifs de l’entreprise (TF 5A_495/2016
+précité consid. 3.1). Selon un arrêt récemment publié, le Tribunal fédéral
+a encore précisé que l’exigence de perspectives d’assainissement ou d’homologation
+d’un concordat posée par l’art. 294 al. 1 LP signifie qu’un assainissement doit
+pouvoir être attendu, ou qu’un concordat doit présenter des chances réalistes d’aboutir
+(ATF 147 III 226 consid. 3.1.3).
+Pour juger si les conditions de l’homologation d’un concordat sont remplies, au sens de l’art.
+294 al. 1 LP, le juge du concordat, qui statue en procédure sommaire (art. 251 let. a CPC), doit
+se fonder sur les documents mentionnés à l’art. 293 let. a LP (un bilan à jour,
+un compte de résultats et un plan de trésorerie ou d’autres documents présentant
+l’état actuel et futur du patrimoine, des résultats ou des revenus du débiteur,
+ainsi qu’un plan d’assainissement provisoire), et sur l’avis du commissaire au sursis
+provisoire, qui peut être entendu par écrit ou par oral ; le rapport du commissaire doit
+avant tout renseigner sur le point de savoir s’il existe des perspective d’assainissement
+ou de concordat. La procédure est soumise à la maxime d’office, de sorte que le juge
+peut demander la production d’autres pièces (art. 255 let. a CPC ; Spühler/Dolge,
+Schuldbetreibungs- und Konkursrecht II, 8
+e
+éd., Zurich 2014, n. 399, p. 168 ; CPF 3 juin 2019/71 consid. 2 b aa).
+b)
+En l’espèce, il résulte du dossier de première instance, d’une part, des explications
+de la recourante (allégués 17 à 22) et des pièces 10, 11, 12 et 13 produites à
+l’appui de son recours, d’autre part, que plusieurs de ses dettes ont été reprises
+ou postposées. Ainsi, par contrat du 17 mai 2022, la dette de la recourante envers la société
+[...] SA – dont l’administrateur avec signature individuelle est H.________ –, d’un
+montant de 1’054’904 fr. 70, a été reprise par la société H.________
+SA – dont l’administrateur avec signature individuelle est également H.________ –,
+dans le cadre de la reprise par cette société des engagements de la recourante dans une promotion
+immobilière à [...] (all. 17 et 18 et p. 10). Les créances de C. [...] SA et de [...]
+et [...] SA, d’un montant de 819'305 fr. et de 400'000 fr., ont été reprises par
+H.________ SA et éteintes par compensation dans le cadre des ventes immobilières de mars et
+novembre 2021 (courrier du commissaire au Président du 4 mai 2022 ; all. 19 et 20 et p. 11
+et 12). Deux créanciers «
+proches
+»
+([...] et [...]) ont consenti à la postposition de leurs créances respectives de 250'000 fr.
+et 200'000 fr., par convention de postposition du 19 mai 2022 et du 16 mai 2022 (all. 21 et p. 13). On
+relève cependant que le préambule de ces deux conventions est le suivant : «
+L’évolution
+négative des affaires de la Société [réd. : H.________Sàrl] suscitent l’inquiétude
+qu’un bilan intermédiaire ferait apparaître que la société est en situation
+de surendettement
+». Selon la recourante,
+deux autres créanciers «
+proches
+»
+([...] Sàrl et [...]) «
+renoncent
+également à l’exigibilité de leur créance respective, comme cela ressort notamment
+des observations émises dans la liste des créances établie par le commissaire
+»
+(all. 22). Or, les observations en question sont les suivantes : «
+Projet
+de contrat de prêt à 150’000- accord reprise d’une villa promotion de
+[...]»
+en regard de la créance de [...] Sàrl de 199'000 fr., et « contrat de prêt 150000 »
+en regard de la créance de [...] de 150'000 francs. On est loin de l’expression claire d’une
+renonciation à exiger le remboursement des créances en question.
+En outre, on observe que, selon la liste des affaires en cours au 24 mai 2022 versée au dossier,
+la recourante fait toujours l’objet de poursuites pour une somme de 1'199'031 fr. 90. Certes, ces
+poursuites sont pour la plupart bloquées par des oppositions et des actions en libération de
+dette ont été ouvertes par la recourante contre trois de ses créanciers – procédures
+en cours ou suspendues (p. 6, 7 et 8). Toutefois, il demeure la poursuite n° 1’016'935
+au stade de la commination de faillite, qui n’a ainsi toujours pas été réglée
+en dépit des promesses réitérées de la recourante depuis le début de la procédure
+concordataire. On observe d’ailleurs que la recourante affirme avoir réglé plusieurs
+de ses dettes, mais ne produit comme preuve que des ordres de paiement, impropres à établir
+que les versements ont effectivement eu lieu (p. 5, 9, 14). Les ordres contenus dans les pièces
+5 et 9 se rapportent au surplus à un compte dont [...] Sàrl est titulaire et non pas la
+recourante.
+Enfin et surtout, on constate que la recourante n'a pas produit de comptes annuels récents et qu’elle
+admet ne pas en disposer, qu’elle n’a déployé et ne déploie toujours aucune
+activité, qu’elle n’a encaissé aucun des montants qu’elle était censée
+recevoir, selon sa requête de sursis provisoire, durant le premier semestre 2022, et qu’elle
+n’a réduit son passif que par le biais de la reprise ou du paiement de ses dettes par d’autres
+sociétés dont son propre gérant est également gérant ou administrateur. Ainsi
+les poursuites mentionnées dans le décompte débiteur établi par l’Office des
+poursuites d’Aigle le 11 mai 2022 qui ne figurent plus dans les affaires en cours au 24 mai 2022
+n’ont pas été payées par la recourante, qui n’en avait de tout évidence
+pas les moyens. Il en va de même du paiement d’autres créances (cf. p. 15 et 16).
+Au vu de ce qui précède, il est manifeste qu’il n’existe absolument aucune perspective
+sérieuse d’assainissement de la recourante. Le refus de prolonger le sursis provisoire initialement
+octroyé, la révocation de ce sursis et le prononcé de la faillite sont donc parfaitement
+justifiés
+IV.
+En conclusion, le recours, manifestement mal fondé, doit être rejeté et le jugement confirmé,
+la faillite de H.________Sàrl prenant effet, vu l’effet suspensif accordé, à la
+date du présent arrêt.
+Cet arrêt confirmant la révocation du sursis concordataire, il fera l’objet d’une
+publication dans la FAO et la FOSC.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., frais de publication
+en sus, doivent être mis à la charge de la recourante (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite de H.________Sàrl prenant effet, vu l’effet suspensif
+accordé, le 20 juillet 2022, à 16 heures 15.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+frais de publication en sus, sont mis à la charge de la recourante.
+Le
+président :               La greffière
+:
+Du
+20 juillet 2022
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Maxime Crisinel, avocat (pour H.________Sàrl),
+‑
+Me Valentin Aebischer, avocat (pour O.________SA),
+-
+G.________SA, commissaire au sursis.
+-
+M. le Préposé à l'Office des poursuites du district d’Aigle,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l’Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de l’Est vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+-
+Mme Geneviève Gehrig,
+agent d’affaires breveté (pour [...], [...], [...]).
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois.
+La greffière :
