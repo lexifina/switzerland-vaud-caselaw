@@ -1,0 +1,359 @@
+---
+decision_id: "vd_findinfo_Plainte___2022___14"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2022 / 14"
+decided: "2022-07-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8909996"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-027.md", "switzerland/bund/acts/281.1/art-067.md", "switzerland/bund/acts/281.1/art-069.md", "switzerland/bund/acts/281.35/art-062.md", "switzerland/bund/acts/291/art-155.md"]
+---
+
+# VD Findinfo Plainte / 2022 / 14
+
+## Regeste
+
+PLAINTE{LP}, POUVOIR DE REPRÉSENTATION, PROCURATION, DROIT INTERNATIONAL PRIVÉ, AUTORISATION OU APPROBATION{EN GÉNÉRAL}, NOUVEAU MOYEN DE PREUVE | 155 let. i LDIP, 18 al. 1 LP, 25 LVLP, 28 al. 4 LVLP, 33 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2022 / 14
+
+PLAINTE{LP}, POUVOIR DE REPRÉSENTATION, PROCURATION, DROIT INTERNATIONAL PRIVÉ, AUTORISATION OU APPROBATION{EN GÉNÉRAL}, NOUVEAU MOYEN DE PREUVE | 155 let. i LDIP, 18 al. 1 LP, 25 LVLP, 28 al. 4 LVLP, 33 LVLP
+
+TRIBUNAL
+CANTONAL
+FA21.043781-211918
+11
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+28 juillet 2022
+___________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1 LP ; 25,  28 al. 4 et 33 LVLP ; 155 let. i LDIP,
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par l’
+Association
+A.________
+, à [...], contre la décision
+rendue le 3 décembre 2021, à la suite de l’audience du 11 novembre 2021, par le Président
+du Tribunal d’arrondissement de Lausanne, autorité inférieure de surveillance, rejetant
+la plainte déposée par la recourante contre le commandement de payer notifié dans la poursuite
+n° 10’157’480 de l’
+Office
+des poursuites du district de Lausanne
+exercée
+à l’instance de
+N.________Co.,
+Ltd
+, à [...].
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 30 septembre 2020, N.________Co., Ltd, «
+[...]
+»
+(ci-après : la poursuivante ou l’intimée) représentée par les avocats
+Miguel Oural et Hikmat Maleh, membres de l’étude Lenz & Staehelin à Genève,
+a adressé à l’Office des poursuites du district de Lausanne (ci-après : l’Office)
+une réquisition de poursuite à l’encontre de Association A.________ (ci-après :
+la poursuivie, la plaignante ou la recourante), portant sur un montant de 18'991'229 fr., plus intérêt
+à 5% l’an dès le 10 décembre 2016, et indiquant comme cause de l’obligation
+ou titre de la créance : «
+Share
+Transfer Agreement du 28 novembre 2014
+».
+Le 1
+er
+octobre 2020, l’Office a établi un commandement de payer (poursuite n° 9’734’121)
+reprenant les indications mentionnées dans la réquisition de poursuite. L’acte a été
+notifié le 13 octobre 2020 à la poursuivie, qui aurait formé opposition totale à
+la poursuite. Une telle opposition n’est pas mentionnée sur l’exemplaire de l’acte
+au dossier. Quoi qu’il en soit, la poursuivante n’a pas demandé la continuation de la
+poursuite.
+b)
+Le 23 septembre 2021, les conseils des parties ont échangé des courriels dont il résulte
+que la poursuite précitée avait pour but d’interrompre une prescription et que la poursuivante
+souhaitait obtenir de la poursuivie une déclaration de renonciation à se prévaloir de
+la prescription afin d’éviter de devoir requérir une nouvelle poursuite à son encontre.
+A cette occasion, le conseil de la poursuivie a demandé que lui soit communiquée la procuration
+autorisant l’étude Lenz & Staehelin à agir au nom de la poursuivante.
+c)
+Le 6 octobre 2021, la poursuivante, représentée par les mêmes avocats, a adressé
+à l’Office une réquisition de poursuite identique à la précédente.
+Le 7 octobre 2021, l’Office a établi un commandement de payer (poursuite n° 10’157’480)
+reprenant les indications mentionnées dans la réquisition. Notifié le 11 octobre 2021
+à la poursuivie, l’acte a été frappé d’opposition totale.
+2.
+a)
+Le 15 octobre 2021, la poursuivie a saisi le Président du Tribunal d’arrondissement de Lausanne,
+autorité inférieure de surveillance, d’une plainte contre la poursuite n° 10’157'480,
+concluant à l’annulation de celle-ci et à sa radiation du registre. Selon elle, l’étude
+Lenz & Staehelin ne disposait pas d’une procuration valablement signée par un organe de
+la poursuivante, la procuration qu’elle avait produite n’étant pas datée et portant
+la signature d’un certain T.________ ; or ce dernier, d’ailleurs membre du comité
+directeur de la poursuivie, aurait «
+par
+le passé, signé divers documents
+»
+pour le compte de la poursuivante, mais n’aurait plus aucun lien avec celle-ci «
+depuis
+près d’une année
+».
+En outre, l’adresse de la poursuivante indiquée sur le commandement de payer ne correspondait
+pas à l’adresse officielle de son siège, à savoir «
+[...]
+».
+La plaignante a produit notamment les commandements de payer n° 9’734'121 et n° 10’157'480,
+les courriels échangés le 23 septembre 2021, une copie – mal exécutée, le bas
+du document étant tronqué – de la procuration qui lui avait été transmise à
+sa demande par la poursuivante, un extrait de son propre site internet mentionnant T.________ comme membre
+de son comité directeur depuis le 3 novembre 2018, des exemples de signature de T.________,
+un extrait du Registre du commerce [
+Companies
+Registry
+] de [...] du 11 octobre 2021 concernant
+la poursuivante, mentionnant que son directeur est K.________, et un courriel de T.________ au conseil
+de la poursuivie du 13 octobre 2021, indiquant qu’il avait signé la procuration en faveur
+de Lenz & Staehelin lorsqu’il était membre du conseil d’administration de la poursuivante.
+b)
+L’Office s’est déterminé par mémoire du 26 octobre 2021, concluant à
+ce qu’il lui soit ordonné de fixer un délai au mandataire de la poursuivante afin de
+rectifier le domicile de celle-ci et à ce que la plainte soit rejetée pour le surplus. Il a
+notamment produit les deux réquisitions de poursuite en cause et la liste des avocats faisant l’objet
+d’une interdiction provisoire ou définitive de pratiquer dans le canton de Vaud au 1
+er
+mai 2021.
+c)
+Par détermination du 2 novembre 2021, l’intimée a conclu à ce que la plaignante
+soit déboutée de toutes ses conclusions et condamnée au paiement de tous frais judiciaires,
+ainsi qu’à des dépens. Elle a produit un courriel du 26 mai 2017 par lequel elle transmettait
+à l’étude Lenz & Staehelin une procuration non datée et signée par T.________,
+donnant pouvoir aux avocats Oural et Maleh de représenter l’intimée dans le procès
+l’opposant notamment à la plaignante, une nouvelle procuration de la même teneur, datée
+du 12 octobre 2021 et signée par «
+le
+président du conseil d’administration de [l’intimée], M. K.________
+»,
+et une réquisition déposée auprès du Registre du commerce de [...] le 1
+er
+novembre 2019 par l’intimée relative au changement d’adresse de son siège social
+[réd. : de [...] à [...], à [...]].
+3.
+Par décision rendue le 3 décembre 2021,
+l’autorité inférieure de surveillance a rejeté la plainte (I), sans frais ni dépens
+(II). Elle a considéré notamment ce qui suit : «
+Bien
+qu’une ratification de l’éventuel vice ait été possible, il y a lieu de relever
+que la question de la reconnaissance du représentant peut rester en suspens au stade de l’examen
+opéré par l’Office des poursuites examinant la requête de poursuite, dans la mesure
+où toutes personnes ayant les droits civils est habileté (sic) [sont habilitées] à
+représenter une autre personne dans une procédure d’exécution forcée, et notamment
+les représentants professionnels, sauf cas d’interdiction. Dans le cas qui nous occupe, Mes
+Miguel Oural et Hikmat Maleh ne font état d’aucune interdiction, leur permettant ainsi de
+valablement représenter des parties dans des procédures d’exécution forcée
+».
+Elle a retenu par ailleurs que, selon les explications de l’intimée dans ses déterminations,
+l’erreur dans la mention de son adresse sur la réquisition de poursuite, reprise dans le commandement
+de payer, provenait du transfert de l’adresse de son siège au sein de la même ville,
+que cette erreur avait ainsi été rectifiée et qu’au surplus, la plaignante, qui
+savait qu’une poursuite allait être requise par l’intimée à son encontre,
+ne pouvait pas prétendre avoir eu un quelconque doute sur l’identité de la poursuivante
+du fait que l’adresse de celle-ci était erronée.
+4.
+La plaignante a recouru par acte du 16 décembre
+2021, concluant, avec suite de frais et dépens, à l’annulation de la poursuite litigieuse
+et à sa radiation du registre. Elle a produit, outre la décision attaquée, des pièces
+figurant déjà au dossier.
+L’Office, par lettre du 4 janvier 2022, a déclaré maintenir intégralement la détermination
+qu’il avait produite devant l’autorité inférieure de surveillance et se rallier
+à la décision attaquée. Il a préavisé en faveur du rejet du recours.
+Par courrier du 23 mars 2022, le nouveau conseil de l’intimée a informé la cour de céans
+de son mandat et a produit une procuration datée du 18 mars 2022 et signée, sa mandante faisant
+en outre élection de domicile en son étude. Ce courrier a été transmis à la
+recourante pour information le 18 mai 2022.
+Par détermination du 25 avril 2022, l’intimée a conclu, avec suite de frais et dépens,
+au rejet du recours. Elle a produit une copie du passeport de K.________ comportant la signature de celui-ci
+et un extrait du Registre du commerce de [...] mentionnant qu’il est le directeur de l’intimée.
+En droit :
+1
+.
+Formé contre une décision de l’autorité inférieure de surveillance dans le
+délai de dix jours suivant sa notification (art. 18 al. 1 LP et 28 al. 1 LVLP [loi vaudoise d’application
+de la LP ; RSV 280.05]), le recours a été déposé en temps utile. Il comporte
+des conclusions et l’énoncé des moyens invoqués, de sorte qu’il est conforme
+aux exigences de l’art. 18 LP et de la jurisprudence y relative en matière de motivation (TF
+5A_118/2018 du 7 février 2018 consid. 4.1 et les références citées). Il est
+ainsi recevable.
+Il en va de même des déterminations de l’intimée (art. 31 al. 1 LVLP) et des pièces
+nouvelles produites à leur appui (art. 28 al. 4 LVLP).
+L’Office s’est déterminé en temps utile (art. 31 al. 1 LVLP). En revanche, la recevabilité
+d’une motivation consistant à renvoyer aux moyens soulevés en première instance
+est douteuse (cf. ATF 138 III 374 consid. 4.3.1 concernant les exigences de motivation en matière
+d’appel civil et TF 5A_71/2019 du 12 février 2020 consid. 3.3.2 précisant que les
+mêmes exigences s’appliquent à la réponse à l’appel). La question peut
+toutefois rester ouverte en l’espèce.
+2.
+La recourante reproche à l’autorité précédente de ne pas avoir clairement tranché
+la question de la représentation de l’intimée, sans toutefois se plaindre d’un
+déni de justice. Elle estime que la question de savoir qui a le pouvoir de représenter l’intimée
+doit être tranchée en application de la LDIP (loi fédérale sur le droit international
+privé ; RS 291), soit selon le droit [...] qui est la lex societatis, et que rien n’a
+été établi sur ce point. Elle soutient ensuite en substance que la procuration que lui
+a transmise l’étude Lenz & Staehelin, non datée et signée «
+par
+une personne indéterminée qui semble être M. T.________
+»,
+n’était plus valable au moment de la réquisition de poursuite, tandis que la seconde
+procuration, produite dans le cadre de la procédure de plainte, datée du 12 octobre 2021 et
+signée en caractères chinois, était «
+suspecte
+»
+en ce qu’elle ne permettait pas de savoir qui l’avait signée et donc s’il s’agissait
+d’une personne apte à engager l’intimée.
+2.1
+Aux termes de l'art. 67 ch. 1 LP (loi fédérale sur la poursuite pour dettes et la faillite ;
+RS 281.1), la réquisition de poursuite doit énoncer notamment le nom et le domicile du créancier
+et, s'il y a lieu, de son mandataire. L'art. 69 al. 2 ch. 1 LP prescrit que ces indications doivent être
+reproduites dans le commandement de payer. Le préposé n'a pas à rechercher d'office si
+les personnes qui ont signé la réquisition de poursuite au nom du créancier possèdent
+réellement le pouvoir dont elles se prévalent. C'est en principe au débiteur poursuivi
+de s'opposer à une poursuite introduite par une personne non autorisée à représenter
+le créancier. Cette exception se rapportant non pas à la créance comme telle ni au droit
+de la faire valoir par la voie de la poursuite, mais à la validité de la réquisition de
+poursuite, le poursuivi doit la soulever par la voie de la plainte de l’art. 17 LP (ATF 130 III
+231 consid. 2.1 ; ATF 107 III 49 consid. 3.1.1 ; ATF 84 III 72 consid. 1 ; TF 5A_536/2021
+du 8 septembre 2021 consid. 4.2.2 ; TF 5A_643/2017 du 3 mai 2018 consid. 3.3.1).
+Dès lors que cette voie est ouverte pour se plaindre d’un défaut de pouvoir de représentation
+de la personne indiquée comme représentant du créancier dans la réquisition de poursuite,
+il est évident que cette question doit être tranchée, en cas de plainte, par l’autorité
+de surveillance compétente.
+2.2
+En l’espèce, l’autorité précédente a éludé cette question en
+limitant son examen à l’étendue de la vérification du pouvoir de représentation
+à laquelle l’Office doit procéder lorsqu’il est saisi d’une réquisition
+de poursuite par le représentant d’un créancier. Or, elle devait examiner si, dans la
+procédure en cause, les mandataires concernés avaient la capacité d'agir pour l’intimée.
+En effet, la capacité générale d’une personne à pouvoir agir dans certaines
+procédures ne se confond pas avec sa capacité spéciale à agir pour une personne donnée,
+dans une procédure déterminée. En d’autres termes, il ne suffit pas qu’un
+avocat puisse agir devant un tribunal pour qu’il soit nécessairement légitimé à
+agir pour une personne déterminée. Pour que tel soit le cas, il faut encore que cette personne
+l’ait autorisé à agir pour elle, ce qui ne se présume pas. Ainsi, le fait que Mes
+Oural et Maleh ne soient pas interdits de la représentation prévue par l’art. 27
+LP n’implique pas qu’ils étaient légitimés à représenter l’intimée
+dans une procédure de poursuite. Il fallait pour cela qu’elle les y ait autorisés, respectivement
+qu’elle ratifie leurs actes faits en son nom.
+2.3
+A cet égard, la jurisprudence retient que l'acte de poursuite formé par un représentant
+sans pouvoirs est valable lorsque le représenté le ratifie dans la procédure de plainte
+contre cet acte (ATF 107 III 49 consid. 1 et 2 – d’ailleurs cité par la recourante ;
+TF 5A_536/2021 précité consid. 4.2.2 et les références citées). Dans ce
+dernier arrêt, le Tribunal fédéral a toutefois laissé ouverte la question de savoir
+si l'autorité de surveillance était tenue de fixer au représentant ou aux représentés
+eux-mêmes un délai pour produire les ratifications, ou selon le cas, les procurations (idem).
+2.4
+En l’espèce, la première procuration produite n’est pas datée, de sorte que
+même si les parties s’entendent sur le fait qu’elle a été signée par
+T.________ et que ce dernier a eu durant une certaine période - d’ailleurs ni alléguée,
+ni prouvée - les pouvoirs de représenter l’intimée, on ne peut pas considérer,
+sans autre élément, qu’il était habilité à engager l’intimée
+au moment où il a signé cette procuration. Dans ces conditions, cette procuration ne suffit
+pas à démontrer que l’intimée aurait valablement autorisé l’étude
+Lenz et Staehelin, respectivement Mes Oural et Maleh, à agir pour elle dans le cadre de la réquisition
+de poursuite litigieuse.
+La seconde procuration produite est certes datée du 12 octobre 2021, mais elle ne comporte comme
+signature qu’un idéogramme chinois qu’on ne peut pas identifier par le texte même
+de la procuration. Dans sa réponse, l’intimée, représentée par son nouveau
+conseil, a indiqué que cette procuration avait été signée par K.________, qui est
+le directeur de l’intimée. En preuve de ces allégations, elle a produit une copie du
+passeport de l’intéressé et un extrait du Registre du commerce de [...] concernant l’intimée
+(produit également précédemment sous forme d’extrait internet [
+Cyber
+Search
+] par la recourante). Ces éléments
+ont été transmis à la recourante, qui n’a pas fait usage de son droit de réplique
+spontanée pour contester l’authenticité de ces documents. Cependant, elle fait valoir
+à raison, vu l’art. 155 let. i LDIP, que le droit [...] est applicable à la question
+de savoir qui peut représenter l’intimée, dont le siège est à [...], et que
+K.________, seul directeur de l’intimée, est habilité à engager celle-ci. Ces éléments
+permettent de retenir qu’en droit [...], la personne inscrite au registre du commerce comme directeur
+unique est habilitée à représenter la société. Cela étant, contrairement
+à ce que soutient l’intimée, les idéogrammes figurant sur la procuration datée
+du 12 octobre 2021 ne correspondent pas à la signature figurant sur le passeport de K.________.
+Ils correspondent en revanche à son nom chinois, tel qu’il figure en page 4 de l’extrait
+du registre du commerce produit par l’intimée. Dans ces conditions, on ne peut qu’en
+déduire que le nom de K.________ a été indiqué en pied de la procuration en question,
+et non que celui-ci l’a signée.
+Quoi qu’il en soit, l’intimée a produit dans la procédure de recours, soit de manière
+recevable vu l’art. 28 LVLP, une troisième procuration, datée du 18 mars 2022 et signée
+par K.________ de manière reconnaissable cette fois-ci, vu la comparaison de la signature apposée
+sur dite procuration avec celle figurant dans son passeport. On doit donc considérer que le nouveau
+conseil de l’intimée est habilité à représenter celle-ci par la procuration
+signée par son directeur. Or, par la réponse au recours rédigée par ce conseil, l’intimée
+a clairement ratifié la réquisition de poursuite introduite en son nom.
+Dès lors qu’aucun délai n’avait été imparti à l’intimée
+pour produire une procuration, d’office ou sur requête, en application par analogie de l’art.
+25 LVLP qui régit les pouvoirs du mandataire du plaignant et du recourant (art. 33 LVLP), la procuration
+produite en procédure de recours, recevable, permet la ratification de la réquisition de poursuite.
+En conséquence, celle-ci doit être considérée comme valable sous cet angle. La recourante
+n’a plus formulé en recours d’autres argument pour s’opposer à la validité
+de la poursuite.
+3.
+Vu ce qui précède, le recours doit être
+rejeté et le prononcé attaqué confirmé, par substitution de motifs.
+Le présent arrêt est rendu sans frais (art. 20a al. 2 ch. 5 LP et 61 al. 2 let. a OELP [ordonnance
+sur les émoluments perçus en application de la LP ; RS 281.35]), ni dépens (art.
+62 al. 2 OELP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Claude Ramoni, avocat (pour Association A.________),
+‑
+Me Jean-Pierre Morand, avocat (pour N.________Co., Ltd),
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
