@@ -1,0 +1,694 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___31"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 31"
+decided: "2022-08-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9266524"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-011.md", "switzerland/bund/acts/311.0/art-012.md", "switzerland/bund/acts/311.0/art-117.md", "switzerland/bund/acts/311.0/art-125.md", "switzerland/bund/acts/312.0/art-002.md", "switzerland/bund/acts/312.0/art-008.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/741.01/art-031.md", "switzerland/bund/acts/741.01/art-032.md", "switzerland/bund/acts/741.01/art-043.md", "switzerland/bund/acts/741.11/art-003.md", "switzerland/bund/acts/741.11/art-042.md", "switzerland/bund/acts/741.21/art-009.md", "switzerland/bund/acts/741.21/art-075.md", "switzerland/bund/acts/741.21/art-080.md"]
+---
+
+# VD Findinfo Décision / 2023 / 31
+
+## Regeste
+
+LÉSION CORPORELLE PAR NÉGLIGENCE, DILIGENCE, SIGNALISATION ROUTIÈRE, CIRCULATION ROUTIÈRE{DROIT DE LA CIRCULATION ROUTIÈRE}, LIEN DE CAUSALITÉ, ORDONNANCE DE NON-ENTRÉE EN MATIÈRE | 12 al. 3 CP, 125 CP, 31 LCR, 32 LCR, 80 OSR, 9 OSR, 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 04.08.2022 Décision / 2023 / 31
+
+LÉSION CORPORELLE PAR NÉGLIGENCE, DILIGENCE, SIGNALISATION ROUTIÈRE, CIRCULATION ROUTIÈRE{DROIT DE LA CIRCULATION ROUTIÈRE}, LIEN DE CAUSALITÉ, ORDONNANCE DE NON-ENTRÉE EN MATIÈRE | 12 al. 3 CP, 125 CP, 31 LCR, 32 LCR, 80 OSR, 9 OSR, 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+586
+PE22.002543-JBC
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+4 août 2022
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mmes
+Fonjallaz, juge, et Epard, juge suppléante,
+Greffière
+:              Mme
+Jordan
+*****
+Art.
+12 al. 3, 125 CP ; 31, 32 LCR ; 9, 80 OSR ; 310 CPP
+Statuant sur le recours interjeté le 1
+er
+juillet 2022 par
+P.________
+contre l’ordonnance de non-entrée en matière rendue le 16 juin 2022 par le Ministère
+public de l’arrondissement de La Côte dans la cause
+n° PE22.002543-JBC
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par
+acte du 9 février 2022, P.________ a dénoncé l’entreprise W.________ SA auprès
+du Ministère public de l’arrondissement de La Côte pour lésions corporelles graves
+par négligence, soutenant avoir été victime d’un accident au guidon de sa trottinette
+électrique le 19 septembre 2018, vers 5 h 00, à Morges, sur l’avenue de Marcelin,
+à cause d’un tuyau que des employés de cette entreprise auraient disposé sur un
+passage pour piétons en violation des mesures de sécurité recommandées par les circonstances.
+Plus précisément, P.________ a indiqué qu’il circulait sur l’avenue précitée
+en direction de la gare et qu’il
+aurait
+chuté
+«
+en traversant le
+passage à piétons depuis la droite
+»,
+à environ 20 km/h, car sa trottinette aurait heurté un tuyau de couleur jaune qui se trouvait
+sur ce passage. Celui-ci aurait été «
+un
+peu mouillé du fait des travaux effectués par W.________ SA
+»
+(P. 4/1).
+A la suite de son accident, P.________ a souffert d’une rupture des tendons sus-épineux et
+sous-épineux de l’épaule droite, avec une bursite sous-acromiale et un épanchement
+gléno-huméral contenant un corps libre (P. 4/2/4), d’une dent cassée (P. 4/2/15),
+ainsi que d’une modification durable de la personnalité liée à un syndrome algique
+chronique et de troubles dépressifs récurrents (P. 4/2/29). Il a subi une intervention
+chirurgicale le 29 janvier 2019 (P. 4/2/10) et a été en incapacité totale de travail du
+19 septembre 2018 au 26 août 2019, sous réserve de deux périodes d’incapacité
+partielle (à 50 %), soit du 10 juin au 8 juillet 2019 et du 22 juillet au 6 août
+2019 (P. 4/2/1).
+b)
+Le 16 février 2022, le Ministère public a invité P.________ à lui transmettre une
+nouvelle écriture signée de sa main (la première étant signée « p. o »
+par une personne dont l’identité n’était pas précisée) et décrivant
+de façon plus précise les faits dont il se plaignait ainsi que sa qualité dans la procédure.
+Le Procureur a notamment
+indiqué que l’on ignorait le lieu exact de l’accident, la configuration du passage pour
+piétons, l’itinéraire du plaignant et la manière dont il avait emprunté ledit
+passage, le modèle de trottinette qu’il avait utilisée ainsi que la manière dont
+le tuyau avait été disposé (P. 5).
+Par courrier du 2 mars 2022, P.________ a indiqué qu’il était dénonciateur dans
+la mesure où les faits de la cause se poursuivraient d’office et qu’il se constituait
+partie civile pour réclamer des dommages-intérêts, de sorte qu’il revêtait
+la qualité de partie plaignante. S’agissant de sa trottinette, le plaignant a indiqué
+qu’elle aurait été en parfait état de marche le jour des faits, qu’il ne se
+souviendrait pas de sa marque, qu’elle serait devenue inutilisable après l’accident
+et qu’il s’en serait débarrassé (P. 6/1). P.________ a déposé une nouvelle
+plainte (P. 6/2) dans laquelle il a précisé qu'une fois arrivé au bas de l’avenue
+de Marcelin, avant le carrefour de la gare, il aurait «
+bifurqué
+à gauche pour passer le pont de l’autoroute
+»
+afin de rejoindre la gare. Il a également répété qu’il aurait chuté en
+traversant le passage pour piétons, que le tuyau se serait trouvé sur ce passage et que celui-ci
+aurait été un peu mouillé.
+P.________ a produit une photographie qu’il aurait prise le jour de son accident (P. 6/3/36).
+Celle-ci, prise depuis l’îlot central séparant le passage pour piétons en question,
+montre la présence d’un tuyau de couleur jaune traversant la chaussée et le trottoir
+situés du côté descendant de la circulation sur l’avenue de Marcelin (soit celle
+s’apprêtant à entrer dans le giratoire en direction de la gare). Ce tuyau ne se trouve
+pas sur les lignes du passage pour piétons mais est disposé immédiatement après ce
+passage (dans le sens descendant de la circulation) et traverse perpendiculairement la chaussée
+en suivant le tracé du passage pour piétons.
+P.________ a également
+produit des images qu’il a filmées immédiatement après son accident (pièce
+à conviction n° 42091). Cette vidéo permet de comprendre que des travaux étaient
+effectués au bas de l’avenue de Marcelin, à proximité du giratoire opérant
+la jonction avec l’avenue du Moulin, l’avenue Monod et la rue de la Gare. Comme décrit
+ci-dessus, un tuyau de couleur jaune est disposé immédiatement après le passage pour piétons
+(dans le sens descendant de la circulation de l’avenue de Marcelin) et traverse perpendiculairement
+la chaussée en suivant le tracé du passage pour piétons. Quelques dizaines de mètres
+en amont de ce passage, une signalisation, placée sur la voie de circulation qui monte l’avenue
+de Marcelin, annonce la présence d’un chantier (cf. minutes 01:12 à 01:14).
+Avant
+la zone des travaux effectués par l’entreprise W.________ SA, un cône de chantier surmonté
+d’un signal lumineux émettant des flashs a été placé, sur la ligne séparant
+les voies de circulation, quelques mètres avant le passage pour piétons (dans le sens descendant
+de la circulation de l’avenue de Marcelin) (cf. minutes 01:10 et 01:16). Juste avant l’îlot
+central de ce passage (toujours dans le sens descendant de la circulation de l’avenue de Marcelin),
+un signal « Travaux » a été placé au sol (cf. minute 01:07). Le passage
+pour piétons est éclairé et le tuyau litigieux, de couleur claire, est visible. Plus bas,
+après le giratoire, on distingue un autre cône surmonté d’un signal lumineux ainsi
+qu’un autre panneau « Travaux ». Dans la vidéo, P.________ s’entretient
+avec un employé de l’entreprise W.________ SA qui lui demande : «
+vous
+n’avez pas vu le cône flash
+?».
+Le plaignant répond ce qui suit : «
+ouais
+mais le flash des travaux mais pas… je vous ai vus au ciel, dans le ciel
+[ndr
+: à la hauteur du pont de l’autoroute situé au-dessus du giratoire]
+mais
+pas par terre […] mais pas le tuyau par terre.
+J’ai
+vu les travaux, que vous êtes là perchés en haut […]. J’ai pas vu le tuyau
+par terre […] ».
+c)
+Le
+15 mars 2022, le Procureur a demandé au plaignant de lui fournir l’horodatage de la photographie
+produite sous pièce 6/3/36 et de préciser, sur celle-ci, le sens dans lequel il circulait ainsi
+que le lieu de sa chute (P. 8).
+Le 30 mars 2022, le plaignant a indiqué, par son conseil, qu’il aurait chuté «
+sur
+la chaussée, dans la descente de l’avenue de Marcelin, soit après que sa trottinette
+ait [sic] croché sur le tuyau d’arrosage posé par W.________ SA
+».
+Il a invité le procureur à se rendre sur les lieux et expliqué qu'il n'y aurait pas d'horodatage
+de la photographie produite sous pièce 6/3/36 (P. 9). Le plaignant a produit deux pièces
+sur lesquelles il a tracé des flèches pour indiquer le sens de sa direction et le lieu de sa
+chute. Sur une copie de la pièce 6/3/36 décrite ci-dessus, la flèche qu’il a tracée
+indique qu’il remontait l’avenue de Marcelin en circulant à contre-sens, de sorte qu’il
+aurait heurté le tuyau avant le passage pour piétons au milieu duquel il serait tombé
+(P. 10/1). Sur la pièce 10/2, qui est une image satellite des lieux, la première flèche
+tracée par le plaignant montre qu’il descendait l’avenue de Marcelin en direction du
+giratoire. Cette flèche se prolonge d’une deuxième flèche qui indique qu’il
+aurait chuté juste après avoir franchi la ligne d’attente précédant le passage
+pour piétons (série de triangles blancs en travers de la chaussée, cf. art. 75 al. 3 OSR
+[Ordonnance sur la signalisation routière du 5 septembre 1979 ; RS 741.21]), alors qu’il
+obliquait à gauche (P. 10/2).
+B.
+Par ordonnance du 16 juin 2022, le Ministère
+public a refusé d’entrer en matière sur la plainte de P.________ (I), a maintenu au dossier
+la pièce à conviction n° 42091 (II) et a laissé les frais de justice à la charge
+de l’Etat (III).
+Le Procureur a retenu qu’il ressortait des images vidéo enregistrées par le plaignant
+le jour des faits
+que
+le chantier avait été annoncé par un premier signal « Travaux » situé
+quelques dizaines de mètres en amont, avertissement répété juste avant la zone des
+travaux sous la forme d’un deuxième signal « Travaux » placé au milieu de la
+chaussée et précédé d’un cône de chantier surmonté d’un signal
+lumineux émettant des flashs. Le passage pour piétons était en outre éclairé
+et le tuyau litigieux, de couleur claire, était parfaitement visible. Il était situé après
+le passage pour piétons (dans le sens descendant de l’avenue de Marcelin). Les travaux et
+l’obstacle que constituait le tuyau litigieux avaient ainsi été annoncés conformément
+aux prescriptions applicables en la matière. Aucune négligence ne pouvait par conséquent
+être reprochée à l’entreprise W.________ SA.
+A cela s’ajoutait
+que le plaignant avait indiqué qu’il descendait l’avenue de Marcelin en direction de
+la gare, et que, parvenu au passage pour piétons situé au bas de l’artère, il avait
+bifurqué à gauche, selon la pièce 10/2. Sa chute serait survenue sur la voie descendante
+de l’avenue de Marcelin, sur le passage pour piétons, après avoir franchi la ligne d’attente
+située avant celui-ci. Or, les images vidéo et les photographies produites démontraient
+que le tuyau litigieux se trouvait
+après
+le passage pour piétons, dans le sens de marche du plaignant, y compris dans l’hypothèse
+où il avait bifurqué à gauche. En outre, sur la pièce 10/1, le plaignant avait indiqué
+un sens de marche inverse à celui qu’il décrivait sur la pièce 10/2.
+Rappelant les déclarations qu’il avait faites à l’ouvrier de l’entreprise
+W.________ SA, le Procureur a conclu que la chute de P.________ paraissait être la conséquence
+d’une inattention de sa part. Les circonstances exactes de cet accident ne pouvaient pas être
+établies à satisfaction de droit, puisque la plainte avait été déposée
+plus de trois ans après les faits, alors que l’intéressé était assisté
+d’un conseil depuis le 17 septembre 2019.
+Le
+plaignant ne possédait par ailleurs plus sa trottinette, de sorte que l’on ne pouvait pas
+déterminer l’état de celle-ci au moment de l’accident, état qui aurait pu
+jouer un rôle dans les évènements. De surcroît, aucune constatation technique n’avait
+été réalisée sur place au moment de l’accident, puisque la police n’avait
+pas été prévenue. Le Procureur s’est enfin étonné du fait que le plaignant
+mentionnât une dent cassée et ait parlé d’un choc à la tête aux médecins
+qui l’avaient osculté après les faits, alors qu’il avait indiqué, le 30 mars
+2022 (cf. P. 9), n’avoir subi aucune lésion au niveau de la tête.
+C.
+Par acte du 1
+er
+juillet 2022, P.________ a recouru contre cette ordonnance, concluant, avec suite de frais et dépens,
+à son annulation, la cause étant renvoyée au Ministère public afin qu’il procède
+dans le sens des considérants.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le Ministère public en application de l’art.
+310 CPP dans les dix jours devant l’autorité de recours (art. 310 al. 2, 322 al.
+2 et 396 al. 1 CPP ; cf. art. 20 al. 1 let. b CPP) qui est, dans le canton de Vaud, la Chambre des recours
+pénale du Tribunal cantonal (art. 13 LVCPP [Loi vaudoise d’introduction du Code
+de procédure pénale suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [Loi vaudoise d’organisation
+judiciaire du 12 décembre 1979 ; BLV 173.01]).
+En l’espèce, déposé en temps utile devant l’autorité compétente
+par la partie plaignante qui a qualité pour recourir (art. 382 al. 1 CPP) et
+satisfaisant aux conditions de forme prescrites (art. 385 al. 1 CPP), le recours
+est recevable.
+2.
+Conformément à l’art. 310 al.
+1 CPP, le Ministère public rend immédiatement une ordonnance de non-entrée en matière
+s’il ressort de la dénonciation ou du rapport de police que
+les
+éléments constitutifs de l’infraction ou les conditions à l’ouverture de l’action
+pénale ne sont manifestement pas réunis (let. a), qu’il existe des empêchements
+de procéder (let. b) ou que les conditions mentionnées à l’art. 8 CPP imposent de
+renoncer à l’ouverture d’une poursuite pénale (let. c).
+Selon l’art. 310 al. 1 let. a CPP, il importe que les éléments constitutifs de l'infraction
+ne soient manifestement pas réunis. Cette disposition doit être appliquée conformément
+à l'adage «
+in dubio
+pro duriore
+», qui découle du principe
+de la légalité (art. 5 al. 1 Cst. [Constitution fédérale de la Confédération
+suisse du 18 avril 1999 ; RS 101] et art. 2 al. 2 CPP ; ATF 138 IV 86 consid. 4.2 ; TF 6B_77/2021
+du 6 mai 2021 consid. 2.2) et signifie qu'en principe un classement ou une non-entrée en matière
+ne peuvent être prononcés par le Ministère public que lorsqu'il apparaît clairement
+que les faits ne sont pas punissables ou que les conditions à la poursuite pénale ne sont pas
+remplies (ATF 146 IV 68 consid. 2.1 ; TF 6B_375/2020 du 9 juillet 2020 consid. 3.2). En
+d'autres termes, il faut être certain que l'état de fait ne constitue aucune infraction. Une
+ordonnance de non-entrée en matière ne peut être rendue que dans les cas clairs du point
+de vue des faits, mais également du droit ; s'il est nécessaire de clarifier l'état de
+fait ou de procéder à une appréciation juridique approfondie, le prononcé d'une ordonnance
+de non-entrée en matière n'entre pas en ligne de compte. En règle générale,
+dans le doute, il convient d'ouvrir une enquête pénale (ATF 143 IV 241 consid. 2.2.1 ;
+ATF 138 IV 86 précité consid. 4.1.2 ; ATF 137 IV 285 consid. 2.3 et les références
+citées, JdT 2012 IV 160). En revanche, le Ministère public doit pouvoir rendre une ordonnance
+de non-entrée en matière dans les cas où il apparaît d’emblée qu’aucun
+acte d’enquête ne pourra apporter la preuve d’une infraction à la charge d’une
+personne déterminée (TF 6B_541/2017 du 20 décembre 2017 consid. 2.2).
+3.
+3.1
+P.________ reproche au Ministère public d’avoir abusé de son pouvoir d’appréciation
+et d’avoir constaté de manière erronée les faits. Il allègue que le Procureur
+n’aurait pas saisi le sens dans lequel il circulait au moment de son accident. Si le recourant
+reconnaît que le sens de la flèche qu’il a tracée sur la pièce 10/1 est erroné,
+il explique qu’au vu des autres images qu’il a produites, les circonstances de sa chute seraient
+cependant parfaitement claires.
+Le recourant reproche ensuite au Procureur ses considérations sur sa dent cassée et sur le
+fait qu’il ait indiqué, le 30 mars 2022, n’avoir subi aucune lésion à la tête.
+Selon le recourant, ces éléments n’exerceraient aucune influence sur l’établissement
+des faits et sur la culpabilité de W.________ SA, le fait qu’il ait eu une dent cassée
+ayant au demeurant été constaté par les médecins aux urgences.
+Le recourant affirme également que l’examen de sa trottinette électrique n’aurait
+pas permis de déterminer les circonstances de son accident, dès lors que celle-ci n’aurait
+pas été défectueuse et que c’est en raison du tuyau d’arrosage – qu’il
+n’aurait pas vu – qu’il aurait chuté. A cet égard, le recourant explique
+que son regard aurait été attiré
+par
+le bruit des travaux effectués en hauteur par l’entreprise W.________ SA et le «
+flash
+»
+qu’elle avait installé. «
+Totalement
+éclipsée
+»
+par ces circonstances, son attention n’aurait pas pu être attirée sur la présence
+du tuyau litigieux.
+P.________ ajoute que le panneau « Travaux », qui se situait juste à côté
+du passage pour piétons, n’aurait pas été placé à une distance suffisante
+pour qu’il puisse «
+l’apercevoir
+»
+de loin (il ne précise cependant pas s’il entend par là le panneau ou le tuyau litigieux).
+Plus loin, il ajoute que ce panneau n’aurait été «
+d’aucun
+secours
+»
+puisque le tuyau de couleur jaune se serait confondu avec les lignes du passage pour piétons. Ce
+tuyau n’aurait ainsi pas été aussi visible que l’a retenu le Procureur. Il aurait
+en outre pu être raccordé à un autre robinet plus proche des travaux, sans qu’il
+fût nécessaire de le faire passer à travers le passage pour piétons.
+Le recourant reproche encore au Procureur de ne pas avoir procédé à une inspection locale
+ni à l’audition d’un employé de l’entreprise [...] qui aurait été
+présent sur les lieux de l’accident.
+Enfin, le recourant soutient que la décision du Ministère public serait «
+choquante
+pour le sentiment de justice dans son résultat
+».
+Il n’y aurait aucune raison d’épargner l’entreprise W.________ SA en raison du
+fait qu’il circulait au guidon d’une trottinette «
+mise
+à la fourrière
+». Selon P.________,
+s’il avait été un simple piéton ayant chuté sur le même tuyau, une enquête
+aurait été ouverte. Or, il n’y aurait aucune différence entre lui et un tel piéton,
+dès lors que celui-ci serait également
+tombé
+en regardant «
+les
+travaux dans le ciel
+» effectués
+par l’entreprise W.________ SA.
+3.2
+3.2.1
+Aux termes de l’art. 125 CP, celui qui, par négligence, aura fait subir à une personne
+une atteinte à l'intégrité corporelle ou à la santé sera, sur plainte, puni
+d'une peine privative de liberté de trois ans au plus ou d'une peine pécuniaire (al. 1). Si
+la lésion est grave, le délinquant sera poursuivi d'office (al. 2). Cette infraction suppose
+la réalisation de trois conditions, à savoir une négligence, une atteinte à l'intégrité
+physique et un lien de causalité naturelle et adéquate entre ces deux éléments (TF
+6B_375/2022 du 28 novembre 2022 consid. 3.3.1 ; TF 6B_1081/2020 du 17 novembre 2021 consid. 1.2 ;
+TF 6B_33/2021 du 12 juillet 2021 consid. 3.1).
+Selon l'art. 12 al. 3 CP, il y a négligence si, par une imprévoyance coupable, l'auteur a agi
+sans se rendre compte ou sans tenir compte des conséquences de son acte. Il faut que l'auteur ait,
+d'une part,
+violé
+les règles de prudence que les circonstances lui imposaient pour ne pas excéder les limites
+du risque admissible et que, d'autre part, il n'ait pas déployé l'attention et les efforts
+que l'on pouvait attendre de lui pour se conformer à son devoir (ATF 143 IV 138 consid. 2.1 ;
+ATF 135 IV 56 consid. 2.1 et les références citées). Pour déterminer plus précisément
+les devoirs imposés par la prudence, on peut se référer à des normes édictées
+par l'ordre juridique pour assurer la sécurité et éviter des accidents (ATF 143 IV
+138 consid. 2.1). S'agissant d'un accident de la route, il convient de se référer aux règles
+de la circulation routière (ATF 122 IV 133 consid. 2a ; plus récemment : TF 6B_1081/2020
+et 6B_33/2021 précités).
+L'infraction de lésions corporelles par négligence suppose en règle générale
+un comportement actif. Elle peut toutefois aussi être commise par un comportement passif contraire
+à une obligation d'agir (art. 11 al. 1 CP). Reste passif en violation d'une obligation d'agir celui
+qui n'empêche pas la mise en danger ou la lésion d'un bien juridique protégé par
+la loi pénale bien qu'il y soit tenu à raison de sa situation juridique. L'art. 11 al. 2 CP
+énumère plusieurs sources pouvant fonder une position de garant, à savoir la loi, un contrat,
+une communauté de risques librement consentie ou la création d'un risque. N'importe quelle
+obligation juridique ne suffit pas. Il faut qu'elle ait découlé d'une position de garant, c'est-à-dire
+que l'auteur se soit trouvé dans une situation qui l'obligeait à ce point à protéger
+un bien déterminé contre des dangers indéterminés (devoir de protection), ou à
+empêcher la réalisation de risques connus auxquels des biens indéterminés étaient
+exposés (devoir de surveillance), que son omission peut être assimilée au fait de provoquer
+le résultat par un comportement actif (art. 11 al. 2 et 3 CP ; ATF 141 IV 249 consid. 1.1 ;
+ATF 134 IV 255 consid. 4.2.1 et les références citées ; TF 6B_375/2022 précité
+consid. 3.1.1).
+La distinction, parfois délicate, entre action et omission s’opère au regard du principe
+de subsidiarité, en vertu duquel il convient de retenir une infraction de commission dès lors
+que le comportement de l’auteur, considéré dans sa globalité, n’est pas purement
+passif et que l’on peut imputer à ce dernier une forme d’action (Dupuis et al. [éd.],
+Petit commentaire, Code pénal, 2
+e
+éd., Bâle 2017, n. 15 ad art. 117 CP et les références citées).
+Il faut en outre qu'il existe un rapport de causalité entre
+la
+violation fautive du devoir de prudence et les lésions de la victime. Le rapport de causalité
+est qualifié d'adéquat lorsque, d'après le cours ordinaire des choses et l'expérience
+de la vie, le comportement était propre à entraîner un résultat du genre de celui
+qui s'est produit (ATF 138 IV 57 consid. 4.1.3). La causalité adéquate sera admise même
+si le comportement de l'auteur n'est pas la cause directe ou unique du résultat. Peu importe que
+le résultat soit dû à d'autres causes, notamment à l'état de la victime, à
+son comportement ou à celui de tiers (ATF 131 IV 145 consid. 5.2). En cas de violation du devoir
+de prudence par omission, il faut procéder par hypothèse et se demander si l'accomplissement
+de l'acte omis aurait, selon le cours ordinaire des choses et l'expérience de la vie, évité
+la survenance du résultat qui s'est produit, pour des raisons en rapport avec le but protecteur
+de la règle de prudence violée. Pour l'analyse des conséquences de l'acte supposé,
+il faut appliquer les concepts généraux de la causalité naturelle et de la causalité
+adéquate (ATF 134 IV 255 consid. 4.4.1). L'existence de cette causalité dite hypothétique
+suppose une très grande vraisemblance ; autrement dit, elle n'est réalisée que lorsque
+l'acte attendu ne peut pas être inséré intellectuellement dans le raisonnement sans en
+exclure, très vraisemblablement, le résultat (ATF 116 IV 182 consid. 4a ; TF 6B_177/2017
+du 6 septembre 2017 consid. 4.1 ; TF 6B_375/2022 précité consid. 3.1.1). La causalité
+adéquate est ainsi exclue lorsque l'acte attendu n'aurait vraisemblablement pas empêché
+la survenance du résultat ou lorsqu'il serait simplement possible qu'il l'eût empêché
+(TF 6B_948/2017 du 8 mars 2018 consid. 4.1 ; TF 6B_177/2017 précité consid. 4.1 ;
+TF 6B_375/2022 précité consid. 3.1.1).
+La causalité adéquate peut être exclue si une autre cause concomitante, par exemple une
+force naturelle, le comportement de la victime ou d'un tiers, constitue une circonstance tout à
+fait exceptionnelle ou apparaît si extraordinaire que l'on ne pouvait s'y attendre. L'imprévisibilité
+d'un acte concurrent ne suffit pas en soi à interrompre le rapport de causalité adéquate.
+Il faut encore que cet acte ait une importance telle qu'il s'impose comme la cause la plus probable et
+la plus immédiate de l'événement considéré, reléguant à l'arrière-plan
+tous les autres facteurs qui ont contribué à l'amener et notamment le comportement de l'auteur
+(ATF 143 III 242 consid. 3.7 ; ATF 134 IV 255 consid. 4.4.2 ; ATF 133 IV 158 consid. 6.1 ;
+ATF 131 IV 145 consid. 5.2 ; TF 6B_375/2022 précité consid. 3.1.1 ; cf. en matière
+de circulation routière : ATF 127 IV 34 consid. 2a).
+3.2.2
+A teneur de l'art.
+31 al. 1 LCR (Loi fédérale sur la circulation routière du 19 décembre 1958 ;
+RS 741.01), le conducteur devra rester constamment maître de son véhicule de façon à
+pouvoir se conformer aux devoirs de la prudence. L'art. 3 al. 1 OCR (Ordonnance sur les règles
+de la circulation routière du 13 novembre 1962 ; RS 741.11) précise que le conducteur
+vouera son attention à la route et à la circulation. Le degré de l'attention requise par
+l'art. 3 al. 1 OCR s'apprécie au regard des circonstances d'espèce, telles que la densité
+du trafic, la configuration des lieux, l'heure, la visibilité et les sources de danger prévisibles
+(ATF 137 IV 290 consid. 3.6 et les références citées ; TF 6B_69/2017 du 28 novembre
+2017 consid. 2.2.1 ; TF 6B_665/2015 du 15 septembre 2016 consid. 2.2).
+Lorsqu'un conducteur doit prêter son attention visuelle principalement dans une direction déterminée,
+on peut admettre que son attention soit moindre dans les autres (ATF 122 IV 225 consid. 2b ; TF
+6B_1157/2016 du 28 mars 2017 consid. 4.3). Le conducteur doit avant tout porter son attention, outre
+sur sa propre voie de circulation (cf. TF 6B_783/2008 du 4 décembre 2008 consid. 3.3), sur les dangers
+auxquels on doit s'attendre et peut ne prêter qu'une attention secondaire à d'éventuels
+comportements inhabituels ou aberrants (ATF 122 IV 225 consid. 2c ; TF 6B_33/2021 du 12 juillet
+2021 consid. 3.2.2 ; TF 6B_1157/2016 du 28 mars 2017 consid. 4.3).
+Aux termes de l’art. 32 al. 1 LCR, la vitesse doit toujours être adaptée aux circonstances,
+notamment aux particularités du véhicule et du chargement, ainsi qu’aux conditions de
+la route, de la circulation et de la visibilité. Aux endroits où son véhicule pourrait
+gêner la circulation, le conducteur est tenu de circuler lentement et, s’il le faut, de s’arrêter,
+notamment aux endroits où la visibilité n’est pas bonne, aux intersections qu’il
+ne peut embrasser du regard, ainsi qu’aux passages à niveau.
+3.2.3
+Selon l’art. 9 OSR, le signal « Travaux »
+(1.14) annonce soit des travaux exécutés sur la chaussée (p. ex. des travaux de construction,
+de mensuration, de marquage), soit des obstacles qui en résultent (p. ex. dépôts de matériaux,
+trous béants), soit des inégalités ou rétrécissements de la chaussée. La
+signalisation des chantiers est en outre régie par l’art. 80 (al. 1). Ce signal sera aussi
+placé pour annoncer des travaux exécutés aux abords immédiats de la chaussée,
+lorsqu’ils sont de nature à entraver la circulation (al. 2).
+Aux termes de l’art. 80 OSR, les chantiers situés sur la chaussée ou à ses abords
+immédiats seront annoncés par le signal « Travaux » (1.14) qui sera répété
+près du chantier même (al. 1). Sur les chantiers sans obstacle sur la chaussée, il est
+permis d’utiliser, pour garantir une meilleure conduite optique de la circulation, des dispositifs
+rayés rouge et blanc (tels que des balises de délimitation, des tonneaux) ou des cônes
+de balisage peints en rouge et blanc ou en orange (al. 2). Sur les chantiers avec des obstacles
+de plus de 0,5 m de largeur sur la chaussée, on utilisera des barrages rayés rouge et blanc
+(tels que des planches, des éléments tubulaires, des treillis en ciseaux ou d’autres
+éléments stables) (al. 3). Le DETEC édicte des instructions concernant la mise en place
+des signaux et des marquages, des barrages et autres dispositifs, leur aspect ainsi que l’éclairage
+des chantiers (al. 5).
+Selon les instructions de la Direction générale de la mobilité et des routes du canton
+de Vaud (ci-après : DGMR), la signalisation d’un chantier doit correspondre à la
+norme n° 40886 établie par l’Association suisse des professionnels de la route et des
+transports (Schweizerischer Verband der Strassen- und Verkehrsfachleute [VSS]) (
+https://www.vd.ch/fileadmin/user_upload/organisation/dgmr/Documents_techniques/Signalisation/20230119_Norme_signalisation_chantier.pdf
+).
+Il ressort des documents techniques disponibles sur le site Internet de la DGMR que pour les travaux
+sur la chaussée en traversée de localité et de courte durée (moins de 24 heures),
+un premier panneau annonçant des travaux doit être placé au maximum à 50 mètres
+de ceux-ci et suivi d’un deuxième panneau qui doit être posé à la hauteur des travaux (cf.
+https://www.vd.ch/fileadmin/user_upload/organisation/dgmr/Documents_techniques/Signalisation/20230119_sch%C3%A9mas_divers_en_localit%C3%A9.pdf
+,
+Plan EL-1a, établi le 7 décembre 2022).
+3.3
+3.3.1
+En l’espèce, à ce stade de la procédure, on peut retenir que les lésions corporelles
+subies par P.________, qui a été en incapacité de travail durant une année et affirme
+souffrir d’une dépression depuis sa chute, puissent être, de prime abord, qualifiées
+de graves et qu’il pourrait dès lors être entré en matière sur sa plainte/dénonciation
+bien que déposée plus de trois ans après les faits. De même, il apparaît en
+l’état suffisant que P.________ ait dénoncé l’entreprise W.________ SA et
+non les personnes physiques responsables des travaux le jour des faits. Enfin, on peut également
+admettre qu’une position de garant puisse être attribuée à l’entreprise attaquée
+dans la mesure où elle était mandatée pour effectuer des travaux qui nécessitaient
+qu’un tuyau d’arrosage traverse la chaussée de part en part, créant ainsi un risque
+pour la sécurité des usagers de la route.
+Reste à déterminer s’il peut être d’emblée exclu que la chute du recourant
+soit en lien de causalité avec une violation des devoirs de prudence imputable à W.________
+SA, respectivement à l’un de ses employés, ou si, au contraire, il convient d'ouvrir
+une enquête pénale pour clarifier l’état de fait ou procéder à une appréciation
+juridique approfondie.
+3.3.2
+Premièrement, contrairement à ce qu’affirme le recourant, le Procureur n’a pas
+retenu que celui-ci remontait l’avenue de Marcelin mais relevé que les indications qu’il
+avait fournies sur la pièce 10/1 ne correspondaient pas à ses déclarations, ce qui est
+correct et par ailleurs admis par P.________ dans son recours. On ne distingue par conséquent aucune
+constatation erronée des faits sur ce point.
+Deuxièmement, si les considérations
+du Ministère public s’agissant de la lésion à la tête du recourant et de sa
+dent cassée ne sont effectivement pas pertinentes pour déterminer si une violation des devoirs
+de prudence peut être reprochée à l’entreprise W.________ SA, le fait que le recourant
+ne dispose plus de sa trottinette électrique est en revanche un élément dont il faut tenir
+compte. Il n’est en effet plus possible d’établir s’il s’agissait d’un
+modèle homologué lui permettant de circuler sur le domaine public et de vérifier, en particulier,
+s’il disposait de phares et de freins en état de marche. Les affirmations du recourant à
+ce sujet ne sont à elles seules pas suffisantes, de sorte que son grief doit être rejeté.
+Troisièmement, il ressort des images filmées par le recourant que le tuyau d’arrosage
+qui serait à l’origine de sa chute était bien visible. Contrairement à ce que l’intéressé
+a plusieurs fois affirmé, ce tuyau ne se trouvait pas
+sur
+le passage pour piétons mais placé immédiatement
+après
+celui-ci dans son sens de circulation. Il ne se confondait nullement avec les lignes jaunes du passage
+pour piétons qui était au demeurant éclairé.
+Ensuite, s’agissant de la signalisation du chantier, il n’est pas contestable que ce tuyau,
+qui traversait la chaussée de part en part, constituait un obstacle créant un risque pour la
+sécurité des usagers de la route, en particulier des cyclistes et des personnes circulant en
+trottinette électrique comme le recourant. Le Procureur a retenu que le chantier de l’entreprise
+W.________ SA avait été annoncé par un premier signal « Travaux »
+situé quelques dizaines de mètres en amont, avertissement répété juste avant
+la zone des travaux sous la forme d’un deuxième signal « Travaux » placé au
+milieu de la chaussée et précédé d’un cône de chantier. De l’avis
+de la Chambre de céans, les images au dossier ne permettent toutefois pas d’être aussi
+catégorique quant à la présence de deux signalisations « Travaux »
+successives. Une signalisation annonce certes un chantier quelques dizaines de mètres en amont du
+passage pour piétons (cf. minutes 01:12 à 01:14). Elle n’est toutefois pas placée
+sur la voie de circulation du recourant mais sur celle qui monte l’avenue de Marcelin. Elle semble
+ainsi annoncer la présence d’autres travaux situés en haut de l’avenue en question,
+du côté ascendant de la circulation. Les images au dossier ne permettent ainsi pas de retenir
+avec certitude qu’une première signalisation de chantier a été placée, sur
+la voie de circulation du recourant, à une distance maximale de 50 mètres en amont des
+travaux effectués par l’entreprise W.________ SA conformément aux instructions figurant
+sur les documents de la DGMR. Elles montrent en revanche qu’avant la zone des travaux effectués
+par l’entreprise W.________ SA, un cône de chantier surmonté d’un signal lumineux
+émettant des flashs a été placé au milieu de la chaussée quelques mètres
+avant le passage pour piétons dans le sens de circulation du recourant (cf. minutes 01:10 et
+01:16). Juste avant ce passage pour piétons, un signal « Travaux » a également
+été placé au milieu de la chaussée. Il convient de relever ici que la largeur du
+tuyau ne dépassant pas 50 cm, il n’était pas nécessaire de poser des « barrages
+rayés » au sens de l’art. 80 al. 3 OSR.
+La pose du cône de chantier surmonté d’un signal lumineux et le panneau « Travaux
+» quelques mètres plus bas attiraient l’attention des usagers de la route sur la présence
+de travaux. Même dans l’hypothèse où un premier panneau « Travaux »
+n’aurait pas été placé plut tôt en amont du tuyau litigieux, il ne pouvait
+pas échapper au recourant qu’il s’apprêtait à traverser une zone de chantier.
+Le signal lumineux de la lampe fixée sur le cône de chantier devait de toute évidence
+être visible de loin, soit bien avant que le recourant n’arrivât à la hauteur du
+passage pour piétons. Le plaignant a du reste indiqué à l’ouvrier de l’entreprise
+W.________ SA qu’il avait vu «
+le
+flash des travaux
+».
+La présence d’un signal de chantier impose une adaptation de la vitesse (Bussy et al., Code
+suisse de la circulation routière commenté, 4
+e
+éd., Bâle 2015, n. 1.24 ad art. 32 LCR). De nuit, la vitesse doit également être
+adaptée aux circonstances, la visibilité étant moindre (art. 32 LCR ; Bussy, op.
+cit., n. 1.20 ad art. 32 LCR). En l’occurrence, le recourant a affirmé dans sa première
+plainte qu’il aurait chuté «
+en
+traversant le passage pour piétons depuis la droite
+»
+(P. 4) puis précisé, dans sa deuxième plainte, qu’il aurait «
+bifurqué
+à gauche
+» avant de chuter en traversant
+le passage pour piétons (P. 6/2). De ses explications complétées par les flèches
+qu’il a tracées sur la pièce 10/2, on comprend qu’il aurait circulé sur la
+voie descendante de l’avenue de Marcelin et qu’après avoir franchi la ligne d’attente
+précédent le passage pour piétons, il aurait bifurqué à gauche avec, semble-t-il,
+l’intention de parvenir sur le trottoir d’en face ou à tout le moins de l’autre
+côté de la chaussée en empruntant le passage pour piétons. On ne voit pas pour quelle
+raison il aurait tourné à gauche dans le cas contraire. Ce faisant, le recourant a effectué
+une manœuvre qui ne pouvait raisonnablement pas être réalisée à la vitesse de
+20 km/h qu’il a décrite. Les images vidéo montrent par ailleurs que la chaussée
+et le passage pour piétons étaient par endroits mouillés, ce que le plaignant a lui-même
+expliqué dans sa plainte. Elles montrent également que le passage pour piétons passait
+entre deux îlots surélevés. Le recourant circulait en outre sur une avenue en pente, de
+nuit (5 h du matin) et en présence connue de travaux. Dans ces circonstances, la vitesse de P.________,
+qui n’indique par ailleurs à aucun moment qu’il aurait freiné à la vue du
+signal lumineux, n’était selon toute vraisemblance pas adaptée à la manœuvre
+qu’il effectuait. A cela s’ajoute qu’au guidon d’une trottinette électrique,
+le recourant était soumis aux mêmes règles que les cyclistes (cf. art. 42 al. 4 OCR).
+A ce titre, il n’avait pas le droit de circuler sur les surfaces réservées aux piétons,
+à moins que celles-ci soient munies d’une plaque complémentaire « Cyclistes »
+(cf. art. 43 al. 1 LCR et 64 al. 6 OSR). Or, à suivre les flèches qu’il a tracées
+sur la pièce 10/2 et ses déclarations, il semble que le recourant avait l’attention de
+traverser la chaussée en empruntant le passage pour piétons, ce qui lui était interdit.
+Quoiqu’il en soit, on ne comprend pas comment le tuyau d’arrosage en question pourrait être
+à l’origine de la chute du recourant au vu des indications qu’il a fournies et ce, bien
+que le Ministère public lui ait demandé par deux fois de décrire les circonstances de
+sa chute en précisant notamment le lieu de celle-ci. La flèche que le recourant a tracée
+sur la pièce 10/1 contredit ses explications, puisqu’elle indique qu’il remontait l’avenue
+de Marcelin en sens inverse alors qu’il soutient qu’il descendait celle-ci pour se rendre
+à la gare. Il a certes reconnu dans son recours que cette indication était erronée, mais
+il n’en demeure pas moins que les flèches qu’il a tracées sur la pièce 10/2
+montrent un point de chute qui précède le passage pour piétons et donc le tuyau litigieux,
+qui est situé après celui-ci dans le sens descendant de l'avenue de Marcelin. Il faut en conclure
+que le recourant aurait chuté avant même d’avoir heurté le tuyau d’arrosage.
+Contrairement à ce qu’il affirme, les circonstances de son accident sont ainsi loin d’être
+claires et le recourant se contredit.
+P.________ n’expose pas non plus en quoi il serait erroné de conclure, comme l’a fait
+le Procureur, que son accident serait dû à une inattention de sa part. Il indique pourtant
+lui-même dans son recours qu’il serait «
+tombé
+en regardant "les travaux dans le ciel" »
+et que son attention aurait été «
+totalement
+éclipsée
+» par le bruit des
+travaux effectués par l’entreprise W.________ SA et le «
+flash
+» qu’elle avait installé. Il est donc correct de retenir
+que son attention n’était pas vouée
+à sa voie de circulation.
+Le recourant affirme que le panneau « Travaux » à proximité du passage
+pour piétons aurait dû être posé plus en amont. Toutefois, au vu de l’ensemble
+des éléments qui précèdent, force est de constater que même si tel avait été
+le cas, cela n’aurait pas, avec un haut degré de vraisemblance, empêché son accident
+de se produire. D’une part, comme déjà indiqué, la présence du tuyau d’arrosage
+sur la chaussée était manifeste mais surtout, les flashs lumineux émis par la lampe placée
+quelques mètres avant celui-ci devaient de toute évidence être visibles de loin, de sorte
+que le recourant ne pouvait pas ignorer bien avant d’arriver à la hauteur du passage pour
+piétons qu’il s’apprêtait à traverser une zone de chantier source de potentiels
+dangers. En d’autres termes, le fait qu’un premier panneau annonçant les travaux ait
+été placé ou non plus en amont du tuyau litigieux n’aurait pas modifié le degré
+d’attention et de réactivité du recourant déjà averti par les signaux lumineux
+de la lampe de chantier. D’autre part, malgré ces signaux, l’attention du recourant
+n’était pas vouée à sa voie de circulation et sa vitesse de 20 km/h n’était
+pas adaptée aux circonstances. Ainsi, l’inattention et une vitesse inadaptée paraissent
+être les causes les plus probables et immédiates de l’accident du recourant. Les flashs
+et le bruit des travaux dont il se prévaut ne sont pas des circonstances permettant d’admettre
+que son attention pouvait être moindre. Elles auraient dû, au contraire, le rendre plus vigilant
+à ce qui pouvait se présenter sur sa voie de circulation et l’inciter à réduire
+sa vitesse pour être en mesure de rester maître de son engin conformément aux articles
+31 al. 1 LCR et 3 al. 1 OCR.
+Dans ces circonstances, on ne voit pas ce qu’une inspection locale et l’audition du témoin
+proposé par le recourant amèneraient de plus à l’établissement des faits, d’autant
+moins plus de trois ans après ceux-ci. Il n’est en particulier pas déterminant de constater
+que le tuyau litigieux pouvait être raccordé à un robinet plus proche des travaux.
+En définitive, il n’est pas possible de déterminer à satisfaction de droit les faits
+dont se plaint le recourant, au vu de ses propres contradictions, de l’impossibilité d’examiner
+sa trottinette, de l’absence de constatations techniques effectuées sur place par la police
+et de l’écoulement du temps. En outre, même si l’absence d’une première
+signalisation en amont du tuyau litigieux était établie et qu’une violation fautive du
+devoir de prudence devait être retenue à ce titre, un lien de causalité adéquate
+entre cette violation et la chute du recourant ne pourrait pas être retenu. Par conséquent,
+les éléments constitutifs de l’infraction de lésions corporelles graves par négligence
+ne sont manifestement pas réunis et aucun acte d’instruction ne pourrait apporter d’élément
+pertinent propre à modifier cette conclusion. C’est donc à juste titre que le Procureur
+a refusé d’entrer en matière sur la plainte/dénonciation du recourant.
+4.
+Au vu de ce qui précède, le recours, manifestement mal fondé, doit être rejeté
+sans échange d’écritures (art. 390 al. 2 CPP) et l’ordonnance attaquée confirmée.
+Les frais de la procédure de recours, constitués du seul émolument d’arrêt,
+par 1’980 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010 ; BLV 312.03.1]), seront mis à la charge du recourant, qui
+succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance de non-entrée en matière
+du 16 juin 2022 est confirmée.
+III.
+Les frais d’arrêt, par 1’980
+fr. (mille neuf cent huitante francs), sont mis à la charge de P.________.
+IV.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Kieu-Oanh Nguyen Oberhaensli,
+avocate (pour P.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (Loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
