@@ -1,0 +1,328 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2022___22"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2022 / 22"
+decided: "2022-10-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9200627"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2022 / 22
+
+## Regeste
+
+DROIT À UNE AUTORITÉ INDÉPENDANTE ET IMPARTIALE, REJET DE LA DEMANDE, RÉCUSATION | 47 al. 1 let. b CPC (CH), 47 al. 1 let. f CPC (CH), 47 al. 2 let. d CPC (CH), 8a al. 5 CDPJ
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative 12.10.2022 Réc-civile / 2022 / 22
+Vaud Tribunal cantonal Cour administrative 12.10.2022 Réc-civile / 2022 / 22
+Vaud Tribunal cantonal Cour administrative 12.10.2022 Réc-civile / 2022 / 22
+
+DROIT À UNE AUTORITÉ INDÉPENDANTE ET IMPARTIALE, REJET DE LA DEMANDE, RÉCUSATION | 47 al. 1 let. b CPC (CH), 47 al. 1 let. f CPC (CH), 47 al. 2 let. d CPC (CH), 8a al. 5 CDPJ
+
+TRIBUNAL
+CANTONAL
+TD21.026584-220320
+22
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 12 octobre 2022
+__________________
+Présidence
+de               M.
+Kaltenrieder
+,
+président
+Juges
+:              M.
+Maillard et Mme Bernel
+Greffier
+:              M.
+Klay
+*****
+Art.
+47 al. 1 let. b et f et al. 2 let. d CPC ; 8a al. 5 CDPJ
+Vu le dossier en instance de divorce des époux A.K.________ et B.K.________, pendant devant le Tribunal
+civil de l’arrondissement de La Côte,
+vu l’ordonnance de mesures superprovisionnelles rendue le 21 juin 2021 par la Présidente du
+Tribunal civil de l’arrondissement de La Côte (ci-après : la présidente), qui
+a notamment confié la garde d’C.K.________, enfant des parties né le [...] 2019, à
+son père,
+vu l’ordonnance de mesures provisionnelles du 18 mars 2022, par laquelle la présidente a notamment
+confié la garde exclusive d’C.K.________ à sa mère (III), a dit qu’A.K.________
+bénéficierait d’un libre et large droit de visite sur son fils à exercer d’entente
+entre les parties et qu’à défaut, il pourrait avoir l’enfant auprès de lui
+un week-end sur deux, du vendredi à 16h00 au dimanche à 18h00, ainsi que durant la moitié
+des vacances scolaires (IV), et a dit qu’A.K.________ pourrait entretenir avec C.K.________ des
+relations personnelles téléphoniques deux fois par semaine de 19h00 à 19h15 et qu’à
+défaut de meilleure entente entre les parties, les téléphones en question auraient lieu
+les mardis et jeudis (V),
+vu l’annonce d’appel formé le 22 mars 2022 par A.K.________ contre cette ordonnance
+de mesures provisionnelles, comprenant une requête d’effet suspensif portant sur les chiffres
+III et IV de son dispositif,
+vu les déterminations du 23 mars 2022, par lesquelles B.K.________ a conclu au rejet de la requête
+d’effet suspensif et a expliqué être venue chercher C.K.________ le 22 mars 2022 à
+midi chez son père, lequel avait acquiescé au transfert de l’enfant qui se trouvait désormais
+auprès d’elle à [...], où il était inscrit auprès de l’Office de
+la population et à la crèche,
+vu l’ordonnance rendue le 25 mars 2022 par le Juge cantonal C.________ (ci-après : le
+juge cantonal) en sa qualité de Juge unique de la Cour d’appel civile du Tribunal cantonal,
+rejetant la requête d’effet suspensif susmentionnée,
+vu le recours formé le 29 mars 2022 par A.K.________ contre cette ordonnance,
+vu l’ordonnance rendue le 26 avril 2022 par le Président de la IIe Cour de droit civil du
+Tribunal fédéral, rejetant les mesures provisionnelles requises par A.K.________ et visant
+au retour immédiat de l’enfant chez son père,
+vu l’arrêt du 29 août 2022 (TF 5A_223/2022), par lequel la IIe Cour de droit civil du
+Tribunal fédéral a notamment admis le recours du père et réformé l’arrêt
+cantonal en ce sens que la requête d’effet suspensif formée par A.K.________ le 22 mars
+2022 était admise,
+vu la requête de mesures superprovisionnelles formée le 16 septembre 2022 par B.K.________,
+concluant à ce que la garde exclusive sur C.K.________ lui soit confiée et à ce qu’un
+droit de visite libre et large soit réservé au père, à exercer d’entente entre
+les parties, et qu’à défaut d’entente, A.K.________ puisse avoir l’enfant
+auprès de lui un week-end sur deux, du vendredi à 16h00 au dimanche à 18h00, ainsi que
+durant la moitié des vacances scolaires,
+vu l’ordonnance du 16 septembre 2022, par laquelle le juge cantonal a notamment partiellement admis
+cette requête (I), a dit que l’enfant resterait auprès de sa mère jusqu’à
+ce qu’il soit statué sur les appels déposés contre l’ordonnance rendue le
+18 mars 2022 par la Présidente du Tribunal civil de l’arrondissement de La Côte (II)
+et a dit que, jusqu’à ce qu’il soit statué sur ces appels, A.K.________ bénéficierait
+d’un libre et large droit de visite sur son fils, à exercer d’entente entre les parties,
+qu’à défaut d’entente, il pourrait avoir l’enfant auprès de lui un week-end
+sur deux, du vendredi à 16h00 au dimanche à 18h00, ainsi que durant la moitié des vacances
+scolaires, à charge pour lui d’aller chercher l’enfant à la gare de [...] où
+B.K.________ l’amènerait, et de l’y ramener, la mère devant y venir récupérer
+C.K.________, qu’A.K.________ pourrait en outre entretenir avec son fils des relations personnelles
+téléphoniques deux fois par semaine de 19h00 à 19h15 et qu’à défaut de
+meilleure entente entre les parties, les téléphones en question auraient lieu les mardis et
+jeudis (III),
+vu la demande du 20 septembre 2022 accompagnée de cinq pièces, par laquelle A.K.________ (ci-après :
+le demandeur) a conclu à la récusation du juge cantonal pour la suite de l’instruction
+de « cette affaire »,
+vu les pièces au dossier ;
+attendu que la Cour administrative du Tribunal cantonal est compétente pour statuer sur une demande
+de récusation d’un juge cantonal (cf. art. 8a al. 5 CDPJ [Code de droit privé judiciaire
+vaudois du 12 janvier 2010 ; BLV 211.02] et 6 al. 1 let. a ROTC [règlement organique
+du Tribunal cantonal du 13 novembre 2007 ; BLV 173.31.1]),
+que la demande satisfait aux exigences de forme prévues par l'art. 49 al. 1 CPC (Code de procédure
+civile du 19 décembre 2008 ; RS 271),
+qu'elle est ainsi recevable ;
+attendu que la garantie d'un juge indépendant et impartial, telle qu'elle résulte de l'art.
+30 al. 1 Cst. (Constitution fédérale de la Confédération suisse du 18 avril
+1999 ; RS 101) et de l'art. 6 ch. 1 CEDH (Convention de sauvegarde des droits de l’homme et
+des libertés fondamentales du 4 novembre 1950 ; RS 0.101), permet de demander la récusation
+d'un magistrat dont la situation ou le comportement est de nature à susciter des doutes quant à
+son impartialité,
+qu’elle vise à éviter que des circonstances extérieures à la cause ne puissent
+influencer le jugement en faveur ou au détriment d'une partie,
+qu’elle n'impose pas la récusation uniquement lorsqu'une prévention effective est établie,
+car une disposition interne de la part du juge ne peut être prouvée,
+qu’il suffit que les circonstances donnent l'apparence d'une prévention et fassent redouter
+une activité partiale du magistrat,
+que, cependant, seules les circonstances objectivement constatées doivent être prises en considération,
+les impressions purement individuelles n'étant pas décisives (ATF 144 I 159 consid. 4.3 ;
+TF 4A_52/2021 du 26 août 2021 consid. 2.1) ;
+attendu que le juge d'une cause civile est récusable dans les cas énumérés à
+l'art. 47 al. 1 let. a à e CPC, soit notamment lorsqu’un juge agit dans la même cause
+à un autre titre, notamment à titre de membre d'une autorité (art. 47 al. 1 let.
+b CPC),
+que la notion de « même cause » s'entend de manière formelle, c'est-à-dire
+comme la procédure ayant conduit à la décision attaquée ou devant conduire à
+celle attendue, mais n'englobe pas une procédure distincte ou préalable se rapportant à
+la même affaire au sens large, soit au même ensemble de faits et de droits concernant les mêmes
+parties (ATF 143 IV 69 consid. 3.1 ; TF 4A_52/2021 précité consid. 2.1),
+qu’ainsi, une « même cause » implique une identité de parties, de
+procédure et de questions litigieuses (ATF 143 IV 69 consid. 3.1 ; TF 5A_489/2017 du 29 novembre
+2017 consid. 3.2),
+que pour être récusable, le juge doit en plus être intervenu « à un autre
+titre », c'est-à-dire dans des fonctions différentes (ATF 143 IV 69 consid. 3.1 ;
+TF 4A_52/2021 précité consid. 2.1),
+que, selon la jurisprudence topique, il n'y a pas lieu à récusation d'un juge qui est derechef
+saisi de la même cause par suite de l'annulation de sa décision par l'autorité de recours,
+ni des juges d'appel en situation d'examiner à nouveau une affaire qu'ils avaient renvoyée
+à l'autorité inférieure, ni du juge appelé à connaître de plusieurs recours
+subséquents ou concomitants, ni, non plus, du juge qui s'est prononcé en défaveur du plaideur
+requérant dans une procédure antérieure, voire dans la même affaire (ATF 143 IV 69
+consid. 3 ; TF 4A_52/2021 précité consid. 2.1 ; TF 4A_23/2019 du 27 mai 2019 consid.
+5),
+qu’en outre, il n’y a pas d'apparence de prévention du juge du seul fait d'avoir rendu
+des mesures provisionnelles ou une décision sur effet suspensif dans la même procédure
+(art. 47 al. 2 let. d CPC ; ATF 131 I 113 consid. 3.7.3 ; TF 4D_27/2014 du 26 août
+2014 consid. 4.4 ; Colombini, Code de procédure civile, Condensé de la jurisprudence fédérale
+et vaudoise, Lausanne 2018, n. 6.2.1 ad art. 47 CPC),
+que dans ce cadre, pour qu’un cas de récusation soit retenu, il faut des éléments
+concrets qui permettent de retenir que le juge a définitivement forgé son opinion si bien qu’une
+appréciation différente des faits et du droit n’est plus envisageable et que le sort
+de la procédure est définitivement scellé (ATF 131 I 113 consid. 3.7.3 ; TF 4D_27/2014
+précité consid. 4.4 ; Colombini,
+ibid.
+),
+que le juge est aussi récusable, selon l'art. 47 al. 1 let. f CPC, s'il est « de toute
+autre manière » suspect de partialité (TF 5A_843/2019 du 8 avril 2020 consid. 4.2.1 ;
+TF 4A_172/2019 du 4 juin 2019 consid. 4.1.2),
+que des erreurs de procédure ou d'appréciation commises par un juge ne suffisent pas à
+fonder objectivement la suspicion de partialité, même lorsque ces erreurs sont établies,
+seules des fautes particulièrement lourdes ou répétées, qui doivent être considérées
+comme des violations graves des devoirs du magistrat, pouvant avoir cette conséquence (TF 4A_172/2019
+précité consid. 4.1.2), pour autant que les circonstances dénotent que le juge est prévenu
+ou justifient à tout le moins objectivement l'apparence de prévention (ATF 143 IV 69 consid.
+3.2 et les réf. cit. ; TF 5A_482/2017 du 24 août 2017 consid. 6.2.1),
+que le risque de prévention ne saurait en effet être admis trop facilement, sous peine de compromettre
+le fonctionnement normal des tribunaux (ATF 144 I 159 consid. 4.4 ; TF 5A_98/2018 du 10 septembre
+2018 consid. 4.2 et les réf. cit.),
+qu’il n’appartient pas au juge de la récusation d'examiner la conduite du procès
+à la façon d'une instance d'appel ou d'un organe de surveillance (ATF 116 Ia 135 consid. 3a
+et la réf. cit. ; TF 5A_843/2019 précité consid. 4.2.1 ; TF 5A_482/2017
+précité ; TF 5A_286/2013 du 12 juin 2013 consid. 2.1 et les réf. cit.) ;
+attendu qu’en l’espèce, A.K.________ fait valoir que le juge cantonal – qui devra
+statuer au fond dans le cadre de la procédure d’appel – aurait « déjà
+pris sa décision sur le sujet quels que soient [s]es arguments »,
+qu’en témoignerait l’ordonnance sur mesures superprovisionnelles rendue le 16 septembre
+2022 par le juge cantonal qui irait à l’encontre de l’arrêt du Tribunal fédéral
+du 29 août 2022,
+que, selon le père, ce constat serait renforcé par les précédents développements
+du juge cantonal dans son ordonnance du 25 mars 2022, « où il relevait, quelques jours
+seulement après le déplacement de l’enfant et de manière arbitraire selon notre
+Haute Cour » :
+« Quoi
+qu’il en soit, l’enfant C.K.________ est désormais auprès de sa mère et il
+faut en tenir compte. Or, selon la jurisprudence en matière de garde, il convient d’éviter
+des changements trop fréquents qui sont préjudiciables à l’intérêt de
+l’enfant. En l’occurrence, le déplacement de l’enfant a, comme on l’a vu,
+déjà été effectué. En cas d’admission de la requête d’effet
+suspensif, cela signifierait que le prénommé devrait retourner chez son père. De plus,
+en fonction du sort de l’appel, on ne peut exclure, à ce stade, que l’enfant doive ensuite
+à nouveau aller vivre avec l’intimée. Par conséquent, et malgré l’attitude
+regrettable adoptée par cette dernière, il y a lieu de faire prédominer l’intérêt
+de l’enfant et donc de maintenir la présente situation. Ainsi, la garde de l’enfant
+des parties sera confiée à la mère pendant la durée de la procédure d’appel. »,
+que le demandeur ajoute que « plus le temps passe et plus dure la garde de l’enfant chez
+sa mère à [...], moins il sera possible d’effectuer le complément d’évaluation
+sociale réclamé […] dans le corps de son appel cantonal », de sorte que la
+violation de son droit d’être entendu et de ses garanties de procédure serait rendue
+manifeste par l’ordonnance du 16 septembre 2022 du juge cantonal,
+que pour ces motifs, A.K.________ sollicite la récusation du juge cantonal ;
+attendu qu’il convient de relever d’emblée que le fait pour le juge cantonal d’avoir
+rendu des décisions sur effet suspensif ainsi que de mesures superprovisionnelles ne constitue pas
+en soi un motif de récusation pour la procédure d’appel au fond,
+que le fait que son ordonnance sur effet suspensif du 25 mars 2022 ait été réformée
+par le Tribunal fédéral ne suffit pas non plus à justifier sa récusation,
+qu’à cet égard, dans son arrêt du 29 août 2022, le Tribunal fédéral
+a retenu, en substance, que lors du dépôt auprès du Tribunal cantonal de la requête
+d’effet suspensif le 22 mars 2022, il était établi que le demandeur était, pendant
+près d’une année, le parent référent de l’enfant – qui n’était
+âgé que de deux ans et demi –, que ce dernier n’était aucunement en péril
+auprès de son père, et que, lorsque le juge cantonal a rendu son ordonnance sur effet suspensif
+du 25 mars 2022, l’enfant se trouvait chez sa mère à [...] depuis trois jours seulement,
+de sorte qu’aucune circonstance ne l’empêchait de revenir chez son père –
+comme il l’aurait fait au terme d’un droit de visite usuel – pour attendre l’issue
+de la procédure d’appel auprès de son parent référent, conformément à
+la jurisprudence topique,
+que dans son ordonnance sur mesures superprovisionnelles du 16 septembre 2022, le juge cantonal
+a en substance considéré que, dans l’arrêt susmentionné, le Tribunal fédéral
+s’était replacé dans la situation qui existait au moment où l’ordonnance rejetant
+l’effet suspensif avait été rendue, soit le 25 mars 2022, que six mois s’étaient
+ainsi écoulés depuis les faits ressortant de l’arrêt du Tribunal fédéral
+et que l’état de fait n’était désormais plus le même, des éléments
+nouveaux étant entretemps intervenus, soit notamment le fait que l’enfant était auprès
+de sa mère depuis fin mars 2022 et le fait que l’on ne saurait retenir que le père était
+alors toujours le parent de référence d’C.K.________,
+que le juge cantonal a ensuite retenu qu’il ressortait des pièces que l’enfant allait
+bien, que rien ne permettait de remettre en cause les capacités éducatives de la mère,
+que le droit de visite du père semblait se dérouler normalement, après un examen sommaire
+du dossier, et que l’enfant vivait auprès de sa mère depuis bientôt six mois, de
+sorte qu’il serait contraire à l’intérêt supérieur d’C.K.________
+de prévoir un transfert immédiat auprès de son père,
+qu’il ressort de ce qui précède que le juge cantonal a maintenu la garde de l’enfant
+auprès de sa mère non pas en allant « à l’encontre » de l’arrêt
+du 29 août 2022 du Tribunal fédéral, comme soutenu par A.K.________ dans sa demande de
+récusation, mais en adaptant la solution retenue par le Tribunal fédéral aux faits nouveaux
+survenus,
+qu’en tout état de cause, on ne saurait y voir une faute particulièrement lourde du magistrat,
+au sens de la jurisprudence précitée,
+qu’il reste encore et surtout à examiner si, ainsi que le soutient en substance le demandeur,
+des éléments concrets amènent à retenir que le juge cantonal aurait définitivement
+forgé son opinion sur le fond de la procédure d’appel, si bien qu’une appréciation
+différente des faits et du droit ne serait plus envisageable et que le sort de la procédure
+serait définitivement scellé,
+que force est de constater que tel n’est toutefois pas le cas,
+qu’en effet, si, dans son ordonnance du 16 septembre 2022, le juge cantonal a exclu le transfert
+immédiat de l’enfant au père, il a toutefois précisé que la question de savoir
+si ce dernier était toujours le parent de référence « sera[it] précisément
+instruite et tranchée dans le cadre de la présente procédure » et « qu’une
+audience d’appel pourra[it] maintenant enfin être fixée à brève échéance,
+ce qui permettra[it] d’instruire l’affaire plus avant concernant la situation de l’enfant »,
+étant rappelé que la garde et le droit de visite sur l’enfant ont été réglementés
+dans dite ordonnance « jusqu’à ce qu’il soit statué sur les appels déposés
+par les parties »,
+qu’ainsi, les questions de la garde et du droit de visite n’ont été tranchées
+qu’au stade des mesures superprovisionnelles et au regard des règles applicables à ce
+type de mesures,
+qu’elles demeurent ouvertes s’agissant de la procédure d’appel au fond, ce qui
+avait d’ailleurs déjà été indiqué par le juge cantonal dans le passage
+de l’ordonnance sur effet suspensif du 25 mars 2022 cité par le demandeur,
+qu’au surplus, on ne saisit pas en quoi cet extrait démontrerait que le juge cantonal aurait
+déjà pris sa décision sur le fond,
+qu’enfin, il est difficile de déterminer ce qu’entend précisément faire valoir
+le demandeur en invoquant une violation de son droit d’être entendu et de ses garanties de
+procédure, qui serait rendue manifeste par l’ordonnance du 16 décembre 2022 du juge
+cantonal,
+qu’il semble toutefois que ce faisant, le demandeur tente en réalité de faire examiner
+par les juges de la récusation la conduite du procès et les décisions rendues par le juge
+cantonal à la façon d’une instance d’appel, ce qui ne saurait être autorisé,
+que, partant, l’on ne décèle pas de motif susceptible de fonder une apparence de prévention
+du juge cantonal,
+que, par conséquent, aucune circonstance concrète ne permet de redouter une attitude partiale
+de la part du magistrat quant à l’issue de la procédure d’appel au fond opposant
+A.K.________ et B.K.________, de sorte qu’aucun motif de récusation n’est réalisé ;
+attendu qu’en définitive, la demande de récusation présentée par A.K.________,
+manifestement mal fondée, doit être rejetée, sans qu’il faille interpeller la partie
+adverse ni le juge concerné (cf. CA 28 août 2021/30 ; CA 23 novembre 2020/40),
+que les frais judiciaires relatifs à la présente décision, arrêtés à 400
+fr. (art. 61 a. 4 TFJC [tarif des frais judiciaires civils du 28 septembre 2010 ; BLV 270.11.5]),
+doivent être mis à la charge du demandeur, qui succombe (art. 106 al. 1 CPC),
+qu’il n’y a pas lieu d’allouer de dépens, la partie adverse n’ayant pas
+été invitée à se déterminer.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation du Juge cantonal C.________ déposée le 20 septembre 2022 par
+A.K.________ est rejetée.
+II.
+Les frais judiciaires, arrêtés à 400 fr. (quatre cents francs), sont mis à la charge
+d’A.K.________.
+III.
+L'arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+Me Anne Reiser (pour A.K.________),
+-
+Me Sandrine Lubini (pour B.K.________),
+-
+M. le Juge cantonal C.________.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente de la Cour d’appel civile.
+Le greffier :
