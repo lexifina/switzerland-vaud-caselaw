@@ -1,0 +1,208 @@
+---
+decision_id: "vd_gerichte_e538356c-0736-4e53-aaba-4f1903b7e35a"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CREC"
+docket: "246"
+decided: "2022-10-26"
+published: "2022-12-11"
+language: "fr"
+legal_area: "Autre"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/e538356c-0736-4e53-aaba-4f1903b7e35a"
+cites_decisions: ["5A_554/2019", "5A_92/2015", "BGE 134 III 188", "BGE 137 III 380", "BGE 141 III 270"]
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-093.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/272/art-154.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/311.0/art-292.md"]
+---
+
+# Autre
+
+## Text
+
+TRIBUNAL CANTONAL
+AX22.026407-221362
+246
+CHAMBRE D E S RECOURS CIVIL E
+_________________________________________
+Arrêt du 26 octobre 2022
+__________________
+Composition : M. PELLET, président
+Mmes Crittin Dayen et Cherpillod, juges
+Greffière : Mme Laurenczy
+*****
+Art. 319 let. b ch. 2 CPC
+Statuant à huis clos sur le recours interjeté par Q.________, à
+[...], contre l’ordonnance rendue le 12 octobre 2022 par le Président du
+Tribunal civil de l’arrondissement de la Broye et du Nord vaudois dans la
+cause divisant le recourant d’avec F.________, à [...], la Chambre des
+recours civile du Tribunal cantonal considère :
+855
+
+- 2 -
+En fait et e n droi t :
+1.
+1.1 Par demande du 28 juin 2022 déposée devant le Président du
+Tribunal civil de l’arrondissement de la Broye et du Nord vaudois (ci-
+après : le président ou le premier juge), F.________ a principalement conclu
+à ce que le caractère illicite de différentes publications le concernant sur
+la page [...] « [...] » soit constaté, à ce qu’ordre soit donné à Q.________,
+sous la menace de la peine d’amende prévue à l’art. 292 CP réprimant
+l’insoumission à une décision de l’autorité, de retirer immédiatement de la
+page précitée lesdites publications qui n’auraient pas encore été retirées
+et dont le caractère illicite aura été constaté et à ce qu’« interdiction soit
+faite, sous la menace de la peine d’amende prévue à l’art. 292 CP
+réprimant l’insoumission à une décision de l’autorité, de publier quelque
+déclaration et photographie que ce soit mentionnant ou faisant
+référence » à F.________. Subsidiairement à cette conclusion, F.________ a
+conclu à ce qu’il soit fait interdiction à Q.________, sous la menace de la
+peine d’amende prévue à l’art. 292 CP réprimant l’insoumission à une
+décision de l’autorité, de réitérer par quelque moyen que ce soit, les
+déclarations portant atteinte à sa personnalité contenues dans les
+publications précitées, subsidiairement celles dont le caractère illicite aura
+été constaté, ainsi que de faire différentes déclarations le concernant
+(notamment qu’il aurait induit la justice en erreur, qu’il aurait commis
+plusieurs infractions, etc.) et de réitérer les déclarations contenues dans
+les vidéos postées sur [...] les 12 janvier 2019, 11 février 2020 et 30 juin
+2020.
+1.2 Lors de l’audience d’instruction et de jugement du 11 octobre
+2022, Q.________ a requis l’audition des témoins [...], [...] et [...], ainsi que
+la production du rapport établi par la police lors d’une intervention à la
+Direction générale de l’enfance et de la jeunesse (ci-après : la DGEJ)
+ensuite d’un appel de [...] en 2021.
+2. Par ordonnance de preuves du 12 octobre 2022, le président a
+admis les offres de preuves des parties (I), sous réserve de l’audition des
+
+- 3 -
+témoins [...], [...] et [...] par appréciation anticipée des preuves (II) et de la
+production du rapport d’intervention de la police requis par Q.________ par
+appréciation anticipée des preuves (III), a ordonné l’interrogatoire des
+parties lors de l’audience de jugement (IV) et a déclaré l’ordonnance
+immédiatement exécutoire (V).
+3. Par acte du 21 octobre 2022 (date du sceau postal), Q.________
+(ci-après : le recourant) a interjeté un recours contre cette ordonnance en
+concluant, sous suite de frais, à sa réforme en ce sens que l’audition des
+témoins soit ordonnée. Il a en outre requis l’assistance judiciaire pour la
+procédure de recours.
+4.
+4.1
+4.1.1 Selon l'art. 319 CPC (Code de procédure civile du 19 décembre
+2008 ; RS 272), le recours est recevable contre les décisions finales,
+incidentes et provisionnelles de première instance qui ne peuvent faire
+l’objet d’un appel (let. a), les ordonnances d'instruction et les décisions
+autres que finales, incidentes ou provisionnelles de première instance,
+dans les cas prévus par la loi (let. b ch. 1) ou lorsqu'elles peuvent causer
+un préjudice difficilement réparable (let. b ch. 2 ; Jeandin, Commentaire
+romand, Code de procédure civile, Bâle 2019, 2e éd., n. 11 ad art. 319
+CPC).
+Le recours, écrit et motivé, est introduit auprès de l'instance
+de recours dans un délai de dix jours pour les décisions prises en
+procédure sommaire et les ordonnances d'instruction, à moins que la loi
+n'en dispose autrement (art. 321 al. 1 et 2 CPC ; ATF 141 III 270 consid.
+3.3).
+4.1.2 Contrairement aux cas où le recours est expressément prévu
+par la loi, le CPC ne prévoit pas une telle voie contre l’ordonnance
+d'instruction (Jeandin, op. cit., n. 14 ad art. 319 CPC). La recevabilité du
+recours contre un tel acte est donc subordonnée à l'existence d'un
+
+- 4 -
+préjudice difficilement réparable au sens de l'art. 319 let. b ch. 2 CPC
+(parmi d’autres : CREC 16 mai 2019/140 ; JdT 2011 III 86 consid. 3).
+La notion de préjudice difficilement réparable de l'art. 319 let.
+b ch. 2 CPC est plus large que celle de dommage irréparable de l'art. 93 al.
+1 let. a LTF (loi sur le Tribunal fédéral du 17 juin 2005 ; RS 173.110 ; TF
+5A_92/2015 du 2 mars 2015 consid. 3.2.2 et les réf. citées), puisqu'elle
+vise non seulement un inconvénient de nature juridique, mais aussi les
+désavantages de fait (JdT 2014 III 121 consid. 1.2 et les réf. citées, dont
+JdT 2011 III 86 consid. 3). La question de savoir s'il existe un préjudice
+difficilement réparable s'apprécie par rapport aux effets de la décision
+incidente sur la cause principale, respectivement la procédure principale
+(ATF 137 III 380 consid. 1.2.2 ; TF 5A_554/2019 du 21 novembre 2019
+consid. 1.1.1 et les réf. citées). Ainsi, l'art. 319 let. b ch. 2 CPC ne vise pas
+seulement un inconvénient de nature juridique, imminent, mais également
+toute incidence dommageable, y compris financière ou temporelle, pourvu
+qu'elle soit difficilement réparable. Il y a toutefois lieu de se montrer
+exigeant, voire restrictif, avant d'admettre la réalisation de cette
+condition, sous peine d'ouvrir le recours à toute décision ou ordonnance
+d'instruction, ce que le législateur a clairement exclu (CREC 7 octobre
+2020/250 consid. 6.1 ; Jeandin, op. cit., n. 22 ad art. 319 CPC et les réf.
+citées). En outre, un préjudice irréparable de nature juridique ne doit pas
+pouvoir être ultérieurement réparé ou entièrement réparé par une
+décision finale favorable au recourant (ATF 134 III 188 consid. 2.1 et 2.2).
+Dans le cadre d’un recours contre une ordonnance de preuves
+(art. 154 CPC) ou contre toute ordonnance d’instruction, il incombe au
+recourant d'établir que sa situation procédurale serait rendue notablement
+plus difficile et péjorée si la décision querellée était mise en œuvre, étant
+souligné qu'une simple prolongation de la procédure ou un accroissement
+des frais ne suffisent pas (CREC 13 décembre 2019/344 consid. 3.2.1 et
+les réf citées).
+4.2 En l’occurrence, le recourant invoque une violation de son
+droit d’être entendu, dès lors que le premier juge a refusé, par
+
+- 5 -
+appréciation anticipée des preuves, d’entendre les témoins dont il avait
+requis l’audition et la production d’un rapport d’intervention de la police à
+la DGEJ en 2021, alors qu’il s’agirait de moyens de preuve pertinents et
+primordiaux pour constater les faits.
+Or, le recourant ne fait valoir aucun préjudice difficilement
+réparable qui résulterait de ce refus d’entendre les témoins et de requérir
+la production du rapport de police précité, pour autant que celui-ci existe.
+L’argumentation du recourant tendant à invoquer que les moyens de
+preuve seraient « pertinents et primordiaux pour constater les faits » est
+générale et impropre à démontrer l'existence d'un dommage difficilement
+réparable au sens de la jurisprudence précitée. Le cas échéant, il lui sera
+loisible de contester l’état de fait et l’appréciation des preuves de
+l’autorité de première instance dans le cadre d’une procédure de recours
+ou d’appel si la décision finale devait être en sa défaveur, de sorte qu’un
+éventuel préjudice de nature juridique pourra être réparé ultérieurement.
+Enfin, il n’y a pas lieu d’examiner plus avant l’argument d’une
+violation du droit d’être entendu, le recours étant irrecevable faute de
+préjudice difficilement réparable.
+5.
+5.1 Il s'ensuit que le recours doit être déclaré irrecevable, au sens
+de l'art. 322 al. 1 in fine CPC.
+5.2 Le présent arrêt peut être rendu sans frais judiciaires de
+deuxième instance (cf. art. 10 et 11 TFJC [tarif des frais judiciaires civils du
+28 septembre 2010 ; BLV 270.11.5]).
+Il ne sera en outre pas alloué de dépens, F.________ n’ayant pas
+été invité à se déterminer sur le recours.
+5.3 Le recourant a requis l’assistance judiciaire pour la procédure
+de deuxième instance. Pour autant que cette requête ne soit pas devenue
+sans objet en l’absence de frais mis à la charge du recourant, elle doit être
+
+- 6 -
+rejetée. En effet, au vu du dossier, le recours était d’emblée dénué de
+chances de succès (art. 117 let. b CPC) car irrecevable, dans la mesure où
+le recourant n’a fait valoir aucun préjudice difficilement réparable, ce qui
+ne pouvait conduire qu’au rejet du recours compte tenu des dispositions
+légales et de la jurisprudence constante de la Chambre de céans. Une
+personne raisonnable plaidant à ses propres frais aurait renoncé à faire
+recours.
+Par ces motifs,
+la Chambre des recours civile du Tribunal cantonal,
+en application de l'art. 322 al. 1 CPC,
+prononce :
+I. Le recours est irrecevable.
+II. La requête d’assistance judiciaire du recourant Q.________ est
+rejetée.
+III. L’arrêt, rendu sans frais, est exécutoire.
+Le président : La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+- M. Q.________, personnellement,
+- Me Miriam Mazou (pour F.________).
+
+- 7 -
+Le présent arrêt peut faire l'objet d'un recours en matière
+civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral ; RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Dans les affaires
+pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de
+droit du bail à loyer, à 30'000 fr. dans les autres cas, à moins que la
+contestation ne soulève une question juridique de principe (art. 74 LTF).
+Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+- Monsieur le Président du Tribunal civil de l’arrondissement de la Broye
+et du Nord vaudois.
+La greffière :
