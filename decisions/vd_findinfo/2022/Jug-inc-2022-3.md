@@ -1,0 +1,568 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2022___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2022 / 3"
+decided: "2022-11-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9467070"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/232.11/art-004.md", "switzerland/bund/acts/272/art-095.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-126.md", "switzerland/bund/acts/272/art-264.md", "switzerland/bund/acts/272/art-343.md", "switzerland/bund/acts/311.0/art-292.md"]
+---
+
+# VD Findinfo Jug-inc / 2022 / 3
+
+## Regeste
+
+SUSPENSION DE LA PROCÉDURE | 124 al. 1 CPC (CH), 126 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour civile Jug-inc / 2022 / 3
+
+SUSPENSION DE LA PROCÉDURE | 124 al. 1 CPC (CH), 126 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+CB22.032246
+21/2022/JMN
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+T.________
+,
+à [...], d’avec
+K.________
+et
+K.________
+,
+toutes deux à [...].
+___________________________________________________________________
+Du
+2 novembre 2022
+__________________
+Composition
+:               M. MEYLAN, juge délégué
+Greffière
+:              Mme Bron
+*****
+Le juge délégué considère :
+En fait :
+1.
+Par requête de mesures superprovisionnelles et provisionnelles déposée le 28 janvier 2022
+à l’encontre des sociétés K.________ et K.________, la société T.________
+a pris les conclusions suivantes:
+"
+Statuant d’urgence sur
+mesures superprovisionnelles, sans audition préalable des parties
+1.
+Interdire aux Intimées tout comportement
+visant à enrôler les étudiants de la Requérante en se prévalant de leurs nouvelles
+raisons sociales K.________ et K.________, jusqu’à droit jugé sur mesures provisionnelles.
+2.
+Interdire aux Intimées d’apposer sur
+leur éventuel campus à [...] les enseignes portant les noms de [...], K.________ et K.________,
+jusqu’à droit jugé sur mesures provisionnelles.
+3.
+Interdire aux Intimées tout comportement
+visant à créer une confusion vis-à-vis des tiers, y compris sur leur site internet,
+(…)
+,
+entre leurs prestations et établissements et ceux de la Requérante, dans le cadre notamment
+des inscriptions pour la prochaine rentrée universitaire et des accords de coopération conclus
+ou à conclure d’ici à la réception d’une ordonnance de mesures provisionnelles.
+4.
+Interdire aux Intimées de se prévaloir
+de liens avec la Requérante, respectivement d’organiser des réunions et/ou d’y
+participer sous l’enseigne de la Requérante afin de conclure et de résilier des accords
+jusqu’à droit jugé sur mesures provisionnelles.
+5.
+Faire interdiction à K.________ et à
+K.________ de créer tout nouveau matériel dans les affaires, (soit notamment sur leur papier
+entête, cartes de visite, dans leurs communications externes (emails, messages, correspondances),
+se référant aux entités et dénominations litigieuses « K.________ »,
+« K.________ », ainsi que toute référence à l’acronyme et la
+raison sociale de la Requérante, jusqu’à droit jugé sur mesures provisionnelles.
+6.
+Dire que les mesures superprovisionnelles porteront
+effet jusqu’au droit connu sur le sort des mesures provisionnelles.
+7.
+Dire que les injonctions superprovisionnelles
+sont prononcées sous la menace de la peine d’amende prévue par l’art. 292 CP, qui
+réprime l’insoumission à une décision de l’autorité, en cas d’inexécution
+immédiate (art. 343 al. 1 let. a CPC).
+8.
+Dire qu’en cas de non-respect des injonctions
+superprovisionnelles les Intimées seront condamnées à une amende d’ordre de CHF
+3'000.- pour chaque jour d’inexécution.
+9.
+Dire que les dépens de la procédure
+superprovisionnelle suivront le sort de la procédure provisionnelle.
+Cela
+fait, statuant sur mesures provisionnelles, après audition des parties
+:
+10.
+Interdire aux Intimées tout comportement
+visant à enrôler les étudiants de la Requérante en se prévalant de leurs nouvelles
+raisons sociales K.________ et K.________, jusqu’à droit jugé sur le fond.
+11.
+Interdire aux Intimées d’apposer sur
+leur éventuel campus à [...] les enseignes portant les noms de [...], K.________ et K.________,
+jusqu’à droit jugé sur le fond.
+12.
+Interdire aux Intimées de revendiquer auprès
+d’étudiants et d’universités toute affiliation avec la Requérante, jusqu’à
+droit jugé sur le fond.
+13.
+Interdire aux Intimées tout comportement
+visant à créer une confusion vis-à-vis des tiers, y compris sur leur site internet,
+(…)
+,
+entre leurs prestations et établissements et ceux de la Requérante, dans le cadre notamment
+des inscriptions et des accords de coopération, jusqu’à droit jugé sur le fond.
+14.
+Interdire aux Intimées de se prévaloir
+de liens avec la Requérante, respectivement d’organiser des réunions et/ou d’y
+participer sous l’enseigne de la Requérante afin de conclure et de résilier des accords
+jusqu’à droit jugé sur le fond.
+15.
+Faire interdiction à K.________ et à
+K.________ de créer tout nouveau matériel dans les affaires, (soit notamment sur leur papier
+entête, cartes de visite, dans leurs communications externes (emails, messages, correspondances),
+se référant aux entités et dénominations litigieuses « K.________ »,
+« K.________ », ainsi que toute référence à l’acronyme et la
+raison sociale de la Requérante, jusqu’à droit jugé.
+16.
+Ordonner à K.________ et à K.________
+de retirer de tous les sites qu’elle utilise et alimente, en particulier
+(…)
+,
+toute référence à « K.________ », « K.________ »
+ainsi que toute référence à l’acronyme et la raison sociale de la Requérante,
+jusqu’à droit jugé.
+17.
+Ordonner à K.________ et à K.________
+de cesser tout envoi, sous quelque forme que ce soit, de toute correspondance de nature à, implicitement
+ou explicitement, s’assimiler ou se substituer aux prestations de la société T.________,
+jusqu’à droit jugé sur le fond.
+18.
+Faire interdiction à K.________ et à
+K.________ de déposer une marque suisse aux noms de « [...] », « [...] »,
+[...] », « K._________ » jusqu’à droit jugé sur le fond.
+19.
+Dispenser T.________ de fournir des sûretés
+(art. 264 al. 1 CPC).
+20.
+Impartir à T.________ un délai raisonnable
+pour le dépôt de la demande au fond.
+21.
+Dire que les injonctions provisionnelles sont
+prononcées sous la menace de la peine d’amende prévue par l’art. 292 CP, qui réprime
+l’insoumission à une décision de l’autorité, en cas d’inexécution
+immédiate (art. 343 al. 1 let. a CPC).
+22.
+Dire qu’en cas de non-respect des injonctions
+provisionnelles les Intimées seront condamnées à une amende d’ordre de CHF 3'000.-
+pour chaque jour d’inexécution.
+23.
+Condamner les Intimées en tous les frais
+et dépens qui comprendront une équitable indemnité aux honoraires du Conseil soussigné. ».
+Le 31 janvier 2022, le juge délégué
+de la Cour civile a rendu une ordonnance de mesures superprovisionnelles. Il a alors interdit à
+K.________ et K.________ tout comportement visant à enrôler les étudiants de T.________
+en se prévalant de leurs nouvelles raisons sociales K.________ et K.________ (I), interdit d’apposer
+sur leur éventuel campus à [...] les enseignes portant les noms de [...], K.________ et K.________
+(II), interdit tout comportement visant à créer une confusion entre leurs prestations et établissements
+et ceux de T.________ dans le cadre notamment des inscriptions et des accords de coopération (III),
+interdit de se prévaloir de liens avec T.________, respectivement d’organiser des réunions
+et/ou y participer sous l’enseigne de T.________ afin de conclure et de résilier des accords
+(IV), interdit de créer tout nouveau matériel se référant aux entités et dénominations
+litigieuses ainsi que toute référence à l’acronyme et la raison sociale de T.________
+(V), sous la menace de la peine d’amende prévue par l’art. 292 CP (VI), les frais suivant
+le sort des mesures provisionnelles (VII), l’ordonnance étant immédiatement exécutoire
+et en vigueur jusqu’à décision sur la requête de mesures provisionnelles (VIII),
+et toutes autres ou plus amples conclusions étant rejetées (IX).
+Par ordonnance de mesures provisionnelles notifiée
+aux parties le
+6 mai 2022, le juge délégué
+a dit que les conclusions prises par T.________ contre K.________ et K.________ étaient admises
+(I), interdit à K.________ et K.________ tout comportement visant à enrôler les étudiants
+de T.________ en se prévalant de leurs nouvelles raisons sociales K.________ et K.________ (II),
+interdit à K.________ et K.________ d’apposer sur leur campus à [...] les enseignes portant
+les noms de « [...] », « K.________ » et « K.________ »
+(III), interdit à K.________ et K.________ de revendiquer auprès d’étudiants et
+d’universités toute affiliation avec T.________ (IV), interdit à K.________ et K.________
+tout comportement visant à créer une confusion vis-à-vis des tiers, y compris sur leur
+site internet, (…), entre leurs prestations et établissements et ceux de la requérante,
+dans le cadre notamment des inscriptions et des accords de coopération (V), interdit à K.________
+et K.________ de se prévaloir de liens avec T.________, respectivement d’organiser des réunions
+et/ou d’y participer sous l’enseigne de T.________ afin de conclure et de résilier des
+accords (VI), interdit à K.________ et K.________ de créer tout nouveau matériel dans
+les affaires, soit notamment sur leur papier entête, cartes de visite, dans leurs communications
+externes (emails, messages, correspondances), se référant aux entités et dénominations
+litigieuses « K.________ », « K.________ », ainsi que toute référence
+à l’acronyme et la raison sociale de T.________ (VII), ordonné à K.________ et K.________
+de retirer de tous les sites qu’elles utilisent et alimentent, en particulier (…), toute
+référence à « K.________ », « K.________ », ainsi
+que toute référence à l’acronyme et la raison sociale de T.________ (VIII), ordonné
+à K.________ et K.________ de cesser tout envoi, sous quelque forme que ce soit, de toute correspondance
+de nature à, implicitement ou explicitement, s’assimiler ou se substituer aux prestations
+de T.________ (IX), interdit à K.________ et K.________ de déposer une marque suisse aux noms
+de « [...] », « [...] », « [...]», « [...] »
+(X), dispensé T.________ de fournir des sûretés (XI), fixé à T.________ un délai
+de trois mois dès notification de la décision pour déposer une demande au fond, sous peine
+de caducité des mesures provisionnelles (XII), dit que les injonctions provisionnelles étaient
+prononcées sous la menace de la peine d’amende prévue par l’art. 292 CP, qui réprime
+l’insoumission à une décision de l’autorité, en cas d’inexécution
+immédiate (XIII), dit qu’en cas de non-respect des injonctions provisionnelles, K.________
+et K.________ seraient condamnées à une amende d’ordre de 1'000 fr. pour chaque jour
+d’inexécution (XIV), mis les frais de la procédure provisionnelle à la charge de
+K.________ et K.________, solidairement entre elles (XV), condamné K.________ et K.________, solidairement
+entre elles, à verser des dépens à T.________ (XVI), déclaré l’ordonnance
+immédiatement exécutoire, nonobstant recours ou appel (XVII) et rejeté toute autre ou
+plus ample conclusion (XVIII).
+L’ordonnance de mesures provisionnelles n’a pas fait l’objet d’un recours.
+2.
+Le 14 juillet 2022, l’Organisation autonome
+à but non-lucratif « [...] » (ci-après [...]) a déposé une action
+en cession de la marque/en protection de la marque/en cessation de l’atteinte/en protection de
+la raison de commerce/en protection du nom à l’encontre de T.________ devant la Cour de justice
+de la Chambre civile du canton de [...]. Le [...] a notamment conclu à la cession en sa faveur des
+marques suisses no [...] T.________ (fig.)), no [...] ([...] (fig.)) et no [...] ([...]), détenues
+par T.________. Le [...] a agi par le biais de ses conseils qui sont également les conseils de K.________
+et K.________.
+Le 17 août 2022, la Chambre civile de la Cour de justice du canton de [...] a notifié la demande
+du 14 juillet 2022 à T.________ et lui a fixé un délai de trente jours pour déposer
+une réponse.
+3.
+Par demande du 10 août 2022 déposée
+devant la cour de céans, T.________ a pris les conclusions suivantes contre K.________ et K.________
+:
+«
+Préalablement
+1
+Ordonner à K.________, devenue [...] et à K.________, la production des pièces, catégories
+de pièces et informations suivantes :
+(…)
+2
+Impartir un délai à T.________ pour compléter sa demande sur la base des pièces et
+documents fournis spontanément ou sur demande de la Cour de céans.
+A
+la forme
+3
+Déclarer recevable la présente demande.
+Au
+fond
+4
+Interdire aux Défenderesses tout comportement de quelque nature que ce soit visant à enrôler
+les étudiants de la Demanderesse en se prévalant de leurs nouvelles raisons sociales K.________
+et K.________.
+5
+Interdire aux Défenderesses d’apposer sur leur éventuel campus à [...] les enseignes
+portant les noms de [...], K.________ ou K.________
+.
+6
+Interdire aux Défenderesses de revendiquer auprès d’étudiants et d’universités
+toute affiliation directe ou indirecte avec la Demanderesse.
+7
+Interdire aux Défenderesses tout comportement visant à créer une confusion vis-à-vis
+des tiers, y compris sur leur site internet,
+(…)
+,
+entre leurs prestations et établissements et ceux de la Demanderesse, dans le cadre notamment des
+inscriptions et des accords de coopération.
+8
+Interdire aux Défenderesses de se prévaloir de liens directs ou indirects avec la Demanderesse,
+respectivement d’organiser des réunions et/ou d’y participer sous l’enseigne de
+la Demanderesse afin de conclure et/ou de résilier des accords.
+9
+Interdire aux Défenderesses de créer tout nouveau matériel dans les affaires, soit notamment
+sur leur papier entête, cartes de visite, ou dans leurs communications externes (e-mails, messages,
+correspondances) se référant aux entités et dénominations litigieuses « K.________ »,
+« K.________ », ainsi que toute référence à l’acronyme et la
+raison sociale de la Demanderesse.
+10
+Ordonner aux Défenderesses de retirer de tous les sites qu’elles utilisent et alimentent,
+directement ou par le biais de tiers, en particulier
+(…)
+,
+toute référence à « K.________ », « K.________ »
+ainsi que toute référence à l’acronyme et la raison sociale de la Demanderesse.
+11
+Ordonner aux Défenderesses de cesser tout envoi, sous quelque forme que ce soit, de toute correspondance
+de nature à, implicitement ou explicitement, s’assimiler ou se substituer aux prestations
+de la société T.________.
+12
+Interdire aux Défenderesses de déposer une marque suisse aux noms de « [...] »,
+« [...] », « [...] », « [...] ».
+Ceci fait
+:
+13
+Dire et constater que les mesures provisionnelles prononcées dans l’ordonnance du 6 mai 2022,
+notifiée le 10 mai 2022, ont été valablement validées.
+14
+Dire et constater que l’usage de la marque « [...] » et l’utilisation
+de l’enseigne « [...] » par K.________ est illicite et constitue une violation
+du droit exclusif à la marque de T.________.
+15
+Constater le caractère déloyal de l’utilisation par K.________ de la raison sociale K.________.
+16
+Interdire à K.________ l’usage de la marque « [...] » et l’utilisation
+de l’enseigne « [...] ».
+17
+Interdire à [...] et à K.________, sous la menace de la condamnation judiciaire des organes
+de [...] et de K.________ et de confiscation, d’utiliser le vocable « [...] »,
+sous quelque forme que ce soit, avec ou sans « [...] » ajouté, combiné
+ou non avec l’image d’un voilier, dans l’Internet, dans leurs papiers d’affaires,
+cartes, cartons, enveloppes, papier à lettre, brochures et tous autres supports.
+18
+Interdire à K.________ l’utilisation de la raison sociale K.________.
+19
+Ordonner à K.________ de procéder à la modification de sa raison de commerce en ce sens
+que toute référence à la marque, l’acronyme et la raison sociale de la T.________
+n’y apparaît plus.
+20
+Interdire à K.________, devenue [...] et à K.________ d’utiliser le terme « [...] » ;
+« T.________ » ; « [...] » ou un terme similaire dans leur
+future raison de commerce.
+21
+Interdire à K.________, devenue [...], et à K.________ de se substituer ou de s’assimiler
+par quelconque manière à « [...] » ; à « T.________ »
+ou encore à « [...] ».
+22
+Ordonner à [...] et à K.________ de retirer de tous les sites qu’elles utilisent et alimentent,
+en particulier
+(…)
+,
+toute substitution à la raison sociale de la Demanderesse.
+En tout état
+23
+Assortir les conclusions ch. 16 à 23 de la peine prévue par l’art. 292 CP qui réprime
+l’insoumission à une décision de l’autorité ;
+24
+Dire que faute d’exécution dans les dix jours dès jugement définitif et exécutoire,
+[...] et K.________ seront condamnées à une amende d’ordre de CHF 1'000.- pour chaque
+jour d’inexécution.
+25
+Débouter [...] et K.________ de toutes autres ou contraires conclusions.
+26
+Condamner [...] et K.________ conjointement et solidairement aux frais et dépens de la procédure,
+lesquels comprendront une équitable indemnité aux honoraires du Conseil soussigné. »
+Le 1
+er
+septembre 2022, T.________ a effectué le paiement de l’avance de frais de 14'250 fr. requise
+par avis du juge délégué du 15 août 2022.
+Par avis du 7 septembre 2022, le juge délégué a fixé à K.________ et K.________
+un délai au 12 octobre 2022 pour déposer une réponse.
+4.
+a)
+Le 19 septembre 2022, les défenderesses
+au fond et requérantes à l’incident K.________ et K.________ (ci-après les requérantes)
+ont déposé une requête de suspension dont les conclusions sont les suivantes :
+«
+Préalablement
+:
+1.
+Révoquer le délai pour répondre au fond, fixé au 12 octobre 2022, jusqu’à
+décision entrée en force sur la présente requête.
+Principalement
+:
+2.
+Suspendre la présente procédure jusqu’à droit définitivement jugé dans
+la procédure actuellement pendante auprès de la Chambre civile de la Cour de justice du Canton
+de [...] (cause [...]).
+Subsidiairement
+:
+3.
+En cas de refus, octroyer à K.________ et K.________ un délai d’au moins 60 jours pour
+répondre à la demande déposée le 10 août 2022 par T.________ par-devant la Cour
+civile du Tribunal cantonal vaudois.
+En
+tout état
+:
+4.
+Débouter T.________ de toutes ou contraires conclusions. »
+b)
+Par avis du 22 septembre 2022, le juge délégué a fixé aux requérantes un délai
+au 7 octobre 2022 pour procéder à l’avance de frais d’un montant de 1'500 francs.
+Le 5 octobre 2022, les requérantes ont effectué le paiement de l’avance de frais requise.
+c)
+Par avis du 7 octobre 2022, le juge délégué a notifié la requête incidente à
+la demanderesse au fond et intimée à l’incident T.________ (ci-après l’intimée),
+et lui a fixé un délai au 25 octobre 2022 pour se déterminer.
+Le 21 octobre 2022, l’intimée a déposé des déterminations et pris les conclusions
+suivantes :
+« 1
+Déclarer recevable la présente détermination.
+2
+Débouter K.________, devenue [...], et K.________ de leur conclusion visant à la suspension
+de la procédure jusqu’à droit jugé de la procédure [...] pendante auprès
+de la Chambre civile de la Cour de justice du Canton de [...].
+3
+Cela fait, rejeter la requête de suspension formée par K.________, devenue [...], et K.________
+le 19 septembre 2022.
+4
+Débouter K.________, devenue [...], et K.________ de toutes autres, plus amples ou contraires conclusions.
+5
+Condamner K.________, devenue [...], et K.________ en tous les dépens d’instance, lesquels
+comprendront une indemnité couvrant l’intégralité des honoraires d’avocats
+de T.________. »
+d)
+Par avis du 28 octobre 2022, le juge délégué a notifié les déterminations de
+l’intimée aux requérantes et informé les parties qu’il rendrait une décision
+incidente sans autre procédé.
+En droit :
+I.
+a)
+Aux termes de l'art. 124 al. 1 du Code de procédure
+civile suisse du 19 décembre 2008 (CPC; RS 272), le tribunal conduit le procès et prend les
+décisions d’instruction nécessaires à une préparation et à une conduite
+rapides de la procédure.
+Selon l'art. 126 al. 1 CPC, le juge peut ordonner la suspension de la procédure si des motifs d’opportunité
+le commandent, notamment lorsque la décision dépend du sort d’un autre procès. En
+l’absence de précision du texte légal, la suspension peut intervenir d’office ou
+sur requête, en tout état de cause, à savoir dès la conciliation et jusque et y compris
+en instance de recours (Haldy, CPC commenté, Bâle 2011, n. 8 ad art. 126 CPC) et
+quelle que soit la procédure applicable (Staehelin, in Sutter-Somm/Hasenböhler/Leuenberger,
+Kommentar zur Schwei-zerischen Zivilprozes-sordnung, 3
+e
+éd. 2016, n. 4 ad art. 126 CPC).
+Une suspension doit être compatible avec le principe constitutionnel de célérité
+(art. 29 al. 1 Cst. ; ATF 135 III 127 consid. 3.4, JdT 2011 II 402 ; Haldy, op. cit., n. 6
+ad art. 126 CPC). Admissible seulement à titre exceptionnel, la suspension doit en outre
+répondre à un besoin réel, être fondée sur des motifs objectifs, et ne saurait
+être ordonnée à la légère, les parties ayant un droit à ce que les causes
+pendantes soient traitées dans des délais raisonnables (TF 4A_683/2014 du
+17
+février 2015 consid. 2.1 ; Message relatif au CPC du 28 juin 2006, FF 6481, spéc. p. 6916 ;
+Haldy, op. cit., n. 5 ad art. 126 CPC). En cas de doute, la priorité est donnée au
+principe de célérité (TF 5A_714/2014 du 2 décembre 2014 consid. 4.2). Le juge bénéficie
+d'un large pouvoir d'appréciation en la matière (TF 4A_683/2014 précité consid. 2.1).
+Une suspension dans l'attente de l'issue d'un autre procès peut se justifier en cas de procès
+connexes (ATF 130 V 90 consid. 5 ; TF 4A_683/2014 précité consid. 2.1). Lorsqu’il
+s’agit d’attendre le résultat d’un autre procès, il suffit que l’on
+puisse attendre de cette issue qu’elle facilite de façon significative la procédure à
+suspendre (Staehelin, op. cit., n. 3 ad art. 126 CPC ; Haldy, op. cit., n. 5 ad art. 126 CPC).
+Il y a lieu en définitive d’effectuer une pesée entre l’intérêt à
+l’avancement du procès et l’intérêt à une simplification de celui-ci
+(Staehelin, op. cit., n. 4 ad art. 126 CPC).
+La suspension peut être de durée déterminée, prenant fin dans ce cas automatiquement
+avec l’écoulement de la date prévue, ou de durée indéterminée, ce qui
+a pour conséquence qu’elle ne peut prendre fin que par une décision (Kaufmann, in Brunner/Gasser/Schwander,
+Schweizerische Zivilprozessordnung, Kommentar, 2011, n. 13 ad art. 126 CPC ; Staehelin,
+op. cit., n. 6 ad art. 126 CPC). Une suspension « jusqu’à droit connu
+sur une procédure » doit être considérée comme étant de durée
+indéterminée car le terme n’est alors pas certain pour les parties et ne leur est pas
+sans autre connu (Staehelin, loc. cit.).
+b)
+En l'espèce, les requérantes sollicitent la suspension de la cause introduite devant la cour
+de céans jusqu'à droit connu dans la procédure [...] ouverte devant la Chambre civile
+de la Cour de justice du canton de [...]. Elles soutiennent que la suspension se justifie du fait que
+la Chambre civile de la Cour de justice du canton de [...] est saisie d’une procédure connexe
+portant sur des questions de fait très similaires et en tout cas très fortement liées
+à celles qui sont au centre de la procédure qui a été ouverte ultérieurement
+devant la cour de céans. Selon elles, si les parties au litige [...] ne sont pas exactement identiques
+à celles de la procédure vaudoise, la suspension sollicitée n’en demeure pas moins
+nécessaire au vu de l’influence déterminante du sort de la cause [...] sur la procédure
+vaudoise puisque la question de savoir qui de l’intimée ou du [...] est titulaire légitime
+des marques concernées aura une importance directe sur le sort de la procédure déposée
+devant l’autorité vaudoise et qu’il existe ainsi un risque important de contrariété
+de décisions entre les deux procédures.
+L’intimée conclut au rejet de la requête de suspension de cause. Elle relève que
+les parties aux procédures vaudoise et [...] ne sont pas identiques, que l’action au fond
+qu’elle a déposée devant la cour de céans le 10 août 2022 l’a été
+dans le délai de trois mois fixé dans l’ordonnance de mesures provisionnelles du 6 mai
+2022 afin de valider dites mesures provisionnelles, que la requête de suspension est en réalité
+un recours déguisé à l’encontre de cette décision devant les instances d’un
+autre canton alors même que les requérantes n’ont pas formé de recours à l’encontre
+de l’ordonnance du 6 mai 2022, que l’issue de la procédure vaudoise ne dépend pas
+du sort de la procédure [...] et que le prononcé d’une suspension irait à l’encontre
+du principe de célérité.
+c)
+En l’occurrence, il n’est pas contesté que le complexe de faits des deux affaires est
+proche. En effet, dans les deux cas, il est notamment question de la titularité de la marque verbale
+« [...] » et des marques combinées « [...] » et « [...] ».
+Les parties ne sont toutefois pas identiques (T.________ contre K.________ et K.________ dans la procédure
+déposée devant la cour de céans ; [...] contre T.________ dans la procédure
+déposée devant la Chambre civile de la Cour de justice [...]).
+Si la demande [...] a été déposée avant la demande vaudoise, l’affaire vaudoise
+a débuté le 28 janvier 2022 par une requête de mesures provisionnelles et une ordonnance
+de mesures provisionnelles a été notifiée aux parties le 6 mai 2022, soit plus de deux
+mois avant le dépôt de la demande [...] le 14 juillet 2022. La demande au fond a par ailleurs
+été déposée devant la cour de céans dans le délai de trois mois fixé
+dans l’ordonnance de mesures provisionnelles du 6 mai 2022 afin de valider dites mesures provisionnelles.
+On doit donc considérer que le litige vaudois s’est noué avant le litige [...].
+Il convient de relever que les requérantes se prévalent d’un passage de l’ordonnance
+de mesures provisionnelles du 6 mai 2022 (« Tout au plus, le [...] pourrait-il actionner la
+société [...] ») pour expliquer le dépôt de la demande [...]. Or, cet argument
+n’est pas pertinent dès lors que la procédure [...] est dirigée contre l’intimée
+et non pas contre la société [...].
+Certes, il n’est pas exclu qu’un éventuel succès de la procédure [...] puisse
+influer sur le sort de la procédure vaudoise. Il n’y a toutefois pas de risque de jugements
+à proprement parler contradictoires puisque les parties ne sont pas les mêmes.
+Au surplus, à la lecture de la procédure [...], on est frappé par le fait que le [...]
+refait en grande partie le débat tranché en mesures provisionnelles devant le juge vaudois
+(notamment s’agissant de l’application de l’art. 4 LPM qui a été écartée
+dans la décision du 6 mai 2022, des enregistrements des marques qui seraient déloyaux et du
+comportement de l’intimée qui serait abusif, cf. all. 99 à 105 de la demande du 14 juillet
+2022), alors qu’aucun recours n'a été déposé à l’encontre de l’ordonnance
+de mesures provisionnelles du
+6 mai 2022.
+De plus, dans la mesure où les mêmes avocats ont été mandatés, l’impression
+qui en résulte est que la procédure [...] a été déposée avant tout pour
+des raisons stratégiques.
+Ces différents éléments, tout comme le fait que la suspension soit requise pour une durée
+indéterminée, heurtent en outre le principe de la célérité tel que défini
+plus haut.
+Au vu de ce qui précède, les conditions de l’art. 126 al. 1 CPC ne sont pas remplies
+et il ne se justifie dès lors pas de suspendre la présente cause jusqu’à droit définitivement
+jugé dans la procédure pendante devant la Chambre civile de la Cour de justice du canton de
+[...] (cause [...]). La requête de suspension du 19 septembre 2022 doit donc être rejetée
+et un délai au
+10 janvier 2023 doit
+être fixé aux requérantes pour déposer une réponse dans la procédure au
+fond ouverte devant la cour de céans.
+II.
+Aux termes de l'art. 106 al. 1 CPC, les frais, qui comprennent les frais judiciaires et les dépens
+(art. 95 al. 1 CPC), sont mis à la charge de la partie succombante.
+Les requérantes, qui succombent, supporteront les frais judiciaires, arrêtés à 1’500
+fr. (mille cinq cents francs) conformément aux art. 28, 29 et 51 du tarif des frais judiciaires
+civils du 28 septembre 2010 (TFJC; BLV 270.11.5), solidairement entre elles.
+L’intimée, qui obtient gain de cause, a droit à des dépens, arrêtés à
+2’000 fr. (deux mille francs) conformément aux art. 3 et 4 du tarif des dépens en matière
+civile du 23 novembre 2010 (TDC; BLV 270.11.6), à la charge des requérantes, solidairement
+entre elles.
+*
+* * * *
+Par
+ces motifs,
+le
+juge délégué,
+statuant
+à huis clos,
+prononce
+:
+I.
+La requête de suspension déposée par K.________ et K.________ le 19 septembre 2022 est
+rejetée.
+II.
+Les frais judiciaires de l'incident, arrêtés à 1’500 fr. (mille cinq cents francs),
+sont mis à la charge de K.________ et K.________, solidairement entre elles.
+III.
+K.________ et K.________, solidairement entre
+elles, verseront à T.________ le montant de 2’000 fr. (deux mille francs) à titre de
+dépens.
+IV.
+Un délai au 10 janvier 2023 est fixé à K.________ et K.________ pour déposer une
+réponse.
+Le
+juge délégué :
+La greffière :
+J.-F.
+Meylan              M. Bron
+Du
+La décision qui précède est notifiée,
+par l'envoi de photocopies, aux conseils des parties.
+La greffière :
+M. Bron
