@@ -1,0 +1,341 @@
+---
+decision_id: "vd_findinfo_Plainte___2022___27"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2022 / 27"
+decided: "2022-11-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9075773"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-105.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-074.md", "switzerland/bund/acts/281.1/art-085a.md", "switzerland/bund/acts/281.1/art-149.md"]
+---
+
+# VD Findinfo Plainte / 2022 / 27
+
+## Regeste
+
+OFFICE DES POURSUITES, DROIT D'OBTENIR UNE DÉCISION, RÉQUISITION DE POURSUITE, COMMANDEMENT DE PAYER, COMPÉTENCE | 17 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2022 / 27
+
+OFFICE DES POURSUITES, DROIT D'OBTENIR UNE DÉCISION, RÉQUISITION DE POURSUITE, COMMANDEMENT DE PAYER, COMPÉTENCE | 17 LP
+
+TRIBUNAL
+CANTONAL
+FA22.007952-220462
+27
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+3 novembre 2022
+__________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Rouleau, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+17 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+N.________
+,
+à Lausanne, contre la décision rendue le 6 avril 2022, à la suite de l’audience
+du 24 mars 2022, par le Président du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, dans la cause opposant le recourant à l’
+OFFICE
+DES POURSUTE DU DISTRICT DE LAUSANNE
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Par avis de saisie du 28 mars 2018 dans la poursuite n° 5’679’994, N.________ a été
+avisé par l’Office des poursuites du district de Lausanne (ci-après : l’office)
+qu’à la réquisition de X.________, il serait procédé à sa saisie le 11
+avril 2018 pour un montant de 120'255 fr. 20, frais et intérêts compris. Le 11 avril 2018,
+un acte de défaut de biens après saisie a été établi dans cette poursuite, d’un
+montant de 101'707 fr. 05 (88'415 fr. 65 de créance, 35'988 fr. 45 d’intérêts, 426
+fr. 95 de frais et 23'124 fr. de produit de la poursuite). Le 17 mai 2019, un nouvel acte de défaut
+de biens a été délivré pour le même montant dans cette même poursuite.
+Le 16 septembre 2020, X.________ a déposé auprès de l’office une réquisition
+de poursuite basée sur l’acte de défaut de biens après saisie n° 5’679’994
+délivré le 11 avril 2018, avec intérêt à 5 % l’an dès le 11 avril
+2018 à l’encontre de N.________. Un commandement de payer n° 9’722’225 a
+été établi par l’office le lendemain et notifié au débiteur le 23 septembre
+2020, puis retourné au créancier le 12 octobre 2020, libre d’opposition. Il mentionnait
+que le débiteur était sommé de payer les sommes suivantes : une créance de 101'707
+fr. 05 plus intérêt à 5 % l’an dès le 11 avril 2018 ; sous rubrique « titre
+et date de la créance et cause de l’obligation » figurait ce qui suit : « Reprise
+de l’ADB no 5679994 de Fr. 101'707 fr. 05 du 17.05.2019. Diverses reconnaissances de dettes selon
+lettre récapitulative du
+8 décembre
+2010. Créance selon arrêt du 1
+er
+décembre 2017 rendu par la Cour d’appel Civil du Tribunal cantonal ». Le débiteur
+admet qu’il n’a pas formé opposition à ce commandement de payer.
+Le 15 octobre 2020, le créancier a adressé à l’office une réquisition de continuer
+la poursuite n° 9’722’225 en se fondant sur le commandement de payer précité ;
+cette réquisition portait les mêmes mentions que le commandement de payer. Une saisie a été
+exécutée le 9 octobre 2020 sur les biens du débiteur. Le
+16
+octobre 2020, l’office a adressé à celui-ci un avis de participation à la saisie
+pour une créance de 115’208 fr. 35, frais et intérêts jusqu’au 16 octobre
+2020 compris ; il mentionnait qu’un procès-verbal de saisie serait adressé à
+l’échéance du délai de participation. Un procès-verbal de saisie a été
+envoyé sous pli recommandé aux parties le 16 novembre 2020, une saisie sur les gains du débiteur
+ayant été pronon-cée antérieurement ; il indiquait qu’un montant de 3'300
+fr. serait saisi mensuelle-ment en mains du débiteur dès le 7 juin 2021.
+A la péremption de la saisie précitée, un acte de défaut de biens après saisie
+n° 9’722’225 a été délivré au créancier le 1
+er
+décembre 2021, pour un total de 94'935 fr. 75 (101'707 fr. 05 de créance, 18'446 fr. 40 d’intérêts,
+323 fr. 40 de frais et 25'541 fr. 10 de produit de la poursuite).
+2.
+Par courrier du 23 novembre 2020, l’office a répondu à une correspon-dance du débiteur
+du 16 octobre 2020, en exposant en substance que, comme aucune opposition n’avait été
+enregistrée dans le délai de dix jours dès la notification du commandement de payer n°
+9’722’225, le créancier avait déposé une requête de saisie dans le délai
+légal prévu, soit vingt jours au plus tôt dès la notification du commandement de
+payer, pour une créance de 101'707 fr. avec intérêts de 5 % depuis le 11 avril 2018, un
+avis de saisie lui avait été adressé le 16 octobre 2020, puis un procès-verbal de
+saisie avait été délivré le 16 novembre 2020.
+Par courrier du 3 janvier 2021, le débiteur a répondu au courrier de l’office en disant
+qu’il s’étonnait que, dans son calcul des intérêts, l’office prenne
+en compte la période ayant couru entre le premier acte de défaut de biens et le nouveau commandement
+de payer, alors qu’il est mentionné sur les actes de défaut de biens que « le créancier
+ne peut réclamer au débiteur des intérêts pour la créance consta-tée par
+un acte de défaut de biens » ; il demandait à recevoir une copie du comman-dement
+de payer que le « mécréant » lui avait fait notifier.
+Le 8 janvier 2021, l’office a répliqué à ce courrier en rappelant au débiteur
+que le créancier avait requis une nouvelle poursuite selon réquisition jointe et qu’un
+nouveau commandement de payer lui avait été notifié le 23 septembre 2020 ; il précisait
+que, s’il entendait contester les intérêts réclamés par le créancier,
+il lui appartenait de former opposition dans le cadre de la poursuite ; il en déduisait que
+l’office n’était pas compétent pour statuer sur le bien-fondé des prétentions
+du créancier poursuivant, quand bien même l’art. 149 al. 4 LP (loi fédérale
+du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1) prévoit qu’aucun
+intérêt ne peut être réclamé au débiteur pour une créance constatée
+par acte de défaut de biens ; il l’invitait à prendre contact avec son créancier
+afin d’obtenir une éventuelle modification de la créance réclamée dans la poursuite
+litigieuse.
+Par courrier du 1
+er
+février 2021, le débiteur a répondu à l’office en expo-sant qu’il lui
+appartenait d’appliquer d’office l’art. 149 al. 4 LP et qu’en l’espèce,
+les intérêts mis à sa charge à compter du 11 avril 2018 étaient illégaux.
+Il a pris les conclusions suivantes :
+«
+1.              L’avis de participation
+à la saisie du 16 octobre 2020 est annulé.
+2.              Un nouvel avis de participation
+à la saisie pour un montant non contesté de la dette de
+CHF
+101'707.05
+est délivré aux débiteur et créancier.
+3.              Subsidiairement l’avis
+de participation est formellement corrigé pour y indiquer
+le montant de la dette
+de CHF 101'707.05. ».
+Il
+demandait à l’office de se déterminer par retour de courrier, en indiquant que, à
+défaut, il n’hésiterait pas à saisir l’autorité de surveillance.
+Par courrier recommandé du 4 février 2021, l’office a répondu au débiteur qu’il
+ne lui était pas possible de donner une suite favorable à sa demande au motif que, en application
+de l’art. 74 LP, il appartenait au débiteur poursuivi de former opposition au commandement
+de payer qui lui est notifié ; il s’est référé pour le surplus à
+sa correspondance du 8 janvier 2021 et a rappelé que l’office établissait les commandements
+de payer sur la base des indications contenues sur la réquisition de poursuite rédigée
+par le créancier, conformément aux art. 67 et 69 LP, et que lorsqu’une mesure de l’office
+est contraire à la loi ou ne paraît pas justifiée en fait, il pouvait être porté
+plainte au sens de l’art. 17 LP auprès de l’autorité de surveillance.
+Le 1
+er
+décembre 2021, le décompte final de la série no 11 de la saisie exécutée le
+9 octobre 2020 a été adressée au débiteur. Un acte de défaut de biens après
+saisie portant le numéro 9’722’225 a été délivré pour un montant
+de 94'935 fr. 75.
+3.
+Le 19 janvier 2022, le débiteur a de nouveau écrit à l’office pour protester contre
+le contenu des avis de participation à la saisie du 16 octobre 2020 et le décompte du 1
+er
+décembre 2021, et lui a demandé de « produire le détail précis »
+du calcul des intérêts ayant couru depuis l’acte de défaut de biens.
+Le 26 janvier 2022, l’office a répondu en rappelant les faits et en se référant
+pour le surplus à sa correspondance du 8 janvier 2021, disant qu’il appartient au débiteur
+de former opposition au commandement de payer s’il entend contester les intérêts réclamés
+par son créancier.
+4.
+a)
+Par acte daté et posté le 22 février 2022, intitulé « Plainte –
+art. 17 al. 1 et 3 LP », le débiteur a saisi la Cour des poursuites et faillites du Tribunal
+cantonal d’une plainte LP. Il invoquait un déni de justice, faisant valoir que le calcul des
+intérêts n’était pas conforme à la loi et que l’office avait refusé
+d’y remédier en faisant un calcul des intérêts conforme à l’art. 149
+al. 4 LP. Il invoquait le fait que le calcul fait par l’office prenait en compte l’intérêt
+sur l’intérêt et, ainsi, contrevenait à l’interdiction de l’anatocisme.
+Il concluait (1) à l’annulation des anciens décomptes d’intérêts, à
+charge pour l’office de calculer les intérêts en application de la loi (art. 105 al.
+3 CO [Code des obligations du 30 mars 1911 ; RS 220] et 149 al. 4 LP), (2) à l’annulation
+de l’acte de défaut de biens du 21 décembre 2021 et (3) à l’établissement
+d’un nouveau décompte des intérêts « sur la base de la créance uniquement,
+sans prendre en compte les intérêts de retard ». Il a produit quinze pièces.
+Le 23 février 2022, le Président de la Cour de céans a transmis cet acte au Président
+du Tribunal d’arrondissement de Lausanne comme objet de sa compé-tence.
+Dans ses déterminations du 14 mars 2022, l’office a préavisé au rejet de la plainte,
+sous réserve de sa recevabilité ; il a en effet estimé que celle-ci était tardive,
+respectivement qu’il ne lui appartenait pas de statuer sur les prétentions du créancier
+mais qu’il appartenait au plaignant, le cas échéant, de former opposition au commandement
+de payer.
+Une audience s’est tenue le 24 mars 2022 en présence du plaignant et d’un représentant
+de l’office.
+Par décision du 6 avril 2022, réceptionnée par N.________ le 13 avril 2022, l’autorité
+inférieure de surveillance a déclaré la plainte du 22 février 2022 irrecevable (I),
+sans frais ni dépens (II). Elle a considéré que le plaignant n’avait pas subi de
+déni de justice dès lors que l’office avait répondu le 4 février 2021 à
+sa demande en refusant de prendre les mesures qu’il demandait ; le délai de plainte de
+dix jours courait dès lors dès la réception de la décision du 4 février 2021,
+laquelle mentionnait cette voie de droit. Elle en déduisait que, formée le 22 février
+2022, la plainte était tardive.
+b)
+Par acte daté et posté le 19 avril 2022, intitulé « Recours (…) Déni
+de justice art. 17 al. 3 LP », N.________ a recouru contre cette décision. Il invoque
+l’existence d’un déni de justice formel au sens de l’art. 17 al. 3 LP et prend
+les conclusions suivantes :
+«
+1.              La décision « d’irrecevabilité »
+de l’autorité inférieure est annulée.
+2.              Le refus de l’Office
+de procéder à une opération dûment requise ou qu’il devait exécuter d’office,
+à savoir l’établissement d’un décompte d’intérêts conformément
+aux art. 105 al. 3 CO et 149 al. 4 LP, constitue un déni de justice formel au sens de l’art.
+17 al. 3 LP et de la jurisprudence du Tribunal fédéral.
+3.              Les anciens décomptes
+d’intérêts sont annulés, à charge pour l’Office des Poursuites de calculer
+les intérêts en application de la loi (art. 105 al. 3 CO et 149 al. 4 LP).
+4.              L’acte de défaut
+de biens du 1
+er
+décembre 2021 est annulé, à charge pour l’Office des Poursuites d’un établir
+un nouveau.
+Un nouveau décompte
+des intérêts est établi, sur la base de la créance uniquement, sans prendre en compte
+un intérêt de retard. »
+En droit :
+I.
+a)
+Aux termes de l'art. 17 LP, sauf dans les cas où la loi prescrit la voie judiciaire, il peut être
+porté plainte à l'autorité de surveillance lorsqu'une mesure de l'office est contraire
+à la loi ou ne paraît pas justifiée en fait (al. 1). Il peut de même être porté
+plainte en tout temps pour déni de justice ou retard non justifié (al. 3).  Par mesure
+de l'office au sens des art. 17 LP, il faut entendre tout acte d'autorité accompli par l'office
+ou par un organe de la poursuite en exécution d'une mission officielle dans une affaire concrète.
+L'acte de poursuite doit être de nature à créer, modifier ou supprimer une situation du
+droit de l'exécution forcée dans l'affaire en question. En d'autres termes, il doit s'agir
+d'un acte matériel qui a pour but la continuation ou l'achèvement de la procédure d'exécution
+forcée et qui produit des effets externes (ATF 142 III 643 consid. 3.1 et les références).
+En vertu de l'art. 17 al. 3 LP, il peut être porté plainte à l'autorité de surveillance
+en tout temps pour déni de justice.  N'entre en considération que le déni de justice
+formel, au sens de l'art. 29 al. 2 Cst. (Constitution fédérale du 18 avril 1999 ; RS 101),
+soit le refus de l'office ou de l'autorité de surveillance de procéder à une opération
+dûment requise ou qu'ils devaient exécuter d'office. Le retard injustifié suppose, quant
+à lui, qu'un acte défini par la loi n'est pas accompli dans le délai légal ou dans
+le délai indiqué par les circonstances, sans qu'une faute ne soit nécessaire (TF 5A_25/2012
+du 4 juin 2012 consid. 4.3). Si l'autorité de surveillance constate la survenance de cette situation,
+elle ordonne d'accomplir la mesure requise et peut impartir un délai à ces fins (TF 5A_727/2017
+du 8 janvier 2018 consid. 4.2.1 destiné à la publication ; TF 5A_952/2017 du 16 février
+2018 consid. 3.2.2 ; 5A_727/2017 du 8 janvier 2018 consid. 4.2.1; 5A_25/2012 du 4 juin 2012 consid.
+4.3 et les références, publié i
+n
+Pra 2012 (132) p. 952 ; cf. entre autres : Jeandin, La plainte et le recours (art. 17-22 et 36 LP),
+in
+Sviluppi e orientamenti del diritto esecutivo federale, CFPG, 2012, p. 3 ss [16 s.]).
+b)
+En l’occurrence, le recourant ne s’attaque pas à la motivation de l’autorité
+inférieure qui considère que la plainte qu’il a déposée le 22 février
+2022 est tardive, au motif que, le 4 février 2021, l’office a formellement statué sur
+sa requête et qu’il n’a pas saisi l’autorité de surveillance d’une
+plainte au sens de l’art. 17 LP dans les dix jours qui ont suivi la réception de cette décision.
+Il soutient que c’est à tort que l’office a, dans son courrier du 4 février 2021,
+décliné sa compétence et renvoyé au juge de la mainlevée. Il soutient qu’il
+appartenait à l’office d’appliquer d’office l’art. 149 al. 4 LP et de constater
+que des intérêts ne pouvaient pas être décomptés pour la période du 17
+mai 2019 au
+16 septembre 2020 ; ce
+faisant, l’office aurait commis un déni de justice formel au sens de l’art. 17 al. 3
+LP pouvant être invoqué en tout temps ; dans ces conditions, le recours (recte :
+la plainte) ne pouvait pas être qualifié d’irrecevable.
+Cette motivation est manifestement dénuée de pertinence. Comme l’a rappelé l’office
+dans ses courriers des 23 novembre 2020, 8 janvier 2021, 4 février 2021, 22 février 2021 et
+19 janvier 2022, le décompte des intérêts contesté par le recourant résulte
+uniquement de la mention – sur la réquisition de poursuite et donc sur le commandement de
+payer – d’un intérêt moratoire à 5 % l’an dès le 11 avril 2018,
+et non d’un calcul subséquent.
+Dans la mesure où le recourant n’a pas formé opposition (ni du reste une plainte LP)
+contre ce commandement de payer, le créancier pouvait requérir la continuation de la poursuite
+pour le montant, en capital et intérêts qui y figurait, et l’office ne pouvait que donner
+suite à cette réquisition de poursuite. Le fait que le créancier ne disposait peut-être
+pas d’un titre à la mainlevée définitive qui couvrait la prétention en intérêts
+ne pouvait pas être sanctionné par l’office, ni d’office ni sur demande du débiteur.
+C’est donc à raison que, dans ses cinq courriers successifs, l’office a refusé
+de donner suite aux diverses demandes du recourant de corriger « les anciens décomptes
+d’intérêts » et d’annuler divers actes (acte de défaut de biens,
+procès-verbal de saisie, etc.). Contrairement à ce que soutient le recourant, il n’y
+aucun déni de justice au sens de l’art. 17 al. 3 LP, l’office ayant répondu à
+tous ses courriers et, surtout, n’ayant pas l’obligation, mais au contraire l’interdiction,
+de porter sur le commandement de payer d’autres montants que ceux indiqués dans la réquisi-tion
+de poursuite (art. 69 al. 1 et 2 ch. 1 LP). Autrement dit, il n’incombait pas à l’office
+de modifier ou d’annuler - d’office ou sur demande - un quelconque acte.
+On peut préciser qu’il est loisible au recourant d’ouvrir action devant le juge civil
+pour faire constater que la dette (en intérêts) n’existe pas (art. 85a LP).
+II.
+Au vu de ce qui précède, le recours doit être rejeté et la décision attaquée
+confirmée.
+Le recourant est juriste. Ce qu’il soutient est à la limite de la témérité.
+La présente décision sera néanmoins rendue
+sans
+frais judiciaires ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a et 62 al. 2 OELP [ordonnance
+du 23 septembre 1996 sur les émoluments perçus en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. N.________,
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
