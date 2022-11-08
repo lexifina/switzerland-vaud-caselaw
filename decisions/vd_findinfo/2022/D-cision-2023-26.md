@@ -1,0 +1,383 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___26"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 26"
+decided: "2022-11-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9187610"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-312.md", "switzerland/bund/acts/312.0/art-002.md", "switzerland/bund/acts/312.0/art-008.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-075.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-383.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-427.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2023 / 26
+
+## Regeste
+
+ORDONNANCE DE NON-ENTRÉE EN MATIÈRE, MOTIVATION DE LA DEMANDE | 310 CPP (CH), 385 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 08.11.2022 Décision / 2023 / 26
+
+ORDONNANCE DE NON-ENTRÉE EN MATIÈRE, MOTIVATION DE LA DEMANDE | 310 CPP (CH), 385 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+833
+PE21.015273-ECO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+8 novembre 2022
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Meylan et Perrot, juges
+Greffière
+:              Mme
+Jordan
+*****
+Art.
+310, 385 CPP
+Statuant sur le recours interjeté le 8 avril 2022 par
+N.________
+contre l’ordonnance de non-entrée en matière rendue le 31 mars 2022 par le Procureur
+général du canton de Vaud dans la cause
+n° PE21.015273-ECO
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par
+ordonnance du 28 avril 2020, le Procureur général du canton de Vaud a refusé d'entrer
+en matière sur la plainte pénale déposée par N.________ le 9 mars 2020 contre la
+Cheffe du Département de [...] du canton de Vaud (ci-après : [...]) pour « atteinte
+à l'honneur et refus du droit d'être entendu ».
+Par arrêt du 29 juin 2020 (n° 466), la Chambre des recours pénale a rejeté, dans
+la mesure de leur recevabilité, le recours de N.________ contre cette ordonnance et la demande de
+récusation du Procureur général dont il était assorti.
+Le 11 mars 2021, le Tribunal fédéral a rejeté dans la mesure de sa recevabilité le
+recours en matière pénale déposé par N.________ contre cet arrêt (TF 6B_1369/2020).
+S'agissant de la demande de récusation, il a confirmé que celle-ci était tardive, donc
+irrecevable, et a retenu qu'en tout état, les motifs de récusation n'étaient pas réalisés.
+Par arrêt du 1
+er
+octobre 2021, le Tribunal fédéral a rejeté dans la mesure de sa recevabilité la demande
+de révision de cet arrêt (TF 6F_7/2021).
+b)
+A
+la suite d’une demande de fixation de for adressée par le canton de Neuchâtel, le Ministère
+public de l’arrondissement de l’Est vaudois a repris, le 30 mars 2021, l’enquête
+ouverte dans ce canton à la suite du dépôt d’une plainte d’[...] contre N.________
+pour diffamation. La Procureure T.________, en charge de l’affaire, a cité ce dernier à
+comparaître à l’audience du 8 juin 2021. Dans les semaines qui ont suivi cette audition,
+divers échanges de correspondance ont eu lieu entre le prévenu et cette magistrate (P. 18).
+c)
+Par acte du 30 juin 2021, N.________ a adressé au Procureur général une demande de nomination
+d’un procureur extraordinaire accompagnée d’une enveloppe cachetée que le Procureur
+général avait l’interdiction d’ouvrir (P. 6/1) et qui contenait une plainte
+à l’encontre de la Procureure T.________ pour « violation du CPP, de la Cst. Féd.,
+de la CEDH, escroquerie, diffamation, faux témoignage, abus de pouvoir » (P. 14).
+Dans sa plainte, N.________ indique avoir constaté certaines irrégularités lors de l’audition
+menée par la procureure en question le 8 juin 2021, puis les avoir signalées à celle-ci
+par oral et par courriers recommandés, sans obtenir de réponse. Il reproche ensuite à
+cette magistrate de ne lui avoir transmis aucun document en même temps que sa convocation, de ne
+pas lui avoir « nommément présenté » une stagiaire présente lors
+de l’audition du 8 juin 2021 et de ne pas lui avoir demandé s’il comprenait le français
+avant de débuter celle-ci. La procureure se serait en outre montrée agressive et lui aurait
+coupé la parole, ce qui correspondrait à « un viol de la CEDH art. 6.3b ».
+Elle aurait également fait un « amalgame » entre les termes « menteur »
+et « connard », alors qu’elle ne devait pas « dériver sémantiquement,
+interpréter à sa guise et déformer les paroles du prévenu ». Le plaignant
+reproche encore à la procureure de lui avoir annoncé qu’un
+signalement
+au [...] pouvait être fait, de ne pas avoir exigé la présence de la partie adverse lors
+de son audition le 8 juin 2021, violant ainsi « le CPP art. 3c, 69.1, 104.1b, 117, 388.1 et
+la CEDH art. 6.1 », et de ne pas lui avoir transmis le procès-verbal de cette audition.
+d)
+Par
+lettre du 1
+er
+juillet 2021, N.________ a réitéré sa demande de nomination d’un procureur extraordinaire
+(P. 6/1).
+Le 5 juillet 2021, le Procureur général a transmis à la Présidente du Grand Conseil
+les deux courriers de N.________ ainsi que l’enveloppe cachetée, comme objet de sa compétence
+(P. 6/1).
+Par courrier du 19 août 2021, la Présidente du Grand Conseil a expliqué à N.________
+considérer sa demande de nomination d’un procureur extraordinaire comme une demande de récusation
+du Procureur général pour laquelle le Bureau du Grand Conseil n’avait pas de compétence
+(P. 4/1). Cette autorité a dès lors transmis l’affaire à la Chambre des recours
+pénale du Tribunal cantonal le 31 août 2021.
+Par arrêt du
+16 septembre 2021 (n° 847), la Chambre des recours pénale a rejeté la demande de récusation
+formée par N.________ à l’encontre du Procureur général dans la mesure où
+elle était recevable.
+Par arrêt du 4 janvier 2022, le Tribunal fédéral a rejeté le recours formé contre
+cette décision par N.________ dans la mesure où il était recevable (TF 1B_616/2021).
+Par arrêt du 4 mars 2022, le Tribunal fédéral a rejeté la demande de révision
+de cet arrêt dans la mesure de sa recevabilité (TF 1F_7/2022).
+e)
+Rien
+ne s’opposant plus à l’examen par le Procureur général de la plainte de N.________
+envoyée le 30 juin 2021 sous enveloppe cachetée, le Tribunal cantonal a fait parvenir au Ministère
+public central le dossier complet de la cause, le Bureau du Grand Conseil lui transmettant pour sa part
+la plainte se trouvant dans l’enveloppe cachetée, ouverte par ses soins.
+B.
+Par ordonnance du 31 mars 2022, le Procureur général
+du canton de Vaud a refusé d’entrer en matière sur la plainte de N.________ et a mis
+les frais de justice, par 450 fr., à la charge de celui-ci.
+Examinant les reproches formulés par N.________ sous l’angle de l’infraction d’abus
+d’autorité réprimée par l’art. 312 CP (Code pénal suisse du 21 décembre
+1937 ; RS 311.0), le Procureur général a constaté qu’ils avaient trait à
+la façon dont la Procureure T.________ conduisait la procédure, aux actes d’instruction
+qu’elle avait menés, voire à la police de l’audience. Ils ne relevaient par conséquent
+pas de la compétence du Procureur général, qui ne c
+ontrôlait
+pas les actes de procédure exécutés par les magistrats du Ministère public. Cela
+étant, il n’apparaissait pas qu’un abus d’autorité au sens de l’art.
+312 CP pût être reproché à cette magistrate. Premièrement, le nom de la stagiaire
+présente lors de l’audition du plaignant figurait sur le procès-verbal que l’intéressé
+avait signé et qui était en tout temps consultable. Deuxièmement, les droits d’un
+prévenu, dont celui de demander un interprète, avaient été signifiés à
+N.________ au début de son audition. Celui-ci avait en outre signé le formulaire qui les mentionnait.
+N.________, qui se plaignait du fait que la procureure ne lui ait pas demandé s’il comprenait
+le français, faisait d’ailleurs preuve d’une mauvaise foi évidente puisqu’il
+recourait au passé simple dans ses courriers rédigés en français. Troisièmement,
+le Procureur général a expliqué qu’un signalement pouvait être fait à
+l’autorité de surveillance de la profession du plaignant en application des art. 75 al. 4
+CPP (Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0) et 19 al. 1 LVCPP (Loi vaudoise
+d'introduction du Code de procédure pénale suisse du 19 mai 2009 ; BLV 312.01). N.________
+avait en outre la possibilité de s’y opposer, ce qu’il n’avait pas manqué
+de faire. Enfin, le Procureur général a indiqué que se faire couper la parole ne fondait
+pas le dépôt d’une plainte pénale.
+En définitive, le Procureur général a considéré que tous les droits de procédure
+de N.________ avaient été respectés. Les reproches d’escroquerie, diffamation et
+faux témoignage, qui étaient indiqués dans l’en-tête de sa plainte, n’étaient
+pour leur part pas étayés dans la suite de son écrit et aucun indice de commission d’une
+infraction ne pouvait y être décelé. On ne voyait pas en quoi la procureure aurait mésusé
+des pouvoirs de sa charge, ni quel intérêt elle aurait eu à le faire. La plainte pénale
+déposée par N.________, assortie d’une demande de nomination d’un procureur extraordinaire,
+procédait d’une arrogance certaine et constituait selon toute vraisemblance un procédé
+dilatoire visant à retarder par tous les moyens une probable condamnation. Elle était manifestement
+abusive et téméraire. Le plaignant encombrait de sa plainte infondée et de sa litanie
+d’écrits l’autorité de poursuite pénale et les différentes autorités
+ayant dû statuer sur ses exigences sans fondement. Il semblait agir par pure chicanerie, lorsque
+la manière de conduire la procédure ne lui convenait pas, de sorte qu’il devait être
+astreint au paiement des frais de justice en application de l’art. 427 al. 2 CPP.
+C.
+Par acte du 8 avril 2022, N.________ a recouru
+contre cette décision auprès de la Chambre des recours pénale, en concluant, en substance,
+à son annulation, à ce que sa plainte contre la Procureure T.________ soit instruite, à
+l’ouverture d’une « instruction sur la partialité » du Procureur
+général, à la « remise en action » de sa plainte du 9 mars 2021 (recte :
+2020) contre la Cheffe du [...], à ce qu’il soit procédé à son audition ainsi
+qu’à celle de témoins et à ce que la stagiaire concernée par sa plainte soit
+identifiée afin qu’il puisse l’interroger devant un juge.
+Par avis du 14 avril 2022, un délai au 4 mai suivant a été imparti au recourant pour effectuer
+un dépôt de 550 fr. à titre de sûretés (art. 383 al. 1 CPP).
+Le recourant a procédé en temps utile au paiement requis.
+Par courrier daté du 28 avril 2022, déposé le lendemain, le recourant a produit une copie
+d’un courrier que lui avait adressé le 26 avril 2022 le Secrétaire général
+du Département [...], indiquant qu’une réponse serait apportée dans les meilleurs
+délais à son courrier du 5 avril 2022 tendant à la nomination d’un procureur extraordinaire.
+Il n’a pas été ordonné d’échange d’écritures à la suite
+du recours.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le Ministère public en application de l’art. 310
+CPP dans les dix jours devant l’autorité de recours (art. 310 al. 2, 322 al. 2 et 396 al.
+1 CPP ; cf. art. 20 al. 1 let. b CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale
+du Tribunal cantonal (art. 13 LVCPP [Loi vaudoise d’introduction du Code de procédure pénale
+suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [Loi vaudoise d’organisation judiciaire du 12
+décembre 1979 ; BLV 173.01]).
+1.2
+Le recours s’exerce par le dépôt d’un mémoire écrit et dûment motivé
+(art. 390 al. 1 et 396 al. 1 CPP). Les exigences de motivation du recours sont posées à l’art.
+385 al. 1 CPP. Selon cette disposition, la personne ou l’autorité qui recourt doit indiquer
+précisément les points de la décision qu’elle attaque (let. a), les motifs qui commandent
+une autre décision (let. b) et les moyens de preuve qu’elle invoque (let. c). La jurisprudence
+et la doctrine en ont déduit que, sous peine d’irrecevabilité, cela suppose que le recourant
+expose précisément, en se référant aux considérants de la décision attaquée,
+quels motifs commandent – sous l’angle du fait et du droit – de prendre une autre décision
+; le recourant ne saurait se contenter d’une contestation générale, notamment se référer
+aux arguments qu’il a invoqués devant l’instance précédente, ni simplement
+reprendre ceux-ci ; il ne saurait non plus se contenter de renvoyer à une écriture ou aux pièces
+qu’il a déposées devant l’instance précédente (TF 6B_510/2020 du 15 septembre
+2020 consid. 2.2 ; TF 1B_472/2019 du 29 octobre 2019 consid. 3.1 ; TF 6B_120/2016 du 20 juin 2016
+consid. 3.1 ; Keller, in Donatsch/Lieber/Summers/Wohlers (éd.), Zürcher Kommentar, Kommentar
+zur Schweizerischen Strafprozessordnung, 3
+e
+éd. 2020, n. 14 ad art. 396 StPO et les réf. cit. ; Guidon, in Niggli/Heer/Wiprächtiger
+(éd.), Basler Kommentar, Schweizerische Strafprozessordnung, 2
+e
+éd. 2014, n. 9c ad art. 396 StPO et les réf. cit. ; Calame, in : Kuhn/Jeanneret/Perrier Depeursinge
+[éd.], Commentaire romand, Code de procédure pénale suisse, 2
+e
+éd. 2019, n. 20 ad art. 385 CPP).
+L’art. 385 al. 2 CPP prévoit que si le mémoire ne satisfait pas aux exigences mentionnées
+à l’al. 1, l’autorité de recours le renvoie au recourant pour qu’il le complète
+dans un bref délai. Cette disposition vise uniquement à protéger le justiciable contre
+un formalisme excessif de la part de l’autorité. Elle ne permet en revanche pas de suppléer
+un défaut de motivation. Il est en effet communément admis en procédure que la motivation
+d’un acte de recours doit être entièrement contenue dans l’acte de recours lui-même.
+Elle ne saurait dès lors être complétée ou corrigée ultérieurement, l’art.
+385 al. 2 CPP ne devant pas être appliqué afin de détourner la portée de l’art.
+89 al. 1 CPP, qui interdit la prolongation des délais fixés par la loi et n’autorise
+pas la partie à compléter un acte dépourvu de motivation (TF 6B_510/2020 du 15 septembre
+2020 consid. 2.2 ; TF 6B_705/2019 du 5 septembre 2019 consid. 3.2.2 ; TF 6B_510/2018 du 31 juillet
+2018 consid. 1 et les réf. cit. ; cf. aussi CREP 11 septembre 2020/694 consid. 4.3.1).
+1.3
+En substance, dans son recours, N.________ soutient que la plainte qu’il a déposée le
+9 mars 2020 contre la Cheffe du [...] et sa requête tendant à la nomination d’un procureur
+extraordinaire pour instruire sa plainte du 30 juin 2021 seraient justifiées. Il en déduit
+que l’ordonnance de non-entrée en matière rendue le 31 mars 2022 serait « de
+facto et indubitablement […] nulle et non avenue ». Il se contente ensuite de réitérer
+les griefs qu’il a formulés dans sa plainte du 30 juin 2021 à l’encontre de la
+Procureure T.________ (irrégularités lors de l’audition du 8 juin 2021, présence
+d’une stagiaire dont l’identité ne lui aurait pas été communiquée, absence
+de questions quant à sa compréhension du français, amalgame et agressivité de la
+procureure, signalement au [...]), puis soutient que le Procureur général le haïrait et
+qu’il aurait «
+un
+bilieux caractère de roitelet offusqué
+».
+Le recourant reproche également au Procureur général de s’être déclaré
+incompétent pour contrôler les actes de procédure exécutés par les magistrats
+du Ministère public, de ne pas avoir motivé juridiquement en quoi sa plainte à l’encontre
+de la Procureure T.________ était mal fondée, d’avoir considéré qu’un
+signalement au [...] était possible et que le fait de couper la parole à un prévenu n’était
+pas constitutif d’une violation de ses droits procéduraux.
+Ce faisant, le recourant se contente de contester l’appréciation du Procureur général
+et de répéter les griefs qu’il a formulés dans les deux plaintes qu’il a déposées,
+sans développer, ni
+a
+fortiori
+démontrer, en quoi le raisonnement
+du Procureur général serait mal fondé. Une telle motivation est insuffisante au regard
+des exigences de l’art. 385 al. 1 CPP. Le recours est dès lors irrecevable. Cette question
+pourrait toutefois rester indécise, dès lors qu’à supposer recevable, le recours
+devrait de toute manière être rejeté sur le fond pour les motifs qui suivent.
+2.
+Conformément à l’art. 310 al. 1 CPP, le Ministère public rend immédiatement
+une ordonnance de non-entrée en matière s’il ressort de la dénonciation ou du rapport
+de police que les éléments constitutifs de l’infraction ou les conditions à l’ouverture
+de l’action pénale ne sont manifestement pas réunis (let. a), qu’il existe
+des empêchements de procéder (let. b) ou que les conditions mentionnées à l’art.
+8 CPP imposent de renoncer à l’ouverture d’une poursuite pénale (let. c).
+Selon l’art. 310 al. 1 let. a CPP, il importe que les éléments constitutifs de l'infraction
+ne soient manifestement pas réunis. Cette disposition doit être appliquée conformément
+à l'adage
+in dubio pro
+duriore
+, qui découle du principe de la légalité
+(art. 5 al. 1 Cst. [Constitution fédérale de la Confédération suisse du 18 avril
+1999 ; RS 101] et art. 2 al. 2 CPP ; ATF 138 IV 86 consid. 4.2 ; TF 6B_77/2021 du 6 mai 2021 consid.
+2.2) et signifie qu'en principe un classement ou une non-entrée en matière ne peuvent être
+prononcés par le Ministère public que lorsqu'il apparaît clairement que les faits ne sont
+pas punissables ou que les conditions à la poursuite pénale ne sont pas remplies (ATF 146 IV
+68 consid. 2.1 ; TF 6B_375/2020 du 9 juillet 2020 consid. 3.2). En d'autres termes, il faut être
+certain que l'état de fait ne constitue aucune infraction. Une ordonnance de non-entrée en
+matière ne peut être rendue que dans les cas clairs du point de vue des faits, mais également
+du droit ; s'il est nécessaire de clarifier l'état de fait ou de procéder à une appréciation
+juridique approfondie, le prononcé d'une ordonnance de non-entrée en matière n'entre pas
+en ligne de compte. En règle générale, dans le doute, il convient d'ouvrir une enquête
+pénale (ATF 143 IV 241 consid. 2.2.1 ; ATF 138 IV 86 précité consid. 4.1.2 ; ATF 137 IV
+285 consid. 2.3 et les références citées, JdT 2012 IV 160). En revanche, le Ministère
+public doit pouvoir rendre une ordonnance de non-entrée en matière dans les cas où il
+apparaît d’emblée qu’aucun acte d’enquête ne pourra apporter la preuve
+d’une infraction à la charge d’une personne déterminée (TF 6B_541/2017 du
+20 décembre 2017 consid. 2.2).
+3.
+Le recourant persiste à remettre en cause l’impartialité du Procureur général
+et lui reproche de ne pas avoir respecté la procédure de nomination d’un procureur extraordinaire.
+Ce faisant, le recourant ignore totalement la véritable chronologie des événements. En
+effet, par courrier du 5 juillet 2021 (P. 6/1), le Procureur général a donné suite à
+la demande dirigée contre lui en saisissant le Bureau du Grand Conseil. Par courrier du 19 août
+2021, la Présidente du Grand Conseil a exposé au recourant que sa demande consistait en réalité
+en une demande de récusation du Procureur général, puis a transmis celle-ci au Tribunal
+cantonal comme objet de sa compétence. Par arrêt du 16 septembre 2021 (n° 847), confirmé
+par le Tribunal fédéral le 4 janvier 2022 (TF 1B_616/2021), la Chambre de céans a rejeté
+cette demande de récusation, de sorte que le Grand Conseil n’avait pas à nommer un procureur
+extraordinaire pour remplacer le Procureur général (cf. art. 6 al. 1 LMPu [Loi sur le Ministère
+public du 19 mai 2009 ; BLV 173.21]
+a
+contrario
+). Ainsi, le Procureur général
+a été expressément autorisé à traiter la plainte déposée le 30 juin
+2021 par N.________ à l’encontre de la Procureure T.________ et le recourant ne saurait reprocher
+quoi que ce soit à ce magistrat sur ce point.
+Le recourant reproche également au Procureur général de ne pas être intervenu à
+la suite des « entorses au CPP » qui auraient été commises par la Procureure
+T.________. Ce faisant, il se méprend sur les voies de droit à emprunter. Comme le Procureur
+général l’a relevé à juste titre, les actes d’instruction de cette procureure
+n’ont pas à être analysés dans le cadre de la présente procédure car le
+recourant disposait de moyens de droit propres conférés par le CPP dans l’hypothèse
+où il aurait été réellement confronté à un dysfonctionnement dans le traitement
+de sa plainte. En tant que le recours porte sur les griefs d’ordre procédural qu’il
+adresse à cette magistrate, il est irrecevable.
+Pour autant qu’on le comprenne, le recourant reproche en outre au Procureur général de
+ne pas avoir constaté que la Cheffe du [...] avait tenu des propos diffamatoires à son endroit.
+Là encore, le recourant se trompe de procédure car le Procureur général devait uniquement
+se prononcer sur la plainte qu’il avait déposée contre la Procureure T.________. La plainte
+du recourant contre la Cheffe du [...] a fait au demeurant l’objet d’une ordonnance de non-entrée
+en matière qui a été rendue le 28 avril 2020, puis confirmée le 11 mars 2021 par
+le Tribunal fédéral, de sorte que les moyens soulevés sont irrecevables.
+Pour le surplus, comme déjà indiqué, le recourant répète les griefs formulés
+dans sa plainte sans exposer de manière concrète en quoi le Procureur général aurait
+écarté un indice d’une infraction pénale qui aurait pu être commise par la
+Procureure T.________. Il persiste à se plaindre du déroulement de l’instruction et de
+la manière dont cette magistrate se serait comportée à son égard, sans établir
+précisément un manquement susceptible de constituer une telle infraction.
+4.
+En définitive, le recours, manifestement mal fondé, doit être rejeté dans la faible
+mesure où il est recevable, sans échange d’écritures (art. 390 al. 2 CPP),
+et l’ordonnance entreprise confirmée.
+Vu le sort du recours, les frais de la procédure, constitués en l’espèce du seul
+émolument d’arrêt, par 1’100 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront mis à
+la charge du recourant, qui succombe (art. 428 al. 1CPP). Le montant de 550 fr. déjà versé
+par celui-ci à titre de sûretés sera imputé sur ces frais (art. 383 al. 1 CPP ; art.
+7 TFIP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+L’ordonnance du 31 mars 2022 est confirmée.
+III.
+Les frais d’arrêt, par 1’100
+fr. (mille cent francs), sont mis à la charge de N.________.
+IV.
+Le montant de 550 fr. (cinq cent cinquante francs) déjà versé par le recourant à
+titre de sûretés est imputé sur les frais mis à sa charge au chiffre III ci-dessus.
+V.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. le Procureur général du canton de Vaud,
+-
+M. N.________.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (Loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
