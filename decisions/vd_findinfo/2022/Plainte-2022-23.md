@@ -1,0 +1,156 @@
+---
+decision_id: "vd_findinfo_Plainte___2022___23"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2022 / 23"
+decided: "2022-11-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9108198"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-093.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-050.md", "switzerland/bund/acts/272/art-132.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-018.md"]
+---
+
+# VD Findinfo Plainte / 2022 / 23
+
+## Regeste
+
+ACTE DE RECOURS, MOTIVATION DE LA DEMANDE, CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ | 18 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2022 / 23
+
+ACTE DE RECOURS, MOTIVATION DE LA DEMANDE, CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ | 18 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FA22.020808-220833
+20
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+29 novembre 2022
+______________________
+Composition
+:              M.
+Hack
+,
+président
+Mmes
+Byrde et  Cherpillod, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+18 al. 1 LP
+Vu le commandement de payer les sommes de 408 fr. avec intérêt à 5 % l’an dès
+le 19 mai 2022, 133 fr. 30 sans intérêt et 34 fr. 45, dans la poursuite n° 10'425'301
+de l’Office des poursuites du Gros-de-Vaud, notifié à X.________ le 30 mai 2022 à
+la réquisition de l’Etat du [...] et frappé d’opposition totale,
+vu le commandement de payer les sommes de 1'000 fr. avec intérêt à 5 % l’an
+dès le 19 mai 2022, 60 fr. sans intérêt et 7 fr. 65 sans intérêt, dans la poursuites
+n° 10'425'303 de l’Office des poursuites du district du Gros-de-Vaud, notifié le 30 mai
+2020 également à X.________ à la réquisition de l’Etat du [...], et frappé
+d’opposition totale,
+vu l’écriture de 475 pages, dont 69 de motivation et le solde d’annexes adressée
+le 7 juin 2022 par X.________ à la cour de céans, concluant notamment en page 49 à l’annulation
+des poursuites n° 10'425'301, et n° 10'425'303 susmentionnées,
+vu le courrier du président de la cour de céans du 20 juin 2022, transmettant à la présidente
+du Tribunal d’arrondissement de la Broye et du Nord vaudois l’écriture de X.________
+du 7 juin 2022 comme objet de sa compétence,
+vu le courrier recommandé adressé le 21 juin 2022 par la Présidente du Tribunal d’arrondissement
+de la Broye et du Nord vaudois à X.________, qui l’a reçu le 29 juin 2022, l’avisant
+que l’acte du 7 juin 2022 susmentionné était prolixe et en outre, difficilement intelligible,
+voire incompréhensible, seule la conclusion 1 semblant relever de sa compétence, lui fixant
+un délai échéant le 11 juillet 2022 pour refaire son acte, faute de quoi, celui-ci serait
+déclaré irrecevable,
+vu l’écriture datée du 29 juin 2022 et remise à la poste le lendemain à l’attention
+du Tribunal d’arrondissement de la Broye et du Nord vaudois, par laquelle X.________ a déposé
+des déterminations en réponse au courrier de la présidente du 21 juin 2022 précité
+faisant valoir que toutes les poursuites ouvertes contre lui étaient abusives, invoquant une violation
+de son droit d’être entendu, requérant la récusation de la présidente et produisant
+diverses écritures,
+vu l’écriture datée du 30 juin 2022 et remise à la poste le lendemain à l’attention
+de la cours de céans, par X.________, lui demandant de veiller au traitement de la requête
+de récusation figurant dans le courrier du 29 juin 2022 susmentionné,
+vu les autres pièces du dossier ;
+attendu que l’art. 18 al. 1 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes
+et la faillite ; RS 281.1) ouvre la voie du recours contre les décisions de l’autorité
+inférieure de surveillance,
+que le recours doit être motivé (art. 28 al. 3 LVLP [loi du 18 mai 1955 d’application
+dans le canton de Vaud de la LP ; BLV 280.05]), soit indiquer brièvement les moyens invoqués,
+faute de quoi il est irrecevable (TF 5A_118/2018 du 7 février 2018 consid. 4.2),
+que la jurisprudence du Tribunal fédéral en matière de recours selon les art. 319 ss CPC
+(Code de procédure civile du 19 décembre 2008 ; RS 272) – applicable par analogie,
+du fait que l’art. 28 al. 3 LVLP n’a pas de portée propre (TF 5A_118/2018 du 7 février
+2018 consid. 4.2 précité) – exige que le recourant démontre le caractère erroné
+de la motivation de la décision attaquée et que son argumentation soit suffisamment explicite
+pour que l’instance de recours puisse la comprendre, ce qui suppose une désignation précise
+des passages de la décision qu’il attaque et des pièces du dossier sur lesquelles il
+fonde sa critique (art. 321 al. 1 CPC ; ATF 147 III 176 consid. 4.2.1 ; TF 5A_488/2015 du 21 août
+2015 consid. 3.2.1, Revue suisse de procédure civile [RSPC] 2015, p. 512),
+que la motivation du recours doit donc être topique, soit se rapporter aux questions factuelles
+et juridiques tranchées par la décision attaquée (TF 5A_118/ 2018 précité, cf.
+aussi CPF 31 août 2021/30 ; CPF 4 novembre 2020/37),
+attendu qu’en l’espèce, l’acte déposé le 30 juin 2022 devant la Cour
+de céans se rapporte à la décision du 21 juin 2022 de la Présidente du Tribunal d’arrondissement
+de la Broye et du Nord vaudois, impartissant à l’intéressé un délai pour refaire
+sa plainte du 7 juin 2022, sous peine d’irrecevabilité,
+qu’il n’est pas certain qu’un recours soit ouvert contre une telle fixation de délai
+(TF 4A_362/2016 du 17 janvier 2017 consid. 1.3, rendu sous l’angle de l’art. 93 al. 1 let.
+a LTF [loi du 17 juin 2003 sur le Tribunal fédéral ; RS 173.110] ; CREC 24 juillet
+2014/250, ad art. 132 CPC),
+que cette question peut demeurer ouverte en l’espèce,
+qu’en effet l’écriture du 30 juin 2022 ne se rapporte clairement à aucune motivation
+de décision précise de l’autorité inférieure de surveillance et ne contient
+au surplus aucun grief directement intelligible,
+qu’en tant qu’elle constituerait un recours dirigé contre l’avis du 21 juin 2022,
+elle est donc irrecevable, faute de remplir les exigences de motivation posées par la jurisprudence
+précitée,
+que dans cette écriture, l’intéressé demande à la Cour de veiller au traitement
+de la requête de récusation figurant dans le courrier du 29 juin 2022 susmentionné,
+que tel semble être l’objet principal de cette écriture,
+que l’art. 22 LVLP renvoie s’agissant de récusions aux disposition du CPC et du CDPJ
+(Code de droit privé judiciaire vaudois du 12 janvier 2010 ; BLV 211.01),
+que selon l’art. 49 al. 2 CPC, le magistrat ou le fonctionnaire judiciaire concerné se prononce
+sur la demande de récusation, le tribunal statuant si le motif invoqué est contesté (art.
+50 al. 1 CPC),
+que l’intéressé a d’ailleurs adressé sa demande de récusation du 29 juin
+2022 au Tribunal d’arrondissement,
+que la Cour de céans ne dispose d’aucune compétence pour surveiller le déroulement
+de la procédure de récusation devant l’autorité compétente,
+que de ce point de vue également, l’écriture du 30 juin 2022 est irrecevable ;
+attendu que le présent arrêt est rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+L’écriture de X.________ du 30 juin 2022 est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. X.________,
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de la Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+Le greffier :
