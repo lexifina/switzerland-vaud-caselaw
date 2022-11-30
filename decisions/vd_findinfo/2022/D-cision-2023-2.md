@@ -1,0 +1,538 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 2"
+decided: "2022-11-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9213519"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-292.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-130.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-136.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-389.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md"]
+---
+
+# VD Findinfo Décision / 2023 / 2
+
+## Regeste
+
+ASSISTANCE JUDICIAIRE, DÉFENSE OBLIGATOIRE, DÉFENSE D'OFFICE, REJET DE LA DEMANDE, VOIES DE FAIT, INJURE | 130 let. c CPP (CH), 132 CPP (CH), 136 CPP (CH), 385 al. 1 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 30.11.2022 Décision / 2023 / 2
+
+ASSISTANCE JUDICIAIRE, DÉFENSE OBLIGATOIRE, DÉFENSE D'OFFICE, REJET DE LA DEMANDE, VOIES DE FAIT, INJURE | 130 let. c CPP (CH), 132 CPP (CH), 136 CPP (CH), 385 al. 1 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+919
+PE22.016578-JRU
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+30 novembre 2022
+______________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mme
+Fonjallaz et M. Kaltenrieder, juges
+Greffière
+:              Mme
+Villars
+*****
+Art.
+130 let. c, 132 et 136 CPP
+Statuant sur le recours interjeté le 21 novembre 2022 par
+K.________
+contre l’ordonnance de refus de désignation d’un défenseur d’office et de
+refus d’octroi de l’assistance judiciaire gratuite rendue le 10 novembre 2022 par le Ministère
+public de l’arrondissement de La Côte dans la cause
+n° PE22.016578-JRU
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+K.________, né le [...] 1994, est le beau-fils
+de Q.________, né le [...] 1959.
+Apprenti mécanicien, K.________ est au bénéfice
+d’une mesure de protection de l’adulte depuis sa majorité (P. 12/1). Le 15 janvier 2021,
+la Justice de paix du district de Nyon a désigné X.________, du Service des curatelles et tutelles
+professionnelles (ci-après : SCTP), en qualité de curateur de représentation et de
+gestion en remplacement de sa précédente curatrice, avec pour mission de le représenter
+dans les rapports avec les tiers, en particulier en matière de logement, santé, affaires sociales,
+administratives et affaires juridiques, et sauvegarder au mieux ses intérêts, de veiller à
+la gestion de ses revenus et de sa fortune, adminis­trer les biens avec diligence et accomplir les
+actes juridiques liés à la gestion, et le représenter, si nécessaire, pour ses besoins
+ordinaires (P. 10/2).
+L’extrait du casier judiciaire suisse de K.________ fait état d’une condamnation, le
+15 mars 2022, par le Tribunal de police de l’arrondissement de La Côte, pour voies de fait,
+injure et menaces, à une peine pécuniaire de 30 jours-amende à 20 fr. le jour avec sursis
+pendant 2 ans et une amende de 300 francs.
+b)
+Le 29 août 2022, K.________ et Q.________ ont eu une altercation au domicile familial, à [...],
+lors de laquelle ils s’en sont pris physi­quement l’un à l’autre.
+K.________ a sollicité l’aide de la Police cantonale vaudoise qui s’est rendue au domicile
+familial. Dans son rapport d’intervention (P. 4/0), la police a expliqué que la situation
+de famille était connue de la justice depuis 2015, qu’il y avait déjà eu cinq procédures
+en lien avec des violences domestiques, que la situation ne s’était pas améliorée
+depuis la dernière procédure datant d’août 2021, qu’il y avait quotidiennement
+des disputes verbales et que ce jour-là, une nouvelle dispute avait éclaté entre K.________
+et Q.________.
+K.________ et Q.________ ont déposé plainte pour voies de fait et injure (P. 4/0).
+A l’issue de son intervention, la police a ordonné l’expulsion de K.________ du domicile
+familial pour une durée de 30 jours (P. 4/0). La police a fait appel à l’Equipe mobile
+d’urgences sociales d’Unisanté (ci-après : EMUS) afin que celle-ci prenne
+contact avec K.________, celui-ci ayant peu de moyens financiers et peu de ressources.
+c)
+Par ordonnance du 30 août 2022, le Président du Tribunal civil de l’arrondissement de
+La Côte a confirmé l’expulsion immédiate de K.________ du logement familial et lui
+a interdit, sous la menace de la peine d’amende prévue à l’art. 292 CP (Code pénal
+suisse du 21 décembre 1937 ; RS 311.0), de pénétrer dans le logement.
+d)
+Le 8 septembre 2022, le Ministère public de l’arrondissement de La Côte (ci-après :
+Ministère public) a ouvert une instruction pénale contre K.________ et Q.________ pour voies
+de fait et injure.
+e)
+Par ordonnance du 23 septembre 2022, le Ministère public a refusé de désigner un défenseur
+d’office à Q.________, de lui octroyer l’assistance judiciaire gratuite et de lui désigner
+un conseil juridique gratuit.
+f)
+A l’audience de conciliation qui s’est tenue le 25 octobre 2022 devant la greffière
+du Ministère public, K.________ a produit un rapport médical établi le 30 août 2022
+par les médecins du Service des urgences de l’Hôpital de Nyon (P. 9), dont il ressort
+qu’il a consulté les urgences le 30 août 2022, qu’il ressentait alors une vive
+douleur au niveau du pouce gauche, sans que le mécanisme ne soit très clair, qu’il avait
+des douleurs localisées au niveau de la première articulation métacarpo- phalangienne,
+qu’une attelle d’immobilisation du pouce a été mise en place durant deux semaines
+jour et nuit, puis une semaine la nuit et qu’il a été mis sous traitement antalgique
+et anti-inflammatoire. K.________ a également déposé un rapport médical de l’Unité
+de médecine des violences qui l’a vu en consultation le 6 septembre 2022 (P. 9). Il a été
+en arrêt de travail à 100% du 30 août au 27 septem­bre 2022.
+B.
+a)
+Par courrier du 7 novembre 2022, K.________,
+par son mandataire, a requis l’octroi de l’assistance judiciaire gratuite (P. 10/0) et a
+transmis la demande signée par son curateur X.________.
+b)
+Par ordonnance du 10 novembre 2022, le Ministère
+public de l’arrondissement de La Côte
+a
+refusé de désigner un défenseur d’office à K.________ (I), a refusé d’octroyer
+l’assistance judiciaire gratuite à K.________ et de lui désigner un conseil juridique
+gratuit (II), et a dit que les frais de la décision suivaient le sort de la cause (III).
+Le procureur a retenu que K.________ ne se trouvait pas dans un cas de défense obligatoire au sens
+de l’art. 130 CPP (Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0),
+que la cause n’était compliquée ni en fait ni en droit, de sorte que l’affaire
+ne présentait pas de difficultés que le prévenu ne pourrait pas surmonter seul et que
+la désignation d’un défenseur d’office n’apparaissait pas justifiée.
+S’agissant de l’assistance judiciaire gratuite, le procureur a relevé que K.________
+participait à la procédure en qualité de partie plaignante, que les faits reprochés
+à Q.________ ne présentaient pas de difficultés particulières sur le plan juridique
+qu’il ne pourrait pas surmonter seul et que l’assistance d’un conseil juridique gratuit
+n’était pas justifiée.
+C.
+Par acte du 21 novembre 2022, K.________ a recouru
+auprès de la Chambre des recours pénale du Tribunal cantonal contre cette ordonnance en concluant,
+avec suite de frais et dépens, à la réforme du chiffre I de son dispositif en ce sens
+que l’avocate Anne-Luce Julsaint Buonomo lui soit désignée en qualité de défenseur
+d’office avec effet au 26 septembre 2022 et à l’annulation du chiffre II du dispositif
+par lequel le procureur a refusé de lui octroyer l’assistance judiciaire gratuite et de lui
+désigner un conseil juridique gratuit.
+A l’appui de son recours, K.________ a produit plusieurs pièces nouvelles (P. 15/1/3 à
+P. 15/1/5), soit le procès-verbal de l’audience de validation de son expulsion du logement
+familial tenue par le Président du Tribunal civil de l’arron­dissement de La Côte
+le 5 septembre 2022, les déterminations du 15 octobre 2004 de la Tutrice générale du canton
+de Vaud dans le cadre de la tutelle de K.________ et de la demande de levée de la tutelle instituée
+en faveur de [...], mère du prénommé, et le procès-verbal de l’audience du
+Juge de paix du district de Nyon du 8 mars 2018 dans le cadre de la mesure de protection instituée
+en faveur de K.________.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393 al. 1 let. a CPP (Code de procédure pénale suisse du 5 octobre
+2007; RS 312.0), le recours est recevable contre les décisions et actes de procédure du Ministère
+public. Une décision du Ministère public refusant d’ordonner une défense d’office
+(art. 132 CPP) ou d’octroyer l’assistance judiciaire gratuite (art. 136 CPP) est ainsi susceptible
+de recours selon les art. 393 ss CPP (Harari/Corminboeuf Harari, in : Jeanneret et al. [éd.], Commentaire
+romand, Code de procédure pénale suisse, 2
+e
+éd., Bâle 2019 [ci-après : CR CPP], n. 11 ad art. 132 CPP et n. 16 ad art. 136 CPP).
+Le recours doit être adressé par écrit, dans un délai de dix jours dès la notification
+des décision attaquées (cf. art. 384 let. b CPP), à l’autorité de recours
+(cf.
+art. 20 al. 1 let. b CPP), qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal
+cantonal (art. 13 LVCPP [Loi d’introduction du Code de procédure pénale suisse du 19
+mai 2009 ; BLV 312.01] ; art. 80 LOJV [Loi vaudoise d’organisation judiciaire du 12 décembre
+1979 ; BLV 173.01]).
+En l’espèce, le recours a été interjeté en temps utile auprès de l’autorité
+compétente par une partie qui a qualité pour recourir.
+1.2
+1.2.1
+Le recours s’exerce par le dépôt d’un mémoire écrit et dûment motivé
+(art. 390 al. 1 et 396 al. 1 CPP). Les exigences de motivation du recours sont posées à l’art.
+385 al. 1 CPP, qui prévoit que la personne ou l’autorité qui recourt doit indiquer précisément
+les points de la décision qu’elle attaque (let. a), les motifs qui commandent une autre décision
+(let. b) et les moyens de preuve qu’elle invoque
+(let.
+c).
+Le recourant doit en particulier énoncer « les motifs qui commandent une autre décision
+» (art. 385 al. 1 let. b CPP), à savoir les arguments, de fait ou de droit, sur lesquels il
+prétend se fonder pour faire modifier la décision en sa faveur
+(TF
+1B_510/2020 du 15 septembre 2020 consid. 2.2 et réf. cit. ; Lieber, in : Donatsch/Lieber/Summers/Wohlers
+[éd.], Zürcher Kommentar, Kommentar zur Schwei­zerischen Strafprozessordnung, 3
+e
+éd. 2020, n. 2 ad art. 385 StPO). Ainsi, il doit indiquer dans quelle mesure et sous quel angle
+il entend, notamment, critiquer l’établissement des faits ou l’application du droit
+(Calame, in : CR CPP, op. cit., n. 20 ad art. 385 CPP).
+L’art. 385 al. 2, 1
+re
+phr., CPP prévoit que si le mémoire ne satisfait pas aux exigences mentionnées à
+l’alinéa 1, l’autorité de recours le renvoie au recourant pour qu’il le complète
+dans un bref délai. Cette disposition vise uniquement à protéger le justiciable contre
+un formalisme excessif de la part de l’autorité. Elle ne permet en revanche pas de suppléer
+un défaut de motivation. Il est en effet communément admis en procédure que la motivation
+d’un acte de recours doit être entièrement contenue dans l’acte de recours lui-même.
+Elle ne saurait dès lors être complétée ou corrigée ultérieurement, l’art.
+385 al. 2 CPP ne devant pas être appliqué afin de détourner la portée de l’art.
+89 al. 1 CPP, qui interdit la prolongation des délais fixés par la loi et n’autorise
+pas la partie à compléter un acte dépourvu de motivation (TF 6B_609/2021 du 19 juillet
+2021 consid. 2.4 ; TF 6B_510/2020 du 15 septembre 2020 ; TF 6B_510/2018 du 31 juillet 2018 consid. 1
+et les réf. citées).
+1.2.2
+En l’espèce, le recours de K.________ est recevable en tant qu’il concerne le refus
+de la désignation d’un défenseur d’office, les conditions de motivation posées
+par l’art. 385 al. 1 CPP étant manifestement réalisées. Les pièces nouvelles
+produites avec le recours (P. 15/1/3 à P. 15/1/5), nécessaires au traitement du recours, sont
+également recevables (art. 389 al. 3 CPP).
+En revanche, en tant que le recours vise le rejet de l’octroi de l’assis­tance judiciaire,
+et plus précisément le refus de la désignation d’un conseil juridique gratuit, le
+recours paraît souffrir d’un défaut de motivation, le recourant ne développant aucun
+moyen en lien avec d’éventuelles conclusions civiles et la possible difficulté à
+en prendre. La question de la recevabilité de la conclusion II du recours de K.________ peut toutefois
+rester ouverte, le recours devant de toute manière être rejeté pour les motifs exposés
+ci-après.
+2.
+2.1
+Invoquant une violation du droit,
+le recourant reproche au Ministère public
+d’avoir refusé de lui désigner un défenseur d’office. Il soutient que le procureur
+n’aurait pas tenu compte de ses capacités et de ses fragilités, faisant abstraction des
+difficultés qu’il avait rencontrées sur le plan éducatif, scolaire et familial durant
+son enfance et du fait qu’il aurait bénéficié d’une mesure de curatelle depuis
+sa naissance, qu’il aurait plus de difficultés que n’importe qui à relire ses déclarations,
+à comprendre leur portée et à y apporter des précisions, et qu’il ne serait
+pas capable d’évaluer ses chances de succès dans la présente procédure pénale
+et de tenter éventuellement une solution amiable. Il fait valoir que les faits et le droit ne seraient
+pas aussi simples que le prétend le procureur, que sa version et celle de Q.________ seraient contradictoires,
+chacun expliquant avoir agi pour se défendre, qu’il s’agirait du sixième cas de
+violence domestique, que les altercations à répétition avec son beau-père auraient
+conduit à son expulsion du domicile familial, que celui-ci adopterait un comportement agressif à
+son égard dans le but de le mettre à la porte et qu’il ne serait pas exclu, en cas de
+condamnation, que le sursis octroyé le 15 mars 2022 soit révoqué. Il relève encore
+que, au vu de son déficit intellectuel, il serait compliqué pour lui d’apprécier
+les implications juridiques de la présente cause, qu’il se sentirait dépassé, que
+la procédure aurait des implications personnelles impor­tantes pour lui, qu’il ne disposerait
+pas des moyens financiers suffisants pour faire appel à un avocat et que l’assistance judiciaire
+gratuite devrait lui être octroyée.
+2.2
+2.2.1
+Aux termes de l’art. 130 let. c CPP, le
+prévenu doit avoir un défenseur lorsqu’en raison de son état physique ou psychique
+ou pour d’autres motifs, il ne peut pas suffisamment défendre ses intérêts dans
+la procédure et ses représentants légaux ne sont pas en mesure de le faire.
+Selon la jurisprudence, la question de la capacité de procéder doit être examinée
+d'office. Cependant, des indices de limitation ou d'absence d'une telle capacité doivent exister
+pour qu'il puisse être attendu de l'autorité qu'elle obtienne des éclaircissements à
+ce sujet. Une incapacité de procéder n'est ainsi reconnue que très exceptionnellement,
+soit en particulier lorsque le prévenu se trouve dans l'incapacité de suivre la procédure,
+de comprendre les accusations portées à son encontre et/ou de prendre raisonnablement position
+à cet égard (TF 6B_508/2020 du 7 janvier 2021 consid. 2.1.1; TF 1B_493/2019 du 20 décembre
+2019 consid. 2.1;
+TF 1B_285/2016 du 1er
+septembre 2016 consid. 2.1 et réf. cit.).
+Selon la doctrine, l'hypothèse prévue à l'art. 130 let. c CPP est notamment tenue pour
+réalisée lorsque le prévenu n'est plus à même d'assurer, intellectuellement
+ou physiquement, sa participation à la procédure, à l'image des cas visés par l'art.
+114 al. 2 et 3 CPP (Moreillon/Parein-Reymond, Petit Commentaire CPP, 2
+e
+éd., Bâle 2016, n. 15 ad art. 130 CPP et réf. cit.). La cause des incapacités personnelles
+peut consister dans des dépendances à l’alcool, aux stupéfiants ou à des médicaments,
+susceptibles d’altérer les capacités psychiques (TF 6B_508/2020 du 7 janvier 2021 consid.
+2.1.1; TF 1B_493/2019 du 20 décembre 2019 consid. 2.1; TF 1B_285/2016 du 1er septembre 2016 consid.
+2.1 et les références citées), ainsi que de troubles mentaux sévères ou même
+légers (Schmid/Jositsch, Praxiskommen­tar, Schweizerische Strafprozessordnung, 3
+e
+éd., 2018, n. 9 ad art. 130 CPP ; Harari/Jakob/Santamaria, in : CR CPP, op. cit., n. 26 ad
+art. 130 CPP et réf. cit.). Les empêchements psychiques, plus particulièrement, ne supposent
+pas que le prévenu souffre nécessairement de troubles d'ordre psychiatrique ; il suffit qu’il
+puisse être établi qu'il ne saisisse pas ou plus les enjeux auxquels il est confronté
+dans la procédure pénale (Moreillon/Parein-Reymond, op. cit., n. 17 ad art. 130 CPP et réf.
+cit. ; Ruckstuhl, Basler Kommentar, Schweizerische Strafprozessordnung, Jugend­strafprozessordnung,
+2
+e
+éd., Bâle 2014, n. 30 ad art.130 CPP et réf. cit.). La direction de la procédure
+dispose d'une marge d'appréciation pour déterminer si le prévenu frappé d'une incapacité
+person­nelle peut suffisamment se défendre ou non ; au vu du but de protection visé par
+le cas de défense obligatoire, l’autorité devra se prononcer en faveur de la désignation
+d’un défenseur d’office en cas de doute ou lorsqu’une expertise psychiatrique
+constate l’irresponsabilité du prévenu, respectivement une responsabilité restreinte
+de celui-ci (TF 6B_508/2020 du 7 janvier 2021 consid. 2.1.1; TF 1B_493/2019 du 20 décembre 2019
+consid. 2.1; TF 1B_285/2016 du 1er septembre 2016 consid. 2.1 et réf. cit.). Il s’ensuit qu’il
+appartient à la direction de la procédure, non au médecin, d’apprécier si le
+prévenu peut suffisamment se défendre. Il revient seulement au médecin d’attester
+des effets concrets de l’état de santé du prévenu sur la capacité de celui-ci
+de comprendre les enjeux et de participer aux actes de la procédure, pour que la direction de la
+procédure puisse, compte tenu de ces effets, apprécier si le prévenu peut suffisamment
+se défendre (mêmes arrêts). Si les conditions légales sont remplies, la direction
+de la procédure devra veiller à ce que le prévenu soit défendu même si l’infraction
+n’est pas ou peu grave. Le Tribunal fédéral considère que lorsque le représentant
+légal est un avocat expérimenté ou un curateur professionnel, il est en principe apte
+à défendre les intérêts du prévenu, mais a récemment invoqué, avec
+une apparence d’approbation, la doctrine préconisant que la représentation ne puisse
+être assurée par le représentant légal que pour des problématiques liées
+à des contraventions ou en lien avec des cas dits bagatelle, voire que le curateur doive être
+au bénéfice d’une formation juridique (Harari/Jakob/ Santamaria, op. cit., n. 31 ad art.
+130 CPP).
+2.2.2
+En dehors des cas de défense obligatoire au sens de l’art. 130 CPP, la direction de la procédure
+ordonne une défense d’office si le prévenu ne dispose pas des moyens nécessaires
+et si l’assistance d’un défenseur est justifiée pour sauvegarder ses intérêts
+(art. 132 al. 1 let. b CPP). La défense d'office aux fins de protéger les intérêts
+du prévenu se justifie notamment lorsque l'affaire n'est pas de peu de gravité et qu'elle présente,
+sur le plan des faits ou du droit, des difficultés que le prévenu seul ne pourrait pas surmonter
+(art. 132 al. 2 CPP). En tout état de cause, une affaire n'est pas de peu de gravité lorsque
+le prévenu est passible d'une peine privative de liberté de plus de quatre mois ou d'une peine
+pécuniaire de plus de 120 jours-amende (art. 132 al. 3 CPP).
+Si les deux conditions mentionnées à l'art. 132 al. 2 CPP doivent être réunies cumulativement,
+il n'est pas exclu que l'intervention d'un défenseur soit justifiée par d'autres motifs (comme
+l'indique l'adverbe "notamment"), en particulier dans les cas où cette mesure est nécessaire
+pour garantir l'égalité des armes ou parce que l'issue de la procédure pénale a une
+importance particulière pour le prévenu, par exemple s'il encourt une révocation de l'autorisation
+d'exercer sa profession ou s'il risque de perdre la garde de ses enfants (TF 1B_483/2022 du
+28
+septembre 2022 consid. 3 ; TF 1B_95/2022 précité consid. 3.2 ; TF 1B_194/2021 du 21 juin
+2021 consid. 3.1). La désignation d'un défenseur d'office peut ainsi s'imposer, selon les circonstances,
+lorsque le prévenu encourt une peine privative de liberté de quelques semaines à quelques
+mois si, à la gravité relative du cas, s'ajoutent des difficultés particulières du
+point de vue de l'établissement des faits ou des questions juridiques soulevées, qu'il ne serait
+pas en mesure de résoudre seul. En revanche, lorsque l'infraction n'est manifeste­ment qu'une
+bagatelle, en ce sens que son auteur ne s'expose qu'à une amende ou à une peine privative de
+liberté de courte durée, la jurisprudence considère que l'auteur n'a pas de droit constitutionnel
+à l'assistance judiciaire (ATF 143 I 164 consid. 3.5 ; TF 1B_483/2022 précité
+consid.
+3 ; TF 1B_95/2022 précité consid. 3.2 ; TF 1B_591/2021 du 12 janvier 2022 consid. 2.1).
+Pour évaluer si l'affaire présente des difficultés que le prévenu ne pourrait pas
+surmonter sans l'aide d'un avocat, il y a lieu d'apprécier l'ensemble des circonstances concrètes.
+La nécessité de l'intervention d'un conseil juridique doit ainsi reposer sur des éléments
+objectifs - tenant principalement à la nature de la cause - et sur des éléments subjectifs,
+fondés sur l'aptitude concrète du requérant à mener seul la procédure (TF 1B_483/2022
+précité consid. 3 ; TF 1B_95/2022 précité consid. 3.2 ; TF 1B_591/2021 du 12
+janvier 2022 consid. 2.1 et l'arrêt cité).
+S'agissant de la difficulté objective de la cause, à l'instar de ce qu'elle a développé
+en rapport avec les chances de succès d'un recours (cf. ATF 139 III 396 consid. 1.2 ; ATF 129 I
+129 consid. 2.3.1 ; TF 1B_483/2022 précité consid. 3 ;
+TF
+1B_95/2022 précité consid. 3.2), la jurisprudence impose de se demander si une personne raisonnable
+et de bonne foi, qui présenterait les mêmes caractéristiques que le requérant mais
+disposerait de ressources suffisantes, ferait ou non appel à un avocat (ATF 140 V 521 consid. 9.1
+; TF 1B_483/2022 précité consid. 3 ;
+TF
+1B_95/2022 précité consid. 3.2). La difficulté objective d'une cause est admise sur le
+plan juridique lorsque la subsomption des faits donne lieu à des doutes, que ce soit de manière
+générale ou dans le cas particulier. Pour apprécier la difficulté subjective d'une
+cause, il faut tenir compte des capacités du prévenu, notamment de son âge, de sa formation,
+de sa plus ou moins grande familiarité avec la pratique judiciaire, de sa maîtrise de la langue
+de la procédure, ainsi que des mesures qui paraissent nécessaires, dans le cas particulier,
+pour assurer sa défense, notamment en ce qui concerne les preuves qu'il devra offrir (TF 1B_483/2022
+précité consid. 3 ;
+TF 1B_95/2022
+précité consid. 3.2 ; TF 1B_591/2021 du 12 janvier 2022 consid. 2.1 et arrêts cités).
+2.2.3
+A teneur de l'art. 29 al. 3 Cst. (Constitution fédérale de la Confédération suisse
+du 18 avril 1999 ; RS 101), toute personne qui ne dispose pas de ressources suffisantes a droit, à
+moins que sa cause paraisse dépourvue de toute chance de succès, à l'assistance gratuite
+d'un défenseur, dans la mesure où la sauvegarde de ses droits le requiert (ATF 144 IV 299 consid.
+2.1 ; ATF 131 I 350 consid. 3.1 ; TF 6B_1324/2021 du 20 septembre 2022 consid. 2.1 et les réf. cit.).
+Cette disposition vise à assurer à chacun, indépendamment de sa situation financière,
+l'accès à un tribunal ainsi que la sauvegarde effective de ses droits.
+L'art. 136 CPP concrétise les conditions d'octroi de l'assistance judiciaire pour la partie plaignante
+dans un procès pénal (TF 1B_317/2021 du 9 décembre 2021 ; TF 1B_119/2021 du 22 juillet
+2021 consid. 2.1). Selon l'art. 136
+al.
+1 CPP, la direction de la procédure accorde entièrement ou partiellement l'assistance judiciaire
+à la partie plaignante indigente (let. a) pour lui permettre de faire valoir ses prétentions
+civiles si l'action civile ne paraît pas vouée à l'échec (let. b). Selon l’art.
+136 al. 2 CPP, l'assistance judiciaire comprend l'exonération d'avances de frais et de sûretés
+(let. a), l'exonération des frais de procédure (let. b) et/ou la désignation d'un conseil
+juridique gratuit, lorsque la défense des intérêts de la partie plaignante l'exige (let.
+c). Cette norme reprend ainsi les trois conditions cumulatives découlant de l'art. 29 al. 3 Cst.,
+à savoir l'indigence, les chances de succès et le besoin d'être assisté (TF 6B_1324/2021
+précité consid. 2.1 et réf. cit.).
+Le législateur a sciemment limité l'octroi de l'assistance judiciaire aux cas où le plaignant
+peut faire valoir des prétentions civiles et, par voie de conséquence, uniquement aux cas où
+l’action civile ne paraît pas vouée à l’échec (art. 136 al. 1 let. b
+CPP). Il a ainsi tenu compte du fait que le monopole de la justice répressive est par principe exercé
+par l'Etat, de sorte que l'assistance judiciaire de la partie plaignante se justifie en priorité
+pour que celle-ci puisse défendre ses conclusions civiles (Message du Conseil fédéral
+relatif à l'unification du droit de la procédure pénale du 21 décembre 2005, FF 2006
+p. 1160 ; TF 6B_1324/2021 précité consid. 2.1 et les réf. cit.). Celui qui ne fait pas
+valoir de telles prétentions ne peut fonder sa requête sur l’art. 136 CPP (TF 1B_254/2013
+du 27 septembre 2013 consid. 2.1.1).
+2.2.4
+L’indigence du plaideur est une condition commune à la défense d'office et à la
+désignation d'un défenseur d'office en faveur du prévenu, d’une part, et à
+l'assistance judiciaire et à la désignation d'un conseil juridique gratuit en faveur de la
+partie plaignante, d’autre part (Harari/Corminboeuf Harari, in : CR CPP, op. cit., n. 30 ad art.
+136 CPP, avec renvoi aux nn. 59 ss ad art. 132 CPP).
+Selon la jurisprudence, une personne est indigente lorsqu'elle n'est pas en mesure d'assumer les frais
+de la procédure sans porter atteinte au minimum nécessaire à son entretien et à celui
+de sa famille (ATF 144 III 531 consid. 4.1 ; ATF 141 III 369 consid. 4.1 ; TF 1B_597/2020 du 29 janvier
+2021 consid. 3.1.1 ; TF 1B_574/2019 du 26 mars 2020 consid. 2.2). Pour déterminer l'indigence, il
+convient de prendre en considération l'ensemble de la situation financière du requérant
+au moment où la demande est présentée, celui-ci devant indiquer de manière complète
+et établir autant que possible ses revenus, sa situation de fortune et ses charges. Il y a lieu
+de mettre en balance, d'une part, la totalité des ressources effectives du requérant et, d'autre
+part, l'ensemble de ses engagements financiers (ATF 135 I 221 consid. 5.1 ; TF 1B_597/2020 précité).
+Il incombe au requérant de prouver les faits qui permettent de constater qu'il remplit les conditions
+de la mesure qu'il sollicite. S'il ne fournit pas des renseignements suffisants (avec pièces à
+l'appui) pour permettre d'avoir une vision complète de sa situation financière et que la situation
+demeure confuse, la requête doit être rejetée (ATF 125 IV 161 consid. 4). En revanche,
+lorsque le requérant remplit ses obligations, sans que cela permette d'établir d'emblée,
+pour l'autorité, son indigence, il appartient à celle-ci de l'interpeller
+(TF
+1B_574/2019 précité ; TF 1B_427/2019 du 22 octobre 2019 consid. 3.1 ; TF 1B_179/2019 du 22
+juillet 2019 consid. 3.2).
+S’il s’avère qu’il existe un disponible, celui-ci ne permet pas systémati­quement
+d’exclure l’indigence. Le soutien de la collectivité publique n’est en principe
+pas dû lorsque la part disponible permet d’amortir les frais d’un procès en une
+année pour les procès relativement simples, et en deux ans pour les autres (ATF 135 I 221 consid.
+5.1).
+2.3
+En l’espèce, l’altercation qui a eu lieu le 29 août 2022 entre K.________ et son
+beau-père Q.________ est intervenue dans le cadre d’un conflit familial qui divise les deux
+protagonistes depuis plusieurs années. Leur difficulté à vivre ensemble est patente. Par
+décision du 30 août 2022, le Président du Tribunal civil de l’arrondis­sement
+de La Côte a par ailleurs confirmé l’expulsion immédiate de K.________ du logement
+familial prononcée le 29 août 2022 par la police intervenue sur les lieux, expulsion confirmée
+pour une durée de trois mois par le Président du Tribunal civil à l’issue de l’audience
+de validation qui s’est tenue le 5 septembre 2022.
+Force est de constater, avec le procureur, que la cause ne présente pas la moindre difficulté
+en fait et en droit. En effet, il s’agit d’un incident – une altercation physique et
+des insultes – entre un beau-fils et un beau-père qui a eu lieu le 29 août 2022. Certes
+les versions du recourant et de son beau-père divergent, chacun affirmant que l’autre a commen­cé
+et qu’il n’a fait que se défendre. Or, au vu des explications fournies par Q.________
+– lequel a admis s’être disputé avec le recourant – qui se recoupent avec
+le récit donné par le recourant lors de sa consultation à l’Unité de médecine
+des violences (P. 9), les circons­tances n’appa­raissent pas compliquées au point
+qu’il faille retenir que la cause est complexe s’agissant des faits. Au demeurant, le procureur
+a ouvert une enquête pour voies de fait et injure, infractions pouvant respectivement donner lieu
+au prononcé d’une amende et d’une peine pécuniaire de 90 jours-amende au plus (art.
+126 et 177 CP), de sorte que la cause est de peu de gravité. Quant au sursis assortissant la peine
+pécuniaire de 30 jours-amende à 20 fr. le jour prononcée le 15 mars 2022 à l’encontre
+du recourant, sa révocation ne rendrait pas la présente cause plus complexe en fait et en droit
+au point que l’assistance d’un défenseur s’impose.
+Le recourant, âgé de 28 ans, prétend être limité intellectuellement. K.________
+a rencontré des difficultés importantes d’acquisition et d’autonomie
+–
+trois années d’école enfantine, un passage en école primaire difficile, mais des
+pro­grès réels grâce aux divers soutiens spécifiques, dont des séances
+psychodrames, mis en place, manque de confiance en lui – durant son parcours scolaire (P. 16/1/4).
+Au bénéfice d’une mesure de tutelle pour garantir la protection de la pluralité
+de ses besoins durant son enfance, il est aujourd’hui au bénéfice d’une curatelle
+de représentation et de gestion (P. 10/2). A l’audience du Juge de paix du district de Nyon
+qui s’est tenue le 8 mars 2018 dans le cadre de la mesure de curatelle instituée en faveur
+du recourant, la curatrice d’alors de K.________ a déclaré que celui-ci avait des «
+difficultés
+à écrire
+» et le recourant
+a expliqué qu’il était «
+gêné
+d’écrire des lettres ou envoyer des emails
+»
+(P. 16/1/5). Il ressort du procès-verbal de cette audience que le recourant a bénéficié
+d’une formation financée par l’assurance-invalidité, mais rien n’indique
+qu’il bénéficierait de prestations de l’assurance-invali­dité. Dans son
+constat médical, l’Unité de médecine des violences a fait état des faits litigieux
+tels que le recourant les avait relatés ; K.________ a montré, par son récit, qu’il
+avait compris les enjeux de la présente procédure (P. 9). De plus, il ne ressort ni du procès-verbal
+de son audition-plainte (P. 4/0) ni du procès-verbal de l’audience de conciliation du 25 octobre
+2022 que le recourant a eu des difficultés particulières à expliquer ce qui lui était
+arrivé, à comprendre les questions qui lui étaient posées et à y répondre.
+Il est par ailleurs en train de faire un apprentissage de mécanicien (P. 4/0), de sorte que même
+s’il a rencontré des difficultés scolaires importantes, rien n’indique qu’il
+n’est pas capable de lire ses dépositions et de comprendre les enjeux de la présente
+procédure, d’autant qu’il peut solliciter l’aide de son curateur X.________. Au
+reste, aucun document médical n’atteste que le recourant présenterait un trouble psychiatrique
+qui l’empêcherait de faire face à la présente procédure pénale sans l’aide
+d’un avocat. Enfin, la problématique du logement commun, certes compliquée, est liée
+à la situation familiale du recourant et de sa mère, et non à la procédure pénale
+dont le recourant est l’objet.
+S’agissant de l’assistance judiciaire gratuite, le calcul d’éventuelles prétentions
+civiles du recourant, en sa qualité de partie plaignante, ne nécessitera pas de connaissances
+juridiques particulières et celles-ci ne seront pas compliquées à chiffrer puisqu’elles
+consisteront au remboursement de ses frais médicaux non couverts par une assurance sur présentation
+de factures et à la compensation d’un éventuel manque à gagner en lien avec son
+arrêt de travail du 30 août au 27 septembre 2022 (P. 9), ainsi qu’à la réclamation
+éventuelle d’un montant à titre de réparation du tort moral subi. Au surplus, aucune
+avance de frais n’a été demandée au recourant.
+Compte tenu de ce qui précède, on ne saurait considérer que K.________ se trouve dans
+un cas de défense obligatoire au sens de l’art. 130 CPP et que le concours d’un défenseur
+d’office et d’un conseil juridique gratuit soit nécessaire au recourant pour qu’il
+puisse se défendre dans le cadre de la présente procédure pénale et faire valoir
+ses droits, en particulier prendre des conclusions civiles, d’autant que l’égalité
+des armes est garantie puisque le coprévenu Q.________ n’est pas assisté et qu’il
+s’est également vu refuser la désignation d’un défen­seur d’office
+et d’un conseil juridique gratuit. Dans ces conditions, la question de l’indigence du recourant
+peut rester ouverte.
+Partant, les conditions des art. 132 et 136 CPP ne sont pas réunies.
+3.
+En définitive, le recours interjeté par K.________, manifestement mal fondé, doit être
+rejeté sans échange d'écritures (art. 390 al. 2 CPP), et l’ordonnance du 10 novembre
+2022 confirmée.
+Les frais de la procédure, de recours, constitués en l’espèce du seul émolument
+d’arrêt, par 1'650 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront exceptionnellement laissés
+à la charge de l’Etat (art. 423 al. 1 et 425 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+L’ordonnance du 10 novembre 2022 est confirmée.
+III.
+Les frais d’arrêt, par 1'650 fr. (mille
+six cent cinquante francs), sont laissés à la charge de l’Etat.
+IV.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Anne-Luce Julsaint Buonomo (pour K.________),
+-
+Service des curatelles et tutelles professionnelles, X.________ (pour K.________),
+-
+Ministre public central,
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
