@@ -1,0 +1,234 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___43"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 43"
+decided: "2022-12-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9208667"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-049.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-029.md", "switzerland/bund/acts/312.0/art-030.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2023 / 43
+
+## Regeste
+
+JONCTION DE CAUSES, UNITÉ DE LA PROCÉDURE | 29 CPP (CH), 30 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 05.12.2022 Décision / 2023 / 43
+
+JONCTION DE CAUSES, UNITÉ DE LA PROCÉDURE | 29 CPP (CH), 30 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+936
+PE21.012869-CCE
+PE22.008803-CCE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+5 décembre 2022
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mme
+Fonjallaz et M. Meylan, juges
+Greffière
+:              Mme
+Willemin Suhner
+*****
+Art.
+29 al. 1 let. a, 30 CPP
+Statuant sur le recours interjeté le 26 septembre 2022 par
+S.________
+contre l’ordonnance de jonction de procédures pénales rendue le 15 septembre
+2022 par le Ministère public de l’arrondissement du Nord vaudois dans la cause
+n° PE21.012869-CCE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a) Le 4 février 2022, le Ministère public de l’arrondissement du Nord vaudois (ci-après :
+le Ministère public ou la procureure) a ouvert une instruction pénale sous référence
+PE[...] à l’encontre de S.________ à la suite d’une plainte déposée le
+26 avril 2021 par V.________. Il est en substance reproché à la prévenue, alors qu’elle
+était sous l’emprise de l’alcool, de s’en être prise physiquement à
+V.________, le 29 mars 2021, à [...], au domicile de P., notamment en assénant à celle-ci
+des coups de poing au niveau du visage et sur le corps et en tentant de l’étrangler. Il est
+aussi reproché à S.________ d’avoir, le même jour, soustrait sans droit environ
+420 fr. à V.________, argent qui se serait trouvé dans le porte-monnaie de cette dernière.
+Le 10 juin 2021, la prévenue a été auditionnée par la police. Elle a notamment déclaré
+qu’elle consommait deux à cinq verres d’alcool quotidiennement (PV aud. 2 p. 7).
+Le 7 avril 2022, les parties ont été confrontées lors d’une audience par devant
+le Ministère public (PV aud. 4).
+b) S.________ fait l’objet d’une autre procédure pénale instruite par le Ministère
+public du Nord vaudois à son encontre sous référence PE[...] à la suite d’un
+accident de la circulation routière survenu le 14 mai 2022 à la route de [...] à [...].
+Il est en substance reproché à S.________ d’avoir circulé au volant du véhicule
+automobile de marque Jeep immatriculé VD[...] appartenant à P., alors qu’elle faisait
+l’objet d’une interdiction générale d’utiliser son permis de conduire et
+qu’elle était sous l’influence de l’alcool, d’avoir perdu la maîtrise
+du véhicule et provoqué un accident ayant notamment entraîné plusieurs blessés
+et de s’être opposée en usant de violence à l’intervention de la police.
+Le 8 juillet 2022, dans le cadre de l’instruction de dite procédure, S.________ a été
+auditionnée par la police. Concernant les circonstances de l’accident, elle a déclaré
+ne pas s’en souvenir car elle avait bu du vin (PV aud. 1 p. 3). Elle a également notamment
+indiqué avoir déjà eu un accident de la circulation routière, plusieurs années
+auparavant, alors qu’elle était en état d’ébriété, raison pour laquelle
+elle faisait l’objet d’une mesure d’interdiction générale d’utiliser
+son permis de conduire (PV aud. 1 p. 3).
+B.
+Par ordonnance du 15 septembre 2022, le Ministère
+public a ordonné la jonction de l’enquête PE[...] à l’enquête PE[...]
+(I) et a dit que les frais suivaient le sort de la cause (II).
+A l’appui de sa décision, la procureure a exposé que les deux affaires concernaient la
+même prévenue de sorte qu’il se justifiait de joindre les deux enquêtes.
+C.
+Par acte du 26 septembre 2022 de son conseil de
+choix, S.________ a recouru contre cette ordonnance, en concluant, avec suite de frais et dépens,
+principalement à son annulation. Subsidiairement, elle a conclu à ce qu’il soit ordonné
+que les éléments du dossier de la procédure concernant l’accident du 14 mai 2022
+ne soient pas mis à disposition de V.________. A titre de mesures provisionnelles, la recourante
+a demandé que l’effet suspensif soit accordé au recours.
+Par décision du 29 septembre 2022, la Présidente de la Chambre des recours pénale a rejeté
+dans la mesure de sa recevabilité la requête d’effet suspensif, la recourante n’ayant
+pas motivé ni a fortiori rendu vraisemblable qu’elle risquait de subir un préjudice irréparable
+si l’effet suspensif n’était pas accordé.
+Le 17 novembre 2022, le Ministère public s’est déterminé sur le recours, dans le
+délai imparti en application de l’art. 390 al. 2 CPP. La procureure a en substance exposé
+qu’elle avait décidé de joindre les deux procédures instruites à l’encontre
+de S.________ car celle-ci devrait être jugée dans un seul et même dossier, en application
+du principe de l’unité de la procédure. Selon la magistrate, cela apparaissait d’autant
+plus important qu’une problématique d’alcoolisation était présente dans les
+deux affaires et que cela pourrait conduire à la mise en place de certaines mesures. Il était
+au demeurant sans pertinence que V.________ n’ait aucun lien avec l’accident de la circulation
+survenu le 14 mai 2022 puisqu’il était usuel qu’un prévenu soit poursuivi par plusieurs
+plaignants pour des faits n’ayant aucune connexité entre eux.
+En droit
+:
+1.
+1.1
+Une ordonnance par laquelle le Ministère public ordonne la jonction ou la disjonction de procédures
+pénales (art. 30 CPP [Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0]) est
+susceptible d’un recours au sens des art. 393 ss CPP (Stephenson/Thiriet, in : Niggli/Heer/Wiprächtiger
+[éd.], Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung, 2
+e
+éd., Bâle 2014, n. 10 ad art. 393 CPP). Elle peut être attaquée dans les dix jours
+devant l’autorité de recours (art. 396 al. 1 CPP ; cf. art. 20 al. 1 let. b CPP), qui est,
+dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi d’introduction
+du Code de procédure pénale suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [loi d’organisation
+judiciaire du 12 décembre 1979 ; BLV 173.01]).
+1.2.
+En l’espèce, interjeté dans le délai légal auprès de l’autorité
+compétente par la prévenue, qui a qualité pour recourir (art. 382 al. 1 CPP), et satisfaisant
+aux conditions de forme posées par l’art 385 al. 1 CPP, le recours est recevable.
+2.
+2.1
+S.________ se plaint d’une violation de l’art. 30 CPP. Elle fait valoir qu’elle a déjà
+comparu, avec V.________, par-devant la Justice de paix de l’arrondissement du Lac à Fribourg,
+de sorte que la procédure serait déjà fortement avancée. Elle se prévaut aussi
+de ce que les faits en lien avec l’accident survenu le 14 mai 2022 n’auraient aucun rapport
+avec le complexe de faits impliquant V.________.
+2.2
+Consacrant le principe dit de l’unité de la procédure, l’art. 29 al. 1 CPP prévoit
+que les infractions sont poursuivies et jugées conjointement lorsqu'un prévenu a commis plusieurs
+infractions (let. a) ou lorsqu'il y a plusieurs coauteurs ou participation (let. b). Si des raisons objectives
+le justifient, le ministère public et les tribunaux peuvent ordonner la jonction ou la disjonction
+de procédures pénales (art. 30 CPP).
+Le principe de l'unité de la procédure découle de l’art. 49 CP qui veut que les
+infractions commises en concours soient réprimées dans un seul et même jugement et qu'un
+seul juge se prononce sur l’ensemble des faits reprochés au prévenu. Cette solution permet
+d’éviter la multitude de jugements rendus contre un même prévenu, le prononcé
+d’une peine complémentaire ou d’une peine d’ensemble, ainsi que les frais liés
+à toute nouvelle procédure (Moreillon/Parein-Reymond, Petit commentaire du Code de procédure
+pénale, 2
+e
+éd., Bâle 2016, n. 3 ad art. 29 CPP). La règle générale de l’art. 29 al.
+1 CPP tend ainsi à éviter au prévenu de devoir comparaître devant plusieurs tribunaux
+à raison des faits qui lui sont reprochés (Moreillon/Parein-Reymond, op. cit., n. 4 ad art.
+29 CPP). Elle tend également à éviter des jugements contradictoires et sert l’économie
+de la procédure (ATF 138 IV 29 consid. 3.2 ; ATF 138 IV 214 consid. 3.2). Dans ces circonstances,
+le ministère public peut être tenu de joindre des procédures à l’encontre du
+même prévenu quand bien même la nature des infractions serait fort différente (ATF
+138 IV 214 consid. 3.6 ; Moreillon/Parein-Reymond, op. cit., n. 5 ad art. 29 CPP, qui cite le cas de
+deux causes portant sur des infractions différentes, à savoir sur des violences domestiques
+et sur l’infraction d’escroquerie).
+2.3
+En l’espèce, contrairement à ce qu’affirme la recourante, la cause concernant la
+plainte déposée à son encontre par V.________ n’est pas instruite dans le canton
+de Fribourg mais par le Ministère public du Nord vaudois et les parties ont été confrontées
+lors d’une audience devant la procureure (PV aud. 4), de sorte que l’argument soulevé
+à cet égard n’est pas pertinent. Il en va de même s’agissant du fait que les
+faits reprochés dans les deux procédures n’auraient aucun lien entre eux. En effet, il
+se justifie, en vertu du seul principe de l’unité de la procédure et conformément
+à la jurisprudence rappelée ci-dessus (cf. consid. 2.2) de joindre les deux procédures
+instruites à l’encontre de S.________, quand bien même la nature des infractions est
+différente, afin que tous faits reprochés à la recourante, s’ils s’avèrent
+en définitive établis, soient jugés conjointement. Il existe au demeurant en l’occurrence
+une raison objective à la jonction des deux causes. En effet, selon les éléments ressortant
+des deux enquêtes en cours, confirmés sur ce point par les déclarations de S.________,
+les infractions auraient toutes été commises alors que l’intéressée était
+sous l’influence de l’alcool (PV aud. 2 p. 7 dans l’affaire PE[...] et PV aud. 1 p.
+3 dans l’affaire PE[...]). Or, la problématique d’alcoolisation présente dans les
+deux affaires – et qui paraît ancrée depuis de nombreuses années puisque la recourante
+a admis qu’elle faisait l’objet d’une interdiction générale d’utiliser
+son permis de conduire en raison d’un accident de la circulation routière qu’elle avait
+provoqué plusieurs années auparavant alors qu’elle était sous l’emprise de
+l’alcool (PV aud. 1 p. 3 dans l’affaire PE[...]) – doit être prise en compte dans
+sa globalité, dans la mesure où le prononcé d’une mesure à cet égard pourrait
+être envisagé si les faits reprochés à S.________ s’avèrent établis
+au terme de l’instruction.
+Partant, c’est à juste titre que le Ministère public a retenu que le principe de l’unité
+de la procédure commandait la jonction des deux causes.
+3.
+Il résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté et l’ordonnance du 15 septembre 2022 confirmée.
+Les frais de la procédure de recours, constitués du seul émolument d’arrêt,
+par 660 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010; BLV 312.03.1]), seront mis à la charge de la recourante, qui succombe
+(art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 15 septembre 2022 est confirmée.
+III.
+Les frais de la procédure, par 660 fr. (six
+cent soixante francs), sont mis à la charge de la recourante.
+IV.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me David Papaux, avocat, (pour S.________),
+-
+Me Krishna Müller,
+avocat (pour V.________,
+-
+Ministère public
+central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
