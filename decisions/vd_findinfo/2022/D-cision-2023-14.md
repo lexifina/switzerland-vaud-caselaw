@@ -1,0 +1,181 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___14"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 14"
+decided: "2022-12-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9169810"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-395.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# VD Findinfo Décision / 2023 / 14
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ, DÉLAI DE RECOURS | 396 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 06.12.2022 Décision / 2023 / 14
+
+DÉCISION D'IRRECEVABILITÉ, DÉLAI DE RECOURS | 396 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+938
+PE21.005369-FJL
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+6 décembre 2022
+__________________
+Composition
+:               M.
+Maillard
+,
+juge unique
+Greffier
+:              M.
+Glauser
+*****
+Art.
+396 al. 1 CPP
+Statuant sur le recours interjeté le 16 novembre 2022 par
+J.________
+contre l’ordonnance rendue le 22 septembre 2022 par le Ministère public de l’arrondissement
+du Nord vaudois dans la cause
+n° PE21.005369-FJL
+,
+le juge unique de la Chambre des recours pénale considère :
+En fait :
+A.
+Le 28 septembre 2021, le Ministère public de l’arrondissement du Nord vaudois a ouvert une
+instruction pénale contre J.________, en raison de diverses infractions que celui-ci aurait commises
+au préjudice de [...].
+Par ordonnance pénale du 22 septembre 2022, le Ministère public de l’arrondissement du
+Nord vaudois a condamné J.________ pour menaces, tentative de contrainte, contrainte et insoumission
+à une décision de l’autorité à une peine pécuniaire de 90 jours-amende
+à 30 fr. avec sursis pendant 2 ans ainsi qu’à une amende de 540 fr. convertible en 18
+jours de peine privative de liberté de substitution, et a mis les frais de procédure, par 1'200
+fr., à sa charge.
+Par ordonnance du 22 septembre 2022, le Ministère public de l’arrondissement du Nord vaudois
+a ordonné le classement de la procédure pénale dirigée contre J.________ pour diffamation
+et menaces (I), a dit qu’il n’y avait pas lieu de lui octroyer une indemnité au sens
+de l’art. 429 CPP (II) et a mis les frais de sa décision, par 150 fr., à la charge de
+ce dernier, le sort du solde des frais étant réglé dans le cadre de l’ordonnance
+pénale rendue conjointement (III).
+Selon le relevé de suivi des envois de la Poste suisse, le pli recommandé contenant ces ordonnances
+a été réceptionné par son destinataire le 23 septembre 2022 (P. 17).
+B.
+Par courrier du 16 novembre 2022 adressé
+au Ministère public et posté par pli recommandé du même jour, J.________ a implicitement
+contesté l’ordonnance de classement précitée, en tant que le montant de 150 fr.
+a été mis à sa charge à titre de frais. Il a joint à son envoi un courrier daté
+du 29 septembre 2022, qu’il a déclaré avoir envoyé par pli simple, dans lequel il
+déclarait notamment contester les frais mis à sa charge dans dite ordonnance de classement.
+Le 2 décembre 2022, le Ministère public
+a transmis le dossier de la cause à la Chambre des recours pénale pour qu’elle statue
+sur le recours contenu dans l’envoi précité.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le ministère public en application des art. 319 ss CPP, dans les dix jours
+devant l’autorité de recours (art. 322 al. 2 et 396 al. 1 CPP ; cf. art. 20 al. 1 let. b CPP)
+qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP
+[loi d’introduction du Code de procédure pénale suisse du 19 mai 2009 ; BLV 312.01] ;
+art. 80 LOJV [loi d’organisation judiciaire du 12 décembre 1979 ; BLV 173.01]).
+2.
+2.1
+L’art. 395 let. b CPP prévoit que si l’autorité de recours est un tribunal collégial
+– ce qui est le cas de la Chambre des recours pénale, laquelle statue à trois juges (art.
+67 al. 1 let. i LOJV ; art. 12 al. 1 ROTC [règlement organique du Tribunal cantonal du 13 novembre
+2007 ; BLV 173.31.1]) –, sa direction de la procédure statue seule sur le recours lorsqu’il
+porte sur les conséquences économiques accessoires d’une décision et que le montant
+litigieux n’excède pas 5'000 francs. Dans ce cas, un membre de la Chambre des recours pénale
+est compétent pour statuer en tant que juge unique (art. 13 al. 2 LVCPP).
+2.2
+En l’occurrence,
+dès lors que le recours porte exclusivement sur les effets accessoires du classement du 22 septembre
+2022, à savoir la mise des frais de procédure, par 150 fr., à la charge du prévenu,
+il relève de la compétence d’un juge unique de la Chambre des recours pénale.
+3.
+3.1
+Le recours doit être adressé par écrit
+dans un délai de dix jours à l’autorité de recours (art. 396 al. 1 CPP). Le délai
+de recours – qui ne peut pas être prolongé (art. 89 al. 1 CPP) – commence à
+courir le jour qui suit la notification du prononcé entrepris (art. 90 al. 1 et 384 let. b CPP ;
+Stoll, Commentaire romand, Code de procédure pénale suisse, 2
+e
+éd., Bâle 2019, n. 3 ad art. 90 CPP).
+Les écrits doivent être remis au plus tard le dernier jour du délai à l’autorité
+pénale, à la Poste suisse, à une représentation consulaire ou diplomatique suisse
+ou, s’agissant de personnes détenues, à la direction de l’établissement carcéral
+(art. 91 al. 2 CPP).
+3.2
+Selon l’art. 85 al. 3 CPP, le prononcé
+est réputé notifié lorsqu’il a été remis au destinataire, à l’un
+de ses employés ou à toute autre personne de plus de seize ans vivant dans le même ménage.
+Les directives des autorités pénales concernant une communication à adresser personnellement
+au destinataire sont réservées.
+Concrètement, la
+notification est réputée parfaite dès l’instant où le destinataire en a pris
+connaissance ou que l’acte entre dans sa sphère de puissance (Petit commentaire CPP, op. cit.,
+n. 13 ad art. 85 CPP).
+3.3
+En l’espèce, le recourant a qualité
+pour recourir contre l’ordonnance de classement mettant une part de frais à sa charge (art.
+382 al. 1 CPP). Le recours s’avère toutefois tardif. En effet, le recourant admet expressément
+avoir reçu le pli du 22 septembre 2022 contenant – notamment – l’ordonnance de
+classement litigieuse, et il résulte du relevé de suivi des envois de la Poste que ce pli a
+été réceptionné par l’intéressé le 23 septembre 2022. Ainsi le délai
+de 10 jours pour former recours arrivait à échéance le lundi 3 octobre 2022. Le recourant
+soutient qu’il aurait envoyé un courrier au Ministère public le 29 septembre 2022 par
+pli simple. Il n’établit toutefois pas la réalité de cet envoi, qui n’a en
+tous les cas pas été réceptionné par le Ministère public. Il s’ensuit
+que le recours, posté par pli recommandé le 16 novembre 2022, est tardif et doit être
+déclaré irrecevable.
+4.
+Au vu de ce qui précède, le recours
+doit être déclaré irrecevable, sans échange d’écritures (art. 390 al.
+2 CPP).
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt (art. 422 al. 1 CPP), par 450 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), sont mis à
+la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+le
+juge unique
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Les frais d’arrêt, par 450 fr. (quatre cent cinquante francs), sont mis à la charge de
+J.________.
+III.
+L’arrêt est exécutoire.
+Le
+juge unique :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. J.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
