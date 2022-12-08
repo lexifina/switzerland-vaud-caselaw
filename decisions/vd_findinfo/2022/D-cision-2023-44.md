@@ -1,0 +1,761 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___44"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 44"
+decided: "2022-12-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9199891"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-062.md", "switzerland/bund/acts/311.0/art-062d.md", "switzerland/bund/acts/311.0/art-063.md", "switzerland/bund/acts/311.0/art-086.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/818.101/art-026.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2023 / 44
+
+## Regeste
+
+LIBÉRATION CONDITIONNELLE, PRONOSTIC, REJET DE LA DEMANDE, PLAN D'EXÉCUTION DES PEINES, RESOCIALISATION | 63 CP, 86 al. 1 CP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale Décision / 2023 / 44
+
+LIBÉRATION CONDITIONNELLE, PRONOSTIC, REJET DE LA DEMANDE, PLAN D'EXÉCUTION DES PEINES, RESOCIALISATION | 63 CP, 86 al. 1 CP
+
+TRIBUNAL
+CANTONAL
+944
+AP22.014647-PAE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+8 décembre 2022
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Krieger et Perrot, juges
+Greffière
+:              Mme
+Fritsché
+*****
+Art.
+86 al. 1 et 2 CP ; 393 ss CPP
+Statuant sur le recours interjeté le 24 novembre 2022 par
+F.________
+contre l’ordonnance rendue le 14 novembre 2022 par le Juge d’application des peines dans
+la cause
+n° AP22.014647-PAE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+F.________
+est né le [...] à Yverdon-les-Bains. Il a grandi à [...] dans une famille d’agriculteurs,
+avec son frère et sa sœur aînés. Après sa scolarité obligatoire, il a appris
+le métier de mécanicien-électricien. En 1996, il a suivi une formation de pilote professionnel,
+domaine dans lequel il a travaillé essentiellement à l’étranger jusqu’en 2010.
+Il a ensuite œuvré dans le domaine nautique, puis s’est occupé pendant deux ans
+de son fils, avant de reprendre une activité dans la planification de personnel dans une industrie
+technique de transport dont il a démissionné en septembre 2016. Il s’est ensuite occupé
+de ses enfants à 100% devenant au surplus [...] de la commune de [...] à un taux situé
+entre 20 et 40 %. Il a rencontré son épouse en 2009 et s’est marié en 2011. Ses
+deux enfants, [...] et [...], sont nés respectivement le 6 novembre 2011 et le 5 juillet 2013. Après
+la révélation des faits, le prévenu a vécu aux [...] jusqu’en janvier 2018,
+avant de prendre un studio à [...], qui constitue toujours son adresse actuelle. Depuis février
+2018 jusqu’à son incarcération, il a travaillé comme chargé de sécurité
+à Genève, à 100%, pour un salaire mensuel brut de 3'500 fr. bruts.
+Le casier judiciaire de l’intéressé ne contient pas d’autre condamnation que celle
+qu’il purge actuellement.
+b)
+Selon l’avis de détention du 9 mars 2021, F.________ purge actuellement une peine privative
+de liberté de 54 mois, sous déduction de 464 jours de détention avant jugement et de trois
+jours à titre de réparation du tort moral subi en raison de conditions de détention illicites,
+selon jugement du Tribunal correctionnel de l’arrondissement de la Broye et du Nord vaudois du
+15 janvier 2021, pour actes d’ordre sexuel avec des enfants, actes d’ordre sexuel commis
+sur une personne incapable de discernement ou de résistance et pornographie. Par ailleurs, le tribunal
+a ordonné à l’endroit du condamné un traitement ambulatoire au sens de l’art.
+63 CP, une interdiction d’exercer toute activité professionnelle et toute activité non
+professionnelle organisée impliquant des contacts réguliers avec des mineurs pour une durée
+de dix ans, ainsi qu’une assistance de probation pour la durée de l’interdiction.
+c)
+Dans ce jugement, il a été, en substance, reproché à F.________, d’avoir, en
+septembre 2017, amené sa fille, [...], alors âgée de quatre ans, à lui toucher son
+sexe, respectivement à le masturber, à plusieurs reprises, jusqu’à l’éjaculation,
+alors que sa fille se trouvait debout entre ses jambes ; d’avoir embrassé sa fille en introduisant
+sa langue dans sa bouche et en avoir fait de même sur son ventre, puis sur ses parties génitales
+; d’avoir mis de la graisse de coco sur les parties génitales de celle-ci ; ainsi que d’avoir
+mis en scène sa fille, afin de capturer des images pédopornographiques, en la mettant nue,
+puis en caressant ses parties génitales et en lui introduisant, à tout le moins partiellement,
+un de ses doigts dans le vagin, avant de se masturber avec l’aide de sa fille. En outre, il a également
+été reconnu coupable d’avoir, en septembre 2013 et mars 2019, ayant à cet égard
+récidivé en cours d’enquête, téléchargé, échangé, enregistré
+et visionné plusieurs dizaine de milliers d’images et de vidéos de pornographie enfantine
+effective ; d’avoir mis en circulation sur le Darknet, deux photographies le représentant
+– avec un visage noirci grâce à un logiciel – en train de commettre des abus sexuels
+à l’encontre de sa fille ; ainsi que de s’être rendu sur des forums du Darknet
+fréquentés par des personnes attirées sexuellement par des enfants afin de se faire envoyer
+des liens pour télécharger et visionner des fichiers de pornographie enfantine, devant lesquels
+il s’est masturbé.
+d)
+Dans le cadre de l’enquête pénale ayant mené au jugement précité, F.________
+a fait l’objet d’une expertise psychiatrique. Dans leur rapport du 10 avril 2019 et son complément
+du 5 février 2020, les experts ont posé le diagnostic de pédophilie, présent au moment
+des faits, impliquant un recours à l’enfant comme satisfaction sexuelle ; ils ont dit que
+cette pathologie devait être considérée comme grave dans la mesure où elle n’était
+pas clairement reconnue et intégrée comme une pathologie lui étant propre et qu’elle
+était associée à des mécanismes d’emprise relationnelle. Une responsabilité
+pleine et entière a été retenue, l’intéressé ayant eu conscience de ses
+actes et ses capacités volitives ayant été préservées. Le risque de récidive
+a pour sa part été qualifié d’élevé pour des infractions de même
+nature et un traitement ambulatoire au sens de l’art. 63 CP, sous forme de suivi spécialisé
+dans la prise en charge des auteurs d’infractions à caractère sexuel, a été
+préconisé afin de contenir ce risque.
+e)
+Par ailleurs, au chapitre de la culpabilité, le tribunal a considéré qu’elle était
+très lourde, retenant en substance à charge que F.________ avait cédé à ses
+pulsions avec sa propre fille, âgée d’à peine plus de quatre ans et ce, à de
+relativement nombreuses reprises et de manière variée, la répétition des actes sur
+une courte période et leur insertion malsaine dans le quotidien n’ayant pu avoir que des conséquences
+profondes sur le développement sexuel et psychique général de l’enfant. Par ailleurs,
+il a été souligné qu’à cela s’ajoutait le traumatisme de l’éclatement
+familial et la culpabilité qui ne manquerait pas de survenir dans l’esprit de la fillette,
+respectivement dans celui de son épouse et de son fils. A décharge, le tribunal a en particulier
+pris en considération la collaboration immédiate de F.________, ses aveux complets et une certaine
+transparence sur ce qui se passait en lui au moment des actes, ainsi que son vécu et sa personnalité,
+respectivement un certain désordre émotionnel durant la période considérée.
+Enfin, il a été relevé une ébauche de prise de conscience et des regrets exprimés
+et apparaissant sincères.
+f)
+Le condamné est incarcéré depuis le 21 octobre 2019. Il a toutefois formellement débuté
+l’exécution de sa peine le 15 janvier 2021, à la Prison du Bois-Mermet, avant d’être
+transféré, le 8 mars 2021, aux Etablissements de la Plaine de l’Orbe (ci-après :
+EPO), lieu où il se trouve toujours actuellement. Il a atteint les deux tiers de sa peine le 6 octobre
+2022. Le terme de sa peine est quant à lui fixé au 6 avril 2024.
+g)
+Par décision du 3 mars 2021, l’Office d’exécution des peines (ci-après : OEP)
+a ordonné le traitement ambulatoire du prénommé auprès du Service de médecine
+et psychiatrie pénitentiaires (ci-après : SMPP), à Prilly. La poursuite de ce traitement
+a été ordonnée par décision de l’OEP du 4 mars 2022.
+h)
+Il ressort du rapport d’évaluation criminologique du 2 juillet 2021 que le niveau de risques
+de récidive générale pouvait être qualifié de faible, le niveau des facteurs
+de protection étant qualifié d’élevé. Quant aux facteurs spécifiques liés
+à la récidive sexuelle, il est apparu que F.________ présentait un niveau de risques se
+situant dans la moyenne, comparativement à l’ensemble des auteurs d’infractions à
+caractère sexuel ayant eu affaire à la justice pénale. Le niveau de risques de fuite a
+pour sa part été qualifié de faible. Dès lors, au regard de la situation du prénommé
+et des facteurs de risques et de protection les plus prégnants, deux axes de travail principaux
+ont été envisagés dans sa prise en charge ; à savoir la poursuite du suivi thérapeutique
+en évitant dans la mesure du possible les changements de thérapeutes, ainsi que la possibilité
+de pouvoir bénéficier de cours ou de formations susceptibles de structurer convenablement son
+temps en détention et de maintenir son actuel niveau de motivation.
+i)
+Le plan d’exécution de la sanction (ci-après : PES) élaboré en août 2021
+et validé par l’OEP le 27 septembre 2021 prévoit les étapes suivantes :
+- phase n° 1 : passage à la Colonie ouverte dès validation du PES ;
+- phase n° 2 : une conduite sociale après trois mois à la Colonie ouverte ;
+- phase n° 3 : régime des congés après une conduite sociale réussie ;
+- phase n° 4 : régime de travail externe (ci-après : TEX) après un premier
+congé de 36 heures réussi ;
+- phase n° 5 : éventuelle libération conditionnelle dès le 6 octobre 2022.
+j)
+Par décision du 27 septembre 2021, en accord avec le PES avalisé précité, l’OEP
+a autorisé le transfert de F.________ en secteur ouvert aux EPO, transfert qui a effectivement eu
+lieu le 21 octobre 2021.
+k)
+Dans un avis du 20 décembre 2021, la Commission interdisciplinaire consultative concernant les délinquants
+nécessitant une prise en charge psychiatrique (ci-après : CIC), se référant à
+l’expertise psychiatrique du 10 avril 2019 et à l’évaluation criminologique du
+2 juillet 2021, relevant la relative précarité socioprofessionnelle de F.________ et constatant
+que le PES réalisé le 27 septembre 2021 l’incitait à poursuivre son engagement thérapeutique
+et proposait un programme d’élargissement progressif faisant une part importante à la
+préparation à une reprise d’emploi, a adhéré à l’application formelle
+de ce projet lui paraissant adapté aux besoins de resocialisation. Cependant, elle a dit rester
+préoccupée par l’enracinement et le caractère complet d’une psychopathologie
+perverse pédophilique, relevant à ses yeux d’une prise en charge exigeante et confrontante
+de type forensique, devant être imposée avec rigueur pendant des années pour laisser espérer
+que l’intéressé parvienne à trouver des aménagements solides pour satisfaire
+sans transgression ni perversion sa sexualité. Elle a ainsi considéré que c’était
+par le constat d’un engagement effectif de F.________ dans le sérieux d’une telle remise
+en question, éventuellement attestée par un complément d’expertise psychiatrique
+pouvant se situer à l’issue du régime de congé, que le programme d’élargissements
+serait à même d’être réglé dans son déroulement pour conjuguer autant
+que possible un retour accompagné et surveillé à la vie sociale, avec l’évolution
+personnelle de l’intéressé et le risque qu’il représentait.
+l)
+Dans un rapport du 30 décembre 2021, le SMPP a indiqué que F.________ bénéficiait
+d’un suivi psychothérapeutique à fréquence mensuelle, qu’il se présentait
+à l’ensemble des entretiens planifiés et les investissait bien, que l’alliance
+thérapeutique pouvait être considérée comme bonne, que le prénommé semblait
+s’exprimer de manière sincère et participait activement au travail introspectif, que
+l’objectif était de lui offrir un espace de parole et de le soutenir dans son parcours carcéral
+éprouvant, mais également d’explorer les délits commis et les mécanismes impliqués,
+et enfin que F.________ voyait un sens dans un suivi psychothérapeutique qu’il trouvait profitable.
+m)
+F.________ a pu bénéficier de deux conduites qui ont été considérées comme
+réussies selon les rapports établis les 26 janvier et 31 mars 2022.
+n)
+Par décision du 24 mars 2022, l’OEP ordonné la réalisation d’un complément
+d’expertise psychiatrique.
+o)
+Dans son rapport du 24 juin 2022, la Direction des EPO a relevé que l’intéressé
+avait un bon comportement au cellulaire, se montrant discret et respectueux du personnel. Quant à
+son attitude au travail, les prestations fournies par F.________ ont été qualifiées de
+très bonnes, étant par ailleurs bien intégré dans l’équipe et apprécié
+de sa hiérarchie. Elle a toutefois émis un préavis négatif à sa libération
+conditionnelle. Sur ce point, elle a considéré que bien que le chef d’atelier du prénommé
+était satisfait par ses prestations au travail, qu’il ne faisait l’objet d’aucune
+sanction disciplinaire et adoptait un comportement adéquat en détention, que les analyses toxicologiques
+effectuées s’étaient révélées négatives à la consommation de
+substances prohibées, qu’il avait réussi les congés, conduites sociales et permissions
+dont il avait bénéficié jusqu’alors, qu’il reconnaissait les infractions pour
+lesquelles il était incarcéré, qu’il s’acquittait des frais de justice et
+remboursait ses indemnités victimes, qu’il s’était engagé par écrit à
+ne pas entrer en contact avec sa victime et sa famille, qu’il bénéficiait du soutien
+de quelques proches, qu’il avait déjà entamé des démarches et obtenu une promesse
+d’embauche dans le cadre du régime de TEX, il était cependant à relever qu’il
+avait commis à plusieurs reprises des infractions d’ordre sexuel avec une aggravation des
+actes perpétrés avec le temps, qu’il présentait un niveau de risque qui se situait
+dans la moyenne comparativement à l’ensemble des auteurs d’infractions à caractère
+sexuel ayant eu affaire à la justice pénale, que dans son avis du 20 décembre 2021, la
+CIC restait notamment « préoccupée par l’enracinement et le caractère complet
+d’une psychopathologie perverse pédophilique… », qu’un complément d’expertise
+psychiatrique avait été ordonné, que, malgré le fait qu’il respectait la planification
+prévue dans le PES, il lui restait encore plusieurs étapes à franchir avant l’octroi
+d’une éventuelle libération conditionnelle, et qu’un élargissement anticipé
+apparaissait, à ce jour, comme largement prématuré.
+Au jour de l’ordonnance attaquée, F.________ n’aurait fait l’objet d’aucune
+sanction disciplinaire et les résultats de ses analyses toxicologiques se sont tous révélés
+négatifs.
+B.
+a)
+L’OEP a saisi le Juge d’application
+des peines, le 9 août 2022, d’une proposition tendant au refus de la libération conditionnelle
+à F.________. A l’appui de celle-ci, cet office a d’abord relevé le comportement
+exempt de tout reproche en détention de l’intéressé, l’absence de sanctions
+disciplinaires, son abstinence attestée à tout produit prohibé, son remboursement des
+indemnités aux victimes et des frais de justice ainsi que sa progression dans le cadre de son exécution
+de peine, en passant par les différentes phases inscrites dans son PES précité, soit un
+passage au secteur ouvert de la Colonie des EPO, deux conduites sociales ainsi que deux congés de
+24h et une permission professionnelle, lesquels s’étaient bien déroulés. De plus,
+il a précisé que le projet professionnel que le condamné avançait semblait concret,
+puisqu’une mesure d’insertion pouvait se mettre en place en régime de travail externe
+ou en libération conditionnelle, et qu’il semblait bénéficier d’un entourage
+socio-familial soutenant. Cela étant, à l’instar de la CIC – laquelle demeurait
+préoccupée par l’enracinement et le caractère complet d’une psychopathologie
+perverse pédophilique de l’intéressé – l’OEP a rappelé que, loin
+de ce tableau idyllique, il restait les actes graves et répétés commis par le prénommé,
+le risque de récidive spécifique qualifié d’élevé par les experts psychiatres
+dans leur rapport du 10 avril 2019 et dans la moyenne par les chargés d’évaluation criminologique
+dans leur rapport du 2 juillet 2021 ainsi que le constat que la problématique d’attirance
+de type pédophile n’avait, à tout le moins en novembre 2021, été abordée
+qu’occasionnellement avec le SMPP. Néanmoins, afin notamment de constater l’engagement
+effectif de F.________ dans le sérieux d’une telle remise en question, cet office a décidé
+de requérir un complément d’expertise psychiatrique auprès du Centre d’expertise
+du CHUV. Ainsi, au vu de ce qui précède et considérant qu’il y avait lieu que le
+retour du prénommé dans la société se fasse par étapes très progressives,
+lesquelles seraient accompagnées d’une prise en charge qui devrait être exigeante et
+confrontante de type forensique, ainsi qu’imposée avec rigueur pendant des années pour
+espérer que le condamné parvienne à trouver des aménagements solides pour satisfaire
+sa sexualité sans transgression ni perversion, l’OEP a estimé, à l’instar
+de la Direction des EPO, qu’une libération conditionnelle était prématurée
+en l’état. Partant, cet office a conclu qu’en fonction du futur complément d’expertise
+psychiatrique, de l’avis de la CIC et de l’avancement de l’exécution de sa peine,
+un nouvel examen pourrait être requis par F.________, précisant d’ailleurs que le solde
+de peine permettait de toute façon un réexamen d’office dans un an.
+b)
+F.________ a été entendu par le Juge
+d’application des peines en date du 22 septembre 2022, assisté de son défenseur d’office.
+A cette occasion, il a en substance déclaré, s’agissant de sa condamnation tout d’abord,
+qu’il considérait que le jugement était juste et qu’il savait, depuis qu’il
+s’était présenté à la police en 2017, qu’il avait engagé un long
+processus judiciaire, essayant de le traverser avec le moins de dégâts possibles. Il a précisé
+qu’avant le jugement, il avait déjà pu bénéficier de nombreux entretiens thérapeutiques
+sur un mode volontaire, qu’il rencontrait désormais un thérapeute une fois par mois en
+détention mais qu’il s’agissait du quatrième depuis le début de sa prise en
+charge. A cet égard, il a précisé que la mise en confiance prenait du temps et qu’il
+fallait à chaque fois recommencer, ce qui rendait le processus long et compliqué. Il a reconnu
+qu’il avait besoin d’avoir un soutien professionnel pour mieux comprendre son fonctionnement
+et lui apporter un regard différent sur celui-ci, sa manière de penser et ses perceptions,
+notamment au niveau de ses émotions. Il a précisé que le thérapeute lui apprenait
+et le guidait sur la gestion de l’équilibre entre le fonctionnel pure et l’émotionnel.
+Quant au risque de récidive, il a expliqué qu’il comprenait que celui-ci soit qualifié
+d’élevé et que c’était pour cette raison qu’il s’investissait
+tant dans son suivi thérapeutique que dans ses relations avec ses proches, ne voulant pas trahir
+à nouveau sa famille. Il a précisé qu’il bénéficiait d’un entourage
+bienveillant, qui mesurait l’ampleur et l’ignominie de ce qu’il avait fait, mais qui
+se refusait de le réduire à ses actes, car il le connaissait aussi dans sa partie fonctionnelle.
+Concernant sa fille, il a déclaré qu’il était primordial pour lui de respecter la
+sphère privée de ses enfants et de son épouse, prenant des précautions pour respecter
+cet engagement et s’en remettant au système de soutien qui l’entourait pour que cela
+se passe bien. Interpellé sur l’avis de la CIC, Il a déclaré que c’était
+abrupt, mais qu’il ne pouvait pas le nier, se reconnaissant dans cette qualification et s’en
+remettant aux personnes qui l’avaient évalué, relevant qu’il était tout de
+même difficile de s’auto-évaluer comme étant un pervers. S’agissant de ses
+projets, il a expliqué qu’il pouvait bénéficier d’une mesure d’insertion
+au CEFIL à Morges et a produit un document en attestant, ayant désormais besoin de se diriger
+vers un milieu professionnel davantage en accord avec ses capacités émotionnelles que cérébrales.
+Il s’est dit conscient du fait que son casier judiciaire pouvait faire peur à un éventuel
+employeur mais convaincu de pouvoir se réinsérer, car il en avait les capacités et qu’il
+existait des employeurs bienveillants. Il a précisé que s’il ne bénéficiait
+pas de la libération conditionnelle, il allait encore perdre du temps pour obtenir un TEX et risquait
+de ne pas pouvoir bénéficier de la mesure d’insertion précitée. Il a expliqué
+qu’en cas de libération, il pourrait bénéficier d’un hébergement d’urgence
+mais que sa mère se porterait garante financièrement, tout comme le CSR cas échéant,
+évoquant la possibilité de prendre un hôtel près de Morges dans un premier temps,
+en lien avec la mesure dont il espérait pouvoir bénéficier. S’agissant de l’interdiction
+prononcée, il a affirmé qu’il n’avait aucune peine à la respecter, n’ayant
+d’ailleurs jamais travaillé dans un domaine avec les enfants. Confronté à la proposition
+de l’OEP, il s’est dit conscient de ce qu’on lui reprochait, relevant cependant que
+le milieu carcéral était dangereux pour lui car cela lui demandait une attention permanente
+afin de ne jamais entrer dans les jeux de pouvoir qui existaient entre les détenus et la hiérarchie,
+précisant que ce milieu ne ferait que continuer à renforcer la carapace qu’il avait été
+obligé de construire. Or, il souhaitait pouvoir la poser et établir des relations plus humaines.
+Concernant le suivi ambulatoire, il a déclaré qu’il le poursuivrait même s’il
+ne lui était pas imposé, sur un mode volontaire. Il s’est enfin dit anéanti d’avoir
+dû attendre aussi longtemps et d’avoir fait autant de mal autour de lui, à ses enfants
+et à sa femme, avant d’être capable de pouvoir parler de ses tendances pédophiliques.
+c)
+Dans un rapport d’expertise psychiatrique
+complémentaire du 5 octobre 2022, les experts du Département de psychiatrie du CHUV ont indiqué
+que F.________ présentait une pédophilie non exclusive de type partiellement égo-dystonique
+et qu’il progressait dans le cadre de sa thérapie, bien que les changements d’intervenants
+pouvaient représenter un frein évolutif ; ils ont estimé que le condamné paraissait
+chercher à modifier certains aspects de son fonctionnement, mais que le processus thérapeutique
+entamé était cependant loin d’être achevé. S’agissant du risque de réitération,
+les experts ont conclu à la persistance d’un risque moyen s’agissant d’infractions
+à caractère sexuel, ne devant cependant pas être considéré comme important ou
+imminent. Ils ont préconisé un suivi stable auprès d’un thérapeute chevronné
+en psychiatrie et psychothérapie forensiques. Ils ont également relevé qu’un suivi
+de probation attentif aux facteurs de stress socio-professionnels et relationnels que l’intéressé
+pouvait rencontrer après sa sortie de détention apparaissait également utile. Quant au
+suivi actuel, les experts ont confirmé que F.________ pouvait en tirer bénéfice, avec
+les limitations qu’imposaient les changements de thérapeutes dans le cadre pénitentiaire.
+Interpellé sur la question de savoir si le comportement et l’évolution du prénommé
+durant ces derniers mois d’incarcération permettaient de prévoir qu’il se conduirait
+correctement en cas de passage en régime de travail externe, de passage en régime de travail
+et logement externe ou de libération conditionnelle, ils ont indiqué que le comportement en
+détention était souvent peu prédictif du risque de récidive, se référant
+pour le surplus à l’évaluation criminologique.
+d)
+Dans un rapport du 22 septembre 2022, le SMPP
+a rappelé la prise en charge dont F.________ avait bénéficié depuis le mois d’octobre
+2017 et indiqué que depuis septembre 2022, les entretiens étaient prévus à fréquence
+bimensuelle. Il a notamment précisé que le prénommé semblait impliqué dans le
+suivi et amenait les réflexions qu’il avait pu construire tout au long de son parcours thérapeutique,
+ainsi que ses préoccupations plus actuelles. Il n’a pas été en mesure de se prononcer
+sur l’alliance thérapeutique, qualifiée de bonne par sa précédente thérapeute,
+puisqu’en cours de construction avec sa thérapeute actuelle. Les objectifs ont été
+décrits comme étant d’accompagner le condamné dans une réflexion concernant
+les actes délictueux et plus particulièrement concernant sa fille, ainsi que le développement
+de ses émotions et la poursuite du soutien dans l’exploration de son fonctionnement psychique.
+Enfin, le SMPP a indiqué que le travail thérapeutique semblait amener des réflexions chez
+F.________, notamment concernant son fonctionnement psychique, l’intéressé se montrant
+désireux d’entreprendre un travail plus approfondi concernant ses actes délictueux.
+e)
+Dans un avis du 17 octobre 2022, la CIC a,
+sur la base des éléments ressortant du rapport d’expertise psychiatrique du 5 octobre
+2022, des informations médicales transmises, et des courriers de l’avocat de F.________, constaté
+que le processus de changement qu’elle recommandait dans son précédent avis n’avait,
+pour l’heure, guère dépassé le stade de prémisses et que l’essentiel
+du travail d’élaboration psychique ou de repérage des facteurs de risques par le prénommé
+demeurait encore à accomplir, réitérant ainsi l’importance de maintenir au cours
+des prochaines phases d’élargissement un cadre thérapeutique exigeant. Ne discernant
+pas d’éléments comportementaux ou d’adaptation susceptible de faire obstacle à
+la mise en œuvre des phases n
+os
+4 et 5 du PES, elle a enfin indiqué que l’opportunité de l’octroi d’une libération
+conditionnelle pourrait être examinée en fonction du recueil d’observations durant la
+phase de travail externe et de la capacité de F.________ à préciser son projet de réinsertion.
+f)
+Dans une écriture spontanée du 21
+octobre 2022, le conseil de F.________ a en substance indiqué que celui-ci avait mis de son côté
+tous les moyens propres à garantir le succès de son élargissement, disposant de nombreux
+atouts professionnels favorables à la recherche d’un emploi avec les conséquences bien
+entendu extrêmement profitables à la bonne exécution de sa libération conditionnelle.
+Il a assuré de la possibilité de pouvoir bénéficier immédiatement d’un
+contrat de location pour un appartement à Renens, indiquant également qu’il s’était
+engagé dans le cadre de la procédure de divorce à respecter une interdiction de périmètre
+à l’endroit de son épouse et de leurs enfants ; le condamné avait également
+préparé consciencieusement son avenir sur le plan personnel et professionnel dès son élargissement,
+en faisant des recherches d’emploi et en s’étant engagé à ne pas entamer une
+quelconque démarche envers ses enfants avant d’avoir une autorisation complète et formelle
+des professionnels concernés. Le conseil de F.________ a par ailleurs rappelé que l’intéressé
+s’était spontanément présenté en septembre 2017 afin d’être hospitalisé
+et avait depuis lors bénéficié de consultations ambulatoires, hebdomadaires puis bimensuelles,
+intégrant par ailleurs un groupe thérapeutique spécialisé pour les auteurs d’infractions
+à caractère sexuel. Il a ainsi rappelé que depuis cette date, F.________ avait spontanément
+suivi des séances de psychothérapie individuelle et de groupe, qu’il poursuivait encore
+actuellement et qu’il poursuivrait une fois son élargissement ordonné. S’agissant
+du rapport d’expertise, il a relevé que même si le processus thérapeutique entamé
+n’était pas encore achevé selon l’expert, il n’en demeurait pas moins que
+l’on devait tenir compte du fait que ce processus avait été engagé il y a plus de
+cinq ans maintenant et qu’il portait ses fruits. Quant au risque de récidive spéciale,
+le conseil de F.________ a rappelé qu’il avait été qualifié de moyen par l’expert,
+à l’instar des conclusions de l’évaluation criminologique, relevant néanmoins
+qu’un élément supplémentaire devait être pris en compte, à savoir l’exigence
+de la prise en charge ambulatoire dont F.________ avait d’ores et déjà admis le principe,
+et l’avait déjà mise en œuvre depuis plusieurs années.
+g)
+Dans une écriture spontanée du 2
+novembre 2022, le conseil de F.________ a en substance indiqué que son client avait minutieusement
+préparé sa libération conditionnelle depuis plusieurs mois contrairement à ce que
+la CIC soutenait en indiquant qu’il n’y avait pas eu de changement de sa part. Il a ainsi
+considéré que la commission semblait oublier que la libération conditionnelle devait être
+prononcée par référence à l’art. 86 CP et non par rapport à l’art.
+62 CP, puisqu’il n’y avait aucune mesure institutionnelle retenue par jugement ; dans ces
+conditions, la jurisprudence du Tribunal fédéral imposait le principe de l’élargissement
+dès qu’un pronostic non défavorable pouvait être posé, même lorsqu’aucun
+pronostic ne pouvait être établi. Il a également relevé qu’en l’absence
+d’une mesure, compte tenu de la durée de la détention subie et des projets mis en place
+par le condamné, on devait douter que les mois supplémentaires de peine privative de liberté
+aient véritablement un effet plus dissuasif s’agissant du risque de récidive que l’obligation
+pour F.________ de devoir faire ses preuves dans le cadre de sa libération conditionnelle.
+h)
+Dans son préavis du 3 novembre 2022, le
+Ministère public a indiqué qu’il préavisait défavorablement à la libération
+conditionnelle de F.________, partageant l’appréciation faite par la CIC dans sa dernière
+séance. Il a relevé qu’il apparaissait ainsi nécessaire d’attendre de pouvoir
+observer le déroulement des opérations à venir lors de la phase de travail externe et
+d’obtenir des précisions quant au projet de réinsertion prévu par le prénommé
+avant d’examiner l’opportunité de lui accorder une libération conditionnelle, la
+prudence étant nécessaire au vu des conclusions de l’expertise psychiatrique du 5 octobre
+2022 selon lesquelles les traits psychopathologiques antérieurement identifiés chez F.________
+étaient toujours présents et produisaient un ensemble de distorsions et de confusions psychosexuelles
+que ce dernier n’était de loin pas encore en mesure d’élucider.
+i)
+Dans ses ultimes déterminations du 9 novembre
+2022, le conseil de F.________ a conclu à la libération conditionnelle de son client. A l’appui
+de ses conclusions, il a en particulier rappelé les conditions mises en place par l’intéressé
+pour garantir la réussite de la dernière phase d’exécution de sa sanction, permettant
+de prévenir tout risque de récidive, aucun des préavis délivrés par les différentes
+autorités concernées n’étant en mesure d’alléguer et de retenir l’existence
+de faits concrets qui s’opposeraient à la libération conditionnelle de F.________ et
+en aucun cas les rapports d’expertise, qui démontraient clairement une évolution extrêmement
+favorable de sa situation personnelle. Il a enfin considéré que l’amélioration de
+la situation personnelle du prénommé, la diminution sensible du risque de récidive constatée
+médicalement, et les conséquences de tout manquement de sa part, avec la réintégration
+comme sanction, étaient autant de garantie dont bénéficierait le Juge d’application
+des peines.
+j)
+Par ordonnance du 14 novembre 2022, le Juge d’application des peines a refusé la libération
+conditionnelle à F.________ (I), a fixé à 3'684 fr. 95 l’indemnité allouée
+à Me Michel Dupuis, conseil d’office de F.________ (II), et a laissé les frais de cette
+ordonnance, comprenant l’indemnité fixée sous chiffre II ci-dessus, à la charge
+de l’Etat (III).
+Le premier juge a relevé que les deux premières conditions posées par l’art. 86
+al. 1 CP étaient réalisées. S’agissant du pronostic, il a énuméré
+les éléments positifs déjà mis en avant par les précédentes autorités
+et déploré l’absence de stabilité dans le suivi thérapeutique découlant
+uniquement du changement permanent des praticiens et dont le recourant n’était pas responsable.
+Toutefois, malgré cette évolution très encourageante, le premier juge a considéré,
+sur la base du rapport d’expertise du 5 octobre 2022 et de l’avis de la CIC, que l’intéressé
+n’avait pas franchi l’entier des phases prévues dans le PES précédant la libération
+conditionnelle. Ainsi, il convenait encore de pouvoir l’observer durant la phase de travail externe
+avant d’entrevoir la dernière phase consistant en une telle libération. Quant au risque
+de récidive, il avait certes diminué depuis la première expertise psychiatrique mais il
+demeurait moyen s’agissant des infractions à caractère sexuel. En définitive, tout
+en reconnaissant être très proche de pouvoir formuler un pronostic favorable, le premier juge
+a relevé qu’il convenait encore de mener à bien la phase du travail externe, qui devrait
+n’être qu’une « formalité », en précisant qu’il était
+loisible à l’intéressé de requérir en tout temps un nouvel examen de la libération
+conditionnelle, soit notamment lorsque de nouveaux éléments permettraient de porter une appréciation
+différente sur sa situation.
+C.
+Par acte du 24 novembre 2022, F.________ a recouru
+contre cette ordonnance en concluant, sous suite de frais, à sa réforme en ce sens que sa libération
+conditionnelle est immédiatement accordée. Subsidiairement, il a conclu à l’annulation
+de cette ordonnance, le dossier de la cause étant retourné au Juge d’application des
+peines qu’il plaira de désigner à la Chambre des recours pénale du Tribunal cantonal
+vaudois, pour complément d’instruction et nouvelle décision dans le sens des considérants
+à intervenir.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+L’art. 26 LEP (loi sur l’exécution des condamnations pénales du 4 juillet 2006
+; BLV 340.01) dispose que, sous réserve des compétences que le droit fédéral attribue
+expressément au juge qui connaît de la commission d'une nouvelle infraction, le juge d'application
+des peines prend toutes les décisions relatives à la libération conditionnelle et statue
+dès lors notamment sur l’octroi ou le refus de la libération conditionnelle (al. 1 let.
+a). Lorsque la durée de la peine privative de liberté prononcée à l’encontre
+du condamné est égale ou supérieure à six ans, le juge d’application des peines
+statue en collège (al. 2).
+En vertu de l’art.
+38 al. 1 LEP, les décisions rendues par le juge d'application des peines et par le collège
+des juges d'application des peines peuvent faire l'objet d'un recours auprès du Tribunal cantonal.
+La procédure est régie par les dispositions prévues aux art. 393 ss CPP (Code de procédure
+pénale suisse du 5 octobre 2007 ; RS 312.0) relatives au recours, par renvoi de l’art. 38
+al. 2 LEP.
+Le recours doit ainsi
+être adressé par écrit, dans un délai de dix jours dès la notification de la
+décision attaquée (cf. art. 384 let. b CPP), à l’autorité de recours (art.
+396 al. 1 CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal
+(art. 13 LVCPP [loi d’introduction du Code de procédure pénale suisse du 19 mai 2009
+; BLV 312.01] ; art. 80 LOJV [loi d’organisation judiciaire du 12 décembre 1979 ; BLV 173.01]).
+1.2
+En l’espèce, déposé en temps utile et auprès de l’autorité compétente,
+par le condamné qui a qualité pour recourir (cf. art. 382 al. 1 CPP), le recours de F.________
+est recevable.
+2.
+2.1
+Le recourant fait valoir qu’il a adopté
+durant sa période de détention un comportement qui ne s’oppose aucunement à son
+élargissement. Il rappelle qu’un traitement ambulatoire au sens de l’art. 63 CP lui
+a été imposé sous forme d’un suivi spécialisé dans la prise en charge
+des auteurs d’infraction à caractère sexuel. Il aurait suivi cette thérapie depuis
+pratiquement cinq ans, d’abord spontanément avant l’exécution de sa peine, puis
+durant celle-ci. Sa prise de conscience aurait été révélée par les premiers
+experts déjà. Il ressortirait en outre du rapport d’expertise du 5 octobre 2022 que les
+thérapies entreprises l’auraient aidé à progresser et en particulier à modifier
+tous les aspects de son fonctionnement. Ce processus aurait porté ses fruits selon l’expert,
+puisque celui-ci aurait estimé qu’un risque de récidive d’actes illicites était
+faible et, s’agissant d’une éventuelle récidive spéciale, le risque serait
+moyen, ce qui démontrerait l’existence évidente d’une évolution très
+favorable. Le recourant invoque également son excellent comportement en détention, qui ressortirait
+clairement du dossier. S’agissant du pronostic, le premier juge aurait admis les éléments
+extrêmement favorables figurant au dossier et il n’y aurait donc aucun élément concret
+susceptible de retenir un risque de récidive. Âgé de 50 ans, il n’avait jamais été
+condamné avant la peine qu’il purge actuellement et on ne pourrait donc lui reprocher d’avoir
+trahi une fois la confiance mise en lui. De surcroît, la direction des EPO aurait relevé qu’il
+avait obtenu une promesse d’embauche et entamé des démarches en vue de sa réinsertion
+professionnelle. L’OEP aurait confirmé que son projet professionnel était concrètement
+avancé et qu’une mesure d’insertion pourrait se mettre en place en régime de travail.
+Par ailleurs il rappelle s’être engagé à ne pas entrer en contact avec sa famille
+devant le juge civil lors de l’audience de son divorce, et à prendre un domicile totalement
+différent du lieu de résidence actuel des siens. Ainsi, le premier juge aurait eu en mains
+toutes les circonstances permettant de fonder un pronostic favorable, notamment les assurances des experts.
+Le refus de sa libération conditionnelle serait donc arbitraire et contreviendrait au contenu du
+dossier. Un tel refus priverait en outre les différentes autorités d’exécution d’exercer
+un quelconque contrôle du comportement futur du recourant dès la fin de sa peine, le 6 avril
+2024. En revanche, en cas de libération conditionnelle, le recourant n’aurait pas d’autre
+choix que de réussir l’épreuve de son élargissement, la menace d’une réintégration
+pour exécuter un solde de 17 mois de détention étant un moyen essentiel de dissuasion
+et de prévention de toute récidive.
+2.2
+Aux termes de l'art. 86
+al. 1 CP, l'autorité compétente libère conditionnellement le détenu qui a subi les
+deux tiers de sa peine, mais au moins trois mois de détention, si son comportement durant l'exécution
+de la peine ne s'y oppose pas et s'il n'y a pas lieu de craindre qu'il ne commette de nouveaux crimes
+ou de nouveaux délits.
+La libération conditionnelle
+constitue la dernière étape de l'exécution de la sanction pénale. Elle est la règle
+et son refus l'exception. Il n'est plus nécessaire, pour l'octroi de la libération conditionnelle,
+qu'un pronostic favorable puisse être posé. Il suffit que le pronostic ne soit pas défavorable
+(ATF 133 IV 201 consid. 2.2). Le pronostic à émettre doit être posé sur la base d'une
+appréciation globale, prenant en considération les antécédents de l'intéressé,
+sa personnalité, son comportement en général et dans le cadre des délits qui sont
+à l'origine de sa condamnation, le degré de son éventuel amendement ainsi que les conditions
+dans lesquelles il est à prévoir qu'il vivra (ATF 133 IV 201 précité consid. 2.2
+et 2.3 ; TF 6B_420/2022 du 6 juillet 2022 consid. 2.1 ; TF 6B_525/2021 du 25 octobre 2021 consid. 2.1).
+La nature des délits commis par l'intéressé n'est, en tant que telle, pas à prendre
+en compte, en ce sens que la libération conditionnelle ne doit pas être exclue ou rendue plus
+difficile pour certains types d'infractions. Toutefois, les circonstances dans lesquelles l'auteur a
+encouru la sanction pénale sont également pertinentes dans la mesure où elles sont révélatrices
+de sa personnalité et donnent ainsi certaines indications sur son comportement probable en liberté.
+En outre, si la libération conditionnelle n'est pas subordonnée à une reconnaissance des
+actes ou de l'illicéité des actes ayant conduit à la condamnation, il s'agit toutefois
+d'un indice qui peut permettre de poser un pronostic sur le comportement futur du condamné en liberté
+(ATF 124 IV 193 consid. 5b/ee, JdT 2000 IV 162 ; TF 6B_259/2014 du 5 juin 2014 consid. 2.5). Au demeurant,
+pour déterminer si l'on peut courir le risque de récidive, inhérent à toute libération
+qu'elle soit conditionnelle ou définitive, il faut non seulement prendre en considération le
+degré de probabilité qu'une nouvelle infraction soit commise mais également l'importance
+du bien qui serait alors menacé. Ainsi, le risque de récidive que l'on peut admettre est moindre
+si l'auteur s'en est pris à la vie ou à l'intégrité corporelle de ses victimes que
+s'il a commis par exemple des infractions contre le patrimoine (ATF 133 IV 201 précité consid.
+2.3 ; ATF 125 IV 113 consid. 2a ; TF 6B_420/2022 précité ; TF 6B_525/2021 précité).
+Le Tribunal fédéral
+exige de procéder à un pronostic différentiel. Il s'agit d'examiner la dangerosité
+de l'auteur et si celle-ci diminuera, demeurera inchangée ou augmentera en cas d'exécution
+complète de la peine. Afin de procéder à un tel pronostic, il sied de comparer les avantages
+et les désavantages de l'exécution de la peine avec la libération conditionnelle (ATF
+124 IV 193 précité consid. 4a et consid. 5b/bb ; TF 6B_525/2021 précité et les arrêts
+cités ; TF 6B_387/2021 du 13 août 2021 consid. 4.1). S'il ne faut pas s'attendre à ce
+que le pronostic s'améliore de manière significative d'ici au terme de l'exécution de
+la peine, la priorité peut être accordée à l'intérêt de la sécurité
+publique au vu de la probabilité de la commission de nouvelles infractions et de l'importance des
+biens juridiques menacés (TF 6B_420/2022 précité ; TF 6B_525/2021 précité
+; TF 6B_387/2021 précité). Il y a également lieu de rechercher si la libération conditionnelle,
+éventuellement assortie d'une assistance de probation et de règles de conduite, ne favoriserait
+pas mieux la resocialisation de l'auteur que l'exécution complète de la peine (ATF 124 IV 193
+précité consid. 4d/aa et bb ; TF 6B_420/2022 précité ; TF 6B_525/2021 précité).
+Il faut pour cela que la libération conditionnelle offre des avantages permettant de trouver une
+solution durable au problème, ou de désamorcer celui-ci, que l’exécution complète
+de la peine n’offrirait pas, et dont on se priverait en y procédant (ATF 124 IV 193 précité
+consid. 4d/bb in initio).
+2.3
+En l’occurrence, F.________ a atteint les deux tiers de sa peine le 6 octobre 2022. La première
+des trois conditions cumulatives posées par l’art. 86 al. 1 CP est ainsi remplie. Le terme
+de sa peine est quant à lui fixé au 6 avril 2024.
+S’agissant de la deuxième condition, la Direction des EPO a relevé que F.________ avait
+un très bon comportement au cellulaire, se montrant discret et respectueux du personnel. Son attitude
+au travail et les prestations fournies ont été qualifiées de très bonnes. Il est
+bien intégré dans l’équipe et apprécié de sa hiérarchie. Par ailleurs,
+F.________ n’a fait l’objet d’aucune sanction disciplinaire et les résultats de
+ses analyses toxicologiques se sont tous révélés négatifs. Partant, la deuxième
+condition posée par l’art. 86 al. 1 CP relative au comportement du condamné en exécution
+de peine est elle aussi réalisée.
+Seule reste donc litigieuse la question du pronostic relatif à son comportement futur. A cet égard,
+il convient tout d’abord de rappeler que la libération conditionnelle est la dernière
+étape du système progressif d’exécution des peines privatives de liberté, précédant
+la libération définitive. Il s’agit donc d’une modalité d’exécution
+– et non d’un droit, ni d’une faveur accordée au détenu – qui a pour
+but de concilier au mieux la sortie du condamné avec la sécurité publique.
+En l’espèce, on relèvera que le condamné s’est spontanément dénoncé
+en septembre 2017 en sollicitant une hospitalisation, n’arrivant plus à porter le poids de
+sa culpabilité et ayant été dans l’incapacité jusqu’alors d’aborder
+ses pulsions sexuelles pédophiliques avec un professionnel, pensant pouvoir les contenir sans aide
+extérieure. Incarcéré depuis octobre 2019 suite à une récidive en matière
+de pornographie en cours d’enquête et alors que le risque de récidive avait été
+qualifié d’élevé pour des infractions d’ordre sexuel par les experts dans
+leur rapport du 10 avril 2019, F.________ s’est conformé en détention à ce
+qui était attendu de lui et a ainsi effectué les trois premières étapes de son PES.
+On relèvera également que le prénommé a admis la totalité des actes qui lui
+étaient reprochés, de même que la sanction infligée. Il a par ailleurs expliqué
+qu’il mettait tout en œuvre pour exclure toute récidive. Sur cette question, le Juge
+d’application des peines a rappelé que dans le premier rapport d’expertise psychiatrique
+du 10 avril 2019, le risque de récidive spéciale avait été qualifié d’élevé,
+un traitement ambulatoire au sens de l’art. 63 CP ayant été préconisé
+afin de contenir ce risque ; en 2021 ce risque avait toutefois diminué puisqu’il se situait
+dans la moyenne comparativement à l’ensemble des auteurs d’infractions à caractère
+sexuel ayant eu affaire à la justice pénale. Quant au rapport d’expertise du 5 octobre
+2022, il qualifie le risque de récidive spéciale de moyen, ne devant cependant pas être
+considéré comme important ou imminent. On peut ainsi suivre le recourant lorsqu’il soutient
+que la mesure thérapeutique porte ses fruits, le risque de récidive spéciale étant
+passé d’élevé à moyen. Il ressort par ailleurs du dossier que l’intéressé
+s’investit dans son traitement thérapeutique et qu’il en perçoit la nécessité
+dès lors qu’il a exprimé sa volonté de continuer à bénéficier d’une
+prise en charge psychothérapeutique sur un mode volontaire dans l’hypothèse où elle
+ne devait pas être ordonnée, ce qui démontre qu’il est conscient qu’il reste
+du travail à accomplir. On rappellera que le rapport d’expertise du 5 octobre 2022 fait mention
+d’un processus thérapeutique entamé mais loin d’être achevé.
+Par ailleurs, F.________ présente des projets de vie concrets. En effet, il a démontré
+qu’il pouvait bénéficier à brève échéance d’une mesure de réinsertion
+et il a débuté des recherches d’emploi ; il a également allégué,
+mais pas établi, la possibilité d’avoir un appartement propre, loin de celui des siens,
+pour lequel il explique pouvoir être soutenu par sa mère et par le CSR. Son divorce est sur
+le point d’être prononcé et il a accepté, dans le cadre d’une convention,
+de respecter une interdiction de périmètre et de ne pas reprendre contact avec ses enfants
+tant que les différents professionnels en charge de leurs suivis ne l’y autorisaient pas.
+Certes, les éléments précités sont positifs et encourageants mais il convient toutefois
+d’être prudent. En effet, dans leur dernier rapport du 5 octobre 2022, les experts ont indiqué
+que le comportement en détention était souvent peu prédictif du risque de récidive,
+se référant à l’évaluation criminologique. De son côté, la CIC a
+considéré que le processus de changement qu’elle préconisait dans son précédent
+avis n’avait guère dépassé le stade des prémisses et que l’essentiel
+du travail d’élaboration psychique ou de repérage des facteurs de risques par F.________
+demeurait encore à accomplir. Elle a ainsi répété l’importance de maintenir
+au cours des prochaines phases d’élargissement un cadre thérapeutique exigeant et a préconisé
+la réussite des phases n
+os
+4 et 5 du PES avant tout élargissement anticipé. Pour sa part, le Ministère public a déclaré
+qu’il apparaissait nécessaire d’attendre de pouvoir observer le déroulement des
+opérations à venir lors de la phase de travail externe et d’obtenir des précisions
+quant au projet de réinsertion prévu par le prénommé avant d’examiner l’opportunité
+de lui accorder une libération conditionnelle.
+Au vu de ce qui précède, et même si tous les intervenants concluent à une évolution
+favorable de F.________, tant s’agissant de son comportement en détention, de l’acceptation
+de sa condamnation, de ses démarches professionnelles, que dans l’investissement de son suivi
+psychothérapeutique, on ne peut pas mettre de côté l’existence d’une pathologie
+de pédophilie qualifiée de grave par les experts s’étant prononcés récemment
+dans le cadre de la procédure pénale (en 2019 et 2020) et confirmée par le nouvel expert
+dans son rapport du 5 octobre 2022. En outre, comme rappelé plus haut, la CIC – dont le rapport
+est traité comme l’avis d’un expert ou un rapport officiel (cf., pour l’art. 62d
+al. 2 CP : TF 6B_690/2022 du 13 juillet 2022 consid. 1.2 ; TF 6B_1483/2020 du 15 septembre
+2021 consid. 3.1.3 et les références citées) – a souligné dans son avis du
+19 octobre 2022 que l’essentiel du travail d’élaboration psychique ou de repérage
+des facteurs de risques par l’intéressé demeurait encore à accomplir, qu’il
+était important de maintenir au cours des prochaines phases d’élargissement un cadre
+thérapeutique exigeant et que c’est en fonction du recueil d’observations durant la
+phase de travail externe et de la capacité de l’intéressé à préciser son
+projet de réinsertion que pourrait être examinée l’opportunité de l’octroi
+d’une libération conditionnelle. Partant, au vu de la nature des biens à protéger,
+il est essentiel de ne pas brûler les étapes et il est en l’état primordial de mener
+à leur terme les phases prévues dans le PES, en particulier celle du travail externe.
+C’est donc à juste titre que le Juge d’application des peines a considéré,
+malgré les progrès manifestes réalisés par le recourant, que le pronostic, y compris
+différentiel, était défavorable et qu’il a refusé la libération conditionnelle,
+le processus thérapeutique de F.________ n’étant pas abouti. Il appartiendra ainsi au
+recourant de continuer à s’investir dans son suivi et de se conformer à l’avis
+de la CIC qui a préconisé la réussite des phases n
+os
+4 et 5 du PES avant tout élargissement anticipé.
+3.
+En définitive, le
+recours doit être rejeté et l’ordonnance entreprise confirmée.
+Les frais de la procédure
+de recours, constitués en l'espèce de l'émolument d'arrêt, par 2’310 fr. (art.
+20 al. 1 TFIP [Tarif des frais de procédure et indemnités en matière pénale du 28
+septembre 2010 ; BLV 312.03.1]), et des frais imputables à la défense d'office (art. 422 al.
+1 et 2 let. a CPP), fixés à 720 fr. sur la base d’une durée d’activité
+nécessaire d’avocat de 4h00, au tarif horaire de 180 fr., auxquels il convient d’ajouter
+des débours forfaitaires à concurrence de 2 % (art. 3bis al. 1 RAJ [Règlement sur l’assistance
+judiciaire en matière civile du 7 décembre 2010 ; BLV 211.02.3], applicable par renvoi
+de l’art. 26b TFIP), par 14 fr. 40, et la TVA, par 56 fr. 55, soit à 791 fr. au total, en
+chiffres arrondis, seront mis à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Le remboursement à
+l’Etat de l’indemnité allouée au défenseur d’office du recourant ne
+sera toutefois exigible que pour autant que la situation financière de ce dernier le permette (art.
+135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 14 novembre
+2022 est confirmée.
+III.
+L’indemnité allouée au défenseur d’office de F.________ est fixée à
+791 fr. (sept cent nonante-et-un francs).
+IV.
+Les frais d’arrêt, par 2'310 fr. (deux mille trois cent dix francs), ainsi que l’indemnité
+du défenseur d’office du recourant, par 791 fr. (sept cent nonante et un francs), sont mis
+à la charge de F.________.
+V.
+Le remboursement à l’Etat
+de l’indemnité allouée au chiffre III ci-dessus ne sera exigible que pour autant que
+la situation financière de F.________ le permette.
+VI.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Michel Dupuis, avocat (pour F.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Juge d’application des peines,
+-
+Mme la Procureure de l’arrondissement du Nord vaudois,
+-
+Office d’exécution des peines (OEP/PPL/156187/VRI/NJ),
+-
+Direction des EPO,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
