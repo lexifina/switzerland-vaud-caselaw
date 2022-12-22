@@ -1,0 +1,833 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___33"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 33"
+decided: "2022-12-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9182401"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-189.md", "switzerland/bund/acts/311.0/art-190.md", "switzerland/bund/acts/311.0/art-191.md", "switzerland/bund/acts/311.0/art-198.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2023 / 33
+
+## Regeste
+
+IN DUBIO PRO DURIORE, ORDONNANCE DE CLASSEMENT, ADMISSION DE LA DEMANDE, ACTE D'ORDRE SEXUEL SUR UN INCAPABLE DE DISCERNEMENT | 191 CP, 319 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 22.12.2022 Décision / 2023 / 33
+
+IN DUBIO PRO DURIORE, ORDONNANCE DE CLASSEMENT, ADMISSION DE LA DEMANDE, ACTE D'ORDRE SEXUEL SUR UN INCAPABLE DE DISCERNEMENT | 191 CP, 319 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+983
+PE22.001012-MNU
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+22 décembre 2022
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Meylan et Perrot, juges
+Greffier
+:              M.
+Valentino
+*****
+Art.
+191 CP ; 319 al. 1 CPP
+Statuant sur le recours interjeté le 25 octobre 2022 par
+D.________
+contre l’ordonnance de classement rendue le 11 octobre 2022 par le Ministère public de l’arrondissement
+de La Côte dans la cause
+n° PE22.001012-MNU
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le
+13 juillet 2021, D.________, née le [...] 2000, domiciliée chez ses parents à [...], a
+contacté par téléphone la police pour signaler qu’elle avait, la veille, été
+abusée sexuellement par un collègue de travail ; la jeune femme, en pleurs, a demandé
+l’intervention d’une patrouille au domicile de son petit ami, à [...]. Arrivés
+sur place, les policiers ont rencontré D.________, qui était accompagnée d’un ami,
+X.________, et d’une voisine de palier, [...]. Questionnée sur les faits, D.________ a expliqué
+qu’elle travaillait en tant qu’apprentie vendeuse auprès du magasin [...], qu’environ
+trois mois auparavant, elle s’était liée d’amitié avec un collègue de
+travail, F.________, qui était également vendeur, et que le lundi 12 juillet 2021, elle avait
+invité ce dernier à passer la soirée chez elle, soit au domicile de ses parents où
+elle habitait, afin de regarder un film. Le soir en question, alors qu’ils se trouvaient sur le
+canapé, seuls dans l’appartement, F.________ avait commencé à l’enlacer, mais
+elle n’avait rien dit. Puis, il s’était mis à lui toucher les seins et le ventre,
+ce à quoi elle avait réagi en lui disant qu’elle ne voulait pas qu’il la touche.
+Il avait donc cessé et le reste de la soirée s’était déroulée normalement.
+En fin de soirée, elle lui avait proposé de dormir dans sa chambre, dans son lit à deux
+places. Avant de dormir, elle avait laissé sa culotte et son top. Au milieu de la nuit, alors qu’elle
+était endormie, elle s’était réveillée et avait senti qu’il avait sa
+main dans sa culotte et qu’il avait glissé l’extrémité de ses doigts dans
+son vagin. Prise de panique, elle s’était redressée assise dans le lit et F.________
+avait fait mine de se tourner pour s’endormir. Le lendemain, F.________ avait déjeuné
+et quitté le domicile. Quant à D.________, elle ne s’était pas lavée et n’avait
+pas changé de vêtements, mais elle s’était rendue à [...] car elle ne voulait
+pas rester seule à son domicile (P. 6).
+Il ressort en outre d’un message que F.________ a adressé à D.________ le 13 juillet
+2021 que celui-ci lui a relaté, à sa demande, les événements de la nuit tels qu’il
+les a vécus, par ces termes (cf. pièce à conviction n° 42223) : «
+(…)
+je savais pas que tu dormais en fait, tu as même dit "F.________" plusieurs fois avant,
+alors pour moi tu étais réveillée et tu voulais me chauffer (…) ».
+Le lendemain, soit le 14 juillet 2021, D.________ a recontacté la police pour l’informer qu’elle
+avait consulté le Centre LAVI le matin même et qu’elle préférait s’entretenir
+avec un avocat avant de prendre d’autres mesures, de sorte que son audition par la police prévue
+à 14h00 n’a pas eu lieu. Dans un second message que F.________ lui a envoyé le 14 juillet
+2021, il lui a présenté ses excuses et lui a affirmé qu’il n’aurait rien tenté
+s’il n’avait pas pensé qu’elle était consciente et qu’elle-même
+voulait quelque chose de lui.
+b)
+Par
+courrier du 14 janvier 2022 adressé au Ministère public de l’arrondissement de La Côte
+(ci-après : le Ministère public ou la procureure), l’avocate Anne-Claire Boudry
+a informé ce dernier qu’elle était consultée par D.________ et que celle-ci entendait
+déposer plainte pénale contre F.________ pour contrainte sexuelle, actes d’ordre sexuel
+commis sur une personne incapable de discernement ou de résistance ou toute autre infraction qui
+pourrait être envisagée en raison des
+« faits
+qui se sont produits chez elle, [...] durant la nuit du 12 au 13 juillet 2021 »
+et vouloir participer à la procédure comme demanderesse au pénal et au civil, se réservant
+de faire valoir des prétentions civiles qui seraient chiffrées et motivées ultérieurement
+(P. 4). A ce courrier était annexé un document, non daté, écrit par D.________ mais
+non signé, décrivant les faits litigieux en ces termes (P. 5/1) :
+« (…)
+La soirée a commencé vers 19h30. Quand il [ndr F.________] est arrivé il a d’abord
+pris une douche. (…) Puis nous avons command[é] des pizzas. Et après on a commencé
+à regarder Le Seigneur des anneaux. (…) Je m’étais couché[e] sur la longueur
+du canapé. Et il a commenc[é] à se rapprocher de moi. Je n’ai d’abord rien
+dit car cela ne me dérangeait pas il était dans les limites. Puis il s’est couché
+également sur la longueur du canapé derrière moi et nous étions collé[s]. J’étai[s]
+fatiguée et je m’en fichais un peu car il savait que j’avais déjà quelqu’un
+et que nous étions fiancé[s]. Puis il a mis sa main sur ma hanche et j’ai di[t] que je
+n’aimais pas ça. Il a immédiatement retiré sa main et a mis plus de distance. (…)
+J’ai continué à regarder le film et je me suis plongée dedans (dans le film). Et
+sans m’en rendre compte il avait mis sa main sur mon sein. Je lui ai fait la remarque et il l’a
+enlevé[e] en s’excusant. Il a dit qu’il ne voulait pas il ne s’en était pas
+rendu compte et qu’il était désolé. Je l’ai cru. Puis j’ai mis plus
+de distance (…). Vers les environs de 1 heur[e] du matin peut-être 2 heur[es] du matin, je
+ne m’en souviens plus vraiment et je ne voulais pas qu’il prenne la route à cette heure-là
+car lui aussi paraissai[t] fatigué, et il aurait dû conduire jusqu’en France. A vrai
+dire je ne me souviens plus vraiment à partir de là. Je me souviens que je tombais presque
+de fatigue je n’avais pas la force ni l’envie de faire la chambre d’ami… Je m’en
+veux énormément. (…) je lui ai demand[é] si ça le dérangeait de dormir
+dans le même li[t] que moi. J’ai un li[t] à deux place[s] et je savais que nous ne nous
+collerions pas dans ce lit car il ne manquait pas de place. Il a dit que cela ne le dérangeait pas.
+(…) je me suis endormie on était chacun d’un côté du li[t]. (…) Je me
+suis réveillée quand j’ai senti que quelque chose me touchait. Il avait mis sa main dans
+ma culotte et caressait mes parties intimes, je n’arrivais pas à bouger ni à parler.
+J’avais peur de réagir je ne sais pas combien de temps cela a dur[é] mais il a commencé
+à vouloir enfoncé son doigt dans mon vagin et seulement là j’ai réussi à
+bouger. Je me suis assise et prenant mon souffle très fort. Il s’est immédiatement tourné
+et a fait comme s’il dormait. Comme s’il ne s’était absolument rien passé.
+Je n’ai pas osé parler ou faire quelque chose. Je suis restée assise et je n’osais
+pas bouger. (…) J’ai voulu prendre mon natel mais il n’avait plus de batterie et mon
+chargeur était resté à [...] chez S.________. Je n’arrivais pas à faire quoi
+que ce soit j’avais peur et j’avais peur de [c]e qu’il pouvait faire si je lui disais
+quelque chose. (…) je ne pense même pas avoir dormi cette nuit-là. Le matin (…)
+il s’est levé et moi aussi il souriait. (…) Il s’est préparé à
+partir et m’a dit je préfère ton sein gauche il est plus gros. Je ne me suis pas senti[e]
+bien du tout je lui ai dit "quoi ?!" et il m’a répondu "non, je rigole
+je ne t’ai pas touché[e]". Il est parti peu de temps après ça. Je ne voulais
+pas rester là et je suis parti[e] à [...] chez S.________. (…) Voilà ce qu’il
+[s]’est pass[é]. Je suis désolée de ne pas avoir écrit cela plus tôt mai
+je n’arrivais pas. C’était trop dur pour moi ».
+La plaignante a également produit, à
+l’appui du courrier de son conseil, un document de l’Hôpital de [...] dont il ressort
+qu’elle a consulté en urgence le service gynécologique le soir du 13 juillet 2021, puis
+les 23 juillet et 24 août suivants (P. 5/2). A la date du 13 juillet 2021, il est fait état
+de ce qui suit :
+« patiente
+(…) adressée par la police pour constat d’agression sexuelle (…) (ira porter plainte
+le 14). Agresseur connu, collègue de travail. Faits survenus la nuit du 12 au 13.07, heure inconnue.
+(…) Connue pour hymen trop épais, intervention prévue le 23.08 (…). Trouble de
+l’humeur, sous [nom du médicament illisible, ndr], stoppé il y a un mois (…). Patiente
+vierge (hymen trop épais) relations orales et anales (dernière fois il y a 2 semaines) avec
+son copain. (…) Patiente s’est réveillée au milieu de la nuit, main du collègue
+dans sa culotte avec tentative de pénétration digitale (ne sait pas si a réussi). Patiente
+pétrifiée, avait peur de sa réaction, s’est assise dans le lit et s’est éloignée,
+n’a rien réussi à dire. Lui s’est tourné et mis au bord du lit en faisant
+semblant de dormir. Se sont réveillés vers 8h, il lui a dit qu’elle "l’avait
+chauffé". (…) status gyn : vulve sans particularité, hymen épaissi avec
+perforation d’environ 1 cm, pertes visibles sp. (…) prélèvement à la recherche
+d’ADN sur vulve, urètre, hymen et anus. (…) »
+.
+A la date de la consultation du 23 juillet 2021, il est mentionné ce qui suit :
+« Toujours
+émotionnellement perturbée par ce qui lui est arrivé. A pu en parler à une amie qui
+l’accompagne aujourd’hui et qui la soutient. Démarche en cours avec police + avocate.
+N’a pas encore déposé plainte. Verra sa psy la semaine prochaine. N’a pas envie
+d’en reparler (…) »
+. Enfin,
+à la date du 24 août 2021 figure la signature du médecin assistant sous la mention
+« Constat
+d’agression signé par moi-même et Dr [nom illisible, ndr] »
+.
+Les tests de dépistage effectués par D.________ le soir des faits litigieux se sont tous révélés
+négatifs.
+c)
+Le 31 janvier 2022, la procureure a décidé
+de
+l’ouverture d’une instruction pénale contre F.________ pour avoir, à [...], dans
+la nuit du 12 au 13 juillet 2021, commis des attouchements à caractère sexuel à l’endroit
+de D.________ lorsqu’ils se trouvaient tous les deux devant la télé, puis, alors qu’elle
+était endormie dans le lit, avoir profité pour introduire sa main dans sa culotte et caressé
+ses parties intimes, en tentant d’introduire son doigt dans le vagin de la jeune femme, et a adressé
+un mandat d’investigation à la police, celle-ci étant chargée de procéder notamment
+à l’audition de D.________, de F.________ et de
+« toute
+personne à même d’apporter des éléments utiles à l’enquête »
+(PV
+des opérations, p. 2 ; P. 7).
+d)
+Le
+même jour, le Ministère public a accordé l’assistance judiciaire à D.________
+et désigné Me Anne-Claire Boudry en qualité de conseil juridique gratuit.
+e)
+Entendue
+par la police le 11 mars 2022 (PV aud. 2), D.________ a en substance confirmé ses précédentes
+déclarations. S’agissant de l’épisode de la chambre à coucher, en particulier
+concernant le moment où F.________ a mis une main dans sa culotte, elle a déclaré ce qui
+suit :
+« J’étais
+sur le dos, il me semble, de mon côté du lit, vers le bord. Je ne pouvais pas être plus
+au bord. Quand je me suis réveillée, il avait sa main là où il ne fallait pas. C’était,
+à nouveau, sa main gauche. Il était à côté de moi, couché sur son flanc
+droit. De base, j’étais pétrifiée, j’avais peur, je ne bougeais pas je ne
+sais pas comment expliquer ça, je ne sais pas quel doigt c’était, il montait et il descendait
+là où il ne faut pas. Depuis le clitoris jusqu’au gros trou. Pour vous répondre,
+c’était à même la peau. A cette époque-là, j’avais encore un hymen.
+J’ai réagi et je me suis assise d’un coup. Il est allé dedans et il voulait rentrer
+avec son doigt. Il a enlevé sa main et s’est retourné comme si de rien n’était.
+Pour vous répondre, je ne peux pas vous dire combien de temps cela a duré, pour moi c’était
+une éternité, mais je ne crois pas que c’était plus d’une minute »
+.
+Interrogée sur les raisons pour lesquelles elle avait décidé de déposer plainte pénale
+en janvier 2022, elle a déclaré que depuis les faits, elle n’avait pas arrêté
+de faire des cauchemars, qu’elle réagissait mal au stress, qu’elle avait peur de faire
+du mal au prévenu, de détruire sa vie, que cela se retourne contre elle et d’être
+confrontée à lui au tribunal, qu’elle avait eu besoin de beaucoup parler avec son avocate,
+que c’était pour cela qu’elle avait pris du temps avant de déposer plainte pénale
+et qu’elle voulait
+« juste
+qu’il soit fiché
+»
+et qu’il ne fasse pas du mal à quelqu’un d’autre. Concernant son état de
+santé au moment des faits, elle a expliqué qu’elle
+était
+soignée pour une dépression nécessitant la consommation de médicaments, soit notamment
+deux prises de Xanax matin et soir, et que la nuit en question, elle avait oublié de prendre sa
+médication.
+N
+é le[...] 1993, célibataire,
+F.________,
+sans
+antécédents pénaux,
+a été
+e
+ntendu par la police le 7 avril
+2022 en qualité de prévenu, assisté de son défenseur d’office, Me Aesane Ziegler
+(PV aud. 1). A cette occasion, confronté à la version de D.________, il a confirmé
+les déclarations de cette dernière concernant les faits survenus au salon le soir du 12 juillet
+2021, précisant toutefois que lorsqu’ils étaient couchés sur le canapé, tournés
+vers la télévision, le dos de la prénommée contre lui, à aucun moment celle-ci
+ne l’avait repoussé physiquement ou verbalement, mais qu’au contraire elle lui avait
+fait des caresses sur le bras et sur la main, se montrant participative et à l’aise, qu’à
+deux occasions, il avait touché son sein avec son avant-bras et qu’il n’était pas
+impossible qu’il ait mis sa main sur son sein, mais qu’elle n’avait ressenti aucune
+gêne et ne l’avait pas non plus repoussé et qu’il ne s’était pas excusé,
+contrairement à ce qu’elle avait affirmé. S’agissant de l’épisode dans
+la chambre de D.________, il a
+expliqué que,
+selon lui, cette dernière s’était vite endormie après qu’ils s’étaient
+souhaités une bonne nuit, puisqu’il entendait une respiration régulière. Ensuite,
+D.________ aurait eu trois séries de mouvements de nature indéterminée qu’il aurait
+interprétés comme
+« des
+spasmes intentionnels dans le but de se rapprocher de [lui] »
+.
+Après une première série de
+« spasmes »
+au cours desquels elle aurait réduit la distance qui la séparait de lui, immobile dans sa portion
+de lit, jusqu’à le toucher au niveau des pieds et poser une main sur son torse, elle serait
+repartie de son côté, reprenant sa position initiale. Les
+« spasmes »
+auraient repris une deuxième fois, plus rapides et plus saccadés. Dans ces circonstances, elle
+aurait placé une jambe sur les siennes, touché son ventre avec un bras et posé sa tête
+sur son bras. Un peu interloqué, il serait encore une fois resté presqu’immobile. A la
+troisième approche
+« sous
+forme de spasmes »
+, la tête de
+la plaignante se serait retrouvée très proche de la sienne et sa main, sur son short, tout
+proche de son entre-jambe. En outre, la plaignante aurait chuchoté le prénom de F.________.
+Persuadé que D.________ était bien réveillée et qu’elle manifestait le désir
+d’un contact physique par cette technique de rapprochement, il aurait entrepris de la caresser,
+décrivant ses propres gestes en ces termes : «
+Là
+je me dis que c’était la troisième fois qu'elle tentait un truc, donc je la caressais
+avec ma main gauche au niveau de la tête, des épaules et des bras. (…) Je lui touche
+donc ensuite les seins à même la peau, toujours avec ma main gauche. Je malaxe son sein de
+façon très sensuelle et pas du tout de façon sauvage. (…) sa respiration est différente
+et je me dis que ce n’est pas possible qu’elle soit en train de dormir. Pour moi, elle gémissait
+de manière sensuelle aussi. Elle continuait à dire mon prénom. (…)
+Je suis donc ressorti du t-shirt
+et je suis arrivé sur sa hanche et donc sa fesse droite toujours en faisant des caresses. Je précise
+que je lui ai pris la fesse avec ma main et que ce n’était plus une caresse, mais j’avais
+une main posée sur sa fesse, toujours en douceur. (…) J’ai ensuite mis ma main sous
+sa culotte mais pas encore sur son sexe. Là, j’entends toujours sa respiration qui est lente
+et forte ainsi que ses gémissements et mon prénom. Du coup dans ma tête et qui était
+logique, c’est qu’elle était bien et qu’on pouvait aller plus loin, que cela allait
+se concrétiser. (…) Je me dis donc c’est parti et je descends le majeur sur son clitoris.
+(…) Du coup, je l’entends complètement gémir et être « open ».
+(…) Je descends donc encore un peu et je mets la moitié de mon majeur dans son vagin durant
+une ou deux secondes. A ce moment-là, il s’est passé un truc qui m’a surpris, soit
+elle s’est rassise très rapidement. J’ai donc retiré ma main et on ne s’est
+rien dit. J’étais complétement sous le choc et je ne comprenais pas ce qui se passait.
+Je voyais qu’elle avait le regard complètement dans le vide. Elle regardait le mur au pied
+du lit ».
+Entendu le 17 mai 2022 par la police en qualité
+de personne appelée à donner des renseignements, S.________, l’ami intime de la plaignante,
+a déclaré avoir constaté chez sa compagne, avant les événements litigieux, des
+« spasmes »
+en cours de journée. Ces
+« spasmes »
+auraient cessé en mai ou juin 2021, à la faveur d’un changement de médication. S.________
+aurait également été le témoin de cinq crises de somnambulisme de la part de D.________,
+la dernière remontant à début mai 2022, au cours de laquelle elle se serait levée
+dans le lit, lui aurait posé une question et se serait rendormie.
+f)
+Par
+courrier de son conseil du 1
+er
+septembre 2022 (P. 18/1), adressé dans le délai de prochaine clôture, D.________ a requis
+l’audition en qualité de témoin de X.________ et qu’il soit procédé à
+la mise en accusation de F.________. Elle a par ailleurs produit deux rapports médicaux, l’un
+de la Dre [...], médecin adjoint psychiatre au sein de la Clinique [...], du 23 août 2022,
+et l’autre de [...], psychologue spécialiste en psychothérapie, du 24 août 2022.
+Dans son rapport, la Dre [...] a expliqué qu’elle suivait D.________ depuis le 11 mars 2021,
+que celle-ci avait relaté
+« de
+manière peu précise un attouchement par un collègue de travail qu’elle aurait vécu
+dans la maison parentale la nuit du 12 au 13 juillet 2021 »
+,
+qu’elle n’était pas en mesure de dire quelles conséquences ces faits avaient eues
+sur la santé psychique de sa patiente, celle-ci étant
+« suivie
+dans le contexte d’un trouble de l’adaptation avec réaction anxieuse et dépressive
+prolongée ainsi que pour un PTSD (stress post-traumatique, ndr) complexe depuis début 2021 »
+(P. 18/3). [...] a quant à elle confirmé
+qu’il était
+« difficile
+d’établir un lien direct entre les faits dénoncés et les symptômes de D.________,
+au vu du contexte général de l’état psychique de [la] patiente »
+,
+tout en précisant que de tels événements
+« avaient
+certainement un impact psychique sur la personne »
+,
+sans qu’il soit possible d’établir un pronostic à long terme, et que la prénommée
+avait exprimé avoir été fortement ébranlée et éprouvée par les faits
+relatés (P. 18/2). Des notes retranscrivant le récit de la patiente relaté lors de son
+entretien du 28 juillet 2021 avec la psychologue étaient annexées au rapport de cette dernière ;
+leur contenu correspond à celui de la plainte et des déclarations de D.________ à la police
+(P. 18/2, annexe).
+B.
+Par ordonnance du 11 octobre 2022,
+le Ministère public a classé la procédure pénale dirigée contre F.________
+pour
+désagréments causés par la confrontation à un acte d’ordre sexuel et actes
+d’ordre sexuel commis sur une personne incapable de discernement ou de résistance
+(I), et a statué sur les pièces à conviction ainsi que sur les indemnités et les
+frais (II à VI).
+La procureure a rejeté les réquisitions de preuve (audition d’un témoin) de la plaignante.
+Sur le fond, elle a retenu que les faits survenus au salon du domicile parental de D.________ le soir
+du 12 juillet 2021 étaient constitutifs de contravention au sens de l’art. 198 al. 2 CP (désagréments
+causés par la confrontation à un acte d’ordre sexuel) et que, partant, la plainte déposée
+le 14 janvier 2022, soit plus de trois mois après les faits, était tardive, de sorte qu’u
+n
+classement devait être rendu en faveur de F.________ sur ce point de l’instruction, en application
+de l’art. 319 al. 1 let. d CPP. Quant à l’épisode de la chambre de D.________,
+elle a considéré
+que
+dans la mesure où il avait été établi que cette dernière souffrait de dépression,
+qu’elle prenait des médicaments et qu’elle avait des
+« spasmes »
+ainsi que des accès de somnambulisme, l’
+intention
+chez le prévenu de profiter du sommeil de la plaignante pour lui faire subir un acte d’ordre
+sexuel n’était pas établie à satisfaction de droit. En conséquence, il y avait
+lieu de mettre F.________ au bénéfice de ses déclarations, selon lesquels il était
+persuadé d’avoir affaire à une partenaire éveillée et consentante au moment
+de l’acte. Rien au dossier ne permettait de contredire cette version des faits. En particulier,
+il ne ressortait de l’instruction aucun élément ou comportement pouvant laisser penser
+que le prévenu, qui n’avait pas insisté pour partager la couche de la plaignante ou pour
+l’alcooliser, aurait agi avec préméditation, brusquerie ou précipitation. Par conséquent,
+un classement devait également être rendu sur ce point de l’instruction en faveur du
+prévenu, en application de l’art. 319 al. 1 let. b CPP.
+C.
+Par acte du 25 octobre 2022, D.________
+a recouru contre cette ordonnance en concluant, avec suite de frais et dépens, à son annulation
+et au renvoi de la cause au Ministère public pour qu’il complète l’instruction
+en entendant X.________ puis rende un acte d’accusation à l’encontre de F.________.
+Par déterminations du 15 décembre 2022, soit dans le délai imparti à cet effet, F.________
+a conclu au rejet du recours.
+Le Ministère public n’a quant à lui pas procédé.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une
+ordonnance de classement rendue par le Ministère public en application des art. 319 ss CPP dans
+les dix jours devant l’autorité de recours (art. 322 al. 2 et 396 al. 1 CPP ; cf. art.
+20 al. 1 let. b CPP), qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal
+cantonal (art. 13 LVCPP [loi vaudoise d’introduction du Code de procédure pénale suisse
+du
+19 mai 2009 ;
+BLV 312.01] ; art. 80 LOJV [loi vaudoise d’organisation judiciaire du 12 décembre
+1979 ; BLV 173.01]).
+1.2
+En l’espèce, le recours
+a été interjeté en temps utile devant l’autorité compétente par la partie
+plaignante, qui a la qualité pour recourir (art. 382 al. 1 CPP). Au surplus,
+le recours satisfait aux conditions de forme prescrites (art. 385 al. 1 CPP). Il est donc recevable.
+2.
+2.1
+La recourante ne conteste pas le classement en
+tant qu’il concerne l’épisode du salon tel que décrit dans l’ordonnance du
+11 octobre 2022 reposant sur le fait que la plainte déposée le 14 janvier 2022 en relation
+avec ces faits est tardive. Elle conteste en revanche le classement en tant qu’il concerne les
+faits survenus dans sa chambre. Elle
+reproche
+au Ministère public d’avoir écarté, sans motif valable, sa réquisition de preuve
+tendant à l’audition de X.________. Elle estime que cette mesure serait indispensable dès
+lors que ce dernier est l’une des premières personnes à qui elle s’est confiée
+après les faits et que son audition permettrait d’étayer sa version et les propos de
+S.________ s’agissant de son comportement post-traumatique. En outre, invoquant une violation du
+principe
+in
+dubio pro duriore
+, elle soutient
+que, en présence de versions contradictoires portant sur des faits graves, le Ministère public
+aurait dû mettre le prévenu en accusation.
+2.2
+2.2.1
+Selon l’art. 319 al. 1 CPP,
+le ministère public ordonne le classement de tout ou partie de la procédure lorsqu’aucun
+soupçon justifiant une mise en accusation n’est établi (let. a), lorsque les éléments
+constitutifs d’une infraction ne sont pas réunis (let. b), lorsque des faits justificatifs
+empêchent de retenir une infraction contre le prévenu (let. c), lorsqu’il est établi
+que certaines conditions à l’ouverture de l’action pénale ne peuvent pas être
+remplies ou que des empêchements de procéder sont apparus (let. d) ou lorsqu’on peut
+renoncer à toute poursuite ou à toute sanction en vertu de dispositions légales (let. e).
+L’art. 319 al. 2 CPP prévoit encore deux autres motifs de classement exceptionnels,
+à savoir l’intérêt de la victime et le consentement de celle-ci au classement.
+De manière générale, les motifs de classement sont ceux «
+qui
+déboucheraient à coup sûr ou du moins très probablement sur un acquittement ou une
+décision similaire de l’autorité de jugement
+»
+(Message du Conseil fédéral relatif à l’unification du droit de la procédure
+pénale du 21 décembre 2005, FF 2006 pp. 1057 ss, spéc. 1255). La décision
+de classer la procédure doit être prise en application du principe
+in
+dubio pro duriore
+, qui signifie
+qu’en règle générale, un classement ou une non-entrée en matière ne peut
+être prononcé par le ministère public que lorsqu’il apparaît clairement que
+les faits ne sont pas punissables ou que les conditions à la poursuite pénale ne sont pas remplies.
+La procédure doit se poursuivre lorsqu’une condamnation apparaît plus vraisemblable qu’un
+acquittement ou lorsque les probabilités d’acquittement et de condamnation apparaissent équivalentes,
+en particulier en présence d’une infraction grave. En effet, en cas de doute s’agissant
+de la situation factuelle ou juridique, ce n’est pas à l’autorité d’instruction
+ou d’accusation mais au juge matériellement compétent qu’il appartient de se prononcer
+(ATF 146 IV 68 consid. 2.1, JdT 2020 IV 256 ; ATF 143 IV 241 consid. 2.2.1, JdT 2017 IV
+357 ; ATF 138 IV 86 consid. 4.1.1 et les réf. citées ; TF 6B_957/2021 du
+24 mars 2022 consid. 2.1). En revanche, le ministère public doit classer la procédure
+s’il apparaît, sur la base de faits assez clairs pour qu’il n’y ait pas lieu de
+s’attendre à une appréciation différente de l’autorité de jugement (ATF 143
+IV 241 précité consid. 2.3.2), qu’un renvoi aboutirait selon toute vraisemblance
+à un acquittement.
+Pour pouvoir constater légitimement que l’instruction ne corrobore aucun soupçon justifiant
+une mise en accusation (art. 319 al. 1 let. a CPP), le ministère public doit avoir préalablement
+procédé, conformément à la maxime d’instruction (art. 6 al. 1 CPP), à
+toutes les mesures d’instruction susceptibles d’établir l’existence de soupçons
+suffisants justifiant une mise en accusation (CREP 5 avril 2022/208 consid. 3.1.1 et les
+réf. citées ; CREP 5 mars 2021/234 consid. 2.2).
+Dans les procédures où l’accusation repose essentiellement sur les déclarations
+de la victime, auxquelles s’opposent celles du prévenu, et lorsqu’il n’est pas
+possible d’estimer que certaines dépositions sont plus crédibles que d’autres,
+le principe
+in
+dubio pro duriore
+impose en règle
+générale que le prévenu soit mis en accusation (ATF 143 IV 241 précité consid. 2.2.2
+et les arrêts cités ; TF 6B_1164/2020 du 10 juin 2021 consid. 2.2. et les
+références citées). Cela vaut en particulier lorsqu’il s’agit de délits
+commis typiquement «
+entre
+quatre yeux
+» pour lesquels
+il n’existe souvent aucune preuve objective. Il peut toutefois être renoncé à une
+mise en accusation lorsque la partie plaignante fait des dépositions contradictoires, rendant ses
+accusations moins crédibles ou encore lorsqu’une condamnation apparaît, au vu de l’ensemble
+des circonstances,
+a
+priori
+improbable pour d’autres
+motifs (ATF 143 IV 241 précité consid. 2.2.2). En outre, face à des versions contradictoires
+des parties, il peut être exceptionnellement renoncé à une mise en accusation lorsqu’il
+n’est pas possible d’apprécier l’une ou l’autre version comme étant
+plus ou moins plausible et qu’aucun résultat n’est à escompter d’autres moyens
+de preuve (TF 6B_1164/2020 précité consid. 2.2 ; TF 6B_1239/2018 du 11 mars
+2019 consid. 3.2.1 et les arrêts cités).
+2.2.2
+Selon l'art. 191 CP, celui
+qui, sachant qu'une personne est incapable de discernement ou de résistance, en aura profité
+pour commettre sur elle l'acte sexuel, un acte analogue ou un autre acte d'ordre sexuel, sera puni d'une
+peine privative de liberté de dix ans au plus ou d'une peine pécuniaire.
+Cette disposition protège, indépendamment de leur âge et de leur sexe, les personnes incapables
+de discernement ou de résistance dont l'auteur, en connaissance de cause, entend profiter pour commettre
+avec elles un acte d'ordre sexuel (ATF 120 IV 194 consid. 2a).
+Son but est de protéger les personnes qui ne sont pas en état d'exprimer ou de manifester physiquement
+leur opposition à l'acte sexuel. A la différence de la contrainte sexuelle (art. 189 CP) et
+du viol (art. 190 CP), la victime est incapable de discernement ou de résistance, non en raison
+d'une contrainte exercée par l'auteur, mais pour d'autres causes (TF 6B_1174/2021 du 21 juin
+2022 consid. 2.1 ; TF 6B_215/2021 du 17 janvier 2022 consid. 4.1; TF 6B_123/2020 du 26
+novembre 2020 consid. 7.1).
+Selon la jurisprudence, est incapable de résistance la personne qui n'est pas apte à s'opposer
+à des contacts sexuels non désirés. Cette disposition protège les personnes qui ne
+sont pas en mesure de former, exprimer ou exercer efficacement une volonté de s'opposer à des
+atteintes sexuelles. L'incapacité de résistance peut être durable ou momentanée,
+chronique ou due aux circonstances. Elle peut être la conséquence d'un état mental gravement
+anormal, d'une sévère intoxication due à l'alcool ou à la drogue, ou encore d'entraves
+matérielles. Il faut cependant que la victime soit totalement incapable de se défendre. Si
+l'inaptitude n'est que partielle – par exemple en raison d'un état d'ivresse – la victime
+n'est pas incapable de résistance (ATF 133 IV 49 consid. 7.2 p. 56 et les références citées ;
+TF 6B_1174/2021 précité consid. 2.1 et les arrêts cités).
+L'exigence jurisprudentielle d'une incapacité de résistance ou de discernement « totale
+» ne recouvre pas exclusivement des états de perte de conscience complète mais délimite
+les situations visées par l'art. 191 CP de celles dans lesquelles, par exemple en raison de l'alcoolisation
+de la victime, celle-ci est simplement désinhibée (« Herabsetzung der Hemmschwelle »
+; ATF 133 IV 49 consid. 7.2 ; ATF 119 IV 230 consid. 3a ; TF 6B_238/2019 du 16 avril 2019 consid. 2.1
+; TF 6B_578/2018 du 20 mars 2019 consid. 2.1 ; TF 6B_60/2015 du 25 janvier 2016 consid. 1.1.3). Une incapacité
+de résistance peut être retenue lorsqu'une personne, sous l'effet de l'alcool et de fatigue,
+ne peut pas ou que faiblement s'opposer aux actes entrepris (cf. TF 6B_238/2019 du 16 avril 2019 consid.
+2.1 ; TF 6B_578/2018 du 20 mars 2019 consid. 2.1 ; TF 6B_232/2016 du 21 décembre 2016 consid.
+2.2 ; TF 6B_128/2012 du 21 juin 2012 consid. 1.4).
+Il s'agit donc de déterminer si, en raison de son état, la victime était ou non en mesure
+de s'opposer à un acte, soit si elle était ou non apte à en percevoir le caractère
+attentatoire à son intégrité sexuelle et, dans l'affirmative, si son état lui permettait
+de s'y opposer (TF 6B_60/2015 du 25 janvier 2016 consid. 1.1.3). Est incapable de discernement celui
+qui n'est plus en mesure d'évaluer la véritable signification et la portée de son comportement,
+respectivement qui n'est pas conscient de ce qu'il fait et par conséquent, ne peut pas décider
+si et avec qui il souhaite un contact sexuel (Philipp Maier, Basler Kommentar, Strafgesetzbuch, 3
+e
+éd. 2013, n° 5 ad art. 191 CP). Selon le Message, l'incapacité de discernement
+de l'art. 191 CP exclut tout consentement valable à l'acte d'ordre sexuel et toute responsabilité
+à cet égard (Message du 25 juin 1985 concernant la modification du code pénal et du code
+pénal militaire relative aux infractions contre la vie, l'intégrité corporelle, les mœurs
+et la famille, FF 1985 II 1021 ss, p. 1093 ; voir également TF 6S.359/2002 du 7 août 2013
+consid. 4.2 et les références citées). Il s'ensuit que si la personne a consenti aux actes
+lorsqu'elle était en mesure de le faire, par exemple avant d'être incapable de discernement,
+l'infraction ne s'applique pas. En revanche, une fois qu'elle est en état d'incapacité, elle
+n'est plus en mesure de se déterminer librement. Partant, son comportement importe peu, soit qu'elle
+ait pris des initiatives, soit qu'elle ne se soit simplement pas opposée aux actes. Il suffit alors
+que l'auteur se soit aperçu de l'incapacité et l'ait exploitée (TF 6B_1362/2019 du 11
+mars 2020 consid. 3.1).
+Sur le plan subjectif, l'art. 191 CP requiert l'intention, étant précisé que le dol
+éventuel suffit (TF 6B_488/2021 du 22 décembre 2021 consid. 5.5 ; TF 6B_995/2020
+du 5 mai 2021 consid. 1.1.2; TF 6B_1362/2019 précité consid. 4.1; TF 6B_578/2018 du 20
+mars 2019 consid. 2.1). Agit intentionnellement celui qui s'accommode de l'éventualité que
+la victime ne puisse pas être, en raison de son état physique ou psychique, en situation de
+s'opposer à une sollicitation d'ordre sexuel, mais lui fait subir malgré tout un acte d'ordre
+sexuel. Il n'y a pas d'infraction si l'auteur est convaincu, à tort, que la personne est capable
+de discernement ou de résistance au moment de l'acte (TF 6B_995/2020 précité consid. 1.1.2;
+TF 6B_1362/2019 précité consid. 4.1; TF 6B_578/2018 précité consid. 2.1).
+2.3
+En l’espèce, la matérialité
+des faits survenus dans la chambre de D.________ durant la nuit du 12 au 13 juillet 2021 n’est
+pas contestée, F.________ admettant avoir caressé les seins et la fesse droite de D.________,
+puis avoir glissé une main dans sa culotte et lui avoir touché les parties intimes avant d’introduire
+– partiellement – un doigt dans son vagin. En revanche, les versions des parties autour de
+l’état de conscience dans lequel se trouvait la plaignante à ce moment-là sont divergentes,
+cette dernière ayant déclaré qu’elle dormait, ce que le prévenu conteste. Cela
+étant, le Ministère public n’a pas relevé de contradictions dans les déclarations
+des parties qui permettraient d’écarter une version au profit de l’autre, et n’a
+en particulier pas prétendu qu’une condamnation était
+a
+priori
+improbable. Il a retenu
+que dans la mesure où l’instruction avait établi que la plaignante était en dépression
+au moment des faits, qu’elle prenait des médicaments et qu’elle avait des accès
+de somnambulisme, il y avait lieu de mettre le prévenu au bénéfice de ses déclarations
+– que rien au dossier ne permettait de contredire – selon lesquelles il était persuadé
+d’avoir affaire à une partenaire éveillée et consentante au moment de l’acte,
+de sorte que l’élément subjectif faisait défaut.
+On ne saurait suivre ce raisonnement. A bien lire les déclarations de F.________, on ne peut pas
+dire que
+« tous
+les gestes, l’ambiance et le comportement de D.________ démontraient qu’elle était
+consentante et que c’est même plutôt elle qui invitait que l’inverse »
+,
+comme il l’a prétendu lors de son audition du 7 avril 2022 (PV aud. 1, R. 17). En effet,
+on constatera tout d’abord, s’agissant de l’épisode du salon, que si, dans un
+premier temps, F.________ a déclaré avoir simplement
+« touché »
+involontairement
+le sein de D.________ avec son
+avant-bras pendant qu’ils étaient couchés sur le canapé, il a ensuite admis, confronté
+aux déclarations de la plaignante, qu’il n’était
+« pas
+impossible »
+qu’il
+ait
+« mis
+[s]a main
+»
+sur son sein (PV aud. 1, R. 9). Sur ce point, il a d’abord contesté, de manière catégorique,
+que D.________ lui ait repoussé la main (
+« quand
+elle dit qu’elle vous a repoussé la main et vous a dit de ne plus recommencer, je vous dis
+que c’est faux »
+),
+affirmant qu’il n’y avait
+« rien
+qui [lui] disait d’arrêter »
+et qu’elle était même participative et lui faisait des caresses sur le bras et sur la
+main, puis il a nuancé ses déclarations en précisant, après réflexion, qu’il
+ne se souvenait plus s’il s’était excusé à ce moment-là comme elle l’avait
+expliqué lors de son audition par la police (PV aud. 1, R. 9). Il a reconnu non seulement que lorsqu’ils
+étaient sur le canapé, il
+« ne
+s’était pas vraiment passé quelque chose de concret avec D.________ »
+,
+mais également qu’il avait constaté, à la fin du film,
+« qu’il
+n’allait pas se passer quelque chose de plus »
+,
+raison pour laquelle il avait décidé de s’en aller (PV aud. 1, R. 5, p. 6). Ensuite,
+il a expliqué qu’après s’être couchés sur le lit, dans la chambre de
+D.________, elle lui avait expressément dit qu’elle était «
+somnambule
+et qu’il lui arriv[ait] de bouger quand elle dor[mai]t (…) [et] que le lendemain matin c’[était]
+possible qu’elle n’ait plus son t-shirt »
+,
+puis qu’elle lui avait demandé
+« tu
+ne tenteras rien ? »
+,
+ce à quoi il avait répondu par la négative, tout en précisant
+« si
+tu me chauffes, je te chauffe »
+(PV
+aud. 1, R. 5, p. 7). Ainsi, sur la base des explications que D.________ venait de lui donner quant à
+son problème de somnambulisme et à ses possibles réactions durant son sommeil, on ne voit
+pas comment le prévenu ait pu, dès les premiers
+« spasmes »
+de la jeune femme            – laquelle venait
+de s’endormir alors que lui-même était encore réveillé –, penser qu’il
+s’agissait de mouvements
+« intentionnels,
+dans le but de se rapprocher de [lui] »
+;
+il a d’ailleurs lui-même indiqué qu’il était
+« un
+peu dans le doute »
+(PV
+aud. 1, R. 5, p. 8
+in
+initio
+).
+Enfin et surtout, il ressort de
+ses déclarations que ce n’est qu’après lui avoir caressé les seins à
+même la peau qu’il s’est
+« di[t]
+que ce n’[était] pas possible qu’elle soit en train de dormir »
+(PV
+aud. 1, R. 5, p. 8
+in
+fine
+), puis qu’il a mis sa
+main dans la culotte de la jeune femme et que pour lui, à ce moment-là,
+« il
+n’y avait plus aucune raison de penser qu’elle était somnambule »
+,
+raison pour laquelle il avait entrepris de lui toucher le sexe et de la pénétrer digitalement
+(PV aud. 1, R. 5, p. 9). Dans la mesure où la recourante s’était approchée de lui
+après une nouvelle série de
+« spasmes »
+,
+comme il l’a affirmé, il n’était pas possible
+– compte tenu du contexte et quand bien même elle ait chuchoté le nom du prévenu
+et mis la main sur son short – d’en déduire qu’elle était en état de
+se déterminer librement, soit que ces
+« spasmes »
+relevaient d’une réaction
+volontaire et consciente. Son consentement à la pénétration digitale – laquelle
+lui a semble-t-il perforé l’hymen – apparaît d’autant moins vraisemblable
+qu’il ressort des notes de la consultation médicale du 13 juillet 2021 que la patiente, qui
+était vierge, devait subir une intervention au niveau vaginal en date du 23 août suivant. Par
+ailleurs, le fait que la victime ait été active à un moment donné ne signifie pas
+qu’elle l’aurait été tout le temps. Ensuite, l’incapacité de résistance
+n’implique pas l’inactivité ; c’est en effet plus complexe comme le rappelle
+le Tribunal fédéral dans la jurisprudence citée plus haut (cf. consid. 2.2.2
+supra
+).
+Au vu de ces divers éléments, il n’est pas possible d’écarter l’existence
+de l’élément subjectif, au moins par dol éventuel.
+A cela s’ajoutent les réactions des parties après les faits : le prévenu a
+admis avoir été
+« sous
+le choc »
+et ne pas comprendre
+ce qui se passait, ni avoir interrogé la plaignante quant aux événements qui venaient
+de se produire ; par la suite, il s’est excusé par message vocal et enfin il a eu
+« peur
+de devoir aller à la police »
+(PV aud. 1, R. 5, p. 9
+in
+initio
+). Quant à la plaignante,
+quand bien même le constat de la psychiatre ne permet pas de relier objectivement les symptômes
+observés aux faits litigieux, la psychologue [...] a indiqué que les événements qu’elle
+avait vécus avaient eu
+« certainement
+un
+impact
+psychique sur elle
+»
+(18/2), ce qui est corroboré par le témoignage de S.________ (PV aud. 3, R. 8).
+Enfin, on relèvera que la version que la recourante a livrée à la police, au médecin
+et à la psychologue est claire et constante, étant rappelé qu’il est compréhensible
+que les déclarations d’une victime contiennent quelques imprécisions sur des points secondaires,
+de sorte qu’il n’apparaît pas que ces divergences soient déterminantes. A cela
+s’ajoute que D.________ ne s’est pas montrée vindicative mais a attendu plusieurs mois
+avant de déposer plainte pénale, a tenu des propos mesurés et n’a pas cherché
+à accabler le prévenu inutilement, répétant par exemple qu’elle ne voulait
+pas lui faire du mal (PV aud. 2, R. 13 et 17).
+Au vu de ce qui précède, au regard du principe « in dubio pro duriore »,
+s’agissant de faits graves commis « entre quatre yeux » on ne saurait retenir
+qu’un acquittement paraît notablement plus vraisemblable qu’une condamnation. Il appartiendra
+au Ministère public de recueillir tous les autres autres témoignages possibles, notamment ceux
+de X.________ et de la voisine de palier de S.________ citée par la plaignante dans ses premières
+déclarations à la police (P. 6), soit [...]. Ces personnes étant vraisemblablement les
+premières à qui la plaignante s’est confiée après les faits, leurs témoignages
+sont susceptibles d’apporter des éclaircissements sur les circonstances du dévoilement,
+ce qui est important dans ce genre de cas. Sauf élément nouveau permettant clairement de disculper
+le prévenu, un renvoi de celui-ci devant une autorité de jugement devra ensuite être envisagé.
+3.
+Il résulte de ce qui précède
+que le recours doit être admis et l’ordonnance de classement annulée, le dossier de la
+cause étant envoyé au Ministère public de l’arrondissement de La Côte pour
+qu’il procède dans le sens des considérants.
+Me Anne-Claire Boudry, conseil juridique gratuit de D.________, a produit une liste d’opérations
+faisant état de 4,4 heures consacrées aux opérations du 25 octobre 2022 (P. 20, annexe).
+Le temps consacré à la rédaction du recours, par 3 heures, peut être admis. En revanche,
+les opérations liées à la rédaction de courriers à la Chambre de céans
+et à la cliente, par 0,4 heures, relèvent du travail de secrétariat, non indemnisable,
+s’agissant de lettres d’accompagnement. Quant au temps consacré aux
+« opérations
+supplémentaires »
+,
+par 1 heure, il sera réduit de moitié, 30 minutes étant suffisantes pour la prise de connaissance
+de la réponse, la recourante n’ayant pas répliqué. C’est donc une durée
+d’activité nécessaire totale de 3,5 heures qui sera indemnisée au tarif horaire
+de 180 fr. (art. 2 al. 1 let. a et 3 al. 2 RAJ [règlement sur l'assistance judiciaire en matière
+civile du 7 décembre 2010 ; BLV 211.02.3] par renvoi de l'art. 26b TFIP [tarif des frais de
+procédure et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]),
+correspondant à 630 fr., auxquels il convient d’ajouter des débours forfaitaires à
+concurrence de 2 % (art. 2 al. 1 let. a et 3bis RAJ, applicables par renvoi de l'art. 26b TFIP),
+par 12 fr. 60, et la TVA sur le tout, par 49 fr. 50, ce qui donne 693 fr. au total en chiffres arrondis.
+L’indemnité allouée pour la procédure de recours à Me Aesane Ziegler, défenseur
+d’office de F.________, sera fixée en tenant compte d’une activité nécessaire
+d’avocate estimée à 2 heures au tarif horaire de 180 fr. (art. 2 al. 1 let. a et 3 al.
+2 RAJ par renvoi de l'art. 26b TFIP), soit à 360 fr., auxquels s'ajoutent 2% de débours forfaitaires,
+par 7 fr. 20, et la TVA à 7,7%, par 28 fr. 25, soit à 396 fr. au total en chiffres arrondis.
+Vu l’admission du recours, les frais de la procédure de recours, constitués en l’espèce
+de l’émolument d’arrêt, par 2'090 fr. (art. 20 al. 1 TFIP), ainsi que des frais
+imputables à l’assistance judiciaire gratuite de D.________, par 693 fr., et à la défense
+d’office de F.________, par 396 fr. (art. 422 al. 1 et 2 let. a CPP), seront mis à la charge
+de F.________, qui succombe (art. 428 al. 1 CPP).
+Le remboursement à l’Etat des indemnités allouées au conseil juridique gratuit de
+D.________ et au défenseur d’office de F.________ ne sera exigible que pour autant que la
+situation économique de ce dernier le permette (art. 135 al. 4, 138 al. 1 et 426 al. 4 CPP ;
+ATF 145 IV 90 consid. 5.2).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 11 octobre 2022 est annulée.
+III.
+Le dossier
+de la cause est renvoyé au
+Ministère public de l’arrondissement de La Côte pour qu’il procède dans le
+sens des considérants.
+IV.
+L’indemnité allouée
+au conseil juridique gratuit de D.________ pour la procédure de recours est fixée à 693
+fr. (six cent nonante-trois francs).
+V.
+L’indemnité allouée
+au défenseur d’office de F.________ pour la procédure de recours est fixée à
+396 fr. (trois cent nonante-six francs).
+VI.
+Les frais d’arrêt, par
+2'090 fr. (deux mille nonante francs), ainsi que l’indemnité due au conseil juridique gratuit
+de D.________, par 693 fr. (six cent nonante-trois francs), et l’indemnité due au défenseur
+d’office de F.________, par 396 fr. (trois cent nonante-six francs), sont mis à la charge
+de ce dernier.
+VII.
+Le remboursement à l’Etat
+des indemnités allouées aux chiffres IV et V ci-dessus ne sera exigible que pour autant que
+la situation financière de F.________ le permette.
+VIII.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Anne-Claire Boudry, avocate (pour D.________),
+-
+Me Aesane Ziegler, avocate (pour F.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
