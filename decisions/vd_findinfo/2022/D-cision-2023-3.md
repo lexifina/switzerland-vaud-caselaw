@@ -1,0 +1,289 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 3"
+decided: "2022-12-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9178006"
+cites_law: ["switzerland/bund/acts/101/art-032.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-776.md", "switzerland/bund/acts/220/art-041.md", "switzerland/bund/acts/311.0/art-144.md", "switzerland/bund/acts/311.0/art-303.md", "switzerland/bund/acts/312.0/art-008.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-083.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-395.md", "switzerland/bund/acts/312.0/art-420.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2023 / 3
+
+## Regeste
+
+FRAIS{EN GÉNÉRAL}, ORDONNANCE DE NON-ENTRÉE EN MATIÈRE, DOMMAGES À LA PROPRIÉTÉ{DROIT PÉNAL}, SERVITUDE, DROIT D'HABITATION, ILLICÉITÉ | 144 CP, 310 CPP (CH), 420 CPP, 426 al. 2 CPP (CH), 83 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 27.12.2022 Décision / 2023 / 3
+
+FRAIS{EN GÉNÉRAL}, ORDONNANCE DE NON-ENTRÉE EN MATIÈRE, DOMMAGES À LA PROPRIÉTÉ{DROIT PÉNAL}, SERVITUDE, DROIT D'HABITATION, ILLICÉITÉ | 144 CP, 310 CPP (CH), 420 CPP, 426 al. 2 CPP (CH), 83 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+990
+PE22.020894-CMI
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+27 décembre 2022
+__________________
+Composition
+:               M.
+MAILLARD
+,
+juge unique
+Greffière
+:              Mme
+Willemin Suhner
+*****
+Art.
+144 al. 1 CP ; 83, 310, 420 et 426 CPP
+Statuant sur le recours interjeté le 7 décembre 2022 par
+L.
+contre l’ordonnance de non-entrée en matière rendue le 21 novembre 2022 par le Ministère
+public de l’arrondissement du Nord vaudois dans la cause
+n° PE22.020894-CMI
+,
+le juge unique de la Chambre des recours pénale considère :
+En fait :
+A.
+P.________ et L., voisins, sont domiciliés dans une propriété sise au [...] à [...],
+que le premier a vendue au second en 2015. En plus de l’immeuble principal sont érigés
+sur le bien-fonds un cabanon de jardin en bois et un garage.
+Le 2 octobre 2022, P.________ a déposé plainte auprès du Ministère public du Nord
+vaudois (ci-après : le Ministère public ou le procureur) à l’encontre de L.,
+pour dommages à la propriété. En substance, le plaignant reproche à l’intéressé
+d’avoir endommagé le cabanon de jardin, sur lequel il dispose lui-même d’un droit
+d’habitation, et de ne pas avoir procédé aux réparations utiles, malgré plusieurs
+demandes.
+A l’appui de sa plainte, il a produit une photographique montrant la maisonnette endommagée
+d’un important trou situé au bas d’une de ses parois (P. 4/1). Le plaignant a également
+produit un document non signé intitulé « vente maison », daté du 5
+octobre 2015, portant ses nom et prénom dactylographiés et stipulant qu’il confirme vouloir
+vendre sa propriété située à [...] à L. (P. 4/2). Le document contient
+notamment la mention suivante (sic) : « Le cabanon en bois, situé dans le jardin, qui
+sert de local d’apiculture et cabane de thé en hiver, ne fait pas partie des objets de la
+vente et resteras aux mains de [...] de son vivant ».
+Le 9 novembre 2022, L. a été auditionné par la police. Il a en substance déclaré
+que le cabanon de jardin, qui « tombait en ruine », lui appartenait et que P.________
+ne s’en servait jamais. Le plaignant lui avait proposé de renoncer à son « usufruit »
+sur l’objet si l’électricité était installée dans un autre local qu’il
+utilisait, à savoir le garage. Au sujet des dommages, le prévenu a admis les avoir causés
+au moyen d’une pelleteuse, le 24 juillet 2022, alors qu’il réalisait des travaux de
+terrassement, précisant qu’il avait agi par négligence. Il a ajouté qu’il
+entendait procéder aux réparations lorsqu’il ne serait plus en mesure de travailler le
+terrain en raison du froid.
+B.
+Par ordonnance du 21 novembre 2022, le Ministère
+public a refusé d’entrer en matière sur la plainte de P.________ (I) et a dit que L.
+devait rembourser à l’Etat, une fois la décision devenue définitive et exécutoire,
+les frais de procédure, par 375 fr., en application de l’art. 420 CPP (Code de procédure
+pénale suisse du 5 octobre 2007 ; RS 312.0) (II).
+Le magistrat a retenu que les conditions à l’ouverture de l’action pénale n’étaient
+manifestement pas réunies, les éléments constitutifs de l’infraction de dommages
+à la propriété n’étant pas réalisés, faute pour le prévenu d’avoir
+agi intentionnellement.
+Concernant les effets accessoires de la décision, le procureur a considéré que L. devait
+assumer les frais de procédure, dès lors qu’il était à l’origine de l’enquête
+policière pour avoir commis des dégâts sans prendre les dispositions nécessaires
+afin de les réparer.
+C.
+Par acte daté du 5 décembre 2022 expédié
+le 7 décembre suivant, L. a recouru contre cette ordonnance en tant qu’il a été
+condamné à assumer les frais de procédure.
+Par courrier du 22 décembre 2022, le Ministère public a déclaré renoncer à déposer
+des déterminations, dans le délai imparti en application de l’art. 390 al. 2 CPP.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de non-entrée en matière rendue par le Ministère
+public (art. 310 CPP) dans les dix jours devant l’autorité de recours (art. 310 al. 2, 322
+al. 2 et 396 al. 1 CPP ; cf. art. 20 al. 1 let. b CPP) qui est, dans le canton de Vaud,
+la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [Loi d’introduction
+du Code de procédure pénale suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [Loi
+d’organisation judiciaire du 12 décembre 1979 ; BLV 173.01]).
+En l'espèce, le recours peut être considéré comme ayant été déposé
+en temps utile, dès lors qu’on ignore à quelle date L. a reçu la décision litigieuse,
+celle-ci ayant été envoyée sous pli simple. Au surplus, interjeté auprès de
+l’autorité compétente par le prévenu qui a qualité pour recourir dans la mesure
+où il conteste les frais qui ont été mis à sa charge (art. 382 al. 1 CPP), le recours
+est recevable.
+1.2
+L'art. 395 let. b CPP prévoit que si l’autorité
+de recours est un tribunal collégial – ce qui est le cas de la Chambre des recours pénale,
+laquelle statue à trois juges (art. 67 al. 1 let. i LOJV ; art. 12 al. 1 ROTC [Règlement
+organique du Tribunal cantonal du 13 novembre 2007 ; BLV 173.31.1]) –, sa direction de la
+procédure statue seule sur le recours lorsqu’il porte sur les conséquences économiques
+accessoires d’une décision et que le montant litigieux n’excède pas 5’000
+francs. Dans ce cas, un membre de la Chambre des recours pénale est compétent pour statuer
+en tant que juge unique (art. 13 al. 2 LVCPP).
+En l’espèce, le recours portant uniquement sur les conséquences économiques accessoires
+d’une ordonnance de non-entrée en matière et le montant litigieux étant inférieur
+à 5'000 fr. (art. 395 let. b CPP), il relève de la compétence d'un juge unique de la Chambre
+des recours pénale.
+2.
+2.1
+Le recourant conteste avoir à assumer les frais de procédure. Il fait valoir qu’il est
+propriétaire du cabanon de jardin et qu’il n’a pas occasionné les dégâts
+volontairement. Il expose également avoir immédiatement réparé ceux-ci de manière
+provisoire, en attendant d’avoir plus de temps à consacrer à la remise en état de
+l’objet.
+2.2
+2.2.1
+Aux termes de l'art. 426 al. 2 CPP, lorsque la
+procédure fait l'objet d'une ordonnance de classement ou que le prévenu est acquitté,
+tout ou partie des frais de procédure peuvent être mis à sa charge s'il a, de manière
+illicite et fautive, provoqué l'ouverture de la procédure ou rendu plus difficile la conduite
+de celle-ci.
+Selon
+la jurisprudence, la condamnation aux frais d'un prévenu acquitté ou mis au bénéfice
+d'une ordonnance de classement ne résulte pas d'une responsabilité pour une faute pénale,
+mais d'une responsabilité proche du droit civil, née d'un comportement fautif. Il est compatible
+avec les art. 32 al. 1 Cst. (Constitution fédérale de la Confédération suisse du
+18 avril 1999 ; RS 101) et 6 par. 2 CEDH (Convention de sauvegarde des droits de l’homme
+et des libertés fondamentales du 4 novembre 1950 ; RS 0.101) de mettre les frais à la
+charge d'un prévenu libéré qui, d'une manière engageant sa responsabilité civile,
+a manifestement violé une règle de comportement pouvant découler de l'ordre juridique
+suisse dans son ensemble – dans le sens d'une application par analogie des principes découlant
+de l'art. 41 CO (Code des obligations, Loi fédérale complétant le Code civil suisse du
+30 mars 1911 ; RS 220) (ATF 144 IV 202 consid. 2.2 et les références citées ;
+TF 6B_650/2019 du 20 août 2019 consid. 3.1) – et a provoqué ainsi l'ouverture d'une enquête
+pénale ou compliqué celle-ci (ATF 116 Ia 162 consid. 2d et 2e ; TF 6B_87/2012 du 27 avril
+2012 consid. 1.2).
+Pour déterminer si le comportement en cause est propre à justifier l'imputation des frais ou
+le refus d'une indemnité, le fait reproché doit ainsi constituer une violation claire de la
+norme de comportement écrite ou non écrite résultant de l’ordre juridique suisse
+(ATF 119 Ia 332 consid. 1b et les références citées ; ATF 116 la 162 consid. 2d ;
+TF 6B_548/2018 du 18 juillet 2018 consid. 1.1.1). L’acte répréhensible n’a pas
+à être commis intentionnellement. La négligence suffit, sans qu’il y ait besoin
+qu’elle soit grossière (TF 6B_439/2013 du 19 juillet 2013 consid. 1.1 ; TF 6B_428/2012
+du 19 novembre 2012 consid. 3.1 ; TF 1B_180/2012 du 24 mai 2012 consid. 2.2 ; ATF 109 Ia 160
+consid. 4a, JdT 1984 IV 85). Le comportement doit en outre se trouver dans une relation de causalité
+adéquate avec l'ouverture de l'enquête ou les obstacles mis à celle-ci. La relation de
+causalité est réalisée lorsque, selon le cours ordinaire des choses et l'expérience
+de la vie, le comportement de la personne concernée était de nature à provoquer l'ouverture
+de la procédure pénale et le dommage ou les frais que celle-ci a entraînés. Une condamnation
+aux frais ne peut donc se justifier que si, en raison du comportement illicite du prévenu, l'autorité
+était légitimement en droit d'ouvrir une enquête. Elle est en tout cas exclue lorsque
+l'autorité est intervenue par excès de zèle, ensuite d'une mauvaise analyse de la situation
+ou par précipitation (ATF 116 Ia 162 précité consid. 2c ; TF 6B_556/2017
+du 15 mars 2018 consid. 2.1 ; TF 6B_548/2018 précité consid. 1.1.1). La mise
+des frais à la charge du prévenu en cas d'acquittement ou de classement de la procédure
+doit en effet rester l'exception (ATF 144 IV 202 précité consid. 2.2 et les références
+citées). Le juge ne peut fonder sa décision que sur des faits incontestés ou déjà
+clairement établis (ATF 112 Ia 371 consid. 2a ; TF 6B_1462/2020 du 4 février 2021
+consid. 2 ; TF 6B_660/2020 du 9 septembre 2020 consid. 1.3 ; TF 6B_87/2012 précité
+consid. 1.2).
+Ce qui précède s’applique par analogie à la non-entrée en matière (cf. ATF
+144 IV 202 consid. 2.3, qui place sur pied d’égalité le classement et la non-entrée
+en matière par référence à l’art. 8 al. 4 CPP quant au sort des frais selon
+l'art. 426 al. 2 CPP).
+2.2.2
+Indépendamment de l’art. 426 CPP, l'art.
+420 CPP permet à la Confédération ou au canton d'intenter une action récursoire contre
+les personnes qui, intentionnellement ou par négligence grave, ont provoqué l'ouverture de
+la procédure (let. a), rendu la procédure notablement plus difficile (let. b) ou provoqué
+une décision annulée dans une procédure de révision (let. c).
+Cette norme consacre l'action récursoire de l'Etat contre les personnes qui lui ont causé,
+intentionnellement ou par négligence grave, des frais tels que frais de procédure, indemnisation
+du préjudice et du tort moral subis par le prévenu ayant bénéficié d'un classement
+ou ayant été acquitté. Vu l'intérêt de la collectivité à ce que les
+particuliers contribuent également à dénoncer les agissements susceptibles d'être
+sanctionnés, l'Etat ne doit faire usage de l'action récursoire qu'avec retenue. Néanmoins,
+il paraît conforme au principe d'équité de faire supporter les frais de procédure
+à celui qui saisit l'autorité de poursuite pénale de manière infondée ou par
+malveillance (TF 6B_638/2020 du 3 février 2021 consid. 2.2 et les références citées).
+Une action récursoire entre en ligne de compte en cas de soupçons sans fondement, mais non
+lorsqu'une plainte est déposée de bonne foi. L'on songe plutôt à la dénonciation
+calomnieuse au sens de l'art. 303 CP (TF 6B_638/2020 du 3 février 2021 consid. 2.2 et les références
+citées). Selon la jurisprudence, le dénonciateur qui utilise le droit de dénoncer à
+des fins étrangères à celles pour lesquelles ce droit a été prévu agit
+par négligence grave (TF 6B_638/2020 du 3 février 2021 consid. 2.2 et les références
+citées). La personne défenderesse à l'action récursoire doit avoir accompli le comportement
+procédural qu'on lui reproche avec conscience et volonté. Agit par négligence grave celui
+qui introduit une demande en violant les règles élémentaires de prudence à ce point
+que tout justiciable avisé aurait, dans les mêmes circonstances, renoncé à agir (cf.
+Domeisen, in Niggli/Heer/Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozessordnung,
+Jugendstrafprozess-ordnung, 2
+e
+éd., Bâle 2014, n. 6 ad art. 420 CPP).
+2.3
+2.3.1
+En l’espèce, le procureur a considéré
+que les frais devaient être assumés par L. car il est à l’origine de l’enquête
+policière, en raison du fait qu’il a commis des dégâts sur le cabanon de jardin
+sans prendre les dispositions nécessaires pour les réparer. Le recourant conteste cette argumentation
+au motif qu’il est lui-même propriétaire du cabanon endommagé. Lors de son audition
+par la police, il avait toutefois reconnu que l’intimé bénéficiait d’un « usufruit »
+sur cet objet (PV aud. 1 p. 2). Il ressort en outre du registre foncier – qui constitue un fait
+notoire sur ce point (TF 5A_891/2021 du 28 janvier 2022 consid. 2.3.3) – que le bien-fonds dont
+le recourant est propriétaire est bien grevé d’une servitude en faveur de P.________
+sous la forme d’un droit d’habitation portant notamment sur « le cabanon en bois
+du jardin ». Il s’ensuit qu’en endommageant ce cabanon, le recourant a bien porté
+atteinte au droit absolu (art. 776 ss CC) dont P.________ est titulaire et ainsi adopté un comportement
+civilement répréhensible justifiant que les frais de procédure soient mis à sa charge.
+Le fait qu’il ait agi par négligence ni change rien (cf. jurisprudence citée ci-dessus).
+Il en va de même de son intention de réparer le dommage.
+Par conséquent, c’est à juste titre que le Ministère public a considéré
+que les frais de procédure devaient être assumés par L.. Cette imputation se justifiait
+toutefois en application de l’art. 426 al. 2 CPP et non de l’art. 420 CPP auquel il
+est fait référence par inadvertance dans l’ordonnance attaquée et son dispositif.
+Ce dernier sera donc rectifié d’office sur ce point (art. 83 CPP ; TF 6B_794/2021 du
+21 mars 2022 consid. 2.3 et 2.4).
+3.
+Il résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté. Le chiffre II du dispositif de l’ordonnance entreprise sera toutefois rectifié
+d’office en ce sens que les frais de procédure sont mis à la charge de L., en application
+de l’art. 426 al. 2 CPP.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt (art. 422 al. 1 CPP), par 720 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront mis
+à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+le
+juge unique
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le chiffre II du dispositif de l'ordonnance du 21 novembre 2022 est rectifié comme il suit :
+«
+II
+.
+Les frais de la procédure, par 375 fr. (trois cent septante-cinq francs), sont mis à la charge
+de L. en application de l’art. 426 al. 2 CPP. »
+L'ordonnance est maintenue
+pour le surplus.
+III.
+Les frais d’arrêt, par 720 fr. (sept cent vingt francs), sont mis à la charge de L..
+IV.
+L’arrêt est exécutoire.
+Le
+juge unique :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+L.,
+-
+P.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
