@@ -1,0 +1,509 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___63"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 63"
+decided: "2022-12-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9220172"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-011.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2023 / 63
+
+## Regeste
+
+ORDONNANCE DE CLASSEMENT, DÉLIT D'OMISSION, INFRACTIONS CONTRE L'INTÉGRITÉ SEXUELLE, DIRECTION D'UN ÉTABLISSEMENT, POSITION DE GARANT, CAUSALITÉ HYPOTHÉTIQUE | 11 CP, 319 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 28.12.2022 Décision / 2023 / 63
+
+ORDONNANCE DE CLASSEMENT, DÉLIT D'OMISSION, INFRACTIONS CONTRE L'INTÉGRITÉ SEXUELLE, DIRECTION D'UN ÉTABLISSEMENT, POSITION DE GARANT, CAUSALITÉ HYPOTHÉTIQUE | 11 CP, 319 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+995
+PE21.015838-AEN
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+28 décembre 2022
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Krieger et Perrot, juges
+Greffier
+:              M.
+Valentino
+*****
+Art.
+11 CP ; 319 al. 1 CPP
+Statuant sur le recours interjeté le 7 octobre 2022 par
+N.________
+contre l’ordonnance de classement rendue le 29 septembre 2022 par le Ministère public de l’arrondissement
+du Nord vaudois dans la cause
+n° PE21.015838-AEN
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+D’août
+2013 à avril 2021, N.________ a fréquenté la Fondation de P.________ (ci-après :
+la Fondation) en raison d’un retard mental (âge mental de 11 ans alors qu’elle est née
+en 1992).
+En 2017, à [...], dans l’immeuble où
+elle habitait avec ses parents, N.________ aurait été invitée par A.________, à l’époque
+autre résident de la Fondation, à se rendre à la buanderie, où il aurait abusé
+sexuellement d’elle. La Fondation avait été informée et déclarait avoir pris
+des mesures de protection.
+Toutefois, le 15 septembre 2020, le même A.________ aurait à nouveau abusé sexuellement
+de N.________, cette fois dans les locaux de la Fondation à [...].
+[...], mère de N.________,
+a déposé plainte le 19 septembre 2020.
+N.________, par l’intermédiaire de son conseil de l’époque, Me[...], a également
+déposé plainte et s’est constituée demanderesse au civil le 19 octobre 2020.
+Par acte d’accusation du 29 septembre 2022,
+le Ministère public de l'arrondissement
+du Nord vaudois (ci-après : le Ministère public ou la procureure) a engagé l’accusation
+contre A.________ devant le Tribunal correctionnel de l’arrondissement de Lausanne en raison, notamment,
+des actes commis en 2017 et 2020 au préjudice de N.________.
+b)
+En parallèle à cette
+enquête (portant le
+numéro de référence
+PE20.016088), le conseil de N.________, Me Cyrielle Kern, a, par courrier du 25 août 2021 (P. 4),
+requis du Ministère public qu’il étende l’instruction
+« aux
+dirigeants de la Fondation de P.________, respectivement à ceux de son secteur Adultes »
+,
+alléguant que ces responsables avaient un devoir d’accompagnement et se trouvaient dans une
+position de garant au sens de l’art. 11 CP vis-à-vis des personnes, y compris adultes, qui,
+à l’instar de N.________, travaillaient dans leurs ateliers.
+Par lettre du 8 octobre 2021, le Ministère public a informé Me Kern qu’un dossier séparé
+avait été ouvert sous la référence PE21.015838.
+Le 20 octobre 2021,
+le Ministère
+public a accordé l’assistance judiciaire à N.________ et désigné Me Cyrielle
+Kern en qualité de conseil juridique gratuit avec effet dès le 25 août 2021 dans le cadre
+de cette procédure.
+Entendu le 24 novembre 2021 en qualité de personne appelée à donner des renseignements
+(PV aud. 1), C.________,
+directeur du secteur
+adulte de la Fondation de P.________ depuis l’année 2016, a expliqué que son équipe
+avait été informée que des événements s’étaient produits dans la
+buanderie de N.________ en 2017, soit dans la sphère privée, précisant que lui-même
+n’avait été mis au courant de ceux-ci que lors de la survenance de l’épisode
+de 2020. Il a précisé qu’en 2017, un protocole de vigilance avait été mis en
+place, à savoir qu’afin d’éviter que N.________ et A.________ ne puissent interagir
+sur le site de la Fondation, il leur avait été demandé de demeurer dans certains bâtiments
+et de n’évoluer que dans les lieux où il y avait du monde, sans pour autant les surveiller
+en permanence ou les empêcher de vivre sur le site de la Fondation. Compte tenu du récit qui
+avait été fait des événements de l’année 2017 et du flou qui régnait
+quant aux circonstances de cet épisode, les mesures prises à l’époque avaient été
+selon lui adéquates. Il a ajouté que dès le moment où il avait été mis
+au courant des faits en 2020, un protocole de prise en charge individualisée rigoureux avait immédiatement
+été mis en place, lequel consistait notamment à entendre N.________, à la raccompagner
+chez ses parents et à leur expliquer la situation, à prévenir la police ainsi qu’à
+informer les collaborateurs en contact avec N.________ et A.________ qu’aucun contact ne devait
+avoir lieu entre eux et à les inviter à faire preuve d’une vigilance accrue vis-à-vis
+de ce dernier. A la question de savoir quelle était la politique de la Fondation en matière
+de relations intimes entre les résidents, il a expliqué que leur rôle était d’accompagner
+les personnes mais pas de les empêcher de vivre une relation amoureuse et qu’il n’y
+avait dès lors pas de surveillants. Toutefois, un groupe interne
+« ressource »
+était chargé d’accompagner les personnes qui en auraient besoin, l’objectif étant
+de sensibiliser, d’accompagner et de préserver la sécurité des uns et des autres.
+K.________, coordinatrice entre les différents professionnels au sein de la Fondation de P.________
+jusqu’au mois d’octobre 2019, et V.________, responsable des ateliers et de la blanchisserie
+à ladite Fondation jusqu’au 31 mars 2018, ont également été entendus, en date
+du 15 mars 2022, en qualité de personnes appelées à donner des renseignements. K.________
+(PV aud. 3) a confirmé qu’après les faits qui s’étaient déroulés
+en 2017, des mesures avaient été prises pour éloigner N.________ et A.________, tout en
+précisant que le but n’était pas de les
+« fliquer »
+.
+Elle a expliqué que les parents de N.________ avaient été informés qu’elle
+ne pouvait pas leur garantir à 100% que leur fille et le prévenu ne se croiseraient pas puisqu’ils
+évoluaient sur un lieu de vie. Elle a également affirmé que les mesures mises en place
+avaient été adéquates, ajoutant que l’équipe était même allée
+au-delà de ce qu’elle devait faire, dans la mesure où la Fondation, qui ne se mêlait
+« pas trop »
+des choses qui se produisaient à l’extérieur de celle-ci dès lors que cela relevait
+de la sphère privée, n’avait pas l’obligation de mettre en place une surveillance
+accrue comme cela avait été le cas en l’espèce. Quant à V.________ (PV aud.
+2), il a déclaré qu’il n’avait pas eu vent de ce qui s’était produit
+entre N.________ et A.________ en dehors de la Fondation en 2017 malgré que K.________ ait affirmé
+l’en avoir avisé.
+Par courriers de son conseil des 30 juin 2022 (P. 13) et 5 août 2022 (P. 14), ce dernier ayant
+été
+adressé dans
+le délai de prochaine clôture, N.________ a requis l’audition en qualité de témoin
+de
+« [...] »
+,
+à savoir son ancienne cheffe d’atelier, et la production des procès-verbaux des colloques
+mentionnés aux lignes 108 et suivantes de l’audition de K.________ du 15 mars 2022.
+B.
+Par ordonnance du 29 septembre
+2022, le Ministère public a ordonné le classement de la procédure pénale ouverte
+à la suite de la plainte de N.________ du 25 août 2021 (I) et a laissé les frais de procédure
+à la charge de l’Etat (II).
+La procureure a rejeté les réquisitions de preuve de la plaignante. Sur le fond, elle a repris
+les déclarations d’C.________, de K.________ et de V.________, retenant en substance que les
+événements de 2017 n’avaient pas été portés à la connaissance du
+directeur, qu’un protocole de surveillance avait été mis en place, mais que la victime
+était ambivalente et que la surveillance avait été jugée suffisante, d’autant
+plus que les événements de 2017 s’étaient produits à l’extérieur
+de la Fondation. La procureure a considéré que les
+différents professionnels de la Fondation avaient pris les mesures adéquates compte tenu des
+éléments et des moyens à leur disposition afin de protéger N.________. Dès lors,
+aucun comportement pénalement répréhensible ne pouvait leur être reproché. Dans
+ces circonstances, une ordonnance de classement se justifiait.
+C.
+Par acte du 7 octobre 2022, N.________, par l’intermédiaire
+de son conseil, a
+recouru contre
+cette ordonnance en concluant, avec suite de frais et dépens, à son annulation et au renvoi
+de la cause au Ministère public pour qu’il procède à l’instruction dans le
+sens des considérants.
+Le Ministère public n’a pas procédé dans le délai imparti pour se déterminer.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une
+ordonnance de classement rendue par le Ministère public en application des art. 319 ss CPP dans
+les dix jours devant l’autorité de recours (art. 322 al. 2 et 396 al. 1 CPP ; cf. art.
+20 al. 1 let. b CPP), qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal
+cantonal (art. 13 LVCPP [loi vaudoise d’introduction du Code de procédure pénale suisse
+du
+19 mai 2009 ;
+BLV 312.01] ; art. 80 LOJV [loi vaudoise d’organisation judiciaire du 12 décembre
+1979 ; BLV 173.01]).
+1.2
+En l’espèce, le recours
+a été interjeté en temps utile devant l’autorité compétente par la partie
+plaignante, qui a la qualité pour recourir (art. 382 al. 1 CPP). Au surplus,
+le recours satisfait aux conditions de forme prescrites (art. 385 al. 1 CPP). Il est donc recevable.
+2.
+2.1
+La recourante reproche au Ministère
+public d’avoir écarté, sans motif valable, ses réquisitions de preuves tendant à
+l’audition du témoin
+« [...] »
+et à la production des procès-verbaux des colloques de la Fondation de P.________, mesures
+qui selon elle devaient permettre de déterminer, d’une part, quels moyens avaient concrètement
+été mis en œuvre pour la protéger d’une nouvelle agression et, d’autre
+part, la manière dont les informations s’agissant de l’agression de 2017 avaient été
+transmises aux différents collaborateurs de la Fondation. En outre, la recourante fait valoir qu’il
+existe, sur la base des déclarations des trois employés de la Fondation entendus en cours d’enquête,
+des indices sérieux d’un défaut organisationnel au sein de l’institution, en particulier
+s’agissant de la transmission d’informations importantes au sujet des résidents. Par
+ailleurs, il subsisterait un doute sur l’adéquation des mesures prises pour la protéger,
+de sorte que l’accusation devrait être engagée à l’encontre des dirigeants
+de la Fondation.
+2.2
+2.2.1
+Selon l’art. 319 al. 1 CPP,
+le ministère public ordonne le classement de tout ou partie de la procédure lorsqu’aucun
+soupçon justifiant une mise en accusation n’est établi (let. a), lorsque les éléments
+constitutifs d’une infraction ne sont pas réunis (let. b), lorsque des faits justificatifs
+empêchent de retenir une infraction contre le prévenu (let. c), lorsqu’il est établi
+que certaines conditions à l’ouverture de l’action pénale ne peuvent pas être
+remplies ou que des empêchements de procéder sont apparus (let. d) ou lorsqu’on peut
+renoncer à toute poursuite ou à toute sanction en vertu de dispositions légales (let.
+e).
+La décision de classer la procédure doit être prise en application du principe «
+in
+dubio pro duriore
+».
+Ce principe vaut également pour l’autorité judiciaire chargée de l’examen
+d’une décision de classement. Il signifie qu’en règle générale, un classement
+ou une non-entrée en matière ne peut être prononcé par le ministère public que
+lorsqu’il apparaît clairement que les faits ne sont pas punissables ou que les conditions
+à la poursuite pénale ne sont pas remplies. La procédure doit se poursuivre lorsqu’une
+condamnation apparaît plus vraisemblable qu’un acquittement ou lorsque les probabilités
+d’acquittement et de condamnation apparaissent équivalentes, en particulier en présence
+d’une infraction grave. En effet, en cas de doute s’agissant de la situation factuelle ou
+juridique, ce n’est pas à l’autorité d’instruction ou d’accusation
+mais au juge matériellement compétent qu’il appartient de se prononcer (ATF 143 IV 241
+consid. 2.2.1 ; ATF 138 IV 86 consid. 4.1.2 et les références citées).
+En revanche, le ministère public doit classer la procédure s’il apparaît, sur la
+base de faits assez clairs pour qu’il n’y ait pas lieu de s’attendre à une appréciation
+différente de l’autorité de jugement (cf. ATF 143 IV 241 précité consid. 2.3.2),
+qu’un renvoi aboutirait selon toute vraisemblance à un acquittement.
+Pour pouvoir constater légitimement que l’instruction ne corrobore aucun soupçon justifiant
+une mise en accusation (art. 319 al. 1 let. a CPP), le ministère public doit avoir préalablement
+procédé, conformément à la maxime d’instruction (art. 6 al. 1 CPP), à
+toutes les mesures d’instruction susceptibles d’établir l’existence de soupçons
+suffisants justifiant une mise en accusation (CREP 19 août 2022/624 consid. 2
+in
+fine
+; CREP 16 août
+2022/443 consid. 2
+in
+fine
+).
+2.2.2
+Selon l’art. 11 CP, un crime
+ou un délit peut aussi être commis par le fait d’un comportement passif contraire à
+une obligation d’agir (al. 1). Reste passif en violation d’une obligation d’agir celui
+qui n’empêche pas la mise en danger ou la lésion d’un bien juridique protégé
+par la loi pénale bien qu’il y soit tenu par sa situation juridique, notamment en vertu de
+la loi, d’un contrat, d’une communauté de risques librement consentie ou de la création
+d’un risque (al. 2). Cette position s’applique à tous les délits, qu’ils
+soient matériels ou formels, et donc aussi en matière d’infractions contre l’intégrité
+sexuelle (Cassani/Villars, Commentaire romand, Code pénal I, Bâle 2021, 2
+e
+éd.,
+n. 18 ad art. 11 CP ; cf. TF 6B_72/2009 du 20 mai 2009 consid. 2.3, où le Tribunal fédéral
+a admis qu’en s’éloignant d’un endroit où un viol était perpétré,
+le prévenu, qui avait connaissance de l’agression sexuelle en cours, avait agi par omission).
+N’importe quelle obligation juridique ne suffit toutefois pas.
+Il
+faut qu’elle ait découlé d’une position de garant
+,
+c’est-à-dire que l’auteur se soit trouvé dans une situation qui l’obligerait
+à ce point à protéger un bien déterminé contre des dangers indéterminés
+(devoir de protection), ou à empêcher la réalisation de risques connus auxquels des biens
+indéterminés étaient exposés (devoir de surveillance), que son omission peut être
+assimilée au fait de provoquer le résultat par un comportement actif (art. 11 al. 2 et 3 CP ;
+ATF 148 IV 39 consid. 2.3.2 ; ATF 141 IV 249 consid. 1.1). Sont notamment des garants,
+les parents naturels ou adoptifs, le tuteur, le maître d'école, le responsable d'une institution,
+et le directeur d'un home ou d'un internat (ATF 125 IV 64 consid. 1a et les références citées ;
+TF 6B_586/2021 du 26 janvier 2022 consid. 1.2). En outre, parmi les contrats pouvant conduire à
+une position de garant figurent, par exemple, ceux conclus avec un médecin, le personnel soignant,
+un guide de montagne, un moniteur d’équitation, un sauveteur ou un avocat ; les collaborateurs
+peuvent également, dans le cadre de leur domaine de responsabilité et dans la mesure où
+les compétences correspondantes leur ont été déléguées, avoir une position
+de garant (Niggli/Muskens, in : Niggli/Wiprächtiger [éd.], Basler Kommentar, Strafrecht I,
+4
+e
+éd., Bâle
+2019, n. 85 ad art. 11 CP et les références citées).
+Il faut encore, sur le plan objectif, que la violation de l’obligation du garant d’agir ou
+le manquement à cette obligation entraîne la mise en danger. Ainsi,
+il
+faut procéder par hypothèse et se demander si l'accomplissement de l'acte omis aurait évité
+la survenance du résultat qui s'est produit (
+ATF
+134 IV 255
+consid.
+4.4.1 p. 264 s. et les références citées) ;
+on parle de « causalité hypothétique ». En d’autres termes, l’omission
+d’une action qui viole le devoir du garant est hypothétiquement la cause de la mise en danger
+si l’accomplissement de l’action en question aurait exclu la survenance du danger. La jurisprudence
+exige un haut degré de vraisemblance (Niggli/Muskens, op. cit., n. 109 et 110 ad art. 11 CP et les
+références citées).
+Enfin, sur le plan subjectif, en cas d’infraction intentionnelle, l’auteur doit être
+conscient de sa position de garant, de l’obligation d’agir qui en résulte dans le cas
+spécifique, de ses possibilités d’agir, ainsi que des conséquences possibles de
+son inaction (Niggli/Muskens, op. cit., n. 145 ad art. 11 CP).
+2.3
+En l’espèce, il
+est fait grief aux responsables de la Fondation de P.________ de ne pas avoir pris les mesures adéquates
+afin d’éviter que le 15 septembre 2020, au sein de l’institution, A.________ porte atteinte
+à l’intégrité sexuelle de N.________, alors que des faits similaires s’étaient
+déjà produits entre eux en dehors de la Fondation en 2017.
+Il ressort du dossier qu’à l’époque des faits de septembre 2020, N.________ travaillait
+du lundi au vendredi au sein des « Ateliers de P.________ », selon le contrat d’engagement
+du 8 mai 2013 (P. 5/6), sans toutefois y être hébergée (cf. P. 5/4 [document
+« droit
+et devoirs des clients »
+], où il
+est expressément mentionné qu’
+« un
+engagement aux Ateliers de [...] ne donne pas droit automatiquement à une admission éventuelle
+dans une structure d’Hébergement »
+).
+Or, il résulte du dossier que la Fondation a, selon ses statuts et la
+« Charte
+et vision 2022 »
+, un devoir d’accompagnement
+envers les personnes qui travaillent dans les ateliers de l’institution et qui présentent,
+notamment, une déficience mentale, des troubles envahissants du développement et des troubles
+du spectre de l’autisme (P. 5/1 et 5/2).
+Il
+ne peut ainsi être exclu que la Fondation ait – de manière générale –
+une position de garant vis-à-vis de ses
+« clients »
+ou
+« résidents »
+et que, partant, à l’instar du responsable d'une institution, du directeur d'un home ou d'un
+internat (cf. consid. 2.2.2
+supra
+),
+ses organes de droit ou de fait avaient, à l’époque des faits de 2020
+,
+une position de garant envers N.________,
+du moins durant les heures où celle-ci travaillait dans les ateliers, eu égard au contrat d’engagement
+et à la situation de la jeune femme atteinte
+d’un
+retard mental (âge mental de 11 ans alors qu’elle est née en 1992)
+.
+Cela étant, la question est de savoir si, dans l’hypothèse où la mise en danger
+de l’intégrité sexuelle de N.________ devait être confirmée s’agissant
+des faits de 2020 – ce qui dépend de l’issue de la procédure pénale dirigée
+contre A.________ (
+référence PE20.016088 ;
+cf. let. A.a
+supra
+)
+–,
+la Fondation, et plus
+particulièrement ses organes de droit ou de fait, sont restés passifs en violation d’une
+obligation d’agir et si, dans ce dernier cas,
+l'accomplissement
+de l’acte omis aurait, avec un haut degré de vraisemblance, évité la survenance
+du résultat qui s'est produit, ce qui ne peut être exclu, en l’état.
+A cet égard, la recourante a requis, dans le délai de prochaine clôture, l’audition
+de son ancienne cheffe d’atelier en qualité de témoin, ainsi que la production des procès-verbaux
+des colloques de la Fondation. La procureure a refusé d’y donner suite au motif que ces réquisitions
+n’apporteraient aucune
+« plus-value »
+à l’enquête. On ne saurait, à ce stade, suivre ce raisonnement. Tout d’abord,
+ces mesures d’instruction sont faciles à réaliser et pourraient permettre de déterminer
+quels moyens avaient concrètement été mis en œuvre – ou pas – ensuite
+de l’événement de 2017 ; elles sont d’autant plus justifiées que des
+trois personnes entendues en cours d’enquête, seule K.________ a déclaré avoir été
+au courant, en 2017, des faits survenus à cette même époque, le directeur du secteur adulte,
+C.________, ayant affirmé n’en avoir eu connaissance que lors de la survenance de l’épisode
+de 2020, alors que V.________, responsable des ateliers et de la blanchisserie jusqu’au 31 mars
+2018, a expliqué qu’il n’avait pas eu vent de ce qui s’était produit malgré
+que K.________ ait affirmé l’en avoir avisé. Ensuite, force est de constater que l’enquête
+qui a été menée est sommaire et qu’elle n’a pas consisté en une véritable
+instruction, au-delà de l’audition des trois personnes précitées. En particulier,
+aucun document du dossier concernant le prévenu A.________ n’a été versé dans
+la présente enquête, quand bien même le conseil de la plaignante s’y était
+spécifiquement référée dans la plainte du 25 août 2021, et aucune demande concernant
+les instructions données depuis 2017 au sein de la Fondation n’a été adressée
+à cette dernière, alors que le document produit par C.________ lors de son audition fait expressément
+état, à la date des faits litigieux du 15 septembre 2020, de la
+« vigilance
+à laquelle la [...] (ndr, Fondation de P.________) s’était engagée »
+(P. 9), sans qu’on puisse déterminer en quoi consistait exactement cette mesure. On ne comprend
+même pas, sur la base du dossier, le fonctionnement de l’institution et par conséquent
+les responsabilités des divers intervenants, les pièces produites par la recourante à
+l’appui de sa plainte n’étant pas suffisantes à cet égard (P. 5/3). Il est
+par ailleurs surprenant que les événements de 2017, au vu de leur gravité, n’aient
+pas été immédiatement communiqués à C.________, alors qu’il occupait la
+fonction de directeur du secteur adulte à cette époque déjà ; les explications
+de ce dernier selon lesquelles, sur la base du
+« témoignage »
+qui avait été reporté à l’équipe présente en 2017, N.________ n’aurait
+jamais parlé d’
+« abus »
+(PV aud. 1, lignes 58 ss) sont non seulement en contradiction avec celles de K.________ – qui a
+indiqué qu’il avait été expressément question d’
+« attouchements »
+subis par la jeune femme (PV aud. 3, lignes 67 ss) –, mais également difficilement vérifiables,
+à défaut de disposer d’autres éléments. A cela s’ajoute que le directeur
+C.________ a lui-même admis que si une plainte avait été déposée par les parents
+de la victime,
+« cela
+aurait pu favoriser le fait qu’on mette un terme au contrat d’A.________ »
+(PV
+aud. 1, lignes 160 à 163) ; or, sur ce point également, on notera que K.________ a fait
+état de
+« nombreux
+téléphones »
+et
+« réclamations »
+de la part de la mère de la jeune femme en relation avec l’événement de 2017 (PV
+aud. 3, lignes 85 ss) et qu’une instruction pénale a été ouverte contre A.________
+pour ces faits.
+Ces différents
+éléments questionnent clairement la décision de la direction de la Fondation de P.________
+de permettre à A.________ de continuer à fréquenter l’établissement à
+la suite de ces faits et, dans une certaine mesure du moins, de côtoyer la victime.
+Dans l’hypothèse où les faits reprochés à A.________ ayant consisté à
+abuser sexuellement de N.________ en septembre 2020 devaient être confirmés, ce qui dépendra
+de l’issue de la procédure pénale dirigée contre lui (
+PE20.016088),
+ces questions, ainsi que les modalités du
+« protocole
+de vigilance »
+au sein de la Fondation
+auquel s’est référé le directeur C.________ (PV aud. 1, ligne 72), devront faire
+l’objet d’une instruction complémentaire au cours de laquelle il conviendra à tout
+le moins de procéder à l’audition de l’ancienne cheffe d’atelier de N.________
+et de requérir de ladite Fondation la production des procès-verbaux des colloques auxquels
+K.________ s’est référée dans son audition (PV aud. 3, ligne 108), compte tenu d’ailleurs
+des contradictions entre cette dernière et le directeur C.________ telles que relevées ci-avant.
+3.
+En définitive, le recours
+doit être admis et l’ordonnance entreprise annulée. Le dossier de la cause sera renvoyé
+au Ministère public de l’arrondissement du Nord vaudois pour qu’il procède dans
+le sens des considérants.
+Vu le sort du recours, les frais de la procédure, constitués en l’espèce de l’émolument
+d’arrêt, par 1'320 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), et des frais imputables à l’assistance
+du conseil juridique gratuit de N.________ (art. 422 al. 1 et 2 let. a CPP), fixés à
+540 fr., correspondant à trois heures d’activité nécessaire d’avocat au tarif
+horaire de 180 fr., auxquels il convient d’ajouter des débours forfaitaires à concurrence
+de 2 % (art. 3
+bis
+al. 1 RAJ [règlement du 7 décembre 2010 sur l'assistance judiciaire en matière
+civile ; BLV 211.02.3], applicable par renvoi de l’art. 26b TFIP), par 10 fr. 80, plus la
+TVA au taux de 7,7 %, par 42 fr. 40, soit à 594 fr. en chiffres arrondis, seront laissés
+à la charge de l’Etat (art. 428 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 29 septembre 2022 est annulée.
+III.
+Le dossier de la cause est renvoyé
+au Ministère public de l’arrondissement du Nord vaudois pour qu’il procède dans
+le sens des considérants.
+IV.
+L’indemnité
+allouée au conseil juridique gratuit de N.________ est fixée à 594 fr. (cinq cent
+nonante-quatre francs).
+V.
+Les frais d’arrêt, par
+1'320 fr. (mille trois cent vingt francs), ainsi que l’indemnité due au conseil juridique
+gratuit de N.________, par 594 fr. (cinq cent nonante-quatre francs), sont laissés à la
+charge de l’Etat.
+VI.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Cyrielle Kern, avocate (pour N.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement du Nord vaudois,
+-
+Me Eric Stauffacher, avocat (pour C.________),
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
