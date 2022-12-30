@@ -1,0 +1,304 @@
+---
+decision_id: "vd_findinfo_Faillite___2022___28"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2022 / 28"
+decided: "2022-12-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9175493"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/272/art-107.md", "switzerland/bund/acts/272/art-239.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-327.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-191.md", "switzerland/bund/acts/281.1/art-194.md"]
+---
+
+# VD Findinfo Faillite / 2022 / 28
+
+## Regeste
+
+DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION, POUVOIR D'EXAMEN LIMITÉ, DÉCLARATION D'INSOLVABILITÉ | 29 al. 2 Cst., 174 al. 1 LP, 191 LP, 327 al. 3 let. a CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2022 / 28
+
+DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION, POUVOIR D'EXAMEN LIMITÉ, DÉCLARATION D'INSOLVABILITÉ | 29 al. 2 Cst., 174 al. 1 LP, 191 LP, 327 al. 3 let. a CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FY22.024953-221257
+261
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+30 décembre 2022
+_______________________
+Composition
+:               M.
+Hack
+,
+président
+Mme
+Byrde et M. Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+29 al. 2 Cst., 327 al. 3 let. a CPC, 174 al. 1 et 191 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+B.________SA
+,
+à [...], contre le jugement rendu le 14 septembre 2022, à la suite de l’audience du 8
+septembre précédent, par le Président du Tribunal d’arrondissement de Lausanne,
+prononçant la faillite de
+H.________
+,
+à [...], à la requête de celui-ci.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 17 juin 2022, H.________ a requis du Président du Tribunal d’arrondissement de Lausanne
+sa mise en faillite personnelle. Selon le bordereau joint à sa requête, il aurait produit sept
+pièces, qui ne se trouvent toutefois pas au dossier.
+Par décision du 23 juin 2022, le président du tribunal a accusé réception de cet
+avis d’insolvabilité et ordonné, dans un délai au 13 juillet 2022, la production
+de pièces supplémentaires par le requérant ainsi que le versement d’une avance de
+frais de 5'000 fr. à l’Office des faillites de l’arrondissement de Lausanne et d’une
+avance de frais judiciaires de 200 fr. au tribunal.
+Le 6 juillet 2022, H.________ a adressé au tribunal une écriture complétant sa requête
+ainsi que, selon le procès-verbal des opérations, «
+un
+lot de pièces volumineux
+». Ces
+pièces ne se trouvent toutefois pas au dossier.
+Le 11 juillet 2022, le requérant a versé l’avance de frais judiciaires de 200 fr. au
+tribunal ainsi que la moitié de l’avance de frais de 5'000 fr. à l’office des faillites.
+Il a demandé un délai pour régler l’autre moitié, qui lui a été accordé
+au 8 août 2022.
+Le 11 juillet 2022, toujours, le requérant a adressé au tribunal une écriture apportant
+des corrections à sa requête et a produit des pièces complémentaires, qui se trouvent
+au dossier.
+Le 20 juillet 2022, le requérant s’est acquitté du solde de l’avance de frais à
+l’office des faillites.
+Le 25 juillet 2022, le président du tribunal a cité le requérant et l’office des
+faillites à comparaître à l’audience du 8 septembre 2022 à 11 heures 15.
+Selon le procès-verbal de l’audience, le président a pris séance à 11 heures ;
+le requérant s’est présenté personnellement et a été entendu ; il
+a produit une pièce ; après une suspension d’audience de trois minutes, le comparant
+a été informé que la décision à intervenir lui serait communiquée ultérieurement
+par écrit ; les débats ont été clos et l’audience levée à 11
+heures 30.
+2.
+Par décision adressée le 14 septembre
+2022 pour notification au requérant et pour communication aux offices concernés, le Président
+du Tribunal d’arrondissement de Lausanne, «
+vu
+la déclaration d’insolvabilité formée le 17 décembre 2022
+», «
+vu les
+pièces produites
+» et «
+ouï
+le requérant personnellement
+»,
+considérant que «
+tout
+règlement amiable des dettes au sens des articles 333 ss LP paraît exclu
+»
+et «
+vu les articles
+191, 231 LP; 42c ch. 3 et 9 LVLP
+»,
+a prononcé la faillite de H.________, le 14 septembre 2022 à 10 heures (I), ordonné
+la liquidation sommaire de cette faillite (II) et mis les frais, par 200 fr., à la charge du failli
+(III).
+3.
+Par recours déposé le 3 octobre 2022,
+B.________SA, créancière du failli, a conclu, avec suite de frais et dépens, principalement,
+à la réforme du jugement du 14 septembre 2022 en ce sens que la faillite de H.________ n’est
+pas prononcée, subsidiairement à son annulation et au renvoi de la cause au premier juge pour
+nouvelle décision dans le sens des considérants. Elle a requis l’effet suspensif.
+En preuve de son allégation selon laquelle elle avait eu connaissance du jugement attaqué à
+la suite d’un appel téléphonique de son conseil avec l’Office des poursuites du
+district de Lausanne le 26 septembre 2022, la recourante a produit la lettre du 27 septembre 2022, anticipée
+par e-fax, par laquelle elle a requis de l’Office des faillites de l’arrondissement de Lausanne
+une copie du jugement en question, et le courriel du 27 septembre 2022 par lequel ledit office a répondu
+à sa requête en lui transmettant le jugement demandé.
+Par décision du 7 octobre 2022, prenant date le 10 octobre suivant, le Président de la cour
+de céans a admis la requête d’effet suspensif contenue dans le recours et ordonné,
+à titre de mesures conservatoires, l’inventaire et l’audition du failli.
+Par décision présidentielle du 1
+er
+décembre 2022, la demande d’assistance judiciaire déposée par l’intimé
+H.________ dans la procédure de recours a été rejetée.
+L’intimé ne s’est pas déterminé sur le recours dans le délai qui lui
+a été imparti pour ce faire par avis du 8 décembre 2022.
+En droit
+:
+I.
+a)
+La faillite du débiteur prononcée
+à la requête de celui-ci, aux conditions de l’art. 191 LP (loi fédérale sur
+la poursuite pour dettes et la faillite ; RS 281.1), est un cas de faillite sans poursuite préalable
+auquel s’applique notamment, en vertu de l’art. 194 LP, l’art. 174 al. 1 LP. Aux termes
+de cette disposition, la décision du juge de la faillite peut, dans les dix jours, faire l’objet
+d’un recours au sens du CPC (Code de procédure civile ; RS 272).
+En l’espèce, la recourante établit n’avoir pas eu connaissance de l’existence
+du jugement avant le 26 septembre 2022 et de son contenu avant le lendemain. Par conséquent, son
+recours déposé le 3 octobre 2022 l’a été en temps utile.
+Le recours a en outre été exercé dans les formes requises par l’art. 321 al. 1 CPC.
+b)
+La faillite volontaire prévue à l’art.
+191 LP n’est pas une procédure visant à régler la problématique du surendettement
+des particuliers obérés (ATF 145 III 26 consid. 2.2 ; 133 III 614 consid. 6 ; parmi
+plusieurs : TF 5A_78/2016 du 14 mars 2016 consid. 3.1 ; 5A_915/2014 du 14 janvier 2015
+consid. 5.1,
+in
+SJ 2015 I p. 181 ; Marchand, La faillite personnelle, entre abus et regrets, JdT 2018 II p. 11 ss,
+n. 25 ss et les citations). Selon le Tribunal fédéral, avec l’art. 191 LP, le législateur
+n’a pas voulu introduire et n’a pas introduit une procédure de désendettement des
+particuliers pour régler le problème du surendettement des débiteurs les plus obérés,
+qui n’ont plus d’actifs (ATF 133 III 614 précité). Sur la base de ces principes,
+dans un arrêt de principe rendu à cinq juges le 11 septembre 2019 (CPF 11 septembre 2019/184),
+la cour de céans, considérant que la faillite volontaire pouvait prêter à des abus
+que le premier juge n’avait pas forcément les moyens de déceler – cela dépendant
+du niveau de collaboration du débiteur – et que le législateur n’avait pas voulu
+que les conditions matérielles restrictives de la « faillite privée » puissent
+rester lettre morte, a adopté la solution consistant à reconnaître la qualité pour
+recourir à toute personne dont les intérêts juridiquement protégés sont lésés
+ou exposés à l'être par suite du jugement de faillite, soit notamment aux créanciers
+du failli. Elle a précisé cependant que cela n’impliquait pas d’élargir le
+cercle des parties à la procédure de faillite volontaire en première instance et d’exiger
+du juge qu’il convoque les créanciers à son audience, cette procédure étant
+et demeurant en principe une procédure sans partie adverse en première instance.
+En l’espèce, B.________SA, créancière du failli, a un intérêt de droit
+matériel à faire contrôler que les conditions restrictives de la faillite volontaire sont
+remplies et, partant, a qualité pour recourir.
+II.
+La recourante se plaint d’une violation
+par le premier juge de son obligation de motivation, au vu du caractère lacunaire du jugement attaqué,
+et, par conséquent, d’une violation du droit d’être entendu garanti par l’art.
+29 al. 2 Cst. (Constitution fédérale ; RS 101).
+a)
+La jurisprudence a déduit du droit d'être entendu le devoir de l'autorité ou du juge de
+motiver sa décision afin que le destinataire puisse la comprendre et l'attaquer utilement s'il y
+a lieu, et que l'autorité de recours puisse exercer son contrôle. Pour répondre à
+ces exigences, le juge doit mentionner, au moins brièvement, les motifs qui l'ont guidé dans
+sa décision, de manière à ce que l'intéressé puisse se rendre compte de la portée
+de celle-ci et l'attaquer en connaissance de cause. L'autorité n'a pas l'obligation d'exposer et
+de discuter tous les faits, moyens de preuve et griefs invoqués par les parties, mais elle peut
+au contraire se limiter à ceux qui, sans arbitraire, lui paraissent pertinents (ATF 145 III 324
+consid. 6.1 ; 143 III 65 consid. 5.2 ; 142 III 433 consid. 4.3.2 ; 138 I 232 consid. 5.1;
+133 III 439 c. 3.3, JdT 2008 I 4). L'essentiel est que la décision indique clairement les faits
+qui sont établis et les déductions juridiques qui sont tirées de l'état de fait déterminant
+(ATF 142 II 154 consid. 4.2; TF 5A_570/2017 du 27 août 2018 consid. 4.2).
+Le droit d’être entendu est une garantie
+constitutionnelle de caractère formel, dont la violation doit entraîner l’annulation
+de la décision indépendamment des chances de succès du recours sur le fond (ATF 142 II
+218 consid. 2.8.1 et les références citées ; TF 4A_453/2016 du 16 février 2017 consid.
+4.2.2, RSPC 2017 p. 313). Une violation du droit d’être entendu peut toutefois être
+réparée dans le cadre de la procédure de recours lorsque l’irrégularité
+n’est pas particulièrement grave et pour autant que la partie concernée ait la possibilité
+de s’exprimer et de recevoir une décision motivée de la part de l’autorité
+de recours disposant d’un pouvoir d’examen complet en fait et en droit (ATF 142 II 218 consid.
+2.8.1 et réf. cit.). Une réparation du vice procédural peut également se justifier,
+même en présence d’un vice grave, lorsque le renvoi à l’autorité précédente
+constitue une vaine formalité, provoquant un allongement inutile de la procédure, incompatible
+avec l’intérêt de la partie concernée à ce que sa cause soit tranchée
+dans un délai raisonnable (ATF 142 II 218 consid. 2.8.1 et réf. cit. ; TF 4A_283/2013 du 20
+août 2013 consid. 3.3, RSPC 2014 p.5 ; TF 5A_596/2018 du 26 novembre 2018 consid. 5.3
+et réf. cit.).
+b)
+Aux termes de l’art. 191 LP - dont les conditions d’application ont été rendues
+plus strictes lors de la révision de la LP entrée en vigueur le 1
+er
+janvier 1997 (cf. ATF 133 III 614 consid. 6.1.2) -, le débiteur peut lui-même requérir
+sa faillite en se déclarant insolvable en justice. Cette prérogative trouve sa limite dans
+l'abus de droit (art. 2 al. 2 CC [Code civil ; RS 210]), dont le juge doit examiner d'office la
+réalisation au regard de l'ensemble des circonstances du cas concret (ATF 145 III 26 consid.
+2.1). Comme la faillite volontaire n'est pas une procédure visant à régler la problématique
+du surendettement des particuliers, le juge doit examiner précisément si les conditions de
+l’art. 191 al. 1 LP sont remplies et si le débiteur ne commet pas un abus de droit, notamment
+vis-à-vis du créancier saisissant (ATF 145 III 26 consid. 2.2 et les réf. cit.).
+c)
+En
+l’espèce, le jugement attaqué se limite à mentionner la date, l’auteur et
+l’objet de la requête, «
+les
+pièces produites
+» et le nom du
+comparant à l’audience, et d’énumérer les dispositions légales appliquées.
+Il ne ressort pas du dossier, en particulier du procès-verbal de l’audience, que le président
+du tribunal aurait fait le choix de communiquer son jugement sans motivation écrite et en aurait
+informé le requérant (art. 239 al. 1 CPC). Le jugement qu’il a rendu ne contient toutefois
+absolument aucun état de fait et pas la moindre motivation en droit. Cela constitue une telle violation
+du devoir du juge de motiver sa décision qu’elle ne saurait être considérée
+comme un vice sans gravité particulière. Au demeurant, le pouvoir d’examen de l’autorité
+de recours est limité en fait à l’arbitraire (cf. art. 320 let. b CPC ; ATF 138
+III 232 consid. 4.1.2, JdT 2012 II 511 ; TF 5D_214/2021 du 6 mai 2022 consid. 2.2.1 ;
+TF 4D_30/2017 du 5 décembre 2017 consid. 2.2). Il n’est dès lors pas possible de traiter
+le recours et la cour de céans ne peut qu'annuler d’office le jugement attaqué et renvoyer
+la cause au premier juge pour qu’il motive en fait et en droit la décision qu’il a rendue
+– et, en particulier, qu’il expose en quoi les conditions de l’art. 191 al. 1 LP sont
+remplies et, le cas échéant, en quoi le débiteur ne commet pas d’abus de droit vis-à-vis
+des créanciers – et la notifie à la recourante. Ce renvoi ne constitue pas une vaine
+formalité, dès lors que la recourante pourra ainsi déterminer la suite à donner à
+la décision motivée en toute connaissance de cause.
+III.
+Vu ce qui précède, le recours doit être
+admis, le jugement annulé et la cause renvoyée au premier juge (art. 327 al. 3 let. a CPC)
+pour nouvelle décision dans le sens des considérants.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., sont laissés
+à la charge de l’Etat (art. 107 al. 2 CPC). L’avance de frais du même montant effectuée
+par la recourante doit lui être remboursée.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le jugement est annulé et la cause renvoyée au premier juge pour nouvelle décision dans
+le sens des considérants.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont laissés à la charge de l’Etat.
+L’avance de frais
+de 300 fr. (trois cents francs) effectuée par la recourante B.________SA lui est remboursée
+par la caisse du Tribunal cantonal.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Olivier Nicod, avocat (pour B.________SA),
+‑
+M. H.________,
+-
+M. le Préposé à l’Office des faillites de l’arrondissement de Lausanne,
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cette décision est communiquée, par l'envoi de photocopies, à :
+-
+M. le Préposé au Registre du commerce du canton de Vaud,
+-
+Mme la Conservatrice du Registre foncier, Office de Lausanne,
+et, en original, à :
+-
+M. le Président du Tribunal d’arrondissement de Lausanne.
+La greffière :
