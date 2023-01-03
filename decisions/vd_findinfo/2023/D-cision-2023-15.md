@@ -1,0 +1,786 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___15"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 15"
+decided: "2023-01-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9173107"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-086.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/741.01/art-090.md", "switzerland/bund/acts/818.101/art-026.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2023 / 15
+
+## Regeste
+
+REJET DE LA DEMANDE, PRONOSTIC, LIBÉRATION CONDITIONNELLE, RISQUE DE RÉCIDIVE | 86 al. 1 CP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 03.01.2023 Décision / 2023 / 15
+
+REJET DE LA DEMANDE, PRONOSTIC, LIBÉRATION CONDITIONNELLE, RISQUE DE RÉCIDIVE | 86 al. 1 CP
+
+TRIBUNAL
+CANTONAL
+1
+AP22.017994-BRB
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+3 janvier 2023
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mme
+Fonjallaz et M. Perrot, juges
+Greffier
+:              M.
+Valentino
+*****
+Art.
+86 al. 1 CP
+Statuant sur le recours interjeté le 2 décembre 2022 par
+D.________
+contre l’ordonnance rendue le 23 novembre 2022 par le Juge d’application des peines dans
+la cause
+n° AP22.017994-BRB
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+D.________
+est né le [...] 1997 au Portugal,
+pays dont il est ressortissant. Il est arrivé en Suisse avec ses parents à l’âge
+de 4 ans. Hormis sa scolarité obligatoire effectuée en Suisse, il n’est pas au bénéfice
+d’une formation professionnelle. Il est demeuré plusieurs années à la charge de
+ses parents, en percevant le revenu d’insertion. Il aurait ensuite œuvré notamment en
+qualité de parqueteur et maçon. Puis, il a occupé un emploi de chauffeur-livreur, poste
+dont il a démissionné, avant d’être incarcéré comme on le verra ci-après.
+Son permis d’établissement (permis C) est échu depuis le 17 mai 2021. Le prénommé
+a demandé le renouvellement dudit permis auprès du Service de la population et son dossier
+est en cours d’examen (P. 3/16).
+b)
+Selon
+avis de détention du 25 juillet 2022, D.________ exécute aux Etablissements de la plaine de
+l’Orbe (ci-après : EPO) les peines privatives de liberté suivantes :
+-
+12 mois, peine entièrement complémentaire
+à celle infligée le 25 juin 2018 par le Tribunal de police de l’arrondissement de Lausanne,
+ainsi que 10 jours en conversion d’une amende impayée, prononcés le 3 juillet 2020 par
+le Tribunal correctionnel de l’arrondissement de Lausanne pour infraction à la Loi fédérale
+sur les stupéfiants (LStup), violation grave des règles de la circulation routière (LCR),
+violation des obligations en cas d’accident et conduite d’un véhicule en état défectueux,
+peine confirmée par jugement de la Cour d’appel pénale du 20 novembre 2020) ; cette
+condamnation cumule un grand nombre d’infractions commises sur deux ans, dont la participation
+à un trafic international de marijuana portant sur 24 kilos et une infraction grave à la LCR
+en état de récidive spéciale pour avoir heurté volontairement un piéton ;
+- 180 jours, comprenant la révocation de la libération conditionnelle accordée le 5 novembre
+2020 par le Juge d’application des peines, prononcés le 13 août 2021 par le Ministère
+public de l’arrondissement de Lausanne pour conduite d’un véhicule automobile sous l’effet
+de l’alcool (taux d’alcool qualifié) ;
+- un total de 35 jours, en conversion d’amendes impayées, prononcés entre le 22 mars
+2021 et le 7 avril 2022 respectivement par la Police de l’Ouest lausannois, les Commissions de
+police de Lausanne et de la Riviera ainsi que la Préfecture du Jura-Nord vaudois.
+D.________
+a débuté l’exécution
+de ses peines le 9 octobre 2021. Après avoir été détenu quelques jours à
+la zone carcérale de l’Hôtel de police de Lausanne, il a intégré la prison
+du Bois-Mermet, avant d’être transféré aux EPO, le 14 décembre 2021. Il a atteint
+les deux tiers de ses peines le 26 novembre 2022, le terme de celles-ci étant fixé au
+11 juin 2023.
+c)
+Hormis
+les peines précitées, l’extrait du casier judiciaire suisse de D.________ mentionne les
+condamnations suivantes :
+- 20.07.2016, Ministère public de l’arrondissement
+Lausanne : faux dans les certificats ; 45 jours-amende à 20 fr. avec sursis pendant
+2 ans et amende 200 fr. ; sursis révoqué le 25.06.2018 ;
+- 09.03.2017, Ministère public de l’arrondissement Lausanne : délit contre Loi fédérale
+sur les armes ; 20 jours-amende à 30 fr. avec sursis pendant 2 ans et amende 300 fr. ;
+sursis révoqué le 25.06.2018 ;
+- 26.07.2017, Ministère public de l’arrondissement Lausanne : violation des règles
+de la circulation routière, conduite d’un véhicule défectueux, omission de porter
+les permis ou les autorisations au sens de la Loi fédérale sur la circulation routière,
+usage abusif de permis et/ou de plaques de contrôle et usurpation de plaques de contrôle ;
+40 jours-amende à 30 fr. et amende 500 fr. ;
+- 02.02.2018, Ministère public de l’arrondissement Lausanne : voies de fait et injure ;
+25 jours-amende à 30 fr. et amende 500 fr. ;
+- 25.06.2018, Tribunal de police de l’arrondissement de Lausanne : violation grave des règles
+de la circulation routière, violation des règles de la circulation routière, conduite
+d’un véhicule défectueux, tolérer l’emploi d’un véhicule défectueux,
+omission de porter les permis ou les autorisations au sens de la Loi fédérale sur la circulation
+routière, contravention à l’Ordonnance sur les règles de la circulation routière,
+contravention à l’Ordonnance réglant l’admission à la circulation routière,
+contravention selon l’art. 19a de la Loi fédérale sur les stupéfiants ; peine
+privative de liberté 270 jours et amende 400 francs.
+Il ressort également de l’extrait
+du casier judiciaire que D.________ fait l’objet d’une instruction pénale ouverte le
+12 novembre 2021 par le Ministère public de l’arrondissement de Lausanne pour menaces.
+Le 7 novembre 2019, après avoir été détenu pendant 3 jours à la prison de la
+Croisée, D.________, qui a dû faire l’objet d’un mandat d’arrêt, a débuté
+l’exécution de la peine privative de liberté de 270 jours précitée et de plusieurs
+peines privatives de liberté correspondant à la conversion d’amendes et de peines pécuniaires
+impayées, sous le régime de la semi-détention. L’exécution a été
+suspendue le 9 avril 2020 en raison de la pandémie Covid-19, puis a repris le 18 août 2020.
+Durant l’exécution de ses peines sous le régime de la semi-détention, D.________
+a fait l’objet de plusieurs sanctions disciplinaires, d’un rappel de cadre et d’un
+avertissement formel en raison de ses manquements aux conditions assortissant ce régime (P. 3/8).
+Par ordonnance du 5 novembre 2020, le Juge d’application des peines l’a néanmoins libéré
+conditionnellement à compter du 11 novembre 2020, avec délai d’épreuve d’un
+an et assistance de probation, le solde de la peine à exécuter étant de 4 mois et 2 jours.
+Dans son ordonnance (P. 4), le magistrat a retenu ce qui suit :
+« D.________,
+à moins de 30 ans, détient un nombre particulièrement conséquent de sanctions pénales
+pour des infractions principalement liées au code de la route. Il a ainsi, sur une période
+relativement brève de deux ans, entre 2016 et 2017, accumulé des transgressions routières.
+Tantôt les faits pouvant être qualifiés de moindres, tantôt ceux-ci étant au
+contraire graves et susceptibles d’avoir mis en danger la sécurité d’autrui. Ces
+actes punis, l’intéressé a persisté dans une nonchalance certaine, contraignant
+l’autorité d’exécution à délivrer un mandat d’arrêt à
+son encontre afin de lui faire purger ses peines. Tout au long de l’exécution des peines,
+le condamné a démontré une propension crasse à la négligence, faisant fi à
+réitérées reprises des obligations qui lui incombaient et présentant parfois des
+excuses qui confinent à la mauvaise foi. La question de l’amendement et de la remise en question,
+chez ce jeune condamné, reste indécise. Cela dit, au sein de l’établissement de
+détention, il a semble-t-il fait montre d’un comportement adéquat, les retards pluriels
+exceptés. Par ailleurs, il a su faire en sorte de conserver une activité professionnelle (…).
+Au demeurant, (…) la plupart de son activité délictueuse s’est déployée
+dans le cadre de règles de la circulation routière. Or, il dispose manifestement désormais
+d’un permis de conduire (…) [qui] apparaît particulièrement précieux le concernant,
+puisqu’il est indispensable pour exercer son métier de chauffeur livreur. L’on peut
+espérer qu’il saura à l’avenir respecter le code de la route, non seulement dans
+son propre intérêt, mais encore et surtout, dans celui des autres usagers. Aujourd’hui,
+D.________ présente des projets d’avenir qui semblent à même de le tenir éloigné
+de la commission de nouvelles infractions. Le pronostic n’apparaît ainsi pas résolument
+défavorable, si bien qu’il convient de lui accorder le bénéfice d’une libération
+conditionnelle ».
+Par courrier du 6 novembre 2020, l’Office d’exécution des peine (ci-après :
+l’OEP) a confié le mandat d’assistance de probation à la Fondation vaudoise de
+probation (ci-après : FVP). D.________ n’a
+pas
+respecté divers
+rendez-vous
+fixés dans le cadre de son suivi probatoire (P. 3/8). Dans son plan d’assistance de probation
+du 7 avril 2021, la FVP a indiqué que l’intéressé s’était néanmoins
+engagé à respecter le rythme des entretiens établi et à collaborer avec son agent
+de probation dans la réalisation des objectifs fixés qui s’inscrivaient dans une perspective
+de sortie durable de la délinquance ; ce plan a été signé par le condamné
+ainsi que par l’agent de probation et validé par le responsable de secteur le 17 mai 2021
+(P. 3/9). Puis, comme relevé ci-avant, la libération conditionnelle a été révoquée,
+le prénommé ayant récidivé en matière d’infractions à la LCR le 15
+mai 2021, et sa réintégration ordonnée dans le cadre de la peine d’ensemble de 180
+jours infligée par ordonnance pénale du 13 août 2021, incluant le solde de peines à
+exécuter de 4 mois et 2 jours (P. 3/4 et 3/8). Par décision du 18 août 2021, l’OEP
+a rejeté la requête de D.________ du 19 juillet 2021 tendant à l’octroi du régime
+de la semi-détention dans le cadre de l’exécution de la peine privative de liberté
+de 12 mois prononcée le 3 juillet 2020 par le Tribunal correctionnel de l’arrondissement de
+Lausanne, en considérant que l’intéressé présentait un risque de récidive
+et qu’il n’existait pas de garantie suffisante quant à sa capacité de respecter
+les conditions assortissant ce régime, et a précisé qu’en cas d’entrée
+en force de la condamnation du 13 août 2021 précitée, le quantum de peine n’était,
+dans tous les cas, pas compatible avec ledit régime (P. 3/8). Le 14 septembre 2021, l’OEP
+a relevé la FVP de l’assistance de probation qui lui avait été confiée le 6
+novembre 2020 (P. 3/8).
+d)
+Selon
+le plan d’exécution de la sanction (PES) simplifié établi en avril 2022 et ratifié
+par l’OEP le 10 mai 2022 (P. 3/12), D.________ a été invité à observer un bon
+comportement en détention et à maintenir son abstinence à la consommation de substances
+prohibées, tout comme à se rendre régulièrement à l’atelier et à
+observer les règles et les horaires. En outre, il a été préconisé une collaboration
+avec les intervenants responsables de sa prise en charge en vue notamment de mettre en œuvre des
+stratégies lui permettant d’acquérir une stabilité socio-professionnelle concrète
+et réaliste. Il a par ailleurs été relevé qu’il paraissait crucial que le condamné
+entame une réflexion, non seulement sur son fonctionnement propre mais également en lien avec
+ses agirs délictuels et ses fragilités personnelles, en particulier concernant ses récidives
+en matière d’infractions au Code de la route, à la Loi fédérale sur les stupéfiants
+et à sa consommation d’alcool au volant, ce dernier étant encouragé à entreprendre
+un suivi volontaire auprès du Service de médecine et psychiatrie pénitentiaires (SMPP).
+e)
+Par
+courrier du 31 mai 2022, l’OEP a autorisé le transfert de D.________ en secteur ouvert des
+EPO dès le 21 juin 2022, à une date précise à déterminer par la direction dudit
+établissement, ce placement étant subordonné aux conditions cumulatives suivantes :
+bon comportement, respect des directives, stricte abstinence à l’alcool et aux produits stupéfiants,
+collaboration avec les intervenants en vue de l’élaboration d’un projet de réinsertion
+socioprofessionnelle concret et réaliste et collaboration avec les autorités administratives
+en cas de refus du renouvellement de son permis de séjour. Il était précisé que toute
+violation du cadre imposé était susceptible d’entraîner la révocation de cette
+décision (P. 3/14).
+L’intéressé a intégré la Colonie ouverte en date du 18 juillet 2022 (P. 3/17).
+f)
+Selon
+le rapport établi le 10 août 2022 par la Direction des EPO, le comportement de D.________ pouvait
+être qualifié de globalement bon, étant néanmoins relevé que le prénommé
+peinait à respecter les règles et les horaires du cellulaire et qu’il avait fait l’objet
+de quatre sanctions disciplinaires, la dernière en date du 18 juillet 2022. Pour le surplus, il
+était exposé que son attitude au travail était bonne et qu’il fournissait des prestations
+du même ordre.
+Il était en outre indiqué que D.________ souhaitait désormais
+« reprendre
+sa vie en main »
+et qu’il avait
+pour projet de débuter un préapprentissage de carrossier-peintre puis un apprentissage dans
+ce domaine. Sur ce point, il a été souligné que le prénommé s’était
+engagé auprès du Secteur social à transmettre,
+« dans
+les plus brefs délais »
+, ses contrats
+de préapprentissage et d’apprentissage directement à l’OEP. Il envisagerait de
+retourner vivre chez ses parents, avant de pouvoir emménager – à terme – avec son
+amie.
+Finalement, l’établissement carcéral a préavisé favorablement à la libération
+conditionnelle de l’intéressé, subordonnée à la transmission des documents
+« attestant de la
+véracité de ses dires concernant ses projets futurs, ainsi qu’à la transmission
+d’une attestation d’hébergement de sa mère »
+(P. 3/17).
+g)
+D.________
+a été sanctionné à dix reprises
+durant sa détention, entre le 24 novembre 2021 et 26 octobre 2022, pour notamment inobservations
+des règlements et directives, communication irrégulière, refus d’obtempérer,
+fraude et trafic (pour avoir été en possession d’un téléphone portable et de
+produit stupéfiant, soit un morceau de cannabis) ainsi que pour dommage à la propriété.
+Il a néanmoins pu bénéficier de trois congés, de 24 heures chacun, les 21 octobre,
+30 octobre et 11 novembre 2022 (P. 6).
+B.
+a)
+L’OEP a saisi le Juge d’application
+des peines, le 26 septembre 2022, d’une proposition tendant à accorder la libération
+conditionnelle de D.________, dès qu’il pourrait attester être au bénéfice
+d’un logement fixe pour sa sortie de prison, au plus tôt le 26 novembre 2022, avec un délai
+d’épreuve d’un an, et à ordonner durant ce délai une assistance de probation,
+ainsi que des contrôles d’abstinence à l’alcool et aux stupéfiants. Il a estimé
+– nonobstant les antécédents judiciaires du prénommé et un précédent
+élargissement anticipé révoqué dans la mesure où il avait récidivé
+– que l’exécution de la totalité des peines n’amènerait rien de plus
+à l’intéressé au niveau de son amendement ou à la prévention de la récidive.
+Il a néanmoins relevé qu’il était attendu de l’intéressé qu’il
+produise toutes les preuves concrètes en lien avec ses projets d’avenir ainsi qu’une
+attestation de logement. Enfin, l’OEP a préconisé une assistance de probation et des
+contrôles d’abstinence tels que susmentionnés au vu des fragilités qu’il présentait
+en lien avec des consommations de produits toxicologiques.
+b)
+Le
+8 novembre 2022, le Juge d’application des peines a procédé à l’audition
+D.________,
+assisté de son défenseur d’office. Le prénommé a déclaré que son
+exécution de peines se passait globalement bien. Interpellé sur les nombreuses sanctions dont
+il avait fait l’objet, il a répondu ce qui suit :
+« j’ai
+fait l’objet de quelques sanctions, soit des sanctions disciplinaires pour avoir été
+en possession d’un téléphone et pour ne pas m’être rendu au travail […]
+Je peine à dormir la nuit ces temps et c’est trop contraignant de me lever le matin […]
+je suis en secteur ouvert depuis le 18 juillet 2022 […] je n’ai entrepris aucune démarche
+pour suivre une formation en détention car la durée de ma peine ne me le permet pas ».
+Invité à revenir sur ses condamnations,
+il a déclaré :
+« Franchement,
+je regrette beaucoup ce que j’ai fait par le passé. Je ne le referai pas. J’ai beaucoup
+réfléchi, j’en souffre et j’ai honte de mes comportements passés […]
+avant je n’avais pas opéré cette réflexion. Vous me demandez si une période
+de semi-détention et l’octroi d’une libération conditionnelle se sont pas suffisantes
+pour réfléchir et ne pas commettre de nouvelles infractions. La semi-détention est très
+différente de la prison ferme. C’est ma détention qui m’a fait réfléchir
+».
+Confronté à ses antécédents
+et à son comportement durant cette nouvelle période de détention qui ne plaidaient pas
+en sa faveur, il a affirmé :
+« La
+prison m’a vraiment fait réfléchir, je veux me reprendre en main. J’ai trouvé
+une place d’apprentissage pour 2023 comme carrossier-peintre. Dans l’intervalle, je vais
+pouvoir faire un préapprentissage au sein de la même entreprise dès ma libération
+conditionnelle »
+. Enfin, interrogé
+sur les projets envisagés en cas de libération, il a confirmé qu’il irait habiter
+chez sa mère, produisant à cet égard une attestation allant en ce sens (P. 9). Quant à
+son statut administratif, il a expliqué que la procédure concernant son renouvellement de permis
+était suspendue durant sa détention et que selon les informations reçues du SPOP, une
+décision interviendrait dès sa libération. Pour le surplus, l’intéressé
+s’est dit candidat à la libération conditionnelle, tout en relevant qu’il pouvait
+compter sur le soutien de sa mère, de sa copine et de son frère une fois libéré.
+c)
+Dans
+son courrier du 14 novembre 2022, le Ministère public a indiqué qu’il se ralliait à
+la proposition de l’OEP du 26 septembre 2022, préavisant favorablement à la libération
+conditionnelle de l’intéressé, avec un délai d’épreuve ainsi qu’un
+suivi probatoire et des contrôles d’abstinence à l’alcool et aux stupéfiants
+durant ledit délai.
+d)
+Dans ses déterminations du 17 novembre
+2022, le défenseur de D.________ a notamment exposé que toutes les autorités avaient émis
+un préavis favorable quant à l’octroi de la libération conditionnelle de son mandant
+et que ce dernier n’avait jamais connu la prison ferme jusqu’à son incarcération
+le 9 octobre 2021. Il a en outre observé que le prénommé avait subi plus de 13 mois de
+détention – dont 20 jours en zone carcérale – et que cette expérience avait
+été suffisamment marquante pour le pousser à se reprendre totalement en main et éviter
+toute nouvelle difficulté avec la justice. Par ailleurs, il a exposé que son mandant était
+âgé de 25 ans et qu’il était important qu’il puisse recouvrer la liberté
+pour se reconstruire une vie sociale et professionnelle, soulignant que le maintien en détention
+pourrait être contre-productif. A cet égard, il a déclaré que son client pouvait
+compter sur le soutien de sa petite amie, de sa mère et de son frère notamment et qu’il
+avait également des perspectives professionnelles concrètes, soulignant qu’il ne fallait
+pas que le prénommé rate cette chance, à défaut de quoi la configuration pourrait
+être différente, respectivement moins favorable dans 6 mois. Pour le surplus, il a ajouté
+que son client avait récemment bénéficié de ses premières conduites, lesquelles
+s’étaient bien déroulées, respectivement que les contrôles de stupéfiants
+et d’alcool avaient été négatifs à son retour. Ainsi, la défense a conclu
+à une libération conditionnelle de D.________ à la première date possible, lequel
+acceptait de se soumettre à un délai d’épreuve d’une année. En revanche,
+s’agissant des contrôles d’abstinence à l’alcool et aux stupéfiants,
+la défense a relevé que ceux-ci n’étaient ni pertinents ni légitimés dans
+la mesure où l’intéressé n’avait jamais consommé de drogue et que l’alcool
+n’avait jamais été une problématique.
+e)
+Par
+ordonnance du 23 novembre 2022, le Juge d’application des peines a refusé la
+libération
+conditionnelle
+à D.________
+(I), a arrêté l’indemnité d’office de Me Lionel Zeiter à 1'479 fr. 80,
+TVA et débours compris (II), et a laissé les frais, comprenant l’indemnité fixée
+sous chiffre II, à la charge de l’Etat (III).
+Le juge a constaté que s
+i le comportement
+de D.________ ne correspondait pas en tous points à ce qui était attendu d’un condamné
+en exécution de peine, les manquements relatés n’étaient pas à ce point critiquables
+qu’ils contraignaient à refuser, à eux seuls, l’octroi d’une libération
+conditionnelle. En revanche, il en serait tenu compte dans l’examen du global du pronostic. Sur
+ce point, le magistrat a retenu que le condamné, dont le casier judiciaire faisait état de
+sept condamnations entre 2016 et 2021, était en récidive spéciale en matière d’infractions
+à la LCR – en lien notamment avec une consommation d’alcool –, celui-ci ayant
+réitéré ses agissements coupables malgré un
+élargissement
+anticipé octroyé en novembre 2020, qu’il faisait l’objet
+d’une
+nouvelle enquête pénale pour menaces, qu’il avait été sanctionné à
+de nombreuses reprise au cours de son séjour carcéral, qu’a
+ujourd’hui,
+« la
+situation était semblable à celle prévalant lors de la saisine de 2020, voire pire, puisqu’au
+constat de récidive et d’échec dans le délai d’épreuve, le seul facteur
+favorable apparaissant à l’époque, à savoir une activité professionnelle, faisait
+désormais défaut »
+.
+En définitive, selon le premier juge, accorder au prénommé
+le bénéfice d’un
+élargissement anticipé reviendrait à le placer dans une situation similaire à celle
+qui avait donné lieu aux condamnations susmentionnées, soit sans travail ni perspective sérieuse.
+Face à un tel constat, le pronostic était donc résolument défavorable et la libération
+conditionnelle ne pouvait qu’être refusée à l’intéressé, ce d’autant
+plus que celui-ci n’avait pas donné suite aux conditions assortissant les préavis favorables
+des intervenants quant à une éventuelle libération conditionnelle. Le condamné était
+dès lors invité à entamer une sincère remise en question durant le laps de temps
+qui le séparait du terme de ses peines, tout comme il était encouragé à mettre sérieusement
+et concrètement à profit la suite de l’exécution de ses peines privatives de liberté
+afin de préparer au mieux sa future sortie de détention.
+C.
+Par acte du 2 décembre 2022, D.________,
+par son défenseur d’office, a recouru
+auprès de la Chambre des recours pénale du Tribunal cantonal contre l’ordonnance du 23
+novembre 2022, en concluant, sous suite de frais et dépens, à son annulation et l’octroi
+de la libération conditionnelle, celle-ci étant
+« soumise
+à une période de probation d’une année, durant laquelle il devra se soumettre à
+une abstinence aux stupéfiants et à l’alcool »
+.
+Il a joint à son acte une promesse d’engagement du 25 novembre 2022 d’une
+« validité
+de 2 mois »
+de la Carrosserie
+[...], attestant de
+« [son]
+intérêt à engager D.________ (…) comme nettoyeur dès sa sortie de prison »
+à un taux de 100% pour un salaire mensuel brut de 3'500 fr. (P. 14/4).
+Par courrier du 14 décembre 2022, soit dans le délai imparti à cet effet, le Ministère
+public a indiqué qu’il n’entendait pas déposer de déterminations sur le recours.
+Par déterminations du 16 décembre 2022, l’OEP a conclu au rejet du recours.
+Par courrier spontané de son défenseur du 22 décembre 2022, D.________ a confirmé
+les conclusions son recours.
+En droit
+:
+1.
+1.1
+L’art. 26 LEP (loi sur l’exécution
+des condamnations pénales du 4 juillet 2006 ; BLV 340.01) dispose que, sous réserve
+des compétences que le droit fédéral attribue expressément au juge qui connaît
+de la commission d'une nouvelle infraction, le juge d'application des peines prend toutes les décisions
+relatives à la libération conditionnelle et statue dès lors notamment sur l’octroi
+ou le refus de la libération conditionnelle (al. 1 let. a). Lorsque la durée de la peine
+privative de liberté prononcée à l’encontre du condamné est égale ou supérieure
+à six ans, le juge d’application des peines statue en collège (al. 2).
+En vertu de l’art. 38 al. 1 LEP, les décisions rendues par le juge d'application des peines
+et par le collège des juges d'application des peines peuvent faire l'objet d'un recours auprès
+du Tribunal cantonal. La procédure est régie par les dispositions prévues aux art. 393
+ss CPP (Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0) relatives au
+recours, par renvoi de l’art. 38 al. 2 LEP.
+Le recours doit ainsi être adressé par écrit, dans un délai de dix jours dès
+la notification de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité
+de recours (art. 396 al. 1 CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du
+Tribunal cantonal (art. 13 LVCPP [loi d’introduction du Code de procédure pénale suisse
+du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [loi d’organisation judiciaire du 12 décembre
+1979 ; BLV 173.01]).
+1.2
+En l’espèce, déposé
+en temps utile et auprès de l’autorité compétente, par le condamné qui a qualité
+pour recourir (cf. art. 382 al. 1 CPP), le recours de D.________ est recevable.
+2.
+2.1
+Le recourant
+conclut
+à l’octroi de la
+libération conditionnelle
+,
+soumise à une période de probation d’une année et assortie de règles de conduite.
+Il expose en substance que sa situation ne serait pas susceptible d’évoluer s’il demeurait
+en détention jusqu’au terme de ses peines, que ses chances de réinsertion sociale sont
+aujourd’hui concrètes et qu’il ne faut pas prendre le risque de les
+« gâcher »
+.
+2.2
+Aux termes de l'art. 86 al. 1 CP
+(Code pénal suisse du 21 décembre 1937 ; RS 311.0), l'autorité compétente libère
+conditionnellement le détenu qui a subi les deux tiers de sa peine, mais au moins trois mois de
+détention, si son comportement durant l'exécution de la peine ne s'y oppose pas et s'il n'y
+a pas lieu de craindre qu'il ne commette de nouveaux crimes ou de nouveaux délits.
+La libération conditionnelle constitue la dernière étape de l'exécution de la sanction
+pénale. Elle est la règle et son refus l'exception. Il n'est plus nécessaire, pour l'octroi
+de la libération conditionnelle, qu'un pronostic favorable puisse être posé. Il suffit
+que le pronostic ne soit pas défavorable (ATF 133 IV 201 consid. 2.2). Le pronostic à émettre
+doit être posé sur la base d'une appréciation globale, prenant en considération les
+antécédents de l'intéressé, sa personnalité, son comportement en général
+et dans le cadre des délits qui sont à l'origine de sa condamnation, le degré de son éventuel
+amendement ainsi que les conditions dans lesquelles il est à prévoir qu'il vivra (ATF 133 IV
+201 précité consid. 2.2 et 2.3 ; TF 6B_420/2022 du
+6
+juillet 2022 consid. 2.1 ; TF 6B_525/2021 du 25 octobre 2021 consid. 2.1). La nature des délits
+commis par l'intéressé n'est, en tant que telle, pas à prendre en compte, en ce sens que
+la libération conditionnelle ne doit pas être exclue ou rendue plus difficile pour
+certains types d'infractions. Toutefois, les circonstances dans lesquelles l'auteur a encouru la sanction
+pénale sont également pertinentes dans la mesure où elles sont révélatrices
+de sa personnalité et donnent ainsi certaines indications sur son comportement probable en liberté.
+En outre, si la libération conditionnelle n'est pas subordonnée à une reconnaissance
+des actes ou de l'illicéité des actes ayant conduit à la condamnation, il s'agit toutefois
+d'un indice qui peut permettre de poser un pronostic sur le comportement futur du condamné en liberté
+(ATF 124 IV 193 consid. 5b/ee, JdT 2000 IV 162 ; TF 6B_259/2014 du 5 juin 2014 consid. 2.5). Au demeurant,
+pour déterminer si l'on peut courir le risque de récidive, inhérent à toute libération
+qu'elle soit conditionnelle ou définitive, il faut non seulement prendre en considération le
+degré de probabilité qu'une nouvelle infraction soit commise mais également l'importance
+du bien qui serait alors menacé. Ainsi, le risque de récidive que l'on peut admettre est moindre
+si l'auteur s'en est pris à la vie ou à l'intégrité corporelle de ses victimes que
+s'il a commis par exemple des infractions contre le patrimoine (ATF 133 IV 201 précité consid.
+2.3 ; ATF 125 IV 113 consid. 2a ; TF 6B_420/2022 précité ; TF 6B_525/2021 précité).
+Afin de procéder à un pronostic différentiel, il sied de comparer les avantages et les
+désavantages de l'exécution de la peine avec la libération conditionnelle (ATF 124 IV
+193 précité consid. 4a et consid. 5b/bb ; TF 6B_525/2021 précité et les arrêts
+cités ; TF 6B_387/2021 du 13 août 2021 consid. 4.1). S'il ne faut pas s'attendre à ce
+que le pronostic s'améliore de manière significative d'ici au terme de l'exécution de
+la peine, la priorité peut être accordée à l'intérêt de la sécurité
+publique au vu de la probabilité de la commission de nouvelles infractions et de l'importance des
+biens juridiques menacés (TF 6B_420/2022 précité ; TF 6B_525/2021 précité ;
+TF 6B_387/2021 précité). Il y a également lieu de rechercher si la libération conditionnelle,
+éventuellement assortie d'une assistance de probation et de règles de conduite, ne favoriserait
+pas mieux la resocialisation de l'auteur que l'exécution complète de la peine (ATF 124 IV 193
+précité consid. 4d/aa et bb ; TF 6B_420/2022 précité ; TF 6B_525/2021 précité).
+Il faut pour cela que la libération conditionnelle offre des avantages permettant de trouver une
+solution durable au problème, ou de désamorcer celui-ci, que l’exécution complète
+de la peine n’offrirait pas, et dont on se priverait en y procédant (ATF 124 IV 193 précité
+consid. 4d/bb
+in
+initio
+).
+2.3
+2.3.1
+En l’espèce, le recourant a exécuté
+les deux tiers de ses peines le 26 novembre 2022. La première des trois conditions cumulatives posées
+par l’art. 86 al. 1 CP est ainsi remplie. En outre, le condamné a fait l’objet
+de nombreuses sanctions disciplinaires, les dernières en date des 13 septembre, 19 octobre et 26
+octobre 2022 ; même si son comportement en détention a été qualifié de
+« globalement bon »
+dans le rapport de la direction de la Prison du 10 août 2022 (P. 3/17), il faut bien constater que,
+depuis la reddition de ce rapport, le recourant a continué à accumuler les sanctions disciplinaires
+et ce alors qu’il savait qu’il faisait l’objet d’un examen en relation avec sa
+libération conditionnelle, de sorte que sa conclusion – selon laquelle son comportement en
+détention ne s’opposait pas à l’octroi de la libération conditionnelle –
+doit sérieusement être mitigé. Cette question peut toutefois rester indécise, au
+vu du pronostic négatif qui sera posé (cf.
+infra
+consid. 2.3.2).
+2.3.2
+La question déterminante est celle de savoir s’il y a lieu de craindre que le recourant commette
+de nouvelles infractions en tenant compte de l’importance des biens juridiques menacés. A
+cet égard, il faut constater, à l’instar du premier juge, que D.________, qui a commis
+des délits de nature variées, est un multirécidiviste en matière d’infractions
+à la LCR, dont la gravité est allée crescendo, puisqu’après des condamnations
+pour notamment usage abusif de permis, usurpation de plaques de contrôle et conduite de véhicule
+défectueux, ses violations des règles de la circulation routière sont passées de
+simples (art. 90 al. 1 LCR) à graves (art. 90 al. 2 LCR). En particulier, il ressort du jugement
+du Tribunal correctionnel de l’arrondissement de Lausanne du 3 juillet 2020, confirmé par
+la Cour d’appel pénale le 20 novembre suivant, que le prénommé, déjà en
+état de récidive spéciale, n’a pas hésité, en 2018, à percuter volontairement
+avec sa voiture un piéton qui cheminait (de dos) normalement sur un trottoir, le faisant tomber
+au sol, puis est sorti du véhicule et a déplacé le piéton violemment, avant de remonter
+dans sa voiture et d’effectuer une marche arrière rapide afin de pouvoir repartir. Il a en
+outre été condamné, à cette occasion, pour avoir participé à un trafic
+international de marijuana portant sur 24 kilos.
+Son
+casier judiciaire comporte pas moins de sept condamnations entre juillet 2016 et août 2021, d’abord
+à des peines pécuniaires, puis à des peines privatives de liberté, la condamnation
+du 25 juin 2018 à 270 jours de peine privative de liberté incluant la révocation de deux
+précédents sursis ; il mentionne également – à la date du 29 septembre
+2022 – l’existence d’une instruction pénale en cours pour menaces. Force est en
+outre de constater qu’en 2021 D.________ a réitéré la commission d’infractions
+dans le délai d’épreuve d’un an assortissant la libération conditionnelle
+qui lui avait été accordée en novembre 2020. Il a en effet fait l’objet de plus
+de dix ordonnances pénales le condamnant à des amendes d’ordre pour des infractions à
+la LCR et a récidivé en mai 2021 pour avoir conduit en état d’ébriété
+qualifié, ce qui lui a valu la révocation de ladite libération conditionnelle. Ces infractions,
+qui sont susceptibles de mettre en danger la sécurité d’autrui – ce qui avait déjà
+été rappelé au recourant en 2020 (P. 4) –, ne doivent pas être banalisées.
+Le comportement du recourant démontre par ailleurs qu’il ne tire pas les enseignements des
+condamnations dont il a fait l’objet.
+Si on se fie aux déclarations que le recourant a faites au Juge d’application des peines,
+il aurait désormais pris conscience de ses fautes, expliquant que c’est sa détention
+qui l’aurait
+« fait
+réfléchir »
+(P. 8, ligne 45), ce qui constituerait un
+« élément
+décisif »
+(P. 20).
+Or, contrairement à ce qu’il fait valoir, il ne s’agit pas de sa
+« première
+expérience carcérale »
+(P.
+20), puisqu’il a, en novembre 2019, exécuté quelques jours en prison, après avoir
+fait l’objet d’un mandat d’arrêt. Il s’y est d’ailleurs lui-même
+référé lorsqu’il a auparavant expliqué, dans le cadre de l’établissement
+de son plan d’assistance de probation,
+« avoir
+pris conscience qu’il devait changer car (…) il a[vait] dû aller en prison »
+(P. 3/9, p. 5). En outre, l’assistance de probation ordonnée pendant la durée du délai
+d’épreuve assortissant sa libération conditionnelle accordée en novembre 2020 ne
+l’a pas non plus dissuadé de poursuivre ses agissements délictueux, de sorte que c’est
+en vain qu’il fait valoir qu’il
+« vaut
+mieux [le] laisser sortir sous le contrôle de la Fondation vaudoise de probation, plutôt que
+le libérer sans aucun suivi dans quelques mois »
+(P. 20).
+Sur ce dernier point, le recourant se prévaut des préavis des autorités consultées,
+qui seraient toutes favorables à sa libération conditionnelle. A bien lire les déterminations
+de l’OEP du
+26 septembre 2022 (P. 3), on
+constatera toutefois que celui-ci a indiqué qu’il ne pouvait que se montrer
+« très
+circonspect »
+par rapport à la
+situation du condamné. Il a certes admis que l’exécution de l’entier de ses peines
+n’aurait pas davantage d’influence sur le comportement futur de D.________ et qu’une
+libération conditionnelle assortie d’un cadre strict favoriserait mieux sa réinsertion,
+mais a précisé
+« pour
+autant qu’il maintienne d’ici-là un comportement irréprochable et qu’il puisse
+être en mesure d[’]apporter toutes les preuves concrètes en lien avec ses projets d’avenir »
+.
+Or, comme le relève à juste titre le premier juge dans ses déterminations du 16 décembre
+2022 (P. 17), le prénommé n’a pas, contrairement à ses engagements, produit,
+« dans
+les plus brefs délais »
+(p. 3/17,
+p. 3), de contrat d’apprentissage ou de préapprentissage comme carrossier-peintre alors qu’il
+prétendait avoir
+« trouvé »
+une place d’apprentissage dans ce domaine (
+P. 8,
+lignes 58 à 60)
+, mais a produit, à l’appui
+de son recours, une
+« promesse
+d’engagement »
+comme nettoyeur,
+ce qui fait sérieusement douter de la véracité de ses projets futurs tels qu’annoncés
+précédemment. De plus, depuis les déterminations de l’OEP, il a fait l’objet
+de deux nouvelles sanctions disciplinaires en l’espace d’une semaine, soit les 19 et 26 octobre
+2022, alors qu’il bénéficiait d’un cadre plus souple, ayant été transféré
+à la Colonie ouverte des EPO, et qu’il avait été averti d’une possible révocation
+de la décision du 31 mai 2022 sur son transfert en milieu ouvert en cas de violation du cadre imposé
+(P. 3/14). Ainsi, force est de constater que les conditions auxquelles était soumis le préavis
+positif de l’OEP n’ont pas été remplies dans l’intervalle, de sorte que le
+recourant se prévaut en vain de ce préavis ainsi que de celui du Ministère public qui
+a expressément indiqué faire siens les arguments de l’OEP (P. 12).
+Comme le relève à juste titre le premier juge,
+l’octroi
+d’une libération conditionnelle en novembre 2020 a été accordé,
+« du
+bout des lèvres »
+,
+au motif considéré prépondérant que D.________ avait un travail et qu’il serait
+contre-productif de le lui faire perdre en exécutant le solde de peine, malgré le fait que
+« la
+question de l’amendement
+et de la remise en question, chez ce jeune condamné, rest[ait] indécise »
+(P.
+4)
+. Or, au lieu de saisir la chance
+qui lui était alors offerte, l’intéressé a préféré démissionner
+de son poste, car
+« fatiguant »
+,
+avant de retomber dans l’oisiveté et ses travers. Aujourd’hui, la situation du prénommé
+est semblable à celle prévalant lors de l’octroi de sa précédente libération
+conditionnelle et qui ne l’a en définitive pas empêché de récidiver ;
+la
+« promesse
+d’engagement »
+qu’il a produite ne suffit pas à contrebalancer l’ensemble des éléments précités
+faisant sérieusement et concrètement craindre la réitération d’infractions.
+D’ailleurs, les nombreuses sanctions disciplinaires dont il a fait l’objet – encore
+récemment (13 septembre, 19 octobre et 26 octobre 2022) –, malgré l’assouplissement
+de son régime et son engagement à collaborer avec son agent de probation dans la réalisation
+des objectifs fixés qui s’inscrivaient dans une perspective de sortie durable de la délinquance
+(P. 3/19), attestent qu’il n’entend pas modifier son attitude face aux règles. La mentalité
+du recourant est d’autant plus inquiétante qu’il a soutenu qu’il n’avait
+jamais consommé de drogue et que l’alcool n’avait jamais été un problème,
+ce qui est faux, l’intéressé ayant par le passé déjà été condamné
+pour contravention à la LStup ainsi que pour avoir conduit en état d’ivresse qualifié,
+et qu’il persiste à considérer les
+contrôles
+d’abstinence à l’alcool et aux stupéfiants assortissant une éventuelle libération
+conditionnelle comme
+« inutiles »
+,
+tout en acceptant de s’y soumettre
+(recours, p. 7). A cela s’ajoute que, à
+ce jour, la situation du recourant sur le plan administratif n’est pas régularisée, puisque
+le renouvellement de son permis d’établissement – échu depuis le 17 mai 2021 –
+est toujours en cours.
+Compte tenu de ce qui précède,
+la libération conditionnelle ne présenterait pas d’avantages, notamment permettant de
+trouver une solution durable aux problèmes posés par le recourant, mais assurément l’inconvénient
+d’une très probable récidive d’infractions notamment en matière d’infractions
+à la LCR. Or, au vu des antécédents de D.________, qui a lui-même admis que les excès
+de vitesse peuvent
+« causer
+un accident ou un décès »
+(P. 3/9), la priorité doit être accordée à la sécurité publique compte
+tenu de l'importance des biens juridiques menacés. C’est donc à juste titre que le Juge
+d’application des peines a considéré que le pronostic, y compris différentiel, était
+défavorable et qu’il a refusé la libération conditionnelle. Il appartiendra au recourant,
+qui bénéfice de congés réguliers depuis octobre 2022, de mettre à profit la
+suite de l’exécution de ses peines, notamment avec l’aide de sa compagne, de sa mère
+et de son frère, pour préparer sa sortie de prison prévue en juin 2023. Il n’est
+d’ailleurs pas exclu qu’il puisse concrétiser ses perspectives professionnelles à
+ce moment-là, lui-même retenant que le fait que
+son
+potentiel employeur – qui
+« a
+(…) été touché par [s]a situation (…) et [qui] veut lui donner une chance »
+(recours, p. 6)
+–
+« se détourne de lui »
+n’est
+qu’une
+« hypothèse »
+(recours, p. 7).
+3.
+E
+n
+définitive, le recours doit être rejeté et l’ordonnance entreprise confirmée.
+Me Lionel Zeiter a produit une liste d’opérations faisant état de 6h45 consacrées
+à des opérations du 24 novembre au 2 décembre 2022 (P. 14/5). Parmi ces opérations,
+une ne relève pas de la procédure de recours (29 novembre 2022 : nouvelle demande de libération
+conditionnelle avec lettre à client, par 35 minutes) et d’autres relèvent du travail
+de secrétariat, non indemnisable (24 novembre et 1
+er
+décembre 2022 : lettres à client, estimées à un total de 20 minutes, soit deux
+fois 10 minutes). En outre, il convient de tenir compte de la réplique du 22 décembre 2022,
+non comprise dans la liste précitée, à concurrence d’une durée estimée
+à 30 minutes. Même si la durée indiquée pour les recherches juridiques et la rédaction
+du recours (5h35 dont à déduire 10 minutes pour la lettre d’accompagnement) paraît
+élevée, elle sera admise, de même que celles indiquées dans ladite liste pour les
+autres opérations (étude décision, téléphones, courriel à l’employeur).
+C’est donc une durée d’activité nécessaire totale de 6h20 qui sera indemnisée
+au tarif horaire de 180 fr., de sorte que l’indemnité d’office doit être fixée
+à 1'140 fr., montant auquel s’ajoutent des débours forfaitaires à concurrence
+de 2 % des honoraires admis (art. 3
+bis
+al. 1 RAJ [règlement du 7 décembre 2010 sur l’assistance judiciaire en matière
+civile ; BLV 211.02.3], applicable par renvoi de l’art. 26b TFIP [tarif des frais de
+procédure et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]),
+par 22 fr. 80, et la TVA au taux de 7,7 %, par 89 fr. 55, soit à 1'253 fr.
+au total en chiffres arrondis.
+Vu le sort du recours, les frais de la procédure, constitués de l’émolument d’arrêt,
+par 1'980 fr. (art. 20 al. 1 TFIP), et des frais imputables à la défense d’office
+de D.________ (art. 422 al. 1 et 2 let. a CPP), fixés à 1'253 fr., seront mis à la
+charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+du recourant ne sera toutefois exigible que pour autant que la situation financière de ce dernier
+le permette (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 23 novembre
+2022 est confirmée.
+III.
+L’indemnité allouée
+au défenseur d’office de D.________ est fixée à 1'253 fr. (mille deux cent
+cinquante-trois francs).
+IV.
+Les frais d’arrêt, par
+1'980 fr. (mille neuf cent huitante francs), ainsi que l’indemnité due au défenseur
+d’office du recourant, par 1'253 fr. (mille deux cent cinquante-trois francs), sont mis à
+la charge de D.________.
+V.
+Le remboursement à l’Etat
+de l’indemnité allouée au chiffre III ci-dessus ne sera exigible que pour autant que
+la situation financière de D.________ le permette.
+VI.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Lionel Zeiter, avocat (pour D.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Juge d’application
+des peines,
+-
+Mme la Procureure cantonale Strada,
+-
+Office d’exécution des peines (réf. OEP/PPL/151742/VRI/CBE),
+-
+Direction des Etablissements de la Plaine de l’Orbe,
+-
+Service de la population,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
