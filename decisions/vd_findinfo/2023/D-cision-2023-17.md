@@ -1,0 +1,348 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___17"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 17"
+decided: "2023-01-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9168538"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-187.md", "switzerland/bund/acts/312.0/art-130.md", "switzerland/bund/acts/312.0/art-131.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-391.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-436.md"]
+---
+
+# VD Findinfo Décision / 2023 / 17
+
+## Regeste
+
+MOTIVATION DE LA DÉCISION, DÉFENSE D'OFFICE, ACTE D'ORDRE SEXUEL AVEC UN ENFANT, DÉFENSE OBLIGATOIRE, DÉNUEMENT, BÉNÉFICIAIRE DE PRESTATIONS D'ASSISTANCE | 187 ch. 1 CP, 29 al. 2 Cst., 130 CPP (CH), 132 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 12.01.2023 Décision / 2023 / 17
+
+MOTIVATION DE LA DÉCISION, DÉFENSE D'OFFICE, ACTE D'ORDRE SEXUEL AVEC UN ENFANT, DÉFENSE OBLIGATOIRE, DÉNUEMENT, BÉNÉFICIAIRE DE PRESTATIONS D'ASSISTANCE | 187 ch. 1 CP, 29 al. 2 Cst., 130 CPP (CH), 132 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+17
+PE22.015732-XMA
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+12 janvier 2023
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Krieger et Perrot, juges
+Greffière
+:              Mme
+Japona-Mirus
+*****
+Art.
+29 Cst. ; 187 ch. 1 CP ; 130, 132 CPP
+Statuant sur le recours interjeté le 3 janvier 2023 par
+G.________
+contre l’ordonnance de refus de désignation d’un défenseur d’office rendue
+le 22 décembre 2022 par le Ministère public de l’arrondissement de Lausanne dans la cause
+n° PE22.015732-XMA
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Ensuite
+de la plainte pénale déposée le 24 août 2022 par H.________, né le 12 octobre
+1998, le Ministère public de l’arrondissement de Lausanne (ci-après : Ministère
+public) a ouvert une instruction pénale contre son parrain, G.________, pour actes d’ordre
+sexuel avec des enfants. Il est fait grief à G.________, d’avoir, à Renens, entre 2002
+et 2008, commis des attouchements à caractère sexuel sur H.________. Ce dernier a expliqué
+en substance que durant cette période, il se rendait régulièrement au domicile de son
+parrain pour y passer le week-end, en tout cas trois à quatre fois par année. A cet endroit,
+il arrivait que le matin, G.________ lui baisse sa culotte, le caresse entre le nombril et le sexe, puis
+joue longuement avec celui-ci, en lui disant qu’il avait une belle peau, qu’elle était
+douce et qu’il avait un « joli zizi ».
+b)
+Le
+15 décembre 2022, G.________ a été interpellé, puis entendu par la police. Lors de
+cette audition, il était assisté de Me Nathanaël Petermann, qui était intervenu comme
+avocat de la première heure.
+B.
+a)
+Par courrier du 19 décembre 2022, G.________
+a sollicité que Me Nathanaël Petermann soit désigné comme son défenseur d’office.
+b)
+Par
+ordonnance du 22 décembre 2022, le Ministère public a rejeté la requête de désignation
+d’un défenseur d’office à G.________ (I) et a dit que les frais de cette ordonnance
+suivaient le sort de la cause (II).
+La procureure a d’emblée relevé que le prévenu ne se trouvait pas dans un cas de
+défense obligatoire au sens de l’art. 130 CPP (Code de procédure pénale suisse du
+5 octobre 2007 ; RS 312.0) et que de ce fait, une défense d’office ne pouvait être ordonnée
+qu’aux conditions de l’art. 132 al. 1 let. b CPP. Or, l’indigence de G.________ n’apparaissait
+pas réalisée. En effet, la déclaration d’impôt pour l’année 2021
+du prévenu faisait état d’une fortune imposable de 432'000 fr., laquelle était composée
+d’un appartement d’une valeur fiscale de 485'000 fr. (arrondie), sous déduction
+de la dette hypothécaire de 288'876 fr. et des frais d’exploitation de 23'608 fr., de titres
+pour un montant de 9'543 fr., d’une assurance vie d’une valeur de rachat de 42'331 fr. et
+d’autres actifs d’exploitation pour un montant de 207'977 francs. On pouvait dès lors
+attendre du prévenu qu’il entame sa fortune pour s’acquitter des frais de son avocat,
+par exemple en soldant son assurance-vie ou en augmentant la dette hypothécaire de son appartement.
+C.
+Par acte du 3 janvier 2023, G.________, par son
+défenseur, a recouru auprès de la Chambre des recours pénale contre cette ordonnance,
+en concluant, sous suite de frais et dépens, préalablement, à la désignation de l’avocat
+Nathanaël Petermann comme son défenseur d’office pour la procédure de recours, à
+compter du 23 décembre 2022, à titre provisionnel, à la désignation de l’avocat
+précité comme son défenseur d’office pour les auditions à venir des 17 et 18
+janvier 2023, subsidiairement à la suspension de la procédure jusqu’à droit connu
+sur le sort du recours et, par conséquent, au report des auditions prévues les 17 et 18 janvier
+2023, sur le fond et principalement, à la réforme de l’ordonnance attaquée en ce
+sens que l’avocat précité soit désigné comme son défenseur d’office
+à compter du 15 décembre 2022 et, subsidiairement, à son annulation, le dossier de
+la cause étant renvoyé à l’autorité précédente pour nouvelle décision
+dans le sens des considérants à intervenir, les frais étant laissés à la charge
+de l’Etat.
+Par avis du 4 janvier 2023, la Présidente de la Cour de céans, afin d’être en mesure
+de statuer sur les conclusions provisionnelles déposées par G.________, a demandé au Ministère
+public de lui indiquer si des audiences étaient bien appointées aux dates précitées,
+et s’il entendait les maintenir ensuite du dépôt du recours susmentionné.
+Par courrier du 5 janvier 2023, le Ministère public a indiqué qu’il était exact
+que le plaignant, ainsi que le père de celui-ci, seraient auditionnés par la police les 17
+et 18 janvier 2023. En l’état, il n’entendait pas ordonner le report de ces auditions,
+dès lors que l’instruction devait impérativement aller de l’avant le plus rapidement
+possible, eu égard à l’ancienneté des faits. Le Ministère public a en outre
+relevé que rien n’empêchait Me Nathanaël Petermann d’assister à ces auditions,
+précisant que, si le recours de son client devait être admis, il serait désigné rétroactivement.
+Par avis du 6 janvier 2023, la Présidente de la Cour de céans a, notamment, rejeté les
+conclusions provisionnelles, dès lors que la Chambre des recours pénale notifierait vraisemblablement
+son arrêt avant la tenue des auditions en cause, précisant que si tel ne pouvait être
+le cas, une nouvelle ordonnance serait rendue d’office sur les conclusions provisionnelles.
+Par courrier du 10 janvier 2023, le Ministère public a indiqué qu’il n’entendait
+pas déposer de déterminations et qu’il se référait aux considérants de
+l’ordonnance attaquée.
+En droit
+:
+1.
+Interjeté dans le délai légal (art.
+396 al. 1 CPP), contre une ordonnance du Ministère public valant refus de désignation d'un
+défenseur d'office (art. 393 al. 1 let. a CPP), par une partie qui a qualité pour recourir
+(art. 382 al. 1 CPP) et dans les formes prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Le recourant invoque une violation de l’art.
+132 al. 1 let. b CPP. Il fait valoir que la condition de l’indigence serait réalisée,
+au vu de ses faibles revenus et des aspects liés à sa fortune. Sur ce dernier point, il soutient
+d’abord qu’il serait de notoriété publique que l’augmentation d’un
+crédit hypothécaire ne pourrait pas être réalisée à brève échéance,
+qu’une telle augmentation serait encore sujette à de nombreux contrôles et vérifications
+de la part des établissements bancaires et que sa capacité économique serait insuffisante
+pour pouvoir assurer sa solvabilité auprès de la banque sur une longue période, de sorte
+que toute augmentation du crédit hypothécaire serait exclue, vu ses faibles revenus et le montant
+de l’emprunt déjà consenti. Le recourant soutient ensuite qu’en tant qu’indépendant,
+son assurance vie serait destinée à la prévoyance, qu’au vu de son âge –
+il atteindra 62 ans en mars 2023 –, son besoin de maintenir une prévoyance minimale interdirait
+de l’obliger à solder son assurance vie, que les conditions de résiliation de telles
+assurances seraient strictes et qu’une sortie prématurée lui serait très défavorable.
+Enfin, le recourant aurait droit à une réserve « de secours » d’environ
+40'000 francs. Partant, ce serait à tort que le Ministère public aurait considéré
+que sa fortune immobilière et son assurance sur la vie lui permettraient d’assurer le financement
+de sa défense pénale.
+2.2
+2.2.1
+Aux termes de l'art. 187 ch. 1 CP, celui qui aura
+commis un acte d'ordre sexuel sur un enfant de moins de seize ans (al. 1), celui qui aura entraîné
+un enfant de cet âge à commettre un acte d'ordre sexuel (al. 2) ou celui qui aura mêlé
+un enfant de cet âge à un acte d'ordre sexuel (al. 3), sera puni d’une peine privative
+de liberté de cinq ans au plus ou d’une peine pécuniaire.
+2.2.2
+Le CPP opère une double distinction en matière de défense : d'une part entre défense
+facultative et défense obligatoire ; d'autre part entre défense privée et défense
+d'office.
+Réglée par l'art. 130 CPP, la défense obligatoire, qui impose au prévenu l'assistance
+d'un défenseur – privé ou d'office – (TF 1B_309/2021 du 3 septembre 2021 consid. 2.1.2 ;
+TF 1B_461/2016 du 9 février 2017 consid. 2.1.2 et les réf. cit.), intervient notamment lorsque
+la détention provisoire, y compris la durée de l'arrestation provisoire, a excédé
+dix jours (let. a) ou lorsque le prévenu encourt une peine privative de liberté de plus d'un
+an ou une mesure entraînant une privation de liberté (let. b). Elle est indépendante de
+la situation financière du prévenu.
+Quant à la défense d'office, elle voit l'autorité commettre au prévenu un défenseur
+rétribué par l'Etat – à tout le moins provisoirement –, dans la mesure où
+la sauvegarde des droits de l'intéressé le requiert. Elle intervient lorsque le prévenu
+n'a pas de défenseur alors même qu'il s'agit d'un cas de défense obligatoire (art. 132
+al. 1 let. a ch. 1 et 2 CPP) ou lorsque le prévenu ne dispose pas des moyens nécessaires
+et que l'assistance d'un défenseur est justifiée pour sauvegarder ses intérêts (art.
+132 al. 1 let. b CPP ; TF 1B_309/2021 du 3 septembre 2021 consid. 2.1.2 ; TF 1B_392/2017
+du 14 décembre 2017 consid. 2.1; TF 1B_461/2016 du 9 février 2017 consid. 2.1.2). La sauvegarde
+des intérêts du prévenu indigent justifie la commission d'une défense d'office notamment
+lorsque l'affaire n'est pas de peu de gravité (soit à tout le moins lorsque le prévenu
+est passible d'une peine privative de liberté de plus de quatre mois conformément à l'art.
+132 al. 3 CPP) et qu'elle présente des difficultés que le prévenu seul ne pourrait pas
+surmonter (art. 132 al. 1 let. b CPP).
+Selon la jurisprudence, une personne est indigente lorsqu'elle n'est pas en mesure d'assumer les frais
+de la procédure sans porter atteinte au minimum nécessaire à son entretien et à celui
+de sa famille (ATF 144 III 531 consid. 4.1 p. 536 s. ; ATF 141 III 369 consid. 4.1 p. 371 s.).
+Pour déterminer l'indigence, il convient de prendre en considération l'ensemble de la situation
+financière du requérant au moment où la demande est présentée, celui-ci devant
+indiquer de manière complète et établir autant que possible ses revenus, sa situation
+de fortune et ses charges. Il y a lieu de mettre en balance, d'une part, la totalité des ressources
+effectives du requérant et, d'autre part, l'ensemble de ses engagements financiers (ATF 135 I 221
+consid. 5.1 p. 223). S’il s’avère qu’il existe un disponible, celui-ci ne permet
+pas systématiquement d’exclure l’indigence ; encore faut-il qu’il permette
+de rembourser les frais du procès et les honoraires d’avocat sur une certaine période,
+le prévenu devant ainsi être en mesure de réunir en quelques mois le montant nécessaire
+au paiement d’une provision d’avocat. En ce qui concerne la fortune, un montant suffisant
+doit être laissé au prévenu en fonction de ses besoins futurs, notamment de son état
+de santé et de son âge (Harari/Jakob/Santamaria, in : Jeanneret et al. [éd.], Commentaire
+romand, Code de procédure pénale suisse, 2
+e
+éd.,
+Bâle 2019, n. 59a ad art. 132 CPP).
+2.2.3
+Le droit d’être entendu, tel qu’il
+est garanti par les art. 29 al. 2 Cst. et 3 al. 2 let. c CPP (cf. aussi art. 6 CEDH) implique notamment,
+pour l’autorité, l’obligation de motiver sa décision afin que le destinataire puisse
+la comprendre, l’attaquer utilement s’il y a lieu et afin que l’autorité de recours
+puisse exercer son contrôle. Le juge doit ainsi mentionner, au moins brièvement, les motifs
+qui l’ont guidé et sur lesquels il a fondé sa décision, de manière à ce
+que l’intéressé puisse se rendre compte de la portée de celle-ci et l’attaquer
+en connaissance de cause (ATF 143 IV 40 consid. 3.4.3 ; ATF 142 I 135 consid. 2.1). Il n’est
+pas tenu de discuter tous les arguments soulevés par les parties, mais peut se limiter à l’examen
+des question décisives pour l’issue du litige (ATF 142 II 154 consid. 4.2). Dès lors
+qu’on peut discerner les motifs qui ont guidé la décision de l’autorité, le
+droit à une décision motivée est respecté, même si la motivation présentée
+est erronée (ATF 141 V 557 consid. 3.2.1).
+Le droit d’être entendu est une garantie constitutionnelle de caractère formel, dont
+la violation doit entraîner l’annulation de la décision, indépendamment des chances
+de succès du recours sur le fond (ATF 135 I 187 consid. 2.2). Une violation du droit d’être
+entendu peut être réparée lorsque la partie lésée à la possibilité
+de s’exprimer devant une autorité de recours jouissant d’un plein pouvoir d’examen.
+Toutefois, une telle réparation doit rester l’exception est n’est admissible, en principe,
+que dans l’hypothèse d’une atteinte qui n’est pas particulièrement grave
+aux droits procéduraux de la partie lésée (ATF 142 II 218 consid. 2.8.1 ; TF 6B_1135/2021
+du 9 mai 2022 consid. 1.1). La Chambre des recours pénale dispose d’un pouvoir d’examen
+complet en fait et en droit, permettant de guérir un tel vice procédural (art. 391 al. 1 CPP
+; CREP 13 juin 2022/419 consid. 2.2).
+2.3
+2.3.1
+En l’espèce, l’ordonnance attaquée
+indique uniquement que le recourant ne se trouve pas dans un cas de défense obligatoire. Cette motivation
+viole le droit d’être entendu du recourant, en ce sens qu’elle ne lui permet pas de
+saisir les considérations qui ont guidé la procureure dans son raisonnement et, partant, de
+déterminer si ce raisonnement est adéquat ou doit, à l’inverse, être contesté.
+En effet, l’ordonnance ne permet pas d’appréhender les motifs pour lesquels on ne se
+trouverait pas dans un cas de défense obligatoire. La Chambre des recours pénale ne perçoit
+pas, du moins en l’état, pourquoi l’application de l’art. 130 CPP serait
+exclue, étant relevé que le recourant est prévenu d’actes d’ordre sexuel avec
+des enfants, infraction qui constitue un crime (cf. art. 10 al. 2 et 187 ch. 1 CP), que les
+actes en cause ne sont pas anodins et qu’ils auraient été commis durant sept ans. Dans
+ces conditions, il ne peut pas du tout être d’emblée exclu que la peine encourue soit
+une peine privative de liberté de plus d’un an. Quand bien même la Cour de céans
+dispose d’un plein pouvoir d’examen, il ne lui appartient pas de réparer la violation
+du droit d’être entendu constatée ci-dessus. Le recourant doit pouvoir bénéficier
+à cet égard de la garantie de la double instance (CREP 26 septembre 2022/788 ; CREP
+24 février 2022/140). Le vice ne peut ainsi pas être réparé en procédure de
+recours (ibid.).
+Pour ce motif, il convient d’annuler l’ordonnance attaquée qui souffre d’un défaut
+de motivation.
+2.3.2
+Il s’ensuit que le dossier doit être
+retourné au Ministère public afin que celui-ci statue à nouveau. Conformément à
+ce qui vient d’être dit, il devra se prononcer plus amplement sur le point de savoir si le
+recourant est dans un cas de défense obligatoire ; dans l’affirmative, le Ministère
+public devra pourvoir à ce que le recourant soit assisté d’un défenseur aux conditions
+de l’art. 131 CPP. Comme le recourant a déjà un défenseur de choix et soutient qu’il
+n’est pas en mesure de le rémunérer, le Ministère public devra, toujours dans l’hypothèse
+où le recourant est dans un cas de défense obligatoire, statuer à nouveau sur l’indigence
+de celui-ci. Il devra également le faire s’il maintient son appréciation selon laquelle
+le recourant n’est pas dans un cas de défense obligatoire. En effet, en l’état,
+sur la base des pièces produites par le recourant, il n’est pas possible d’avoir une
+vision complète de sa situation financière. En particulier, il n’est pas possible de
+déterminer la part des ressources excédant ce qui est nécessaire à la couverture
+des besoins personnels du recourant, ni a fortiori de déterminer si un éventuel disponible
+permettrait de rembourser les frais du procès et les honoraires d’avocat sur une certaine
+période, soit en une année au plus, pour les procès relativement simples, et en deux ans
+pour les autres (ATF 135 I 221 consid. 5.1 p. 223 et les arrêts cités). Or, si le prévenu
+fournit des éléments mais pas toutes les indications complètes sur les éléments
+pertinents et les preuves de celles-ci, il incombe en principe à l’autorité de lui demander
+les éclaircissements nécessaires (Harari/Jakob/Santamaria, op. cit., n. 59b ad art. 132
+CPP, et la réf. à l’arrêt du TF citée). Partant, il appartiendra à la
+Procureure de donner un délai au recourant pour remplir le formulaire ad hoc prévu pour l’assistance
+judiciaire et produire toutes les pièces énumérées dans ce formulaire, puis de procéder
+à une analyse complète de sa situation financière, notamment en répondant aux griefs
+exposés par celui-ci dans son recours, en particulier sur le caractère non mobilisable de sa
+fortune dans un court délai.
+3.
+Il résulte de ce qui précède que
+le recours doit être admis, l’ordonnance attaquée annulée et le dossier de la cause
+renvoyé au Ministère public de l’arrondissement de Lausanne pour qu’il procède
+dans le sens des considérants.
+Vu le sort du recours, les frais de la procédure, constitués de l’émolument d’arrêt,
+par 990 fr. (art. 20 al. 1 TFIP), seront laissés à la charge de l’Etat (art. 428 al.
+4 CPP).
+Le recourant, qui obtient gain de cause et qui a procédé avec l’assistance d’un
+mandataire professionnel, a droit à une indemnité pour les dépenses occasionnées
+par l’exercice raisonnable de ses droits pour la procédure de recours, à la charge de
+l’Etat (art. 436 al. 2 CPP). Au vu du mémoire produit et de la nature de la cause, cette indemnité
+sera fixée à raison de 900 fr. pour les honoraires, sur la base d’une activité nécessaire
+d’avocat de 3 heures au tarif horaire de 300 fr., montant auquel il convient d’ajouter des
+débours forfaitaires à concurrence de 2 % (art. 19 al. 2 TDC [tarif des dépens en matière
+civile du 23 novembre 2010 ; BLV 270.11.6], applicable par renvoi de l’art. 26a al. 6 TFIP
+[tarif des frais de procédure et indemnités en matière pénale du 28 septembre 2010
+; BLV 312.03.1]), par 18 fr., plus un montant correspondant à la TVA, par 70 fr. 70, soit à
+989 fr. total, en chiffres arrondis. Partant, la requête tendant à la désignation d’un
+défenseur d’office pour la procédure de recours est sans objet.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 22 décembre 2022 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l’arrondissement de Lausanne pour qu’il procède dans le sens des considérants.
+IV.
+La
+requête tendant à la désignation d’un défenseur d’office pour la procédure
+de recours est sans objet.
+V.
+Les frais d’arrêt, par 990 fr. (neuf cent nonante francs), sont laissés à la charge
+de l’Etat.
+VI.
+Une indemnité de 989 fr. (neuf cent huitante-neuf francs) est allouée à G.________ pour
+la procédure de recours, à la charge de l'Etat.
+VII.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Nathanaël Petermann, avocat (pour G.________),
+-
+Ministère public central ;
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
