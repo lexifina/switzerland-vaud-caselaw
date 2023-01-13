@@ -1,0 +1,247 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___10"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 10"
+decided: "2023-01-13"
+published: "2023-01-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9210545"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-386.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-406.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2023 / 10
+
+## Regeste
+
+RETRAIT{VOIE DE DROIT} | 386 al. 2 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel pénale 13.01.2023 Décision / 2023 / 10
+
+RETRAIT{VOIE DE DROIT} | 386 al. 2 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+140
+PE21.001030-MYO/CFU
+COUR
+D’APPEL PENALE
+______________________________
+Séance
+du 13 janvier 2023
+__________________
+Présidence
+de               M.
+winzap
+,
+président
+M.
+Sauterel et Mme Rouleau, juges
+Greffier
+:              M.
+Valentino
+*****
+Parties
+à la présente cause :
+B.M.________
+,
+prévenu, représenté
+par Me Christian Favre, défenseur d’office à Lausanne, appelant,
+et
+MINISTÈRE
+PUBLIC
+, représenté par
+la Procureure de l’arrondissement de l’Est vaudois, intimé,
+C.M.________
+,
+plaignante, représentée par Me Arnaud Thièry, conseil d’office à Lausanne,
+intimée.
+Vu le jugement
+du 3 mai 2022, rectifié
+le 6 mai suivant, par lequel le Tribunal de police de l’arrondissement de l’Est vaudois a
+reçu l’opposition formulée par B.M.________ contre l’ordonnance pénale du
+Ministère public de l’arrondissement de l’Est vaudois du 14 février 2022 (I), l’a
+libéré de l’infraction de tentative d’escroquerie (II), l’a reconnu coupable
+d’abus de confiance au préjudice des proches ou des familiers et de faux dans les titres (III),
+l’a condamné à une peine pécuniaire de 120 jours-amende à 30 fr. le jour, avec
+sursis durant deux ans, ainsi qu’à une amende de 700 fr., et a dit que la peine privative
+de liberté de substitution en cas de non-paiement fautif était de 7 jours (IV), a donné
+acte à C.M.________ de ses réserves civiles à l’encontre de B.M.________ (V), a
+ordonné la confiscation et le maintien au dossier de la convention datée du 27 décembre
+2019 prétendument passée entre B.M.________, [...] et C.M.________ (VI) et a statué sur
+les indemnités de conseil et défenseur d’office ainsi que sur les frais (VII à IX),
+vu l'annonce et la déclaration d'appel déposées les 5 mai et 13 juin 2022 par Me Michel
+Dupuis au nom de B.M.________,
+vu le prononcé du 5 juillet 2022, par lequel le Président de la Cour d’appel pénale
+a relevé Me Michel Dupuis de sa mission de défenseur d’office de B.M.________ (I), a
+alloué une indemnité de défenseur d’office d’un montant de 1'384 fr. 15, débours
+et TVA compris, à Me Michel Dupuis pour la procédure d’appel (II) et a dit que les frais
+d’appel correspondant à l’indemnité prévue au chiffre II ci-dessus suivraient
+le sort de la cause (III), le prononcé étant rendu sans frais (IV),
+vu la décision rendue le 7 juillet 2022 par le Président de la Cour de céans, désignant
+Me Christian Favre en qualité de défenseur d’office de B.M.________ pour la procédure
+d’appel,
+vu le courrier du 15 septembre 2022, par lequel le Ministère public a indiqué qu’il n’entendait
+ni présenter de demande de non-entrée en matière sur l’appel, ni déposer d’appel
+joint,
+vu le courrier du 27 septembre 2022 de C.M.________ qui, par l'intermédiaire de son conseil d'office,
+a indiqué qu’elle s’en remettait à justice quant à la recevabilité de
+l’appel et qu’elle renonçait à déclarer un appel joint,
+vu le courrier du 2 novembre 2022, par lequel le Président de la Cour de céans a proposé
+aux parties de traiter l’appel, avec leur accord, en procédure écrite (art. 406 al. 2
+CPP),
+vu les courriers des 4 et 10 novembre 2022, par lesquels le Ministère public et C.M.________ ont
+donné leur accord au traitement de la cause en procédure écrite,
+vu la déclaration de retrait d’appel déposée le 21 décembre 2022 par B.M.________
+(P. 86), soit dans le délai prolongé pour se déterminer sur le courrier du 2 novembre
+2022 précité,
+vu la liste d’opérations de Me Christian Favre annexée à ce courrier (P. 86,
+annexe),
+vu la liste des opérations de Me Arnaud Thièry produite le 9 janvier 2023 (P. 87),
+vu le courrier de Me Favre du 12 janvier 2023 indiquant s’en remettre à justice s’agissant
+de la liste des opérations de Me Thièry (P. 89),
+vu les pièces du dossier ;
+attendu
+qu'aux
+termes de l'art. 386 al. 2 CPP, quiconque a interjeté un recours peut le retirer avant la clôture
+des débats, s'agissant d'une procédure orale (let. a) ou avant la clôture de l’échange
+de mémoire et le terme fixé pour apporter des compléments de preuves ou compléter
+le dossier s’agissant d’une procédure écrite (let. b),
+que cette disposition est applicable en matière
+d’appel
+(CAPE 13 mai
+2022/166 ; CAPE 10 mars 2020/153 et les réf. cit.),
+qu’en l’espèce, B.M.________ a déclaré retirer son appel par lettre du 21
+décembre 2021,
+qu’il convient d’en prendre acte et de rayer la cause du rôle,
+que le jugement du Tribunal de police de l’arrondissement de Lausanne du 3 mai 2022, rectifié
+le 6 mai 2022, doit en conséquence être déclaré exécutoire ;
+attendu
+qu’il y a lieu de fixer les indemnités allouées au défenseur d’office de B.M.________
+et au conseil d’office de C.M.________ pour la procédure d’appel,
+qu'aux termes de l'art. 135 al. 1 CPP, le défenseur d'office est indemnisé conformément
+au tarif des avocats de la Confédération ou du canton du for du procès,
+que, dans le canton de Vaud, l’indemnité horaire de l’avocat d’office breveté
+est usuellement fixée à 180 fr., TVA en sus (art. 2 al. 1 RAJ [règlement sur l’assistance
+judiciaire en matière civile du 7 décembre 2010 ; BLV 211.02.3] ; ATF 137 III
+185),
+que l'indemnité est fixée à la fin de la procédure par le tribunal qui statue au
+fond (art. 135 al. 2 CPP), soit, en l'espèce, la Cour de céans (art. 398 CPP et 14 al. 1 LVCPP
+[loi vaudoise du 19 mai 2009 d’introduction du Code de procédure pénale suisse ; BLV
+312.01]),
+qu’en l'espèce, Me Christian Favre, défenseur d’office de B.M.________, a produit
+une liste d’opérations faisant état 8,42 heures d’activité d’avocat
+breveté,
+qu’il n’y a pas lieu de s’écarter du temps ainsi allégué, qui apparaît
+justifié,
+que conformément à l’art. 3
+bis
+RAJ, applicable par renvoi de l’art. 26b TFIP [tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), il y a lieu d’indemniser
+les débours sur une base forfaitaire, à concurrence de 2 % du montant des honoraires admis,
+qu'il y a ainsi lieu d'allouer à Me Christian Favre une indemnité totale de 1'792 fr. 65 pour
+la procédure d’appel, correspondant à 1'515 fr. d’honoraires, à une vacation
+de 120 fr., à des débours annoncés à hauteur de 29 fr. 50 et à la TVA sur le
+tout, au taux de 7,7 %, par 128 fr. 15,
+que Me Arnaud Thièry, conseil d’office de la partie plaignante, a produit une liste des opérations
+faisant état de 3h12 d’activité d’avocat breveté, dont il n’y a pas
+non plus lieu de s’écarter, celle-ci étant adéquate,
+qu’il lui sera dès lors alloué une indemnité pour la procédure d’appel
+correspondant à des honoraires par 576 fr., auxquels s’ajoutent des débours forfaitaires
+de 2%, par 11 fr. 50, et la TVA sur le tout, au taux de 7,7%, par 45 fr. 25, soit au total 632 fr. 75,
+attendu
+que les frais de la procédure d'appel, par 4'359 fr. 55
+– constitués en l’espèce de l’émolument de décision, par 550 fr.
+(art. 21 al. 1 TFIP), et des indemnités allouées aux défenseurs d’office successifs
+du prévenu, par 3'176 fr. 80 (soit 1'384 fr. 15 [pour Me Dupuis] + 1'792 fr. 65 [pour
+Me Favre]), ainsi qu’au conseil d’office de la partie plaignante, par 632 fr. 75 –,
+seront mis à la charge de B.M.________, la partie qui retire son appel étant réputée
+avoir succombé (art. 428 al. 1 CPP ; Moreillon/Parein-Reymond, Code de procédure
+pénale, Petit commentaire, 2
+e
+éd.,
+Bâle 2016, n. 5 ad art. 428 al. 1 CPP),
+que B.M.________ ne sera tenu de rembourser à l’Etat les indemnités en faveur de ses
+défenseurs d’office successifs et du conseil d’office de la partie plaignante que lorsque
+sa situation financière le permettra (art. 135 al. 4 let. a CPP).
+Par
+ces motifs,
+la
+Cour d’appel pénale,
+statuant
+à huis clos,
+en
+application des art.
+135, 386 al.
+2 let. a, 422 ss CPP
+,
+prononce
+:
+I.
+Il est pris acte du retrait de
+l’appel interjeté par B.M.________.
+II.
+La cause est rayée du rôle.
+III.
+Le jugement rendu le 3 mai 2022
+par le Tribunal de police de l’arrondissement de l’Est vaudois, rectifié le 6 mai 2022,
+est déclaré exécutoire.
+IV.
+Une
+indemnité de défenseur d’office d’un montant de 1'792 fr. 65 (mille sept cent nonante-deux
+francs et soixante-cinq centimes), TVA et débours compris, est allouée à Me Christian
+Favre pour la procédure d’appel.
+V.
+Une indemnité de conseil d’office d’un montant de 632 fr. 75 (six cent trente-deux francs
+et septante-cinq centimes), TVA et débours compris, est allouée à Me Arnaud Thièry
+pour la procédure d’appel.
+VI.
+Les
+frais d’appel, par 4'359 fr. 55 (quatre mille trois cent cinquante-neuf francs et cinquante-cinq
+centimes), y compris les indemnités d’office prévues au chiffre IV et V ci-dessus ainsi
+qu’au chiffre II du prononcé du 5 juillet 2022, sont mis à la charge de B.M.________.
+VII.
+B.M.________
+ne sera tenu de rembourser à l’Etat le montant des indemnités en faveur de ses défenseurs
+d’office et du conseil d’office de la partie plaignante que lorsque sa situation financière
+le permettra.
+VIII.
+Le présent prononcé est
+exécutoire
+.
+Le
+président :               Le greffier
+:
+Du
+Le prononcé qui précède, dont la rédaction a été approuvée à
+huis clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Me Christian Favre, avocat (pour B.M.________),
+-
+Me Arnaud Thièry, avocat (pour
+C.M.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Présidente du Tribunal
+de police de l’arrondissement de l’Est vaudois
+,
+-
+Mme la Procureure de l’arrondissement
+de l’Est vaudois,
+par l’envoi de photocopies.
+Le présent prononcé peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent prononcé peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
