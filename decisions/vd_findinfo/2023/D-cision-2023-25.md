@@ -1,0 +1,557 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___25"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 25"
+decided: "2023-01-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9177752"
+cites_law: ["switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-061.md", "switzerland/bund/acts/311.0/art-077a.md", "switzerland/bund/acts/311.0/art-084.md", "switzerland/bund/acts/311.0/art-086.md", "switzerland/bund/acts/311.1/art-027.md", "switzerland/bund/acts/311.1/art-035.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-237.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-438.md"]
+---
+
+# VD Findinfo Décision / 2023 / 25
+
+## Regeste
+
+DÉTENTION PROVISOIRE, RISQUE DE COLLUSION, MESURE DE SUBSTITUTION À LA DÉTENTION, EXÉCUTION ANTICIPÉE DES PEINES ET DES MESURES, ADMISSION DE LA DEMANDE | 237 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 18.01.2023 Décision / 2023 / 25
+
+DÉTENTION PROVISOIRE, RISQUE DE COLLUSION, MESURE DE SUBSTITUTION À LA DÉTENTION, EXÉCUTION ANTICIPÉE DES PEINES ET DES MESURES, ADMISSION DE LA DEMANDE | 237 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+34
+PE21.011859-PAE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+18 janvier 2023
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mme
+Rouleau et M. Perrot, juges
+Greffier
+:              M.
+Valentino
+*****
+Art.
+237 CPP
+Statuant sur le recours interjeté le 29 décembre 2022 par
+V.________
+contre l’ordonnance rendue le 20 décembre 2022 par le Tribunal des mesures de contrainte dans
+la cause
+n° PE21.011859-PAE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le
+20 mars 2022 en fin d'après-midi, à Vevey, une dispute serait survenue entre C.________ et
+V.________, au cours de laquelle celui-ci aurait asséné un coup de couteau à celle-là
+à la cuisse gauche (un peu au-dessus du genou), lui occasionnant une blessure d'une profondeur de
+2 cm environ. La police n'a pas été contactée et C.________ est allée se faire soigner
+à l'Hôpital [...] puis, le lendemain, à l'Hôpital [...], où deux points de suture
+ont été posés.
+Le 29 mars 2022, vers 20h15, la police est intervenue à [...], au domicile de [...] en raison d'une
+altercation entre celle-ci et V.________, d'une part, et [...] ainsi que...] [...], parents de C.________,
+présente lors des faits, d'autre part, au cours de laquelle ces derniers auraient notamment menacé
+de mort V.________, au moyen de clubs de golf et d'un couteau de chasse. Pour une raison encore indéterminée,
+celui-ci se serait également emparé d'un couteau. Selon le rapport de police du 31 mars 2022
+(P. 7), le coup de couteau asséné par V.________ à C.________ le 20 mars 2022 serait l'élément
+déclencheur de l'altercation du 29 mars 2022.
+Entendue par la police le 29 mars 2022 dès 21h45, C.________ a déposé plainte contre V.________
+pour les faits du 20 mars 2022. Entendue une nouvelle fois par la police le 30 mars 2022, elle a également
+mis en cause le prénommé pour avoir donné une claque à son petit frère, [...],
+né le [...] 2014.
+b)
+V.________
+a été appréhendé
+le 30 mars 2022 à 00h05.
+Contacté par la police à 00h15, le procureur a décidé d'ouvrir deux dossiers séparés,
+l'un pour les faits survenus le 20 mars 2022 et l'autre en raison des faits survenus le 29 mars 2022.
+Il a ensuite ouvert une instruction, sous le numéro de référence PE22.005906, contre V.________,
+pour lésions corporelles simples qualifiées pour avoir, le 20 mars 2022, à Vevey, asséné
+un coup de couteau à la cuisse gauche à C.________.
+c)
+Par
+ordonnance du 1
+er
+avril 2022, le Tribunal des mesures de contrainte a ordonné la détention provisoire de V.________
+pour une durée maximale de trois mois, soit au plus tard jusqu'au 30 juin 2022. Par arrêt du
+21 avril 2022 (n° 286), la Chambre des recours pénale du Tribunal cantonal a rejeté le
+recours interjeté par V.________
+contre cette
+ordonnance
+, considérant qu’il
+existait des
+indices suffisants de culpabilité
+pour l’infraction de lésions corporelles simples qualifiées et que l’existence
+de risques de collusion et de réitération pouvait être admise.
+Le 5 avril 2022, le Ministère
+public a étendu l'instruction contre le prévenu pour avoir, entre le 2 janvier et le 30 mars
+2022, à plusieurs reprises bousculé et frappé...] [...], ainsi qu'à une date indéterminée,
+rasé les lettres « RS » sur le chien de...] [...] contre l'avis de celle-ci.
+d)
+V.________
+a été transféré à l’Etablissement de détention pour mineurs et jeunes
+adultes (EDM) Aux Léchaires en date du 6 avril 2022, où il se trouve actuellement.
+e)
+Par
+ordonnances des 23 juin et 22 septembre 2022,
+le
+Tribunal des mesures de contrainte a prolongé la détention provisoire du prévenu pour
+une durée de trois mois, en dernier lieu jusqu’au 30 décembre 2022, en raison des risques
+de collusion et de réitération.
+f)
+L'extrait
+du casier judiciaire de V.________ fait état des condamnations suivantes :
+- le 12 juin 2020, par le Tribunal des mineurs, pour lésions corporelles simples avec une arme ou
+un objet dangereux et délit à la loi fédérale sur les armes, à une peine privative
+de liberté de 4 jours ;
+- le 3 septembre 2020, par le Tribunal des mineurs, pour brigandage, à une peine privative de liberté
+150 jours, dont 90 avec sursis pendant un an ;
+- le 21 avril 2022, par le Tribunal judiciaire de Thonon-les-Bains (France), pour infraction à la
+législation étrangère, à une amende de 500 euros.
+Il ressort en outre du dossier que
+le Tribunal
+des mineurs a condamné V.________ le 7 décembre 2022 à une peine d’ensemble de 365
+jours de privation de liberté, sous déduction de 6 jours de détention avant jugement,
+dont 179 jours fermes et 180 jours avec sursis et accompagnement pendant 1 an, pour mise en danger de
+la vie d’autrui, vol, dommages à la propriété, tentative d’utilisation frauduleuse
+d’un ordinateur, recel, violation de domicile, violation grave des règles de la circulation
+routière, violation grave qualifiée des règles de la circulation routière, entrave
+aux mesures de constatation de l’incapacité de conduire, vol d’usage d’un véhicule
+automobile, conduite d’un véhicule automobile soustrait, conduite d’un véhicule
+automobile sans autorisation, conduite d’un véhicule automobile non couvert par une assurance
+responsabilité civile, usage abusif de plaques de contrôle, appropriation sans droit de plaques
+de contrôle et infraction à la loi sur les armes.
+Le prévenu fait aussi l'objet d’une procédure encore en cours auprès du Ministère
+public de l'arrondissement de Lausanne pour lésions corporelles simples notamment, portant la référence
+PE21.011859. Dans le cadre de cette procédure, il est reproché à V.________, sur une période
+s’étendant d’octobre 2020 à juin 2021, d’avoir tenu des propos injurieux
+et menaçants à l’égard de sa précédente amie, M.________, de s’être
+approprié le téléphone de celle-ci et de l’avoir conservé sans qu’elle
+y consente, de l’avoir saisie au niveau du cou à une reprise lors d’une dispute, de
+l’avoir forcée à entretenir des relations sexuelles alors qu’elle lui avait signifié
+son désaccord, d’avoir détenu un pistolet factice malgré une interdiction légale
+et d’avoir dérobé des plaques d’immatriculation sur le véhicule d’un
+tiers. Une ordonnance de classement a été rendue le 21 février 2022 en relation avec l'infraction
+de viol. Pour le surplus, le 28 février 2022, un acte d'accusation pour voies de fait, appropriation
+illégitime, injure, violation du domaine secret ou du domaine privé au moyen d'un appareil
+de prise de vues, menaces, contrainte, infraction à la loi fédérale sur les armes et usage
+abusif de permis et de plaques a été adressé au tribunal de première instance. Par
+ailleurs, le prévenu, dont la mise en détention provisoire avait été ordonnée
+par le Tribunal des mesures de contrainte le 8 juillet 2021, a pu bénéficier de mesures de
+substitution à la détention provisoire depuis le 4 octobre 2021, mais il a été mis
+en cause pour avoir récidivé en relation avec les faits du 20 mars 2022, ce qui a donné
+lieu à la présente affaire et à une nouvelle mise en détention provisoire du prévenu
+comme relevé ci-avant.
+Le 20 mai 2022, la procureure a ordonné la jonction de l’enquête portant le numéro
+de référence PE22.005906 à l’enquête portant le numéro de référence
+PE21.011859.
+g)
+Une
+expertise psychiatrique a été confiée à la [...] et le rapport a été déposé
+le 14 octobre 2022. Aucun diagnostic psychiatrique n’a été posé. Il n’a pas
+été retrouvé chez l’expertisé d’indifférence froide envers les sentiments
+d’autrui, d’incapacité à éprouver de la culpabilité ou à tirer un
+enseignement des expériences/sanctions ou de tendance à blâmer autrui ou à fournir
+des justifications plausibles pour expliquer ses comportements. En revanche, il a été retenu
+dans une certaine mesure des difficultés à maintenir des relations, ainsi qu’une faible
+tolérance à la frustration et un abaissement du seuil de décharge de l’agressivité.
+De plus il était noté chez l’expertisé un certain mépris concernant les normes/règles/contraintes
+sociales, qui deviennent secondaires lorsqu’il est frustré ou contrarié. Il n’a
+pas non plus été constaté de stress post-traumatique mais il est probable que les violences
+vécues dans le milieu familial aient influencé le comportement et le développement de
+l’expertisé durant son enfance et son adolescence et qu’elles soient une des raisons
+qui ont mené à un défaut de gestion de la colère et de l’impulsivité,
+et donc à la violence. Selon les experts, durant l’adolescence, l’expertisé a présenté
+un trouble des conduites de type mal socialisé. Il s’agit, selon eux, d’un trouble développemental
+caractérisé par des conduites dyssociales, l’expertisé ayant été mis en
+cause pour des vols, des mensonges répétés, des manquements scolaires, des propos et comportements
+agressifs envers d’autres enfants. Aux termes du rapport d’expertise, ces conduites pathologiques
+ont entraîné ses condamnations pénales durant l’adolescence. Les experts ont ensuite
+indiqué que l’expertisé disait ne plus ressentir actuellement de tensions internes importantes
+ou d’agressivité et qu’il se décrivait comme calme et en mesure de contenir ses
+émotions. Même si dans le cadre de l’expertise aucun élément ne venait infirmer
+ces dires, il était possible que le cadre structurant et contenant de l’incarcération
+ait participé à ce meilleur contrôle des impulsions. Donc, il n’y avait pas de trouble
+mental pour les experts au moment des faits reprochés à l’expertisé. Celui-ci n’était
+pas non plus privé de sa capacité à apprécier le caractère illicite de ses actes
+et de se déterminer d’après cette appréciation, ni restreint dans cette capacité.
+Quant à la probabilité d’une récidive, les experts ont relevé que les facteurs
+statiques avec antécédents de violence, associée à la violence subie dans l’enfance,
+même s’ils n’avaient pas abouti à un diagnostic psychiatrique, laissaient penser
+à un risque de récidive moyen à élevé en l’absence d’une prise en
+charge socio-thérapeutique et psychothérapeutique. La nature de nouvelles infractions éventuelles
+serait identique à celles qui sont reprochées à l’expertisé. En outre, en l’absence
+d’un trouble psychique avéré, la fiabilité de l’appréciation des experts
+devait être considérée comme moyenne et devrait être complétée par une
+évaluation criminologique. Le suivi psychothérapeutique conseillé pouvait être effectué
+pendant ou après une peine privative de liberté, une bonne alliance thérapeutique étant
+cependant essentielle. En revanche, les experts ne se sont pas prononcés en faveur d’une mesure
+pénale au sens de l’art. 61 CP.
+Une autre expertise a été ordonnée par le Ministère public le 21 octobre 2022 en
+lien avec l’épisode du coup de couteau, les experts ayant été invités à
+se prononcer, dans un délai de trois mois, sur la compatibilité des déclarations du prévenu
+avec la lésion objectivement constatée sur la plaignante, sur la compatibilité entre les
+lésions constatées avec un événement accidentel, sur la force nécessaire exercée
+sur le couteau pour occasionner les lésions constatées et sur la compatibilité avec un
+événement accidentel lors d’un jeu dit
+«
+jeu du couteau entre les doigts »
+. Les experts
+n’ont pas encore déposé leur rapport.
+B.
+a)
+Le 14 décembre 2022, le
+Ministère public, invoquant la persistance des risques de collusion et de réitération,
+a requis la prolongation de la détention provisoire du prévenu pour une durée de trois
+mois.
+b)
+Dans
+ses déterminations du 1
+6 décembre 2022,
+V.________, par son défenseur d’office, a conclu principalement au rejet de
+la
+demande de prolongation de la détention provisoire déposée par le Ministère public
+et à sa libération immédiate, subsidiairement
+à ce que soient ordonnées, en lieu et place de la détention provisoire, des mesures de
+substitution à forme de l’obligation de poursuivre le traitement psychothérapeutique
+débuté en détention provisoire au sein de l’EDM Aux Léchaires aussi longtemps
+que le thérapeute en charge le jugera nécessaire, du maintien du suivi par l’éducateur
+du Tribunal des mineurs [...], de l’interdiction d’approcher M.________ et C.________ dans
+un périmètre de moins de 250 m de leur domicile et/ou lieu de travail respectif, respectivement
+de les contacter de quelque manière que ce soit par la parole, l’écrit ou les moyens
+électroniques et informatiques, plus subsidiairement à sa libération immédiate en
+mains de l’Office d’exécution des peines en vue de l’exécution de la peine
+privative de liberté partiellement ferme infligée par le Tribunal des mineurs le 7 décembre
+2022 (PM20.005131) et plus subsidiairement encore à ce que la durée de la prolongation ordonnée
+soit limitée à un mois.
+c)
+Par
+ordonnance du 20 décembre 2022, le Tribunal des mesures de contrainte a ordonné la prolongation
+de la détention provisoire de V.________ (I), a fixé la durée maximale de la prolongation
+à trois mois, soit au plus tard jusqu'au 29 mars 2023 (II), et a dit que les frais de la décision,
+par 300 fr., suivaient le sort de la cause (III).
+Par adoption des moyens de la requête de prolongation de la
+détention
+provisoire, le
+Tribunal des mesures de contrainte
+a retenu l’existence de risques de collusion et de réitération qu’aucune mesure
+de substitution n’était à même de juguler.
+C.
+Par acte du 29 décembre 2022,
+V.________, par son défenseur d'office, a recouru auprès de la Chambre des recours pénale
+du Tribunal cantonal contre cette ordonnance, en concluant, avec suite de frais et dépens, à
+son annulation et à sa libération immédiate
+« en
+mains de l’Office d’exécution des peines en vue de l’exécution de la peine
+privative de liberté infligée le 9 [recte : 7] décembre 2022 par le Tribunal
+des mineurs »
+, les frais
+étant laissés à la charge de l'Etat.
+Par courrier du 6 janvier 2023, soit dans le délai imparti à cet effet, le premier juge a indiqué
+qu’il renonçait à se déterminer sur le recours déposé par le prévenu
+et qu’il se référait intégralement à la motivation de son ordonnance attaquée.
+Par déterminations du 9 janvier 2023, le Ministère public a indiqué que le risque de collusion
+devait être considéré comme concret au vu des versions contradictoires des parties, l’exécution
+anticipée de peine ne permettant, selon lui, aucun contrôle strict des courriers et des téléphones
+des personnes détenues, de sorte que le prévenu pourrait aisément contacter son amie C.________.
+Par courrier du 12 janvier 2023, sur interpellation de la direction de la procédure de recours,
+la Présidente du Tribunal des mineurs a indiqué que le jugement du Tribunal des mineurs du
+7 décembre 2022 – qui
+porte le numéro
+de référence PM20.005131 –
+était entré en force, ce qui avait été constaté par une mention au procès-verbal
+des opérations, et que cette entrée en force n’était pas litigieuse au sens de l’art.
+438 al. 3 CPP.
+Par courrier recommandé et efax des 16 et 17 janvier 2023, soit dans le délai imparti à
+cet effet, le recourant et le Ministère public se sont déterminés sur le courrier de la
+Présidente du Tribunal des mineurs du 12 janvier 2023.
+En droit
+:
+1.
+Interjeté dans le délai
+légal (art. 396 al. 1 CPP [Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0]),
+contre une décision du Tribunal des mesures de contrainte dans un cas prévu par le CPP (art.
+222 et 393 al. 1 let. c CPP), par un détenu qui a la qualité pour recourir (art. 382 al. 1
+CPP) et dans les formes prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+Selon l’art. 221 al. 1 CPP,
+la
+détention
+provisoire
+et la
+détention
+pour
+des motifs de sûreté ne peuvent être ordonnées que lorsque le prévenu est fortement
+soupçonné d’avoir commis un crime ou un délit et qu’il y a sérieusement
+lieu de craindre qu’il se soustraie à la procédure pénale ou à la sanction
+prévisible en prenant la fuite (let. a), qu’il compromette la recherche de la vérité
+en exerçant une influence sur des personnes ou en altérant des moyens de preuve (let. b) ou
+qu’il compromette sérieusement la sécurité d’autrui par des crimes ou des
+délits graves après avoir déjà commis des infractions du même genre (let. c).
+La
+détention
+provisoire
+et la
+détention
+pour
+des motifs de sûreté ne doivent pas durer plus longtemps que la peine privative de liberté
+prévisible (art. 212 al. 3 CPP).
+3.
+3.1
+En l’espèce, s’agissant
+des
+soupçons de culpabilité,
+le
+Tribunal des mesures de contrainte
+s’est référé à l’arrêt
+de la Chambre de céans du 21 avril 2022. Il a également relevé que les risques de collusion
+et de réitération demeuraient toujours d’actualité en l’absence d’éléments
+nouveaux. Concernant le risque de collusion, il a rappelé qu’il pouvait perdurer jusqu’au
+jugement et qu’on ne pouvait exclure que le prévenu tente d’influencer les déclarations
+de ses victimes, en particulier celle concernée par l’épisode du coup de couteau à
+propos duquel des mesures d’instruction étaient toujours en cours. Quant au risque de récidive,
+le parcours pénal du prévenu était éloquent et les nouveaux actes qui lui avaient
+été reprochés avaient été commis alors qu’il bénéficiait de
+mesures de substitution à la détention provisoire. De surcroît, il ressortait du rapport
+d’expertise que le prévenu présentait un risque de récidive moyen à élevé
+en l’absence d’une prise en charge socio-thérapeutique et psychothérapeutique,
+laquelle ne devrait lui être imposée sous forme de mesure mais bien entreprise sur un mode
+volontaire. En état, pour le tribunal, aucune mesure de substitution n’était apte à
+parer aux risques retenus, compte tenu de l’échec de celles prononcées le 1
+er
+octobre 2021 et prolongées les 3 janvier, 3 février et 8 mars 2022. En outre, l’exécution
+de la peine prononcée le 8 décembre 2022 par le Tribunal des mineurs, quand bien même
+elle serait exécutoire, ne permettrait nullement de prévenir le risque de collusion, toujours
+présent, eu égard aux conditions inhérentes au régime d’exécution dans
+lequel le prévenu serait détenu, permettant des contacts avec l’extérieur.
+3.2
+3.2.1
+La
+détention
+provisoire n’est pas contestée dans son principe. Le recourant
+conteste
+le raisonnement du premier juge uniquement s’agissant de la mesure de substitution consistant en
+l’exécution de la peine prononcée le 7 décembre 2022 par le Tribunal des mineurs.
+Il expose que la section XII du RSPC (
+règlement
+sur le statut des personnes condamnées exécutant une peine privative de liberté ou une
+mesure du 1
+er
+janvier 2018 ; BLV 340.01.1)
+prescrit tout
+un ensemble de règles sur les relations avec l’extérieur des condamnés et que ces
+garde-fous permettraient d’éviter d’éventuelles tentatives de sa part de contacter
+les personnes impliquées dans la procédure. À cet égard, comme il devrait exécuter
+sa peine dans un établissement pour mineurs et jeunes adultes, conformément à l’art.
+27 al. 2 DPMin
+(loi fédérale
+régissant la condition pénale des mineurs du 20 juin 2003; RS 311.1)
+,
+il ne serait en réalité pas exposé à un changement d’établissement, puisqu’il
+se trouverait déjà à l’EDM Aux Léchaires. Ainsi, le risque de collusion ne
+serait pas plus ou moins important en fonction du régime de détention et il serait totalement
+contre-productif de le maintenir en détention provisoire au lieu de lui permettre d’exécuter
+sa peine privative de liberté.
+3.2.2
+3.2.2.1
+En vertu du principe de la proportionnalité
+ancré à l'art. 36 al. 3 Cst., l'autorité doit tenter autant que possible de substituer
+à la détention toute autre mesure moins incisive propre à atteindre le même résultat
+(ATF 145 IV 503 consid. 3.1 ; ATF 142 IV 367 consid. 2.1, SJ 2017 I 233; ATF 133 I 270 consid.
+2.2). Cette exigence est concrétisée par l'art. 237 al. 1 CPP, qui prévoit que le tribunal
+compétent ordonne une ou plusieurs mesures moins sévères en lieu et place de la détention
+provisoire ou pour des motifs de sûreté si ces mesures permettent d'atteindre le même
+but que la détention. Le juge de la détention n'est en particulier pas limité par
+la liste énoncée à l'art. 237 al. 2 CPP et peut également, le cas échéant,
+assortir la/les mesure(s) de substitution de toute condition propre à en garantir l'efficacité
+(ATF 145 IV 503 consid. 3.1 ; ATF 142 IV 367 consid. 2.1).
+Lorsque la détention provisoire tend à pallier le risque de récidive, l’exécution
+d’une peine privative de liberté résultant d’une précédente condamnation
+constitue en principe une mesure de substitution adéquate (ATF 142 IV 367 consid. 2.2). Certes,
+dans le cadre du régime de l’exécution des peines, l’autorité compétente
+peut, dès la mi-peine et à certaines conditions, accorder au condamné un aménagement
+de travail externe (art. 77a al. 1 CP), des congés (art. 84 al. 6 CP), voire une éventuelle
+libération conditionnelle (art. 86 al. 4 CP); cependant, si une telle situation devait se réaliser,
+cela ne signifierait toutefois pas que le condamné exécutant une peine privative de liberté
+à titre de mesure de substitution à la détention provisoire et présentant un risque
+de récidive se trouverait remis en liberté; en effet, dans sa décision, le juge de la
+détention peut prévoir, à titre de condition à la mesure de substitution, que le
+détenu sera à nouveau placé en détention provisoire – ou pour des mesures de
+sûreté, selon l’avancement de la procédure – si l’exécution des
+sanctions précédentes, respectivement l’aménagement de celles-ci, devait entraîner
+sa libération préalablement à l’issue de la procédure ayant amené son
+placement en détention provisoire (ATF 142 IV 367 consid. 2.2; TF 1B_165/2012 du 12 avril 2012 consid.
+2.3).
+3.2.2.2
+En l’occurrence, V.________
+a été condamné le 7 décembre 2022 par le Tribunal des mineurs à une
+peine
+d’ensemble de 365 jours de privation de liberté, sous déduction de 6 jours de détention
+avant jugement, dont 179 jours fermes et 180 jours avec sursis et accompagnement pendant 1 an.
+Le
+recourant se prévaut de cette condamnation à titre de mesure de substitution.
+Le
+jugement en question étant entré en force et cette entrée en force n’étant
+pas litigieuse, comme l’a attesté la Présidente du Tribunal des mineurs (P. 173), l’exécution
+de la peine privative de liberté prononcée contre le prénommé se révèle
+suffisante pour parer non seulement au risque de récidive,
+comme
+exposé plus haut (cf. consid. 3.2.2.1
+supra
+),
+mais également au risque de collusion.
+S'agissant
+du risque de récidive, une partie des actes examinés dans la présente cause ont certes
+été commis alors que le recourant se trouvait déjà en détention à l’EDM
+Aux Léchaires, celui-ci ayant été mis en cause pour avoir notamment menacé un agent
+de détention ; il n'en demeure pas moins que le danger de réitération de l'art. 221
+al. 1 let. c CPP doit s'apprécier de manière plus large en tenant compte de tous les antécédents,
+en l'espèce nombreux, du prévenu. Dans ces conditions, la mesure de substitution est apte en
+l'occurrence à réduire ce danger. Quant au risque de collusion,
+comme
+le relève justement le recourant, des contrôles du courrier et des communications téléphoniques
+paraissent suffisants pour s’assurer que celui-ci ne prendra pas contact avec les victimes des
+agissements qui lui sont reprochés. De toute manière, l’enquête paraît déjà
+bien avancée et le risque de collusion envisagé apparaît désormais relativement abstrait.
+Le recourant ne saurait disposer d’aménagements de peine qui feraient craindre qu’il
+prenne contact avec les victimes ou récidive. Par ailleurs, la peine privative de liberté prononcée
+le 7 décembre 2022 ayant été suspendue partiellement, la libération conditionnelle
+est exclue pour la partie de la peine qui doit être exécutée (art. 35 al. 2 DPMin), portant
+sur 179 jours, de sorte que le condamné ne pourra pas bénéficier du sursis assortissant
+le solde de la peine (de 180 jours) avant le terme de la prolongation de trois mois de sa détention
+provisoire prononcée dans l’ordonnance attaquée, soit avant le 29 mars 2023. Quant à
+la période postérieure,
+elle
+pourra – le moment venu – faire l’objet d’aménagements par le juge de la
+détention. Il n’est donc pas utile de prévoir, dans le présent arrêt, que le
+recourant doit être à nouveau placé en détention provisoire si l’exécution
+de la peine privative de liberté ferme à laquelle il a été condamné devait entraîner
+sa libération préalablement à l’issue de la présente procédure pénale
+(pour un tel cas, cf. CREP 26 février 2019/145).
+Enfin, il y a lieu de préciser à l’attention de V.________ qu’au moindre écart
+de sa part, il sera susceptible d’être replacé en détention provisoire. Une copie
+du présent arrêt sera en outre adressée aux parties plaignantes et victimes – qui
+ont reçu une copie de l’ordonnance attaquée – afin qu’elles soient informées
+de la présente procédure et, le cas échéant, puissent avertir le Ministère public
+si l’interdiction de contact signifiée au prévenu est transgressée.
+4.
+Il s’ensuit que le recours
+doit être admis. L’ordonnance du 20 décembre 2022 est réformée en ce sens que
+des mesures de substitution sont ordonnées en lieu et place de la détention provisoire sous
+la forme
+de l’interdiction signifiée
+à V.________ de prendre contact, de quelque manière que ce soit, avec les participants à
+la procédure pénale n° PE21.011859, et
+de
+l'exécution de la peine privative de liberté ferme prononcée le 7 décembre 2022 par
+le Tribunal des mineurs, d’une part, et que V.________ passe sous l’autorité de l’Office
+d’exécution des peines en vue d’exécuter cette peine en milieu fermé, l’Office
+d’exécution des peines étant tenu de renseigner en temps utile la direction de la procédure
+sur la date de début et de fin d’exécution de cette peine, d’autre part. L’ordonnance
+est maintenue pour le surplus.
+Vu l’issue de la cause, les frais de la procédure de recours, constitués de l’émolument
+d’arrêt, par 1'430 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010; BLV 312.03.1]), ainsi que des frais imputables
+à la défense d’office (art. 422 al. 1 et 2 let. a CPP), fixés à 396 fr.
+– qui comprennent des honoraires par 360 fr. (deux heures à 180 fr.), des débours forfaitaires
+par 7 fr. 20 (cf. art. 26b TFIP qui renvoie à l'art. 3
+bis
+RAJ
+[règlement sur l’assistance judiciaire en matière civile du 7 décembre 2010;
+BLV 211.02.3]) et la TVA sur le tout, au taux de 7,7%, par 28 fr. 27, le montant global étant
+arrondi au franc supérieur –, seront laissés à la charge de l’Etat (art. 423
+al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 20 décembre 2022 est réformée en ce sens que les
+chiffres II
+bis
+et II
+ter
+suivants sont ajoutés à son dispositif :
+II
+bis
+:
+ordonne
+des mesures de substitution en lieu et place de la détention provisoire sous la forme, d’une
+part, de l’interdiction signifiée à V.________ de prendre contact, de quelque manière
+que ce soit, avec les participants à la procédure pénale n° PE21.011859, et,
+d’autre part, de l'exécution de la peine privative de liberté ferme prononcée le
+7 décembre 2022 par le Tribunal des mineurs ;
+II
+ter
+:
+dit que
+V.________ passe sous l’autorité de l’Office d’exécution
+des peines en vue d’exécuter la peine mentionnée sous chiffre II
+bis
+ci-dessus
+en milieu fermé. L’Office d’exécution des peines renseignera en temps utile la
+direction de la procédure sur la date de début et de fin d’exécution de cette peine.
+L’ordonnance est
+maintenue pour le surplus.
+III.
+L’indemnité allouée au défenseur d’office de V.________ est fixée à
+396 fr. (trois cent nonante-six francs).
+IV.
+Les frais d’arrêt, par 1'430 fr. (mille quatre cent trente francs), ainsi que l’indemnité
+due au défenseur d’office de V.________, par 396 fr. (trois cent nonante-six francs), sont
+laissés à la charge de l’Etat.
+V.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Benoît Morzier, avocat (pour V.________) (et par efax),
+-
+Ministère public central (et par efax),
+et communiqué à :
+-
+Mme la Présidente du Tribunal des mesures de contrainte (et par efax),
+-
+Mme la Procureure du Ministère public de l’arrondissement de Lausanne (et par efax),
+-
+Direction de l’Etablissement pour mineurs et jeunes adultes Aux Léchaires (et par efax),
+-
+Mme M.________,
+-
+Mme C.________,
+-
+Mme [...] (pour [...]),
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
