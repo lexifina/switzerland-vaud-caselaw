@@ -1,0 +1,555 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___46"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 46"
+decided: "2023-01-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9188062"
+cites_law: ["switzerland/bund/acts/0.101/art-003.md", "switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-426.md", "switzerland/bund/acts/311.0/art-056.md", "switzerland/bund/acts/311.0/art-056a.md", "switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/311.0/art-063.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-237.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2023 / 46
+
+## Regeste
+
+DÉTENTION PROVISOIRE, RISQUE DE RÉCIDIVE, MESURE DE SUBSTITUTION À LA DÉTENTION, MESURE{DROIT PÉNAL}, PLACEMENT À DES FINS D'ASSISTANCE, SOUPÇON | 56 CP, 221 al. 1 let. c CPP (CH), 237 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 23.01.2023 Décision / 2023 / 46
+
+DÉTENTION PROVISOIRE, RISQUE DE RÉCIDIVE, MESURE DE SUBSTITUTION À LA DÉTENTION, MESURE{DROIT PÉNAL}, PLACEMENT À DES FINS D'ASSISTANCE, SOUPÇON | 56 CP, 221 al. 1 let. c CPP (CH), 237 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+49
+PE23.000145-LAS
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+23 janvier 2023
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mmes
+Fonjallaz et Courbat, juges
+Greffière
+:              Mme
+Japona-Mirus
+*****
+Art.
+56 ss CP ; 212 al. 3, 221 al. 1 let. c, 237 CPP
+Statuant sur le recours interjeté le 18 janvier 2023 par
+P.________
+contre l’ordonnance rendue le 8 janvier 2023 par le Tribunal des mesures de contrainte dans la
+cause
+n° PE23.000145-LAS
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le
+Ministère public de l’arrondissement du Nord vaudois (ci-après : Ministère
+public) a ouvert une instruction pénale contre P.________ pour tentative de meurtre et conduite
+en état d’ébriété. Les faits suivants lui sont reprochés :
+« 1. Entre Corcelles-près-Payerne et Payerne, dans la soirée du 4 janvier 2023,
+P.________ a circulé au volant de son véhicule BMW, immatriculé [...], alors qu’il
+était sous l’influence de l’alcool (taux de 0.81mg/L le 5 janvier 2023 à 00h49).
+2. A Payerne[...], sur le parking [...], le 4 janvier 2023, vers 23h45, P.________ a eu une dispute avec
+N.________, sa petite amie depuis mars 2020, au sujet de leur relation, au cours de laquelle la jeune
+femme aurait évoqué une rupture.
+N.________ criait extrêmement fort, au point d’alerter L.________, dont la maison se situe
+à environ 150 mètres du parking précité. Ce dernier s’est donc rendu sur les
+lieux pour voir ce qu’il se passait. Constatant la présence d’un véhicule vide
+et entendant toujours des cris de femme, bien que plus modérés, provenant de derrière
+une haie, L.________ a alors contacté le 117.
+A un moment donné, P.________ a saisi le téléphone de N.________ et l’a lancé.
+L.________ a entendu la femme crier à de nombreuses reprises : « rends-moi mon Handy ».
+Par la suite, P.________ a remarqué la présence de L.________, qui avait fait le tour de la
+haie du parking, et s’est dirigé vers lui, manifestement stressé et furieux. Il se tenait
+à environ 50 centimètres de lui et était agressif dans sa façon de parler, au point
+d’apeurer L.________, 76 ans, lui disant « Qu’est-ce-que tu veux ? Qu’est-ce que
+tu veux ? ». Pendant ce temps, N.________ criait « appelez la police Monsieur, Monsieur, appelez
+la police ».
+Par crainte de P.________, L.________ s’est mis en retrait pour attendre la police. Le téléphone
+de N.________ a ensuite été retrouvé et la situation s’est un peu calmée. N.________
+est alors remontée dans le véhicule. P.________ a fermé la portière passager et est
+retourné au volant de sa voiture. La jeune femme a une nouvelle fois réitéré sa demande
+à L.________ d’appeler la police et le prévenu a démarré son véhicule.
+Au moment de s’engager sur la route [...], P.________ a fortement accéléré et a
+affirmé à N.________ qu’il « voulait [les] tuer tous les deux » et qu’ils
+allaient mourir.
+Précisément à cet instant, la patrouille de gendarmerie dépêchée suite
+à l’appel de L.________ arrivait sur place dans le sens inverse de celui du prévenu.
+Elle a constaté que ce dernier circulait à vive allure. P.________ a alors effectué une
+manœuvre sur la droite, sa voiture heurtant avec ses roues une bordure bétonnée, quittant
+la chaussée. Etant en perdition sur une cinquantaine de mètre, l’automobile traversa
+finalement la voie de circulation opposée pour percuter frontalement un lampadaire situé peu
+avant le giratoire [...]».
+b)
+P.________
+a été appréhendé le 5 janvier 2023, à 00h15. Le même jour, dans la matinée,
+alors qu’il se trouvait en cellule au centre de gendarmerie, il a tenté de s’étrangler
+avec son pull. Il a dès lors été acheminé à l’Hôpital d’[...],
+où un placement à des fins d’assistance a dû être ordonné d’urgence
+par un médecin, en raison d’idées suicidaires actives avec un risque auto-agressif élevé.
+Ensuite, vers 12h30, il a pu être transféré au centre de gendarmerie pour être entendu
+par la police. Son audition d’arrestation a eu lieu le lendemain.
+B.
+a)
+Par acte du 6 janvier 2023, le Ministère
+public, invoquant l’existence des risques de réitération et de passage à l’acte,
+a requis la mise en détention provisoire de P.________ pour une durée de trois mois.
+b)
+Dans
+ses déterminations du 7 janvier 2023, la défense a conclu au rejet de la demande du Ministère
+public, subsidiairement au prononcé de mesures de substitution. Elle a tout d’abord exposé
+que les mesures d’instruction envisagées par le Ministère public ne nécessitaient
+pas la détention provisoire du prévenu. Elle a ensuite contesté les faits tels que retenus
+dans la demande de détention provisoire et exposé que, lors de ses premières déclarations
+à la police, N.________ se trouvait sous le coup d’un traumatisme émotionnel dû
+à l’accident, qu’elle n’avait pas confirmé ses déclarations lors de
+sa seconde audition et que le témoin n’avait rien vu d’autre qu’une altercation
+verbale entre un couple. Elle a ensuite indiqué qu’une expertise psychiatrique pouvait être
+réalisée en dehors de toute incarcération et que le prévenu était disposé
+à s’y soumettre. Elle a encore fait valoir que des mesures de substitution à la détention
+provisoire étaient envisageables, soit un suivi médical, des mesures d’éloignement,
+une assignation à résidence et la mise en œuvre d’une surveillance électronique.
+Enfin, elle a relevé que la durée de trois mois était excessive et qu’elle n’était
+nécessitée ni par les circonstances du cas d’espèce, ni par les mesures envisagées,
+ni par les faits reprochés au prévenu ou ses antécédents, ni par le souci de pallier
+un éventuel risque suicidaire.
+c)
+Par
+ordonnance du 8 janvier 2023, retenant l’existence d’un risque de réitération et
+renonçant à examiner l’existence d’un risque de passage à l’acte, le
+Tribunal des mesures de contrainte a ordonné la détention provisoire de P.________ (I), a fixé
+la durée maximale de la détention provisoire à deux mois, soit au plus tard jusqu’au
+4 mars 2023 (II), et a dit que les frais de cette ordonnance suivaient le sort de la cause (III).
+C.
+Par acte du 18 janvier 2023, P.________, par son
+défenseur d’office, a recouru auprès de la Chambre des recours pénale contre cette
+ordonnance, en concluant, avec suite de frais et dépens, principalement, à sa mise en liberté
+immédiate, subsidiairement, à sa mise en liberté immédiate assortie d’une mesure
+de substitution à forme d’un suivi thérapeutique et, plus subsidiairement, à sa
+mise en liberté immédiate assortie de mesures de substitution à forme d’un suivi
+thérapeutique et d’une mesure d’éloignement.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Interjeté dans le délai légal (art.
+396 al. 1 CPP [Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0]), contre
+une décision du Tribunal des mesures de contrainte dans un cas prévu par le CPP (art. 222 et
+393 al. 1 let. c CPP), par un détenu qui a la qualité pour recourir (art. 382 al. 1 CPP) et
+dans les formes prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+Selon l’art. 221 al. 1 CPP, la détention
+provisoire et la détention pour des motifs de sûreté ne peuvent être ordonnées
+que lorsque le prévenu est fortement soupçonné d’avoir commis un crime ou un délit
+et qu’il y a sérieusement lieu de craindre qu’il se soustraie à la procédure
+pénale ou à la sanction prévisible en prenant la fuite (let. a), qu’il compromette
+la recherche de la vérité en exerçant une influence sur des personnes ou en altérant
+des moyens de preuve (let. b) ou qu’il compromette sérieusement la sécurité d’autrui
+par des crimes ou des délits graves après avoir déjà commis des infractions du même
+genre (let. c). En outre, la détention peut être ordonnée s’il y a sérieusement
+lieu de craindre qu’une personne passe à l’acte après avoir menacé de commettre
+un crime grave (art. 221 al. 2 CPP).
+3.
+3.1
+Le recourant conteste l’existence de soupçons suffisants. Il soutient que les faits qui lui
+sont reprochés ne reposeraient que sur les premières déclarations de N.________, que celle-ci
+n’aurait toutefois pas confirmées lors de ses auditions subséquentes et qui ne seraient
+corroborées par aucun élément objectif. En particulier, rien ne permettrait de retenir
+qu’avant l’accident litigieux, les deux intéressés auraient eu plus qu’une
+simple dispute de couple, aucune marque d’agression sur la prénommée n’ayant été
+rapportée et les policiers n’ayant jamais été informés d’épisodes
+de violence qui les concerneraient. Au surplus, N.________ n’aurait pas déposé de plainte
+pénale.
+3.2
+La mise en détention provisoire n’est possible que s’il existe à l’égard
+de l’auteur présumé, et préalablement à toute autre cause, de graves soupçons
+de culpabilité d’avoir commis un crime ou un délit (ATF 139 IV 186 consid. 2 ; Chaix,
+in
+:
+Jeanneret et al. [éd.], Commentaire romand, Code de procédure pénale suisse, 2
+e
+éd.,
+Bâle 2019 [ci-après : CR CPP], nn. 4 ss ad art. 221 CPP).
+L’intensité des charges propres à motiver un maintien en détention provisoire n’est
+pas la même aux divers stades de l’instruction pénale. Si des soupçons, même
+encore peu précis, peuvent être suffisants dans les premiers temps de l’enquête,
+la perspective d’une condamnation doit apparaître vraisemblable après l’accomplissement
+des actes d’instruction envisageables (ATF 143 IV 330 consid. 2.1 ; ATF 143 IV 316 consid.
+3.1 et 3.2 ; TF 1B_88/2022 du 29 mars 2022 consid. 2.1 ; Chaix,
+in
+:
+CR CPP, op. cit., n. 6 ad art. 221 CPP). En d’autres termes, les soupçons doivent se renforcer
+plus l’instruction avance et plus l’issue du jugement au fond approche. Si des raisons plausibles
+de soupçonner une personne d’avoir commis une infraction suffisent au début de l’enquête,
+ces motifs objectifs doivent passer de plausibles à vraisemblables (TF 1B_7/2020 du 24 janvier 2020
+consid. 3.1 ; TF 1B_219/2019 du 4 juin 2019 consid. 2.1). A l’instar du juge du séquestre,
+le juge de la détention n’est toutefois pas tenu, à ce stade de la procédure, de
+résoudre des questions juridiques complexes (ATF 141 IV 360 consid. 3.2 ; TF 1B_211/2017
+du 27 juin 2017 consid. 2.1). Les autorités de recours appelées à se prononcer sur la
+légalité d’une décision de maintien en détention provisoire ou pour des motifs
+de sûreté ne doivent pas procéder à une pesée complète des éléments
+à charge et à décharge, ni apprécier la crédibilité des personnes qui mettent
+en cause le prévenu. Bien plutôt, elles doivent uniquement examiner s’il existe des indices
+sérieux de culpabilité justifiant une telle mesure (ATF 137 IV 122 consid. 3.2 ;
+ATF 124 I 208 consid. 3 ; TF 1B_308/2018 du 17 juillet 2018 consid. 2.1 ; Forster,
+in
+:
+Niggli/Heer/Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozessordnung, 2
+e
+éd.,
+Bâle 2014, n. 3 ad art. 221 CPP).
+3.3
+En l’espèce, il ressort du rapport
+d’intervention de la police du 5 janvier 2023 (P. 4) que la veille, vers 23h55, les services
+de police ont été sollicités par L.________, qui indiquait qu’une bagarre était
+en cours sur le parking [...] entre un homme et une femme, à proximité d’une voiture
+de marque BMW ; alors qu’une patrouille de police se rendait sur place, elle a croisé
+ce véhicule, qui circulait à vive allure, le conducteur ayant de surcroît manqué
+de peu de percuter frontalement la voiture de police ; celui-ci a ensuite effectué une manœuvre
+sur la droite, heurté avec les roues du véhicule une bordure bétonnée, quitté
+la chaussée puis, après avoir roulé en perdition sur une cinquantaine de mètres,
+a traversé la voie de circulation opposée pour finalement terminer sa course en percutant un
+lampadaire ; la passagère, N.________, a rapidement été interrogée par les premiers
+intervenants ; spontanément, elle a déclaré qu’elle venait de se disputer avec
+son ami P.________ sur le parking [...], qu’elle l’avait mis devant le fait accompli d’une
+possible rupture, que dans ce contexte, ils quittèrent le parking à bord du véhicule,
+que peu avant l’accident, le prénommé avait soudainement accéléré et qu’il
+l’avait informée qu’ils allaient tous les deux mourir. Lors de sa première audition
+par la police (P. 4, p. 4), N.________ a indiqué que, depuis le mois d’avril 2022 –
+le couple avait entamé une relation au mois de février 2020 –, elle avait fait l’objet
+de plusieurs épisodes de violence de la part de P.________, lors desquels celui-ci lui avait déjà
+déclaré «
+tu
+vas mourir, tu vas pas me laisser
+».
+Après avoir évoqué ces épisodes de violence, elle a déclaré qu’elle
+ne voulait plus poursuivre cette audition, afin de ne pas créer d’ennuis à son compagnon.
+Elle a précisé que les propos qu’elle avait tenus spontanément après l’accident,
+selon lesquels P.________ voulait les tuer tous les deux, avaient probablement été tenus sous
+le coup de la colère de ce dernier et de son état physique. Lors de son audition formelle par
+la police quelques heures plus tard, N.________ n’a eu de cesse de minimiser les évènements,
+tout en indiquant n’avoir pas d’autres souvenirs de la soirée que le moment précis
+de l’accident, déclarant tout de même que le prévenu conduisait comme un fou, qu’elle
+avait crié car elle ne voulait pas qu’ils se tuent car elle avait un enfant en bas âge
+(P. 2, R. 12), mais précisant qu’elle «
+ne
+voulait plus rien dire contre lui
+»
+(P. 2, R. 13).
+Les tentatives de N.________ de minimiser les faits et ses soudaines pertes de mémoire, quelques
+heures seulement après les événements, n’apparaissent à ce stade pas crédibles,
+dès lors qu’elle souhaite manifestement protéger son compagnon, ce qu’elle a du
+reste affirmé à plusieurs reprises. En outre, ses premières déclarations coïncident
+tant avec le rapport de police, selon lequel un accident frontal avec la patrouille de police a été
+évité de justesse, qu’avec les déclarations de L.________. En effet, lors de son
+audition par la police en qualité de témoin, le prénommé, dont rien ne permet de
+mettre en doute la fiabilité de ses propos, a expliqué qu’il avait entendu une femme
+crier extrêmement fort, au point qu’il avait eu l’impression que la vie de cette dernière
+était en danger ; alors qu’il s’était rendu sur les lieux pour voir ce qu’il
+se passait, il avait vu que l’homme était extrêmement stressé et furieux et il avait
+entendu la femme lui demander à plusieurs reprises d’appeler la police (P. 10). En l’état,
+l’ensemble de ces éléments rendent peu crédibles les dénégations du recourant,
+qui a quand même admis avoir déjà dit à N.________ «
+tu
+vas pas me laisser
+» (PV aud. 1, R.
+15, p. 5), et ne font au contraire que renforcer les soupçons dirigés contre lui. Enfin, le
+fait que le recourant ait tenté de s’étrangler en cellule va dans le sens d’une
+concrétisation de la menace d’acte hétéro et auto-agressif qu’il aurait proférée
+dans le véhicule.
+Par conséquent, il existe, à ce stade de la procédure, l’enquête n’en
+étant qu’à ses débuts, des indices suffisamment sérieux que P.________ ait
+commis les faits qui lui sont reprochés, justifiant sa mise en détention provisoire.
+4.
+4.1
+Le recourant, relevant que son casier judiciaire
+est vierge de toute inscription, conteste l’existence d’un risque de réitération.
+4.2
+L’art. 221 al. 1 let. c CPP pose trois conditions
+pour admettre un risque de récidive. En premier lieu, le prévenu doit en principe déjà
+avoir commis des infractions du même genre et il doit s’agir de crimes ou de délits graves.
+Deuxièmement, la sécurité d’autrui doit être sérieusement compromise.
+Troisièmement, une réitération doit, sur la base d’un pronostic, être sérieusement
+à craindre (ATF 146 IV 326 consid. 3.1 ; ATF 143 IV 9 consid. 2.5 ; TF 1B_176/2022 du
+21 avril 2022 consid. 3.1).
+La gravité de l’infraction dépend, outre de la peine menace prévue par la loi, de
+la nature du bien juridique menacé et du contexte, notamment la dangerosité présentée
+concrètement par le prévenu, respectivement son potentiel de violence. La mise en danger sérieuse
+de la sécurité d’autrui par des crimes ou des délits graves peut en principe concerner
+tous types de biens juridiquement protégés, même si ce sont en premier lieu les délits
+contre l’intégrité corporelle et sexuelle qui sont visés (ATF 146 IV 326 précité
+; ATF 143 IV 9 précité consid. 2.6 et 2.7 ; TF 1B_176/2022 précité).
+Pour établir le pronostic de récidive, les critères déterminants sont la fréquence
+et l’intensité des infractions poursuivies. Cette évaluation doit prendre en compte une
+éventuelle tendance à l’aggravation telle qu’une intensification de l’activité
+délictuelle, une escalade de la violence ou une augmentation de la fréquence des agissements.
+Les caractéristiques personnelles du prévenu doivent en outre être évaluées
+(ATF 146 IV 326 précité ; TF 1B_176/2022 précité ; TF 1B_150/2021
+du 16 avril 2021 consid. 4.1). Lorsqu’on dispose d’une expertise psychiatrique ou d’un
+pré-rapport, il y a lieu d’en tenir compte (ATF 143 IV 9 précité consid. 2.8).
+En général, la mise en danger de la sécurité d’autrui est d’autant plus
+grande que les actes redoutés sont graves. En revanche, le rapport entre gravité et danger
+de récidive est inversement proportionnel. Cela signifie que plus l’infraction et la mise
+en danger sont graves, moins les exigences seront élevées quant au risque de réitération.
+Lorsque la gravité des faits et leurs incidences sur la sécurité sont particulièrement
+élevées, on peut ainsi admettre un risque de réitération à un niveau inférieur.
+Il demeure qu’en principe le risque de récidive ne doit être admis qu’avec retenue
+comme motif de détention. Dès lors, un pronostic défavorable est nécessaire (et en
+principe également suffisant) pour admettre l’existence d’un tel risque (ATF 146
+IV 326 précité ; ATF 146 IV 136 consid. 2.2 ; ATF 143 IV 9 précité consid. 2.9 ;
+TF 1B_88/2022 du 29 mars 2022 consid. 3.1).
+4.3
+En l’espèce, on relèvera d’abord
+que, si le recourant n’a pas d’antécédent, il est toutefois soupçonné,
+avec une grande probabilité, d’avoir provoqué sciemment un accident de voiture, alors
+qu’il avait son amie comme passagère, mère d’un enfant en bas âge. En outre,
+comme l’a retenu le premier juge, lors de ses premières déclarations, N.________ a affirmé
+que le prévenu lui avait dit à plusieurs reprises, avant les événements du 4 janvier
+2023, qu’elle mourrait si elle le quittait (P. 4, p. 4). Après son arrestation, le recourant
+a dû être emmené d’urgence à l’hôpital, dès lors qu’il
+avait tenté de se suicider par pendaison. A cet égard, il a déclaré qu’il avait
+pris les dernières paroles de N.________ comme un adieu et que son geste était lié au
+«
+désespoir
+noir
+» dans lequel il se trouvait (PV aud.
+d’arrestation, l. 88 ss), précisant que N.________ et lui étaient très fusionnels
+et qu’ils ne pouvaient pas vivre l’un sans l’autre (PV aud. d’arrestation,
+l. 58-59). Ensuite de cette tentative de suicide, un placement à des fins d’assistance a dû
+être ordonné par un médecin en raison d’idées suicidaires actives avec un risque
+auto-agressif élevé. Au vu de ces éléments, il est hautement à craindre que
+le recourant réitère ses agissements délictueux en cas de libération et, notamment,
+qu’il tente à nouveau de se suicider et d’emmener son amie dans la mort, si une nouvelle
+dispute devait avoir lieu et qu’une rupture du couple était derechef évoquée. Les
+actes reprochés à P.________, soit notamment une tentative de meurtre, sont suffisamment graves
+pour qu’on puisse redouter qu’il les réitère. Enfin, seuls les résultats de
+l’expertise psychiatrique que le Ministère public entend ordonner permettront d’évaluer
+si le recourant souffre d’un trouble mental et si les faits qui lui sont reprochés sont en
+lien avec celui-ci.
+Au vu de ce qui précède, le risque de réitération d’actes de même nature
+présenté par le recourant est suffisamment important et concret pour justifier son maintien
+en détention provisoire.
+5.
+5.1
+Le recourant invoque une violation du principe
+de la proportionnalité. Il soutient qu’il faut tenir compte qu’il risque de perdre son
+emploi, avec pour conséquence la péjoration de sa situation familiale, économique, sociale
+et réputationnelle.
+5.2
+L’art. 212 al. 3 CPP prévoit que la
+détention provisoire ne doit pas durer plus longtemps que la peine privative de liberté prévisible.
+La proportionnalité de la détention provisoire doit être examinée au regard de l’ensemble
+des circonstances concrètes du cas d’espèce (ATF 139 IV 270 consid. 3.1 ; ATF 133
+I 168 consid. 4.1 et la jurisprudence citée). A cet égard, il est admis que le juge peut maintenir
+la détention provisoire aussi longtemps qu’elle n’est pas très proche de la durée
+de la peine privative de liberté à laquelle il faut s’attendre concrètement en cas
+de condamnation (ATF 143 IV 168 consid. 5.1 ; ATF 139 IV 270 consid. 3.1). Le fait que la peine
+encourue puisse être assortie du sursis, total ou partiel, n’est pas déterminant sous
+l’angle de la proportionnalité (ATF 133 I 270 consid. 3.4.2).
+5.3
+En l’espèce, le recourant est détenu
+depuis le 5 janvier 2023, soit depuis un peu moins de trois semaines. Compte tenu des faits qui lui sont
+reprochés, il s’expose à une peine privative de liberté d’une durée manifestement
+supérieure à celle de la détention subie à ce jour. Le fait que le recourant puisse
+perdre son emploi n’est pas un élément déterminant, puisque la sécurité
+publique, et singulièrement celle de N.________, prime incontestablement l’intérêt
+privé du recourant à recouvrer la liberté. Le principe de la proportionnalité est
+donc respecté.
+6.
+6.1
+Le recourant invoque une violation des art. 3
+CEDH, 10 al. 3 Cst. et 3 al. 1 CPP, au motif qu’il ne bénéficierait pas, en détention,
+des soins médicaux nécessaires. Selon lui, une hospitalisation ou même une prise en charge
+ambulatoire adéquate seraient préférables à la détention provisoire. Quoi qu’il
+en soit, celle-ci ne serait pas nécessaire, puisqu’il fait déjà l’objet d’un
+placement à des fins d’assistance. Le recourant soutient en outre que des mesures de substitution,
+soit un suivi psychothérapeutique régulier, une assignation à résidence avec le port
+d’un bracelet électronique, ainsi que l’interdiction d’approcher ou d’entrer
+en contact de quelque manière que ce soit avec N.________, supprimeraient le risque retenu.
+6.2
+6.2.1
+Aux termes de l’art. 56 CP, une mesure doit
+être ordonnée si une peine seule ne peut écarter le danger que l’auteur commette
+d’autres infractions, si l’auteur a besoin d’un traitement ou que la sécurité
+publique l’exige, et si les conditions prévues aux art. 59 à 61, 63 ou 64 sont remplies
+(al. 1). Le prononcé d’une mesure suppose que l’atteinte aux droits de la personnalité
+qui en résulte pour l’auteur ne soit pas disproportionnée au regard de la vraisemblance
+qu’il commette de nouvelles infractions et de leur gravité (al. 2). L’art. 56a CP rappelle
+que si plusieurs mesures s’avèrent appropriées, mais qu’une seule est nécessaire,
+le juge ordonne celle qui porte à l’auteur les atteintes les moins graves. Si plusieurs mesures
+s’avèrent nécessaires, le juge peut les ordonner conjointement.
+Pour ordonner l’une de ces mesures, le juge se fonde sur une expertise qui doit se déterminer
+sur la nécessité et les chances de succès d’un traitement, sur la vraisemblance
+que l’auteur commette d’autres infractions et sur la nature de celles-ci ainsi que sur les
+possibilités de faire exécuter la mesure (art. 56 al. 3 CP). Dans ce cadre, l’expert
+devra se prononcer, en particulier, sur la forme du traitement et la mesure qui lui semble la plus appropriée
+(ATF 146 IV 1 consid. 3.1 ; TF 6B_1080/2021 du 8 décembre 2021 consid. 3.1 ; TF 6B_776/2021
+du 8 novembre 2021 consid. 1.1 ; TF 6B_113/2021 du 8 juillet 2021 consid. 5.1).
+Selon la jurisprudence du Tribunal fédéral, le choix d’une mesure au sens des art. 59
+ss CP relève en principe du juge du fond ; une mesure de substitution ayant les caractéristiques
+d’une mesure au sens des art. 59 ss CP ne peut ainsi être ordonnée par le juge de la
+détention sans que toutes les conditions en soient a priori assurées (TF 1B_91/2021 du 10 mars
+2021 consid. 2.3 ; TF 1B_171/2019 du 8 mars 2019 consid. 3.1 et les arrêts cités).
+6.2.2
+Conformément au principe de la proportionnalité
+(art. 36 al. 3 Cst. ; pour la procédure pénale, cf. art. 197 al. 1 let. c CPP), il convient
+d’examiner les possibilités de mettre en œuvre d’autres solutions moins dommageables
+que la détention (règle de la nécessité), qui représente l’
+ultima
+ratio
+(ATF 140 IV 74 consid. 2.2, JdT 2014
+IV 289). Cette exigence est concrétisée par l’art. 237 al. 1 CPP, qui prévoit que
+le tribunal compétent ordonne une ou plusieurs mesures moins sévères en lieu et place
+de la détention provisoire ou de la détention pour des motifs de sûreté si ces mesures
+permettent d’atteindre le même but que la détention.
+En vertu de l’art. 237 al. 2 CPP, font notamment partie des mesures de substitution la fourniture
+de sûretés (let. a), la saisie des documents d’identité et autres documents officiels
+(let. b), l’assignation à résidence ou l’interdiction de se rendre dans un certain
+lieu ou un certain immeuble (let. c), l’obligation de se présenter régulièrement
+à un service administratif (let. d), l’obligation d’avoir un travail régulier (let.
+e), l’obligation de se soumettre à un traitement médical ou à des contrôles
+(let. f) et l’interdiction d’entretenir des relations avec certaines personnes (let. g).
+Du fait que les mesures de substitution – énumérées de manière non exhaustive
+à l’art. 237 al. 2 CPP (Moreillon/Parein-Reymond, Petit commentaire, Code de procédure
+pénale, 2
+e
+éd.,
+Bâle 2016, n. 12 ad art. 237 CPP) – sont un succédané à la détention provisoire,
+le tribunal doit les prononcer à la place de la détention provisoire ou pour des motifs de
+sûreté si elles permettent d’empêcher la concrétisation du risque (ATF 142
+IV 367 consid. 2.1, SJ 2017 I 233 ; ATF 133 I 270 consid. 2.2 ; Coquoz,
+in
+:
+Jeanneret/Kuhn/Perrier Depeursinge [éd.], op. cit., n. 2 ad art. 237 CPP). L’art. 237 al.
+3 CPP précise que, pour surveiller l’exécution de ces mesures, le tribunal peut ordonner
+l’utilisation d’appareils techniques qui peuvent être fixés à la personne
+sous surveillance.
+6.3
+En l’espèce, on relèvera d’abord
+que le recourant ne remplit pas les conditions pour qu’une mesure de substitution ayant les caractéristiques
+d’une mesure au sens des art. 59 ss CP, soit un traitement ambulatoire (art. 63 CP), voire un placement
+au sein d’une institution (59 CP), soit ordonnée. Il n’existe aucune expertise psychiatrique
+qui pose un diagnostic sur l’éventuelle pathologie dont souffrirait le recourant.
+A
+fortiori
+n’y a-t-il pas d’expertise
+psychiatrique qui se prononce sur le lien entre cette pathologie et les actes dont il est accusé,
+ni sur le fait qu’une mesure – par exemple sous la forme d’un traitement médical
+– pourrait le détourner de commettre de tels actes dans le futur. Pour les mêmes motifs,
+il n’est pas établi que les éventuels troubles dont souffre le recourant ne pourraient
+pas être pris en charge en détention par le Service de médecine et psychiatrie pénitentiaires.
+Quant au placement à des fins d’assistance, il ne s’agit pas d’une des mesures
+envisagées à l’art. 237 CPP. On soulignera qu’un tel placement a pour but d’apporter
+à la personne concernée l’assistance dont elle a besoin (art. 426 al. 1 CC ; COPMA,
+Droit de la protection de l’adulte, Guide pratique, 2012, n. 10.5, p. 244). Il n’a pas pour
+motif la mise en danger d’autrui, même si la protection des tiers doit néanmoins être
+prise en compte dans l’appréciation de la situation (ATF 145 III 441 consid. 8.4, JdT 2019
+II 371 ; ATF 138 III 593 consid. 3). Son but est donc différent de celui des mesures de substitution
+de l’art. 237 CPP, qui est de permettre d’atteindre le même but que la détention
+(cf. art. 237 al. 1 CPP), soit en l’occurrence parer le risque de récidive et, en particulier,
+protéger N.________. Par ailleurs, le placement a été ordonné par un médecin,
+lequel est habilité à l’ordonner pour une durée maximale de six semaines (art. 9
+LVPAE [Loi du 29 mai 2012 d’application du droit fédéral de la protection de l’adulte
+et de l’enfant ; BLV 211.255]). C’est dire qu’à la fin de cette durée,
+il n’y a aucune garantie que ce placement soit prolongé. Enfin, les autres mesures de substitution
+proposées ne sont pas propres à pallier le risque retenu. En effet, les seules interdictions
+d’approcher et de contacter N.________, ne reposeraient que sur le bon vouloir du prévenu
+de s’y conformer ; or il est très douteux qu’il soit capable de s’y tenir
+au vu de ses déclarations selon lesquelles il ne peut pas vivre sans elle ; ces interdictions
+ne présenteraient donc aucune garantie. En outre, une assignation à résidence assortie
+de la pose d’un bracelet électronique ne permettrait pas de prévenir une éventuelle
+réitération, mais uniquement de la constater
+a
+posteriori
+. Or, au vu du bien juridique en cause
+– soit la vie ou l’intégrité corporelle –, un tel risque ne peut être
+pris.
+7.
+En définitive, le recours, manifestement
+mal fondé, doit être rejeté sans échange d’écritures (art. 390 al. 2 CPP)
+et l’ordonnance attaquée confirmée.
+Les frais de la procédure de recours sont fixés à 1'540 fr. (art. 20 al. 1 TFIP [Tarif
+des frais de procédure et indemnités en matière pénale du 28 septembre 2010 ;
+BLV 312.03.1]). Au vu du travail accompli par Me Patrick Moser, défenseur d’office du
+recourant, il sera retenu une durée de trois heures d’activité nécessaire d’avocat
+au tarif horaire de 180 fr. (art. 2 al. 1 let. a et 3 al. 2 RAJ [Règlement sur l’assistance
+judiciaire en matière civile du 7 décembre 2010 ; BLV 211.02.3] par renvoi de l’art. 26b
+TFIP), soit 540 francs. S’y ajoutent 2 % pour les débours (art. 3
+bis
+al.
+1 RAJ par renvoi de l’art. 26b TFIP), soit 10 fr. 80, et 7,7 % de TVA sur le tout,
+de sorte que l’indemnité d’office s’élève au total à 594 fr.
+en chiffres arrondis.
+Les frais judiciaires et les frais imputables à la défense d’office seront mis à
+la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+ne sera exigible du recourant que pour autant que sa situation financière le permette (art. 135
+al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 8 janvier 2023 est confirmée.
+III.
+L’indemnité allouée à Me
+Patrick Moser, défenseur d’office de P.________, est fixée à 594 fr. (cinq
+cent nonante-quatre francs).
+IV.
+Les frais d’arrêt, par 1'540 fr. (mille cinq cent quarante francs), ainsi que l’indemnité
+allouée à Me Patrick Moser, par 594 fr. (cinq cent nonante-quatre francs), sont mis à
+la charge de P.________.
+V.
+Le remboursement à l’Etat de l’indemnité allouée sous chiffre III ci-dessus
+ne sera exigible de P.________ que pour autant que sa situation financière le permette.
+VI.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l’envoi d’une copie complète, à :
+-
+Me Patrick Moser (pour P.________),
+-
+Ministère public central ;
+et communiqué à :
+‑
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+Mme la Procureure de l’arrondissement du Nord vaudois,
+-
+Office d’exécution des peines,
+-
+Service de la population,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l’objet d’un recours en matière pénale devant
+le Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l’expédition complète (art. 100 al.
+1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu’il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
