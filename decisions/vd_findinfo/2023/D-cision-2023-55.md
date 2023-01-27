@@ -1,0 +1,493 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___55"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 55"
+decided: "2023-01-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9193346"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/311.0/art-092.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/818.101/art-019.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2023 / 55
+
+## Regeste
+
+PEINE PRIVATIVE DE LIBERTÉ, DÉCISION D'EXÉCUTION, NOUVEL EXAMEN, REPORT{DÉPLACEMENT} | 92 CP, 38 LEP, 18 LPA-VD, 64 LPA-VD, 382 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 27.01.2023 Décision / 2023 / 55
+
+PEINE PRIVATIVE DE LIBERTÉ, DÉCISION D'EXÉCUTION, NOUVEL EXAMEN, REPORT{DÉPLACEMENT} | 92 CP, 38 LEP, 18 LPA-VD, 64 LPA-VD, 382 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+66
+AP23.001396
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+27 janvier 2023
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Krieger et Perrot, juges
+Greffier
+:              M.
+Glauser
+*****
+Art.
+92 CP ; 382 al. 1 CPP ; 38 al. 1 LEP ; 18 et 64 LPA-VD
+Statuant sur le recours interjeté le 23 janvier 2023 par
+K.________
+contre la décision rendue le 20 janvier 2023 par l’Office d’exécution des peines
+dans la cause
+n° AP23.001396
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par jugement du 11 septembre 2018, le Tribunal
+correctionnel de l’arrondissement de Lausanne a notamment constaté que K.________ s’était
+rendu coupable de vol, d’escroquerie par métier, de faux dans les titres et de violation d’une
+obligation d’entretien et l’a condamné à une peine privative de liberté de
+3 ans et 4 mois, sous déduction de 396 jours de détention avant jugement. Ce jugement a été
+confirmé par jugement de la Cour d’appel pénale du 15 avril 2019.
+b)
+Les
+13 janvier, 24 février, 3 et 16 avril, 7 juillet et, en dernier lieu, le 16 octobre 2020, l’Office
+d’exécution des peines (ci-après : OEP) a convoqué K.________ aux Etablissements
+de la Plaine de l’Orbe afin qu’il y exécute la condamnation précitée, ainsi
+que les peines privatives de liberté résultant de conversion d’amendes impayées.
+Le 18 janvier 2021, K.________, par son conseil de choix, a demandé à l’OEP d’annuler
+l’ordre d’exécution de peine du 16 octobre 2020, invoquant un état de santé
+préoccupant ne lui permettant pas d’exécuter une peine privative de liberté.
+Il a produit une attestation médicale datée du 20 novembre 2020 émanant du Dr [...], dont
+il résultait qu’au vu de son état de santé, K.________ aurait besoin de plusieurs
+consultations et contrôles médicaux pour au moins 18 mois, la durée dépendant de
+l’évolution de la situation. L’exécution d’une peine privative de liberté
+pouvait, selon ce médecin, interférer de manière significative et négative avec l’évaluation
+et la prise en charge médicale de la pathologie de l’intéressé, raison pour laquelle
+dite exécution devrait être repoussée jusqu’à la fin de sa prise en charge,
+soit jusqu’à ce qu’une intervention chirurgicale ait pu être réalisée
+si l’indication opératoire était confirmée, puis dans les trois mois suivants dite
+intervention.
+Il a également produit un certificat médical daté du 6 janvier 2021 émanant du Dr
+[...], médecin généraliste, dont il résultait que l’état de santé
+(diabète, et fragilité psychique notamment) de K.________ et la prise en charge de ses parents
+âgés ne lui permettaient pas d’être incarcéré.
+c)
+Le
+20 janvier 2021, l’OEP a maintenu son ordre d’exécution de peine et a transmis le dossier
+au médecin conseil du Service pénitentiaire afin qu’il le renseigne sur la compatibilité
+de l’état de santé de K.________ avec l’exécution d’une peine privative
+de liberté.
+Par avis du 28 janvier 2021, la Dre [...], médecin conseil, a informé l’OEP que K.________
+était inapte à subir une peine privative de liberté en raison de son état de santé,
+compte tenu notamment d’une possible intervention chirurgicale à venir.
+L’OEP a annulé son ordre d’exécution de peine le 5 février 2021.
+d)
+Le
+26 novembre 2021, K.________, par son conseil de choix, a adressé à l’OEP deux nouveaux
+certificats médicaux. Le premier, daté du 14 octobre 2021, relatait que son état de santé
+était toujours en cours d’évaluation en vue d’une éventuelle intervention
+chirurgicale, qui pourrait avoir lieu au début de l’automne 2022, de sorte qu’il pourrait
+exécuter une peine privative de liberté à partir du début de l’année 2023.
+Le second, daté du 17 novembre 2021, exposait que l’état de santé de K.________
+ne lui permettait pas d’être incarcéré durant une période de 12 mois au moins.
+Par avis du 23 décembre 2021, la Dre [...] a informé l’OEP que K.________ souffrait de
+pathologies très sérieuses nécessitant un suivi médical régulier et parmi lesquelles
+l’une aboutirait peut-être à une intervention chirurgicale à l’automne 2022.
+Ce médecin a considéré que K.________ était apte à subir une incarcération,
+celui-ci étant suivi ambulatoirement et, sous réserve qu’il soit pris en charge par le
+Service médical et psychiatrique pénitentiaire (ci-après : SMPP) et qu’il poursuive
+ses investigations médicochirurgicales au CHUV.
+Le 23 mars 2022, l’Office d’exécution des peines a convoqué K.________ à l’établissement
+de détention fribourgeois de Sugiez le 1
+er
+septembre 2022 afin qu’il y exécute la condamnation du 11 septembre 2018.
+e)
+Le
+24 mars 2022, K.________ a transmis à l’OEP un certificat médical émanant du Dr
+[...], dont il résultait en substance que son état de santé psychique et physique ne lui
+permettait pas de subir une incarcération en raison de diverses pathologies, notamment un risque
+de dépression, ainsi qu’un risque de décompensation cardiaque (infarctus ou insuffisance
+cardiorespiratoire) nécessitant un accès rapide aux soins.
+K.________ a également transmis un rapport médical daté du
+27
+juin 2022 émanant du Dr [...], spécialiste en cardiologie, concluant qu’il était
+fondamental que l’intéressé puisse bénéficier d’une rééducation
+cardiaque ambulatoire, celui-ci ayant bénéficié d’une coronarographie mettant en
+évidence des lésions coronariennes diffuses non-significatives. Un traitement agressif des
+FRCV (facteurs de risque cardio-vasculaire) était préconisé, ainsi qu’une rééducation
+cardiaque « pour changer de style de vie et pratiquer des exercices réguliers ».
+K.________ a encore produit divers documents médicaux antérieurs, émanant du même
+médecin et se recoupant dans le rapport précité, ainsi qu’une attestation de traitement
+de réadaptation cardiovasculaire, entre le 21 août 2022 et le 21 novembre 2022, à raison
+de 3 demi-journées par semaines, auprès de l’Hôpital Riviera-Chablais.
+Le 23 août 2022, K.________, par son conseil de choix, a à nouveau transmis les documents précités
+à l’OEP, ainsi qu’un certificat médical daté du
+22
+août 2022 émanant du Dr [...], reprenant le contenu du précédant.
+Par avis du 25 août 2022, la Dre [...] a informé l’OEP que K.________ devrait pouvoir
+bénéficier d’un programme de réadaptation cardiovasculaire et qu’une fois
+cette mesure thérapeutique réalisée, elle estimait qu’il serait apte à subir
+une peine privative de liberté, à partir de l’automne 2022, sous réserve d’une
+prise en charge par le SMPP.
+Le 29 août 2022, l’OEP a annulé son ordre d’exécution de peine émis le
+23 mars 2022.
+B.
+Le 7 septembre 2022, l’Office d’exécution des peines a convoqué K.________ à
+l’établissement de détention fribourgeois de Sugiez le 24 janvier 2023 avant 10h00 afin
+qu’il y exécute la condamnation du 11 septembre 2018.
+Le 14 décembre 2022, cet ordre d’exécution de peine a été renouvelé avec
+la précision qu’une nouvelle peine, de 60 jours-amende à 30 fr. convertible en 60 jours
+de peine privative de liberté de substitution prononcée le 18 décembre 2020 par le Ministère
+public de l’arrondissement de Lausanne devait être exécutée conjointement à
+la condamnation du 11 septembre 2018.
+Le 17 janvier 2023, K.________, par son conseil de choix, a fait valoir que son état de santé
+ne lui permettait pas d’exécuter une peine privative de liberté. Il a produit un certificat
+médical émanant du Dr [...] daté du 17 janvier 2023, dont il ressortait qu’il n’était
+pas en état d’être incarcéré, pour une durée indéterminée, en
+raison de souffrances rhumatologiques, un essai d’infiltration cervicale s’étant révélé
+inefficace et ayant retardé une rééducation cardiaque.
+Il a également produit un certificat émanant du Dr [...] daté du 13 janvier 2023, dont
+il résultait que la péjoration de son état de santé ne lui permettait pas d’effectuer
+une condamnation.
+Par avis du 20 janvier 2023, la Dre [...] a informé l’OEP que K.________ était médicalement
+apte à subir une peine privative de liberté, sous réserve d’une prise en charge
+par le SMPP et de la poursuite de ses traitements rhumatologiques, notamment en évitant tout port
+de charge, ou gestes répétitifs des membres supérieurs, par exemple dans une activité
+occupationnelle.
+Par décision du 20 janvier 2023, l’OEP a maintenu son ordre d’exécution de peine
+du 14 décembre 2023 et a sommé K.________ de se présenter le 24 janvier 2023 à l’établissement
+de détention de Sugiez.
+K.________ n’a pas donné suite à cette convocation.
+C.
+a)
+Par acte du 23 janvier 2023, K.________ agissant
+seul, a recouru contre la décision de maintien de l’ordre d’exécution de peine
+du 20 janvier 2023 en concluant à ce que soit constatée son inaptitude médicale à
+effectuer une peine privative de liberté (1), que les ordres d’exécution de peine des
+14 décembre 2022 et 20 janvier 2023 soient annulés (2), que l’effet suspensif soit accordé
+à son recours (3), qu’une expertise médicale soit ordonnée en vue de trancher les
+positions divergentes entre ses médecins traitant et le médecin conseil du Service pénitentiaire
+(4), que son inaptitude à exécuter une peine privative de liberté soit constatée
+sur cette base (5) et que les frais soient mis à la charge de l’Etat (6).
+Il a joint à son envoi plusieurs des documents médicaux précités, ainsi qu’un
+nouveau certificat médical émanant du Dr [...], daté du
+23
+janvier 2023, faisant état d’un risque non négligeable d’infarctus du myocarde,
+sous l’effet de stress, nécessitant une prise en charge rapide. Ce médecin évoque
+sa crainte qu’une intervention suffisamment rapide ne puisse pas avoir lieu en détention.
+b)
+Le
+24 janvier 2023, la Présidente de la Chambre des recours pénale a rejeté la requête
+d’effet suspensif dans la mesure où elle était recevable.
+Le 25 janvier 2023, le conseil de choix de K.________ a requis la reconsidération de la décision
+sur effet suspensif précitée et a demandé que son client soit mis au bénéfice
+de l’assistance judiciaire.
+Le 26 janvier 2023, l’OEP, interpellé, a déclaré qu’il n’était
+pas disposé à reporter l’exécution de la peine de K.________ et, se référant
+à l’avis du médecin conseil du Service pénitentiaire, a implicitement conclu au
+rejet du recours.
+Le 27 janvier 2023, le conseil de choix de K.________ a déposé des déterminations et a
+requis la mise en œuvre d’une expertise médicale.
+En droit
+:
+1.
+1.1
+Aux termes de l'art. 38 al. 1 LEP (loi vaudoise
+du 4 juillet 2006 sur l’exécution des condamnations pénales ; BLV 340.01), les décisions
+rendues par l’Office d’exécution des peines – lequel est notamment compétent
+pour autoriser le report de l'exécution de la peine (art. 19 al. 1 let. k LEP) – peuvent faire
+l'objet d'un recours auprès du Tribunal cantonal.
+Selon l'art. 38 al. 2 LEP, la procédure est régie par les dispositions du CPP relatives au
+recours. Le recours doit ainsi être adressé par écrit, dans un délai de dix jours
+dès la notification de la décision attaquée (art. 384 let. b CPP [Code de procédure
+pénale suisse du 5 octobre 2007 ; RS 312.0]), à l’autorité de recours (art. 396
+al. 1 CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art.
+13 LVCPP [loi vaudoise d’introduction du Code de procédure pénale suisse du 19 mai 2009
+; BLV 312.01] ; art. 80 LOJV [loi vaudoise d’organisation judiciaire du 12 décembre 1979 ;
+BLV 173.01]).
+1.2
+Aux termes de l’art. 382 al. 1 CPP, seule
+la partie qui a un intérêt juridiquement protégé à l’annulation ou à
+la modification d’une décision a qualité pour recourir contre celle-ci. Le recourant
+doit avoir un intérêt actuel et pratique au recours respectivement à l'examen des grief
+soulevés ; cet intérêt doit exister tant au moment du dépôt du recours
+qu'à celui où l'arrêt est rendu, un intérêt général ou de fait étant
+insuffisant (TF 1B_364/2022 du 21 décembre 2022 consid. 1.1.1 et les références citées).
+La simple perspective d'un intérêt juridique futur ne suffit pas non plus ; l'intérêt
+actuel est déterminé en fonction du but poursuivi par le recours et des conséquences et
+de la portée d'une éventuelle admission de celui-ci ; il fait défaut en particulier
+lorsque la décision attaquée a été exécutée ou est devenue sans objet ou
+encore lorsque l'admission du recours ne permettrait pas la réparation du préjudice subi (TF
+1B_364/2022 précité consid. 1.1.1). Il n'est renoncé exceptionnellement à cette condition
+que si la contestation peut se reproduire en tout temps dans des circonstances identiques ou analogues,
+si sa nature ne permet pas de la soumettre à une autorité judiciaire avant qu'elle ne perde
+son actualité et s'il existe un intérêt public suffisamment important à la solution
+des questions litigieuses en raison de leur portée de principe (ATF 146 II 335 consid. 1.3 ;
+TF 1B_364/2022 précité consid. 1.1.1 ; TF 6B_112/2022 du 10 novembre 2022 consid. 1.1).
+1.3
+Selon l’art. 64 al. 1 LPA-VD (Loi sur la
+procédure administrative du 28 octobre 2008 ; BLV 173.36), une partie peut demander à l'autorité
+de réexaminer sa décision. L’autorité entre en matière sur la demande si l'état
+de fait à la base de la décision s'est modifié dans une mesure notable depuis lors (al.
+2 let. a), ou si le requérant invoque des faits ou des moyens de preuve importants qu'il ne pouvait
+pas connaître lors de la première décision ou dont il ne pouvait pas ou n'avait pas de
+raison de se prévaloir à cette époque (let. b), ou si la première décision a
+été influencée par un crime ou un délit.
+1.4
+Une conclusion en constatation de droit n'est
+recevable que lorsque des conclusions condamnatoires ou formatrices sont exclues (TF 1B_284/2021 du
+28
+juillet 2021 consid. 2.2.5 ; TF 1B_272/2021 du 29 juin 2021 consid. 1 ; TF 1B_188/2021 du 18 mai 2021
+consid. 2.1.4).
+1.5
+En l’espèce, il n’est pas contesté
+que K.________ n’a pas recouru en temps utile contre l’ordre d’exécution de peine
+du 14 décembre 2022. Il y a ainsi d’emblée lieu de constater que le recours est irrecevable
+en tant qu’il est dirigé contre cette décision, dès lors que la conclusion 2 du
+recours tend à son annulation.
+1.6
+Il y a cependant lieu de considérer que le recours – interjeté en temps utile et dans
+les formes prescrites – est recevable en tant qu’il est dirigé contre la décision
+rendue par l’OEP le 20 janvier 2023, maintenant l’ordre d’exécution précité.
+En effet, d’une part, cette décision constitue un refus implicite de réexamen de l’ordre
+d’exécution de peine du 14 décembre 2022 – qui peut être requis en application
+de l’art. 64 LPA-VD et qui l’a été à tout le moins implicitement dans la correspondance
+du conseil du recourant le 17 janvier 2023 – et qui peut donc faire l’objet d’un recours
+au sens de l’art. 38 LEP. D’autre part, il y a lieu de considérer que le recourant dispose
+encore d’un intérêt actuel et pratique à recourir contre la décision en cause
+quand bien même la date de la convocation est passée, dans la mesure où l’objet
+de la contestation est susceptible de se reproduire en tout temps dans des circonstances identiques ou
+analogues.
+1.7
+Enfin, le recours est irrecevable en tant qu’il
+tend à la constatation de l’inaptitude médicale de K.________ à exécuter une
+peine privative de liberté, des conclusions actives n’étant pas exclues et ayant du reste
+été prises dans le sens de l’annulation du refus de réexaminer l’ordre d’exécution
+de peine du 14 décembre 2022. Au demeurant, le recourant n’expose pas en quoi une telle conclusion
+serait recevable et la décision attaquée ne porte pas sur cette question.
+2.
+Le recourant soutient que l’exécution
+d’une peine privative de liberté constituerait un danger pour sa vie, ce qui serait attesté
+par son dossier médical. Il invoque qu’il souffre de problèmes cardiaques, qu’il
+est censé suivre une réhabilitation du cœur à raison de trois fois par semaine, que
+ce traitement a été retardé en raison d’autres problèmes de santé, qu’il
+doit prendre des médicaments en cas de douleur à la poitrine et que lorsque cela ne fonctionne
+pas, il doit faire appel aux secours en raison d’un risque important d’infarctus. Il requiert
+qu’une expertise médicale soit mise en œuvre afin de trancher entre les positions divergentes
+de ses médecins traitants et le médecin conseil du Service pénitentiaire.
+2.1
+Selon la jurisprudence, l'ajournement de l'exécution
+d'une peine s'assimile dans ses motifs à l'interruption de son exécution prévue par l'art.
+92 CP (Code pénal du 21 décembre 1937; RS 311.0 ; TF 6B_511/2013 du 17 septembre 2013
+consid. 2.1 et les références citées). Selon cette disposition, l'exécution des peines
+et des mesures peut être interrompue pour un motif grave. Même lorsque le droit cantonal ne
+réglemente pas expressément l'ajournement de l'exécution d'une peine privative de liberté,
+le condamné a la possibilité de présenter une demande en ce sens. La décision relève
+de l'appréciation et l'intéressé n'a pas de droit inconditionnel à l'ajournement.
+Parallèlement, l'intérêt public à l'exécution des peines entrées en force
+ainsi que le principe d'égalité de traitement restreignent considérablement le pouvoir
+d'appréciation des autorités appelées à statuer sur une telle demande. Ainsi, la
+seule éventualité qu'une personne condamnée puisse être atteinte dans sa vie ou sa
+santé ne justifie-t-elle pas encore que l'entrée en exécution soit renvoyée
+sine
+die
+. Encore faut-il que de telles atteintes apparaissent
+comme la conséquence très probable de l'entrée en exécution. Et même dans cette
+hypothèse, il y a lieu d'apprécier le poids respectif des intérêts privés et
+publics en considérant, singulièrement, outre les aspects médicaux, le type et la gravité
+des faits pour lesquels l'intéressé a été condamné ainsi que la durée de
+la peine à exécuter (TF 6B_558/2021 du 20 mai 2021 consid. 3.1 ; TF 6B_930/2019 du 24
+septembre 2019 consid. 4.1 et les références citées).
+L'exécution de la peine ne peut être différée pour une durée indéterminée
+que dans des circonstances tout à fait exceptionnelles. Le pouvoir d'appréciation de l'autorité
+d'exécution est limité par l'intérêt de la société à l'exécution
+des peines et par le principe de l'égalité dans la répression (ATF 108 Ia 69 consid. 2c
+; TF 6B_558/2021 précité consid. 3.1 ; TF 6B_511/2013 précité consid. 2.1).
+L'exécution de la peine ne peut en principe être interrompue que si le condamné se trouve,
+pour une période indéterminée, ou à tout le moins pour une certaine durée, incapable
+de subir l'exécution de sa peine pour des motifs très sérieux de santé (ATF 136 IV
+97 consid. 5.1 et les références citées ; TF 6B_558/2021 consid. 3.1). Le motif médical
+invoqué est toujours grave si la poursuite de l'exécution met concrètement en danger la
+vie du condamné. Dans les autres cas, la gravité requise peut être atteinte si la poursuite
+de l'exécution, sans menacer directement la vie du condamné, fait néanmoins courir un
+risque sérieux pour sa santé (ATF 136 IV 97 consid. 5.1). Le report de l'exécution de
+la peine pour une durée indéterminée ne doit être admis qu'avec une grande retenue.
+La simple éventualité d'un danger pour la vie ou la santé ne suffit manifestement pas
+à le justifier. Il faut qu'il apparaisse hautement probable que l'exécution de la peine mettra
+en danger la vie ou la santé de l'intéressé (ATF 108 Ia 69 consid. 2c ;
+TF
+6B_558/2021 précité consid. 3.1 ; TF 6B_511/2011 précité consid. 2.1).
+2.2
+En l’espèce, le recourant ne conteste
+pas qu’il n’a pas recouru contre l’ordre d’exécution de peine du 14 décembre
+2022, aux termes duquel l’OEP l’a sommé de se présenter à l’établissement
+de détention de Sugiez, considérant qu’il était apte à être incarcéré
+en se fondant sur le rapport du médecin conseil du Service pénitentiaire du 25 août 2022.
+Il s’ensuit que, si l’intéressé entendait obtenir le réexamen de cette décision,
+il lui incombait de démontrer que l'état de fait à la base de celle-ci s'était modifié
+dans une mesure notable depuis lors (art. 64 al. 2 let. a LPA-VD), ou de se prévaloir de faits ou
+de moyens de preuve importants qu'il ne pouvait pas connaître lors de la première décision
+ou dont il ne pouvait pas ou n'avait pas de raison de se prévaloir à cette époque (let.
+b). Or, en l’occurrence, ni le recourant, ni son conseil, ne font valoir la violation d’une
+norme, en particulier de l’art. 64 LPA-VD, ni n’exposent en quoi les faits se seraient modifiés
+depuis la reddition de l’ordre d’exécution de peine du 14 décembre 2022, contre
+lequel aucun recours n’a été interjeté. Il apparaît au demeurant que tel n’est
+pas le cas. En effet, la situation médicale de K.________ – plus particulièrement ses
+problèmes cardiaques – était connue de l’OEP à cette époque et elle n’a
+à l’évidence pas évolué. L’intéressé se prévaut des mêmes
+documents médicaux, et en a certes produit d’autres actualisés en janvier 2023, mais
+qui n’apportent rien de nouveau et qui ne font pas non plus état d’une aggravation des
+problèmes de santé déjà connus de l’autorité. D’ailleurs, le 20
+janvier 2023, le médecin conseil du Service pénitentiaire a confirmé que K.________ était
+médicalement apte à subir une peine privative de liberté, pour autant qu’il soit
+pris en charge par le SMPP et poursuive ses traitements rhumatologiques, et évite tout port de charge
+ou gestes répétitifs des membres supérieurs. C’est ainsi à juste titre que,
+dans sa décision du 20 janvier 2023, l’OEP a considéré que les conditions pour un
+réexamen au sens de l’art. 64 LPA-VD n’étaient pas réalisées et, ni le
+recourant, ni son conseil n’exposent dans le cadre de la présente procédure de recours
+que tel serait le cas et en quoi.
+Par surabondance, contrairement à ce qu’il soutient, l’état de santé du recourant
+ne revêt pas le niveau de gravité requis par la jurisprudence stricte précitée pour
+justifier un report d’exécution de la peine au sens de l’art. 92 CP. En effet, si le
+médecin généraliste de K.________ évoque effectivement des problèmes cardiaques
+depuis 2021, dans son dernier certificat médical daté du 23 janvier 2023, ce dernier n’évoque
+plus – comme il l’avait fait dans ses précédents certificats – que l’état
+de santé de son patient est incompatible avec une incarcération, mais se limite à exposer
+un risque lié à la rapidité d’une éventuelle prise en charge si elle devait
+s’avérer nécessaire. Quant au certificat du Dr [...], daté du 13 janvier 2023, il
+se limite quant à lui à évoquer une incompatibilité d’incarcération « par
+rapport à la péjoration de son état de santé » sans autre précision
+ni diagnostic, ce qui est insuffisant. Surtout, il résulte du rapport médical établi le
+27 juin 2022 par le spécialiste en cardiologie consulté par K.________ que la coronarographie
+mettait en évidence des lésions coronariennes diffuses non-significatives. Ce médecin
+considérait alors qu’il était fondamental que le patient puisse bénéficier
+d’un traitement agressif des facteurs de risque cardio-vasculaire et d’une rééducation
+cardiaque ambulatoire « pour changer de style de vie et pratiquer des exercices réguliers ».
+Le cardiologue n’a toutefois pas évoqué une impossibilité liée à une éventuelle
+détention, ni un risque de survenance imminente d’infarctus, ni la nécessité d’une
+opération, éventualité qui avait conduit, en 2020, l’ensemble des praticiens consultés
+par le recourant, tout comme le médecin conseil du Service pénitentiaire, à conclure que
+l’intéressé était inapte à être incarcéré à cette époque.
+Plus concrètement, à l’heure actuelle, s’il est constant que K.________ souffre
+de problèmes cardiaques, il s’avère que ceux-ci sont traités par le biais d’une
+médication, mais qu’aucune mesure urgente n’est envisagée pour le surplus, hormis
+une rééducation cardiaque pour un changement de style de vie. On ne voit ainsi pas que la vie
+de l’intéressé soit davantage en danger en détention qu’à domicile, étant
+par ailleurs précisé que l’établissement de détention de Sugiez bénéficie
+d’un service médical susceptible d’assurer une prise en charge suffisamment rapide en
+cas de besoin.
+Quant à la mesure d’instruction requise par le recourant, elle est inutile puisque les prétendues
+contradictions évoquées par ce dernier n’en sont en réalité pas. En effet,
+d’une part, il n’y a aucune contradiction entre le rapport du cardiologue du recourant et
+l’avis du médecin conseil. D’autre part, comme on vient de le voir, le médecin
+traitant de l’intéressé ne conclut désormais plus à une impossibilité
+d’être incarcéré mais évoque uniquement un risque lié à la rapidité
+de prise en charge, problématique que le médecin conseil du Service pénitentiaire a pris
+en compte. Au demeurant, on ne voit pas quel autre praticien serait mieux à même de se déterminer
+sur la question liée à la rapidité d’intervention des secours en milieu carcéral
+que le médecin conseil du Service pénitentiaire.
+3.
+Au vu de ce qui précède, le recours
+doit être rejeté dans la mesure où il est recevable et la décision du 20 janvier
+2023, maintenant l’ordre d’exécution de peine du 14 décembre 2022, confirmée.
+Il s’ensuit que la demande de reconsidération de la décision sur effet suspensif du 24
+janvier 2023, déposée le 25 janvier 2023, est sans objet.
+Il ressort du dossier que la situation financière du condamné est obérée. Par ailleurs,
+on ne saurait considérer que le recours était dénué de chance de succès et il
+convient de relever que l’assistance d’un mandataire professionnel était nécessaire,
+compte tenu de la relative complexité des questions à examiner. L’assistance judiciaire
+doit dès lors être octroyée au recourant et l’avocat Yves Cottagnoud lui sera désigné
+en qualité de conseil d’office pour la procédure de recours (cf. art. 18 al. 4 LPA-VD).
+Au vu de l’activité
+déployée par l’avocat ainsi que de la nature de l’affaire, cette indemnité
+sera fixée à 360 fr., correspondant à 2 heures d’activité nécessaire d’avocat
+au tarif horaire de 180 fr., montant auquel il convient d’ajouter des débours forfaitaires
+à concurrence de 2 % des honoraires admis (art. 3bis al. 1 RAJ [Règlement du 7 décembre
+2010 sur l'assistance judiciaire en matière civile ; BLV 211.02.3], applicable par renvoi de l’art.
+26b TFIP [Tarif des frais de procédure et indemnités en matière pénale du 28 septembre
+2010 ; BLV 312.03.1]), par 7 fr. 20, plus la TVA au taux de 7,7 %, par 28 fr. 30, soit à 396 fr.
+au total en chiffres arrondis.
+Vu l’issue de la
+cause, les frais de la procédure, constitués de l’émolument d’arrêt,
+par 1’430 fr. (art. 20 al. 1 TFIP), et des frais imputables à la défense d’office,
+seront provisoirement laissés à la charge de l’Etat.
+Le recourant sera tenu
+au remboursement des frais, comprenant l’indemnité due à son avocat d’office, laissés
+provisoirement à la charge de l’Etat, dès qu’il sera en mesure de le faire (cf.
+art. 123 CPC [Code de procédure civile du
+19
+décembre 2008 ; RS 272], par renvoi de l’art. 18 al. 5 LPA-VD).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+La décision du 20 janvier 2023 est confirmée.
+III.
+La demande de reconsidération de la décision sur effet suspensif du
+24
+janvier 2023 est sans objet.
+IV.
+L’assistance judiciaire est accordée
+à K.________ pour la procédure de recours, Me Yves Cottagnoud étant désigné
+en qualité d’avocat d’office et une indemnité de 396 fr. (trois cent nonante-six
+francs) lui étant allouée à ce titre.
+V.
+Les frais de la présente procédure, comprenant les frais d’arrêt, par 1’430
+fr. (mille quatre cent trente francs), ainsi que les frais imputables à l’assistance du conseil
+d’office du recourant, par 396 fr. (trois cent nonante-six francs), sont provisoirement laissés
+à la charge de l’Etat.
+VI.
+K.________, bénéficiaire de l’assistance judiciaire, sera tenu de rembourser à l’Etat
+les frais d’arrêt provisoirement laissés à la charge de l’Etat, par 1’430
+fr. (mille quatre cent trente francs), ainsi que l’indemnité allouée à son conseil
+d’office pour la procédure de recours, par 396 fr. (trois cent nonante-six francs), dès
+qu’il sera en mesure de le faire.
+VII.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Yves Cottagnoud, avocat (pour K.________), (et par efax)
+-
+M. K.________, (et par efax)
+-
+Ministère public central, (et par efax)
+et communiqué à :
+‑
+Office d’exécution des peines, (et par efax)
+-
+Etablissement de détention fribourgeois de Sugiez, (et par efax)
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
