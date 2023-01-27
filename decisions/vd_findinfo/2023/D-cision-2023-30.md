@@ -1,0 +1,482 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___30"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 30"
+decided: "2023-01-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9187480"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-063.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-010.md", "switzerland/bund/acts/312.0/art-104.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-136.md", "switzerland/bund/acts/312.0/art-139.md", "switzerland/bund/acts/312.0/art-183.md", "switzerland/bund/acts/312.0/art-184.md", "switzerland/bund/acts/312.0/art-189.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2023 / 30
+
+## Regeste
+
+EXPERTISE PSYCHIATRIQUE, RÉCIDIVE{INFRACTION}, REJET DE LA DEMANDE | 20 CP, 139 CPP (CH), 182 CPP (CH), 189 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 27.01.2023 Décision / 2023 / 30
+
+EXPERTISE PSYCHIATRIQUE, RÉCIDIVE{INFRACTION}, REJET DE LA DEMANDE | 20 CP, 139 CPP (CH), 182 CPP (CH), 189 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+16
+PE22.016462-XMA
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+27 janvier 2023
+___________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mme
+Fonjallaz et M. Krieger, juges
+Greffière
+:              Mme
+Villars
+*****
+Art.
+139 al. 1, 189, 393 al. 1 let. a CPP
+Statuant sur le recours interjeté le 18 novembre 2022 par
+X.________
+contre l’ordonnance de maintien de la mise en œuvre d’une réactualisation d’une
+expertise psychiatrique rendue le 7 novembre 2022 par le Ministère public de l’arrondissement
+de Lausanne dans la cause
+n° PE22.016462-XMA
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par jugement du 19 mai 2022, le Tribunal correctionnel de l’arrondisse­ment de Lausanne a
+condamné X.________, né le [...] 2000 à [...] (Angola), au bénéfice d’un
+permis F, pour dommages à la propriété, violation de domicile, tentative de violation
+de domicile, contrainte sexuelle, violation simple des règles de la circulation routière, vol
+d’usage d’un véhicule automobile au préjudice d’un proche ou d’un familier,
+conduite d’un véhicule automobile sans être valablement accompagné, conduite d’un
+véhicule automobile sans autorisation, contravention à l’ordonnance sur les règles
+de la circulation routière et contravention à la LStup (Loi fédérale sur les stupéfiants ;
+RS 812.121), à une peine privative de liberté de 15 mois et à une amende de 500 fr. convertible
+en une peine privative de liberté de substitution de 5 jours en cas de non-paiement fautif, ainsi
+qu’à un traitement ambulatoire au sens de l’art. 63 CP (Code pénal suisse du 21
+décembre 1937 ; RS 311.0).
+Cette condamnation sanctionnait notamment les événements survenus les 24 août 2020 et
+2 janvier 2021, lors desquels X.________ s’était introduit sans droit dans l’appartement
+de deux victimes, puis dans leur salle de bains où elles étaient en train de se doucher, et
+les avait observées nues avant de prendre la fuite, ainsi que ceux survenus le 6 février 2021,
+lors desquels il s’était introduit sans droit dans la chambre de sa victime alors qu’elle
+dormait, l’avait sommée de se tourner avant de lui toucher les fesses par-dessus son pyjama,
+puis de baisser son pantalon et de lui demander de lui prodiguer une fellation, ce qu’elle avait
+refusé de faire avant de crier et qu’il ne quitte la pièce, et le 13 octobre 2021, lors
+desquels il avait tenté de s’introduire dans l’appartement d’une potentielle victime.
+Dans le cadre de la procédure ayant conduit à la condamnation du 19 mai 2022, une expertise
+psychiatrique de X.________ a été réalisée par le Prof. [...] et [...], respectivement
+médecin chef et psychologue assistante auprès du Centre d’expertises de l’Institut
+de psychiatrie légale (ci-après : IPL), qui ont déposé leur rapport le 27 octobre
+2021 (P. 5). Les experts ont posé le diagnostic de retard mental léger avec un QI global évalué
+à 66, relevant que ce trouble psychique n’était pas considéré comme un grave
+trouble mental sur le plan psychiatrique, que ce retard mental limitait X.________ dans ses prises de
+décision, qu’il se traduisait par une imma­turité intellectuelle et affective associée
+à un faible jugement critique, conduisant à une grande influençabilité par l’entourage
+extérieur, que la fréquentation de pairs dyssociaux représentait un facteur important
+de risque de récidive et que ce trouble pouvait égale­ment conduire à des comportements
+de nature impulsive aux conséquence peu réfléchies. Les experts ont indiqué que la
+faculté de X.________ d’apprécier le caractère illicite de ses actes était
+conservée, mais que sa capacité à se déterminer d’après cette appréciation
+était diminuée de façon légère en raison de son trouble psychique, que sa responsabilité
+pénale était ainsi légèrement diminuée, que le risque de récidive pour
+des faits de même nature était faible à court ou moyen terme, dépendant notamment
+des conditions de vie rencontrées par le prévenu à l’extérieur, qu’une
+prise en charge psychoéducative ambulatoire dans une consultation publique ou privée serait
+utile pour contribuer à diminuer le risque de récidive et que X.________ était disposé
+à se rendre à son suivi ambulatoire.
+Dans son jugement, le Tribunal correctionnel a considéré qu’un traite­ment ambulatoire
+de X.________ était indispensable et que s’il était relaxé sans la mise en place
+de la reprise de son suivi thérapeutique, le risque de récidive serait important. Il avait
+ordonné son maintien en détention pour des motifs de sûreté.
+b)
+Outre la condamnation du 19 mai 2022, l’extrait du casier judiciaire suisse de X.________ fait
+état des deux inscriptions suivantes :
+- 27 avril 2020 : Ministère public de l’arrondissement de Lausanne, violation du domaine
+secret ou du domaine privé au moyen d’un appareil de prise de vues, peine pécuniaire
+de 20 jours-amende à 30 fr. le jour avec sursis pendant 2 ans, révoqué le 19 mai 2022
+par le Tribunal correctionnel de l’arrondissement de Lausanne, et amende de 120 fr. ;
+- 20 juillet 2020 : Ministère public du Nord vaudois, infraction d’impor­tance mineure
+(obtention frauduleuse d’une prestation), faux dans les certificats, contravention à la Loi
+fédérale sur les transports de voyageurs, peine pécuniaire de 20 jours-amende à 30
+fr. le jour avec sursis pendant 2 ans, révoqué le 19 mai 2022 par le Tribunal correctionnel
+de l’arrondissement de Lausanne, et amende de 300 francs.
+c)
+Par ordonnance du 30 août 2022, le Juge d’application des peines a libéré conditionnellement
+X.________ avec effet immédiat, lui a fixé un délai d’épreuve d’un an,
+lui a ordonné de se soumettre à des contrôles réguliers d’abstinence aux produits
+stupéfiants et à l’alcool pendant toute la durée du délai d’épreuve
+et a dit qu’il avait l’obligation de collaborer dans le cadre de son traitement ambulatoire
+au sens de l’art. 63 CP, aussi longtemps que celui-ci serait ordonné (P. 10).
+L’Office d’exécution des peines a été chargé de la mise en œuvre
+des conditions à la libération conditionnelle de X.________ et a confié le mandat de probation
+à la Fondation vaudoise de probation (ci-après : FVP) (P. 10 et P. 17/1).
+d)
+Par courrier du 1
+er
+septembre 2022 (P. 17/5), l’Office d’exécution des peines a informé le Dr [...]
+du Centre Métropole Psy qu’il avait pris note du fait qu’il acceptait d’entrer
+en matière sur sa demande de mandat médico-légal et lui a adressé une demande de
+suivi pour la prise en charge de X.________ mentionnant les points de vigilance qui nécessitaient
+une atten­tion particulière par le thérapeute, savoir la régularité du suivi,
+le respect de l’absti­nence en matière de stupéfiants et d’alcool, la gestion
+de l’impulsivité et les fréquen­tations de l’intéressé et leur influençabilité.
+Par courrier du 6 septembre 2022, la FVP a pris contact avec X.________ au sujet de son mandat d’assis­tance
+de probation et l’a convoqué dans ses bureaux le 20 septembre 2022 (P. 17/6).
+e)
+Le 6 septembre 2022, le Ministère public de l’arrondissement de Lausanne (ci-après :
+Ministère public) a ouvert une instruction pénale contre X.________ pour dommages à la
+propriété et violation de domicile. Il lui était reproché d’avoir, le 6 septembre
+2022 à 04h10, pénétré sans droit dans l’appartement de A.Y.________ en forçant
+une fenêtre d’une chambre, de s’être rendu dans la chambre de sa fille B.Y.________,
+née le [...] 2007, et de l’avoir observée avant de quitter la pièce et de s’enfuir.
+Le 6 septembre 2022, A.Y.________ a déposé plainte et s’est constitué partie civile
+sans toutefois chiffrer ses prétentions.
+f)
+X.________ a été interpellé par la police le 6 septembre 2022.
+Lors de son audition par la police du même jour, X.________ a formellement contesté les faits
+qui lui étaient reprochés, affirmant avoir passé la nuit chez une amie (PV aud. 2) Lorsque
+le Ministère public a procédé à son audition le 6 septembre 2022 (PV aud. 3), X.________
+est revenu sur ses déclarations et a admis s’être introduit chez A.Y.________ et avoir
+observé B.Y.________, précisant qu’il ne la connaissait pas et qu’il ne l’avait
+jamais rencon­trée. X.________ a notamment expliqué à la procureure que, par moment,
+il pouvait «
+lutter
+contre ses envies
+», qu’il était
+entré dans l’appartement de A.Y.________ car il avait été «
+tenté
+»,
+qu’il avait l’impression qu’un suivi psychothé­rapeutique pourrait l’aider
+à maîtriser ses «
+penchants
+»,
+que sa sœur – qui s’avère être sa cousine, M.________ – voulait comprendre
+ce qu’il lui passait par la tête et être informée de ses déplacements, et que
+c’était une manière pour celle-ci de lui éviter la «
+tentation
+».
+Entendu par le Tribunal des mesures de contrainte le 8 septembre 2022, X.________ a notamment déclaré :
+«
+J’ai l’oppor­tunité
+de reprendre le suivi avec ma psychologue et je sais que c’est quelque chose qui pourra m’aider
+par la suite, car j’ai besoin d’aide.
+»
+g)
+Par ordonnance du 9 septembre 2022, le Tribunal des mesures de contrainte a ordonné la détention
+provisoire de X.________ pour une durée de trois mois, soit jusqu’au 6 décembre 2022,
+retenant l’existence de soupçons suffisants de dommages à la propriété et de
+violation de domicile, et d’un risque de réitération.
+B.
+a)
+Par avis du 28 octobre 2022, le Ministère
+public a informé les parties qu’il envisageait d’ordonner la mise en œuvre d’une
+réactualisation de l’expertise psychiatrique de X.________ réalisée en 2021 et qu’il
+entendait désigner en qualité d’experts le Prof. [...] et la Dre [...], respectivement
+médecin chef et cheffe de clinique auprès de l’IPL, avec pour mission de répondre
+aux deux questions suivantes
+(P. 22)
+:
+« 1.
+X.________ a fait l’objet d’une expertise psychiatrique dans le cadre de la cause [...].
+Je requiers dès lors la réactualisation du rapport déposé le 27 octobre 2021 dans
+la procédure précitée, à la lumière des nouveaux éléments survenus.
+2.
+Avez-vous des remarques complémentaires à formuler ? ».
+Le Ministère public a imparti un délai de deux semaines aux parties pour s’exprimer sur
+le choix des experts et les questions à leur poser.
+b)
+Par courrier du 2 novembre 2022, X.________ a déclaré s’opposer à la mise en œuvre
+d’une réactualisation de l’expertise psychia­trique du 27 octobre 2021.
+c)
+Par ordonnance du 7 novembre 2022, le Ministère
+public a décidé de maintenir la mise en œuvre d’une réactualisation de l’expertise
+psychiatrique de X.________ réalisée le 27 octobre 2021 (I) et a dit que les frais de la décision
+suivaient le sort de la cause (II).
+A l’appui de sa décision, la procureure a considéré que X.________ avait été
+condamné le 19 mai 2022 pour des faits strictement similaires à ceux qui faisaient l’objet
+de la présente enquête, qu’il avait été libéré condi­tionnellement
+le 30 août 2022, qu’il avait récidivé moins d’une semaine après sa libération,
+que, contrairement à ce que les experts avaient retenu dans leur rapport du 27 octobre 2021, les
+faits tendaient à démontrer que le prévenu était incapable de gérer ses pulsions,
+de sorte que le risque de récidive ne paraissait pas faible et qu’il était ainsi fondamental
+que les experts ayant rendu le rapport en 2021 puissent indiquer si, au regard des nouveaux faits commis
+par le prévenu, ils maintenaient leurs conclusions et s’ils préconisaient un changement
+ou à tout le moins une adaptation de la mesure.
+C.
+Par acte du 18 novembre 2022, X.________, par
+son défenseur d’office, a recouru auprès de la Chambre des recours pénale du Tribunal
+cantonal contre cette ordonnance, en concluant, avec suite de frais et dépens, à son annulation.
+Par ordonnance du 5 décembre 2022, le Tribunal des mesures de contrainte a prolongé la détention
+provisoire de X.________ jusqu’au 5 mars 2023.
+Dans ses déterminations du 9 janvier 2023, le Ministère public a conclu au rejet du recours
+de X.________ et au maintien de sa décision, et a déclaré se référer intégralement
+aux considérants de son ordonnance.
+Par acte du 12 janvier 2023, A.Y.________ et C.Y.________, représentés par Me Mireille Loroch,
+conseil de choix, ont conclu au rejet du recours de X.________ et à la désignation de Me Mireille
+Loroch en qualité de conseil d’office pour la procédure de recours.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393 al. 1 let. a CPP
+(Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0), le recours est recevable contre
+les décisions et actes de procédure du Ministère public. Ainsi, la décision du Ministère
+public d'administrer ou de refuser d'administrer une preuve au sens des art. 139 ss CPP est en principe
+susceptible de recours selon les art. 393 ss CPP (Keller in : Donatsch/Lieber/Summers/Wohlers [éd.],
+Zürcher Kommentar, Kommentar zur Schweizerischen Strafprozessordnung, 3
+e
+éd. 2020, vol. II, n. 16 ad art. 393 CPP ; CREP 5 mai 2022/327). En particulier, la décision
+qui désigne un expert et met en œuvre une expertise psychiatrique est susceptible de porter
+atteinte à la sphère privée et à la personnalité du prévenu de sorte que
+ce dernier dispose d'un intérêt juridiquement protégé au sens de l’art. 382
+al. 1 CPP à en demander l'annulation ou la modification (TF 1B_245/2021 du 2 août 2021 consid.
+1).
+Le recours doit être adressé par écrit, dans un délai de dix jours
+(art.
+396 al. 1 CPP) dès la notification de la décision attaquée (art. 384 let. b CPP), à
+l’autorité de recours qui, dans le canton de Vaud, est la Chambre des recours pénale
+du Tribunal cantonal (art. 13 LVCPP [Loi d’introduction du Code de procédure pénale suisse
+du 19 mai 2009 ; BLV 312.01]) ; art. 80 LOJV [Loi d’organisation judiciaire du 12 décembre
+1979 ; BLV 173.01]).
+1.2
+En l’espèce, déposé dans le délai légal et auprès de l’autorité
+compétente par un prévenu qui a qualité pour recourir (art. 382 al. 1 CPP), et satisfaisant
+aux conditions de forme prescrites (art. 385 al. 1 CPP), le recours de X.________ est recevable.
+2.
+2.1
+Le recourant s’oppose à l’actualisation
+de l’expertise psychiatrique réalisée en 2021. Invoquant une violation de l’art.
+189 CPP, il fait valoir que l’exper­tise réalisée en 2021 a été considérée
+comme claire et complète dans le cadre d’une précédente enquête pénale
+le concernant, que son exactitude ne saurait être mise en doute et que les experts se seraient déjà
+prononcés sur son risque de récidive. Il soutient que sa libération conditionnelle aurait
+eu lieu sans qu’aucune des mesures préconisées par les experts n’ait été
+mise en œuvre, qu’il serait sorti de prison sans qu’aucun rendez-vous auprès de
+sa thérapeute et de la FVP n’ait été fixé, que sa demande de prise en charge
+du traitement ambulatoire n’aurait été demandée par l’Office d’exécution
+des peines que deux jours après sa libération conditionnelle, que la FVP ne l’aurait
+contacté qu’une semaine après sa libération pour lui proposer une entrevue trois
+semaines après sa sortie de prison et qu’il n’aurait ainsi pas pu béné­ficier
+dès sa sortie du cadre préconisé par les experts et tester sa liberté dans les conditions
+prévues par l’ordonnance de libération conditionnelle du Juge d’applica­tion
+des peines.
+2.2
+2.2.1
+En vertu de l'art. 139 al. 1 CPP, les autorités pénales mettent en œuvre tous les moyens
+de preuves licites qui, selon l'état des connaissances scientifiques et l'expérience, sont
+propres à établir la vérité. Cette disposition est le corollaire des principes de
+la libre appréciation des preuves (art. 10 al. 2 CPP) et de la recherche de la vérité
+matérielle (art. 6 al. 1 CPP) (Moreillon/Parein-Reymond, Petit commen­taire du Code de procédure
+pénale, 2
+e
+éd., Bâle 2016, n. 2 ad art. 139 CPP). Parmi ces moyens de preuves licites figure le recours
+à un expert. Seule peut être désignée comme expert une personne physique qui, dans
+le domaine concerné, possède les connaissances et les compétences nécessaires (art.
+183 al. 1 CPP). La direction de la procédure désigne l'expert (art. 184 al. 1 CPP), en établissant
+un mandat écrit qui contient notamment une définition précise des questions à élucider
+(art. 184 al. 2 let. c CPP), après avoir donné préalablement aux parties l'occasion de
+s'exprimer sur le choix de l'expert et les questions qui lui sont posées et de faire leurs propres
+propositions (art. 184 al. 3 1
+re
+phr. CPP).
+Conformément à l'art. 139 al. 2 CPP, il n'y a pas lieu d'administrer des preuves sur des faits
+non pertinents, notoires, connus de l'autorité ou déjà suffisamment prouvés. Le magistrat
+peut ainsi renoncer à l'administration de certaines preuves, notamment lorsque les faits dont les
+parties veulent rapporter l'authenticité ne sont pas importants pour la solution du litige (TF 6B_1408/2021
+du
+5 mai 2022 consid. 2.1).
+2.2.2
+En vertu de l'art. 189 CPP, d’office ou à la demande d’une partie, la direction de la
+procédure fait compléter ou clarifier une expertise par le même expert ou désigne
+un nouvel expert lorsque l’expertise est incomplète ou peu claire (let. a), lorsque plusieurs
+experts divergent notablement dans leurs conclusions (let. b) ou si l’exactitude de l’expertise
+est mise en doute (let. c).
+Une expertise est incomplète (cf. art. 189 let. a CPP) lorsqu'elle ne répond pas à toutes
+les questions posées, lorsque ses conclusions ne sont pas étayées d'une façon qui
+permette à l'autorité pénale ou à un autre expert d'en vérifier la cohérence
+et la logique internes, lorsqu'elle ne se base pas sur les faits tels que les retient l'instruction au
+moment où l'expertise est réalisée, lorsqu'elle ne tient pas compte de l'état actuel
+des connaissances techniques ou scientifiques, lorsqu'elle ne spécifie pas sur quelles pièces
+l'expert s'est basé pour faire son travail ou lorsqu'il apparaît que l'expert n'a pas pris
+connaissance des pièces qui lui avaient été transmises lorsqu'il a été mandaté
+(Vuille, in : Jeanneret/Kuhn/Perrier Depeursinge [éd.], Commentaire romand, Code de procédure
+pénale suisse, 2
+e
+éd., Bâle 2019,
+n. 8 ad art. 189
+CPP ; CREP 28 février 2018/162 ; voir également : TF 6B_980/2020 du 23 novembre 2020 consid.
+3.1). L'expertise devra notamment être complétée, respectivement actualisée, si les
+circonstances ont changé depuis sa rédaction et qu'il y a lieu de penser que le résultat
+de l'expertise serait différent si elle était rédigée aujourd'hui (TF 6B_272/2012
+du 29 octobre 2012 consid. 2.3.4. et les réf. cit. ; Vuille, op. cit., n. 8a ad art. 189 CPP).
+A cet égard, le critère formel de l’ancienneté de l’expertise n’est
+pas déterminant ; seule l’est la question matérielle de savoir si la situation à
+la base de l’expertise s’est modifiée ; si tel est le cas, cette expertise a perdu
+de son actualité et une actualisation est indispensable (ATF 134 IV 246 consid. 4.3 ; ATF 128
+IV 241 consid. 3.3 ; TF 6B_272/2012 précité). Il faut que cette modification porte sur
+des points qui sont susceptibles d’avoir une influence sur le résultat de l’expertise
+(Donatsch, in : Donatsch/Lieber/Summers/Wohlers [éd.], Kommentar zur Schweizerischen Strafprozessordnung,
+3
+e
+éd. 2020, n. 9 ad art. 189 StPO et les réf. cit.).
+2.3
+En l’espèce, le recourant a fait l’objet d’une enquête pénale antérieure,
+clôturée par jugement du 19 mai 2022 du Tribunal correctionnel de l’arrondissement de
+Lausanne, lequel est définitif et exécutoire dès cette date. Dans le cadre de cette procédure
+pénale, une expertise psychiatrique de X.________ a été réalisée par des experts
+de l’IPL qui ont déposé leur rapport le 27 octobre 2021. Ce rapport d’exper­tise
+était clair, complet et sans contradictions. Depuis lors, toutefois, le recourant a récidivé,
+et ce immédiatement après avoir été libéré.
+C’est à tort que le recourant conteste qu’il s’agisse d’une circonstance
+nouvelle justifiant une actualisation de l’expertise précitée. D’abord, comme on
+l’a vu (cf. supra consid. 2.2.2), le caractère récent de la précédente expertise
+n’est pas un critère déterminant.
+Selon les experts, le premier facteur de récidive à prendre en considération est l’influençabilité
+du recourant par des tiers dyssociaux. Or, dans le cas de la récidive du 6 septembre 2022 du recourant,
+cet élément ne semble à première vue n’avoir joué aucun rôle. X.________
+a déclaré à la procureure (PV aud. 3) qu’il avait passé la soirée litigieuse
+avec M.________, puis avec une amie, avant de pénétrer sans droit dans l’appartement
+de A.Y.________. Il a dit avoir été «
+tenté
+»
+et n’a expliqué son comportement que par le fait que l’accompa­gnement préconisé
+par les experts n’avait pas été mis en place immédia­tement à sa sortie
+de prison le 30 août 2022. Il peut certes être donné acte au recourant que, contrairement
+à ce qui était prévu par l’ordonnance de libération conditionnelle du Juge
+d’application des peines du 30 août 2022, aucune mesure d’accompagnement – contrôles
+réguliers d’absti­nence aux produits stupéfiants et à l’alcool, traitement
+ambulatoire au sens de l’art. 63 CP, assistance de probation par la FVP – n’avait été
+organisée avant sa sortie de prison. Le recourant n’avait aucun rendez-vous avec un thérapeute
+ou avec la FVP planifié à sa libération. Ce n’est que le 1
+er
+septembre 2022 que l’Office d’exécution des peines a adressé au Centre Métropole
+Psy une demande de suivi pour la prise en charge du recourant et la FVP n’a pris contact avec X.________
+que le 6 septembre 2022 pour lui fixer un rendez-vous le 20 septembre 2022. Le recourant, qui a reconnu
+avoir besoin d’aide, a dit à la procureure qu’il avait convenu avec M.________ de la
+tenir informée de ses déplacements, pour éviter la «
+tentation
+»
+(PV aud. 3).
+Même si le cadre n’a pas pu être immédiatement mis en place, il n’en demeure
+pas moins que X.________ a récidivé à peine une semai­ne après sa sortie de
+prison. Il s’agit d’une circonstance qui paraît entrer en contra­diction avec l’appréciation
+des experts selon laquelle le risque de récidive à court ou moyen terme était faible.
+Aussi, au vu des éléments nouveaux qui se sont produits, il apparaît pertinent de soumettre
+cette question aux experts à qui il appartiendra d’examiner la cause de la récidive du
+recourant, savoir si cette nouvelle récidive a pour origine un trouble mental ou une addiction ou,
+le cas échéant, si elle trouve son origine dans le défaut d’accompagnement immédiat
+du recourant, comme celui-ci le soutient. Il s’agit d’une question qui nécessite la
+compétence d’un spécialiste, et à laquelle un juge ne peut pas répondre. Les
+conditions posées par la jurisprudence pour l’actualisation d’une expertise sont remplies.
+Partant, mal fondés, les griefs du recourant doivent être rejetés.
+3.
+3.1
+En définitive, le recours interjeté par X.________ doit être rejeté et l’ordonnance
+entreprise confirmée.
+Les frais de la procédure de recours, constitués en l'espèce de l'émolument d'arrêt,
+par 1'430 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010 ; BLV 312.03.1]), et des frais imputables à la défense d'office
+(art. 422 al. 1 et 2 let. a CPP), fixés à 540 fr. sur la base d’une durée d’activité
+nécessaire d’avocat estimée à 3 heures au tarif horaire de 180 fr., auxquels il
+convient d’ajouter des débours forfaitaires à concurrence de
+2
+% (art. 3bis al. 1 RAJ [Règlement sur l’assistance judiciaire en matière civile du 7
+décembre 2010 ; BLV 211.02.3], applicable par renvoi de l’art. 26b TFIP), par 10 fr. 80, et
+la TVA, par 42 fr. 40, soit à 594 fr. au total, en chiffres arrondis, seront mis à la charge
+du recourant, qui succombe (art. 428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+de X.________ ne sera toutefois exigible que pour autant que la situation financière de ce dernier
+le permette (art. 135 al. 4 let. a CPP).
+3.2
+Me Mireille Loroch, qui a déposé des déterminations pour les parents de B.Y.________,
+requiert sa désignation en qualité de conseil juridique gratuit de A.Y.________ et de C.Y.________
+pour la procédure de recours.
+Aux termes de l'art. 136 al. 1 CPP, la direction de la procédure accorde entièrement ou partiellement
+l'assistance judiciaire à la partie plaignante indigente (let. a) pour lui permettre de faire valoir
+ses prétentions civiles si l'action civile ne paraît pas vouée à l'échec (let.
+b). Selon l’art. 136 al. 2 CPP, l'assistance judiciaire comprend l'exonération d'avances de
+frais et de sûretés (let. a), l'exonération des frais de procédure (let. b) et/ou
+la désignation d'un conseil juridique gratuit, lorsque la défense des intérêts de
+la partie plaignante l'exige (let. c).
+En l’occurrence, A.Y.________ a déposé plainte pénale pour vol par effraction et
+s’est constitué partie civile sans prendre de conclusions. Quant à C.Y.________, elle
+n’a pas déposé plainte et ne s’est pas constituée partie civile, de sorte
+qu’elle n’a pas la qualité de partie à la procédure au sens de l’art.
+104 al. 1 CPP et la question de la désignation d’un conseil juridique gratuit ne se pose pas
+en ce qui la concerne. Dans ces conditions, A.Y.________ devait – pour prétendre à la
+désigna­tion d’un conseil juridique gratuit – établir son indigence, à
+tout le moins en fournissant à l’autorité toutes les indications nécessaires, preuves
+à l’appui, à la détermination d’une image fidèle et complète de
+ses revenus et de sa fortune. A.Y.________ n’ayant produit aucune pièce pour tenter d’établir
+que la condition de son indigence serait remplie, il n’y a pas lieu de lui désigner un conseil
+juridique gratuit pour la procédure de recours et sa requête doit être rejetée.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 7 novembre 2022 est confirmée.
+III.
+La requête de C.Y.________ tendant à la désignation d’un conseil juridique gratuit
+pour la procédure de recours est irrecevable.
+IV.
+La requête de A.Y.________ tendant à la désignation d’un conseil juridique gratuit
+pour la procédure de recours est rejetée.
+V.
+L’indemnité allouée à Me
+Laurinda Konde, défenseur d’office de X.________, est fixée à 594 fr. (cinq cent
+nonante-quatre francs), TVA et débours compris.
+VI.
+Les frais d’arrêt, par 1'430 fr. (mille quatre cent trente francs), ainsi que l’indemnité
+due au défenseur d’office de X.________, par 594 fr. (cinq cent nonante-quatre francs), sont
+mis à la charge de ce dernier.
+VII.
+Le remboursement à l’Etat de l’indemnité allouée au chiffre V ci-dessus ne
+sera exigible que pour autant que la situation économique de X.________ le permette.
+VIII.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Laurinda Konde, avocate (pour X.________),
+-
+Me Mireille Loroch, avocate (pour A.Y.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
