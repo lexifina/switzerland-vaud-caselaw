@@ -1,0 +1,484 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___58"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 58"
+decided: "2023-01-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9199073"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-010.md", "switzerland/bund/acts/101/art-013.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-255.md", "switzerland/bund/acts/312.0/art-259.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-391.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2023 / 58
+
+## Regeste
+
+DROIT D'ÊTRE ENTENDU, PROFIL D'ADN, PROPORTIONNALITÉ, VIOL, MOTIVATION DE LA DÉCISION, SOUPÇON, CONSULTATION DU DOSSIER | 29 al. 2 Cst., 197 al.1 CPP (CH), 255 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 27.01.2023 Décision / 2023 / 58
+
+DROIT D'ÊTRE ENTENDU, PROFIL D'ADN, PROPORTIONNALITÉ, VIOL, MOTIVATION DE LA DÉCISION, SOUPÇON, CONSULTATION DU DOSSIER | 29 al. 2 Cst., 197 al.1 CPP (CH), 255 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+69
+PE21.017518-JMU
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+27 janvier 2023
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+M.
+Krieger et Mme Courbat, juges
+Greffier
+:              M.
+Valentino
+*****
+Art.
+29 al. 2 Cst. ;
+3 al. 2 let. c, 197 et 255 CPP
+Statuant sur le recours interjeté le 9 janvier 2023 par
+A.________
+contre
+l’ordonnance d'établissement
+d'un profil ADN
+rendue le 29 décembre 2022
+par le Ministère public de
+l’arrondissement de Lausanne
+dans la cause
+n° PE21.017518-JMU
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le
+3 octobre 2021, les parents de Z.________, née le [...] 2005, ont fait appel à la police en
+raison d’une crise de décompensation de leur fille. Arrivés à leur domicile au chemin
+[...], les policiers ont appris que la jeune fille faisait des crises d’angoisse depuis qu’elle
+avait été violée par un inconnu le 23 avril 2021. Elle avait, depuis lors, été
+prise en charge au niveau psychologique, mais
+n'avait
+pas souhaité en parler à la police jusque-là. Elle se sentait désormais prête
+à entamer des démarches judiciaires.
+Z.________ et son père [...] ont été convoqués et entendus par la police le 8 octobre
+2021.
+[...]
+a notamment
+expliqué (PV aud. 1) le contexte familial et ce qui lui avait été dit au sujet de l'agression
+de Z.________. Il a déclaré que le 24 avril 2021, il avait vu une marque sur le visage de sa
+fille, qu’il en avait parlé à son épouse par message et que Z.________ lui avait
+déclaré s'être griffée accidentellement à un grillage. Ce n’est qu’un
+mois plus tard qu’il avait appris ce qui s’était réellement passé, par le
+biais de son épouse, qu’il s'était alors présenté au poste de police d'[...]
+pour demander conseil, qu’il lui avait été dit qu'il pouvait faire une déclaration
+spontanée mais que Z.________ devait également être d'accord de parler, qu’en rentrant
+chez lui, sa femme lui avait dit que Z.________ ne voulait pas discuter de cela avec lui et qu’il
+avait donc entamé des démarches pour que sa fille soit suivie psychologiquement.
+Lors de
+son audition-vidéo (PV aud. 2), Z.________ a expliqué qu'après avoir passé la soirée
+du 23 avril 2021 dans un bar en ville de Lausanne, où elle avait bu un peu d’alcool, elle
+avait pris le métro puis le bus pour rentrer chez elle, qu’elle était descendue à
+l'arrêt [...] entre 23h30 et 23h50, qu’elle s'était dirigée à pied en direction
+du chemin [...]
+s
+,
+mais qu’elle avait rapidement
+eu le sentiment
+d'être suivie, et que pour tenter de semer l'homme qui la suivait, elle avait tourné pour entrer
+dans la forêt, alors que le chemin menant à son domicile était à l'opposé. Elle
+a ajouté qu’immédiatement après être entrée dans la forêt, l'homme
+qui la suivait l’avait attrapée par l'épaule et projetée violemment au sol, qu’elle
+s’était
+cognée
+la tête et griffée la joue en tombant, qu’il lui avait alors
+enlevé ses chaussures, son pantalon et sa culotte et qu’il l'avait pénétrée
+vaginalement. Il était ensuite reparti par un autre chemin. Elle a précisé que son agresseur
+ne lui avait
+pas parlé pendant l’acte sexuel mais qu’il avait uniquement fait des grognements. Quant
+à elle, elle n’avait plus eu l'impression de faire partie de son corps et s'était laissée
+faire.
+Elle a ajouté qu’après
+le départ de son
+agresseur, elle avait fait appel à une amie, qui avait prévenu son petit copain, et que ces
+derniers l'avaient convaincue de rentrer chez elle, ce qu'elle avait réussi à faire uniquement
+vers 2h du matin le 24 avril 2021. Elle s’était par la suite confiée à sa mère
+et avait consulté une psychologue ainsi qu’une gynécologue. Enfin, elle a expliqué
+qu’elle avait lavé les habits qu'elle portait le soir en question et qu’elle possédait
+encore les baskets que l'auteur des faits avait touchées, mais qu’elle les avait portées
+encore quelques mois après. Au cours de son audition, Z.________
+a
+pu donner un vague signalement du prévenu. Celui-ci ne correspondait toutefois à aucune personne
+connue des services de police.
+b)
+Le
+même jour, le Ministère public de l’arrondissement de Lausanne (ci-après :
+le Ministère public ou le procureur) a décidé de l’ouverture d’une instruction
+pénale contre inconnu pour avoir, à [...], le 23 avril 2021, vers 23h, contraint par la force
+Z.________ à subir l’acte sexuel jusqu’à éjaculation.
+Sur demande du procureur, les chaussures de la victime ont été analysées par la Brigade
+de police scientifique, qui ont effectué deux prélèvements biologiques dans l'espoir d'y
+découvrir une trace d'ADN exploitable.
+Dans son rapport du 9 novembre 2021, le Centre universitaire romand de médecine légale (CURML)
+a indiqué que les résultats étaient négatifs, puisque seuls des profils ADN de mélange
+non interprétables avaient été retrouvés sur les baskets en question (P. 7/3).
+La police s’est
+également
+rendue sur les lieux de l'agression, afin de tenter de retrouver un éventuel indice, mais ses recherches
+sont demeurées vaines.
+c)
+Le
+2 mars 2022, le Ministère public a ordonné la suspension de la procédure pour une durée
+indéterminée, dès lors que l’auteur des faits dénoncés par Z.________
+demeurait inconnu et qu’aucun indice permettant de l’identifier n’avait été
+découvert.
+d)
+Le
+4 novembre 2022, Z.________ a contacté le 117 et averti les services de police qu’elle venait
+de croiser son agresseur, alors qu’elle cheminait non loin de la [...], à Lausanne (P. 21/1
+et PV aud. 3).
+Sur ce signalement, le suspect a été interpellé quelques minutes plus tard par la police.
+Il a été i
+dentifié
+en la personne d’A.________
+, né le
+[...] 1959, résidant à la Fondation [...]. Il était accompagné d’une éducatrice
+et a été laissé aller au terme de son identification.
+e)
+Le
+6 décembre 2022, le Ministère public a décidé de la reprise de l’instruction
+pénale et a, le même jour, délivré un mandat d’amener contre A.________ afin
+qu’il soit appréhendé et interpellé.
+Entendu le 9 décembre 2022,
+A.________, assisté de Me Hervé Dutoit, qui était intervenu comme avocat
+de
+la première heure, a formellement contesté connaître Z.________ et s’en être
+pris à elle. Il a expliqué qu’il était chez sa mère au moment des faits
+.
+Il a été laissé aller au terme de son audition (PV aud. 4).
+Dans son courrier du 16 décembre 2022, le Chef de secteur socio-éducatif de la Fondation [...],
+pour faire suite à la demande de rapport du Ministère public concernant A.________, a indiqué
+que ce dernier souffrait d’épilepsie, qu’il lui arrivait d’avoir des moments de
+désorientation et d’angoisse, qu’il avait depuis plusieurs années une relation
+régulière avec une de leurs résidentes, qu’il se montrait respectueux de la gent
+féminine et qu’il n’y avait pas eu, à sa connaissance, de plainte pénale déposée
+contre lui (P. 19/1). Il a en outre produit un extrait du journal d’observation du groupe auquel
+faisait partie le prénommé, qui a confirmé que le soir du 23 avril 2021, celui-ci n’avait
+pas dormi à l’institution mais auprès de sa famille ; il était en outre indiqué
+que ce soir-là, « [...] », soit la fiancée d’A.________ (PV aud.
+4, p. 2
+in fine
+),
+était hospitalisée à [...], que durant la période d’avril à mai 2021,
+ce dernier avait eu des comportements agressifs ainsi que des états confusionnels et qu’après
+le 23 avril 2021, il s’était plaint d’une douleur au genou droit (P. 21/3).
+Le 14 décembre 2022, le Ministère public a précisé l’ouverture de l’instruction
+en ce sens que celle-ci était dirigée contre A.________.
+Dans le cadre de cette enquête,
+un prélèvement a été effectué sur le prévenu en vue de l’établissement
+d’un profil d’ADN (n° 3362196716).
+f)
+Le
+29 décembre 2022, le procureur a désigné Me Hervé Dutoit en qualité de défenseur
+d’office du prévenu.
+B.
+Par ordonnance du 29 décembre 2022,
+le
+Ministère public a ordonné l’établissement du profil ADN à partir du prélèvement
+n° 3362196716 (I) et a dit que les frais suivaient le sort de la cause au fond (II).
+Le procureur a considéré que l’établissement du profil ADN contribuerait à
+élucider les faits reprochés au prévenu ou une autre infraction contre l’intégrité
+sexuelle qu’il aurait déjà commise et qu’au vu des infractions en cause, cette
+mesure était adéquate et respectait le principe de la proportionnalité.
+C.
+a)
+Par acte du 9 janvier 2023,
+A.________, sous la plume de son défenseur d’office, a recouru auprès de la Chambre de
+céans contre cette ordonnance, en concluant, sous suite de frais et dépens, à son annulation
+et au renvoi du dossier au Ministère public pour nouvelle décision dans le sens des considérants
+de l’arrêt à intervenir.
+Il n’a pas été ordonné d’échange d’écritures.
+b)
+Le
+dossier a été adressé en consultation à Me Dutoit le 10 janvier 2023 et reçu
+en retour au greffe du Ministère public le 13 janvier suivant.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393
+al. 1 let. a CPP, le recours est recevable contre les décisions et les actes de procédure du
+ministère public. Ainsi, la décision du ministère public ordonnant un prélèvement
+ADN fondée sur l’art. 255 CPP peut faire l’objet d’un recours au sens des art.
+393 ss CPP. Le recours doit être adressé par écrit, dans un délai de dix jours dès
+la notification de la décision attaquée (cf. art. 384 let. b CPP) à l’autorité
+de recours (art. 396 al. 1 CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du
+Tribunal cantonal (art. 13 LVCPP [loi d’introduction du Code de procédure pénale suisse
+du 19 mai 2009 ; BLV 312.01 ; art. 80 LOJV [loi d’organisation judiciaire du 12 décembre 1979
+; BLV 173.01]).
+1.2
+En l’espèce, interjeté en temps utile auprès de l’autorité compétente
+par le prévenu qui a la qualité pour recourir (art. 382 CPP) et dans les formes prescrites
+(art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Le recourant invoque une violation
+de son droit d’être entendu au motif que la motivation de la décision entreprise serait
+trop générale et insuffisante.
+La décision
+ne permettrait pas de déterminer quels éléments du dossier rendraient le prélèvement
+nécessaire pour élucider les infractions qui lui sont reprochées et quels échantillons
+ont été prélevés. Elle ne dit rien non plus sur la proportionnalité. Enfin,
+le procureur aurait tardé à désigner un avocat et celui-ci n’aurait pas encore pu
+accéder aux procès-verbaux d’audition et aux pièces, soit au dossier.
+2.2
+2.2.1
+Selon l’art. 255 al. 1 let.
+a CPP, pour élucider un crime ou un délit, le prélèvement d’un échantillon
+et l’établissement d’un profil d’ADN peuvent être ordonnés sur le prévenu.
+Cette possibilité n’est pas uniquement limitée à l’élucidation du crime
+ou du délit pour lequel le prévenu est poursuivi : ces mesures peuvent également être
+ordonnées afin d’élucider des infractions passées ou futures qui sont encore inconnues
+des autorités de poursuites pénales (art. 259 CPP et art. 1 al. 2 let. a de la loi sur les
+profils ADN [loi fédérale sur l’utilisation de profil d’ADN dans les procédures
+pénales et sur l’identification de personnes inconnues ou disparues du 20 juin 2003 ; RS 363]
+; ATF 147 I 372 consid. 2.1 ; ATF 145 IV 263 consid. 3.3, JdT 2019 IV 327 ; TF 1B_409/2021 du 3 janvier
+2022 consid. 4.1). Le profil ADN a notamment pour but d’éviter de se tromper sur l’identification
+d’une personne ou de jeter le soupçon sur des innocents ; il peut aussi avoir des effets préventifs
+et contribuer à la protection de tiers. Malgré ces indéniables avantages, l’art.
+255 CPP n’autorise pas le prélèvement d’échantillons d’ADN et leur analyse
+de manière systématique (ATF 147 I 372 précité ; ATF 145 IV 263 précité
+consid. 3.4 ; TF 1B_409/2021 précité).
+Les mesures de reconnaissance et la conservation des données peuvent porter atteinte au droit à
+la liberté personnelle (art. 10 al. 2 Cst. [Constitution fédérale de la Confédération
+suisse du 18 avril 1999 ; RS 101]) et à la protection contre l’emploi abusif de données
+personnelles (art. 13 al. 2 Cst. et 8 CEDH [Convention de sauvegarde des droits de l’Homme et des
+libertés fondamentales du 4 novembre 1950 ; RS 0.101] ; ATF 147 I 372 précité consid.
+2.2 ; ATF 145 IV 263 précité consid. 3.4 ; TF 1B_242/2020 du 2 septembre 2020 consid. 3.2).
+Elles doivent ainsi être fondées sur une base légale suffisamment claire et précise,
+être justifiées par un intérêt public et être proportionnées au but visé
+(art. 36 al. 1 à 3 Cst. ; TF 1B_409/2021 précité consid. 4.2 ; sur la qualification
+de la restriction aux droits fondamentaux créée par ces mesures : ATF 147 I 372 précité
+consid. 2.3).
+Selon l’art. 197 al. 1 CPP, les mesures de contrainte ne peuvent être prises que si elles
+sont prévues par la loi (let. a), si des soupçons suffisants laissent présumer une infraction
+(let. b), les buts poursuivis ne peuvent pas être atteints par des mesures moins sévères
+(let. c) et elles apparaissent justifiées au regard de la gravité de l'infraction (let. d).
+Selon la jurisprudence, l’établissement d’un profil ADN qui ne sert pas à élucider
+une infraction pour laquelle une instruction pénale est en cours n’est conforme au principe
+de la proportionnalité que s’il existe des indices sérieux et concrets que le prévenu
+pourrait être impliqué dans d’autres infractions. Il doit toutefois s’agir d’infractions
+d’une certaine gravité. Il convient à cet égard également de prendre en considération
+les éventuels antécédents du prévenu ; l’absence d’antécédents
+n’empêche pas encore de prélever un échantillon et d’établir le profil
+ADN de celui-ci, mais il faudra tenir compte de cet élément dans la pesée d’intérêts
+à réaliser (ATF 145 IV 263 précité consid. 3.4 ; TF 1B_409/2021 précité
+consid. 4.3 ; TF 1B_242/2020 précité).
+Le fait qu’il n’existe pas de soupçons suffisants qui laissent présumer une infraction
+au sens de l’art. 197 al. 1 CPP pour des infractions futures ne s’oppose pas à l’établissement
+d’un profil ADN en vue de telles infractions. De tels soupçons doivent exister pour ce qui
+concerne l’acte qui a fondé le prélèvement ou l’établissement du profil
+ADN. Dans la perspective d’éventuelles infractions pénales futures, des indices au sens
+mentionné suffisent (ATF 147 I 372 précité consid. 2.1 ; ATF 145 IV 263 précité
+consid. 3.4 ; TF 1B_409/2021 précité consid. 4.3). Le profil ADN peut aussi avoir
+des effets préventifs et contribue à la protection de tiers (ATF 147 I 372 précité
+consid. 2.1 ; ATF 145 IV 263 précité consid. 3.3 ; TF 1B_409/2021 précité consid.
+4.1).
+Il s’impose d’examiner chaque cas individuel pour ordonner l’établissement d’un profil
+ADN (ATF 147 I 372 précité ; ATF 141 IV 87 consid. 1.4.2, JdT 2015 IV 280 ; CREP 25 mars
+2022/174 consid. 2.2.1 ; CREP 4 novembre 2021/987 consid. 2.1).
+2.2.2
+Le droit d’être entendu,
+tel qu’il est garanti par les art. 29 al. 2 Cst. et 3 al. 2 let. c CPP (cf. aussi art. 6 CEDH)
+implique notamment, pour l’autorité, l’obligation de motiver sa décision afin que
+le destinataire puisse la comprendre, l’attaquer utilement s’il y a lieu et afin que l’autorité
+de recours puisse exercer son contrôle. Le juge doit ainsi mentionner, au moins brièvement,
+les motifs qui l’ont guidé et sur lesquels il a fondé sa décision, de manière
+à ce que l’intéressé puisse se rendre compte de la portée de celle-ci et l’attaquer
+en connaissance de cause (ATF 143 IV 40 consid. 3.4.3 ; ATF 142 I 135 consid. 2.1). Il n’est pas
+tenu de discuter tous les arguments soulevés par les parties, mais peut se limiter à l’examen
+des question décisives pour l’issue du litige (ATF 142 II 154 consid. 4.2). Dès lors
+qu’on peut discerner les motifs qui ont guidé la décision de l’autorité, le
+droit à une décision motivée est respecté, même si la motivation présentée
+est erronée (ATF 141 V 557 consid. 3.2.1).
+Le droit d’être entendu est une garantie constitutionnelle de caractère formel, dont
+la violation doit entraîner l’annulation de la décision, indépendamment des chances
+de succès du recours sur le fond (ATF 135 I 187 consid. 2.2). Une violation du droit d’être
+entendu peut être réparée lorsque la partie lésée à la possibilité
+de s’exprimer devant une autorité de recours jouissant d’un plein pouvoir d’examen.
+Toutefois, une telle réparation doit rester l’exception et n’est admissible, en principe,
+que dans l’hypothèse d’une atteinte qui n’est pas particulièrement grave
+aux droits procéduraux de la partie lésée (ATF 142 II 218 consid. 2.8.1 ; TF 6B_1135/2021
+du 9 mai 2022 consid. 1.1). La Chambre des recours pénale dispose d’un pouvoir d’examen
+complet en fait et en droit, permettant de guérir un tel vice procédural (art. 391 al. 1 CPP
+; CREP 13 juin 2022/419 consid. 2.2).
+2.3
+2.3.1
+En l’espèce, si la motivation
+de l’ordonnance attaquée est sommaire, force est de constater que l
+es
+faits sont suffisamment exposés et, vu leur crudité, on ne voit pas pourquoi il aurait été
+nécessaire de développer ces éléments, dont on rappellera que la motivation peut
+rester concise comme relevé ci-avant (cf. consid. 2.2.2
+supra
+).
+Ensuite, il ressort du dossier que l’infraction en cause est le viol et l’état de fait
+ne laisse aucun doute sur la qualification qui serait retenue, ainsi que la proportionnalité de
+la mesure de contrainte eu égard à la gravité des faits.
+On
+ne saurait dès lors considérer que le droit d’être entendu du recourant a été
+violé. Partant, ce grief d’ordre formel doit être rejeté.
+2.3.2
+Sur le fond, on relèvera tout
+d’abord que si le prévenu a contesté les faits qui lui sont reprochés, la victime
+l’a néanmoins formellement identifié après l’avoir rencontré par hasard
+un an et demi après les faits. On constatera en outre que le prévenu n’a été
+entendu qu’à une reprise et qu’il existe dans son audition des contradictions quant
+au fait qu’il connaissait [...] et qu’il s’y était déjà rendu (PV aud.
+4, R. 4
+« Je
+n’ai jamais été à [...]. Je sais qu’il y a le [...] à [...]. J’allais
+avec le bus de l’institution pour aller là-bas »
+)
+et quant au nombre de femmes avec lesquelles il entretenait des relations sexuelles (PV aud. 4, R. 3
+« L’amour
+avec [...] (…) mais c’est tout. [...], c’est ma fiancée (…). Je fais aussi
+l’amour avec [...]. C’est une amie. (…) Attends, non, je n’ai pas fait l’amour
+avec [...] »
+), tout en
+précisant, s’agissant de ses pratiques sexuelles
+« Je
+vais voir un film porno, je me masturbe et puis c’est tout »
+(PV aud. 4, R. 6). Enfin et surtout, l’acte en cause est grave et constitue un crime. Le fait qu’il
+puisse avoir été commis de surcroît dans un lieu public laisse penser, d’une part,
+que le recourant, qui de manière générale souffre d’épilepsie et qui, spécifiquement
+d’avril à mai 2021, avait eu des comportements agressifs ainsi que des états confusionnels
+(P. 21/3), peut être en proie à des pulsions qu’il ne contrôle pas et, d’autre
+part, qu’il puisse être impliqué dans d’autres infractions, passées ou futures,
+qui sont encore inconnues des autorités de poursuites pénales. Le fait que le soir des faits,
+sa fiancée [...] était hospitalisée à [...] peut également avoir eu des répercussions
+sur son état. Au vu de ces divers éléments, il existe, à ce stade, des soupçons
+suffisants à l’encontre du prévenu, étant relevé que ce n’est que récemment
+que l’instruction, reprise en novembre 2022, a été dirigée contre lui et que d’autres
+mesures d’instruction sont en cours, afin notamment de déterminer si, le soir en question,
+l’intéressé, dont il est admis qu’il n’a pas dormi à l’institution
+durant la nuit du 23 au 24 avril 2021, s’est absenté du domicile de sa mère, lui-même
+ayant affirmé qu’il dormait au moment des faits (PV aud. 4, R. 5).
+Compte tenu de
+la gravité des faits, il est
+évident que l’établissement d’un profil ADN doit permettre de déterminer si
+un lien peut être fait avec d’autres événements, de même qu’examiner
+si un rattachement à la présente affaire peut être établi.
+Les
+déclarations du recourant doivent ainsi être confrontées aux faits matériels, de
+sorte que toutes preuves nécessaires à l’établissement des faits dénoncés
+doivent être administrées.
+Enfin, considérant la gravité des faits et le caractère peu intrusif de la mesure ordonnée,
+l’intérêt public à l’établissement d’un profil ADN l’emporte
+sur l’intérêt privé du recourant au respect de sa liberté personnelle et de
+sa vie privée. Aucune autre mesure moins sévère n’est susceptible d’atteindre
+les mêmes buts. Dans ces conditions, l’ordonnance contestée respecte également le
+principe de la proportionnalité et les conditions posées par l’art. 197 al. 1 CPP sont
+remplies.
+C’est ainsi à juste titre que le Ministère public a ordonné l’établissement
+d’un profil ADN au sens de l’art. 255 CPP.
+2.3.3
+Quant à la question de l’accès au dossier, elle ne fait pas l’objet du litige.
+De toute manière,
+le dossier a été
+adressé en consultation à Me Dutoit le 10 janvier 2023, soit le lendemain du dépôt
+du recours, et reçu en retour au greffe du Ministère public le 13 janvier 2023. Or, le recourant
+n’a pas complété son recours après cette consultation.
+Ce moyen est donc mal fondé et doit être rejeté.
+3.
+Il résulte de ce qui précède
+que le recours, manifestement mal fondé, doit être rejeté sans échange d’écritures
+(art. 390 al. 2 CPP) et l’ordonnance entreprise confirmée.
+La liste des opérations produites par le défenseur d’office du recourant fait état
+d’un temps total consacré à la procédure de recours de 3h30 d’activité
+d’avocat au tarif horaire de 180 francs. Au regard de la nature de la présente cause et du
+mémoire de recours déposé, le temps consacré par l’avocat est excessif. On
+réduira ainsi à 2 heures les opérations liées à la rédaction du recours,
+y compris le temps passé pour l’
+«
+examen
+arrêt CREP »
+, étant
+rappelé que la rédaction de courriers à la Chambre de céans et au client relève
+du travail de secrétariat, non indemnisable, s’agissant de lettres d’accompagnement.
+Ainsi, 2 heures d’activité nécessaire d’avocat seront indemnisées au tarif
+horaire de 180 fr. auxquels il convient d’ajouter des débours forfaitaires à concurrence
+de 2 % des honoraires admis (art. 3bis al. 1 RAJ [règlement du 7 décembre 2010 sur l'assistance
+judiciaire en matière civile ; BLV 211.02.3], applicable par renvoi de l’art. 26b TFIP [tarif
+des frais judiciaires et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]),
+par 7 fr. 20, ainsi que la TVA au taux de 7,7%, par 28 fr. 30, soit à 396 fr. au total en chiffres
+arrondis.
+Vu le sort du recours, les frais de la procédure, constitués en l’espèce de l’émolument
+d'arrêt, par 1'210
+fr. (art. 20 al. 1 TFIP), et des
+frais imputables à la défense d’office d’A.________ (art. 422 al. 1 et 2 let. a
+CPP), arrêtés à 396 fr., seront mis à la charge du recourant, qui succombe (art. 428
+al. 1 CPP).
+Le remboursement à l'Etat de l'indemnité allouée au défenseur d'office du recourant
+ne sera exigible que pour autant que la situation financière de ce dernier le permette (art. 135
+al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 29 décembre
+2022 est confirmée.
+III.
+L’indemnité allouée
+au défenseur d’office d’A.________ est fixée à 396 fr. (trois cent nonante-six
+francs).
+IV.
+L
+es frais d’arrêt, par
+1'210 fr. (mille deux cent dix francs), ainsi que l’indemnité due au défenseur d’office
+du recourant, par 396 fr. (trois cent nonante-six francs), sont mis à la charge d’A.________.
+V.
+Le
+remboursement à l’Etat de l’indemnité allouée au chiffre III ci-dessus ne
+sera exigible que pour autant que la situation financière d’A.________ le permette.
+VI.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Hervé Dutoit, avocat (pour A.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
