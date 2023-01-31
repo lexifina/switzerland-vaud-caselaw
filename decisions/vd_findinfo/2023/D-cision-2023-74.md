@@ -1,0 +1,145 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___74"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 74"
+decided: "2023-01-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9213392"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-383.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-423.md"]
+---
+
+# VD Findinfo Décision / 2023 / 74
+
+## Regeste
+
+AVANCE DE FRAIS, DÉCISION D'IRRECEVABILITÉ | 383 al. 2 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 31.01.2023 Décision / 2023 / 74
+
+AVANCE DE FRAIS, DÉCISION D'IRRECEVABILITÉ | 383 al. 2 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+60
+PE23.000070-ECO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+31 janvier 2023
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mme
+Fonjallaz et M. Perrot, juges
+Greffier
+:              M.
+Valentino
+*****
+Art.
+383 al. 2 CPP
+Statuant sur le recours interjeté le 27 décembre 2022 par
+A.________
+contre l’ordonnance de non-entrée en matière rendue le 13 décembre 2022 par le Procureur
+général dans la cause
+n° PE23.000070-ECO
+,
+la Chambre des recours pénale considère :
+En fait
+et en droit :
+1.
+Par ordonnance du 13 décembre
+2022, le Procureur général a refusé d’entrer en matière sur une plainte pénale
+déposée le 23 novembre 2022 par A.________ à l’encontre du Procureur Q.________
+au motif qu’aucun élément ne permettait d’envisager la commission d’une quelconque
+infraction pénale par ce dernier.
+2.
+Par acte du 23 décembre 2022
+posté le 27 décembre 2022, A.________ a recouru contre cette ordonnance, en concluant implicitement
+à son annulation.
+3.
+Par avis du 6 janvier 2023 envoyé
+sous pli recommandé, la direction de la procédure a imparti à A.________ un délai
+au 26 janvier 2023 pour effectuer un dépôt de 550 fr. à titre de sûretés, avec
+l’indication qu’à défaut de paiement des sûretés en temps utile, il ne
+serait pas entré en matière sur son recours.
+Selon le relevé de suivi des envois de la Poste, le pli recommandé contenant l’avis précité
+a été distribué à son destinataire le 13 janvier 2023.
+4.
+P
+ar
+courrier du 24 janvier 2023, A.________ a répondu à l’avis précité, en déclarant
+notamment que «
+[la]
+demande d’acompte de 550 fr. était contestée et refusée
+»
+et a renvoyé la facture.
+5.
+La direction de la procédure
+de l’autorité de recours peut astreindre la partie plaignante à fournir des sûretés
+dans un délai déterminé pour couvrir les frais et indemnités éventuels (art.
+383 al. 1 CPP). Si les sûretés ne sont pas fournies dans le délai imparti, l’autorité
+de recours n’entre pas en matière sur le recours (art. 383 al. 2 CPP).
+Les sûretés sont réputées fournies dans le délai lorsqu’elles sont remises
+à l’autorité de recours, versées en sa faveur à la poste suisse, ou encore
+débitées d’un compte bancaire ou postal suisse le dernier jour du délai au plus
+tard (cf. 91 al. 1 et 5 CPP ; Calame, in : Jeanneret/Kuhn/Perrier Depeursinge [éd.], Commentaire
+romand, Code de procédure pénale suisse, 2
+e
+éd.,
+Bâle 2019, n. 6 ad art. 383 CPP ; Moreillon/Parein-Reymond, Petit Commentaire CPP, 2
+e
+éd.,
+Bâle 2016, n. 9 ad art. 383 CPP).
+6.
+En l’espèce, le recourant
+n'a pas procédé à l'avance de frais requise dans le délai imparti et n’a pas
+non plus demandé de prolongation ou de restitution du délai. Il n’a pas demandé
+à être mis au bénéfice de l’assistance judiciaire ou à être dispensé
+de l’avance de frais. Le recours est dès lors irrecevable (art. 383 al. 2 CPP ; CREP 27 décembre
+2022/989 et les références citées).
+7.
+Les frais de la procédure
+de recours, constitués en l'espèce du seul émolument d'arrêt, par 330 fr. (art. 422
+al. 1 CPP ; art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010 ; BLV 312.03.1]), seront laissés à la charge de l'Etat (art.
+423 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Les frais d’arrêt, par
+330 fr. (trois cent trente francs), sont laissés à la charge de l’Etat.
+III.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. A.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur général,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
