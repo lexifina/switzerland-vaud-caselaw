@@ -1,0 +1,302 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___92"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 92"
+decided: "2023-02-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9240385"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-368.md", "switzerland/bund/acts/312.0/art-369.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/351.1/art-001.md"]
+---
+
+# VD Findinfo Décision / 2023 / 92
+
+## Regeste
+
+JUGEMENT PAR DÉFAUT, REJET DE LA DEMANDE | 368 al. 3 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 08.02.2023 Décision / 2023 / 92
+
+JUGEMENT PAR DÉFAUT, REJET DE LA DEMANDE | 368 al. 3 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+98
+PE15.006072-DSO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+8 février 2023
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mme
+Fonjallaz et M. Krieger, juges
+Greffière
+:              Mme
+von Wurstemberger
+*****
+Art.
+7 CEEJ ; 368 al. 3 CPP
+Statuant sur le recours interjeté le 25 janvier 2023 par
+H.________
+contre le prononcé rendu le 23 janvier 2023 par le Tribunal d’arrondissement de La Côte
+dans la cause
+n° PE15.006072-DSO
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+H.________ a fait l’objet d’une instruction pénale ouverte le 28 mars 2015, étendue
+à son encontre le 1
+er
+décembre 2015, par le Ministère public de l’arrondissement de La Côte pour avoir
+participé à un brigandage qualifié commis le 27 mars 2015 vers [...] au [...] à
+[...].
+b)
+Par jugement rendu par défaut le 12 mars 2021, dont le dispositif a été envoyé
+pour notification le lendemain (P. 374), le Tribunal criminel de l’arrondissement de La Côte
+a libéré H.________ du chef de prévention de contravention à la loi fédérale
+sur les stupéfiants (I), a constaté qu’il s’était rendu coupable de brigandage
+qualifié, de dénonciation calomnieuse, d’infraction à la loi fédérale
+sur les étrangers, de conduite d’un véhicule automobile sans autorisation et de circulation
+sans assurance responsabilité civile (II), l’a condamné à une peine privative de
+liberté de cinq ans et 25 jours, sous déduction de 206 jours de détention provisoire,
+étant précisé que huit jours supplémentaires étaient déduits de la peine
+prononcée à titre de réparation pour le tort moral suite à la détention provisoire
+subie pendant seize jours dans des conditions illicites (III), a dit que la peine privative de liberté
+prononcée sous chiffre III ci-dessus à l’encontre de H.________ était complémentaire
+à celles prononcées le 8 juillet 2015 par le Ministère public du canton de Genève,
+le 22 septembre 2015 par le Ministère public du canton de Genève et le 15 avril 2019 par la
+Chambre pénale d’appel et de révision du canton de Genève (IV), a dit que H.________
+était débiteur de [...], solidairement avec [...], [...] et [...], et lui devait immédiat
+paiement de la somme de 10’000 fr. à titre de réparation du tort moral (V), a dit
+que H.________ était débiteur de [...], solidairement avec [...], [...] et [...], et lui devait
+immédiat paiement de la somme de 10’000 fr. à titre de réparation du tort moral
+(VI), a arrêté l’indemnité due au conseil juridique gratuit de [...], Me Alain
+Brogli, à un montant de 548 fr. 05, débours et TVA compris (VII), a arrêté
+l’indemnité due au conseil juridique gratuit de [...], Me Alain Brogli, à un montant
+de 548 fr. 05, débours et TVA compris (VIII), a arrêté l’indemnité
+due au défenseur d’office de H.________, Me Xavier Oulevey, à un montant de 20’859 fr. 10,
+débours et TVA compris (IX), a mis les frais de procédure à hauteur de 50’459 fr. 95
+à la charge de H.________, montant comprenant l’indemnité de son défenseur d’office
+fixée sous chiffre IX ci-dessus (X), et a dit que H.________ n’était tenu de rembourser
+à l’Etat l’indemnité allouée à son défenseur d’office arrêtée
+sous chiffre IX ci-dessus que si sa situation financière le permettait (XI).
+Le dispositif de ce jugement a été envoyé pour notification au condamné à l’adresse
+en Espagne que son défenseur d’office avait indiquée, sous pli recommandé, réceptionné
+le 29 mars 2021, selon l’accusé de réception figurant au dossier.
+c)
+Par courrier du 13 janvier 2023, H.________, par Me Xavier Oulevey, conseil de choix muni d’une
+procuration, a requis qu’un nouveau jugement soit rendu, conformément à l’art.
+368 CPP (Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0). Il a exposé
+ne pas avoir pu être présent à l’audience de jugement car il était en [...]
+et que les restrictions sanitaires en vigueur au moment du jugement l’empêchaient de sortir
+de ladite région. En outre, il a invoqué que ses papiers d’identité étaient
+échus depuis mi-2020, mais qu’en raison de la crise sanitaire, il n’était plus
+possible d’obtenir de rendez-vous auprès de la police des étrangers pour pouvoir obtenir
+leur renouvellement. Ce n’est qu’à mi-mars 2021 qu’il avait pu faire la démarche,
+mais l’audience avait déjà eu lieu quelques jours auparavant. Finalement, il a exposé
+ne pas avoir les ressources financières pour effectuer le trajet, compte tenu de la crise liée
+à la situation sanitaire (P. 379).
+B.
+Par prononcé du 23 janvier 2023, le Président
+du Tribunal d’arrondissement de La Côte a déclaré irrecevable la demande de nouveau
+jugement déposée par H.________ en date du 13 janvier 2023 (I), a déclaré la
+requête de désignation d’un défenseur d’office sans objet (II) et a mis les
+frais de la décision arrêtés à 200 fr. à la charge de H.________ (III).
+Le premier juge a relevé que H.________ avait réceptionné le dispositif du jugement en
+date du 29 mars 2021 et que, conformément à l’art. 368 CPP, la troisième page
+du dispositif mentionnait expressément la voie du nouveau jugement et la voie de l’appel.
+Il a considéré que l’intéressé avait donc personnellement pris connaissance,
+en date du 29 mars 2021, du jugement par défaut et de son droit de demander un nouveau jugement
+dans un délai de dix jours dès la réception du dispositif ; dès lors que le
+délai de demande de nouveau jugement courait jusqu’au 8 avril 2021, sa demande de nouveau
+jugement déposée le 13 janvier 2023 était manifestement et très largement tardive
+et devait par conséquent être déclarée irrecevable. Il a indiqué que la requête
+de désignation d’un conseil d’office de l’intéressé devenait ainsi sans
+objet et a mis les frais de la décision, par 200 fr., à la charge de H.________.
+C.
+Par acte du 25 janvier 2023, H.________ a recouru
+en son propre nom contre ce prononcé en concluant, avec suite de frais et dépens, principalement
+à son annulation et à l’admission de sa demande de nouveau jugement du 13 janvier
+2023. Subsidiairement, il a conclu à son annulation et au renvoi de la cause au Président du
+Tribunal d’arrondissement de La Côte pour nouvelle décision. Il a également requis,
+si la Chambre des recours l’estimait nécessaire, la désignation de Me Xavier Oulevey
+en qualité de conseil d’office.
+En droit
+:
+1.
+1.1
+Le prononcé par lequel un tribunal de première instance statue sur la validité d’une
+demande de nouveau jugement formée par le prévenu est susceptible de recours selon les art.
+393 ss CPP (TF 6B_808/2013 du 19 mai 2014 consid. 1.1 et les réf. cit. ; Parein/Parein-Reymond/Thalmann,
+in
+:
+Jeanneret/Kuhn/Perrier Depeursinge [édit.], Commentaire romand, Code de procédure pénale
+suisse [ci-après : CR CPP], 2
+e
+éd.,
+Bâle 2019, n. 12 ad art. 368 CPP ; Maurer,
+in
+:
+Niggli/ Heer/Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung,
+Art. 196-457 StPO – Art. 1-54 JStPO, 2
+e
+éd.,
+Bâle 2014, n. 16 ad art. 368 CPP ; CREP 24 mai 2022/362 ; CREP 17 août 2012/496).
+1.2
+Dirigé contre le prononcé rendu le 23 janvier 2023 par le Président du Tribunal de l’arrondissement
+de La Côte, le recours, déposé en temps utile par le condamné qui a qualité
+pour recourir (art. 382 al. 1 CPP) et satisfaisant aux conditions de forme (art. 385 al. 1 CPP),
+est recevable.
+2.
+2.1
+Le recourant conteste avoir reçu le pli contenant le jugement rendu par défaut à son encontre
+le 29 mars 2021. Il soutient ignorer si cette décision lui a été valablement notifiée
+et, cas échéant, à qui elle aurait été notifiée.
+2.2
+2.2.1
+L’art. 368 CPP, relatif à la demande
+de nouveau jugement, dispose que si le jugement rendu par défaut peut être notifié personnellement
+au condamné, celui-ci doit être informé sur son droit de demander un nouveau jugement
+au tribunal dans les dix jours, par écrit ou oralement (al. 1) ; dans sa demande, le condamné
+expose brièvement les raisons qui l’ont empêché de participer aux débats (al.
+2) ; le tribunal rejette la demande lorsque le condamné, dûment cité, a fait défaut
+aux débats – c’est-à-dire aux débats qui ont conduit à son jugement par
+défaut, le défaut aux nouveaux débats fixés ensuite de la demande de nouveau jugement
+étant quant à lui régi par l’art. 369 al. 4 CPP – sans excuse valable (al.
+3). Selon l’art. 369 al. 1 CPP, s’il apparaît vraisemblable que les conditions permettant
+de rendre un nouveau jugement sont réunies, la direction de la procédure fixe de nouveaux débats,
+lors desquels le tribunal statue sur la demande du condamné et rend, le cas échéant, un
+nouveau jugement.
+2.2.2
+L’entraide judiciaire entre l’Espagne et la Confédération suisse est prioritairement
+régie par la Convention européenne d’entraide judiciaire en matière pénale
+(CEEJ ; RS 0.351.1), entrée en vigueur pour la Suisse le 20 mars 1967 et pour l’Espagne
+le 16 novembre 1982. La CEEJ a été complétée par le Deuxième Protocole additionnel
+à la Convention d’entraide judiciaire en matière pénale (RS 0.352.12) entré
+en vigueur le 1
+er
+février
+2005 pour la Suisse et le 1
+er
+juillet
+2018 pour l’Espagne (cf. TF 6B_730/2021 du 20 août 2021 consid. 1.3). Les art. 48
+ss de la Convention d’application de l’Accord de Schengen du 14 juin 1985 (CAAS ; n°CELEX
+42000A0922[02] ; JO L 239 du 22 septembre 2000, p. 19-62) s’appliquent également
+à l’entraide pénale entre la Suisse et l’Espagne.
+Les dispositions de ces traités l’emportent sur le droit autonome qui régit la matière,
+soit en l’occurrence la loi fédérale sur l'entraide internationale en matière pénale
+(EIMP ; RS 351.1) et son ordonnance d’exécution (OEIMP ; RS 351.11). Celles-ci
+restent toutefois applicables aux questions qui ne sont pas réglées, explicitement ou implicitement,
+par les dispositions conventionnelles (art. 1 al. 1 EIMP), ainsi que lorsqu’elles permettent l’octroi
+de l’entraide à des conditions plus favorables (ATF 145 IV 294 consid. 2.1 ; ATF
+137 IV 33 consid. 2.2.2). Le respect des droits fondamentaux est réservé (ATF 145 IV 294 précité
+consid. 2.1 ; ATF 135 IV 212 consid. 2.3).
+2.2.3
+L’art. 7 CEEJ prévoit que la Partie requise procédera à la remise des actes de procédure
+et des décisions judiciaires qui lui seront envoyés à cette fin par la Partie requérante.
+Cette remise pourra être effectuée par simple transmission de l’acte ou de la décision
+au destinataire. Si la Partie requérante le demande expressément, la Partie requise effectuera
+la remise dans une des formes prévues par sa législation pour les significations analogues
+ou dans une forme spéciale compatible avec cette législation (ch. 1). La preuve de la remise
+se fera au moyen d’un récépissé daté et signé par le destinataire ou d’une
+déclaration de la Partie requise constatant le fait, la forme et la date de la remise. L’un
+ou l’autre de ces documents sera immédiatement transmis à la Partie requérante.
+Sur demande de cette dernière, la Partie requise précisera si la remise a été faite
+conformément à sa loi. Si la remise n’a pu se faire, la Partie requise en fera connaître
+immédiatement le motif à la Partie requérante (ch. 2). Selon l’art. 16 ch. 1 du
+Deuxième Protocole additionnel à la Convention européenne d’entraide judiciaire
+en matière pénale, les autorités judiciaires compétentes de toute partie peuvent
+envoyer directement, par voie postale, des actes de procédure et des décisions judiciaires,
+aux personnes qui se trouvent sur le territoire de toute autre partie.
+2.3
+En l’espèce, conformément aux dispositions précitées, l’Espagne autorise
+la notification directe, par voie postale, des actes de procédure et des décisions judiciaires.
+Dans la mesure où celui-ci le conteste, il y a lieu de déterminer si le jugement par défaut
+du 12 mars 2021 a été valablement notifié au recourant (P. 374).
+Le dispositif du jugement par défaut rendu le 12 mars 2021 a été envoyé pour
+notification à H.________ à son adresse sise à [...] en Espagne, adresse qu’il avait
+indiquée au tribunal par son avocat d’office le 28 décembre 2020 (P. 366). Le pli
+a été envoyé en recommandé avec accusé de réception (P. 374). Il ressort
+dudit accusé de réception que ce pli a été distribué à son destinataire
+le 29 mars 2021. En effet, l’accusé de réception porte le sceau postal de la ville de
+[...], avec mention du 29 mars 2021 (P. 374). En outre, le recourant ne prétend pas qu’il
+ne s’agirait pas de son adresse ou de sa signature. Enfin, à son pied, le dispositif du jugement
+indiquait qu’une demande de nouveau jugement devait être déposée dans un délai
+de dix jours, de sorte que le recourant avait connaissance du délai dans lequel il lui appartenait
+d’agir. Dans ces circonstances, c’est à tort que le recourant soutient n’avoir
+pas reçu le dispositif du jugement le 29 mars 2021. Déposée le 13 janvier 2023, la
+demande de nouveau jugement est ainsi tardive.
+3.
+En définitive, le recours, manifestement mal fondé, doit être rejeté, sans échange
+d’écritures (art. 390 al. 2 CPP), et le prononcé confirmé.
+Le recourant déclare «
+souhaiter
+»,
+et ce si la Chambre des recours pénale l’estime nécessaire, que Me Xavier Oulevey
+lui soit désigné «
+en
+tant que conseil d’office dans la présente affaire
+».
+On peut se demander si un tel souhait, formulé de manière conditionnelle, doit être considéré
+comme une requête recevable. Cette question peut reste indécise dès lors que la désignation
+d’un conseil d’office pour la procédure de recours à ce stade – soit alors
+que le recours a déjà été déposé par le recourant – serait sans portée.
+Au demeurant, le recourant ne fait pas valoir que la cause présentait des difficultés qu’il
+ne pouvait surmonter seul, et il apparaît qu’il a été en mesure de faire valoir
+seul la circonstance factuelle selon laquelle il n’avait pas reçu, le 29 mars 2021, le dispositif
+du jugement rendu par défaut. A supposer recevable et ayant encore un objet, la requête tendant
+à la désignation de Me Xavier Oulevey en tant que défenseur d’office devrait
+donc être rejetée.
+Les frais de la procédure de recours, constitués en l’espèce du seul l’émolument
+d’arrêt, par 770 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; RSV 312.03.1]), seront mis à la charge du
+recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé du 23 janvier 2023 est confirmé.
+III.
+La requête tendant à la désignation de Me Xavier Oulevey en tant que défenseur
+d’office pour la procédure de recours est rejetée dans la mesure où elle est recevable.
+IV.
+Les frais d’arrêt, par 770 fr.
+(sept cent septante francs), sont mis à la charge de H.________.
+V.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l’envoi d’une copie complète, à :
+-
+M. H.________,
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Président du Tribunal d’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l’objet d’un recours en matière pénale devant
+le Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l’expédition complète (art. 100 al.
+1
+LTF).
+La greffière :
