@@ -1,0 +1,201 @@
+---
+decision_id: "vd_findinfo_T._arb._11_20_-_1_2023___________"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "T. arb. 11/20 - 1/2023"
+decided: "2023-02-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9230353"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-241.md"]
+---
+
+# VD Findinfo T. arb. 11/20 - 1/2023
+
+## Regeste
+
+TRANSACTION{ACCORD} | 109 LPA-VD, 116 LPA-VD, 94 al. 1 let. c LPA-VD, 241 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Tribunal arbitral 13.02.2023 T. arb. 11/20 - 1/2023
+ 
+
+TRANSACTION{ACCORD} | 109 LPA-VD, 116 LPA-VD, 94 al. 1 let. c LPA-VD, 241 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+ZK20.025517
+T. arb. 11/20
+- 1/2023
+TRIBUNAL
+ARBITRAL DES ASSURANCES
+__________________________________________________
+Jugement du
+13 février 2023
+__________________
+Composition
+:               M.
+MÉtral
+,
+président
+Greffière
+:              Mme
+Toth
+*****
+Cause
+pendante entre :
+1.
+S.________
+,
+à [...], demanderesse,
+2.
+U.________
+,
+à [...], demanderesse,
+3.
+Z.________
+,
+à [...], demanderesse,
+4.
+W.________
+,
+à [...], demanderesse,
+5.
+F.________
+,
+à [...], demanderesse,
+6.
+Y.________
+,
+à [...], demanderesse,
+7.
+O.________
+,
+à [...], demanderesse,
+8.
+B.________
+,
+à [...], demanderesse,
+9.
+L.________
+,
+à [...], demanderesse,
+10.
+A.________
+,
+à [...], demanderesse,
+11.
+T.________
+,
+à [...], demanderesse,
+12.
+D.________
+,
+à [...], demanderesse,
+13.
+I.________
+,
+au [...], demanderesse,
+14.
+J.________
+,
+à [...], demanderesse,
+15.
+G.________
+,
+à [...], demanderesse,
+16.
+C.________
+,
+à [...], demanderesse,
+17.
+N.________
+,
+à [...], demanderesse,
+18.
+X.________
+,
+à [...], demanderesse,
+19.
+P.________
+,
+à [...], demanderesse,
+20.
+Q.________
+,
+à [...], demanderesse,
+toutes
+représentées par santésuisse, à Soleure, et agissant par Me Valentin Schumacher,
+avocat à Fribourg,
+et
+H.________
+,
+à [...], défendeur, représenté par Me Flore Primault, avocate à Lausanne.
+_______________
+Art.
+241 CPC ; art. 94 al. 1 let. c, 109 et 116 LPA-VD.
+Considérant
+en fait et en droit :
+Que
+par acte du 3 juillet 2020, S.________
+et consorts, agissant par santésuisse, ont saisi le Tribunal arbitral des assurances du canton de
+Vaud d’une action en paiement d’un montant de 147'232 fr. pour l’année statistique
+2018 dirigée contre H.________ (ci-après : le défendeur),
+que, par réponse du 6 avril 2021, le défendeur, représenté par Me Flore Primault,
+a conclu principalement à l’irrecevabilité de la demande, subsidiairement à son
+rejet,
+que les parties ont comparu à l’audience de conciliation du 6 décembre 2022, lors
+de laquelle la tentative de conciliation n’a pas abouti,
+que les parties ont néanmoins convenu de poursuivre leurs discussions transactionnelles et ont été
+invitées à informer le président quant à un éventuel accord transactionnel d’ici
+au 16 décembre 2022,
+que par courriers du 16 décembre 2022, les parties ont informé le Tribunal qu’un
+accord transactionnel avait été trouvé et qu’elles lui feraient parvenir une convention
+pour ratification dans les meilleurs délais,
+que par ordonnance du 21 décembre 2022, la cause a été suspendue jusqu’au 31 janvier
+2023,
+que le 25 janvier 2023, le défendeur a produit une transaction signée par les parties
+les 12 et 19 janvier 2023, en requérant sa ratification par le Tribunal pour valoir jugement,
+que la transaction ne paraît violer aucune disposition impérative, de sorte qu’il convient
+d’en prendre acte, de l’annexer au présent jugement pour en avoir les effets et de radier
+la cause du rôle (art. 241 CPC [Code de procédure civile du 19 décembre 2008 ; RS 272],
+par renvoi des art. 109 al. 2 et 116 LPA-VD [loi cantonale vaudoise du 28 octobre 2008 sur la procédure
+administrative ; BLV 173.36]),
+qu'il n'y a pas lieu d'allouer de dépens, conformément à la transaction passée entre
+les parties, et qu'il convient de renoncer à la perception de frais de justice, dans la mesure où
+la transaction a été passée dans les suites immédiates de l’audience de conciliation
+du 6 décembre 2022,
+qu’il est statué selon la procédure prévue par l’art. 94 al. 1 let. c LPA-VD
+(applicable par renvoi des art. 109 al. 1 et 116 LPA-VD).
+Par
+ces motifs,
+le
+Tribunal arbitral des assurances
+prononce :
+I.
+Il est pris acte de la transaction passée entre les parties les 12 et 19 janvier 2023, qui
+est annexée au présent jugement pour en avoir les effets.
+II.
+La cause est rayée du rôle.
+III.
+Il n’est pas perçu de frais judiciaires, ni alloué de dépens.
+Le
+président :
+La greffière :
+Du
+Le jugement qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+‑
+Me Valentin Schumacher (pour les demanderesses),
+‑
+Me Flore Primault (pour H.________),
+-
+Office fédéral de la santé publique,
+par
+l'envoi de photocopies.
+Le présent jugement peut faire l'objet d'un recours en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
