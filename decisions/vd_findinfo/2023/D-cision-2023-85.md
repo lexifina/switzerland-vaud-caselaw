@@ -1,0 +1,168 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___85"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 85"
+decided: "2023-02-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9216695"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-383.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-423.md"]
+---
+
+# VD Findinfo Décision / 2023 / 85
+
+## Regeste
+
+SÛRETÉS, FICTION DE LA NOTIFICATION, DÉCISION D'IRRECEVABILITÉ | 383 al. 2 CPP (CH), 85 al. 4 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 13.02.2023 Décision / 2023 / 85
+
+SÛRETÉS, FICTION DE LA NOTIFICATION, DÉCISION D'IRRECEVABILITÉ | 383 al. 2 CPP (CH), 85 al. 4 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+83
+PE22.023551-OJO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+13 février 2023
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+M.
+Perrot et Mme Courbat, juges
+Greffier
+:              M.
+Glauser
+*****
+Art.
+85 al. 4 let. a et 383 al. 2 CPP
+Statuant sur le recours interjeté le 16 janvier 2023 par
+H.________
+contre l’ordonnance rendue le 30 décembre 2022 par le Ministère public de l’arrondissement
+de l’Est vaudois dans la cause
+n° PE22.023551-OJO
+,
+la Chambre des recours pénale considère :
+En fait
+et en droit :
+1.
+Par ordonnance du 30 décembre 2022, le Ministère public de l’arrondissement de l’Est
+vaudois a refusé d’entrer en matière sur une plainte déposée le 12 décembre
+2022 par H.________ contre [...] et [...] (I) et a laissé les frais à la charge de l’Etat
+(II).
+2.
+Par acte du 16 janvier 2023, H.________ a recouru
+contre cette ordonnance, en concluant implicitement à son annulation.
+3.
+Par avis du 19 janvier 2023 envoyé sous pli
+recommandé, la direction de la procédure a imparti à H.________ un délai au 8 février
+2023 pour effectuer un dépôt de 550 fr. à titre de sûretés, avec l’indication
+qu’à défaut de paiement des sûretés en temps utile, il ne serait pas entré
+en matière sur le recours.
+Le pli recommandé contenant cet avis est venu en retour avec la mention « non réclamé »
+et, sur le relevé de suivi des envois de la Poste, à la date du 28 janvier 2023, figure la
+mention « retourné conformément aux instructions ».
+Le versement des sûretés n’a pas été effectué dans le délai imparti.
+4.
+La direction de la procédure de l’autorité
+de recours peut astreindre la partie plaignante à fournir des sûretés dans un délai
+déterminé pour couvrir les frais et indemnités éventuels (art. 383 al. 1 CPP [Code
+de procédure pénale suisse du
+5
+octobre 2007; RS 312.0]). Si les sûretés ne sont pas fournies dans le délai imparti, l’autorité
+de recours n’entre pas en matière sur le recours (art. 383 al. 2 CPP).
+Les sûretés
+sont réputées fournies dans le délai lorsqu’elles sont remises à l’autorité
+de recours, versées en sa faveur à la poste suisse, ou encore débitées d’un
+compte bancaire ou postal suisse le dernier jour du délai au plus tard (cf. 91 al. 1 et 5 CPP ;
+Calame, in : Jeanneret/Kuhn/Perrier Depeursinge [éd.], Commentaire romand, Code de procédure
+pénale suisse, 2
+e
+éd., Bâle 2019, n. 6 ad art. 383 CPP ; Moreillon/Parein-Reymond, Petit Commentaire CPP, 2
+e
+éd., Bâle 2016, n. 9 ad art. 383 CPP).
+5.
+Selon l’art. 85 al. 4 CPP, un prononcé
+est réputé notifié lorsque, expédié par lettre signature, il n’a pas été
+retiré dans les sept jours à compter de la tentative de remise infructueuse de remise du pli,
+si la personne concernée devait s’attendre à une telle remise. La personne concernée
+ne doit s’attendre à la remise d’un prononcé que lorsqu’il y a une procédure
+en cours qui impose aux parties de se comporter conformément aux règles de la bonne foi, à
+savoir de faire en sorte, entre autres, que les décisions relatives à la procédure puissent
+leur être notifiées
+(ATF 146 IV
+30 consid. 1.1.2). Le devoir procédural d’avoir à s’attendre avec une certaine
+vraisemblance à recevoir la notification d’un acte officiel naît avec l’ouverture
+d’un procès et vaut pendant toute la durée de la procédure (ATF 146 IV 30 précité
+; ATF 130 III 396 consid. 1.2.3). De jurisprudence constante, celui qui se sait partie à une procédure
+judiciaire et qui doit dès lors s’attendre à recevoir notification d’actes du juge
+est tenu de relever son courrier ou, s’il s’absente de son domicile, de prendre des dispositions
+pour que celui-ci lui parvienne néanmoins. A défaut, il est réputé avoir eu, à
+l’échéance du délai de garde, connaissance du contenu des plis recommandés
+que le juge lui adresse. Une telle obligation signifie que le destinataire doit, le cas échéant,
+désigner un représentant, faire suivre son courrier, informer les autorités de son absence
+ou leur indiquer une adresse de notification (ATF 146 IV 30 consid. 1.1.2 ; ATF 141 II 429 consid. 3.1
+; ATF 139 IV 228 consid. 1.1 et les références citées).
+6.
+En l’espèce, le pli recommandé contenant l'avis du 19 janvier 2023 impartissant à
+la recourante un délai au 8 février 2023 pour effectuer l’avance de frais a été
+adressé à cette dernière à l’adresse en Suisse indiquée sur l’acte
+de recours, adresse au demeurant utilisée au cours de la procédure devant le Ministère
+public (cf. notamment P. 5). Ce pli a été retourné avec la mention « non réclamé »
+et il y a lieu de considérer, conformément à la fiction de notification prévue à
+l’art. 85 al. 4 let. a CPP, que la recourante a pris connaissance de ce pli le 28 janvier 2023,
+dernier jour du délai de garde postal. En effet, ayant déposé plainte pénale et reçu
+une ordonnance pénale contre laquelle elle a recouru, l’intéressée se savait partie
+à une procédure et devait donc s’attendre à la remise d’actes de l’autorité.
+Dès lors que la recourante n'a pas répondu à l’avis précité ni n’a
+procédé au dépôt des sûretés requises dans le délai imparti, le recours
+doit être déclaré irrecevable
+(art.
+383 al. 2 CPP ; CREP 27 décembre 2022/989 et les références citées).
+7.
+Les frais de la procédure
+de recours, constitués en l'espèce du seul émolument d'arrêt, par 440 fr. (art. 422
+al. 1 CPP ; art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010 ; BLV 312.03.1]), seront laissés à la charge de l'Etat (art.
+423 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Les frais d’arrêt, par 440 fr. (quatre cent quarante francs), sont laissés à la
+charge de l’Etat.
+III.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Mme H.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement de l’Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
