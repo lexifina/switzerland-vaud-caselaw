@@ -1,0 +1,471 @@
+---
+decision_id: "vd_findinfo_Plainte___2023___8"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2023 / 8"
+decided: "2023-02-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9221707"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-142.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-031.md", "switzerland/bund/acts/281.1/art-120.md", "switzerland/bund/acts/281.1/art-122.md", "switzerland/bund/acts/281.1/art-123.md", "switzerland/bund/acts/281.1/art-260.md"]
+---
+
+# VD Findinfo Plainte / 2023 / 8
+
+## Regeste
+
+SURSIS À LA RÉALISATION, ADJUDICATAIRE{ENCHÈRES} | 120 LP, 123 LP, 125 LP, 126 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 14.02.2023 Plainte / 2023 / 8
+
+SURSIS À LA RÉALISATION, ADJUDICATAIRE{ENCHÈRES} | 120 LP, 123 LP, 125 LP, 126 LP
+
+TRIBUNAL
+CANTONAL
+FA22.004013-220856
+7
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+14 février 2023
+____________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Giroud Walther, juges
+Greffier
+:
+Mme              Umulisa Musaby
+*****
+Art.
+18 al. 1, 123 al. 1 et 125 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+T.________Sàrl
+,
+à Montreux, contre la décision rendue le 28 juin 2022, à la suite de l’audience
+du 5 avril 2022, par la Présidente du Tribunal d’arrondissement de l'Est vaudois, autorité
+inférieure de surveillance, dans la cause la divisant d'avec l'
+OFFICE
+DES POURSUITES DU DISTRICT DE LA RIVIERA- PAYS-D'ENHAUT
+et
+B.H.________
+,
+à Clarens.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+1.1
+La société T.________Sàrl a été déclarée en faillite avec effet au
+3 décembre 2019 à 12h00. La procédure de faillite, suspendue faute d'actif, a été
+clôturée le 24 juin 2020. La radiation de la société du registre du commerce a été
+reportée afin que celle-ci puisse faire valoir ses droits dans diverses procédures judiciaires.
+B.I.________ et [...] en sont associées-gérantes avec signature individuelle.
+1.2
+Le 30 novembre 2020, l’Office des poursuites de la Riviera-Pays-d’Enhaut (ci-après :
+l’office) a reçu une réquisition de poursuite émanant de feu A.H.________, décédé
+le 30 novembre 2020, et B.H.________, à l’encontre de T.________Sàrl en liquidation (ci-après :
+la plaignante ou la recourante), pour un montant de 31'625 fr. 20, frais et intérêts
+en sus.
+Un commandement de payer n° 9799124
+a été notifié le 29 décembre 2020 à la plaignante, qui a formé
+opposition totale le même jour.
+Le 11 mai 2021, B.H.________ et les autres membres
+de l'hoirie H.________ (ci-après : les créanciers) ont adressé une réquisition
+de continuer la poursuite, accompagnée du prononcé de mainlevée définitive rendu
+le 12 avril 2021 par le Juge de paix du district de la Riviera-Pays-d’Enhaut.
+Un avis de saisie en lien avec la poursuite précitée
+a été adressé le 12 mai 2021 à la plaignante. Le procès-verbal de saisie
+a été adressé aux parties en date du 8 octobre 2021.
+Les biens saisis se composaient de quatre créances détenues par la plaignante à l’encontre
+de B.H.________ et les hoirs H.________, objet de procédures pendantes devant le Tribunal des baux,
+dont le montant s’élevait au total à 158'414 fr. 40, mais qui ont été estimées
+par l’office au 10% de leur valeur, soit à 15'840 fr. 54.
+Le 28 octobre 2021, les créanciers ont adressé
+à l’office une réquisition de vente. L’avis de réception de la réquisition
+précitée a été adressé le 18 novembre 2021 à la plaignante.
+Le 17 décembre 2021, l’office a adressé l’avis de vente aux parties, indiquant
+que la vente des créances aurait lieu le 3 février 2022.
+L’avis de vente aux enchères publiques a été publié le 11 janvier 2022
+dans la Feuille des avis officiels du canton de Vaud, et dans quatre journaux entre les 12 et 14 janvier 2022.
+1.3
+Le 17 janvier 2022, la plaignante a déposé auprès de l’office une demande de sursis
+au sens de l’art. 123 LP (loi fédérale sur la poursuite pour dettes et la faillite ;
+RS 281.1).
+Par avis du 19 janvier 2022, l’office a indiqué au mandataire de la plaignante les conditions
+à remplir, les démarches à effectuer et les montants à verser afin de pouvoir bénéficier
+dudit sursis, exposant notamment ce qui suit :
+« Dès
+lors, afin de statuer sur la demande de sursis à la réalisation au sens de l’art. 123
+LP, votre mandante est invitée à :
+1. Rendre
+vraisemblable, dans un délai échéant le 27 janvier 2022, qu’elle peut s’acquitter
+par acompte du montant de la poursuite citée en marge s’élevant à fr. 37'303.40
+(valeur 04.02.2023), en douze mois une fois le premier versement effectué, en produisant immédiatement
+ses moyens de preuve, ce d’autant plus qu’elle est sous le coup d’actes de défaut
+de biens ;
+2. Effectuer
+à l’office un premier versement de fr. 3'000.00, lequel devra avoir été crédité
+sur le compte postal de l’office avant le début des enchères (IBAN [...]).
+3. Verser
+à l’office le montant des frais occasionnés par les préparatifs de la vente aux
+enchères évalués à fr. 5'000.00, lequel devra avoir été crédité
+sur le compte postal de l’office avant le début des enchères (IBAN [...]) ».
+Par courrier du 20 janvier 2022, l’office a rappelé au conseil de la plaignante les conditions
+de vente figurant dans l’avis de vente aux enchères publiques, à savoir : « Vente
+sans aucune garantie de la part de l’office, au plus offrant et à tout prix, surenchères
+minimales de Fr. 1'000.00, acompte de Fr. 10'000.00 payable en espèces avant que l’adjudication
+ne soit prononcée, solde du prix de vente à verser d’ici le 23 février 2022. ».
+L’office a précisé qu’en cas d’adjudication aux poursuivants, ceux-ci pourraient
+être dispensés au moment des enchères du versement des acomptes en vertu du principe de
+compensation.
+Par courrier du 27 janvier 2022, la plaignante a annoncé à l’office que les fonds nécessaires
+au sursis seraient avancés par la société I.________Sàrl. Elle a en outre précisé
+s’être acquittée récemment, par l’intermédiaire de la société
+I.________Sàrl, d’une avance de frais de 15'750 fr. dans le cadre d’une procédure
+en droit du bail, ce qu’elle estimait propre à rendre vraisemblable sa capacité à
+respecter les délais imposés par l’office pour le remboursement de la poursuite litigieuse.
+La plaignante exposait par ailleurs que A.I.________ avait été testé positif au Covid-19
+et que l’ensemble de la famille I.________, dont B.I.________, associée gérante d’I.________Sàrl,
+se trouvait en quarantaine, ce qui empêchait dite société de réunir l’entier
+du montant de 8'000 fr. réclamé par l’office pour une semaine au moins. Elle offrait
+par conséquent le paiement immédiat d’un montant de 4'000 fr. et l’ajout de 1'000
+fr. sur les quatre premières mensualités à verser pour le remboursement de la poursuite.
+Par courrier du 28 janvier 2022, l’office a indiqué à la plaignante que les conditions
+pour l’obtention du sursis telles que précisées dans son courrier du 19 janvier
+2022 n’étaient manifestement pas remplies, « les deux seuls documents produits,
+à savoir une copie d’une lettre du 5 octobre 2021 du Tribunal des baux et une photocopie d’un
+SMS dont on ignore la date et le destinataire n’[ayant] aucune pertinence, étant relevé
+que la preuve de paiement d’une avance de frais d’un montant de fr. 15'750.00 n’était
+pas jointe [au] courrier [du 27 janvier 2022] ». L’office a en outre relevé que
+la contre-proposition formulée par la plaignante ne couvrait même pas les frais occasionnés
+par les préparatifs de la vente aux enchères, évalués à 5'000 francs.
+Par courrier du 1
+er
+février 2022, la plaignante a renouvelé sa demande d’octroi du sursis, indiquant que
+les fonds seraient avancés par la société I.a.________Sàrl, selon attestation de
+ladite société. Elle indiquait que le premier versement à effectuer avant la vente aux
+enchères, de 8'000 fr., serait versé à réception de l’octroi du sursis
+requis. Elle joignait à son courrier une confirmation relative au paiement de 15'750 fr. à
+titre d’avance de frais depuis le compte de l’Etude du mandataire de la plaignante.
+1.4
+Par courrier du 2 février 2022, l’office a indiqué ne pouvoir mettre la plaignante au
+bénéfice d’un sursis au sens de l’art. 123 LP, précisant tout ignorer de la
+capacité financière de la plaignante, ainsi que des sociétés I.________Sàrl
+et I.a.________Sàrl, tout en relevant que les extraits du registre des poursuites des sociétés
+précitées faisaient état de poursuites pour des montants conséquents, soit plus de
+48'000 fr. pour I.________Sàrl et plus de 670'000 fr. pour I.a.________Sàrl, dont 45 actes
+de défaut de biens pour 341'740 francs 05.
+Le même jour, la plaignante a réitéré sa proposition du 1
+er
+février 2022, sans apporter d’éléments nouveaux.
+1.5
+Le 2 février 2022, la plaignante a déposé
+une plainte LP, concluant, principalement, à la réforme de la décision du 2 février
+2022 en ce sens que le sursis requis selon l'art. 123 LP était octroyé moyennant un versement
+de 8'000 francs. Subsidiairement, elle a conclu à l'annulation de cette décision et au renvoi
+de la cause pour nouvelle décision.
+Par décision du 3 février 2022, la Présidente du Tribunal d'arrondissement de l'Est vaudois,
+autorité inférieure de surveillance a refusé l’effet suspensif requis.
+1.6
+La vente aux enchères
+publiques des quatre créances saisies a eu lieu le 3 février 2022. Se sont présentés :
+-
+B.H.________, créancière, assistée de son conseil Me Jérôme Bénédict
+;
+-
+C.H.________, fils de B.H.________ ;
+-
+K.________ de Villeneuve, tiers à la présente cause.
+Bien qu’inscrits, les associées gérantes de la plaignante ainsi que leur conseil ne se
+sont pas présentés.
+Les quatre créances saisies ont été vendues séparément et ont toutes été
+achetées par B.H.________, pour un montant total de 11'900 francs. Le paiement a été
+effectué par compensation.
+1.7
+Le 14 février 2022, la plaignante a déposé
+une nouvelle plainte LP, en concluant, principalement, à la réforme de la décision
+de l'office du 3 février 2022 en ce sens que les créances n'étaient pas adjugées
+à B.H.________, subsidiairement à l'annulation de l'adjudication.
+Par décision du 17 février 2022, la présidente a rejeté la requête d'effet suspensif
+qui était contenue dans la plainte.
+Au pied de ses déterminations du 7 mars 2022,
+l’office a conclu au rejet des deux plaintes.
+Dans ses déterminations du 28 mars 2022, B.H.________ a conclu au rejet des deux plaintes LP dans
+la mesure où elles étaient recevables et à la condamnation de la plaignante au versement
+d'une amende de 1'500 fr. pour "témérité ou mauvaise foi".
+Le 4 avril 2022, la plaignante a répliqué, maintenant les conclusions prises dans ses plaintes
+des 2 et 14 février 2022.
+1.8
+Une audience s’est tenue le 5 avril 2022 en présence de la plaignante, de la partie créancière
+et des représentants de l'office.
+A cette occasion, le conseil de la plaignante a expliqué que l’avance de frais de 15'750 fr.
+susmentionnée avait été réglée par les associées-gérantes et représentantes
+de la plaignante, précisant qu’il était clair dès le départ que les fonds devant
+servir à financer le sursis seraient avancés par des sociétés tierces et non par
+la plaignante, qui ne disposait pas de telles liquidités.
+2.
+Par décision directement motivée du 28 juin 2022, notifiée à la plaignante le lendemain,
+la présidente a rejeté les plaintes déposées les 2 et 14 février 2022 (I),
+sans frais (II), ainsi que toutes autres ou plus amples conclusions (III).
+Elle a considéré que la plaignante n'avait pas immédiatement versé le premier acompte
+de 4'000 fr. ni fourni de justificatifs rendant vraisemblable sa capacité financière à
+payer le solde de la dette par acomptes. Elle ne remplissait pas les conditions posées par l'art.
+123 LP, si bien que sa plainte tendant à l'octroi d'un sursis devait être rejetée. Les
+moyens invoqués à l'appui de la deuxième plainte, qui avait trait à la personne de
+l'adjudicataire et aux prix auxquels les créances avaient été adjugées, n'étaient
+pas non plus fondés. Premièrement, on ne pouvait pas reprocher à B.H.________, au bénéfice
+d'une décision judiciaire exécutoire, d'avoir requis la réalisation des ultimes actifs
+de la société plaignante ni de s'être porté acquéreuse. Se référant
+à la jurisprudence publiée aux ATF 109 (recte : III) 62 et traduit au JdT 1985 II 78, elle
+a relevé que la jurisprudence admettait qu'une créance d'un débiteur saisi contre un créancier
+saisissant puisse être adjugée aux enchères au créancier saisissant qui est le débiteur
+du débiteur saisi. On ne pouvait dès lors reprocher à l'office d'avoir adjugé les
+créances litigieuses à B.H.________, qui avait formulé la meilleure offre. Enfin, le montant
+obtenu (11'900 fr.) représentait 75 % de la valeur estimée par l'office (15'841 fr. 55),
+ce qui était raisonnable. L'office avait également procédé à quatre ventes séparées,
+ce qui avait permis d'obtenir un prix plus élevé que si les créances avaient été
+vendues ensemble. Il n'y avait rien à lui reprocher également en ce qui concernait la publicité
+et le mode des enchères. En définitive, il apparaissait que l'office avait respecté la
+loi et que les griefs de partialité de la plaignante à son encontre ne reposaient sur aucun
+fondement.
+3.
+Par acte posté le 11 juillet 2022, T.________Sàrl
+a conclu, avec suite de frais judiciaires et dépens, principalement, à la réforme de cette
+décision en ce sens que la vente aux enchères du 3 février 2022 est annulée et que
+la recourante soit mise au bénéfice d'un sursis au sens de l'art. 123 LP. Subsidiairement,
+elle a conclu à l'annulation et au renvoi de la cause à l'autorité précédente
+pour nouvelle décision dans le sens des considérants.
+Elle a produit deux pièces de forme (une
+procuration ainsi que la décision entreprise).
+Le 22 juillet 2022, le conseil du recourant a
+déposé une nouvelle écriture, invoquant que l'ordonnance de séquestre n° 10299462
+ne lui avait pas été notifiée à temps utile et a produit une copie de l'avis de saisie,
+et d'un questionnaire l'accompagnant que l'Office avait notifié à sa cliente dans la poursuite
+n° 10359823.
+Le 26 juillet 2022, l'Office s'est référé
+à ses déterminations du 7 mars 2022 ainsi qu'au prononcé attaqué.
+Par déterminations du 4 août 2022, le
+créancier saisissant et adjudicataire B.H.________ a conclu au rejet du recours. Elle a produit
+deux pièces (une copie de l'opposition formée par la recourante le 1
+er
+avril 2022, par l'entremise de son conseil, au séquestre n° 10299462, ainsi que la liste des
+présence à la vente litigieuse).
+En droit :
+I.
+Le recours du 11 juillet 2022 a été déposé dans un délai de dix jours, compte
+tenu du fait que la motivation de la décision entreprise est parvenue à la recourante le 29
+juin 2022 et que le délai de dix jours prévu par l'art. 18 al. 1 LP et 28 al. 1 LVLP (loi vaudoise
+d’application de la LP ; BLV 280.05) est arrivé à échéance samedi le 9 août
+2022, puis a été reporté au premier jour utile (art. 142 al. 3 CPC applicable par renvoi
+de l'art. 31 LP), à savoir lundi le 11 juillet 2022. Déposé en temps utile et suffisamment
+motivé (TF 5A_118/2018 du 7 février 2018 consid. 4.1), le recours est recevable.
+En revanche, l'écriture déposée le 22 juillet 2022 et les pièces l'accompagnant l'ont
+été hors délai et sont irrecevables en raison de leur tardiveté.
+Les déterminations de l’Office et du
+créancier saisissant et adjudicataire sont également recevables (art. 31 al. 1 LVLP). Il en
+va de même des pièces nouvelles produites à l’appui de la réponse (art. 28
+al. 4 LVLP).
+II.
+La recourante a déposé deux plaintes LP. La première concerne la décision de l'office
+refusant de lui octroyer un sursis au sens de l'art. 123 LP.
+a)
+Aux
+termes de l'article 120 LP, l'office informe le débiteur de la réquisition de réalisation
+dans les trois jours. Les biens meubles, y compris les créances, sont réalisés par l'office
+des poursuites dix jours au plus tôt et deux mois au plus tard  à compter de la réception
+de la réquisition (art. 122 al. 1 LP).
+Selon l'art. 123 al. 1 LP, si le débiteur
+rend vraisemblable qu'il peut acquitter sa dette par acomptes et s'il s'engage à verser à l'office
+des poursuites des acomptes réguliers et appropriés, le préposé peut renvoyer la
+réalisation de douze mois au plus, une fois le premier versement effectué. Un sursis à
+la réalisation ne peut être accordé qu'une fois dans la même poursuite (Foëx,
+in Dallèves/Foëx/Jeandin (éd.), Commentaire romand, Poursuites et faillite, n. 17 ad art.
+123 LP ; Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes et la
+faillite, Art. 89-158, Lausanne 2000, n. 22 ad art. 123 LP). Le préposé fixe le montant des
+acomptes et la date des versements ; ce faisant, il tient compte tant de la situation du débiteur
+que de celle du créancier (art. 123 al. 3 LP). Il a la compétence de modifier sa décision,
+d'office ou à la demande du créancier ou du débiteur, pour l'adapter aux circonstances
+(art. 123 al. 5, 1
+re
+phrase, LP).
+L'office
+informe le poursuivi que si la réquisition de paiement par acomptes est présentée seulement
+après la publication de la vente ou alors que l'office a déjà pris d'autres mesures en
+vue de réalisation, le sursis ne peut être accordé que si les frais occasionnés par
+ces mesures et leur révocation sont acquittés en même temps que le premier acompte (Gilliéron,
+op. cit., nn. 7, 8 et 11 ad art. 120 LP). Le sursis est caduc de plein droit lorsqu'un acompte n'est
+pas versé à temps (art. 123 al. 5, 2
+e
+phrase, LP) et ce, quelle que soit la cause du retard (Gilliéron, op. cit., n. 38 ad art. 123
+LP). Dans ce cas, l'office des poursuites doit procéder immédiatement à la réalisation
+sans nouvelle réquisition du poursuivant (TF 5A_347/2015 consid. 3.1.2 du 30 juin 2015 et les arrêts
+cités ; Gilliéron, op. cit., n. 39 ad art. 123 LP).
+L'ajournement de la vente est une faveur accordée
+au débiteur. Les conditions auxquelles elle est subordonnée doivent, par conséquent, être
+strictement observées. Si le débiteur ne s'acquitte pas ponctuellement au jour fixé, l'office
+des poursuites n'est pas autorisé à le sommer de le faire dans un délai subséquent,
+ce sursis étant alors caduc. De même, il ne suffit pas au poursuivi de verser l'acompte arriéré
+pour faire révoquer la réalisation (TF 5A_347/2015 précité consid. 3.1.2 et les réf.
+citées). Le poursuivi n'a pas de droit à obtenir un sursis, l'office disposant à cet égard
+d'un large pouvoir d'appréciation (Bettschart, in Commentaire romand précité, n. 7 ad
+art. 123 LP).
+Dans la mesure où il s'agit de savoir si la décision de l'office est justifiée en fait
+(question d'opportunité et d'appréciation), les autorités cantonales de surveillance réexaminent
+la décision de l'office avec un plein pouvoir de cognition (TF 5A_347/2015 consid. 3.1.2 et les
+références).
+b)
+La
+recourante soutient avoir réuni la somme de 23'750 fr. en 23 jours, y compris le montant de 8'000
+fr. demandé par l'office à titre d'un premier acompte par 3'000 fr. et des frais par 5'000
+francs. Elle aurait ainsi rendu vraisemblable sa capacité à honorer un sursis, dans la mesure
+où la somme prétendument réunie représentait environ 64 % de la créance à
+rembourser (37'303 francs 40).
+La recourante se prévaut d'abord d'un montant de 15'750 fr. qui a été versé le 10
+janvier 2022 par son conseil à titre d'avances de frais dans la procédure opposant la recourante
+aux poursuivants devant le Tribunal des baux. Comme la première juge l'a relevé, ce montant
+a été versé par le conseil de la recourante et non par celle-ci. En outre, dans le cadre
+d'une procédure visant à séquestrer ces avoirs-là, la recourante a soutenu, le 1
+er
+avril 2022, que cet argent ne lui appartenait pas et qu'il avait été versé par des tiers
+pour son compte. Elle se prévalait ainsi des sommes dont elle n'était pas titulaire. La recourante,
+qui est en faillite depuis fin 2019, n'était de toute manière pas en mesure d'apporter les
+fonds pour le paiement des futurs acomptes. De plus, au 2 février 2022, les sociétés I.a.________Sàrl
+et I.________Sàrl, prétendument garantes de la recourante, étaient elles-mêmes notoirement
+insolvables : I.a.________Sàrl avait des poursuites totalisant 671'595 francs 62 (dont 341'740 fr.
+05 d'actes de défaut de biens) et I.________Sàrl de 48'831 fr. 55, dont plusieurs poursuites
+au stade de saisie pour non-paiement des contributions publiques. Ainsi, si l'une ou les deux sociétés
+a (ou ont) été en mesure de verser une avance de frais au Tribunal des baux pour le compte
+de la recourante en date du 10 janvier 2022, leur solvabilité demeurait incertaine. Compte tenu
+des poursuites dirigées contre elles, l'office pouvait ne pas tenir pour vraisemblable que l'une
+ou l'autre (ou les deux) honorerait les engagements de la recourante.
+Ensuite, la recourante reproche à la présidente d'avoir considéré qu'elle n'avait
+même pas versé les 4'000 fr. offerts, si bien que la condition du versement immédiat du
+premier acompte n'était pas réalisée. Sur ce point, la recourante soutient que la présidente
+a omis totalement les courriers des 1
+er
+et 2 février 2022 par lesquels la recourante avait fait savoir à l'office qu'elle avait réuni
+la somme demandée de 8'000 fr. et qu'elle la tenait à disposition pour versement immédiat
+en main de l'office dès réception d'un préavis favorable quant à la demande de sursis.
+Le grief n'est pas fondé. L'avis de l'office du 19 janvier 2022 subordonnait l'octroi du sursis
+au versement sur
+le
+compte postal de l’office avant le début des enchères. La recourante ne prétend
+pas l'avoir fait. Il n’appartenait pas à l'office de se faire dicter ses conditions par la
+recourante, ni a fortiori de sursoir aux enchères sur la base d’une promesse de paiement futur
+de la recourante. Cela d'autant moins que la situation financière de celle-ci ou de celle des sociétés
+garantes était obérée et que le report des enchères était de nature à engendrer
+des frais supplémentaires. Si la recourante disposait de la somme en cause, il lui incombait de
+la verser immédiatement, ce qu’elle n’a pas fait. Il s'ensuit que la recourante n'a
+pas rempli la condition du versement du premier acompte.
+C'est à juste titre que la présidente a confirmé le refus d'un sursis au sens de l'art.
+123 LP.
+III.
+La deuxième plainte a trait
+à la décision de l'office d'adjuger
+les créances saisies à B.H.________, qui était à la fois débitrice de ses créances,
+selon une procédure pendante au Tribunal des baux, et créancière saisissante. La recourante
+ne conteste pas « le lieu, le jour et l'heure de la vente aux enchères ont été dûment
+organisés et publiés ».
+a)
+L'adjudication
+d'une créance dans une vente aux enchères s'effectue de la même manière que celle
+d'une chose. Elle est vendue au plus offrant (art. 122 al. 1 et 125 al. 1 LP). En principe, l'enchérisseur
+ne pourra s'acquitter du prix par compensation. On peut cependant dispenser le créancier poursuivant
+de payer un montant que l'office devrait immédiatement lui restituer, notamment s'il est le seul
+à avoir droit au produit de la vente (Stoffel/Chabloz, Voies d'exécution, 3
+e
+éd., 2016, n. 152, p. 188).
+b)
+La recourante dit critiquer l'opportunité
+de réaliser la vente aux enchères et le but recherché par la poursuivante. Selon elle,
+dès lors que les créances qui ont été mises aux enchères étaient précisément
+des créances dirigées contre la poursuivante, l'objectif de celle-ci aurait été de
+racheter elle-même lesdites créances afin de mettre un terme aux procédures en cours devant
+le Tribunal des baux.
+Cela étant, la recourante admet que l'acquisition
+par un créancier poursuivant d'une créance dirigée à son encontre n'est pas prohibée
+par la jurisprudence. Le Tribunal fédéral a en effet jugé que la créance du débiteur
+saisi contre un créancier saisissant peut être adjugée aux enchères au créancier
+saisissant qui est le débiteur du débiteur saisi (ATF 109 III 62 consid. 2, JdT 1985 II 78).
+La recourante plaide que cette jurisprudence est vieille de quarante ans, sans toutefois citer un arrêt
+ultérieur, qui aurait consacré un revirement de jurisprudence. Quant à l'arrêt qu’elle
+cite en tentant de faire une analogie avec «la cession des droits» dans le cadre de la faillite,
+il ne lui est d’aucun secours. La cession au sens de l'art. 260 LP n'est pas comparable à
+la vente d'une créance saisie aux enchères. Dans le cadre de l'art. 260 LP, ce qui est transféré
+au cessionnaire c'est avant tout la faculté de faire valoir en justice, en son propre nom, le droit
+d'un tiers «
+Prozessstandschaft
+»
+; le cessionnaire ne devient pas le titulaire de la prétention de droit matériel qui continue
+d'appartenir à la masse (cf. ATF 144 III 552 consid. 4.1.2 ; ATF 132 III 342 consid. 2.2 ;
+ATF 122 III 488 consid. 3b ; ATF 121 III 488 consid. 2 ; ATF 113 III 135 consid. 3a). Par ailleurs,
+la doctrine actuelle cite l'ATF 109 III 62 critiqué par la recourante et précise que le caractère
+public de la vente aux enchères et la concurrence entre les acheteurs potentiels permet à tous
+les intéressés de participer à la vente, y compris le débiteur lui-même et ses
+proches, ainsi que le créancier (cf. Stoffel/Chabloz, op. cit., n. 150, p. 187). Au vu de ces
+principes, l'office pouvait mettre les créances dont la poursuivante était débitrice aux
+enchères et celle-ci pouvait, comme elle l'a fait, les acquérir.
+C'est également en vain que la recourante
+invoque l'abus de droit. L'intimée était au bénéfice d'une décision définitive
+et exécutoire reconnaissant sa créance à l'égard de la recourante. Or celle-ci n'a
+pas pu éteindre cette créance avant la vente aux enchères. Comme la première juge
+l'a relevé, on ne pouvait pas reprocher à l'intimée d'avoir requis la réalisation
+forcée des ultimes actifs de la société recourante que représentaient les créances
+saisies. Aussi, le seul fait que ces créances puissent revêtir pour l'intimée une utilité
+plus grande que pour un autre acquéreur ne suffit pas pour conclure à l'existence d'un abus
+de droit. Rien n'empêchait la poursuivante de s'y présenter ou d'y inviter un amateur qui pouvait
+acquérir les créances litigieuses à un prix supérieur à celui payé par
+l'intimée.
+IV.
+Vu ce qui précède, le recours doit être
+rejeté et la décision attaquée confirmée.
+Le présent arrêt est rendu sans frais
+judiciaires ni dépens (art. 20a al. 2 ch. 5 LP ; art. 61 al. 2 let. a et 62 al. 2 OELP [ordonnance
+du 23 septembre 1996 sur les émoluments perçus en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Aba Neeman, avocat (pour T.________Sàrl)
+‑
+M. le Préposé à l'Office des poursuites du district de la Riviera-Pays-d'Enhaut
+-
+Me Jérôme Bénédict, avocat (pour B.H.________)
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l'Est vaudois, autorité inférieure de
+surveillance
+-
+M. le Président du Tribunal des baux
+La greffière :
