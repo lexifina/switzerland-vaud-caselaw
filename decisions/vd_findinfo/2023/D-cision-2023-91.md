@@ -1,0 +1,334 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___91"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 91"
+decided: "2023-02-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9239748"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-010.md", "switzerland/bund/acts/101/art-013.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-255.md", "switzerland/bund/acts/312.0/art-259.md", "switzerland/bund/acts/312.0/art-328.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-391.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-397.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2023 / 91
+
+## Regeste
+
+PROFIL D'ADN, ADMISSION DE LA DEMANDE, MOTIVATION DE LA DÉCISION | 29 al. 2 Cst., 197 al.1 CPP (CH), 255 CPP (CH), 3 al. 2 let. c CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 21.02.2023 Décision / 2023 / 91
+
+PROFIL D'ADN, ADMISSION DE LA DEMANDE, MOTIVATION DE LA DÉCISION | 29 al. 2 Cst., 197 al.1 CPP (CH), 255 CPP (CH), 3 al. 2 let. c CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+88
+PE20.012708-LRC
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+21 février 2023
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mme
+Fonjallaz et M. Krieger, juges
+Greffière
+:              Mme
+Villars
+*****
+Art.
+29 al. 2 Cst. ; 197 al. 1, 255 CPP
+Statuant sur le recours interjeté le 23 janvier 2023 par
+C.________
+contre l’ordonnance d’établissement d’un profil ADN rendue le 11 janvier 2023
+par le Ministère public de l’arrondissement de l’Est vaudois dans la cause
+n° PE20.012708-LRC
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le Ministère public de l’arrondissement de l’Est vaudois (ci-après : Ministère
+public) a ouvert une enquête pénale contre C.________, né le 7 septembre 1977, pour contrainte
+sexuelle, viol et contravention à la LStup (Loi fédérale sur les stupéfiants du 3
+octobre 1951 ; RS 812.121). Il lui est reproché d’avoir, dans la nuit du 4 au 5 octobre 2019,
+dans son appartement à [...], contraint K.________ à entretenir une relation sexuelle avec
+pénétration vaginale et des actes d’ordre sexuel (fellation et anulingus) contre sa volonté,
+d’avoir entravé sa respiration en serrant une ceinture autour de son cou et de l’avoir
+violentée physiquement.
+b)
+Dans le cadre de cette enquête, un prélèvement a été effectué sur C.________
+en vue de l’établissement d’un profil d’ADN
+(n°
+3361838705).
+c)
+Par acte d’accusation du 11 janvier 2023, le Ministère public a renvoyé C.________ devant
+le Tribunal correctionnel de l’arrondissement de l’Est vaudois pour contrainte sexuelle,
+viol, contravention à la LStup.
+B.
+a)
+Par ordonnance du 11 janvier 2023, le Ministère
+public a ordonné l’établissement du profil ADN à partir du prélèvement
+n° 3361838705 (I) et a dit que les frais de cette ordonnance suivaient le sort de la cause au fond
+(II).
+La procureure a considéré que la mesure ordonnée, réalisée au moyen du prélèvement
+d’un échantillon ADN de C.________ effectué par la police, contribuerait à élucider
+des faits constituant un crime ou un délit et que, au vu de l’infraction en cause, cette mesure
+était adéquate et respectait le principe de la proportionnalité.
+b)
+Le 20 janvier 2023, le Tribunal correctionnel de l’arrondissement de l’Est vaudois a fixé
+les débats au 8 mai 2023 et cité C.________ à comparaître à cette audience.
+C.
+Par acte du 23 janvier 2023, C.________, par son
+mandataire, a recouru auprès de la Chambre des recours pénale du Tribunal cantonal contre l’ordonnance
+du 11 janvier 2023, en concluant, avec suite de frais et dépens, principalement à son annulation
+et, subsidiairement, au renvoi de la cause au Ministère public pour nouvelle décision dans
+le sens des considérants. Il a requis l’octroi de l’effet suspensif.
+Par décision du 24 janvier 2023, la Présidente de la Chambre de céans a accordé l’effet
+suspensif au recours.
+Par courrier du 6 février 2023, le Ministère public a informé la Chambre de céans
+qu’il renonçait à déposer des déterminations et qu’il se référait
+intégralement à l’ordonnance entreprise.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393 al. 1 let. a CPP,
+le recours est recevable contre les décisions et les actes de procédure du ministère public.
+Ainsi, la décision du ministère public ordonnant un prélèvement ADN fondée sur
+l’art. 255 CPP peut faire l’objet d’un recours au sens des art. 393 ss CPP. Le recours
+doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (cf. art. 384 let. b CPP) à l’autorité de recours (art.
+396 al. 1 CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal
+(art. 13 LVCPP [Loi d’introduction du Code de procédure pénale suisse du 19 mai 2009
+; BLV 312.01 ; art. 80 LOJV [Loi d’organisation judiciaire du 12 décembre 1979 ; BLV 173.01]).
+1.2
+En l’espèce, interjeté en temps
+utile auprès de l’autorité compétente par le prévenu qui a qualité pour
+recourir (art. 382 CPP) et dans les formes prescrites (art. 385 al. 1 CPP), le recours de C.________
+est recevable.
+2.
+2.1
+Invoquant une violation de son droit d’être entendu, le recourant soutient que la motivation
+de l’ordonnance entreprise serait inexistante. Il reproche au Ministère public de s’être
+contenté de relever que les faits reprochés étaient graves et de citer les dispositions
+légales applicables, sans procéder à un raisonne­ment juridique et développer
+les arguments qui permettraient de retenir que l’établis­sement d’un profil ADN
+servirait à élucider des infractions passées et futures. Le recourant invoque également
+une violation de l’art. 255 CPP et du principe de proportionnalité, soutenant que le dossier
+ne contiendrait aucun indice sérieux et concret qui viendrait confirmer qu’il serait l’auteur
+des infractions reprochées, que l’établissement du profil ADN litigieux n’aiderait
+en rien l’élucidation des infractions reprochées, lui-même ayant admis avoir entretenu
+un acte d’ordre sexuel consenti avec la plaignante K.________ et qu’aucun élément
+au dossier permettrait de penser qu’il commette dans le futur des infractions du genre de celles
+reprochées.
+2.2
+2.2.1
+Selon l’art. 255 al. 1 let. a CPP, pour élucider un crime ou un délit, le prélèvement
+d’un échantillon et l’établissement d’un profil d’ADN peuvent être
+ordonnés sur le prévenu. Cette possibilité n’est pas uniquement limitée à
+l’élucidation du crime ou du délit pour lequel le prévenu est poursuivi : ces mesures
+peuvent également être ordonnées afin d’élucider des infractions passées
+ou futures qui sont encore inconnues des autorités de poursuites pénales (art. 259 CPP et art.
+1 al. 2
+let. a de la Loi sur les profils
+ADN [Loi fédérale sur l’utilisation de profils d’ADN dans les procédures pénales
+et sur l’identification de personnes inconnues ou disparues du 20 juin 2003 ; RS 363] ; ATF 147
+I 372 consid. 2.1 ; ATF 145 IV 263 consid. 3.3, JdT 2019 IV 327 ; TF 1B_409/2021 du 3 janvier 2022 consid.
+4.1). Le profil ADN a notamment pour but d’éviter de se tromper sur l’identification
+d’une personne ou de jeter le soupçon sur des innocents ; il peut aussi avoir des effets préventifs
+et contribuer à la protection de tiers. Malgré ces indéniables avantages, l’art.
+255 CPP n’autorise pas le prélèvement d’échantillons d’ADN et leur analyse
+de manière systématique (ATF 147 I 372 précité ; ATF 145 IV 263 précité
+consid. 3.4 ;
+TF 1B_409/2021 précité).
+Les mesures de reconnaissance et la conservation des données peuvent porter atteinte au droit à
+la liberté personnelle (art. 10 al. 2 Cst. [Constitution fédérale de la Confédération
+suisse du 18 avril 1999 ; RS 101]) et à la protection contre l’emploi abusif de données
+personnelles (art. 13 al. 2 Cst. et 8 CEDH [Convention de sauvegarde des droits de l’Homme et des
+libertés fondamentales du 4 novembre 1950 ; RS 0.101] ; ATF 147 I 372 précité consid.
+2.2 ; ATF 145 IV 263 précité consid. 3.4 ; TF 1B_242/2020 du 2 septembre 2020 consid. 3.2).
+Elles doivent ainsi être fondées sur une base légale suffisamment claire et précise,
+être justifiées par un intérêt public et être proportionnées au but visé
+(art. 36 al. 1 à
+3 Cst. ; TF 1B_409/2021
+précité consid. 4.2 ; sur la qualification de la restriction aux droits fondamentaux créée
+par ces mesures : ATF 147 I 372 précité consid. 2.3).
+Selon l’art. 197 al. 1 CPP, les mesures de contrainte ne peuvent être prises que si elles
+sont prévues par la loi (let. a), si des soupçons suffisants laissent présumer une infraction
+(let. b), les buts poursuivis ne peuvent pas être atteints par des mesures moins sévères
+(let. c) et elles apparaissent justifiées au regard de la gravité de l'infraction (let. d).
+Selon la jurisprudence, l’établissement d’un profil ADN qui ne sert pas à élucider
+une infraction pour laquelle une instruction pénale est en cours n’est conforme au principe
+de la proportionnalité que s’il existe des indices sérieux et concrets que le prévenu
+pourrait être impliqué dans d’autres infractions. Il doit toutefois s’agir d’infractions
+d’une certaine gravité. Il convient à cet égard également de prendre en considération
+les éventuels antécédents du prévenu ; l’absence d’antécédents
+n’empêche pas encore de prélever un échantillon et d’établir le profil
+ADN de celui-ci, mais il faudra tenir compte de cet élément dans la pesée d’intérêts
+à réaliser (ATF 145 IV 263 précité consid. 3.4 ; TF 1B_409/2021 précité
+consid. 4.3 ; TF 1B_242/2020 précité).
+Le fait qu’il n’existe pas de soupçons suffisants qui laissent présumer une infraction
+au sens de l’art. 197 al. 1 CPP pour des infractions futures ne s’oppose pas à l’établissement
+d’un profil ADN en vue de telles infractions. De tels soupçons doivent exister pour ce qui
+concerne l’acte qui a fondé le prélèvement ou l’établissement du profil
+ADN. Dans la perspective d’éventuelles infractions pénales futures, des indices au sens
+mentionné suffisent (ATF 147 I 372 précité consid. 2.1 ; ATF 145 IV 263 précité
+consid. 3.4 ; TF 1B_409/2021 précité consid. 4.3). Le profil ADN peut aussi avoir des effets
+préventifs et contribue à la protection de tiers
+(ATF
+147 I 372 précité consid. 2.1 ; ATF 145 IV 263 précité consid. 3.3 ;
+TF
+1B_409/2021 précité consid. 4.1).
+Il s’impose d’examiner chaque cas individuel pour ordonner l’établisse­ment
+d’un profil ADN (ATF 147 I 372 précité ; ATF 141 IV 87 consid. 1.4.2, JdT 2015 IV 280
+; CREP 25 mars 2022/174 consid. 2.2.1 ; CREP 4 novembre 2021/987 consid. 2.1).
+2.2.2
+Le droit d’être entendu, tel qu’il est garanti par les art. 29 al. 2 Cst. et 3 al. 2
+let. c CPP (cf. aussi art. 6 CEDH) implique notamment, pour l’autorité, l’obligation
+de motiver sa décision afin que le destinataire puisse la comprendre, l’attaquer utilement
+s’il y a lieu et afin que l’autorité de recours puisse exercer son contrôle. Le
+juge doit ainsi mentionner, au moins brièvement, les motifs qui l’ont guidé et sur lesquels
+il a fondé sa décision, de manière à ce que l’intéressé puisse se
+rendre compte de la portée de celle-ci et l’attaquer en connaissance de cause
+(ATF
+143 IV 40 consid. 3.4.3 ; ATF 142 I 135 consid. 2.1). Il n’est pas tenu de discuter tous les arguments
+soulevés par les parties, mais peut se limiter à l’examen des questions décisives
+pour l’issue du litige (ATF 142 II 154 consid. 4.2). Dès lors qu’on peut discerner les
+motifs qui ont guidé la décision de l’autorité, le droit à une décision
+motivée est respecté, même si la motivation présentée est erronée
+(ATF
+141 V 557 consid. 3.2.1).
+Le droit d’être entendu est une garantie constitutionnelle de caractère formel, dont
+la violation doit entraîner l’annulation de la décision, indépendamment des chances
+de succès du recours sur le fond (ATF 135 I 187 consid. 2.2). Une violation du droit d’être
+entendu peut être réparée lorsque la partie lésée à la possibilité
+de s’exprimer devant une autorité de recours jouissant d’un plein pouvoir d’examen.
+Toutefois, une telle réparation doit rester l’exception et n’est admissible, en principe,
+que dans l’hypothèse d’une atteinte qui n’est pas particulièrement grave
+aux droits procéduraux de la partie lésée (ATF 142 II 218 consid. 2.8.1 ;
+TF
+6B_1135/2021 du 9 mai 2022 consid. 1.1). La Chambre des recours pénale dispose d’un pouvoir
+d’examen complet en fait et en droit, permettant de guérir un tel vice procédural (art.
+391 al. 1 CPP ; CREP 13 juin 2022/419 consid. 2.2).
+2.3
+En l’espèce, l’ordonnance querellée ne comporte, sous la rubrique «
+Infractions
+reprochées
+», aucune description
+des faits incriminés, mais uniquement la liste des infractions poursuivies et leurs références
+légales. Sous la rubrique «
+Motivation
+»,
+elle mentionne que, vu la gravité des faits reprochés, l’établissement du profil
+ADN contribuerait à élucider un crime ou un délit, que ce prélèvement pourrait
+également jouer un rôle préventif, et qu’au vu des infractions en cause, cette mesure
+est adéquate et conforme au principe de proportionnalité.
+Cette motivation viole le droit d’être entendu du recourant, dès lors qu’elle ne
+lui permet pas de saisir les considérations qui ont guidé la Procureure dans son raisonnement
+et, partant, de déterminer si ce raisonnement est adéquat ou doit, à l’inverse,
+être contesté. En effet, l’ordonnance ne permet pas d’appréhender les motifs
+pour lesquels l’établissement du profil d’ADN du prévenu serait nécessaire,
+que cela soit pour élucider les faits reprochés ou pour d’autres infractions, passées
+ou futures. En d’autres termes, la Procureure n’a pas expliqué, même sommairement
+et en se référant aux aspects concrets de l’affaire, en quoi la mesure pourrait véritablement
+être utile et justifier une telle atteinte à la liberté personnelle du prévenu. En
+outre, l’ordonnance entreprise ne comporte pas non plus de motivation spécifique sur le caractère
+proportionné de la mesure contestée.
+Partant, au vu du défaut de motivation de l’ordonnance, le droit d’être entendu
+du recourant a été violé. Quand bien même la Chambre des recours pénale dispose
+d’un plein pouvoir d’examen, il ne lui appartient pas de réparer la violation du droit
+d’être entendu constatée ci-dessus. L’ordonnance entreprise doit donc être
+annulée pour ce motif.
+2.4
+En l’occurrence, le Ministère public a rendu, le même jour, un acte d’accusation
+et une ordonnance d’établissement d’un profil ADN, objet du présent recours. Un
+tel procédé n’était pas possible. En effet, le dépôt de l'acte d'accusation
+entraîne la saisine du tribunal du fond (art. 324 al. 2 et 328 CPP ; TF 1B_415/2018 du 19 septembre
+2018 consid. 3 ; TF 1B_375/2016 du 21 novembre 2016 consid. 2) et, plus précisé­ment,
+la litispendance et le transfert des compétences du ministère public au tribunal (art. 328
+al. 1 et 2 CPP), qui devient en charge de la direction de la procédure à réception de
+l’acte d’accusation (Moreillon/Parein-Reymond, Petit commentaire du Code de procédure
+pénale, 2
+e
+éd., Bâle 2016, nn. 4 et 7 ad
+art.
+328 CPP). Dans ces conditions, la cause ne peut pas être renvoyée au Ministère public,
+désormais dessaisi, pour qu’il motive son ordonnance.
+En conséquence, le dossier de la cause doit être renvoyé au Tribunal correctionnel de
+l’arrondissement de l’Est vaudois (cf. art. 397 al. 2 CPP), qui assure désormais la
+direction de la procédure, afin que lui-même ou sa direction de la procédure examine l’opportunité
+de rendre une ordonnance d’établis­sement du profil ADN de C.________ avant de juger
+la cause au fond.
+3.
+Il résulte de ce qui précède que le recours interjeté par C.________ doit être
+admis et l’ordonnance du 11 janvier 2023 annulée, le dossier de la cause étant renvoyé
+au Tribunal correctionnel de l’arrondissement de l’Est vaudois pour qu’il procède
+dans le sens des considérants.
+Vu le sort de la cause, les frais de la procédure de recours, constitués en l’espèce
+du seul émolument d’arrêt, par 880 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront laissés
+à la charge de l’Etat (art. 428 al. 4 CPP).
+Le recourant, qui a procédé avec l’assistance d’un conseil de choix et qui a obtenu
+gain de cause, a droit à une indemnité pour les dépenses occasionnées par la procédure
+de recours (art. 429 al. 1 let. a et 436 al. 1 CPP). Au vu de la nature de la cause et du mémoire
+de recours produit, l’indemnité allouée doit être fixée, en l’absence
+de liste d’opérations, à 900 fr. sur la base d’une activité nécessaire
+d’avocat de 3 heures au tarif horaire de 300 fr., montant auquel il convient d’ajouter des
+débours forfaitaires à concurrence de 2 % (art. 19 al. 1 TDC [Tarif des dépens en matière
+civile du 23 novembre 2010 ; BLV 270.11.6], applicable par renvoi de
+l’art.
+26a al. 6 TFIP), par 18 fr., ainsi que la TVA au taux de 7,7%, par 70 fr. 70, ce qui correspond à
+une indemnité d’un montant total de 989 fr. en chiffres arrondis. A l’instar des frais,
+cette indemnité sera laissée à la charge de l’Etat (art. 428 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 11 janvier 2023 est annulée.
+III.
+Le dossier de la cause est renvoyé au Tribunal
+correctionnel de l’arrondissement de l’Est vaudois pour qu’il procède dans le
+sens des considérants.
+IV.
+Les frais d’arrêt, par 880 fr. (huit cent huitante francs), sont laissés à la charge
+de l’Etat.
+V.
+Une indemnité de 989 fr. (neuf cent huitante-neuf francs), TVA et débours compris, est allouée
+à C.________ pour les dépenses occasionnées par la procédure de recours, à la
+charge de l’Etat.
+VI.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. Elie Elkaim, avocat (pour C.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de l’Est vaudois,
+-
+Tribunal correctionnel de l’arrondissement de l’Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
