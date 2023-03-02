@@ -1,0 +1,531 @@
+---
+decision_id: "vd_findinfo_Plainte___2023___9"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2023 / 9"
+decided: "2023-03-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9250034"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-120.md", "switzerland/bund/acts/281.1/art-123.md"]
+---
+
+# VD Findinfo Plainte / 2023 / 9
+
+## Regeste
+
+IMMEUBLE, PLAINTE{LP}, VENTE AUX ENCHÈRES FORCÉES | 123 LP, 17 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 02.03.2023 Plainte / 2023 / 9
+
+IMMEUBLE, PLAINTE{LP}, VENTE AUX ENCHÈRES FORCÉES | 123 LP, 17 LP
+
+TRIBUNAL
+CANTONAL
+FA22.018001-221252
+9
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+2 mars 2023
+____________________
+Composition
+:               M.
+Hack
+,
+président
+Mme
+Byrde et M. Maillard, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+17 et 123 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance
+à
+huis clos, en sa qualité d'autorité cantonale supérieure de surveillance, pour statuer
+sur le recours interjeté par
+J.________
+,
+à Château-d’Oex,
+S.________
+,
+à Rougemont, et
+Z.________
+,
+à Les Moulins, contre la décision rendue le 15 septembre 2022, à la suite de l’audience
+du 14 juin 2022, par la Présidente du Tribunal d’arrondissement de l’Est vaudois, autorité
+inférieure de surveillance, rejetant la plainte déposée le 3 mai 2022 par les prénommés
+contre l’
+Office
+des poursuites du district de la Riviera – Pays-d’Enhaut
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Par avis du 29 juin 2021, l’Office des poursuites du district de la Riviera – Pays-d’Enhaut
+(ci-après : l’office) a ordonné la saisie de l’immeuble RF n° [...]
+de la Commune de Château-d’Oex, propriété de J.________, qui fait l’objet
+de diverses poursuites. L’immeuble a été estimé à 995'000 francs. Trois créancières
+ont requis la vente de l’immeuble saisi : [...], le 7 septembre 2021, [...], représen-tée
+par [...], le 28 décembre 2021, et la Communauté des copropriétaires PPE [...] (ci-après :
+la PPE), représentée par l’agent d’affaires breveté Youri Diserens, le 24 janvier 2022.
+Le [...] 2021, l’annonce de la vente aux enchères de l’immeuble – fixée au
+29 avril 2022 à 10h00
+–
+a été publiée dans la Feuille des avis officiels (FAO) et la Feuille officielle du commerce
+(FOSC).
+Le 14 janvier 2022, l’office a communiqué au débiteur et aux créanciers l’état
+des charges de l’immeuble en cause, calculé à 955'218 fr. 33. Sous rubrique « Hypothèques
+légales privilégiées » figurent les créanciers : 1) Etat de Vaud,
+repré-senté par l’Office d’impôt des districts de la Riviera-Pays-d’Enhaut
+et Lavaux-Oron, pour une créance de 44'853 fr. 80, et 2) la Commune de [...] pour une créance
+de 2'716 fr. 60, et sous rubrique « Gages conventionnels » : 3) [...] pour une créance
+de 808'552 fr. 73, 4) la PPE pour une créance de 24'295 fr. 20, ainsi que 5) S.________ et Z.________
+pour des créances respectivement de 30'000 fr. et 44'800 fr. en vertu d’« une cédule
+constituée pour garantir des prêts consentis à M. J.________», « selon
+reconnaissance de dettes signée le
+12
+janvier 2022 », avec la précision « Payable après nos 1 à 4 ».
+L’état des charges porte la mention selon laquelle, à défaut d’être contestées
+dans un délai de dix jours, les charges indiquées seraient censées reconnues, quant à
+leur existence, leur échéance, leur étendue et leur rang. N’ayant pas été
+contesté dans le délai imparti, l’état des charges est entré force.
+Le 8 février 2022, l’office a communiqué les conditions de la vente aux enchères.
+b)
+Le 27 avril 2022, l’office a reçu en copie un échange de courriels entre le notaire Z.________,
+[...], Youri Diserens et [...], dont il ressort notamment ce qui suit.
+A 10h30, le notaire a écrit : « Permettez-moi de porter à votre connais-sance qu’un
+acquéreur a présenté une offre pour l’achat de l’appartement de J.________
+Le montant de l’offre couvre largement toutes les créances. Un acompte substantiel sera sur
+mon compte de fonds de clients dans quelques heures. J’ai approché [...] qui envisage sérieusement
+de demander le report de la vente ; M. [...] de l’OP est d’accord. Reste à ce que
+vous en fassiez de même ».
+A 15h59, l’agent d’affaires Youri Diserens a répondu que la PPE entendait maintenir
+sa requête de réalisation forcée dans la mesure où elle n’avait, notamment,
+aucune information sur l’identité de l’acquéreur présumé, ni sur le montant
+de la transaction, qu’aucune promesse de vente ni lettre d’intention de l’acquéreur
+n’a été porté à sa connaissance et qu’aucune garantie de financement
+n’avait été fournie ; il relevait en outre qu’il lui semblait « déceler
+dans votre démarche un conflit d’intérêt manifeste, pour ne pas dire plus, dès
+lors que vous agissez au titre de notaire désigné par le débiteur (en vertu d’une
+procuration ?) tout en étant inscrit personnellement, à l’état des charges,
+en qualité de créancier hypothécaire de l’intéressé en vertu d’une
+cédule hypothécaire créée après l’inscription de l’hypothèque
+légale en faveur de la PPE et, plus grave encore, une reconnaissance de dette souscrite par J.________
+en date du 12 janvier 2022, soit le même jour que la communication de la première version de
+l’état des charges, modifié deux jours plus tard, dont vous êtes dorénavant
+le bénéficiaire ainsi que S.________ à hauteur de fr. 74'800,- ».
+A 19h32, le notaire, se disant surpris de la réponse de Youris Diserens, a notamment précisé
+que « M. [...] m’a fait parvenir une offre d’achat conditionné seulement à
+l’obtention de l’autorisation Lex Friedrich. Vu que l’actuel propriétaire bénéficie
+d’une telle autorisation, il n’y a pas de raison qu’elle soit refusée à M.
+[...] qui ne possède encore aucun immeuble en Suisse. Le prix proposé, qui dépasse confortablement
+le million de francs, couvrira toutes les créances, y compris, bien entendu celle de la PPE que
+vous représentez ».
+Le 28 avril 2022, à 8h01, l’office
+a adressé un courriel à Z.________ Youri Diserens, [...] et [...], indiquant que la vente aux
+enchères prévue le lendemain ne pourrait être annulée que si les créanciers
+ayant requis la vente retiraient leurs réquisitions. Par un second courriel, adressé à
+11h36, l’office a informé Z.________ que [...], par l’intermé-diaire de son mandataire
+[...], avait également requis la vente de l’immeuble.
+A 14h45, [...] a informé l’office qu’en l’état, elle entendait maintenir
+sa réquisition de vente.
+A
+16h54, Z.________ a requis de l’office un sursis à la réalisa-tion au sens de l’art.
+123 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS
+281.1), en précisant avoir obtenu l’autorisation de son « client » de
+verser immédiatement un montant de 100'000 fr. à l’office et que Mme [...] de [...] et
+M. Diserens pour la PPE « semblent d’accord entre eux pour la répartition de la
+somme, au principal bénéfice de la PPE ».
+A 17h08, Youri Diserens a informé Z.________ que la PPE n’entendait pas retirer sa réquisition
+de vente.
+A 17h37, l’office a informé Z.________ que sa requête de sursis était rejetée.
+Il a indiqué que la tardiveté de la demande l’empêchait d’exami-ner de manière
+approfondie les modalités et conditions du sursis et qu’au vu des éléments en sa
+possession, ces conditions paraissaient loin d’être remplies. L’office demandait par
+ailleurs au notaire qui il représentait.
+Le 29 avril 2022 – jour de la vente –, à 5h48, Z.________ a adressé à l’office
+un courriel dans lequel il indiquait que M. [...] avait décidé de formuler une offre d’achat
+ferme « sous réserve de l’autorisation Lex Friedrich » à un prix
+de 1'300'000 fr., précisant que « J.________» était d’accord avec cette
+offre. Il a ajouté que M. [...] était prêt à verser un second montant de 100'000
+fr., destiné à [...], pour obtenir le report de la vente.
+A 8h18, l’office a informé Z.________ qu’il maintenait sa position de la veille quant
+à sa demande de sursis selon l’art. 123 LP, précisant qu’à ce stade, seules
+trois solutions restaient envisageables, à savoir : le retrait de toutes les réquisitions
+de vente présentées, le paiement de la totalité des créances ou la participation
+à la vente aux enchères. L’office a une nouvelle fois demandé au notaire pour qui
+il agissait.
+A 8h28, Z.________ a répondu à l’office qu’il « n’agis[sait] pour
+personne » mais qu’il était le notaire de M. [...], qui se tenait prêt à
+libérer un montant total de 200'000 fr. pour obtenir le report de la vente.
+c)
+Les enchères se sont tenues le 29 avril 2022. A l’issue de celles-ci, l’immeuble a été
+adjugé à [...] et [...] pour un montant de 901'500 francs. Ni Z.________ ni [...] n’ont
+participé aux enchères.
+2.
+a)
+Par acte du 3 mai 2022 adressé au Tribunal d’arrondissement de l’Est vaudois, J.________,
+Z.________ et S.________ ont déposé une plainte au sens de l’art. 17 LP, concluant à
+l’invalidation de l’adjudication intervenue le 29 avril 2022 et à ce que la vente de
+gré à gré de l’immeuble litigieux soit autorisée.
+A l’appui de leur écriture, les plaignants ont notamment produit :
+–
+une lettre du Crédit suisse du 29 avril 2022 attestant que les avoirs déposés sur le
+compte de [...] s’élevaient, audit jour, à plus de 1'300'000 francs ;
+–
+une « Offre »
+datée du 28 avril 2022, de la teneur suivante :
+«              Offre
+Je soussigné,
+[...], domicilié
+à Königstein, Allemagne
+Déclare par la présente acheter fermement, sous condition de l’obtention de
+l’autorisation Lex Friedrich, l’appartement de J.________ à la Résidence
+[...],
+Pour le prix de Fr. 1'300'000
+(…) plus la moitié de la commission de courtage (mais au
+maximum Fr. 25'000).
+Je m’engage à
+signer l’acte d’achat dans les dix jours et rappelle avoir déjà effectué le
+virement d’un acompte de Fr. 100'000 auprès du notaire.
+Signée, le 28 avril
+2022
+[même texte en allemand]
+(signature) »
+–
+une « Confirmation d’offre » du 3 mai 2022, ainsi libellée :
+«              Confirmation d’offre
+Je soussigné,
+[...], domicilié à Königstein, Allemagne
+Rappelle avoir formulé le 28 avril 2022 une offre d’achat ferme, sous condition de
+l’obtention de l’autorisation Lex Friedrich, l’appartement de J.________ à la
+Résidence [...],
+pour le prix de Fr. 1'300'000 (…) plus la moitié de la commission de courtage (mais au
+maximum Fr. 25'000). J’ai déjà viré un acompte de Fr. 100'000 à mon notaire
+et suis               prêt à
+verser immédiatement une somme complémentaire sur demande.
+Par la présente, je confirme la validité de mon offre : je m’engage à acquérir
+le bien ci-              dessus à
+ce prix couvrant toutes les créances énoncées par l’Office des poursuites.
+Königstein, le 3 mai 2022
+[même texte en allemand]
+(signature) »
+b)
+Le 1
+er
+juin 2022, l’office s’est déterminé sur la plainte, concluant à son rejet.
+Le 2 juin 2022, [...] a informé l’autorité saisie qu’elle renonçait à
+déposer des déterminations ainsi qu’à comparaître à l’audience fixée
+au 14 juin 2022.
+Le 3 juin 2022, le adjudicataires [...] et [...] ont conclu au rejet de la plainte.
+Le 7 juin 2022, la PPE a déclaré se rallier au point de vue exprimé par l’office
+dans ses déterminations du 2 juin 2022 et a conclu au rejet de la plainte. Elle a par ailleurs indiqué
+qu’elle ne serait pas présente à l’audience.
+c)
+L’audience du 14 juin 2022 a été tenue en présence des trois plaignants, représentés
+par l’avocat Jérôme Bénédict, et de [...], substi-tut de l’office. A
+cette occasion, les plaignants ont produit :
+–
+une écriture datée du même jour, dans laquelle ils confirment leur plainte,
+–
+une « Confirmation d’offre » datée du 10 juin 2022, ainsi libellée
+:
+«              Confirmation d’offre
+Je soussigné,
+[...], domicilié à Königstein, Allemagne
+rappelle avoir formulé le 28 avril 2022 une offre d’achat ferme, sous condition de
+l’obtention de l’autorisation Lex Friedrich, l’appartement de J.________ à la
+Résidence [...],
+pour le prix de Fr. 1'300'000 (…) plus la moitié de la commission de courtage (mais au
+maximum Fr. 25'000). J’ai déjà viré un acompte de Fr. 100'000 à mon notaire
+et suis               prêt à
+verser immédiatement une somme complémentaire sur demande.
+Etant à l’étranger et n’ayant pas trouvé de personne acceptant de me représenter
+à la               vente aux enchères
+prévue, je n’ai pu participer aux enchères.
+Par la présente, je confirme la validité de mon offre : je m’engage à acquérir
+le bien ci-              dessus à
+ce prix couvrant toutes les créances énoncées par l’Office des poursuites.
+Königstein, le 10 juin 2022
+(même texte en allemand)
+(signature) »
+–
+un avis de crédit de la banque SB Saanen Bank AG attestant qu’un montant de
+100'000 fr., valeur au 27 avril 2022, a été versé par [...] en faveur de
+l’Association des Notaires Vaudois.
+2.
+Par prononcé rendu le 15 septembre 2022, la Présidente du Tribunal d’arrondissement de
+l’Est vaudois a rejeté la plainte déposée le 3 mai 2022 par J.________, Z.________
+et S.________ (I) et rendu sa décision sans frais (II).
+La présidente a considéré, en substance, que contrairement aux exigences posées par
+l’art. 123 al. 1 LP, la requête en sursis à la réalisation n’avait pas été
+déposée par le débiteur, ni personnellement ni par l’intermédiaire d’un
+représentant, Z.________ – qui avait indiqué à l’office le 29 avril 2022 n’agir
+pour personne mais qu’il était seulement le notaire de M. [...], tiers intéressé
+à l’acquisition de l’immeuble litigieux – n’étant pas légitimé
+à déposer une telle requête ; que la requête de sursis avait en outre été
+déposée tardivement, soit moins d’un demi-jour ouvrable avant le début de la vente
+aux enchères, ce qui empêchait l’office d'examiner de manière circonspecte les conditions
+et les modalités du sursis ;
+qu’en
+tout état de cause, s’agissant des conditions de l’art. 123 LP, si Z.________ avait
+rendu vraisemblable qu’un premier acompte aurait pu être versé par un tiers à l’office,
+on ignore ce qu’il en était des acomptes suivants, aucun engagement n’ayant été
+pris en ce sens, ni par le débiteur, ni par Z.________, ni par le potentiel acheteur ; qu’il
+n’avait ainsi pas été rendu vraisemblable que le débiteur puisse honorer les acomptes
+que fixerait l’office, condition
+sine
+qua non
+à l’octroi du sursis ;
+que dans ces conditions, aucun motif valable ne permettait à l’office d’octroyer au
+plaignant le sursis sollicité, de sorte que c’était à bon droit qu’il avait
+refusé de donner suite à cette requête ; qu’il apparaissait par ailleurs d’emblée
+qu’une vente de gré à gré n’était pas possible, dès lors que l’accord
+de l’ensemble des créanciers faisait défaut, en particulier celui des créancières
+approchées par Z.________, à savoir [...] et la PPE, qui ont toutes deux indiqué
+qu’elles n’entendaient pas retirer leur réquisition de vente ; qu’au vu des
+circonstances données, l’office était tenu de mettre en œuvre les enchères
+publiques ; qu’enfin, le montant auquel l’immeuble avait été adjugé,
+soit 901'500 fr., respectait le principe de l’offre suffisante, dès lors que le montant total
+des créances garanties par gage et préférables à celle de la créancière
+[...] s’élevait à 45'570 fr. 40 seulement. La présidente en a conclu que la plainte
+devait être rejetée.
+3.
+Par acte déposé le 26 septembre 2022, J.________, Z.________ et S.________ ont recouru contre
+ce prononcé, concluant, avec suite de frais et dépens, principalement à sa réforme
+en ce sens que la vente aux enchères du 29 avril 2022 est annulée et J.________ mis au bénéfice
+d’un sursis au sens de l’art. 123 LP, et subsidiairement à son annulation et au renvoi
+de la cause à l’autorité précédente pour nouvelle décision sans le sens
+des considérants à intervenir.
+Le 12 octobre 2022, la PPE a conclu au rejet du recours dans la mesure où il était recevable.
+Le 13 octobre 2022, [...] a conclu au rejet du recours.
+Le même jour, l’office a également conclu au rejet du recours.
+Les recourants ont encore déposé une réplique le 11 novembre 2022, accompagné d’une
+pièce.
+En droit :
+I.
+Formé par les plaignants contre
+une décision de l'autorité inférieure de surveillance rejetant leur plainte, dans le délai
+de dix jours suivant sa notification, le recours a été déposé en temps utile (art.
+18 al. 1 LP et 28 al. 1 LVLP [loi vaudoise du 18 mai 1955 d'application de la LP ; BLV 280.05]),
+par des personnes ayant qualité pour recourir. Il comporte des conclusions et l'énoncé
+des moyens invoqués (art. 28 al. 3 LVLP), de sorte qu’il est conforme aux exigences de l’art.
+18 LP et de la jurisprudence y relative en matière de motivation (TF 5A_118/2018 du 7 février
+2018 consid. 4.1). Il est ainsi recevable.
+Les déterminations de l’office et des intimées sont également rece-vables (art.
+31 al. 1 LVLP).
+Il en va de même de la réplique des recourants et de la pièce produite à son appui
+(art. 28 al. 4 LVLP).
+II.
+a)
+Selon l'art. 123 al. 1 LP, si
+le débiteur
+rend
+vraisemblable qu'il peut acquitter sa dette par acomptes et s'il s'engage à verser à l'office
+des poursuites des acomptes réguliers et appropriés, le préposé peut renvoyer la
+réalisation de douze mois au plus, une fois le premier versement effectué. Un sursis à
+la réalisation ne peut être accordé qu'une fois dans la même poursuite (Foëx,
+in Dallèves/Foëx/ Jeandin (éd.), Commentaire romand, Poursuites et faillite, Bâle
+2005, n. 17 ad art. 123 LP ; Gilliéron, Commentaire de la loi fédérale sur la poursuite
+pour dettes et la faillite, Art. 89-158, Lausanne 2000, n. 22 ad art. 123 LP). Le préposé
+fixe le montant des acomptes et la date des versements ; ce faisant, il tient compte tant de la situation
+du débiteur que de celle du créancier (art. 123 al. 3 LP). Il a la compétence de modifier
+sa décision, d'office ou à la demande du créancier ou du débiteur, pour l'adapter
+aux circonstances (art. 123 al. 5, 1
+ère
+phrase, LP).
+L'office
+informe le poursuivi que si la réquisition de paiement par acomptes est présentée seulement
+après la publication de la vente ou alors que l'office a déjà pris d'autres mesures en
+vue de réalisation, le sursis ne peut être accordé que si les frais occasionnés par
+ces mesures et leur révocation sont acquittés en même temps que le premier acompte (Gilliéron,
+op. cit., nn. 7, 8 et 11 ad art. 120 LP). Le sursis est caduc de plein droit lorsqu'un acompte n'est
+pas versé à temps (art. 123 al. 5, 2
+e
+phrase, LP) et ce, quelle que soit la cause du retard (Gilliéron, op. cit., n. 38 ad art. 123
+LP). Dans ce cas, l'office des poursuites doit procéder immédiatement à la réalisation
+sans nouvelle réquisition du poursuivant (TF 5A_347/2015 consid. 3.1.2 du 30 juin 2015 et les arrêts
+cités ; Gilliéron, op. cit., n. 39 ad art. 123 LP).
+L'ajournement de la vente est une
+faveur accordée au débiteur. Les conditions auxquelles elle est subordonnée doivent, par
+conséquent, être strictement observées. Si le débiteur ne s'acquitte pas ponctuellement
+au jour fixé, l'office des poursuites n'est pas autorisé à le sommer de le faire dans
+un délai subséquent, ce sursis étant alors caduc. De même, il ne suffit pas au poursuivi
+de verser l'acompte arriéré pour faire révoquer la réalisation (TF 5A_347/2015 précité
+consid. 3.1.2 et les réf. citées). Le poursuivi n'a pas de droit à obtenir un sursis,
+l'office disposant à cet égard d'un large pouvoir d'appréciation (Bettschart, in Commentaire
+romand précité, n. 7 ad art. 123 LP).
+Dans la mesure où
+il s'agit de savoir si la décision de l'office est justifiée en fait (question d'opportunité
+et d'appréciation), les autorités cantonales de surveil-lance réexaminent la décision
+de l'office avec un plein pouvoir de cognition (TF 5A_347/2015 consid. 3.1.2 et les références).
+III.
+a)
+Les recourants font tout d’abord valoir que Z.________ aurait été mandaté par [...]
+pour instrumenter la vente de l’immeuble litigieux, dont il s’est porté acquéreur
+pour le prix de 1'300'000 fr., que le notaire aurait agi dans un cadre ministériel et à ce
+titre « pour le compte de toutes les parties » et devait, conformément
+à l’art. 40 al. 1 LNo (loi sur le notariat du 29 juin 2004 ; RLV 178.11), sauvegarder
+les intérêts de chacune d’elles, si bien que la demande de sursis présentée,
+qui constituait un préalable nécessaire à la vente de gré à gré, l’aurait
+été « par définition » pour le compte du débiteur J.________,
+de sorte que le notaire était légitimé à requérir le sursis prévu à
+l’art. 123 LP.
+Dans sa requête de sursis à la réalisation, présentée par courriel le
+28
+avril 2022 à 16h54, Z.________ a écrit avoir obtenu l’autorisation de son « client »
+– que l’on comprend être l’acheteur potentiel [...] – de verser immédiate-ment
+un montant de 100'000 fr. à l’office. Il n’a pas précisé pour qui il intervenait,
+en particulier qu’il agissait pour le débiteur J.________. Après avoir été
+interpellé deux fois à ce sujet par l’office, le notaire a écrit, par courriel du
+29 avril 2022, à 8h28, qu’il « n’agis[sait] pour personne » mais
+qu’il était le notaire de M. [...]. Au vu de ces éléments, et contrairement à
+ce que soutiennent les recourants, l’office ne pouvait pas considérer que la requête
+émanait du débiteur J.________, ni que Z.________, qui est son créancier, agissait « par
+définition » au nom de ce dernier. Au contraire, le terme « client »
+utilisé par le notaire pour désigner l’acheteur potentiel permettait plutôt de penser
+qu’il agissait pour [...].
+b)
+Les recourants font ensuite valoir que la requête n’aurait pas été tardive dès
+lors que l’office aurait pu « sans y consacrer plus de quelques minutes » fixer
+« immédiatement », le 28 avril 2022, les conditions du sursis, soit indiquer
+au débiteur « par son représentant » le montant du premier acompte et le
+délai pour payer les suivants.
+La vente aux enchères litigieuse – fixée au 29 avril 2022, à 10h – a été
+publiée le 23 novembre 2021. Les conditions de la vente ont été communiquées par
+l’office le 8 février 2022. Or, ce n’est que le 27 avril 2022 que le notaire Z.________
+a informé la PPE et [...] qu’un acquéreur potentiel, un certain M. [...], avait présenté
+une offre supérieure à 1'000'000 fr. permettant de couvrir l’ensemble des dettes du débiteur.
+L’office, qui a reçu ces courriels en copie, en a eu connais-sance en même temps, le
+27 avril 2022, mais probablement le lendemain matin seulement s’agissant du courriel de 19h32.
+Le 28 avril 2022, à 8h01, l’office a informé le notaire que la vente aux enchères
+prévue le lendemain ne pourrait être annulée que si les créancières l’ayant
+requise retiraient leurs réquisitions. C’est à 16h54, alors que la vente était prévue
+le lendemain, à 10h, que Z.________ a présenté une requête de sursis au sens de l’art.
+123 LP, sans fournir le moindre document à l’appui de sa demande, précisant simplement
+qu’il avait reçu l’autorisa-tion de l’acheteur potentiel, son « client »,
+de verser immédiatement 100'000 fr. à l’office et que Mme [...] de [...] et M. Diserens
+pour la PPE « semblaient » d’accord « pour la répartition de la somme,
+au principal bénéfice de la PPE ». Contrairement à ce que soutiennent les recourants,
+à réception de cette requête, l’office ne pouvait pas se limiter à indiquer
+au débiteur le montant du premier acompte et le délai pour payer les suivants. Il lui appartenait,
+au contraire, de vérifier si les conditions prévues à l’art. 123 LP étaient
+réalisées, à savoir si le débiteur
+rendait
+vraisemblable qu'il pouvait acquitter sa dette par acomptes et s'il s'était engagé à verser
+à l'office des acomptes réguliers et appropriés. Force est d’admettre que ces vérifications
+ne pouvaient pas être correctement effectuées dans un délai aussi bref, entre 16h45 le
+28 avril et 10h le 29 avril 2022, avant tout au vu du caractère très lacunaire de la requête
+et du fait qu’il n’apparaissait pas qu’elle était présentée par le débiteur,
+mais par un tiers. Dans circonstances, c’est à juste titre que l’office a considéré
+que
+la tardiveté de la demande l’empêchait
+d’examiner de manière approfondie les modalités et conditions du sursis.
+c)
+En troisième lieu, les recourants font valoir que les conditions pour l’octroi du sursis seraient
+réalisées dès lors qu’il aurait été rendu « plus que vraisem-blable »
+que le débiteur serait en mesure de rembourser la totalité de ses dettes, s’élevant
+à 955'218 fr. 33,  dans les semaines suivant la date initialement fixée pour la vente
+aux enchères, l’offre de [...] de 1'300'000 fr., montant dont disposait ce dernier selon son
+banquier, couvrant largement lesdites dettes, et que
+le
+« débiteur, par son notaire » s’était engagé à rembourser
+ses dettes grâce à la vente de l’immeuble et avait pris l’engagement de verser
+l’acompte de 100'000 fr. à l’office.
+Avec la première juge, il convient d’admettre que les conditions pour l’octroi du sursis
+au sens de l’art. 123 LP n’étaient pas réalisées en l’espèce. En
+effet, comme on l’a vu, dans sa requête de sursis, Z.________ s’est borné à
+indiquer qu’il avait obtenu l’autorisation d’un acheteur potentiel de verser immédiate-ment
+un montant de 100'000 fr. à l’office, sans autre précision, en particulier sur le montant
+de l’offre et la solvabilité de l’intéressé. Mais surtout, la requête
+ne contenait pas le moindre engagement quant au paiement des acomptes suivants, que ce soit du notaire,
+du débiteur ou du potentiel acheteur. Dans ces circonstances, force est de constater que cette requête
+ne contenait manifestement pas les éléments de nature à rendre vraisemblable que le débiteur
+puisse honorer les acomptes que fixerait l’office. Ce n’est que le lendemain, à 5h48,
+quelques heures avant la vente, que le notaire a précisé que M. [...] avait décidé
+de formuler une offre d’achat ferme de 1'300'000 fr. « sous réserve de l’autorisation
+Lex Friedrich » et qu’il était prêt à verser un montant supplémentaire
+de 100'000 fr. en faveur de [...], toujours sans le moindre engagement quant au paiement des acomptes
+suivants. On relève par ailleurs que le 28 avril 2022, [...] et la PPE, approchées par le notaire
+pour obtenir leur accord avec un report de la vente aux enchères, ont toutes deux maintenu leur
+réquisition de réalisation forcée, en particulier au vu du caractère lacunaire de
+l’offre relayée par Z.________. La troisième réquisition de vente, présentée
+par [...], était, elle aussi, toujours opérante. Dans ces circonstances, force est de constater
+que les conditions n’étaient pas réunies pour que l’office puisse faire application
+de l’art. 123 LP.
+S’agissant des pièces dont se prévalent les recourants, produites dans la procédure
+de plainte, on constate que le document bancaire relatif aux avoirs de [...] auprès du Crédit
+suisse est daté du 29 avril 2022, soit du jour même de la vente, de sorte que l’office
+n’a pas pu en tenir compte dans son appré-ciation. On relève également que l’offre
+datée du 28 avril 2022 et les confirmations d’offre des 3 mai et 10 juin 2022, émanant
+toutes trois de [...], font apparaître des signatures peu ressemblantes les unes aux autres, si
+bien que le caractère probant de ces pièces est douteux. On observe enfin que ni Me Z.________
+ni [...] (si besoin par un représentant pour ce qui concerne ce dernier, domicilié en Allemagne)
+n’ont participé à la vente aux enchères du 29 avril 2022, lors de laquelle l’intéressé
+aurait pu, le cas échéant, acquérir l’immeuble et peut-être même à
+un prix inférieur à son offre de 1'300'000 fr. si l’intérêt qu’il portait
+à ce bien était aussi sérieux que le prétendent les plaignants et recourants.
+d)
+Au vu de l’ensemble des éléments qui précèdent – en présence de
+trois réquisitions de réalisation forcée et d’une requête de sursis lacunaire,
+dépour-vue de tout engagement quant au paiement des acomptes postérieurs à l’acompte
+initial, présentée quelques heures avant la vente aux enchères, émanant ni du débi-teur
+ni d’un représentant de celui-ci se présentant comme tel –, l’office ne pouvait
+que décider de maintenir la vente fixée au 29 avril 2022. C’est dès lors manifeste-ment
+à juste titre que la plainte dirigée contre cette décision a été rejetée.
+IV.
+En conclusion, le recours doit être rejeté et le prononcé confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP ; 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais sans frais judiciaires ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Jérôme Bénédict, avocat (pour J.________, Z.________ et S.________) ,
+-
+M. le Préposé à l’Office des poursuites du district de la Riviera – Pays-d’Enhaut,
+-
+M. Youri Diserens, agent d’affaires breveté (pour [...]),
+-
+[...],
+-
+[...],
+-
+[...],
+-
+[...],
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
