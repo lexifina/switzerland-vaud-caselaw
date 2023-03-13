@@ -1,0 +1,123 @@
+---
+decision_id: "vd_gerichte_36ter"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CACI"
+docket: "36ter"
+decided: "2023-03-13"
+published: "2023-04-14"
+language: "fr"
+legal_area: "Mesures protectrices de l'union conjugale"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/317026f7-dcb4-4f58-b72a-526c4f68350d"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-107.md", "switzerland/bund/acts/272/art-334.md"]
+---
+
+# Mesures protectrices de l'union conjugale
+
+## Text
+
+TRIBUNAL CANTONAL
+JS22.001688-220916-220970
+36ter
+CO UR D’APPEL CIVI L E
+____________________________
+Arrêt du 13 mars 2023
+__________________
+Composition : M. HACK, juge unique
+Greffière : Mme Morand
+*****
+Art. 334 CPC
+Statuant sur la requête de rectification de l’arrêt rendu le 27
+janvier 2023 par le Juge unique de la Cour d’appel civile du Tribunal
+cantonal dans la cause opposant les appelants A.L.________, à [...], et
+B.L.________, à [...], le Juge unique de la Cour d’appel civile du Tribunal
+cantonal considère :
+1104
+
+- 2 -
+En fait et e n droi t :
+1. Par arrêt du 27 janvier 2023, le Juge unique de la Cour d’appel
+civile (ci-après : le juge unique) a notamment arrêté l’indemnité d’office de
+Me Lionel Zeiter, conseil de A.L.________, à 6’754 fr., débours, vacation et
+TVA compris (VI).
+En droit, le juge unique s’est fondé sur les listes des opérations
+des 4 novembre et 31 décembre 2022 produites par Me Lionel Zeiter, afin
+de fixer l’indemnité de conseil d’office de A.L.________ (consid. 7.3.2).
+2. Le 24 février 2023, Me Lionel Zeiter a requis la rectification du
+chiffre VI du dispositif de l’arrêt précité en ce sens que les opérations
+figurant dans sa liste du 17 janvier 2023, pour la période du 9 au 18
+janvier 2023, soient également prises en compte.
+3.
+3.1 Aux termes de l’art. 334 al. 1 CPC (Code de procédure civile
+suisse du 19 décembre 2010, RS 272), si le dispositif de la décision est
+peu clair, contradictoire ou incomplet ou qu’il ne correspond pas à la
+motivation, le tribunal procède, sur requête ou d’office, à l’interprétation
+ou à la rectification de la décision.
+Le tribunal notifie la requête de rectification à la partie adverse
+pour qu’elle se détermine, sauf si la demande est manifestement
+irrecevable ou infondée. En cas d’erreurs d’écriture ou de calcul, le
+tribunal peut toutefois renoncer à demander aux parties de se déterminer
+(art. 334 al. 2).
+3.2 En l’espèce, les opérations effectuées par Me Lionel Zeiter
+pour la période du 9 au 18 janvier 2023 auraient dû être comptabilisées,
+
+- 3 -
+de sorte qu’elles seront ajoutées à celles d’ores et déjà arrêtées dans
+l’arrêt précité.
+Dans sa liste des opérations du 17 janvier 2023, Me Lionel
+Zeiter fait état d’un temps consacré personnellement au dossier de 3
+heures et 30 minutes. Ce nombre d’heures peut être admis, compte tenu
+de la nature du litige et des difficultés de la cause. Les honoraires de Me
+Lionel Zeiter peuvent être arrêtés à 630 fr. (3 heures et 30 minutes x 180
+fr.), montant auquel s’ajoutent des débours forfaitaires de 2 % par 12 fr.
+60 (art. 3bis RAJ [règlement sur l’assistance judiciaire en matière civile du
+7 décembre 2010 ; BLV 211.02.03]) et la TVA sur le tout par 49 fr. 50, ce
+qui donne un total de 692 fr. 10, arrondi à 693 francs.
+En définitive, il y a lieu de rectifier le chiffre VI du dispositif de
+l’arrêt précité en remplaçant le montant de 6’754 fr. alloué à Me Lionel
+Zeiter conseil d’office de A.L.________ par 7’447 fr. (6’754 fr. + 693 fr.).
+4. La rectification pour laquelle le juge unique est entré en
+matière corrigeant exclusivement un point du litige qui ne concerne pas la
+partie adverse, l’arrêt rectificatif peut être rendu sans que B.L.________ ne
+soit interpellée (art. 334 al. 2 CPC).
+5. Conformément à l’art. 107 al. 2 CPC, le présent prononcé
+rectificatif sera rendu sans frais.
+
+- 4 -
+Par ces motifs,
+le Juge unique
+de la Cour d’appel civile
+prononce :
+I. Le chiffre VI du dispositif de l’arrêt rendu le 27 janvier 2023
+par le Juge unique de la Cour d’appel civile est rectifié comme
+il suit :
+VI. L’indemnité d’office de Me Lionel Zeiter, conseil de
+l’appelant A.L.________, est arrêtée à 7’447 fr. (sept mille
+quatre cent quarante-sept francs), débours, vacation et
+TVA compris.
+II. Le présent prononcé rectificatif est rendu sans frais.
+Le juge unique : La greffière :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos,
+est notifié en expédition complète à :
+- Me Lionel Zeiter (pour A.L.________),
+- Me Jeton Kryeziu (pour B.L.________),
+- Lionel Boisadam, de la DGEJ, curateur,
+
+- 5 -
+et communiqué, par l’envoi de photocopies, à :
+- M. le Président du Tribunal civil de l’arrondissement de La Côte.
+Le Juge unique considère que la valeur litigieuse est inférieure
+à 30’000 francs.
+Le présent arrêt peut faire l’objet d’un recours en matière
+civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), le cas échéant d’un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Dans les affaires
+pécuniaires, le recours en matière civile n’est recevable que si la valeur
+litigieuse s’élève au moins à 15’000 fr. en matière de droit du travail et de
+droit du bail à loyer, à 30’000 fr. dans les autres cas, à moins que la
+contestation ne soulève une question juridique de principe (art. 74 LTF).
+Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
