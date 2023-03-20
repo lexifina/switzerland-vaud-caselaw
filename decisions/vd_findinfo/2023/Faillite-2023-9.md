@@ -1,0 +1,556 @@
+---
+decision_id: "vd_findinfo_Faillite___2023___9"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2023 / 9"
+decided: "2023-03-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9349027"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-255.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-293.md", "switzerland/bund/acts/281.1/art-294.md", "switzerland/bund/acts/281.1/art-295b.md", "switzerland/bund/acts/281.1/art-295c.md", "switzerland/bund/acts/281.1/art-296b.md", "switzerland/bund/acts/281.1/art-304.md"]
+---
+
+# VD Findinfo Faillite / 2023 / 9
+
+## Regeste
+
+RÉVOCATION DU SURSIS CONCORDATAIRE, AJOURNEMENT DE LA FAILLITE, CHANCES DE SUCCÈS | 295b al. 1 LP, 296b let. b LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2023 / 9
+
+RÉVOCATION DU SURSIS CONCORDATAIRE, AJOURNEMENT DE LA FAILLITE, CHANCES DE SUCCÈS | 295b al. 1 LP, 296b let. b LP
+
+TRIBUNAL
+CANTONAL
+FV20.045849-221474
+57
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+20 mars 2023
+__________________
+Composition
+:               M.
+Hack
+,
+président
+Mme
+Byrde et M. Maillard, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+295b al. 1 ; 295c al. 1 ; 296b let. b LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par l’
+ADMINISTRATION
+FEDERALE DES CONTRIBUTIONS
+, à Berne, contre
+le jugement rendu le 25 octobre 2022, à la suite de l’audience du 29 septembre 2022, par le
+Président du Tribunal d’arrondissement de Lausanne, dans la cause opposant la recourante à
+O.________
+,
+à Crissier,
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.1
+O.________, dont le siège est à Crissier, est inscrite au Registre du commerce du canton de
+Vaud depuis le [...]. Elle a pour but la « réalisation et gestion de mandats dans le domaine
+du bâtiment et de l'industrie ; activités dans le secteur des télécommunications
+mobiles et fixes ; installations électriques ; gestion de biens mobiliers et immobiliers, à
+l'exclusion de toute opéra-tion immobilière prohibée par la LFAIE ». Son administrateur
+et directeur est [...], avec signature individuelle.
+1.2
+Procédure d’ajournement
+de faillite
+Le 3 avril 2019, O.________ a déposé
+auprès de la Présidente du Tribunal d’arrondissement de Lausanne un avis de surendettement,
+puis, le 22 mai 2019, une requête d’ajournement de faillite.
+Par décision du 7 juin 2019, la présidente a, notamment, ordonné l’ajournement
+de la déclaration de faillite d’O.________ jusqu’au 30 novembre 2019 ; suspendu
+toute poursuite qui pourrait être actuellement en cours contre la société et interdit
+qu’il en soit introduit de nouvelles ; ordonné à la société de déposer,
+jusqu’au 1
+er
+juillet 2019, les comptes audités au 31 décembre 2018 et désigné Pascal Stouder,
+agent d’affaires breveté, en qualité de curateur de la société.
+Par décisions des 3 décembre 2019 et 10 juin 2020, la présidente a prolongé,
+aux mêmes conditions que celles prévues dans la décision du 7 juin 2019, l’ajournement
+de la déclaration de faillite de la société pour, chaque fois, une durée de six mois
+à compter de la notification de la décision.
+1.3
+Procédure de sursis
+concordataire
+a)
+Le 18 novembre 2020,
+O.________
+a déposé auprès de la même autorité une requête de sursis concordataire
+provisoire.
+b)
+Par décision du 17 décembre 2020, la présidente a, notamment, accordé à la société
+requérante un sursis provisoire de quatre mois ; désigné Pascal Stouder, agent d’affaires
+breveté, en qualité de commissaire provisoire ; invité ce dernier à déposer
+un rapport écrit intermédiaire sur la situation de la société une semaine avant l’audience
+appointée 25 mars 2021 et à l’informer sans délai et en tout temps si les conditions
+à l’octroi du sursis provisoire ne devaient plus être réunies et le sursis provisoire
+révoqué.
+Le commissaire provisoire a déposé son rapport le 18 mars 2021. Il a exposé que les actifs
+d’O.________ étaient principalement constitués de deux créan-ces – l’une
+à l’égard de [...] d’un montant de 735'500 fr., et l’autre à l’égard
+de [...] d’un montant de 1'736'800 fr. 60 – et qu’en plus de ces deux créances,
+elle devait encaisser des factures totalisant environ 35'000 francs. Le commissaire a précisé
+que le Tribunal de commerce de Zurich serait « tout prochainement » saisi d’une
+action contre [...] et qu’une réquisition de poursuite pour le montant de 1'736'800 francs
+60 avait été notifiée à [...] le 10 mars 2021, ces démarches n’excluant
+toutefois pas la possibilité de trouver des solutions transactionnelles avec ses deux débitrices
+précitées. Il a également indiqué qu’il était très probable qu’en
+cas de faillite, l’office des faillites ne poursuive pas les procédures contre celles-ci,
+si bien que la procédure de sursis concordataire était la plus adaptée à la situation
+d’O.________ et permettrait, le cas échéant, d’encaisser des montants substantiels,
+ce qui permettrait à la société de payer des dividendes à ses propres créanciers.
+Le commissaire a produit une liste des créanciers chirographaires et des créanciers privilégiés,
+dont les créances totalisaient 5'910'638 fr. 19. Enfin, selon le budget établi par le commissaire,
+les charges courantes de la société devaient être couvertes par les rentrées.
+c)
+Une audience s’est tenue le 25 mars 2021 en présence de [...], administrateur et directeur
+d’O.________, de [...], assistés de l’avocat Olivier Righetti, du commissaire Pascal
+Stouder et, pour la créancière [...], de [...], au bénéfice d’une procuration.
+d)
+Par décision du 6 avril 2021, le Président du Tribunal d’arrondisse-ment de Lausanne
+a, notamment,
+accordé
+à O.________ un sursis définitif de six mois échéant le 7 octobre 2021 ; désigné
+Pascal Stouder, agent d’affaires breveté, en qualité de commissaire au sursis définitif,
+avec pour mission d’élaborer si néces-saire un projet de concordat ainsi que de surveiller
+la société en s’assurant en parti-culier de la conservation de ses actifs et du paiement
+des charges courantes ; invité le commissaire à déposer son rapport conformément
+à l’art. 304 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la
+faillite ; RS 281.1) ou, en cas de demande de prolongation du sursis, un rapport intermédiaire
+une semaine avant l’audience qui sera prochainement appointée ; invité le commissaire
+à l’informer sans délai et en tout temps le président si les conditions à l’octroi
+du sursis ne devaient plus être réunies et le sursis révoqué ; dit que la présente
+décision serait publiée dans la FAO et la FOSC et a ordonné au Registre foncier d’inscrire
+la mention « sursis » pour le cas où la société serait propriétaire
+d’un immeuble.
+Le président a considéré, en substance, que les perspectives concorda-taires étaient
+réelles dès lors que dans le cadre des procédures judiciaires contre [...] et [...], O.________
+pourrait encaisser un montant de 2'490'300 fr. 60, auquel devaient s’ajouter les 35'000 fr. de
+factures ouvertes, de sorte que c’est une somme de 2'840'000 fr. que la société était
+susceptible de recouvrer afin de combler une part de son passif connu, qui s’élevait
+à 5'910'638 fr. 19 ; qu’il était par ailleurs rendu vraisemblable qu’en cas
+de faillite, l’office des faillites ne poursuivrait pas les procédures judiciaires contre
+[...] et [...], ce qui péjorerait les chances d’O.________ de récupérer tout ou
+partie de ses créances ; le président en a conclu que l’octroi d’un sursis concordataire
+définitif de six mois se justifiait pour permettra à la société de continuer son
+activité et poursuivre les procédures judiciaires contre [...] et [...] afin d’obtenir
+le remboursement de ses créances dans la perspective réaliste de la conclusion d’un concordat
+avec ses créanciers et l’homologation de celui-ci.
+e)
+Le 27 septembre 2021, le commissaire a déposé son rapport. Il a indiqué qu’ensuite
+de la publication de l’appel aux créanciers dans la FAO du [...] 2021 et dans la FOSC du [...]
+2021, soixante-six créanciers avaient produit dans le délai légal de vingt jours, pour
+un montant de 796'991 fr. s’agissant des créanciers privilégiés et de 3'796'136
+fr. 63 s’agissant des créanciers de troisième classe, précisant que certaines créances
+étaient contestées et devaient faire l’objet d’inves-tigations plus étendues.
+Le commissaire a également indiqué qu’O.________ n’avait plus d’employés,
+que les charges courantes étaient dès lors très modestes et que la société,
+hébergée dans les locaux d’[...], ne payait plus de loyer. S’agis-sant de
+la débitrice [...], il a précisé qu’O.________ n’avait pas pu introduire de
+procédure auprès du « Handelsgerich des Kantons Zürich à Zürich »
+en raison du fait que le groupe [...] – à qui O.________ avait confié la tâche de
+recouvrer ses factures, notamment celles adressées à [...] et [...] – ne lui fournissait
+pas les décomptes précis des factures payées et impayées, si bien qu’elle devait
+privilégier, en tous les cas pour l’instant, une solution transactionnelle. En ce qui concerne
+[...], le curateur s’est référé au courrier du 24 septembre 2021 que lui avait adressé
+Me Olivier Righetti, avocat d’O.________, qui expose qu’après la notification d’un
+commandement de payer le 19 mars 2021, [...] était ouverte aux négociations, mais qu’après
+la publication du sursis concordataire, celle-ci n’avait pas donné suite aux propositions
+de rencontres qui lui ont été faites, et qu’après avoir fait ce constat, « O.________
+a réuni des informations complémentaires pour constituer un dossier adapté non seulement
+à une action en paiement – dont la procédure va prendre du temps – mais aussi à
+une requête de mainlevée pour les créances disposant d’un titre de mainlevée ».
+Le commissaire a par ailleurs relevé que la TVA pour le premier trimestre 2021 avait été
+acquittée par O.________. Enfin, il a rappelé que si la société devait être
+déclarée en faillite, les créanciers chirographaires n’auraient aucune chance de
+toucher un quelconque dividende, alors que si la procédure concordataire se poursuivait, il y aurait
+des chances d’aboutir à tout le moins à une solution transactionnelle avec [...] et [...],
+ce qui permettrait l’encaissement de fonds et le paiement de dividendes aux créanciers. Au
+vu de ces éléments, le commissaire a conclu à la prolongation du sursis concordataire
+pour une durée de douze mois, avec confirmation de ses fonctions et de l’effet suspensif.
+f)
+Par courrier du 29 septembre 2021, l’Office des poursuites du district de l’Ouest lausannois
+a informé le président que trois réquisitions de poursuites avaient été déposées
+à l’encontre d’O.________ depuis l’audience du 25 mars 2021, précisant n’avoir
+aucune réquisition de poursuite en attente pour des créances nées après l’octroi
+du sursis concordataire provisoire.
+g)
+Une audience s’est tenue le 30 septembre 2021 en présence de [...], administrateur et directeur
+d’O.________, assisté de l’avocat Olivier Righetti, du commissaire Pascal Stouder et,
+pour la créancière [...], de [...], au bénéfice d’une procuration. Il ressort
+de la décision du 14 octobre 2021 (cf. lettre h) infra), qu’à cette occasion, Me Righetti
+a indiqué qu’une « procédure de mainlevée provisoire avait été
+déposée à l’encontre de [...] auprès de la Chambre patrimoniale cantonale la
+semaine précédente » (consid. 6, 2
+e
+par., p. 1595/36) ; que le commissaire, quant à lui, a précisé que les charges courantes
+de la société étaient réglées, que le but de la présente procédure
+de sursis concordataire était d’encaisser les montants importants dus à O.________ par
+[...] et [...], seul moyen pour O.________ de payer des dividendes aux créanciers chirographaires,
+que les créanciers de la société pour-raient décider de son sort lors de la deuxième
+assemblée des créanciers, qui devrait être fixée dans le cadre de la procédure
+concordataire en cours au cas où le juge devait accorder une prolongation du sursis ; qu’en
+réponse à une question du représentant de la [...], la société a indiqué
+avoir déjà encaissé les factures ouvertes à hauteur de 350'000 fr. et que la
+[...] s’en est remise à justice.
+h)
+Par décision du 14 octobre 2021, le président a, notamment, prolon-gé
+le sursis concordataire accordé à O.________ de douze mois, soit jusqu’au
+7
+octobre 2022 ; maintenu Pascal Stouder, agent d’affaires breveté, en qualité de
+commissaire ; invité celui-ci à déposer, au 31 mars 2022 au plus tard, un rapport
+intermédiaire sur la situation de la société ainsi que sur l’évolution de ses
+démarches en vue de son assainissement, à déposer son rapport conformément à
+l’art. 304 LP une semaine avant l’audience appointée au 29 septembre 2022 et à
+l’informer sans délai et en tout temps si les conditions à l’octroi du sursis ne
+devaient plus être réunies et le sursis révoqué et ordonné la publication
+de sa décision dans la FAO et la FOSC.
+i)
+Par courrier du 8 novembre 2021, l’office des poursuites a informé le président d’une
+saisie de salaire de juin 2021 non payée par la société pour son ancien employé [...].
+j)
+Le 8 avril 2022, le commissaire a déposé son rapport intermédiaire. Il a indiqué
+qu’une assemblée des créanciers s’était tenue le 20 décembre 2021, conformément
+à l’art. 295b ch. 2 LP. Il a précisé q
+ue
+la société n’avait plus d’employé, ni de charges fixes, qu’elle occupait
+des locaux à titre gratuit chez [...] et que son activité principale se bornait au recouvrement
+des créances dues par [...] et [...]. S’agissant de cette dernière créance, le commis-saire
+a indiqué que les démarches étaient toujours en cours et que diverses réunions et
+échanges de correspondances avaient eu lieu pour établir des décomptes précis et
+trouver une solution transactionnelle, et, en ce qui concerne [...], que diffé-rents contacts étaient
+toujours en cours avec l’avocat de Zürich chargé du dépôt de la procédure,
+qui devrait intervenir d’ici la fin du mois d’avril. Il a précisé que le groupe
+[...] ne donnant pas les renseignements requis, l’Ombusdman des banques avait été saisi
+et qu’à la suite de l’intervention de ce dernier, la banque [...] avait finalement adressé
+à l’avocat Righetti, le 23 décembre 2021, des décomptes qui s’étaient
+toutefois avérés inexacts, O.________ étant finalement renvoyée à [...] pour
+des informations supplémentaires.
+k)
+Le 13 septembre 2022, l’Administration fédérale des contributions (ci-après :
+l’AFC), créancière d’O.________, a requis la mise en faillite de la société.
+l)
+Le 14 septembre 2022, le commissaire a déposé son rapport en renvoyant pour l’essentiel
+à son rapport intermédiaire
+du
+8 avril 2022. Pour le surplus, il a indiqué, au sujet de [...], qu’une procédure de conciliation
+avait été initiée auprès de la Chambre patrimoniale cantonale, mais que l’intéressée
+cherchait à gagner du temps dans le cadre des discussions menées et avait fait une offre finale
+d’un montant de 400'000 fr. pour solde de tout compte, alors que le montant des factures revendiquées
+par
+O.________ s’élevait
+à 1'736'800 fr. 60. Quant au litige contre
+[...], le commissaire a indiqué qu’aucune procédure n’avait été engagée
+devant le Tribunal de commerce de Zurich. Enfin, il a indiqué qu’O.________ n’était
+pas à même de financer les frais de procédure contre [...] et [...], estimés à
+70'000 fr., et que, dans ces circonstances, la procédure de sursis concordataire n’avait plus
+de raison d’être. Au vu de ces éléments, il a conclu à ce que le sursis concordataire
+soit révoqué et la faillite d’O.________ prononcée d’office.
+m)
+Par courrier du 23 septembre 2022,
+le
+conseil d’O.________ a formulé des observations sur le rapport du 14 septembre 2022, confirmant
+que les démarches transactionnelles n’avaient pas permis d’obtenir un résultat
+satisfaisant. Il a toutefois précisé qu’un tiers avait pris un engagement ferme et irrévocable
+de financer les procédures de la sursitaire, sauf faillite, et a produit une pièce relative
+à un ordre de paiement de 70'000 fr. qui devait être exécuté en faveur d’O.________.
+Au vu de ce nouvel élément, il a conclu à ce qu’une prolongation de six mois du
+sursis concordataire soit accordée à la société.
+n)
+Par courrier du 26 septembre 2022, le conseil d’O.________ a confirmé la réception du
+montant de 70'000 fr. versé par la société [...].
+o)
+Par courrier du 28 septembre 2022, l’office des poursuites a informé le président avoir
+reçu une réquisition de poursuite concernant O.________ depuis l’audience du 30 septembre
+2021, précisant que la créance concernait une période antérieure à la suspension
+des poursuites. Il a indiqué qu’il ne s’opposait pas à une prolongation du concordat.
+p)
+Le 29 septembre 2022, une nouvelle audience s’est tenue en présence des mêmes parties
+que celles qui avaient comparu à l’audience précé-dente. A cette occasion, le commissaire
+a conclu à une prolongation supplémentaire du sursis concordataire pour une durée de six
+mois. Il a indiqué que ses honoraires étaient couverts et a une nouvelle fois rappelé
+que si la société devait être déclarée en faillite, les créanciers chirographaires
+n’auraient aucune chance de toucher un quelconque dividende. Me Righetti a, quant à lui, confirmé
+que la société disposait désormais d’assez de liquidités pour effectuer les
+avances de frais dans les procé-dures contre [...] et [...]. La [...] s’en est remise à
+justice.
+2.
+Par décision du 25 octobre 2022, le Président
+du Tribunal d’arrondisse-ment de Lausanne a prolongé le sursis concordataire accordé
+à O.________ de six mois, soit jusqu’au 7 avril 2023 (I), a maintenu Pascal Stouder, agent
+d’affaires breveté, en qualité de commissaire, avec pour mission d’élaborer
+si nécessaire un projet de concordat ainsi que de surveiller la société
+en s’assurant en particulier de la conservation de ses actifs et du paiement des charges courantes (II),
+a dit qu’il appartenait à la société de provisionner directement le commissaire
+pour ses hono-raires (III), a invité le commissaire à déposer son rapport conformément
+à l’art. 304 LP une semaine avant l’audience appointée sous chiffre VI ci-dessous
+(IV), a invité le commissaire à informer sans délai et en tout temps le président
+si les conditions à l’octroi du sursis ne devaient plus être réunies et le sursis
+révoqué (V), a appointé la prochaine audience au jeudi 23 mars 2023 (VI), a dit que la
+présente décision sera publiée dans la FAO et la FOSC (VII), et a mis les frais judiciaires,
+arrêtés à 400 fr., frais de publication en sus, à la charge de la société
+(VIII).
+Le président a constaté qu’il ressortait de l’instruction que les charges courantes
+de la société sursitaire étaient réglées ; qu’elle n’avait
+plus d’employés et qu’elle était hébergée dans les locaux de la société
+[...]; qu’une action au fond avait été introduite à l’encontre de [...] ;
+que le commissaire avait conclu à une prolongation du sursis pour une durée de six mois, la
+poursuite de la procédure concordataire étant plus favorable aux intérêts des créanciers
+par rapport à une liquidation par voie de faillite, rappelant qu’il s’agissait de la
+dernière prolongation compte tenu de la durée légale maximale de vingt-quatre mois. Le
+président a par ailleurs relevé que dans ses rapports des 18 mars 2021, 27 septembre 2021,
+8 avril 2022 et 14 septembre 2022 déjà, le commissaire avait exposé les démarches
+qui devaient être initiées à l’encontre de [...] et de [...] et que si une procédure
+de conciliation avait récemment été introduite contre cette dernière, rien n’avait
+été entrepris contre [...], alors même qu’en mars 2021 déjà,
+O.________
+indiquait qu’il allait saisir « tout prochainement » le Tribunal de commerce
+de Zürich. Le président a considéré que sans le versement des 70'000 fr., la faillite
+devrait être prononcée, mais que maintenant que ce versement avait été effectué
+pour financer les procédures contre [...] et [...], prononcer la faillite à ce stade mettrait
+à néant les chances d’O.________ de recouvrer ses créances vis-à-vis de ses
+deux débit-rices principales. Il en a conclu qu’une prolongation du sursis pour une ultime
+durée de six mois, soit jusqu’au 7 avril 2023, paraissait adéquate pour permettre à
+la société de poursuivre ses démarches et tenter de recouvrer ses créances à
+l’égard de [...] et de [...].
+3.
+Par acte déposé le 11 novembre 2022, l’AFC a recouru contre cette décision, concluant,
+avec suite de frais et dépens, à l’annulation de la prolongation du sursis octroyée
+à O.________ et à la révocation du sursis concordataire. Elle a produit neuf pièces.
+Le 23 décembre 2022, le commissaire au sursis Pascal Stouder a conclu au rejet du recours. Il a
+produit cinq pièces.
+Le 4 janvier 2023, O.________, par son conseil, a également conclu au rejet du recours.
+En droit
+:
+I.
+a)
+En
+vertu de l'art. 295c al. 1 LP, le débiteur et les créanciers peuvent attaquer la décision
+du juge du concordat par la voie du recours, conformément au CPC (Code de procédure civile ;
+RS 272), soit plus précisément aux art. 319 à 327a CPC (TF 5A_874/2017 du 7 février
+2018 consid. 4.2.1).
+En l’espèce,
+la recourante – créancière de l’intimée – a qualité pour recourir.
+Elle a agi dans les formes requises, par acte écrit et motivé, et en temps utile, dans les
+dix jours suivant la notification de la décision attaquée (art. 321 al. 1 et 2 CPC). Le recours
+est dès lors recevable.
+Il en va de même des réponses de l’intimée et du commissaire au sursis (art. 322
+CPC).
+b)
+Selon l’art. 326 CPC,
+les conclusions, allégations de fait et preuves nouvelles sont irrecevables dans le cadre du recours
+(al. 1), les dispositions spéci-ales de la loi étant réservées (al. 2). En matière
+de concordat, la LP n’a pas prévu de régime dérogatoire (CPF 15 juillet 2022/108 ;
+CPF 13 mai 2015/131).
+Il s’ensuit que les pièces produites à l’appui du recours et de la réponse
+du commissaire, dans la mesure où elles ne figurent pas au dossier de première instance, sont
+irrecevables.
+III.
+a)
+La
+recourante soutient, en substance, que la situation financière d’O.________ se péjorerait
+et qu’il n’existerait aucune chance réaliste d’assainisse-ment. Elle expose, notamment,
+qu’en 2019, la société avait sollicité un ajournement de faillite en invoquant des
+difficultés « passagères » qui devaient s’estomper « dans
+les mois à venir » et qu’à cette époque, les dettes d’O.________
+se montaient à un peu moins de 4'500'000 fr. ; qu’après plusieurs prolongations
+d’ajournement, l’octroi d’un sursis provisoire puis d’un sursis définitif,
+les dettes d’O.________ se montent à quelque 6'000'000 fr. de dettes pour 2'865'300 fr.
+d’actifs, dont seulement 25'000 fr. semblaient réalisables dès lors que les deux créances
+composant l’essentiel desdits actifs –
+l’une
+contre [...], d’un montant de 1'736'800 fr. 60, et l’autre contre [...], d’un montant
+de 753'500 fr. – étaient litigieuses. La recourante fait par ailleurs valoir que les perspectives
+d’encaissement de ces créances sont très aléatoires et les informations fournies
+à cet égard très vagues. Enfin, elle s’inquiète du fait que la société
+n’aurait plus d’activité, ce qui suppose, à son avis, l’absence de toute
+perspective d’assainissement. Elle précise qu’au vu des circonstances, elle ne sera
+pas favorable à l’homologation du concordat.
+ba)
+Aux
+termes de l’art. 293 let. a LP, la procédure concordataire est introduite par la requête
+du débiteur, accompagnée des documents suivants : un bilan à jour, un compte de résultats
+et un plan de trésorerie ou d’autres documents présentant l’état actuel et
+futur de son patrimoine, de ses résultats ou de ses revenus ainsi qu’un plan d’assainissement
+provisoire.
+Selon l’art. 294 LP, si, durant le sursis provisoire, des perspectives d’assainissement
+ou d’homologation d’un concordat apparaissent, le juge du concor-dat octroie définitivement
+un sursis de quatre à six mois ; il statue d’office avant l’expiration du
+sursis provisoire (al. 1). Le juge cite le débiteur et, le cas échéant, le créancier
+requérant à comparaître à une audience préliminaire. Le commissaire provisoire
+fait rapport oralement ou par écrit. Le juge peut entendre d’autres créanciers (al. 2).
+Le juge prononce d’office la faillite s’il n’existe aucune perspective d’assainissement
+ou d’homologation d’un concordat (al. 3).
+Pour que le sursis
+définitif soit accordé, la perspective d'un assainisse-ment sans conclusion d'un concordat
+suffit. Le juge prononce en revanche d'office la faillite s'il n'existe aucune perspective d'assainissement
+ou d'homologation d'un concordat (art. 294 al. 3 LP). Le défaut de perspective n'a pas besoin d'être
+manifeste. Est déterminante l'existence de chances réalistes d'assainissement ou de concordat
+(TF 5A_495/2016 du 11 novembre 2016 consid. 3.1 ; TF 5A_950/2015 du 29 septembre 2016 consid.
+8.3.1). Lors de l’assainissement, tous les créanciers doivent être totalement satisfaits,
+à moins que des solutions individuelles puissent être trouvées (TF 5A_495/2016 précité
+consid. 3.1). A côté de l’apport de nouveaux moyens, entrent également en considération
+des mesures telles que la vente d’actifs de l’entreprise (TF 5A_495/2016 précité
+consid. 3.1). Selon un arrêt récemment publié, le Tribunal fédéral a encore
+précisé que l’exigence de perspectives d’assai-nissement ou d’homologation
+d’un concordat posée par l’art. 294 al. 1 LP signifie qu’un assainissement doit
+pouvoir être attendu, ou qu’un concordat doit présenter des chances réalistes d’aboutir
+(ATF 147 III 226 consid. 3.1.3).
+Pour juger si les conditions de l’homologation d’un concordat sont remplies, au sens de l’art.
+294 al. 1 LP, le juge du concordat, qui statue en procédure sommaire (art. 251 let. a CPC), doit
+se fonder sur les documents mentionnés à l’art. 293 let. a LP précité,
+ainsi que sur l’avis du commissaire au sursis provisoire, qui peut être entendu par écrit
+ou par oral ; le rapport du commissaire doit avant tout renseigner sur le point de savoir s’il
+existe des perspective d’assainissement ou de concordat. La procédure est soumise à la
+maxime d’office, de sorte que le juge peut demander la production d’autres pièces (art.
+255 let. a CPC ; Spühler/Dolge, Schuld-betreibungs- und Konkursrecht II, 8
+e
+éd., Zurich 2014, n. 399, p. 168 ; CPF 3 juin 2019/71 consid. 2 b aa).
+Sur demande du commissaire, le sursis – définitif – peut être prolongé
+jusqu’à douze mois et, dans les cas particulièrement complexes, jusqu’à
+vingt-quatre mois (art. 295b al. 1 LP).
+bb)
+Aux
+termes de l’art.
+296b
+let.
+b LP, la faillite est prononcée d’office avant l’expiration du sursis s’il n’y
+a manifestement plus aucune perspective d’assai-nissement ou d’homologation du concordat.
+c)
+En
+l’espèce, le sursis concordataire, initialement octroyé provisoire-ment le 17 décembre
+2020 pour quatre mois, puis définitivement le 6 avril 2021 pour six mois, a été prolongé
+une première fois le 14 octobre 2021 pour douze mois, puis une deuxième fois le 25 octobre
+2022 pour six mois. Cette dernière décision de prolongation – objet du présent recours
+– a été rendue à la suite de l’audience du
+29
+septembre 2022, sur la base, notamment, du rapport intermédiaire du commis-saire du 8 avril 2022,
+de son rapport du 14 septembre 2022 et des éléments fournis par O.________ dans ses courriers
+des 23 et 26 septembre 2022.
+On observe tout d’abord que dans son rapport intermédiaire du 8 avril 2022 déjà,
+le commissaire au sursis indiquait que la société n’avait plus d’employés
+et que son activité se limitait au recouvrement des créances qu’elle détenait à
+l’égard de [...] et de [...]. On comprend que si, malgré ces éléments alarmants,
+le sursis a été prolongé, c’était uniquement pour laisser à O.________
+encore quelques mois pour tenter de recouvrer ses prétendues créances à l’égard
+de [...] et [...], chiffrées respectivement à 753'500 fr. et 1'736'800 fr. 60, afin qu’elle
+ait une chance de payer des dividendes à ses propres créanciers. Il aurait certes été
+souhaitable que ces tentatives puissent aboutir favorablement. Cela dit, force est de constater que les
+démarches à l’encontre des deux débitrices se présentaient d’emblée
+assez mal. En effet, s’agissant de [...], le commissaire avait indiqué, dans son rapport du
+27 septembre 2021 déjà, qu’O.________ rencontrait d’importantes difficultés
+pour obtenir des décomptes précis du groupe [...] qu’il avait chargé du recouvrement
+de ses factures, en particulier de celles adressées à [...] et à [...], décomptes
+sans lesquels il était difficile d’entamer une procédure judiciaire de manière crédible ;
+ces difficultés se sont d’ailleurs confirmées par la suite. En d’autres termes,
+O.________ semble encore à l’heure actuelle ignorer les montants qu’elle entend réclamer,
+mais qui lui seraient dus selon elle. S’agissant de [...], il ressortait du même rapport de
+septembre 2021 qu’après la publication du sursis concordataire en mai 2021, [...] ne donnait
+pas suite aux tentatives de contact d’O.________. Au moment où le premier juge devait statuer
+sur une éventuelle prolongation du sursis, à l’issue de l’audience du 29 septembre
+2022, il était avéré qu’aucune procédure n’avait été introduite
+contre [...], bien qu’annoncée à brève échéance en avril 2021, et que
+seule une requête de conciliation avait été déposée contre [...], en mars 2021,
+procédure dans laquelle celle-ci apparaissait très peu intéressée à trouver
+une solution avec O.________. Ces éléments devaient conduire le premier juge au constat qu’il
+n’y avait aucune perspective sérieuse d’assainissement – condition nécessaire
+pour l’octroi ou la prolongation du sursis – ni aucune chance qu’O.________ puisse
+mener à bien ses démarches contre [...] et [...], surtout dans un délai aussi court, à
+savoir six mois (d’octobre 2022 à avril 2023), alors qu’elle n’avait rigoureusement
+rien obtenu en deux ans. Le fait qu’O.________ ait reçu d’un tiers, le 23 septembre
+2022, un montant de 70'000 fr. pour payer l’avance de frais des procédures contre [...] et
+[...] – ce nouvel élément étant à l’origine de la demande de prolongation
+du commissaire, qui avait conclu au prononcé de la faillite dans son rapport du 14 septembre 2022
+– ne changeait rien à ce constat. En effet, mener à bien deux procédures au fond,
+surtout contre deux géants de la télécommunication, comme en l’espèce, nécessite
+beaucoup de temps, probablement plusieurs années, ainsi que des moyens économiques importants,
+dont O.________ ne dispose à l’évidence pas. Or, la procédure de sursis concordataire
+– dont la durée est limitée, en principe à douze mois s’agissant du sursis
+définitif – n’a pas pour but de faire patienter les créanciers jusqu’à
+l’issue d’éventuelles actions judiciaires dont la durée et le résultat sont
+inévitablement aléatoires.
+Au vu de ce qui précède,
+en l’absence de toute perspective sérieuse d’assainissement de la société,
+le premier juge aurait dû refuser de prolonger le sursis octroyé à O.________, respectivement
+le révoquer, et prononcer la faillite de la société en vertu de l’art. 296b let.
+b LP.
+III.
+En conclusion, le recours doit être admis,
+le sursis concordataire octroyé à O.________ révoqué et la faillite de cette dernière
+prononcée.
+Les frais judiciaires
+de deuxième instance, arrêtés à 1’000 fr., doivent être mis à la
+charge de l’intimée, qui succombe (art. 106 al. 1 CPC). Cette dernière versera ce montant
+à la recourante qui en avait fait l’avance.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le jugement du 25 octobre 2022 est réformé aux chiffres I à VI de son dispositif en ce
+sens que le sursis concordataire octroyé à O.________ est révoqué et la faillite
+d’O.________ est prononcée, avec effet au
+20
+mars 2023 à 15 heures 30. Il est confirmé pour le surplus.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 1’000 fr. (mille francs),
+sont mis à la charge de l’intimée O.________.
+IV.
+L’intimée O.________ versera à la recourante Administration fédérale des contributions
+la somme de 1'000 fr. (mille francs) à titre de restitu-tion d'avance de
+frais
+de deuxième instance.
+V.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Administration fédérale des contributions,
+‑
+Me Olivier Righetti, avocat (pour O.________),
+-
+M. Pascal Stouder, agent d’affaires breveté,
+-
+[...],
+-
+M. le Préposé à l'Office des poursuites du district de l’Ouest lausannois,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
