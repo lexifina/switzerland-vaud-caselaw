@@ -1,0 +1,116 @@
+---
+decision_id: "vd_findinfo_Faillite___2023___10"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2023 / 10"
+decided: "2023-03-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9278085"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md"]
+---
+
+# VD Findinfo Faillite / 2023 / 10
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, RETRAIT{VOIE DE DROIT} | 76 al. 2 TFJC, 43 al. 1 let. a CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 22.03.2023 Faillite / 2023 / 10
+
+OUVERTURE DE LA FAILLITE, RETRAIT{VOIE DE DROIT} | 76 al. 2 TFJC, 43 al. 1 let. a CDPJ
+
+TRIBUNAL
+CANTONAL
+FF22.051856-230132
+47
+LE
+PRESIDENT
+DE
+LA COUR DES POURSUITES ET FAILLITES
+_________________________________________________________
+Arrêt du
+22 mars 2023
+____________________
+Art.
+43 al. 1 let. a CDPJ et 76 al. 2 TFJC
+Vu le jugement rendu à la suite de l’audience du 17 janvier 2023 par la Présidente du
+Tribunal d’arrondissement de La Broye et du Nord vaudois, prononçant la faillite d’
+I.________Sàrl
+,
+à [...], avec effet au 25 janvier 2023 à 9 heures (I) à la réquisition de
+D.________SA
+,
+à [...], ordonnant la liquidation sommaire de cette faillite (II) et mettant les frais, par 200
+fr., à la charge de la société faillie (III),
+vu le recours déposé le 31 janvier 2023
+contre ce jugement par I.________Sàrl,
+vu la décision présidentielle du 6 février 2023, prenant date le lendemain, prononçant
+l’effet suspensif et ordonnant des mesures conservatoires,
+vu la lettre adressée le 6 mars 2023 par la recourante à la cour de céans, indiquant qu’elle
+retirait son recours du 31 janvier 2023,
+vu l’art. 43 al. 1 let. a CDPJ (Code de droit privé judiciaire vaudois ; BLV 211.02) ;
+attendu qu'il y a lieu de prendre acte du retrait du recours et de rayer la cause du rôle,
+qu’il y a lieu également de révoquer l’effet suspensif accordé, la faillite
+prenant effet à la date du présent arrêt,
+que les frais de la présente décision, arrêtés à 200 fr., le dossier ayant circulé
+auprès des membres de la cour avant le retrait du recours (art. 76 al. 2 TFJC [tarif des frais judiciaires
+civiles ; BLV 270.11.5]), sont mis à la charge de la recourante (art. 106 al. 1 CPC [Code de
+procédure civile ; RS 272]),
+que la différence
+de 100 fr. avec l’avance de frais effectuée par la recourante doit lui être remboursée
+par la caisse du Tribunal cantonal.
+Par
+ces motifs,
+le
+Président de la Cour des poursuites et faillites du Tribunal cantonal,
+autorité
+de recours en matière sommaire de poursuites et de faillite,
+statuant
+en tant que juge unique au sens de l'art. 43 CDPJ :
+I.
+Prend acte du retrait du recours.
+II.
+Révoque l’effet suspensif accordé
+et dit que la faillite prend effet le 22 mars 2023, à 9 heures 15.
+III.
+Raye l'affaire du rôle.
+IV.
+Met les frais de la décision, par 200 fr.
+(deux cents francs), à la charge d’I.________Sàrl.
+V.
+Dit que la différence de 100 fr. (cent francs) avec l’avance de frais effectuée par I.________Sàrl
+doit être remboursée à la masse en faillite par la caisse du Tribunal cantonal.
+VI.
+Dit que la présente décision est exécutoire.
+Le
+président :               La greffière
+:
+Pierre
+Hack              Lise Debétaz
+Ponnaz
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+I.________Sàrl,
+‑
+D.________SA,
+-
+M. le Préposé à l'Office des poursuites du district du Gros-de-Vaud,
+-
+Mme la Préposée à l'Office des faillites de l'arrondissement de La Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de Broye-Nord vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Broye et du Nord vaudois.
+La greffière :
