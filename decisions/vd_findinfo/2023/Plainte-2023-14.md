@@ -1,0 +1,139 @@
+---
+decision_id: "vd_findinfo_Plainte___2023___14"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2023 / 14"
+decided: "2023-04-26"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9322992"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md"]
+---
+
+# VD Findinfo Plainte / 2023 / 14
+
+## Regeste
+
+MOTIVATION DE LA DEMANDE, DÉCISION D'IRRECEVABILITÉ | 18 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2023 / 14
+
+MOTIVATION DE LA DEMANDE, DÉCISION D'IRRECEVABILITÉ | 18 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+fa22.044621-230300
+10
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+26 avril 2023
+__________________
+Composition
+:              M.
+Hack
+,
+président
+Mmes
+Byrde et Giroud Walther, juges
+Greffier
+:
+Mme              Umulisa Musaby
+*****
+Art.
+18 al. 1 LP
+Vu le prononcé rendu le 17 février 2023, notifié au plaignant le 21 février suivant,
+par lequel la Présidente du Tribunal d'arrondissement de La Côte, en sa qualité d'autorité
+inférieure de surveillance, a déclaré irrecevable, pour tardiveté,
+la
+demande de seconde estimation du gage déposée le 4 novembre 2022 par
+P.________
+,
+à Bremblens (I), a révoqué l'effet suspensif accordé le 21 novembre 2022 (III) et
+a rendu cette décision sans frais (IV),
+vu l'acte posté le 28 février 2023, par lequel P.________ a demandé l'octroi de l'effet
+suspensif et a déclaré contester l'estimation de son immeuble, qui ne correspondrait pas à
+la valeur réelle de l'objet,
+vu l'ordonnance du 6 mars 2023, par laquelle le Président de la Cour de céans a rejeté
+la requête d'effet suspensif,
+vu l'écriture complémentaire postée le 1
+er
+mars 2023, par laquelle P.________ a déclaré qu'«il [était impératif] de mandater
+un nouvel expert plus minutieux»,
+vu les pièces du dossier ;
+attendu que toute décision de l’autorité inférieure de surveillance peut être
+déférée à l’autorité cantonale supérieure de surveillance dans les
+dix jours à compter de sa notification (art. 18 al. 1 LP [loi fédérale du 11 avril 1889
+sur la poursuite pour dettes et la faillite; RS 281.1] et 28 al. 1 LVLP [loi vaudoise d'application de
+la LP; RSV 280.05]),
+que le recours s’exerce par acte écrit et signé par le recourant ou son mandataire (art.
+28 al. 1 LVLP),
+qu'en l'espèce, les actes des 28 février et 1
+er
+mars 2023, qui peuvent être comprises comme un recours, ont été déposés en temps
+utile ;
+attendu que le recours doit être motivé (art. 28 al. 3 LVLP), soit indiquer brièvement
+les moyens invoqués, faute de quoi il est irrecevable (TF 5A_118/2018 du 7 février 2018 consid.
+4.2),
+que la jurisprudence du Tribunal fédéral en matière de recours selon les art. 319 ss CPC
+– applicable par analogie, du fait que l’art. 28 al. 3 LVLP n’a pas de portée
+propre (TF 5A_118/2018 du 7 février 2018 consid. 4.2 précité) – exige que le recourant
+démontre le caractère erroné de la motivation de la décision attaquée et que
+son argumentation soit suffisamment explicite pour que l’instance de recours puisse la comprendre,
+ce qui suppose une désignation précise des passages de la décision qu’il attaque
+et des pièces du dossier sur lesquelles il fonde sa critique (art. 321 al. 1 CPC ; ATF 147 III 176
+consid. 4.2.1 ; TF 5A_488/2015 du 21 août 2015 consid. 3.2.1, Revue suisse de procédure civile
+[RSPC] 2015, p. 512),
+que la motivation du recours doit donc être topique, soit se rapporter aux questions factuelles
+et juridiques tranchées par la décision attaquée (TF 5A_118/ 2018 précité, cf.
+aussi CPF 31 août 2021/30 ; CPF 4 novembre 2020/37) ;
+qu'en l'espèce, l'autorité de surveillance a considéré que le procès-verbal
+d'estimation de gage était censé avoir été communiqué au recourant le 13 octobre
+2022, soit le dernier jour du délai de garde postal, si bien que la demande de seconde estimation
+de gage que celui-ci avait déposée le 4 novembre 2022 était tardive, donc irrecevable,
+que dans ses écritures, le recourant fait allusion à cette motivation, sans toutefois développer
+aucun motif tendant à démontrer le caractère erronée de la décision attaquée,
+qu'il se contente de plaider le bien-fondé de sa demande de seconde estimation du gage, ce qui n'est
+pas pertinent pour attaquer une décision de non-entrée en matière,
+que faute de motivation topique et pertinente, le recours doit être déclaré irrecevable
+;
+attendu que le présent
+arrêt peut être rendu sans frais (art. 20a al. 2 ch. 5 LP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. P.________
+‑
+M. le Préposé à l'Office des poursuites du district de Morges.
+‑
+Administration cantonale des impôts (pour l'Etat de Vaud)
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte, autorité inférieure de
+surveillance.
+La greffière:
