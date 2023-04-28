@@ -1,0 +1,117 @@
+---
+decision_id: "vd_findinfo_Plainte___2023___13"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2023 / 13"
+decided: "2023-04-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9328514"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-398.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-067.md", "switzerland/bund/acts/281.1/art-020a.md"]
+---
+
+# VD Findinfo Plainte / 2023 / 13
+
+## Regeste
+
+PLAINTE{LP}, CURATELLE, CURATELLE DE PORTÉE GÉNÉRALE, AUTORISATION OU APPROBATION{EN GÉNÉRAL}, DÉCISION D'IRRECEVABILITÉ | 398 CC, 59 CPC (CH), 67 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2023 / 13
+
+PLAINTE{LP}, CURATELLE, CURATELLE DE PORTÉE GÉNÉRALE, AUTORISATION OU APPROBATION{EN GÉNÉRAL}, DÉCISION D'IRRECEVABILITÉ | 398 CC, 59 CPC (CH), 67 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+23.004353-230249
+13
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+28 avril 2023
+__________________
+Composition
+:              M.
+Hack
+,
+président
+M.
+Maillard et Mme Cherpillod, juges
+Greffier
+:
+M.              Clerc
+*****
+Art.
+398 al. 3 CC ; 59, 67 al. 2 CPC
+Vu la décision rendue le 3 février 2023 par la Présidente du Tribunal civil de l’arrondissement
+de La Broye et du Nord vaudois, autorité inférieure de surveillance, déclarant irrecevable
+la plainte déposée le 7 janvier 2023 par
+Q.________
+,
+à Cugy, dirigée contre l’avis de saisie du 22 décembre 2022 de l’
+O.________
+,
+vu le recours formé le 22 février 2023 contre cette décision par Q.________,
+vu l’extrait du Registre des personnes dont il ressort que le poursuivi bénéficie d’une
+curatelle provisoire de portée générale, à forme de l’art. 398 CC, que son
+curateur est V.________, du Service des curatelles et tutelles professionnelles, et que celle-ci a les
+tâches suivantes : « apporter l’assistance personnelle, représenter et gérer
+les biens de Q.________ avec diligence »,
+vu le courrier adressé le 2 mars 2023 par le Président de la cour de céans à V.________
+l’invitant à indiquer si elle ratifie le recours de son protégé,
+vu le courrier de la curatrice du 16 mars 2023 qui déclare ne pas ratifier le recours du poursuivi,
+vu le courrier du 27 mars 2023 par lequel le Président de la cour de céans a transmis à
+Q.________ la lettre de sa curatrice ;
+attendu qu’aux termes de l’art. 398 al. 3 CC, la personne concernée sous curatelle de
+portée générale est privée de plein droit de l’exercice des droits civils,
+qu’à défaut d’exercice des droits civils, le plaideur ne dispose en principe pas
+de la capacité d’ester en justice et ne peut procéder que par l’intermédiaire
+de son représentant légal (art. 67 al. 2 CPC),
+que, faute de ratification par le curateur, l’acte de procédure de la personne concernée
+est irrecevable (cf. notamment Meier, Droit de la protection de l’adulte, 2
+e
+éd., 2022, n. 711 p. 394 ; art. 59 al. 2 let. c CPC) ;
+considérant qu’en l’espèce, le recourant bénéficie d’une mesure
+provisoire de curatelle de portée générale,
+que sa curatrice a déclaré ne pas ratifier le recours de son protégé,
+que la présente procédure n’a pas trait aux droits strictement personnels de Q.________
+qui pourrait en assurer seul la défense (art. 67 a. 2 CPC),
+qu’en conséquence, faute de ratification, le recours est irrecevable ;
+attendu que la procédure de plainte étant gratuite, le présent arrêt est rendu sans
+frais (art. 20a al. 2 ch. 5 LP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. Q.________,
+-
+Mme V.________, du SCTP (pour Q.________),
+-
+le Préposé de l’O.________.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal civil de l’arrondissement de la Broye et du Nord vaudois.
+Le greffier :
