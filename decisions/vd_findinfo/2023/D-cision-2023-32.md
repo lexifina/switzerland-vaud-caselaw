@@ -1,0 +1,687 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___32"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 32"
+decided: "2023-05-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9346429"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-070.md", "switzerland/bund/acts/311.0/art-071.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-266.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-418.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2023 / 32
+
+## Regeste
+
+SÉQUESTRE{MESURE PROVISIONNELLE}, REJET DE LA DEMANDE | 71 al. 3 CP, 263 al. 1 let. d CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 12.05.2023 Décision / 2023 / 32
+
+SÉQUESTRE{MESURE PROVISIONNELLE}, REJET DE LA DEMANDE | 71 al. 3 CP, 263 al. 1 let. d CPP (CH)
+
+TRIBUNAL
+CANTONAL
+363
+PE21.009955-ARS
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+12 mai 2023
+__________________
+Composition
+:               Mme
+B Y R D E, présidente
+Mme
+Fonjallaz et M. Perrot, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+71 al. 3 CP ; 3 al. 2 let. c, 197 al. 1 let. b et 263 CPP
+Statuant sur le recours interjeté le 7 novembre 2022 conjointement par
+I.________
+et
+R.________
+contre l’ordonnance rendue le 25 octobre 2022 par le Ministère public central, division criminalité
+économique, dans la cause
+n° PE21.009955-ARS
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 20 mai 2021, les sociétés B.________ et Z.________ (désormais l’une et l’autre
+en liquidation, cf. let. b ci-dessous) ont déposé plainte pénale contre J.________ pour
+escroquerie, faux dans les titres, gestion déloyale, violation du secret de fabrication et du secret
+commercial, faux renseignements sur des entreprises commerciales et inobservation des prescriptions légales
+sur la comptabilité, ainsi que contre U.________ pour escroquerie, subsidiairement complicité
+d’escroquerie, faux dans les titres, violation du secret de fabrication et du secret commercial,
+faux renseignements sur des entreprises commerciales et inobservation des prescriptions légales
+sur la comptabilité.
+Le 4 juin 2021, le Ministère public central, division criminalité économique, a ouvert
+une instruction pénale (procédure PE21.009955-ARS) contre J.________ et U.________ pour avoir,
+à tout le moins dès la fin de l’année 2019, en leurs qualités respectives d’administrateur
+et de directeur de la société B.________, sise à [...], participé à la confection,
+respectivement à la diffusion de documents comptables controuvés destinés à tromper
+des tiers sur sa réelle situation financière, en particulier relatifs à l’exploitation
+de plusieurs de ses filiales étrangères pour les exercices 2016 à 2019, aux fins d’amener
+des futurs acquéreurs de ladite société à payer ses actions à un prix fallacieusement
+surévalué, d’une part, et dans le dessein de capter divers crédits bancaires, d’autre
+part. Il était également reproché à J.________ d’avoir, dans le courant du
+mois de mars 2021, profité de sa qualité d’administrateur de la société B.________
+pour prendre personnellement possession de documents renfermant des secrets commerciaux de l’entreprise
+dans l’intention d’en faire usage à l’encontre des intérêts de la société.
+J.________ a été organe, de fait et de droit, de B.________ jusqu’au 14 avril 2021.
+b)
+Par prononcé du 29 septembre 2021, le Président du Tribunal de l'arrondissement de la Broye
+et du Nord vaudois a révoqué le sursis concordataire provisoire accordé le 30 août
+2021 et prononcé la faillite de B.________, avec effet à partir du 29 septembre 2021. Cette
+faillite semble par ailleurs avoir entraîné celle de son actionnaire unique Z.________ (cf.
+let. c ci-dessous), prononcée le 3 décembre 2021 par la même autorité, avec effet
+le jour même.
+c)
+En l’état de l’instruction, il apparaît que Z.________ était l’actionnaire
+unique de B.________. Les pièces du dossier tendent en particulier à établir que Z.________
+a été constituée le 24 janvier 2020 pour servir de véhicule d’investissement
+et d’acquisition pour la conclusion, le 24 janvier 2020, d’un contrat de vente d’actions
+(«
+Share Purchase Agreement
+»), visant à lui faire acquérir la totalité du capital-actions de B.________, jusqu’alors
+conjointement détenu par la société tierce [...], J.________ et le frère de celui-ci,
+I.________. Le capital-actions a été aliéné pour un prix de 49'833'000 fr., en plus
+d’autres conditions.
+Toujours en l’état des informations dont dispose la direction de la procédure, Z.________
+est détenue à hauteur de 100 % par la société tierce [...], apparemment devenue depuis
+lors [...], laquelle est pour sa part détenue à hauteur de 84,40 % par la société
+tierce [...], à hauteur de 5,50 % par J.________ et à hauteur de 10,10 % par une autre société
+tierce, [...]. Quant à [...], elle est détenue à hauteur de 100 % par la société
+tierce [...] (P. 26/11, p. 2).
+La convention du 24 janvier 2020 précise qu’une partie du prix de la vente destiné à
+J.________, par 1'736'000 fr., lui serait versé par nantissement d’actions de la société
+[...] (P. 9/1 p. 3.4). Sur le solde du prix d’achat («
+base
+purchase price
+»), les sommes suivantes semblent
+avoir été réparties le 14 mai 2020 entre les vendeurs (ou leurs représentants) :
+-
+28'251'527 fr. 39 en faveur de [...];
+-
+4'043'314 fr. 16 en faveur de [...];
+-
+3'066'690 fr. 14 en faveur de I.________;
+-
+1'445'348 fr. 67 en faveur de J.________ (P. 60/1).
+Les analyses financières effectuées démontrent – en ce qui le concerne plus particulièrement
+– que, le 14 mai 2020, I.________ a effectivement perçu un montant de 3'066'690 fr. 14 sur
+le compte n° IBAN [...] ouvert auprès de la F.________, dont il est co-titulaire avec son épouse
+R.________.
+Déposé le 29 septembre 2021, le rapport établi par l’agence de Munich de [...] (ci-après
+: [...]) a mis en exergue notamment l’enregistrement de ventes de manière surévaluée
+à hauteur de plusieurs millions de francs durant les exercices 2016 à 2020 dans les programmes
+comptables de B.________, l’enregistrement de factures sans justification documentée, respectivement
+sans réception de paiement correspondant, l’absence de sorties correspondantes des stocks,
+certains clients supposés ayant même fait valoir qu’ils n’entretenaient pas de
+relation d’affaires avec la société concernée. Lors d’entretiens survenus
+avec les répondants de [...], des employés auraient par ailleurs déclaré que l’enregistrement
+de certains ordres qu’ils s’étaient vu instruire de procéder n’avaient «
+pas de sens
+», les qualifiant, en anglais, de «
+incorrect
+» ou de «
+cosmetic
+postings
+» (P. 108).
+[...] a également constaté des écarts importants entre les chiffres des ventes consolidés
+dans les comptes du groupe B.________ et les chiffres ressortant des documents comptables transmis aux
+autorités locales par les filiales brésilienne, turque et russe de B.________, sans explication
+établie. Sur la base d’instructions fournies par J.________ et par U.________, des auditeurs
+locaux pourraient ainsi avoir signé des documents comptables comportant des chiffres surévalués
+sans avoir reçu de pièces justificatives, respectivement sans avoir procédé à
+un examen approfondi. Les chiffres consolidés liés à la filiale turque semblent par ailleurs
+inclure des revenus d’une société tierce indépendante, sans raison identifiée.
+En outre, [...] a constaté que les positions de trésorerie consolidées des filiales brésilienne,
+turque et russe de B.________ s’écartent sensiblement de celles déclarées aux autorités
+locales, sans qu’aucune pièce justificative ne semble avoir été fournie pour justifier
+les positions de trésorerie des trois filiales étrangères concernées.
+Le 22 juillet 2022, [...] a produit divers éléments complémentaires tendant à confirmer
+les conclusions du rapport établi le 29 septembre 2021 (cf. P. 108). Il en ressort en particulier
+que l’enregistrement de ventes de manière surévaluée dans les programmes comptables
+de B.________ a impacté sa comptabilité annuelle des années 2016 à 2020 (et, par
+suite, la comptabilité consolidée du groupe), en ce sens que les postes comptables liés
+aux ventes litigieuses, totalisant l’équivalent de quelque 42'000'000 fr., ne correspondent
+pas à la réalité. Parallèlement, cette comptabilité annuelle potentiellement
+controuvée aurait été introduite dans la base de données virtuelle («
+virtual
+data room
+») constituée lors des négociations
+portant sur la vente des actions de B.________, intégrant une série de documents destinés,
+en particulier, aux acheteurs (P. 233).
+d)
+Le
+24 octobre 2022, la Cheffe de la cellule d’analyse du Ministère public central a déposé
+un rapport portant sur le sort de la somme de 3'066'690 fr. 14 perçue par R.________ suite à
+la vente de ses actions de B.________, initialement parvenue le 14 mai 2020 sur le compte bancaire n°
+IBAN [...] ouvert à son nom et à celui de son épouse, ayant-droits du compte, auprès
+de la F.________, respectivement son utilisation jusqu’au 16 septembre 2022 (P. 298).
+Il en ressort en substance les éléments suivants :
+-
+23%, correspondant à l’équivalent de 706'760 fr. 84 (compte tenu de divers transferts),
+demeurent déposés sous diverses formes sur des comptes dont I.________ et R.________ sont cotitulaires
+auprès de la F.________, savoir :
+--
+572'709 fr. 50 sur le compte de dépôt-titres n° [...];
+--
+3'144 fr. 15 sur le compte portfolio n° IBAN [...];
+--
+5'079 fr. 90 sur le compte portfolio n° IBAN [...];
+--
+365 fr. 38 sur le compte privé n° IBAN [...];
+--
+4'808 fr. 09 sur le compte privé n° IBAN [...];
+--
+2'054 fr. 25 sur le compte épargne n° IBAN [...];
+--
+108'079 fr. 62 sur le compte portfolio (en USD) n° [...];
+--
+10'382 fr. 70 sur le compte de garantie de loyer n° IBAN [...];
+--
+137 fr. 25 sur le compte immeuble n° IBAN [...];
+-
+39%, correspondant à la somme globale de 1'192'222 fr. 12, ont été versés à
+l’étranger entre le 29 mai 2020 et le 29 janvier 2021, soit l’équivalent de 863'674
+fr. 72 dans le cadre d’un investissement dans un «
+Hedge
+Fund
+» chapeauté par l’entité
+[...], sise en Israël (une partie de ces fonds est revenue sous forme de gains ventilés sur
+des comptes susmentionnés ouverts auprès de la F.________, entre le 18 août 2020 et le
+21 juillet 2021), l’équivalent de 306'000 fr. dans le cadre d’un virement à un
+certain [...], à Singapour, apparemment en lien avec le paiement d’une facture portant la
+référence [...], ainsi que l’équivalent de 22'547 fr. 40 (correspondant à 24'718,99
+USD) dans le cadre d’un virement au crédit d’une banque sise à Minneapolis, aux
+Etats-Unis, portant la référence « [...] »;
+-
+15%, correspondant à la somme totale de 457'423 fr. 01, ont été versés à des
+sociétés tierces dont I.________ est le gérant président, respectivement l’associé
+gérant, savoir 421'854 fr. 50 entre le 22 mai 2020 et le 30 août 2022 à [...], 20'000
+fr. le 19 mai 2021 à [...] et 15'568 fr. 51 entre le 21 décembre 2020 et le 2 mai 2022 à
+[...];
+-
+23%, correspondant au solde à hauteur de 710'284 fr. 17, ont été employés entre le
+14 mai 2020 et le 16 septembre 2022 pour procéder à divers paiements privés concernant
+essentiellement des dépenses effectuées au moyen d’une carte de crédit, l’acquisition
+d’un véhicule, des impôts, des frais d’écolage, des frais d’avocat ou
+des prélèvements en espèces.
+A teneur des informations communiquées par les établissements concernés, les relations
+bancaires sur lesquelles sont parvenus les fonds versés à [...] et à [...] présentent
+à ce jour des soldes négatifs ou quasi nuls (P. 294), le compte concerné de [...], présentant
+lui aussi un solde quasi nul, ayant quant à lui été clôturé le 1
+er
+juin 2022 (P. 296).
+e)
+I.________ et R.________ sont co-propriétaires
+à parts égales de l’immeuble n° [...],  sis [...], estimé fiscalement
+à 780'000 fr. le 16 avril 2007. Cet immeuble est grevé de deux cédules hypothécaires
+au porteur en 1
+er
+et 2
+e
+rang, d’un montant respectif de 760'000 fr. et 100'000 fr. (P. 297). Les détenteurs de ces
+titres et les créances ainsi garanties ne sont pas connus en l’état. Cet immeuble semble
+actuellement loué par des tiers pour un loyer mensuel de 2'300 francs.
+B.
+Par ordonnance du 25 octobre 2022, le Ministère
+public a prononcé le séquestre immédiat des comptes bancaires suivants au nom de I.________
+et de R.________ ouverts auprès de la F.________ :
+-
+compte de dépôt-titres n° [...];
+-
+compte portfolio n° IBAN [...];
+-
+compte portfolio n° IBAN [...];
+-
+compte privé n° IBAN [...];
+-
+compte épargne n° IBAN [...];
+-
+compte portfolio n° IBAN [...] (I).
+Le Ministère public a en outre ordonné à la F.________ de lui transmettre les relevés
+semestriels des comptes bloqués, conformément à l’article 3 de l’Ordonnance
+sur les valeurs patrimoniales séquestrées (II), a ordonné le séquestre de l’immeuble
+n° [...] sis [...], dont I.________ et R.________ sont copropriétaires, en vue de garantir
+l’exécution d’une créance compensatrice d’un montant correspondant à
+la différence entre la somme de 3'066'690 fr. 14 et les valeurs qui auront pu être confisquées
+en leurs mains (III), a requis du Conservateur du registre foncier de la Broye-Nord vaudois d'inscrire
+une restriction du droit d'aliéner sur le bien-fonds mentionné sous chiffre III ci-dessus et
+d’exonérer le Ministère public de l’émolument y relatif (IV) et a dit que,
+pour le surplus, les frais suivaient le sort de la cause (V).
+A l’appui de sa décision, le Procureur a relevé ce qui suit :
+« (…)
+les
+investigations conduites à ce stade n’ont pas révélé d’indices concrets
+permettant de craindre que I.________ ou – moins encore – son épouse R.________ aient
+participé à l’activité délictueuse en particulier reprochée à J.________,
+frère du premier nommé. A en croire J.________, les deux hommes seraient au reste en froid
+depuis plusieurs années suite aux conditions dans lesquelles I.________ a mis un terme à sa
+fonction d’administrateur de B.________ (PV aud. 2 l. 82 à 85), éléments confirmés
+par les déclarations de U.________ (PV aud. 1 l. 252 à 255). (…). Considérant ce
+qui précède, aucune instruction pénale n’a été ouverte ni à l’encontre
+de I.________, ni à celle de R.________ à ce stade.
+Il n’en demeure pas moins que le dossier contient suffisamment d’éléments permettant
+de craindre de manière concrète que J.________, en sa qualité d’administrateur de
+B.________ – potentiellement assisté de U.________ en sa qualité de directeur –
+a, plusieurs années durant, participé à la création, respectivement à la diffusion
+d’éléments comptables controuvés destinés à tromper des tiers sur la réelle
+situation financière de la société – en particulier relatifs à l'exploitation
+de plusieurs de ses filiales étrangères – et qu’il s’est ensuite fondé
+sur ces éléments controuvés pour porter à terme la vente des actions de B.________
+à un prix fallacieusement surévalué, le préjudice global pouvant atteindre plusieurs
+dizaines de millions de francs.
+Conséquemment, les investigations conduites à ce jour permettent de craindre que le prix de
+vente des actions de la société considérée, à hauteur de l’équivalent
+de CHF 49'833'000.-, a été fixé de manière viciée, sur la base – notamment
+– de données comptables falsifiées. A cet égard, force est de considérer, à
+ce stade, qu’aucun investisseur raisonnable ne se serait porté acquéreur des actions
+de B.________ s’il avait su que ses comptes avaient été falsifiés plusieurs années
+durant, que les produits des ventes qui y figuraient était très largement surévalués
+et que la société était en réalité destinée à tomber en faillite quelque
+20 mois plus tard. Compte tenu de ce qui précède, le prix usuel des actions de B.________ tel
+qu’il se présentait le 24 janvier 2020, date de la conclusion du
+Share
+Purchase Agreement
+mentionné ci-dessus, doit être considéré, du moins à ce stade de la procédure,
+comme égal à zéro.
+Dans ces circonstances, il y a lieu de craindre, toujours à ce stade de la procédure, que la
+perception de la somme de CHF 3'066'690.14 provenant, singulièrement, de la vente des actions de
+I.________ parvenue sur le compte n° IBAN [...] à son nom et à celui de son épouse
+R.________ ouvert auprès de [...] n’a pas fait l’objet d’une contre-prestation
+adéquate au sens de l’art. 70 al. 2 CP, de sorte que celle-ci pourrait être entièrement
+sujette à confiscation.
+A teneur des analyses financières, sur l’entier de la somme considérée, étaient
+encore disponibles, au 16 septembre 2022, des avoirs équivalent à CHF 706'760.84 déposés
+sur divers comptes dont I.________ et R.________ sont respectivement titulaires ou cotitulaires auprès
+de [...]. En application de l’art. 263 al. 1 let. d CPP, ces comptes seront donc tous séquestrés
+en vue de confiscation, à l’exception toutefois du compte n° IBAN [...], dans la mesure
+où il est dépositaire d’une garantie de loyer, ainsi que des comptes n° IBAN [...]
+et n° IBAN [...], liés à une gestion d’immeuble qu’il sied de ne pas prétériter
+et présentant par ailleurs tous deux un solde quasi nul au 16 septembre 2022.
+Considérant que l’entier de la somme de CHF 3'066'690.14 sujette à confiscation ne sera
+toutefois manifestement pas couverte par les séquestres précités en raison de son utilisation
+partielle, respectivement des transferts opérés à l’étranger, il se justifie,
+en application de l’art. 71 al. 3 CP, de prononcer un séquestre en vue de garantir une éventuelle
+créance compensatrice, portant sur le solde qui n’est plus disponible. A ces fins, sera ordonné
+le séquestre de l’immeuble n° [...] sis [...] propriété de I.________ et R.________
+et requis du Conservateur du registre foncier de la Broye-Nord vaudois, compétent en l’espèce,
+de procéder à l’inscription de la restriction du droit d’aliéner idoine. (…).
+Compte tenu du fait que la présente ordonnance de séquestre porte essentiellement sur des avoirs
+de I.________ et R.________ objets d’investissements et que la restriction du droit d’aliéner
+leur bien immobilier n’emporte pas, à ce stade, la privation de sa jouissance, respectivement
+la perception de ses éventuels revenus locatifs, les mesures ordonnées paraissent enfin proportionnées.
+A cet égard, il y a par ailleurs lieu de relever qu’à teneur des analyses financières
+effectuées, les comptes bancaires séquestrés ne paraissent pas être les dépositaires
+des revenus tirés des activités professionnelles de I.________ ou de R.________.
+(…) ».
+C.
+Par acte du 7 novembre 2022, I.________ et R.________,
+agissant conjointement par leur défenseur de choix, ont recouru contre cette ordonnance. Ils ont
+conclu
+,
+avec suite de frais et dépens, à son annulation. Subsidiairement, ils ont conclu à sa
+modification, en ce sens, d’une part, qu’un montant de 25'367 fr. par mois, disponible sur
+les comptes mentionnés au chiffre I de son dispositif «
+est
+laissé à la libre disposition des recourants pour subvenir à leurs charges mensuelles
+et
+(à)
+celle de leurs trois enfants
+» et, d’autre
+part, que le séquestre grevant l’immeuble est levé. Plus
+subsidiairement,
+ils ont conclu à la modification de l’ordonnance, en ce sens que le séquestre grevant
+l’immeuble n’est levé que pour moitié, soit pour la part appartenant à R.________.
+Préalablement, ils ont requis, la production, en mains de l’office des faillites, «
+de
+tout document établissant le prix de vente des actifs de la société B.________ en liquidation
+»,
+la production, par [...] et [...], «
+des
+rapports établissant la valeur de B.________ au 24 janvier 2020
+»
+et, enfin, leur audition «
+afin
+de déterminer leur train de vie et dépenses quotidiennes ainsi que pour les entendre sur les
+faits allégués dans le présent recours
+».
+Les recourants ont déposé une détermination complémentaire spontanée le 9 février
+2023 (P. 349).
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393 al. 1 let. a CPP
+(Code de procédure pénale suisse du 5 octobre 2007; RS 312.0), le recours est recevable contre
+les décisions et actes de procédure du ministère public. Une ordonnance de séquestre
+rendue par le ministère public dans le cadre de la procédure préliminaire, de même
+qu’une ordonnance de refus ou de refus partiel de levée de séquestre, est ainsi susceptible
+de recours selon les art. 393 ss CPP (Moreillon/Parein-Reymond, Code de procédure pénale, Petit
+commentaire, 2
+e
+éd., Bâle 2016, n. 24 ad art. 263 CPP).
+Le recours s’exerce par écrit dans les dix jours devant l’autorité de recours (art.
+396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP), qui est, dans le canton de Vaud, la Chambre des recours
+pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise d’introduction du Code de procédure
+pénale suisse du 19 mai 2009; BLV 312.01]; art. 80 LOJV [loi vaudoise d’organisation judiciaire
+du 12 décembre 1979; BLV 173.01]).
+1.2
+Interjeté en temps utile, auprès de
+l’autorité compétente et dans les formes prescrites (art. 385 al. 1 CPP), par les ayant
+droits des comptes bancaires séquestrés, respectivement par les propriétaires de l’immeuble
+grevé d’une restriction au droit d’aliéner, et qui ont donc un intérêt
+juridique à l’annulation ou à la modification de l’ordonnance attaquée (art.
+382 al. 1 CPP), le recours est recevable.
+2.
+2.1
+2.1.1
+Le séquestre est une
+mesure
+de contrainte qui ne peut être ordonnée, en vertu de l'art. 197 al. 1 CPP, que si elle est
+prévue par la loi (let. a), s'il existe des soupçons suffisants laissant présumer une
+infraction (let. b), si les buts poursuivis ne peuvent pas être atteints par des mesures moins sévères
+(let. c) et si elle apparaît justifiée au regard de la gravité de l'infraction (let. d).
+Selon l'art. 263 al. 1 CPP, des objets et des valeurs patrimoniales appartenant au prévenu ou à
+des tiers peuvent être mis sous séquestre, lorsqu'il est probable qu'ils seront utilisés
+comme moyens de preuves (let. a); qu'ils seront utilisés pour garantir le paiement des frais de
+procédure, des peines pécuniaires, des amendes et des indemnités (let. b); qu'ils devront
+être restitués au lésé (let. c ); et/ou qu'ils devront être confisqués
+(let. d). Aux termes de l’art. 266 al. 3 CPP, si des immeubles sont séquestrés, une restriction
+au droit de les aliéner est ordonnée et mentionnée au registre foncier.
+2.1.2
+Dans le cadre de l'examen d'un séquestre conservatoire,
+l'autorité
+statue sous l'angle de la vraisemblance, examinant des prétentions encore incertaines. Le séquestre
+pénal est en effet une mesure conservatoire provisoire destinée à préserver les objets
+ou valeurs qui peuvent servir de moyens de preuve, que le juge du fond pourrait être amené
+à confisquer ou à restituer au lésé, ou qui pourraient servir à l'exécution
+d'une créance compensatrice (art. 263 al. 1 CPP et 71 al. 3 CP).
+Tant que l'instruction n'est pas achevée, une simple probabilité suffit (ATF 140 IV 57 consid.
+4.1.1). L'autorité doit pouvoir statuer rapidement (cf. art. 263 al. 2 CPP), ce qui exclut qu'elle
+résolve des questions juridiques complexes ou qu'elle attende d'être renseignée de manière
+exacte et complète sur les faits avant d'agir (ATF 141 IV 360 consid. 3.2; ATF 140 IV 57 consid.
+4.1.2; TF 1B_667/2021 du 19 avril 2022; TF 1B_481/2021 du 4 novembre 2021 consid. 2.2; TF 1B_362/2020
+du 20 août 2020 consid. 2.4).
+2.1.3
+A teneur de l’art. 71 al. 1 CP, lorsque les valeurs patrimoniales à confisquer ne sont plus
+disponibles, le juge ordonne leur remplacement par une créance compensatrice de l’État
+d’un montant équivalent; elle ne peut être prononcée contre un tiers que dans la
+mesure où les conditions prévues à l’art. 70 al. 2 CP ne sont pas réalisées.
+Selon l'art. 71 al. 3 CP, l'autorité d'instruction peut placer sous séquestre, en vue de l'exécution
+d'une créance compensatrice, des éléments du patrimoine de la personne concernée;
+le séquestre ne donne pas de droit de préférence en faveur de l'Etat lors de l'exécution
+forcée de la créance compensatrice.
+Un séquestre est proportionné lorsqu'il porte sur des avoirs dont on peut admettre en particulier
+qu'ils pourront être vraisemblablement confisqués ou restitués en application du droit
+pénal. Tant que l'instruction n'est pas achevée et que subsiste une probabilité de confiscation,
+de créance compensatrice ou d'une allocation au lésé, la mesure conservatoire doit être
+maintenue (ATF 141 IV 360 consid. 3.2); l'intégralité des fonds doit demeurer à disposition
+de la justice aussi longtemps qu'il existe un doute sur la part de ceux-ci qui pourrait provenir d'une
+activité criminelle (TF 1B_143/2022 du 30 août 2022 consid. 4.1; TF 1B_269/2018 du 26 septembre
+2018 consid. 4.1) et un séquestre ne peut donc être levé que dans l'hypothèse où
+il est d'emblée manifeste et indubitable que les conditions matérielles d'une confiscation
+ne sont pas réalisées et ne pourront pas l'être (ATF 140 IV 133 consid. 4.2.1; ATF 139
+IV 250 consid. 2.1). Cependant, les probabilités d'une confiscation, respectivement du prononcé
+d'une créance compensatrice, doivent se renforcer au cours de l'instruction (ATF 122 IV 91 consid.
+4). Un séquestre peut apparaître disproportionné lorsque la procédure dans laquelle
+il s'inscrit s'éternise sans motifs suffisants (ATF 132 I 229 consid. 11.6). Il faut en outre que
+la quotité de cette mesure reste en rapport avec le produit de l'infraction poursuivie (ATF 130
+II 329 consid. 6).
+Il n'en va pas différemment dans l'hypothèse particulière où le séquestre tend
+uniquement à garantir une éventuelle créance compensatrice. Certes, ce type de séquestre
+peut porter sur tous les biens, valeurs et/ou revenus de l'intéressé sans qu'un lien de connexité
+avec l'infraction ne soit exigé (ATF 141 IV 360 consid. 3.2; ATF 140 IV 57 consid. 4.1.2 p. 63 s.).
+Toutefois, tant que l'étendue de la mesure ne paraît pas manifestement violer le principe de
+proportionnalité, notamment sous l'angle du respect des conditions minimales d'existence (ATF 141
+IV 360 consid. 3.2; TF 1B_123/2022 du 9 août 2022 consid. 2.1; TF 1B_157/2007 du 25 octobre 2007
+consid. 2.6; TF 1P.21/2007 du 2 mai 2007 consid. 4.3), le séquestre doit être maintenu. C'est
+devant le juge du fond au moment du prononcé de la créance compensatrice que la situation personnelle,
+notamment financière, du prévenu sera prise en considération (cf. art. 71 al. 2 CP; ATF
+141 IV 360 consid. 3.2).
+2.1.4
+La loi autorise le juge à prononcer la confiscation de valeurs patrimoniales qui sont le résultat
+d'une infraction ou qui étaient destinées à décider ou à récompenser l'auteur
+d'une infraction, si elles ne doivent pas être restituées au lésé en rétablissement
+de ses droits (art. 70 al. 1 CP). Inspirée de l'adage selon lequel « le crime ne doit
+pas payer », cette mesure a pour but d'éviter qu'une personne puisse tirer avantage d'une
+infraction (ATF 145 IV 237 consid. 3.2.1 p. 242; ATF 141 IV 155 consid. 4.1 p. 162; ATF 140 IV 57 consid.
+4.1.1 p. 62 et les références citées; TF 6B_67/2019 du 16 décembre 2020 consid. 5.2).
+La confiscation suppose un comportement qui réunisse les éléments constitutifs objectifs
+et subjectifs d'une infraction et qui soit illicite. Elle peut cependant être ordonnée alors
+même qu'aucune personne déterminée n'est punissable, ou lorsque l'auteur de l'acte répréhensible
+ne peut être puni en l'absence de culpabilité ou parce qu'il est décédé (ATF
+141 IV 155 consid. 4.1 p. 162 et les références citées). La confiscation suppose également
+un lien de causalité tel que l'obtention des valeurs patrimoniales apparaisse comme la conséquence
+directe et immédiate de l'infraction (ATF 145 IV 237 consid. 3.2.1 p. 242; ATF 141 IV 155 consid.
+4.1 p. 162 et les références citées; TF 6B_67/2019 du 16 décembre 2020 consid. 5.2).
+2.1.5
+Conformément à
+l'art. 70 al. 2 CP, la confiscation n'est pas prononcée lorsqu'un tiers a acquis les valeurs dans
+l'ignorance des faits qui l'auraient justifiée, et cela dans la mesure où il a fourni une contre-prestation
+adéquate ou si la confiscation se révèle d'une rigueur excessive. L'esprit et le but de
+la confiscation excluent en effet que la mesure puisse porter préjudice à des valeurs acquises
+de bonne foi dans le cadre d'un acte juridique conforme à la loi (ATF 115 IV 175 consid. 2b/bb p.
+178; TF 1B_343/2019 du 23 janvier 2020 consid. 4.1). Les deux conditions posées à l'art. 70
+al. 2 CP, sont cumulatives. Si elles ne sont pas réalisées, la confiscation peut être
+prononcée alors même que le tiers a conclu une transaction en soi légitime, mais a été
+payé avec le produit d'une infraction. S'agissant de la contre-prestation, elle n'est pas adéquate
+lorsque les valeurs patrimoniales ont été remises à titre gratuit (TF 1B_426/2017 du 28
+février 2018 consid. 3.2 et la référence citée). Quant à la clause de rigueur,
+elle n'a qu'une portée limitée. Il ne suffit pas que la mesure de confiscation à l'égard
+du tiers soit disproportionnée. A teneur du texte légal, il faut que la mesure frappe de manière
+particulièrement incisive le tiers dans sa situation économique (TF 6B_67/2019 du 16 décembre
+2020 consid. 5.3; TF 6B_664/2014 du 22 février 2018 consid. 8.3; TF 6S.298/2005 du 24 février
+2006 consid. 4.2).
+2.2
+2.2.1
+La décision litigieuse est fondée sur
+l'art. 263 al. 1 let. d CPP, respectivement, s’agissant de l’immeuble, sur l’art. 266
+al. 3 CPP, motif pris que les recourants sont, nonobstant leur bonne foi, susceptibles d’avoir
+profité d’infractions commises par J.________ et U.________. En effet, un montant pouvant
+constituer une partie du gain réputé illicite issu de la vente d’actions du 24 janvier
+2020 a été versé au crédit d’un compte bancaire dont les recourants étaient
+les ayant droits, avant d’être réparti par eux sur d’autres comptes dont ils avaient
+également la maîtrise. La somme de 3'066'690 fr. 14 ainsi encaissée proviendrait d’une
+vente à prix massivement surfait, de sorte qu’elle n’aurait pas fait l’objet d’une
+contre-prestation adéquate au sens de l’art. 70 al. 2 CP. Il s’ensuit, toujours selon
+le Procureur, que le produit de la vente échu à I.________ et R.________ pourrait être
+entièrement sujet à confiscation, respectivement pourrait faire l’objet d’une créance
+compensatrice pour le solde non confisqué.
+2.2.2
+Dans un premier moyen, les recourants invoquent
+que l’ordonnance de séquestre doit être annulée car
+la
+vente des actions de B.________ a, selon eux, fait l’objet d’une contre-prestation adéquate
+en faveur de I.________. Ils considèrent en particulier que l’appréciation du Ministère
+public selon laquelle la valeur de la société lors de la vente d’actions du 24 janvier
+2020 était proche de zéro ne repose sur aucun élément de preuve tangible. Ils mettent
+également en cause la force probante du rapport de [...], qu’ils tiennent pour «
+une
+analyse commandée par la plaignante seule, à l’exclusion du Ministère public
+». Ils soutiennent également que les séquestres de leurs comptes bancaires contreviennent
+à la proportionnalité, vu les entraves que ces mesures occasionnent dans le paiement de leurs
+factures courantes et ce d’autant qu’ils sont sans revenus, hormis les loyers encaissés;
+à cet égard, ils font valoir que [...] et [...] ne dégagent pas encore de bénéfice,
+cette société-là étant tributaire d’une ligne de crédit octroyée
+par [...]. Les recourants ajoutent enfin qu’ils n’ont pas été entendus par le Procureur
+avant le prononcé des mesures en cause. Ils en déduisent que le magistrat a statué dans
+l’ignorance de leur situation patrimoniale, donc en violation de leur droit d’être entendu.
+A toutes fins utiles, ils précisent être mariés sous le régime de la participation
+aux acquêts.
+2.3
+2.3.1
+Il doit d’abord être statué sur
+le moyen déduit de la violation du droit d’être entendu.
+Comme cela ressort de la jurisprudence citée ci-dessus, l'autorité statue sous l'angle de la
+vraisemblance, examinant des prétentions encore incertaines; tant que l'instruction n'est pas achevée,
+une simple probabilité suffit et l'autorité doit pouvoir statuer rapidement. La jurisprudence
+a précisé que la direction de la procédure peut procéder à une appréciation
+anticipée des preuves (ATF 141 I 60 consid. 3.3 p. 64; ATF 140 I 285 consid. 6.3.1 p. 229) et peut
+limiter son examen aux griefs pertinents (ATF 141 IV 249 consid. 1.3.1 p. 253; ATF 139 IV 179 consid.
+2.2 p. 183; TF 1B_307/2017, 1B_308/2017 et 1B_316/2017 du 16 octobre 2017 consid. 4).
+Au vu de ces principes, le moyen déduit de la violation du droit d’être entendu fait
+fi du risque que susciterait en pareille hypothèse une audition préalable des intéressés,
+auxquels il suffirait de mettre à profit l’intervalle – aussi bref soit-il – séparant
+l’audition de la notification de l’ordonnance de séquestre à la banque pour transférer
+au moins une partie de leurs avoirs pour échapper à toute mesure de contrainte. L’art.
+263 CPP en serait vidé de sa substance. C’est bien pour ce motif que la jurisprudence ne consacre
+aucun droit à être entendu préalablement en matière de séquestre. On précisera
+à cet égard que les conditions générales applicables aux comptes bancaires courants
+(ou à vue) ne comportent pas de préavis de retrait, ce qui est de nature à faciliter de
+tels transferts.
+2.3.2
+Pour ce qui est des autres moyens du recours, il doit d’abord être relevé qu’il
+est, en l’état, établi au degré de vraisemblance requis que la cession du capital
+social de B.________ le 24 janvier 2020 a procédé d’infractions pénales portant
+sur 3'066'690 fr. 14, pour ne mentionner que la part versée aux recourants. Ce montant est particulièrement
+élevé, indépendamment de savoir qui doit, toujours à ce stade, être tenu pour
+auteur, coauteur ou complice de toutes ou parties de ces infractions présumées. Ces soupçons
+suffisants de commission de diverses infractions ne se sont pas amoindris mais, bien plutôt, se
+sont étendus depuis l’ouverture de l’enquête. Il n’appartient au surplus
+pas à la Chambre de céans d’opposer tous les éléments à charge et à
+décharge, mais seulement de constater, sous l’angle de la vraisemblance, que les conditions
+posées à l’art. 197 al. 1 let. b et d CPP sont remplies, s’agissant d’infractions
+graves. La première condition posée par l’art. 70 al. 1 CP est donc réalisée.
+2.3.3
+Sous l’angle de la bonne foi au sens de l’art 70 al. 2 CP, aucun élément ne permet
+de supposer, à ce stade, que les recourants aient perçu le prix de vente des actions de B.________
+anciennement propriétés de I.________, alors même qu’ils devaient se douter que
+celui-ci provenait vraisemblablement d’une infraction, moins encore qu’ils aient eu connaissance
+d’actes délictueux. La première condition posée par l’art. 70 al. 2 CP est
+donc réalisée.
+2.3.4
+Quant à savoir si la vente des actions a fait l’objet d’une contre-prestation adéquate
+au sens de l’art 70 al. 2 CP de la part des recourants, singulièrement de I.________, l’élément
+d’appréciation déterminant est que le prix de vente était, en l’état,
+très largement surévalué, comme l’expose l’ordonnance avec clarté, ceci
+en lien avec l’activité délictueuse présumée de J.________ et de U.________.
+En effet, ainsi que le relève le Procureur, force est de considérer, toujours à ce stade,
+qu’aucun investisseur raisonnable ne se serait porté acquéreur du capital social de B.________
+pour le prix global de 49'833'000 fr. s’il avait su que les comptes de l’entreprise avaient
+été falsifiés plusieurs années durant, en particulier que les produits des ventes
+qui y figuraient étaient grossièrement surévalués, à telle enseigne que la société
+est tombée en faillite quelque 20 mois plus tard. Il est manifeste que les éventuelles malversations
+comptables ont présenté la situation financière de la société sous un jour favorable.
+Les recourants n’invoquent aucun motif qui serait de nature à expliquer une péjoration
+abrupte de cette situation qui serait survenue durant cet intervalle, soit peu après la cession
+de capital social du 24 janvier 2020, et l’on n’en discerne aucun. En l’état,
+les circonstances de la faillite commandent donc de considérer que les actifs de la société
+étaient particulièrement bas par rapport à ses passifs, peut-être même inférieurs,
+bien que l’appréciation de certains actifs immatériels (brevets éventuels, notamment)
+soit malaisée, notamment en cas de liquidation forcée. Au stade du séquestre, aucune mesure
+d’instruction n’entre en ligne de compte pour cerner plus avant la valeur nette de la société
+lors de la cession du capital-actions le 24 janvier 2020, contrairement à ce qu’affirment
+les recourants.
+Le moyen du recours déduit du défaut d’exorbitance entre le prix de vente des actions
+et la part de la valeur de la société représentée par chacun des titres tombe donc
+à faux ; au stade du séquestre, il est infirmé par la brièveté du délai
+séparant la vente des actions du prononcé de la faillite et par les analyses financières
+effectuées. Toujours en l’état, la contre-prestation n’apparaît ainsi pas
+adéquate au sens légal.
+En particulier, tenue de statuer au regard de la seule vraisemblance, l’autorité de recours
+ne saurait ordonner des mesures d’instruction tendant à une évaluation anticipée
+de la valeur de B.________ au 24 janvier 2020, respectivement des éventuels dividendes en faveur
+des créanciers sociaux. Toujours à l’aune de la vraisemblance, les différents éléments
+d’appréciation apparaissent ainsi suffisants à ce stade de l’enquête, s’agissant
+notamment des rapports de [...]. Au demeurant, la valeur exacte des actions dépend directement du
+résultat de l’enquête instruite contre J.________ et U.________ relative à la falsification
+des comptes plusieurs années durant, de sorte qu’elle ne saurait être tranchée précisément
+dans le cadre du présent recours, vu le pouvoir d’appréciation dont dispose le juge du
+séquestre. Dès lors, les mesures d’instruction sollicitées dans le recours et dans
+l’écriture complémentaire du 9 février 2023 ne sauraient être ordonnées
+en procédure de séquestre par l’autorité de recours, vu les exigences particulières
+de la jurisprudence quant au pouvoir de cognition du juge en la matière.
+Cela étant, les recourants ne contestent pas avoir encaissé, sur le compte n° IBAN CH57
+[...] ouvert à leurs noms, la somme de 3'066'690 fr. 14 provenant de cette opération. Ils se
+sont ainsi enrichis conjointement, dans une mesure importante, par la vente de titres d’une société
+qui est tombée peu après en faillite, donc d’une valeur nette devant être réputée
+particulièrement basse. La deuxième condition posée par l’art 70 al. 2 CP qui interdit
+de prononcer le séquestre n’est donc pas réalisée.
+2.3.5
+Sous l’angle de la proportionnalité
+du séquestre, il suffit de relever qu'il porte sur des avoirs dont on peut admettre en particulier
+qu'ils pourront être vraisemblablement confisqués ou restitués en application du droit
+pénal. La Cour ajoute que l'hypothèse où il est d'emblée manifeste et indubitable
+que les conditions matérielles d'une confiscation ne sont pas réalisées et ne pourront
+pas l'être n’apparaît nullement réalisée. Le fait que les recourants ne soient
+pas prévenus dans la procédure n’y change rien, pas plus que leur absence d’antécédents
+pénaux. Pour le reste, on ne saurait considérer que la mesure les frappe de manière particulièrement
+incisive dans leur situation économique. En effet, les comptes liés à la gestion de leur
+immeuble (n° IBAN [...], [...] et [...]) ne sont pas concernés par le séquestre et la
+restriction au droit d’aliéner cet élément de patrimoine ne prive pas les propriétaires
+de la faculté d’en encaisser les loyers. En outre, les recourants n’ont produit aucune
+pièce en lien avec leur situation financière, de sorte qu’on ne saurait admettre que
+le séquestre se révèle d’une rigueur excessive. Toute mesure d’instruction
+complémentaire à cet égard, et notamment l’audition des parties requise, ne saurait
+qu’être vaine, vu le pouvoir de cognition du juge du séquestre, déjà rappelé,
+et le fait, également déjà mentionné, que les parties n’ont pas produit de
+pièces en lien avec leur situation financière.
+2.4
+Les conditions du séquestre sont donc réalisées. S’agissant de l’immeuble,
+cette mesure revêt, comme déjà relevé, la forme d’une restriction au droit
+d’aliéner mentionnée au registre foncier. A cet égard, sachant que les deux recourants
+ont bénéficié dans la même mesure du produit des infractions présumées,
+dès lors que les fonds ont été virés sur des comptes dont ils sont cotitulaires,
+il n’y a pas lieu de réserver un traitement différent à la part de copropriété
+de l’épouse pour l’exempter du séquestre. Les conclusions subsidiaires du recours
+doivent ainsi être rejetées.
+3.
+Au vu de ce qui précède, le recours,
+manifestement mal fondé, doit être rejeté sans échange d’écritures (art.
+390 al. 2 CPP) et l’ordonnance du 25 octobre 2022 confirmée.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 1’870 fr. (art. 20 al. 1 TFIP [tarif des frais judiciaires de procédure
+et indemnités en matière pénale du 28 septembre 2010; BLV 312.03.1]), seront mis à
+la charge des recourants, qui succombent (cf. art. 428 al. 1 CPP), solidairement entre eux (art. 418
+al. 2 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 25 octobre 2022 est confirmée.
+III.
+Les frais d’arrêt, par 1'870 fr. (mille
+huit cent septante francs), sont mis à la charge de I.________ et de R.________, solidairement entre
+eux.
+IV.
+L’arrêt est exécutoire
+.
+La
+présidente :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Elie Elkaim, avocat (pour I.________ et R.________),
+-
+Ministère public
+central,
+et communiqué, pour ce qui est de son seul dispositif, à :
+‑
+F.________, Département juridique,
+[...],
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
