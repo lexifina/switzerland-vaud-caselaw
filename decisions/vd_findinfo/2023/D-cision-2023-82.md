@@ -1,0 +1,628 @@
+---
+decision_id: "vd_findinfo_D_cision___2023___82"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2023 / 82"
+decided: "2023-05-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9346151"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/211.432.1/art-056.md", "switzerland/bund/acts/311.0/art-070.md", "switzerland/bund/acts/311.0/art-071.md", "switzerland/bund/acts/311.0/art-073.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-266.md", "switzerland/bund/acts/312.0/art-268.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-433.md", "switzerland/bund/acts/312.0/art-436.md"]
+---
+
+# VD Findinfo Décision / 2023 / 82
+
+## Regeste
+
+SÉQUESTRE{MESURE PROVISIONNELLE}, CONFISCATION{DROIT PÉNAL}, LIEN DE CAUSALITÉ, CRÉANCE COMPENSANTE, PRINCIPE DE LA COUVERTURE DES FRAIS, PROPORTIONNALITÉ | 70 CP, 71 CP, 197 al.1 CPP (CH), 263 al. 1 let. b CPP (CH), 263 al. 1 let. d CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 16.05.2023 Décision / 2023 / 82
+
+SÉQUESTRE{MESURE PROVISIONNELLE}, CONFISCATION{DROIT PÉNAL}, LIEN DE CAUSALITÉ, CRÉANCE COMPENSANTE, PRINCIPE DE LA COUVERTURE DES FRAIS, PROPORTIONNALITÉ | 70 CP, 71 CP, 197 al.1 CPP (CH), 263 al. 1 let. b CPP (CH), 263 al. 1 let. d CPP (CH)
+
+TRIBUNAL
+CANTONAL
+86
+PE21.012265-FJL
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+16 mai 2023
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mme
+Fonjallaz et M. Maillard, juges
+Greffière
+:              Mme
+Maire Kalubi
+*****
+Art.
+70, 71 CP ; 197 al. 1, 263 al. 1 let. b et d, 266 al. 3 CPP
+Statuant sur le recours interjeté le 26 décembre 2022 par
+C.K.________
+et
+B.K.________
+contre l’ordonnance de refus de séquestre rendue le 13 décembre 2022 par le Ministère
+public de l’arrondissement du Nord vaudois dans la cause
+n° PE21.012265-FJL
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+D.K.________, né le [...] 1938, est le
+père de B.K.________, né le [...] 1961, et de C.K.________, née le [...] 1963.
+Le [...] 1990, il a épousé en secondes noces J.K.________, née le [...]1946 et elle-même
+mère de G.W.________ et de F.W.________, nés d’une précédente union respectivement
+le [...] 1972 et le [...] 1973.
+Le couple vivait dans une maison sise au chemin [...] à P.________, dont J.K.________, née
+[...], était propriétaire à titre individuel (immeuble n° [...]). Dès la mi-octobre
+2017, G.W.________ s’y est également installé.
+J.K.________ est décédée le [...] 2017. Depuis cette date, D.K.________ et G.W.________
+ont continué à cohabiter dans la maison familiale de P.________ dans un climat tendu, notamment
+en raison d’un désaccord relatif à l’héritage de leur défunte épouse
+et mère, laquelle était propriétaire, au jour de son décès, outre de l’immeuble
+n° [...] sis au chemin [...] à P.________, de l’immeuble n° [...] sis à la
+rue [...] à N.________.
+Le 27 février 2018, D.K.________ s’est ainsi opposé au testament olographe signé
+le 26 mars 2006 par feue son épouse. Le 25 avril 2018, la Justice de paix du district de l’Ouest
+lausannois a ordonné l’administration d’office de la succession de feue J.K.________.
+Par requête du 28 janvier 2019, D.K.________ a introduit une action tendant notamment à annuler
+l’usufruit qui lui avait été attribué par testament et à faire constater sa
+qualité d’héritier dans la succession de sa défunte épouse.
+b)
+Le 12 juillet 2021, le Ministère public de l’arrondissement du Nord vaudois a ouvert une instruction
+pénale contre G.W.________ pour meurtre, subsidiairement lésions corporelles graves, à
+la suite du décès de D.K.________ survenu le même jour.
+Il est en substance reproché à G.W.________
+d’avoir, le 9 juillet 2021 vers 23 h 00, dans la maison familiale sise au chemin [...] à P.________,
+lors d’une altercation survenue au rez-de-chaussée de l’habitation, asséné
+plusieurs coups de poing et de pied dans la tête et le corps de son beau-père D.K.________.
+Au terme de la bagarre, G.W.________ aurait aidé son beau-père, en le soutenant par un bras,
+à monter une rampe d’escaliers afin de se rendre au premier étage de la maison. Aux dires
+du prévenu, après avoir franchi une dizaine de marches, D.K.________ aurait effectué un
+geste avec son bras droit afin de se libérer de l’aide apportée par son beau-fils et
+aurait lâché la rambarde qu’il tenait avec la main gauche. Il se serait ensuite laissé
+tomber en arrière et aurait chuté dans les escaliers.
+D.K.________ est décédé le 12 juillet 2021 à 4 h 37 à l’Ensemble Hospitalier
+de La Côte (EHC), à Morges, où il a été transporté en ambulance après
+que G.W.________ avait composé le numéro d’urgence 144 le 9 juillet 2021 vers 23 h 00.
+L’autopsie effectuée le 13 juillet 2021 a mis en évidence la présence d’ecchymoses
+sur le visage et la tête de la victime, de dermabrasions sur le corps, d’une hémorragie
+cérébrale ainsi que des signes d’infarctus. Selon le rapport du Centre universitaire
+romand de médecine légale (CURML) du 7 juin 2022, les lésions constatées sur D.K.________
+ne pouvaient pas s’expliquer exclusivement par une chute unique dans les escaliers, mais pouvaient
+être la conséquence des coups portés. Les Dres [...] et [...] ont indiqué pouvoir
+admettre un lien de causalité entre l’altercation entre la victime et son ex-beau-fils et
+le décès de D.K.________, précisant que l’issue fatale avait toutefois été
+favorisée par le terrain pathologique cardiovasculaire préexistant, D.K.________ souffrant
+depuis longtemps d’une cardiopathie ischémique sévère, avec pose de stents coronariens
+tritronculaires en 2011 et en 2017.
+c)
+Le
+13 juillet 2021, C.K.________ et B.K.________ se sont constitués parties plaignantes, demandeurs
+au pénal et au civil dans le cadre de l’enquête ouverte contre G.W.________.
+d)
+Le 17 mai 2022, C.K.________, B.K.________, G.W.________ et F.W.________ ont conclu une convention conditionnelle
+de liquidation du régime matrimonial de feue J.K.________ née [...] et de feu D.K.________
+et de sortie de l’indivision de feue J.K.________, ainsi que de cession en lieu de partage, dans
+le cadre de laquelle ils ont notamment convenu, après cession par C.K.________ et B.K.________ de
+leurs parts respectives, que G.W.________ et F.W.________ – indivis – étaient désormais
+seuls propriétaires en main commune de l’immeuble n° [...] de N.________, avec chacun
+une part indivise d’une demie, et ont fixé la valeur vénale de cet immeuble à 2'950'000
+fr., étant précisé que ce bien était grevé d’engagements à hauteur
+de 1'431'875 fr. et que cet immeuble comprenait plusieurs appartements générant des loyers
+nets mensuels totaux de 16'532 fr. 60. Ils ont par ailleurs convenu, après cession par G.W.________
+et F.W.________ de leurs parts respectives, que C.K.________ et B.K.________ étaient désormais
+propriétaires communs de la parcelle n° [...] de P.________ pour une part indivise d’une
+demie chacun, la valeur vénale de cet immeuble étant fixée à 1'262’500 francs.
+B.
+a)
+Par acte du 19 octobre 2022, C.K.________ et
+B.K.________ ont requis du Ministère public qu’il ordonne le séquestre de la part détenue
+par G.W.________ en propriété commune sur l’immeuble n° [...] de la commune de N.________
+ainsi que les revenus qui en découlaient, pour garantir le paiement d’éventuels frais
+de procédure et indemnités ainsi qu’une éventuelle confiscation en vue de la créance
+compensatrice qui pourrait leur être allouée afin de satisfaire les conclusions civiles qu’ils
+prendraient.
+Ils ont produit un extrait du Registre foncier du 19 octobre 2022 (P. 108/3) mentionnant que
+G.W.________ et F.W.________ étaient propriétaires en main commune dudit bien-fonds.
+b)
+Par courrier du 7 décembre 2022, C.K.________ et B.K.________ ont indiqué, à la demande
+du Ministère public, qu’ils estimaient à environ 25'000 fr. le montant nécessaire
+à la défense de leurs intérêts dans le cadre de la procédure ouverte contre
+G.W.________, et à quelque 50'000 fr. chacun le montant réclamé à titre de tort moral.
+c)
+Par ordonnance du 13 décembre 2022, le Ministère public de l’arrondissement du Nord vaudois
+a rejeté la demande de séquestre de l’immeuble en propriété commune de G.W.________
+et F.W.________ sis sur la commune de N.________ présentée par C.K.________ et B.K.________.
+A titre liminaire, la procureure a relevé que la systématique légale ne permettait pas
+de confiscation en vue de la créance compensatrice, comme requis par les parties plaignantes, seul
+un séquestre en vue de confiscation, respectivement un séquestre en vue de garantir l’exécution
+d’une créance compensatrice pouvant être prononcés, conformément aux art. 263
+al. 1 let. d CPP (Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0) et 71 al. 3
+CP (Code pénal suisse du 21 décembre 1937 ; RS 311.0).
+Elle a toutefois considéré qu’aucun de ces deux séquestres ne saurait être
+envisagé sur l’immeuble sis sur la commune de N.________ dont G.W.________ et F.W.________
+étaient propriétaires en main commune, dès lors que l’accès à la propriété
+commune dont il était question ne pouvait être considéré comme étant le résultat
+direct des infractions reprochées à G.W.________, propre à justifier un séquestre
+en vue de confiscation, et que rien n’indiquait, à ce stade, que les agissements reprochés
+à G.W.________ lui avaient permis de bénéficier de valeurs patrimoniales sujettes à
+confiscation qui ne seraient plus disponibles, propres à justifier un séquestre dudit immeuble
+en vue de garantir l’exécution d’une créance compensatrice.
+La procureure a ainsi considéré que seul pouvait être envisagé un séquestre
+en vue de garantir le paiement des frais de procédure, des peines pécuniaires, des amendes
+et des indemnités au sens de l’art. 263 al. 1 let. b CPP, applicable conjointement avec l’art.
+268 CPP. Dans cette perspective, elle a relevé que le régime de la propriété commune
+impliquait en particulier que les droits de G.W.________ et de F.W.________ s’étendaient chacun
+à l’entier de l’immeuble concerné et que le partage et le droit de disposer d’une
+quote-part dudit immeuble étaient exclus aussi longtemps que durait la communauté, respectivement
+que cette propriété commune ne s’éteindrait que par l’aliénation de l’immeuble
+ou la fin de la communauté. Elle a précisé que nonobstant ce régime particulier,
+un séquestre de la part qui reviendrait de droit au prévenu en cas de liquidation de la communauté
+demeurait envisageable. Cela étant, la procureure a relevé que le séquestre prévu
+par les art. 263 al. 1 let. b et 268 CPP visait exclusivement à garantir le paiement des frais de
+procédure, des peines pécuniaires, des amendes et des indemnités prévues par l’art.
+433 CPP, dit séquestre n’ayant, en particulier, pas vocation à garantir les prétentions
+civiles de la partie plaignante, de sorte qu’il n’y avait pas de place pour un séquestre
+visant à garantir l’éventuelle indemnité pour le tort moral subi en lien avec le
+décès du père des parties plaignantes.
+Elle a estimé à cet égard que les frais prévisibles de la procédure ne devaient
+pas s’élever au-delà de quelques 50'000 fr. et a considéré que si G.W.________
+venait à être condamné pour les infractions qui lui étaient reprochées, la peine
+à prononcer ne serait selon toute vraisemblance ni une peine pécuniaire, ni une amende, mais
+bien une peine privative de liberté, laquelle échappait à la garantie visée par les
+art. 263 al. 1 let. b et 268 CPP. La procureure a enfin estimé que l’indemnité à
+forme de l’art. 433 CPP potentiellement due par G.W.________ ne saurait dépasser les quelques
+25'000 fr., de sorte que la mise en œuvre d’une éventuelle mesure au sens des art. 263
+al. 1 let. b et 268 CPP ne viserait qu’à couvrir un montant ne dépassant sans doute pas
+75'000 fr., attendu que le séquestre envisagé sur la part qui reviendrait de droit à G.W.________
+en cas de liquidation de la communauté formée avec sa sœur ne saurait porter au-delà
+des frais de procédure et indemnités qui viendraient potentiellement à être fixés
+dans le cadre du jugement final.
+Cela étant, la procureure a indiqué que la mise en œuvre d’un tel séquestre
+ne saurait être assurée que par le séquestre de l’immeuble lui-même, respectivement
+par l’inscription d’une restriction au droit de l’aliéner au Registre foncier,
+en application de l’art. 266 al. 3 CPP, seul à même de garantir que sa potentielle aliénation,
+respectivement la répartition du produit de la vente, se fasse sous le contrôle de l’autorité.
+Elle a relevé qu’à défaut de paiement des montants dus par G.W.________ au terme
+de la procédure, la part qui reviendrait de droit à ce dernier en cas de liquidation de la
+communauté ne saurait être obtenue que par la réalisation dudit immeuble, au préjudice
+également, le cas échéant, de F.W.________, dont tout portait à croire, à ce
+stade, qu’elle était parfaitement étrangère aux faits reprochés à son
+frère. En outre, à teneur de l’extrait du Registre foncier du 19 octobre 2022 produit
+par les parties plaignantes, l’immeuble était en l’état grevé de plusieurs
+droits de gage, dont les titulaires pourraient être dans la même situation.
+Après avoir rappelé que la mise en œuvre d’une mesure de contrainte devait respecter
+le principe de la proportionnalité et souligné que les mesures qui portaient atteinte aux droits
+fondamentaux des personnes qui n’avaient pas le statut de prévenu devaient être appliquées
+avec une retenue particulière, la procureure a relevé que la valeur fiscale telle qu’elle
+résultait de l’extrait du Registre foncier de l’immeuble concerné du 8 septembre
+2022 produit par les parties plaignantes se montait à 1'312'000 fr. en 2003, tout portant à
+croire que sa valeur vénale était aujourd’hui largement supérieure. Cela étant,
+elle a considéré qu’impacter les droits réels d’une – voire plusieurs
+– personnes étrangères aux faits de la cause en séquestrant un immeuble d’une
+valeur telle pour garantir le paiement d’un montant n’excédant vraisemblablement pas
+75'000 fr. paraissait largement disproportionné, ce d’autant qu’au vu de la complexité
+générale de la procédure, cette mesure pourrait s’étaler sur plusieurs mois,
+voire plusieurs années.
+La procureure a pour le surplus relevé que le Ministère public ne disposait pas, à ce
+stade,
+d’indices
+concrets permettant de craindre qu’en cas de condamnation, l’intéressé s’emploierait
+à faire disparaître la part qui lui reviendrait de droit en cas de liquidation de la communauté
+qu’il formait avec sa sœur, respectivement en cas de vente de l’immeuble.
+C.
+a)
+Par acte du 26 décembre 2022, C.K.________
+et B.K.________ ont recouru auprès de la Chambre de céans contre cette ordonnance, en concluant,
+sous suite de frais et dépens, principalement à sa réforme en ce sens que le séquestre
+de la part de liquidation de G.W.________ lui revenant dans le cadre de la communauté formée
+avec sa sœur F.W.________, propriétaire de l’immeuble n° [...] de la commune de
+N.________, soit ordonné à concurrence d’un montant de 200'000 fr., le Registre foncier
+de l’Est vaudois étant invité à inscrire une mention de blocage portant sur ledit
+immeuble à l’encontre de G.W.________ conformément à l’art. 56 let. a ORF
+(Ordonnance sur le registre foncier du 23 septembre 2011 ; RS 211.432.1). A titre subsidiaire, ils
+ont conclu à la réforme de l’ordonnance entreprise en ce sens que le séquestre des
+revenus locatifs actuels et futurs réalisés par la communauté formée par G.W.________
+et sa sœur F.W.________ soit ordonné à concurrence d’un montant de 200'000 fr.,
+le Registre foncier de l’Est vaudois étant invité à inscrire une mention de blocage
+portant sur ledit immeuble à l’encontre de G.W.________ conformément à l’art.
+56 let. a ORF. Plus subsidiairement, ils ont conclu à l’annulation de l’ordonnance rendue
+le 13 décembre 2022 par le Ministère public de l’arrondissement du Nord vaudois et au
+renvoi de la cause à l’autorité précédente pour nouvelle décision.
+Ils ont par ailleurs requis que les séquestres soient prononcés sans que le prévenu soit
+invité à se déterminer sur le recours ou, à défaut, que la cause soit renvoyée
+à l’autorité précédente pour qu’elle ordonne elle-même les séquestres
+requis sans audition du prévenu. Ils ont en outre produit six pièces sous bordereau.
+b)
+Le 20 février 2023, dans le délai imparti en application de l’art. 390 al.
+2 CPP, le Ministère public a conclu au rejet du recours, se référant à la motivation
+de l’ordonnance entreprise.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393 al. 1 let. a CPP,
+le recours est recevable contre les décisions et actes de procédure du Ministère public.
+Une ordonnance de séquestre (art. 263 CPP) rendue par le Ministère public, de même qu’une
+ordonnance de refus de séquestre, est ainsi susceptible de recours selon les art. 393 ss
+CPP (CREP 30 septembre 2022/719 ; CREP 29 novembre 2021/1042 et les références citées).
+Ce recours s’exerce par écrit, dans les dix jours, devant l’autorité de recours
+(art. 396 al. 1 CPP ; cf. art. 20 al. 1 let. b CPP), qui est, dans le canton de Vaud, la Chambre des
+recours pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise d’introduction du Code de
+procédure pénale suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [loi vaudoise d’organisation
+judiciaire du 12 décembre 1979 ; BLV 173.01]).
+1.2
+En l’espèce, interjeté en temps utile, auprès de l’autorité compétente
+et dans les formes prescrites (art. 385 al. 1 CPP), par les parties plaignantes qui ont un intérêt
+juridique à l’annulation ou à la modification de l’ordonnance entreprise (art. 382 al. 1 CPP),
+le recours est recevable. Les pièces nouvelles le sont également (art. 390 al. 4
+in
+fine
+CPP ; Moreillon/Parein-Reymond, Petit commentaire,
+Code de procédure pénale, 2
+e
+éd., Bâle 2016, n. 8 ad art. 385 CPP ; CREP 22 novembre 2021/1005 consid. 1.2
+et la référence citée).
+2.
+2.1
+Les recourants soutiennent que les conditions
+d’un séquestre en vue de garantir l’exécution d’une créance compensatrice
+et en couverture des frais seraient réalisées.
+Ils font valoir qu’après le décès de D.K.________, le prévenu et sa sœur
+seraient devenus
+ipso facto
+propriétaires de l’immeuble sis à P.________, sur lequel le défunt jouissait de
+son vivant d’un droit d’usufruit. Ils soutiennent ainsi que les faits reprochés au prévenu,
+lesquels se seraient inscrits dans le cadre d’un litige successoral l’ayant divisé d’avec
+sa victime, seraient la cause essentielle et adéquate de l’obtention des actifs successoraux
+dont il était frustré jusque-là en sa qualité de nu-propriétaire de l’immeuble
+de P.________. Ils relèvent que dès lors que l’immeuble de P.________ leur appartiendrait
+désormais, la confiscation ne serait plus possible, de sorte qu’une créance compensatrice
+devrait être ordonnée en remplacement sur tous les autres biens appartenant au prévenu.
+Les recourants font pour le surplus valoir qu’il existerait des indices suffisants relatifs à
+la commission d’une infraction, dont la gravité ne ferait aucun doute. S’agissant enfin
+du respect du principe de la proportionnalité, ils soutiennent que l’immeuble dont le séquestre
+est requis présenterait une valeur vénale de 2'950'000 fr., dont à déduire les engagements
+hypothécaires de 1'431'875 fr., soit une valeur de réalisation nette d’environ 1'518'125
+fr., le montant de la part de liquidation revenant au prévenu étant de 759'062 fr. 50. Dès
+lors que le séquestre serait requis tant pour la couverture des frais et indemnités, estimés
+à 75'000 fr., que pour garantir l’exécution de la créance compensatrice, notamment
+les conclusions civiles qui seraient prises, soit à tout le moins l’indemnité pour tort
+moral estimée pour chacun d’eux à 50'000 fr., le séquestre viserait donc à
+assurer le recouvrement d’un montant total d’environ 200'000 fr., soit plus du quart de la
+part de liquidation nette revenant au prévenu. Ils font de surcroît valoir que le séquestre
+ne serait en aucun cas disproportionné, puisqu’il pourrait et devrait être prononcé
+à concurrence de 200'000 fr. seulement.
+A titre subsidiaire, les recourants font valoir que le séquestre des revenus locatifs dégagés
+par la communauté formée par le prévenu et sa sœur – qui se monteraient à
+plus de 16'000 fr. par mois au total – devrait être prononcé, invoquant le respect du
+principe de la proportionnalité dès lors que seuls les fruits civils perçus par la communauté
+seraient alors visés.
+Ils soutiennent encore que les droits des tiers, soit la sœur du prévenu et le créancier-gagiste,
+ne seraient nullement mis en péril par les mesures requises, qu’il s’agisse du séquestre
+de la part de liquidation ou de celui des revenus locatifs, dans la mesure où ils ne seraient pas
+davantage atteints que par des mesures d’exécution ou de garantie idoines que n’importe
+quel créancier du prévenu pourrait requérir, et relèvent que l’ordonnance entreprise
+ne retiendrait pas que le régime de protection des tiers instauré par l’Ordonnance du
+Conseil fédéral du 17 janvier 1923 concernant la saisie et la réalisation des parts de
+communauté (OPC ; RS 281.41) serait insuffisant en l’espèce et léserait les
+intérêts de la sœur du prévenu ou du créancier-gagiste dans une mesure plus
+importante que n’importe quelle autre mesure d’exécution forcée dirigée contre
+le membre d’une communauté.
+Les recourants relèvent au demeurant que la part de liquidation du prévenu ferait d’ores
+et déjà l’objet d’une saisie, ce qui relativiserait l’intérêt théorique
+de sa sœur et du créancier-gagiste à ne souffrir d’aucune mesure d’exécution
+ou de garantie portant sur l’immeuble ou ses revenus, d’une part, et rendrait vraisemblable
+l’urgence de prononcer les mesures requises afin d’éviter que le patrimoine du prévenu
+ne puisse plus être réalisé après le jugement au fond si un verdict de culpabilité
+était prononcé, d’autre part, dès lors qu’il existerait bel et bien des indices
+concrets que la fortune du prévenu – ou les revenus de sa fortune – seraient susceptibles
+de disparaître.
+2.2
+2.2.1
+Le séquestre pénal est une mesure de contrainte prévue à l’art. 263 CPP,
+qui consiste à mettre sous main de justice des objets ou des valeurs patrimoniales appartenant au
+prévenu ou à des tiers, dans le but de les utiliser comme moyens de preuves (art. 263 al. 1
+let. a CPP), de les réaliser en vue du paiement des frais de procédure, des peines pécuniaires,
+des amendes et des indemnités (art. 263 al. 1 let. b CPP), de les restituer au lésé (art.
+263 al. 1 let. c CPP) ou de les confisquer (art. 263 al. 1 let. d CPP).
+En tant que mesure de contrainte au sens de l’art. 196 CPP, le séquestre ne peut être
+ordonné que lorsqu’il est prévu par la loi, que des soupçons suffisants laissent
+présumer une infraction, que les buts poursuivis ne peuvent pas être atteints par des mesures
+moins sévères et que la mesure apparaît justifiée au regard de la gravité de
+l'infraction (art. 197 al. 1 CPP).
+2.2.2
+Aux termes de l'art. 70 al. 1 CP, le juge prononce la confiscation des valeurs patrimoniales qui sont
+le résultat d'une infraction ou qui étaient destinées à décider ou à récompenser
+l'auteur d'une infraction, si elles ne doivent pas être restituées au lésé en rétablissement
+de ses droits. La confiscation au sens de l'art. 70 CP suppose une infraction, des valeurs patrimoniales,
+ainsi qu'un lien de causalité tel que l'obtention des secondes apparaisse comme la conséquence
+directe et immédiate de la première. L'infraction doit être la cause essentielle, respectivement
+adéquate, de l'obtention des valeurs patrimoniales et celles-ci doivent typiquement provenir de
+l'infraction en cause (ATF 145 IV 237 consid. 3.2.1 ; ATF 144 IV 285 consid. 2.2, JdT 2019 IV 3 ;
+ATF 144 IV 1 consid. 4.2.1). Les valeurs patrimoniales confiscables se rapportent à tous les avantages
+économiques illicites obtenus directement ou indirectement au moyen d'une infraction, qui peuvent
+être déterminés de façon comptable en prenant la forme d'une augmentation de l'actif,
+d'une diminution du passif, d'une non-diminution de l'actif ou d'une non-augmentation du passif (ATF
+144 IV 1 précité consid. 4.2.2 ; ATF 125 IV 4 consid. 2a/bb ; TF 1B_398/2022
+du 13 décembre 2022 consid. 5.1). Le but poursuivi au travers de l'art. 70 CP est d'empêcher
+qu'un comportement punissable ne procure un gain à l'auteur ou à des tiers, conformément
+à l'adage selon lequel « le crime ne doit pas payer » (ATF 145 IV 237 précité ;
+ATF 144 IV 285 précité ; ATF 144 IV 1 précité consid. 4.2.1).
+Le Tribunal fédéral a retenu, dans le cas d’un prévenu qui avait provoqué la
+mort de sa mère afin de pouvoir disposer des revenus d’immeubles dont il n’était
+jusqu’alors que le nu-propriétaire, que si l’obtention des revenus n’apparaissait
+certes pas être un élément objectif ou subjectif de l’infraction reprochée,
+il existait également un lien suffisant entre l’infraction et les valeurs à confisquer
+lorsque celles-ci constituaient un avantage direct et immédiat découlant de l’infraction
+(TF 6S.819/1998, SJ 1999 I 417). Il a considéré dans ce cas qu’il apparaissait que l’infraction
+reprochée au prévenu était la cause essentielle et adéquate de l’obtention
+des revenus dont il était frustré jusque-là en sa qualité de nu-propriétaire,
+ce qui suffisait, sous l’angle de la vraisemblance, pour envisager une application de l’art.
+70 CP (TF 1B_157/2007 du 25 octobre 2007 consid. 2.3). Dans une telle hypothèse, le Tribunal fédéral
+a en outre considéré qu’une procédure de confiscation indépendante ultérieure
+était incompatible avec le principe
+ne
+bis in idem
+et ne pouvait être diligentée
+si, compte tenu des principes précités, la confiscation d’avantages futurs aurait pu
+être ordonnée à l’issue d’une procédure pénale préalable (ATF
+144 IV 1 précité consid. 4 et 5). Toutefois, ne sont pas des valeurs patrimoniales confiscables
+au sens de l’art. 70 al. 1 CP celles qui proviennent d’un acte juridique objectivement légal.
+L’accord en question, par lequel l’auteur des homicides renonce à son statut d’héritier,
+en contrepartie de quoi il reçoit des héritiers un immeuble et de l’argent provenant
+de la succession de ses parents tués, est valable. Les valeurs patrimoniales que l’auteur
+reçoit du fait de cet accord ne peuvent être confisquées (ATF 144 IV 285 précité
+consid. 2).
+Le séquestre en vue de confiscation prévu par l’art. 263 al. 1 let. d CPP consiste en
+la confiscation de biens en raison de leur origine criminelle ou du danger qu’ils représentent
+pour la sécurité, l’ordre public ou encore la morale. Il a pour but de préparer
+la confiscation au sens des art. 69 et 70 CP (Moreillon/Parein-Reymond, op. cit., n. 19 ad art. 263 CPP).
+Il s’agit d’une mesure conservatoire provisoire fondée sur la vraisemblance (ATF 143
+IV 357 consid. 1.2.3 et les arrêts cités). Un séquestre est proportionné lorsqu’il
+porte sur des avoirs dont on peut admettre,
+prima
+facie
+, qu'ils pourront être confisqués
+en application du droit pénal fédéral (ATF 144 IV 285 précité ; TF 1B_343/2020
+du 3 septembre 2020 consid. 3.1). Tant que l'instruction n'est pas achevée et que subsiste une probabilité
+de confiscation, de créance compensatrice ou d'une allocation au lésé, la mesure conservatoire
+doit être maintenue (ATF 141 IV 360 consid. 3.2 ; ATF 140 IV 57 consid. 4.1.1 ; TF 1B_398/2022
+précité consid. 5.3) ; l'intégralité des fonds doit demeurer à disposition
+de la justice aussi longtemps qu'il existe un doute sur la part de ceux-ci qui pourrait provenir d'une
+activité criminelle (TF 1B_398/2022 précité ; TF 1B_144/2022 du 30 août
+2022 consid. 3.1 ; TF 1B_343/2020 précité) et un séquestre ne peut donc être
+levé que dans l'hypothèse où il est d'emblée manifeste et indubitable que les conditions
+matérielles d'une confiscation ne sont pas réalisées et ne pourront pas l'être (ATF
+140 IV 133 consid. 4.2.1 ; ATF 139 IV 250 consid. 2.1). Cependant, les probabilités d'une confiscation,
+respectivement du prononcé d'une créance compensatrice, doivent se renforcer au cours de l'instruction
+(ATF 122 IV 91 consid. 4 ; TF 1B_398/2022 précité ; TF 1B_144/2022 précité).
+Un séquestre peut en effet apparaître disproportionné lorsque la procédure dans laquelle
+il s'inscrit s'éternise sans motifs suffisants (ATF 132 I 229 consid. 11.6). En outre, pour respecter
+le principe de proportionnalité, l'étendue du séquestre doit rester en rapport avec le
+produit de l'infraction poursuivie (ATF 130 II 329 consid. 6 ; TF 1B_343/2020 précité ;
+cf. aussi ATF 140 IV 57 précité consid. 4.3). Par ailleurs, l'autorité doit pouvoir décider
+rapidement du séquestre provisoire (cf. art. 263 al. 2 CPP), ce qui exclut
+qu'elle résolve des questions juridiques complexes ou qu'elle attende d'être renseignée
+de manière exacte et complète sur les faits avant d'agir (ATF 141 IV 360 précité
+; ATF 140 IV 57 précité consid. 4.1.2).
+Lorsque l'avantage illicite doit être confisqué, mais que les valeurs patrimoniales en résultant
+ne sont plus disponibles – parce qu'elles ont été consommées, dissimulées ou
+aliénées –, le juge ordonne le remplacement par une créance compensatrice de l'Etat
+d'un montant équivalent. Le but de cette mesure est d'éviter que celui qui a disposé des
+objets ou valeurs à confisquer soit privilégié par rapport à celui qui les a conservés
+; elle ne joue qu'un rôle de substitution de la confiscation en nature et ne doit donc, par rapport
+à celle-ci, engendrer ni avantage ni inconvénient. En raison de son caractère subsidiaire,
+la créance compensatrice ne peut être ordonnée que si, dans l'hypothèse où les
+valeurs patrimoniales auraient été disponibles, la confiscation eût été prononcée
+: elle est alors soumise aux mêmes conditions que la confiscation. Néanmoins, un lien de connexité
+entre les valeurs saisies et l'infraction commise n'est pas requis (ATF 144 IV 1 précité consid.
+4.2.4 ; ATF 140 IV 57 précité ; TF 1B_398/2022 précité consid. 5.2).
+Le séquestre en vue de garantir une créance compensatrice est possible en application de l'art.
+71 al. 3 CP. Cette disposition permet à l'autorité d'instruction de placer sous séquestre,
+en vue de l'exécution d'une créance compensatrice, des valeurs patrimoniales appartenant à
+la personne concernée, sans lien de connexité avec les faits faisant l'objet de l'instruction
+pénale (ATF 141 IV 360 précité ; ATF 140 IV 57 précité ; Moreillon/Parein-Reymond,
+op. cit., n. 8 ad remarques préliminaires aux art. 263 à 268 CPP). Le séquestre peut porter
+sur tous les biens de la personne suspectée, qu’ils aient été acquis légalement
+ou non, et ce jusqu’à concurrence présumée du produit de l’infraction. Ce
+n'est que dans le cadre du jugement au fond que seront examinés l'éventuel prononcé définitif
+de la créance compensatrice et sa possible allocation au lésé (cf. art. 73 al. 1 let. c CP).
+Il en résulte que, tant que l'instruction n'est pas achevée et que subsiste une possibilité
+qu'une créance compensatrice puisse être ordonnée, la mesure conservatoire doit être
+maintenue, car elle se rapporte à des prétentions encore incertaines (ATF 140 IV
+57 précité et les références citées). Au regard de la proportionnalité,
+tant que l’étendue de la mesure ne viole pas manifestement le principe de la proportionnalité,
+notamment sous l’angle du respect des conditions minimales d’existence, le séquestre
+en garantie d’une créance compensatrice doit être maintenu (ATF 141 IV 360 précité
+consid. 3.2).  Il appartient par la suite à l’autorité de jugement de confisquer
+ce qui doit l’être et de maintenir pour le surplus le séquestre en vue de l’exécution
+de la créance compensatrice qu’elle prononcera (ATF 140 IV 57 précité consid. 4
+; Dupuis et al. [éd.], Petit commentaire, Code pénal, 2
+e
+éd., Bâle 2017, n. 18 ad art. 71 CP).
+2.2.3
+Selon l'art. 263 al. 1 let. b CPP, des objets et des valeurs patrimoniales appartenant au prévenu
+ou à des tiers peuvent être mis sous séquestre notamment lorsqu'il est probable qu'ils
+seront utilisés pour garantir le paiement des frais de procédure, des peines pécuniaires,
+des amendes et des indemnités. L'art. 268 CPP précise que le patrimoine d'un prévenu peut
+être séquestré dans la mesure qui paraît nécessaire pour couvrir les frais de
+procédure et les indemnités à verser (al. 1 let. a), ainsi que les peines pécuniaires
+et les amendes (al. 1 let. b). Lors du séquestre, l'autorité pénale tient compte du revenu
+et de la fortune du prévenu et de sa famille (al. 2). Les valeurs patrimoniales insaisissables selon
+les art. 92 à 94 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la
+faillite ; RS 281.1) sont exclues du séquestre (al. 3).
+Comme toute autre mesure de séquestre, celui en couverture des frais est fondé sur la vraisemblance.
+Tant que l'instruction n'est pas achevée, une simple probabilité suffit car la saisie se rapporte
+à des prétentions encore incertaines. L'autorité pénale doit pouvoir décider
+rapidement du séquestre provisoire (cf. art. 263 al. 2 CPP), ce qui exclut qu'elle résolve
+des questions juridiques complexes ou qu'elle attende d'être renseignée de manière exacte
+et complète sur les faits avant d'agir (ATF 116 Ib 96 consid. 3a ; TF 1B_162/2021 du 13 octobre
+2021 consid. 2.1 ; TF 1B_136/2014 du 14 mai 2014 consid. 2.1).
+Le séquestre en couverture des frais peut porter sur tous les biens et valeurs du prévenu,
+même ceux qui n'ont pas de lien de connexité avec l'infraction. Pour ce type de saisie, comme
+pour toutes les mesures de contrainte, le principe de la proportionnalité doit être respecté
+(ATF 141 IV 360 précité consid. 3.1 ; TF 1B_162/2021 précité ; TF
+1B_136/2014 précité).
+Le principe de la proportionnalité doit d'abord être pris en considération lorsqu'il s'agit
+de décider de l'opportunité du séquestre en couverture de frais. L'autorité pénale
+doit disposer d'indices lui permettant de douter du futur recouvrement des frais auxquels le prévenu
+sera condamné. Cela peut être le cas si le prévenu procède à des transferts
+de biens aux fins d'empêcher une soustraction ultérieure ou si le prévenu tente de se
+soustraire à la procédure par la fuite, sans avoir fourni aucune garantie (TF 1B_162/2021 précité ;
+TF 1B_136/2014 précité ; TF 1B_379/2013 du 6 décembre 2013 consid. 2.3.2). Le
+principe de la proportionnalité entre aussi en ligne de compte lorsqu'il s'agit de déterminer
+la valeur des biens à mettre sous séquestre ; sous cet angle, il se justifie de respecter le
+minimum vital de la personne touchée (cf. ATF 141 IV 360 précité ; TF 1B_162/2021
+précité ; TF 1B_136/2014 précité). Quant au montant définitif des frais
+judiciaires, il ne sera connu qu'à l'issue de la procédure et le principe de la proportionnalité
+n'est violé que si le montant saisi en garantie des coûts de procédure est manifestement
+disproportionné par rapport aux coûts estimés (ibidem).
+2.2.4
+Si des immeubles sont séquestrés, une restriction au droit de les aliéner est ordonnée
+et mentionnée au Registre foncier (art. 266 al. 3 CPP).
+2.3
+2.3.1
+En l’espèce, il y a tout d’abord lieu de relever que l’immeuble de N.________
+dont le prévenu est devenu propriétaire en main commune avec sa sœur génère
+des loyers nets mensuels totaux de 16'532 fr. 60. Au vu de cette situation, on ne saurait retenir
+qu’il existerait des indices concrets permettant de douter du futur recouvrement des frais et indemnités
+au paiement desquels le prévenu serait condamné. Il n’y a en particulier, à ce stade,
+aucun indice que le prévenu chercherait à procéder à des transferts de biens aux
+fins d'empêcher une soustraction ultérieure ou qu’il tente de se soustraire à la
+procédure par la fuite. Les recourants pourront ainsi, le cas échéant, faire valoir à
+l’égard du prévenu une indemnité en remboursement des dépenses occasionnées
+par la procédure.
+C’est donc à juste titre que le Ministère public a retenu que le séquestre en vue
+de garantir le paiement des frais de procédure et indemnités ne se justifiait pas en l’espèce.
+2.3.2
+Cela étant, contrairement au Ministère public, on ne saurait exclure, à ce stade de l’enquête,
+que les agissements reprochés au prévenu lui aient permis de bénéficier de valeurs
+patrimoniales sujettes à confiscation. En effet, le rapport de police du 19 octobre 2022
+(P. 118/1) mentionne que les relations entre le prévenu et la victime étaient très tendues
+depuis des années, notamment au sujet de la succession de leur défunte mère et épouse.
+Or, au jour du décès de son beau-père, le prévenu est notamment devenu propriétaire
+en main commune des immeubles de P.________ et de N.________, alors qu’il n’en était
+jusqu’alors que nu-propriétaire. Ainsi, quand bien même l’accès à la
+propriété commune dont a bénéficié le prévenu à la suite du décès
+de son beau-père n’est pas l’un des éléments constitutifs de l'infraction
+qui lui est reprochée, il n’est pas exclu à ce stade qu’elle constitue un avantage
+économique illicite découlant de la commission de l’infraction, dès lors qu’elle
+serait la cause essentielle et adéquate de l'obtention des actifs successoraux dont il était
+frustré jusque-là, en sa qualité de nu-propriétaire. Le fait que le règlement
+de la succession de feue J.K.________ soit intervenu par la cession de l’immeuble de P.________
+aux recourants ne modifie pas le fait que G.W.________ et F.W.________, seuls héritiers de leur
+défunte mère, sont devenus propriétaires des deux immeubles susmentionnés en raison
+du décès de D.K.________, lequel avait au demeurant contesté le testament de sa défunte
+épouse qui lui octroyait l’usufruit. L’accession de G.W.________ à la propriété
+ne découle donc pas de la convention passée le 17 mai 2022 entre les quatre descendants, de
+feu D.K.________ d’une part, et de feue J.K.________ d’autre part, soit du partage, mais
+du décès de la victime. Cela suffit, sous l'angle de la vraisemblance, pour envisager une application
+de l'art. 70 CP à ce stade (TF 1B_157/2007 du 25 octobre 2007 consid. 2.3). Les conditions
+du séquestre conservatoire au sens de l’art. 263 al. 1 let. d CPP étant réalisées,
+la part en main commune de l’immeuble de N.________ doit ainsi faire l’objet d’un séquestre
+aux fins de confiscation. S’agissant d’un immeuble, cette mesure doit être prononcée
+sous la forme d’une restriction au droit d’aliéner mentionnée au Registre foncier.
+Dès lors qu’il existe des valeurs patrimoniales à confisquer, l’art. 71 CP n’entre
+pas en considération.
+La mesure doit encore être proportionnée. En l’espèce, la valeur vénale de
+l’immeuble de N.________ a été estimée à 2'950'000 fr., dont à déduire
+des engagements hypothécaires à hauteur de 1'431'875 fr., soit une valeur de réalisation
+nette de 759'062 fr. 50 s’agissant de la part de liquidation du prévenu. Compte tenu du fait
+que l’enrichissement de celui-ci porterait sur l’usufruit de son beau-père jusqu’au
+décès de ce dernier et au vu des conclusions des recourants qui s’élèvent à
+200'000 fr., un séquestre sous la forme d’une restriction au droit d’aliéner
+la part de propriété en main commune à hauteur de 125'000 fr. est une mesure proportionnée,
+dès lors qu’elle est en rapport avec le produit de l'infraction poursuivie. On ne discerne
+par ailleurs aucune mesure moins sévère susceptible d’atteindre le but visé. Au
+demeurant, la mesure conservatoire ne porte pas atteinte aux conditions minimales d’existence du
+prévenu, dès lors que la restriction au droit d’aliéner la part de l’immeuble
+revenant à celui-ci à hauteur de 125'000 fr. ne le prive pas de la faculté d’en
+encaisser les loyers.
+Partant, le séquestre requis par C.K.________ et B.K.________ est justifié à titre confiscatoire
+en tant qu’il porte sur la part de liquidation revenant à G.W.________ dans le cadre de la
+communauté formée avec sa sœur F.W.________, propriétaire de l’immeuble n°
+[...] de la commune de N.________, à concurrence de 125'000 francs. C’est donc à
+tort que le Ministère public a refusé de le prononcer.
+3.
+Il résulte de ce qui précède que le recours doit être admis. L’intimé
+n’ayant pas été invité à se déterminer dans le cadre du présent recours,
+l’ordonnance entreprise doit, afin de préserver son droit d’être entendu et la
+garantie de la double instance, être annulée et renvoyée au Ministère public de l’arrondissement
+du Nord vaudois pour qu’il rende une nouvelle décision dans le sens des considérants.
+Vu l’admission du recours, les frais de la procédure, constitués en l’espèce
+du seul émolument d'arrêt, par 1’980 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront laissés
+à la charge de l’Etat (art. 428 al. 4 CPP).
+Les recourants, qui ont procédé avec l’assistance d’un conseil de choix et qui
+ont obtenu gain de cause, ont droit, de la part de l’Etat, à une indemnité pour les dépenses
+occasionnées par la procédure de recours (art. 436 al. 3 CPP par analogie ; cf. not. TF 6B_380/2021
+du 21 juin 2022 consid. 2.4.1 ; TF 6B_2/2021 du 25 juin 2021 consid. 1.1
+in
+initio
+; TF 6B_1324/2015 du 23 novembre 2016 consid. 2.2).
+Au vu du mémoire déposé et de la nature de l’affaire, cette indemnité sera
+fixée à 1’200 fr., correspondant à quatre heures d’activité nécessaire
+d’avocat au tarif horaire de 300 fr. (art. 26a al. 3 TFIP), montant auquel il convient d’ajouter
+des débours forfaitaires à concurrence de 2 % des honoraires admis (art. 19 al. 2 TDC
+[tarif des dépens en matière civile du 23 novembre 2010 ; BLV 270.11.6], applicable par
+renvoi de l’art. 26a al. 6 TFIP), par 24 fr., plus la TVA au taux de 7,7 %, par 94 fr. 25, soit
+à 1’319 fr. au total en chiffres arrondis.
+Vu l’issue de la cause, le présent arrêt ne sera pas notifié au prévenu, car
+l'effet de surprise, indispensable à la mise en œuvre du séquestre, s'en trouverait compromis
+(cf. par analogie ATF 139 III 135 consid. 4.5.2). On soulignera toutefois que le prévenu aura toute
+latitude de faire valoir ses griefs à l’encontre de l’ordonnance de séquestre à
+intervenir devant la Chambre de céans, de sorte que son droit d’être entendu sera préservé
+(TF 1B_526/2012 du 24 juin 2013 consid. 2.3 ; TF 1B_111/2012 du 5 avril 2012 consid. 2.3 ;
+CREP 25 novembre 2016/808 consid. 3).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 13 décembre 2022 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l’arrondissement du Nord vaudois pour qu’il procède dans le sens des considérants.
+IV.
+Les frais d’arrêt, par 1’980 fr. (mille neuf cent huitante francs), sont laissés
+à la charge de l’Etat.
+V.
+Une indemnité de 1’319 fr. (mille trois cent dix-neuf francs) est allouée à C.K.________
+et B.K.________, solidairement entre eux, pour les dépenses occasionnées par la procédure
+de recours, à la charge de l’Etat.
+VI.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Mathias Micsiz, avocat (pour C.K.________ et B.K.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
