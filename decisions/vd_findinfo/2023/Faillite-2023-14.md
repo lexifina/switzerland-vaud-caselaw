@@ -1,0 +1,146 @@
+---
+decision_id: "vd_findinfo_Faillite___2023___14"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2023 / 14"
+decided: "2023-05-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9357527"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-056.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md"]
+---
+
+# VD Findinfo Faillite / 2023 / 14
+
+## Regeste
+
+ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, MOTIVATION DE LA DEMANDE | 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2023 / 14
+
+ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, MOTIVATION DE LA DEMANDE | 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF22.037017-230405
+72
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+23 mai 2023
+__________________
+Composition
+:              M.
+Hack
+,
+président
+Mmes
+Giroud Walther et Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+321 al. 1 CPC
+Vu le jugement rendu le 17 janvier 2023 par le Président du Tribunal d’arrondissement de l’Est
+vaudois (ci-après : le Président), prononçant, par défaut des parties, la faillite
+de
+L.________
+,
+à [...], avec effet le même jour à 16 heures, à la requête de
+M.________AG
+,
+à [...], et mettant les frais judiciaires, par 200 fr., frais de publication en sus, à la charge
+du failli,
+vu la demande de restitution de délai déposée le 3 février 2023 par le failli,
+vu la décision du Président du 7 février 2023, prononçant l’effet suspensif
+en ce sens que les effets de la procédure de faillite étaient suspendus jusqu’à
+droit connu sur la demande de restitution de délai,
+vu la décision rendue le 17 mars 2023 et adressée aux parties le même jour, par laquelle
+le Président a déclaré la requête de restitution de délai déposée
+par le failli irrecevable pour défaut de paiement de l’avance de frais (I), a constaté
+que la faillite de L.________ avait été prononcée le 17 janvier 2023 et a dit qu’elle
+prenait effet le 17 mars 2023, à 16 heures (II) et a arrêté les frais judiciaires à
+200 fr., à la charge du failli (III),
+vu la notification de cette décision au failli le 21 mars 2023,
+vu le recours contre cette décision exercé par L.________ par acte daté du 24 mars 2023
+et déposé au greffe de la cour de céans le 28 mars suivant, dans lequel il expose sa situation
+et conclut à ce qu’il puisse continuer à exercer ses activités,
+vu la décision du président de la cour de céans du 28 mars 2023, prenant date le lendemain,
+rejetant la requête d’effet suspensif contenue dans le recours,
+vu les autres pièces du dossier ;
+attendu que la voie du recours au sens des art. 319 ss CPC (Code de procédure civile ; RS 272)
+est ouverte contre la décision déclarant irrecevable ou rejetant la requête de restitution
+de délai déposée en vue d’obtenir la tenue d’une nouvelle audience de faillite
+(art. 148 al. 1 CPC) (CPF 24 janvier 2022/8 ; CPF 5 mars 2018/26),
+que le recours doit être introduit auprès de l'instance de recours par acte écrit et motivé
+(art. 321 al. 1 CPC), dans les dix jours à compter de la notification de la décision motivée
+(art. 321 al. 2 CPC),
+qu’en l’espèce, le recours a été déposé en temps utile ;
+attendu
+que, pour
+être
+recevable, le recours doit être motivé (art. 321 al. 1
+in
+initio
+CPC),
+que, selon la jurisprudence du Tribunal fédéral, pour satisfaire à cette exigence, la
+partie recourante doit démontrer le caractère erroné de la motivation de la décision
+attaquée et son argumentation doit être suffisamment explicite pour que l’instance de
+recours puisse la comprendre, ce qui suppose une désignation précise des passages de la décision
+qu’elle attaque et des pièces du dossier sur lesquelles elle fonde sa critique (ATF 147 III
+176 consid. 4.2.1 et les références citées ; ATF 141 III 569 consid. 2.3.3 et réf.
+cit. ; TF 5A_488/2015 du 21 août 2015 consid. 3.2.1, publié
+in
+RSPC 6/2015 pp. 512 s., et les arrêts cités),
+que ni l’art. 132 al. 1 et 2 ni l’art. 56 CPC ne sont applicables en cas d’absence
+de motivation d’un acte de recours (TF 5A_488/2015 précité consid. 3.2.2),
+qu'en l'espèce, le recours ne contient aucun grief contre la décision du premier juge du 17
+mars 2023 constatant que l’avance de frais requise n’a pas été versée dans
+les délais impartis et refusant par conséquent d’entrer en matière sur la requête
+en restitution de délai (art. 59 al. 2 CPC),
+que le recours est ainsi irrecevable ;
+attendu que le présent arrêt peut être rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. L.________,
+‑
+M.________AG,
+-
+M. le Préposé à l'Office des poursuites du district d’Aigle,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l’Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de l’Est vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M le Président du Tribunal d'arrondissement de l’Est vaudois.
+La greffière :
