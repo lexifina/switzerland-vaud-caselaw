@@ -1,0 +1,515 @@
+---
+decision_id: "vd_findinfo_Plainte___2023___19"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2023 / 19"
+decided: "2023-05-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9369334"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-152.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-149.md"]
+---
+
+# VD Findinfo Plainte / 2023 / 19
+
+## Regeste
+
+ACTE DE DÉFAUT DE BIENS, ACTE DE RECOURS, MOTIVATION DE LA DEMANDE, MAXIME INQUISITOIRE, EXÉCUTION DE LA SAISIE | 18 al. 1 LP, 18 LP, 20a al. 2 ch. 2 LP, 23 al. 1 LVLP, 28 al. 3 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2023 / 19
+
+ACTE DE DÉFAUT DE BIENS, ACTE DE RECOURS, MOTIVATION DE LA DEMANDE, MAXIME INQUISITOIRE, EXÉCUTION DE LA SAISIE | 18 al. 1 LP, 18 LP, 20a al. 2 ch. 2 LP, 23 al. 1 LVLP, 28 al. 3 LVLP
+
+TRIBUNAL
+CANTONAL
+FA22.026166-230178
+12
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+30 mai 2023
+_________________
+Composition
+:               M.
+Hack
+,
+président
+Mme
+Byrde et M. Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+18, 20a al. 2 ch. 2 LP ; 23 et 28 al. 3 LVLP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+F.________
+,
+à [...], contre la décision rendue le 23 janvier 2023, à la suite de l’audience
+du 15 août 2022, par la Présidente du Tribunal d’arrondissement de La Côte, autorité
+inférieure de surveillance, rejetant la plainte de la recourante contre l’acte de défaut
+de biens établi par l’
+Office
+des poursuites du district de Nyon
+, à Nyon,
+dans le cadre de la poursuite contre
+D.________
+,
+à [...].
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Par acte du 31 janvier 2022, F.________ (ci-après : la plaignante) a requis de l’Office
+des poursuites du district de Nyon (ci-après : l’Office) la continuation, en application
+de l’art. 149 al. 3 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et
+la faillite ; RS 281.1), de la poursuite contre D.________ (ci-après : l’intervenant)
+ayant abouti à la délivrance de l’acte de défaut de biens n° 10'176'466,
+pour un montant de 20'641 fr. 55 sans intérêt, subsidiairement, l’ouverture d’une
+nouvelle poursuite contre l’intervenant pour le même montant sur la base de l’acte de
+défaut de biens susmentionné.
+Le 1
+er
+février 2022, l’Office lui a répondu que la requête du 31 janvier 2022 susmentionnée
+était considérée comme une nouvelle réquisition de poursuite, car l’acte de
+défaut de biens en sa possession n’était pas «
+un
+premier acte
+».
+Le même jour, l’Office a établi un commandement de payer dans la poursuite n° 10'291'113
+portant sur le montant de 20'641 fr. 55 sans intérêt, indiquant comme titre de la créance
+ou cause de l’obligation : «
+Reprise
+de l’ADB no 10176466 de Fr. 20'641.55 du 03.11.2021 délivré par l’Office des poursuites
+du district de Nyon
+».
+Ce commandement de payer a été notifié à l’intervenant le 10 février
+2022.
+2.
+a)
+Par
+acte du 26 avril 2022, la plaignante a requis de l’Office de continuer la poursuite n° 10'291'113.
+Le 27 avril 2022, l’Office a adressé à l’intervenant un avis de saisie fixant celle-ci
+au 9 mai 2022 pour un montant de 20'862 fr. 75, frais et intérêts compris.
+Par courriels des 28 et 29 avril 2022, l’intervenant a adressé à l’Office des pièces
+justificatrices ainsi que le questionnaire sur sa situation financière, dûment complété.
+Il ressort notamment de ce document que l’intéressé est retraité, au bénéfice
+d’une rente-pont mensuelle de 2'227 fr. jusqu’au 31 mai 2022, puis d’une rente mensuelle
+de 2'027 francs.
+Le 3 mai 2022, l’Office a sollicité de la Banque B.________ des renseignements sur tous les
+avoirs de l’intervenant et les extraits des comptes déposés auprès d’elle
+pour les douze derniers mois. Le 9 mai 2022, cet établissement a produit les extraits de positions
+de l’intervenant pour la période courant du 3 mai 2021 au 3 mai 2022.
+Le 12 mai 2022, l’Office a sollicité les mêmes renseignements de la Banquie Q.________,
+qui lui a répondu le lendemain que l’intervenant était titulaire d’une compte de
+garantie de loyer de 2'000 fr., bloqué en faveur de son bailleur.
+b)
+Par
+courrier recommandé du 18 mai 2022, la plaignante a allégué qu’il était hautement
+vraisemblable que l’intervenant, qui atteindrait l’âge de soixante-cinq ans le 22 mai
+2022, soit mis au bénéfice d’un nouveau capital ou d’une rente supplémentaire.
+Elle a dit son mécontentement que l’Office n’ait pas fait des recherches sérieuses
+auprès notamment de toute les compagnies d’assurance dont les raisons sociales étaient
+disponibles dans le
+« le
+volumineux dossier du débiteur
+».
+Le 24 mai 2022, l’Office lui a répondu que la situation de l’intervenant était
+en cours de révision et qu’il serait en mesure de rendre une décision à réception
+des derniers justificatifs.
+Le même jour, l’Office a demandé à l’intervenant de l’informer s’il
+allait bénéficier d’une rente LPP auprès d’une caisse de pensions et, dans
+la négative, de lui remettre ses dernières cotisations versées auprès de caisses
+de pensions durant son parcours professionnel.
+Par courriel de 30 mai 2022, l’intervenant a indiqué qu’il ne touchait pas de rente
+LPP, ayant retiré l’entier de son capital de prévoyance pour créer ses sociétés.
+c)
+Au
+cours d’une vacation effectuée au domicile de l’intervenant le 16 juin 2022, l’Office
+a constaté qu’il n’y avait aucun bien saisissable.
+d)
+Le
+17 juin 2022, l’Office a délivré à la plaignante un acte de défaut de bien
+dans la poursuite n° 10'291'113 susmentionnée.
+3.
+a)
+Par acte du 30 juin 2022, F.________ a déposé
+auprès du Président du Tribunal d’arrondissement de La Côte une plainte contre cet
+acte de défaut de biens en concluant, principalement à son annulation, à la constatation
+que l’intervenant «
+est
+saisissable à concurrence d’un montant à dire de droit
+»,
+subsidiairement au renvoi de la cause à l’Office pour nouvelle décision dans le sens
+des considérants, l’intervenant étant débouté de toutes conclusions. Elle a
+requis l’audition de neuf témoins, la production par l’Office de l’intégralité
+des pièces en sa possession, l’interrogatoire des parties, ainsi que des «
+différentes
+caisses de pensions susceptibles de verser des prestations (capital ou revenus) au débiteur à
+la suite de l’accession par ce dernier, le 22 mai 2022, à l’âge de 65 ans
+»,
+et l’audition de l’intervenant à titre de renseignements.
+Elle a notamment produit un courrier de l’intervenant à la Présidente du Tribunal d’arrondissement
+de La Côte du 26 novembre 2020, libellé comme il suit :
+« Madame
+la Présidente,
+Depuis plusieurs années, j’ai collecté un nombre impressionnant de courriers, déterminations,
+etc. dans le cadre d’une créance qui a fait l’objet d’un acte de défaut de
+biens, en la poursuite No [...].
+Aussi je me permets de vous communiquer les réflexions suivantes :
+- J’estime que les services juridiques (Justice de paix, Tarr de la Côte, Cour civile, Office
+des poursuites) sont mis à contribution de manière exagérée par Mme F.________.
+- Cette dernière m’a personnellement informé en son temps souffrir d’une maladie
+incurable, ce qui pose les questions suivantes : Vu également son âge, a-t-elle encore
+sa pleine capacité de discernement ?
+- En effet il est impossible que les récentes plaintes et multiples déterminations de la précitées
+ne soient pas rédigées par un de ses conseils en raison notamment de la complexité de
+la rédaction de documents juridiques et des procédures.
+- Son conseil, Me [...], a assuré une partie de ces tâches. Le fait-il encore ? Si oui,
+on peut légitimement penser qu’il y a sur le fond un abus de la crédulité de Mme
+F.________ et une volonté délibérée de prolonger des démarches coûteuses
+et préjudiciable financièrement à sa cliente. Il ne s’agit évidemment que de
+présomptions, mais la situation perdure de manière préoccupante.
+-Véritablement agacé par ces courriers incessants, des convocations à répétition,
+etc., qui me font perdre mon temps inutilement au lieu de travailler au redressement de ma situation
+financière, ce qui par ailleurs ne saurait tarder après également des années de procédures.
+Je vous laisse le soin d’apprécier la situation et fais appel également à votre
+« bon sens », sachant également que j’ai des droits et ne suis pas d’accord
+d’autoriser la consultation de documents personnels par la plaignante, quand bien même la
+loi l’y autorise – en partie – en tant que créancière.
+Je vous remercie pour votre attention et vous adresse, Madame la Présidente, l’expression
+de ma parfaite considération. »
+Par courriers recommandés du 1
+er
+juillet 2022, la présidente a communiqué la plainte à l’Office est a cité les
+parties, ainsi que l’intervenant à comparaître à l’audience du 15 août
+2022.
+Dans ses déterminations du 3 août 2022, l’Office a préavisé en faveur du rejet
+de la plainte.
+Par courrier du 10 août 2022, la plaignante a requis la dispense de comparution à l’audience
+pour raisons médicales. Elle a rappelé qu’elle avait demandé à l’Office
+de faire une enquête auprès des compagnies d’assurance dont il avait connaissance, dès
+lors que celles-ci figuraient dans le dossier de l’intervenant et a précisé que le dossier
+de la faillite de ce dernier, qu’elle avait pu consulter près de quatre ans auparavant, mentionnait
+le nom de toutes les assurances et de tous les instituts financiers susceptibles d’entrer en considération.
+Le 11 août 2022, l’intervenant a indiqué qu’il ne pourrait pas assister à
+l’audience et a indiqué qu’il bénéficiait des prestations complémentaires
+qui lui permettaient de maintenir ses rentes à 2'227 fr. par mois. Il a produit une décision
+de la Caisse cantonale vaudoise de compensation AVS lui allouant, dès le 1
+er
+juin 2022, des prestations complémentaires pour un montant de 200 fr. par mois ainsi que la prise
+en charge de ses primes d’assurance-maladie selon décision de l’Office vaudois de l’assurance-maladie.
+A l’audience du 15 août 2022 s’est présentée une juriste de l’Office.
+Elle a maintenu les déterminations de celui-ci. L’instruction et les débats ont été
+clos.
+b)
+Par
+courrier du 18 août 2022, la plaignante a déclaré vouloir se déterminer sur l’écriture
+de l’intervenant du 11 août 2022 et s’est plainte des motifs pour lesquels il ne s’était
+pas présenté à l’audience, faisant référence à une procédure
+pénale l’ayant visé en 2021 et du fait que l’instruction n’ait pas porté
+sur la manière dont il occupait son temps et dont il essayait de redresser ses affaires et sa situation
+financière. Elle a soutenu que l’instruction aurait également dû porter sur les
+lien entre l’association C.________ et l’intervenant mentionnée dans le jugement pénal
+le concernant et les virement ressortant des décompte produit par l’Office. Elle a reproché
+à l’Office de ne pas avoir mentionné la demande de l’intervenant de prestations
+complémentaires, déposée pourtant le 9 mai 2022 et a requis la production de l’intégralité
+du dossier de l’intervenant auprès de la Caisse cantonale vaudoise de compensation AVS.
+4.
+Par décision du 23 janvier 2023, la Présidente du Tribunal d’arrondissement de La Côte,
+statuant en tant qu’autorité inférieure de surveillance en matière de poursuite
+pour dettes et de faillites, a rejeté la plainte du 30 juin 2022 (I) et a rendu la décision
+sans frais ni dépens (II). En substance, l’autorité précédente a constaté
+que la plaignante reprochait à l’Office de s’être basé sur les seules déclarations
+de l’intervenant alors que celui-ci avait déclaré en 2020 s’employer à rétablir
+sa situation économique, ce qui aurait dû entrainer de confronter ses déclarations avec
+celles de sa compagne et d’interroger les personnes qui avaient été en affaires avec
+lui et de n’avoir pas investigué auprès des «
+caisses
+de pension susceptibles d’entrer en ligne de compte
+».
+Elle a considéré que la plaignante n’avait pas donné d’indices concrets à
+l’Office en relation avec la perception supposée par l’intervenant d’un capital
+ou d’une rente LPP, se bornant à se fonder sur l’arrivée à l’âge
+de la retraite de celui-ci pour demander d’interroger toutes les compagnies d’assurances
+figurant dans le dossier de faillite de l’intervenant. Elle a jugé que l’Office avait
+rempli son devoir de recherche en procédant à l’interrogatoire de l’intervenant,
+celui-ci étant rendu attentif dans le questionnaire qu’il a rempli aux conséquences légales
+de la dissimulation de biens, en adressant des demandes de renseignements à des établissements
+bancaires et en se rendant au domicile de l’intervenant et qu’il n’avait pas à
+étendre ses recherches plus loin, faute d’éléments objectifs présentés
+par la plaignante. Au surplus, l’acte de défaut de bien attaqué apparaissait pleinement
+justifié dès lors que l’intervenant avait été mis au bénéfice des
+prestations complémentaires à l’AVS et l’autorité précédente a constaté
+qu’elle ne discernait pas en quoi la production de l’intégralité du dossier ouvert
+auprès de la caisse de compensation pourrait amener d’autres informations utiles à la
+cause.
+5.
+Par acte daté du 3 février 2023 et remis
+à la poste le 2 février 2013, F.________ a recouru contre cette décision en concluant,
+à son annulation et à sa réforme en ce sens que principalement, il est dit que D.________
+est saisissable à concurrence d’un montant à dire de droit, subsidiairement que la cause
+soit renvoyée à l’autorité précédente pour nouvelle décision dans
+le sens des considérants, l’Office et tout autre opposant étant déboutés de
+toute autre conclusion.
+Dans ses déterminations du 23 février 2023, l’Office s’est référé
+à ses déterminations de première instance et a produit des pièces.
+L’intervenant ne s’est pas déterminé dans le délai qui lui a été
+imparti.
+En droit :
+I.
+Le recours à été déposé en temps utile dans les dix jours dès la notification
+de la décision attaquée (art. 18 LP et 28 al. 1 LVLP [loi du 18 mai 1955 d’application
+dans le canton de Vaud de la LP ; BLV 280.05]).
+Les déterminations de l’Office et les pièces jointes aux déterminations sont recevables
+(art. 31 al. 1 LVLP).
+II.
+La recourante rappelle, dans la partie «
+En
+fait
+» de son mémoire de recours,
+les pièces dont elle avait sollicité la production en mains de l’autorité précédente,
+savoir le dossier de faillite de l’intervenant, le dossier de celui-ci auprès de la Caisse
+cantonale vaudoise de compensation AVS et toutes pièces en relation avec l’association C.________
+et l’intervenant. Dans la partie «
+En
+droit
+» dudit mémoire de recours,
+elle invoque la violation de son droit d’être entendue et de son droit à la preuve. En
+particulier elle considère qu’«
+il
+est incompréhensible que le dossier qui est entre les main de l’office des faillites (c’est-à-dire
+dans le même bâtiment où est installé l’office des poursuites du district de
+Nyon) n’ait jamais fait l’objet d’une édition, alors que cette dernière avait
+été demandée à réitérées reprises par la recourante
+»
+Elle en déduit que la décision attaquée est «
+arbitraire,
+tant dans ses motifs que dans ses résultats
+»
+et qu’elle aboutit à «
+une
+décision choquante, qui choque le sens de la justice et de l’équité.
+a)aa)
+Selon
+la jurisprudence du Tribunal fédéral en matière de recours selon les art. 319 ss CPC (Code
+de procédure civile du 19 décembre 2008 ; RS 272) – applicable par analogie, du
+fait que l’art. 28 al. 3 LVLP n’a pas de portée propre (TF 5A_118/2018 du 7 février
+2018 consid. 4.2 précité) – le recourant doit démontrer le caractère erroné
+de la motivation de la décision attaquée et son argumentation doit être suffisamment explicite
+pour que l’instance de recours puisse la comprendre, ce qui suppose une désignation précise
+des passages de la décision qu’il attaque et des pièces du dossier sur lesquelles il
+fonde sa critique (art. 321 al. 1 CPC ; ATF 147 III 176 consid. 4.2.1 ; TF 5A_488/2015 du 21 août
+2015 consid. 3.2.1, Revue suisse de procédure civile [RSPC] 2015, p. 512),
+bb)
+Il
+ne suffit donc pas d’affirmer péremptoirement qu’il est incompréhensible qu’une
+réquisition de preuve ait été rejetée, que la décision est arbitraire dans son
+résultat ou que le droit d’être entendu et que le droit à la preuve ont été
+violés pour contrer cette appréciation.
+Faute d’avoir exposé en quoi le raisonnement effectué par l’autorité précédente
+serait erroné, le recours apparaît irrecevable pour motivation insuffisante.
+Au demeurant, à supposer suffisamment motivé il devrait être rejeté pour les motifs
+suivants.
+b)aa)
+En application de l’art. 20a al. 2
+ch. 2 LP, les autorités cantonales de surveillance constatent les faits d’office. Elles peuvent
+demander aux parties de collaborer et déclarer irrecevables leurs conclusions lorsque les parties
+refusent de prêter le concours nécessaire que l’on peut attendre d’elles. L’al.
+3 de l’art. 20a LP prévoit que, pour le reste, les cantons règlent la procédure.
+Dans le canton de Vaud, la procédure de plainte est réglée aux art. 17 ss LVLP.
+Selon l’art. 23 al. 1 LVLP, le président ordonne librement les mesures d’instruction
+qui lui paraissent nécessaires. L’art. 23 al. 2 LVLP précise qu’il peut notamment
+entendre des témoins et ordonner la production de pièces, qu’il dispose à cet égard
+des mêmes pouvoir qu’en procédure civile contentieuse et que les règles prévues
+à l’art. 20a al. 2 ch. 2 LP sont réservées.
+La maxime inquisitoire prévue par l’art. 20a al. 2 ch. 2 LP impose à l'autorité
+cantonale de surveillance de diriger la procédure, de définir les faits pertinents et les preuves
+nécessaires, d'ordonner l'administration de ces preuves et de les apprécier d'office (TF 5A_187/2011
+du 13 mai 2011 consid. 2.1; 7B.68/2006 du 15 août 2006 consid. 3.1). L'autorité doit établir
+d'elle-même les faits pertinents dans la mesure qu'exige l'application correcte de la loi et ne
+peut se contenter d'attendre que les parties lui demandent d'instruire ou lui apportent spontanément
+les preuves idoines (TF 7B.15/2006 du 9 mars 2006 consid. 2.1). Les parties intéressées à
+une procédure d'exécution forcée n'en sont pas moins tenues de collaborer à l'établissement
+des faits (ATF 123 III 328 consid. 3, JdT 1999 II 26 ; TF 5A_253/2015 du 9 juin 2015 consid. 4.1 ;
+CPF 27 mai 2019/29). On peut attendre d’elles qu’elles s’expriment sur les circonstances
+du cas ; à ce défaut, les autorités de surveillance n’ont pas à établir
+des faits qui ne ressortent pas du dossier (ATF 123 III 328 précité).
+La maxime inquisitoire a en outre des limites. Elle n’oblige pas le tribunal à étendre
+la procédure probatoire et à administrer tous les moyens de preuve envisageables. L’administration
+des preuves doit demeurer dans un cadre raisonnable et l’autorité d’instruction doit
+ne pas perdre de vue que la procédure d’exécution forcée, dans laquelle les questions
+de droit matériel n’entrent plus en ligne de compte, doit être rapide (ATF 125 III 231
+consid. 4a ; ATF 123 III 328 précité ; TF 5A_546/2017 du 6 octobre 2017 consid. 3.1
+; TF 5A_681/2016 du 24 novembre 2016 consid. 3.1.3 et les références citées). En outre,
+une mesure d'instruction peut être refusée par appréciation anticipée des preuves
+(Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dette et la faillite,
+n. 59 ad art. 20a LP ; en procédure civile fédérale Colombini, Code de procédure
+civile. Condensé de la jurisprudence fédérale et vaudoise, n. 1.1.4 ad art. 152 CPC).
+En effet, le juge peut refuser d'ordonner une mesure probatoire lorsqu'elle apparaît d'emblée
+inapte à élucider les faits contestés (TF 5A_560/2014 du 17 septembre 2014 consid. 5.1 ;
+Gilliéron loc. cit. et références). Le droit à la preuve ne s'oppose pas à ce
+que l'autorité mette un terme à l'instruction lorsque les preuves administrées lui ont
+permis de forger sa conviction et que, procédant d'une manière non arbitraire à une appréciation
+anticipée des preuves qui lui sont encore proposées, elle a la certitude que ces dernières
+ne pourraient pas l'amener à modifier son opinion (ATF 143 III 297 consid. 9.3.2 ; ATF 140 I 285
+consid. 6.3 ; ATF 138 III 374 consid. 4.3.2 ; Gilliéron, loc. cit. ; en procédure civile
+fédérale : Colombini, op. cit., n. 1.4.2 ad art. 152 CPC), ce qui vaut également
+lorsque la maxime inquisitoire est applicable (Colombini, op. cit., n. 1.4.3 ad art. 152 CPC et les références
+citées). Ainsi les art. 20a al. 2 ch. 2 et 3 LP n’excluent pas l’appréciation anticipée
+d’une preuve qui la fait apparaître soit vouée à l’échec, faute de force
+probante suffisante, soit en tout cas impropre à modifier le résultat des preuves déjà
+administrées, soit encore qu’elle se révèle d’emblée inexacte ou superflue
+et qu’elle n’apportera, vu les circonstances particulières, d’autres éléments
+sérieux (TF 5A_351/2016 du 19 juillet 2016 consid. 6 et la référence citée ;
+Gilliéron, loc. cit. et références ; CPF 23 février 2022/2).
+Au vu de ce cadre, on ne peut qu’approuver la décision de l’autorité de surveillance
+du canton de Berne, parue dans la Bulletin des poursuites et faillites [BlSchK] 1989 en page 18, appliquée
+par l’Office et mentionnée par l’autorité précédente, selon laquelle,
+dans le cadre de la saisie, il n’appartient pas aux autorités de poursuite, sur la base des
+seules présomptions du créancier, de procéder à une enquête sur les activités
+accessoires du débiteur, l’office des poursuites remplissant son devoir en interrogeant le
+débiteur sur ses revenus et sa fortune, sous la menace des conséquences légales de déclaration
+fausses et incomplètes. C’est aussi à juste titre, au regard des considérations
+qui précèdent, que l’autorité de surveillance du demi-canton de Bâle campagne
+a jugé que l’office des poursuites devait en principe se baser, dans le cadre de la saisie,
+sur les affirmations du débiteur et n’avait pas à entreprendre des recherches de détective
+pour retrouver des valeurs patrimoniales, sauf en présence d’indices concrets sur l’existence
+de celles-ci, cas où il devait étendre ses investigations (BlSchK 2018 p.71).
+bb)
+En
+l’espèce, l’Office a interrogé l’intervenant sur ses revenus et sa fortune,
+sous la menace des conséquence légales en matière de déclarations fausses, s’est
+rendu à son domicile et a adressé des demandes de renseignements bancaires. Il résulte
+de cette instruction que l’intervenant a touché une rente-pont de 2'227 fr. par mois, puis,
+dès le 1
+er
+juin 2022, une rente AVS de 2'027 fr. ; les deux banques interrogées ont produit, pour la Banque
+B.________, des décomptes sur une année (3 mai 2021 au 3 mai 2022) et pour la Banquie Q.________
+un extrait de compte de dépôt de garantie de loyer de 2'000 francs. Interpellé à
+la suite des allégués de la recourante selon lesquels il était «
+hautement
+vraisemblable
+» que l’intervenant,
+qui arrivait à l’âge de soixante-cinq ans serait mis au bénéfice d’un
+capital ou d’une rente LPP, celui-ci a répondu à l’Office qu’il ne touchait
+pas une telle rente, ayant retiré son capital LPP pour créer ses sociétés ;
+l’Office n’a constaté aucun bien saisissable au domicile de l’intervenant.
+En outre, celui-ci a produit une décision de la Caisse cantonale vaudoise de compensation AVS du
+15 juillet 2022 lui reconnaissant un droit aux prestations complémentaire à l’AVS de
+200 fr. par mois à partir du 1
+er
+juin 2022, ainsi que la prise en charge de ses primes d’assurance-maladie, selon décision
+de l’Office vaudois de l’assurance-maladie.
+cc)
+Dans
+ces conditions l’Office puis l’autorité précédente, ont considéré
+que la recourante ne fournissait aucun indice concret relatif à la perception par l’intervenant
+d’un capital ou d’une rente LPP et l’autorité précédente a jugé
+que l’Office avait rempli son devoir de recherches (interrogatoire, questionnaire sur la situation
+financière signé – lequel rappelle les conséquences pénales –, demande
+de renseignement aux banques).
+L’autorité précédente a déduit du dossier, et en particulier du fait que l’intervenant
+bénéficie de prestations complémentaires, que l’acte de défaut de biens du
+17 juin 2022 était justifié, l’existence de ces prestations suffisant «
+à
+démontrer que le débiteur ne touche rien d’autre que sa rente AVS
+».
+Elle a écarté les réquisition de production de pièces de la recourante (investigation
+auprès de «
+toutes
+les compagnies d’assurance
+»,
+«
+dossier complet
+auprès de la caisse de compensation
+»)
+comme n’étant pas propres à modifier cette conclusion.
+dd)
+Les arguments invoqués dans le recours n’amènent aucun élément sérieux
+permettant de mettre en doute l’appréciation anticipée des preuves qu’a effectué
+l’autorité précédente et aucun élément concret justifiant d’étendre
+l’instruction de la situation financière aux prétendues prestations de vieillesse LPP
+qu’aurait reçues l’intervenant.
+En particulier, la recourante n’essaie pas de démontrer que l’appréciation effectuée
+par l’autorité précédente serait fausse ou incomplète. Elle ne prétend
+plus que la décision de la Caisse vaudoise de compensation AVS n’est pas définitive.
+Elle se contente de réitérer ses réquisitions de preuve sans expliquer pourquoi chacune
+d’elle pourrait modifier le résultat de l’appréciation des preuves mise en cause.
+Le seul élément précis qu’elle reproche à l’autorité précédente
+est le fait d’avoir passé sous silence un courrier dans lequel l’intervenant affirmait
+à l’Office mettre tout en œuvre pour assainir sa situation financière. Elle en déduit
+qu’il n’avait pas renoncé à la poursuite de toute activité économique.
+Ce grief doit être rejeté. En premier lieu, l’autorité précédente n’a
+pas passé sous silence cet argument de la recourante, qui figure dans le résumé de sa
+plainte. Ensuite, on ne voit pas en quoi la déclaration incriminée serait un aveu de la part
+de l’intervenant ; il s’agit d’une déclaration générale. Si la
+pièce invoquée est le courrier de l’intervenant du 26 novembre 2020, on ne saurait
+rien en déduire, celui-ci disant son agacement devant les courriers incessants, notamment de la
+recourante, auxquels il doit répondre «
+qui
+me font perdre mon temps inutilement au lieu de travailler au redressement de la ma situation financière,
+ce qui par ailleurs ne saurait tarder après également des années de procédures.
+».
+Cela n’implique pas qu’en 2022 sa situation se soit redressée.
+Au surplus, la recourante n’a pas requis qu’une institution de prévoyance soit interpellée,
+mais uniquement reproché à l’Office de n’avoir pas édité le dossier de
+faillite dans lequel cette institution aurait dû être mentionnée ; elle n’essaie
+pas de démontrer que la décision de la Caisse vaudoise de compensation AVS allouant à
+l’intervenant 200 fr. de prestations complémentaires serait fausse ou basée sur les faits
+faux, ni que la décision de l’Office vaudois de l’assurance-maladie prévoyant un
+subside pour les primes d’assurance-maladie serait également fausse ou basée sur des
+faits faux ; elle ne conteste pas le raisonnement opéré par l’autorité précédente
+au sujet de l’appréciation anticipée des preuves qu’elle requiert de mettre en
+œuvre, fondé sur le fait que les deux décisions précitées suffisent à établir
+que l’intervenant ne perçoit pas d’autre revenus que les prestations de l’AVS
+et des prestation complémentaires.
+Dans ces circonstances, les arguments de la recourante sont impropres à renverser le raisonnement
+opéré par l’Office et confirmé par l’autorité précédente.
+IV.
+Le recours est ainsi manifestement mal fondé
+dans la mesure où il est recevable et la décision attaquée doit être confirmée.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a ch. 5 LP ; art. 61 al.
+2 let. a et 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus en application
+de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+La décision est confirmée.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Mme F.________,
+‑
+M. D.________,
+-
+M. le Préposé à l’Office des poursuites du district de Nyon.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte, autorité inférieure de
+surveillance.
+Le greffier :
