@@ -1,0 +1,492 @@
+---
+decision_id: "vd_gerichte_T. arb. 11_18 - 3_2023"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "TARB"
+docket: "T. arb. 11/18 - 3/2023"
+decided: "2023-06-14"
+published: "2023-12-13"
+language: "fr"
+legal_area: "Tribunal arbitral"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/7b963635-4f65-4eee-98b0-e35ddffbb83c"
+cites_decisions: ["9C_267/2017", "9C_268/2017", "9C_570/2015", "9C_821/2012", "BGE 136 V 415", "BGE 137 V 43", "BGE 144 V 79"]
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/832.10/art-025.md", "switzerland/bund/acts/832.10/art-032.md", "switzerland/bund/acts/832.10/art-043.md", "switzerland/bund/acts/832.10/art-044.md", "switzerland/bund/acts/832.10/art-056.md", "switzerland/bund/acts/832.10/art-058h.md", "switzerland/bund/acts/832.10/art-059.md", "switzerland/bund/acts/832.10/art-089.md"]
+---
+
+# Tribunal arbitral
+
+## Text
+
+TRIBUNAL CANTONAL ZK18.030708
+T. arb. 11/18 - 3/2023
+TRIBUNAL ARBITRAL D E S ASSURANCES
+__________________________________________________
+Jugement du 14 juin 2023
+__________________
+Composition : M. MÉTRAL, président
+M. Gueddi et Mme Baumgartner, arbitres
+Greffière : Mme Neurohr
+*****
+Cause pendante entre :
+D.________ ET CONSORTS, à [...], demanderesse,
+K.________, à [...], demanderesse,
+P.________, à [...], demanderesse,
+E.________, à [...], demanderesse,
+U.________, à [...], demanderesse,
+V.________, à [...], demanderesse,
+I.________, à [...], demanderesse,
+N.________, à [...], demanderesse,
+W.________, à [...], demanderesse,
+G.________, à [...], demanderesse,
+M.________, à [...], demanderesse,
+Y.________, à [...], demanderesse,
+Q.________, à [...], demanderesse,
+A.________, à [...], demanderesse,
+H.________, à [...], demanderesse,
+R.________, à [...], demanderesse,
+T.________, à [...], demanderesse,
+O.________, à [...], demanderesse,
+L.________, à [...], demanderesse,
+402
+
+- 2 -
+toutes représentées par santésuisse, à Soleure, elle-même représentée
+par Me Valentin Schumacher, avocat à Fribourg,
+et
+B.________, à [...], défenderesse, représentée par Me Giuliano Scuderi,
+avocat à Morges.
+_______________
+Art. 25 al. 1, 32 al. 1 et 56 LAMal.
+
+- 3 -
+E n f a i t :
+A. La Dre B.________ (ci-après : la défenderesse) est titulaire d’un
+diplôme de médecin délivré en [...], reconnu en Suisse depuis 2005. Elle
+est également titulaire d’un titre de médecin praticien depuis 2009. En
+2016, elle exploitait un cabinet médical à X.________ (VD) et facturait ses
+prestations aux assureurs-maladie sous le numéro de registre des codes-
+créanciers (RCC) [...]. Elle a également travaillé au sein de la Clinique de
+D.________ pendant les mois de janvier à juin 2016. Dès le mois de juillet
+2016, elle a travaillé exclusivement pour son cabinet de X.________ (VD)
+pour les consultations et au Centre C.________ (Centre C.________) pour la
+chirurgie. Elle avait conclu une convention avec ce centre pour l’utilisation
+du bloc opératoire.
+B. Le 10 juillet 2018, D.________ et consorts (ci-après : les
+demanderesses), représentées par santésuisse, ont saisi le Tribunal
+arbitral des assurances du canton de Vaud d’une demande en paiement,
+sous suite de frais et dépens, d’un montant de 148'581 fr.,
+subsidiairement 160'349 fr., à l’encontre de la Dre B.________. Le montant
+demandé en paiement correspond selon les demanderesses aux coûts
+directs occasionnés par la pratique non économique de la défenderesse en
+2016. Les demanderesses se fondent en particulier sur une comparaison
+entre l’indice des coûts directs (sans médicaments) par patient découlant
+des factures de la Dre B.________ à la charge de l’assurance obligatoire des
+soins, d’une part, et l’indice des coûts directs par patient (sans
+médicaments) découlant de la pratique des autres médecins praticiens en
+Suisse, tels qu’ils ressortent de la méthode de comparaison des coûts
+« Anova » et compte tenu d’un seuil de tolérance de 30 %.
+Simultanément à leur demande au Tribunal arbitral des
+assurances, D.________ et consorts ont saisi la Commission paritaire
+cantonale SVM [Société vaudoise de médecine] – santésuisse d’une
+demande de conciliation. Elles ont requis la suspension de la procédure
+devant le Tribunal arbitral des assurances jusqu’à l’issue de cette
+procédure de conciliation.
+
+- 4 -
+Le Tribunal arbitral des assurances a ouvert un dossier sous le
+numéro T. arb. 11/18 et, avec l’accord de la défenderesse, a suspendu la
+cause jusqu’à l’issue de la procédure devant la Commission paritaire.
+Le 12 février 2019, les demanderesses ont informé le tribunal
+arbitral de l’échec de la conciliation et ont requis la reprise de la procédure
+T. arb. 11/18. Le tribunal arbitral a levé la suspension de la cause le 7
+mars 2019.
+Le 4 avril 2019, la défenderesse a déposé un mémoire-réponse
+en concluant au rejet de la demande, sous suite de frais et dépens. Elle
+conteste notamment la pertinence du groupe de comparaison des
+médecins praticiens au motif qu’elle dispose de droits acquis lui
+permettant de pratiquer et facturer des prestations relevant de
+l’angiologie. Une comparaison avec le groupe des angiologues ne lui paraît
+pas davantage pertinente dans la mesure où elle a « une activité en
+réalité mixte, soit une activité d’angiologie incluant certaines prestations
+de chirurgie vasculaire ». Le fait qu’elle accomplit des actes chirurgicaux
+rend sa pratique particulière par rapport au groupe de comparaison des
+angiologues. Elle souligne avoir vu en moyenne 2,93 fois chaque patient
+en 2016, ce qui est effectivement élevé par rapport au groupe de
+comparaison, mais s’explique par la nécessité de voir en règle générale
+quatre fois les patients qu’elle opère, dans un laps de temps rapproché,
+soit 48 heures avant l’intervention, le jour de l’intervention, 48 heures
+après l’intervention pour un contrôle post-opératoire et une semaine après
+l’intervention pour l’ablation des points de suture. Elle a réalisé 80
+opérations en 2016. Le nombre élevé de consultations par patient, qui
+entraîne un coût élevé par patient, est le reflet de cette situation et non
+d’une pratique contraire au principe d’économicité.
+Le Président du Tribunal arbitral des assurances a tenu une
+audience de conciliation le 21 mai 2019, sans succès.
+
+- 5 -
+Le 19 juin 2019, la défenderesse s’est déterminée et a produit
+la liste des positions tarifaires utilisées pour facturer les prestations liées
+aux interventions chirurgicales alléguées. Les parties ont par la suite
+échangé de nouvelles déterminations les 2 octobre 2020 et 21 janvier
+2022 (demanderesses) et les 12 novembre 2020 et 23 mars 2022
+(défenderesse).
+Le 2 septembre 2022, le Président du Tribunal arbitral a remis
+aux parties une impression de la page internet de NewIndex SA relative
+aux valeurs cantonales des points tarifaires en 2016, en précisant que
+sauf avis contraire motivé des parties, et sous réserve de l’avis des autres
+membres du Tribunal arbitral, les valeurs tarifaires compilées sur cette
+page seraient considérées comme établies. Il a par ailleurs invité la
+défenderesse à préciser dans quel établissement et pendant quelle
+période elle avait travaillé à D.________ en 2016. La défenderesse a
+répondu le 3 octobre 2022 ; elle a par ailleurs déclaré admettre les valeurs
+tarifaires communiquées le 2 septembre 2022.
+E n d r o i t :
+1. a) D’après l’art. 89 LAMal (loi fédérale du 18 mars 1994 sur
+l'assurance-maladie ; RS 832.1), les litiges entre assureurs et fournisseurs
+de prestations sont jugés par un tribunal arbitral (al. 1). Le tribunal arbitral
+compétent est celui du canton dont le tarif est appliqué ou du canton dans
+lequel le fournisseur de prestations est installé à titre permanent (al. 2). Le
+tribunal arbitral est aussi compétent lorsque le débiteur de la
+rémunération est l'assuré ; en pareil cas, l'assureur représente, à ses frais,
+l'assuré au procès (al. 3). Les cantons désignent le tribunal arbitral. Il se
+compose d'un président neutre et de représentants en nombre égal des
+assureurs d'une part, et des fournisseurs de prestations concernés, d'autre
+part. Les cantons peuvent confier les tâches du tribunal arbitral au tribunal
+cantonal des assurances complété, dans ce cas, par un représentant de
+chacune des parties (al. 4).
+
+- 6 -
+b) Dans le canton de Vaud, le Tribunal arbitral des assurances
+est rattaché à la Cour des assurances sociales du Tribunal cantonal (art.
+36 al. 2 ROTC [règlement organique du Tribunal cantonal du 13 novembre
+2007 ; RSV 173.31.1]). Il est présidé par un juge cantonal désigné par le
+Président du Tribunal cantonal, ainsi que par deux arbitres désignés pour
+chaque affaire par son Président (art. 114 al. 1 à 3 LPA-VD [loi du 28
+octobre 2008 sur la procédure administrative ; RSV 173.36]).
+c) Le Tribunal arbitral des assurances du canton de Vaud est
+compétent pour statuer sur la demande du 10 juillet 2018, compte tenu de
+la nature du litige et du fait que la défenderesse avait son cabinet médical
+dans le canton de Vaud au moment des faits litigieux et au moment du
+dépôt de la demande.
+La demande est recevable au regard de ce qui précède.
+2. Le litige porte sur le caractère économique ou non économique
+de la pratique médicale de la défenderesse en 2016, ainsi que le montant
+qu’elle serait tenue de rembourser aux demanderesses dans l’hypothèse
+d’une pratique non économique.
+3. Aux termes de l’art. 25 al. 1 LAMal, l’assurance obligatoire des
+soins prend en charge les coûts des prestations qui servent à
+diagnostiquer ou à traiter une maladie et ses séquelles. Seules les
+prestations efficaces, appropriées et économiques sont prises en charge
+par l’assurance obligatoire des soins, conformément à l’art. 32 al. 1 LAMal.
+Le fournisseur de prestations doit limiter ses prestations à la mesure
+exigée par l’intérêt du patient et le but du traitement (art. 56 al. 1 LAMal).
+La rémunération des prestations qui dépassent cette limite peut être
+refusée et le fournisseur de prestations peut être tenu de restituer les
+sommes reçues à tort (art. 56 al. 2 LAMal). Outre l’obligation de restituer
+tout ou partie des honoraires touchés pour des prestations fournies de
+manière inappropriée, l’art. 59 al. 1 LAMal prévoit la possibilité, pour le
+Tribunal arbitral des assurances, de sanctionner le fournisseur de
+prestations qui ne respecte pas les exigences relatives au caractère
+
+- 7 -
+économique et à la qualité des prestations par un avertissement, une
+amende et, en cas de récidive, l’exclusion temporaire ou définitive de
+toute activité à charge de l’assurance obligatoire des soins (art. 59 al. 1
+let. a à d LAMal).
+4. a) Les méthodes statistique et analytique, ou une combinaison
+de ces deux méthodes, sont admises par le Tribunal fédéral pour établir
+l’existence d’une polypragmasie (« Überarztung »). Si les tribunaux
+arbitraux restent en principe libres de choisir la méthode d’examen, le
+Tribunal fédéral donne toutefois sa préférence à la méthode statistique
+par rapport à la méthode analytique, qui n’est en règle générale appliquée
+que si des données fiables pour une comparaison des coûts moyens font
+défaut. La méthode statistique permet un examen anonyme, standardisé,
+large, rapide et continu de l’économicité par rapport à une méthode
+analytique qui a les défauts d’être coûteuse, difficile à réaliser à large
+échelle et mal adaptée lorsqu’il s’agit de déterminer l’ampleur de la
+polypragmasie et le montant à mettre à la charge du médecin concerné
+(ATF 136 V 415 consid. 6.2 ; TF 9C_570/2015 du 6 juin 2016 consid. 3 ;
+9C_821/2012 du 12 avril 2013 consid. 5.2.2).
+b) La méthode statistique de comparaison des coûts moyens
+consiste à comparer les coûts moyens causés par patient par la pratique
+du médecin concerné avec ceux causés par la pratique d’autres médecins
+travaillant dans des conditions semblables. Pour que cette méthode puisse
+être appliquée, il faut que les bases de comparaison soient sensiblement
+identiques et que la comparaison s’étende sur une période suffisamment
+longue, afin de réduire plus ou moins les éventuelles différences qui
+peuvent se présenter. Il convient de parler de polypragmasie lorsque les
+notes d’honoraires communiquées par un médecin aux assureurs-maladie
+sont, en moyenne, sensiblement plus élevées que celles d’autres
+médecins relevant de la même spécialité, exerçant dans la même région
+et disposant d’une patientèle similaire, sans que des circonstances
+particulières puissent justifier cette différence. On ne saurait toutefois
+inférer d’un dépassement de la valeur statistique de référence (indice de
+100) l’existence d’une pratique médicale non économique. Il convient
+
+- 8 -
+d’accorder au médecin une marge de tolérance ainsi que, le cas échéant,
+un supplément sur cette marge de tolérance permettant d’intégrer les
+spécificités d’une pratique médicale. Selon la jurisprudence, cette marge
+de tolérance doit se situer entre un indice de 120 et de 130 (ATF 137 V 43
+consid. 2.2). Les résultats fournis par la méthode statistique ne constituent
+toutefois pas une présomption irréfragable, dans la mesure où le médecin
+concerné a toujours la possibilité de justifier une pratique plus onéreuse
+que celle de ses confrères appartenant à son groupe de comparaison (ATF
+136 V 415 consid. 6.2 ; TF 9C_570/2015 du 6 juin 2016 consid. 3 ;
+9C_821/2012 du 12 avril 2013 consid. 5.2.3).
+c) Les 27 décembre 2013 et 16 janvier 2014, en application de
+l’art. 56 al. 6 LAMal, la Fédération des médecins suisses (FMH), d’une part,
+et santésuisse et curafutura, d’autre part, ont convenu d’appliquer la
+méthode statistique d’analyse des variances (méthode dite « Anova »)
+pour contrôler le caractère économique des prestations des médecins. Le
+Tribunal fédéral a admis la légalité de cette méthode d’analyse et de son
+utilisation comme moyen de preuve d’une pratique non économique (ATF
+144 V 79 ; voir également TF 9C_267/2017 et 9C_268/2017 du 1er mars
+2018). Cette méthode consiste à comparer les coûts moyens par patient
+causés par la pratique du médecin concerné avec ceux des médecins
+travaillant dans la même spécialité en Suisse. A cette fin, les variables âge
+et sexe des patients sont, dans un premier temps, standardisés, de sorte
+que les coûts d’un médecin sont présentés comme s’il avait la même
+répartition de patients par âge et par sexe que le groupe de comparaison
+dans son ensemble. Dans un deuxième temps, les coûts des médecins
+entrant en comparaison sont standardisés comme s’ils étaient tous actifs
+dans le même canton et, par conséquent, soumis au même tarif. Il en
+résulte un indice standardisé national par spécialité médicale, qui est
+utilisé comme valeur de référence pour le médecin et son groupe de
+comparaison.
+5. a) Les fournisseurs de prestations établissent leurs factures
+sur la base de tarifs ou de prix (art. 43 al. 1 LAMal). Le tarif est une base
+de calcul de la rémunération. Il peut notamment se fonder sur le temps
+
+- 9 -
+consacré à la prestation (tarif au temps consacré), attribuer des points à
+chacune des prestations et fixer la valeur du point (tarif à la prestation) ou
+prévoir un mode de rémunération forfaitaire (tarif forfaitaire) (art. 43 al. 2
+LAMal). Les tarifs et les prix sont fixés par convention entre les assureurs
+et les fournisseurs de prestations (convention tarifaire) ou, dans les cas
+prévus par la loi, par l’autorité compétente (art. 43 al. 4 LAMal). Les tarifs
+à la prestation doivent se fonder sur une structure tarifaire uniforme, fixée
+par convention sur le plan suisse. Si les partenaires tarifaires ne peuvent
+s’entendre sur une structure tarifaire uniforme, le Conseil fédéral la fixe
+(art. 43 al. 5 LAMal). Les parties à la convention et les autorités
+compétentes veillent à ce que les soins soient appropriés et leur qualité de
+haut niveau, tout en étant le plus avantageux possible (art. 43 al. 6
+LAMal). Les fournisseurs de prestations doivent respecter les tarifs et les
+prix fixés par convention ou par l’autorité compétente ; ils ne peuvent
+exiger de rémunération plus élevée pour des prestations fournies en
+application de la présente loi (protection tarifaire) (art. 44 al. 1 LAMal).
+b) Conformément à ce qui précède, la Fédération des
+médecins suisses et santésuisse ont adopté le 5 juin 2002 la Convention-
+cadre Tarmed, qui introduit une structure tarifaire unifiée en matière de
+soins ambulatoires pour l’ensemble de la Suisse (ci-après : structure
+tarifaire Tarmed), pour les prestations des médecins exerçant en pratique
+privée et ceux fournissant des prestations selon les formes d’assurance
+particulières (HMO, modèle de médecin de premier recours, etc.) (art. 1 et
+2 de la Convention-cadre Tarmed). En raison de différends entre les
+partenaires tarifaires sur l’adaptation de la convention, le Conseil fédéral a
+édicté, le 20 juin 2014, l’Ordonnance sur la fixation et l’adaptation de
+structures tarifaires dans l’assurance-maladie (RS 832.102.5), qu’il a par la
+suite adaptée régulièrement. Cette ordonnance définit la Convention-
+cadre Tarmed, avec les adaptations apportées par le Conseil fédéral, selon
+son annexe 1, comme structure tarifaire uniforme sur le plan suisse (art. 2
+de l’ordonnance).
+c) La structure tarifaire Tarmed contient des dispositions qui
+garantissent la qualité des soins non seulement en termes d’économicité,
+
+- 10 -
+mais également d’efficacité et d’adéquation, notamment en réservant
+certaines prestations à des médecins disposant d’une formation
+spécialisée. Le chiffre 10 du chapitre « Interprétations Générales » précise
+ainsi, sous le titre « Valeur intrinsèque », que « Les prestations ne peuvent
+être facturées que par les spécialistes répondant aux exigences de valeur
+intrinsèque qualitative et, le cas échéant, quantitative liées à ces
+prestations (exigences de formation postgraduée et continue, notamment
+titre de spécialiste et formations approfondies, attestations de formation
+complémentaire et certificats d’aptitude technique) ». La structure
+tarifaire Tarmed à laquelle se réfère l’Ordonnance sur la fixation et
+l’adaptation de structures tarifaires dans l’assurance-maladie répond ainsi
+également au mandat donné par le législateur fédéral au Conseil fédéral
+de prendre les mesures nécessaires à garantir la qualité et l’adéquation
+des prestations (art. 58 al. 1 à 3 LAMal, dans sa teneur en vigueur
+jusqu’au 31 mars 2021 ; voir également art. 58h LAMal, dans sa teneur en
+vigueur depuis le 1er avril 2021). Tout médecin qui, avant l’entrée en
+vigueur de Tarmed en janvier 2004, fournissait régulièrement depuis 3 ans
+des prestations sans être au bénéfice du titre de formation postgraduée
+requis peut faire valoir lesdites prestations en se prévalant d’un droit
+acquis, pour autant qu’il puisse attester une formation continue adéquate
+(Concept « valeur intrinsèque » Tarmed – version 9.0, ch. 1.3 ; ce
+document peut être consulté à l’adresse internet suivante :
+https://www.fmh.ch/files/pdf22/dignitaetkonzept90def_f.pdf [date de
+consultation : 02.06.2023]).
+6. a) Les demanderesses fondent leurs allégations relatives à la
+non économicité des prestations fournies par la défenderesse, ainsi que
+celles relatives au montant des honoraires facturés à tort, sur une
+comparaison statistique entre sa pratique et celle des autres médecins
+praticiens établis en Suisse, selon la méthode dite « Anova ». A titre
+subsidiaire, elles se réfèrent à la méthode de comparaison statistique qui
+existait avant la méthode « Anova », à savoir une comparaison statistique
+entre la défenderesse et les autres médecins praticiens établis dans le
+canton de Vaud, sans standardisation pour tenir compte de l’âge et du
+sexe des patients (statistique RSS). Elles ont également produit une
+
+- 11 -
+comparaison statistique entre la défenderesse et les autres angiologues
+établis dans les cantons de Vaud et Genève (pièce 6), ainsi qu’en Suisse
+(pièce 7), sans standardisation pour tenir compte de l’âge et du sexe des
+patients ni du tarif cantonal (statistique RSS).
+La défenderesse conteste la pertinence du groupe de
+comparaison des médecins praticiens, auquel se réfèrent les
+demanderesses. Elle fait valoir que sa pratique était celle d’une
+angiologue, avec par ailleurs certaines prestations de chirurgie vasculaire.
+b) La défenderesse n’est pas titulaire d’un titre reconnu de
+spécialiste en angiologie ni d’un autre titre de spécialiste qui lui
+permettrait de pratiquer de la chirurgie vasculaire. Elle est toutefois au
+bénéfice de droits acquis à pratiquer comme angiologue et à facturer, par
+ailleurs, diverses prestations de chirurgie vasculaire (pièces 101 et 102).
+Les demanderesses ne le contestent pas et ne démontrent pas que la
+pratique de la défenderesse correspondrait à celle d’un médecin praticien
+plutôt qu’à celle d’un angiologue, comme le soutient cette dernière.
+7. a) La défenderesse conteste la pertinence du groupe de
+comparaison des angiologues, dès lors qu’elle aurait régulièrement facturé
+des prestations chirurgicales en utilisant, au bénéfice d’un droit acquis,
+des positions tarifaires exigeant une spécialisation supplémentaire. Sa
+pratique ne serait donc pas comparable à celles des autres angiologues,
+ou en tout cas d’une partie d’entre eux, qui ne pratiqueraient pas ces
+interventions chirurgicales.
+b) A l’appui de ses allégations, la défenderesse a produit une
+liste des positions tarifaires utilisées entre le 1er janvier et le 31 décembre
+2016 dans le cadre de sa pratique en cabinet à X.________ (VD) et à la
+Clinique de D.________ (pièce 103bis, produite le 19 juin 2019 sur
+réquisition du Président du Tribunal arbitral à la suite de l’audience de
+conciliation). Il n’en ressort toutefois pas que la défenderesse utiliserait
+régulièrement des positions tarifaires requérant un droit acquis particulier
+ou une autre spécialisation que l’angiologie. En effet, les positions
+
+- 12 -
+tarifaires mises en évidence sur cette pièce par la défenderesse ne
+requièrent pas de valeur intrinsèque particulière ou peuvent être
+pratiquées par un angiologue. Les deux seules positions tarifaires utilisées
+requérant une spécialisation particulière ou un droit acquis sont les
+positions 39.3570 et 39.3550 (p. 2 de liste des positions tarifaires
+correspondant à la pratique en cabinet). Au vu des montants concernés,
+inférieurs à 1’000 fr. au total, leur utilisation est négligeable pour
+l’appréciation de la pertinence du groupe de comparaison des
+angiologues.
+En ce qui concerne sa pratique au Centre C.________, la
+défenderesse n’a pas pu produire de liste des positions tarifaires utilisées.
+La pièce 104 qu’elle a produite permet tout au plus de constater que 16
+varicectomies ou ligatures d’une veine perforante ont été pratiquées. La
+défenderesse paraît soutenir dans son écriture du 19 juin 2019 que ces
+interventions ont entraîné une facturation des positions tarifaires 18.1600
+et 18.1590. Ces positions tarifaires ne peuvent effectivement pas être
+utilisées par des angiologues ne disposant pas d’une spécialisation
+supplémentaire ou d’un droit acquis correspondant. Mais même en
+admettant, par hypothèse, que tel ait bien été le cas, le nombre
+d’interventions entrant en considération est insuffisant pour considérer
+que la pratique de la défenderesse serait particulière par rapport à celles
+des autres angiologues du groupe de comparaison. On observera par
+ailleurs que les positions 18.1600 et 18.1590 n’ont jamais été utilisées
+pour la pratique en cabinet ou à la Clinique de D.________. Aucune des
+autres positions tarifaires mentionnées par la défenderesse dans sa
+détermination du 19 juin 2019 ne requiert un titre de spécialisation, mis à
+part, pour certaines d’entre elles, l’angiologie. Enfin, l’argumentation de la
+recourante d’après laquelle seuls pourraient entrer dans le groupe de
+comparaison les angiologues pratiquant exclusivement en cabinet, au
+motif que les prestations effectuées en hôpital seraient comptabilisées par
+le biais du SwissDRG, ne peut être suivie. La facturation de prestations
+hospitalières par des forfaits liés au SwissDRG concerne en effet les
+prestations effectuées lors d’hospitalisations stationnaires, pour des cas
+qui s’écartent effectivement de la pratique ambulatoire en cabinet. Les
+
+- 13 -
+prestations facturées pour ces cas, s’écartant de la pratique en cabinet,
+n’entrent précisément pas dans les statistiques du médecin concerné pour
+ses prestations en ambulatoire, de sorte que ces statistiques restent
+pertinentes. Au demeurant, les demanderesses ont exposé à juste titre
+que les positions tarifaires facturées par la défenderesse et correspondant
+à des opérations (12'431 fr.) représentent une très faible proportion des
+coûts directs pour les traitements en cabinet médical (336'761 fr.). Il n’est
+pas rendu plausible que ces opérations, même en y ajoutant les contrôles
+qui y sont liés, puissent expliquer le surcoût notable par rapport au groupe
+de comparaison.
+Vu ce qui précède, il n’y a pas de motif de considérer que la
+pratique de la défenderesse ne serait pas comparable à celle des autres
+angiologues et que le groupe de comparaison dans ce domaine de
+spécialisation ne serait pas pertinent.
+8. Il ressort de la base de données statistiques RSS présentée par
+les demanderesses (pièce 6) que par rapport au groupe de comparaison
+des angiologues dans les cantons de Vaud et Genève, la défenderesse
+présente des coûts directs d’un montant total de 339'626 fr. en 2016 pour
+un indice des coûts directs et indirects par patient de 266. L’indice des
+coûts directs et indirects par patient était déjà très élevé les années
+précédentes (285 en 2012, 250 en 2013, 202 en 2014 et 229 en 2015).
+L’indice des coûts directs par patient est également élevé (322 en 2012,
+285 en 2013, 224 en 2014, 256 en 2015 et 292 en 2016). En admettant
+une marge de tolérance importante de 30 % par rapport à l’indice des
+coûts directs et indirects, les coûts directs admissibles sont de
+165'982 fr. 60 (339’626/266*130). On doit ainsi constater que la pratique
+de la défenderesse n’était pas conforme au principe d’économicité et a
+entraîné un surcoût de l’ordre de 173'643 fr. (339'626 fr. - 165’983 fr.).
+Une comparaison avec les angiologues au niveau suisse (pièce 7 produite
+par les demanderesses) serait légèrement plus favorable à la
+défenderesse, puisque l’indice des coûts directs et indirects de la
+défenderesse serait de 232, ce qui entraînerait un surcoût de l’ordre de
+149’318 fr. (339'626 fr. - [339’626/232*130]). Cela peut s’expliquer
+
+- 14 -
+notamment par le fait que le point tarifaire pour les cantons de Vaud et
+Genève (0.96 ; pièce 200) était parmi les plus élevés de Suisse en 2016.
+Quoi qu’il en soit, les demanderesses concluent, à titre principal, au
+remboursement d’un montant de 148'581 fr. par la défenderesse, ce qui
+rentre dans le cadre du surcoût calculé ci-avant. Il convient par
+conséquent de leur allouer leur conclusion principale, quand bien même
+celle-ci reposait sur une comparaison avec le groupe des médecins
+praticiens, qui n’a pas été jugé pertinent par le Tribunal arbitral.
+9. a) Vu ce qui précède, la défenderesse sera tenue de restituer
+aux demanderesses, solidairement entre elles, un montant de 148'581
+francs.
+b) Dès lors que les demanderesses ont vu leur conclusion
+principale admise, les frais de justice sont intégralement mis à la charge
+de la défenderesse, qui ne peut pas prétendre à des dépens (art. 45, 49 al.
+1 et 55 al. 1 LPA-VD, par renvoi des art. 109 al. 1 et 116 LPA-VD). Les frais
+de justice comportent l’émolument judicaire, arrêté à 3’500 fr. ainsi que la
+rémunération des arbitres-assesseurs, qu’il convient de fixer à 1’000 fr.
+par arbitre-assesseur, soit un total de 5'500 francs. Ce montant est
+intégralement couvert par les avances de frais effectuées. Les
+demanderesses, qui ont versé ces avances de frais, se verront rembourser
+ces débours par la défenderesse.
+Par ces motifs,
+le Tribunal arbitral des assurances
+p r o n o n c e :
+I. La demande est admise.
+II. B.________ est condamnée à verser aux demanderesses,
+solidairement entre elles, un montant de 148'581 fr. (cent
+
+- 15 -
+quarante-huit mille cinq cent huitante et un francs) pour
+l’année statistique 2016.
+III. Les frais de justice sont fixés à 5’500 fr. (cinq mille cinq cents
+francs) et sont mis à la charge de la défenderesse ; ils sont
+couverts par l’avance de frais effectuée par les
+demanderesses.
+IV. B.________ versera aux demanderesses, solidairement entre
+elles, un montant de 5'500 fr. (cinq mille cinq cents francs) à
+titre de débours pour l’avance de frais effectuée.
+Le président : La greffière :
+
+- 16 -
+Du
+Le jugement qui précède, dont la rédaction a été approuvée à
+huis clos, est notifié à :
+- Me Valentin Schumacher (pour les demanderesses),
+- Me Giuliano Scuderi (pour B.________),
+- Office fédéral de la santé publique.
+Le présent jugement peut faire l'objet d'un recours en matière
+de droit public devant le Tribunal fédéral au sens des art. 82 ss LTF (loi du
+17 juin 2005 sur le Tribunal fédéral ; RS 173.110), cas échéant d'un
+recours constitutionnel subsidiaire au sens des art. 113 ss LTF. Ces recours
+doivent être déposés devant le Tribunal fédéral (Schweizerhofquai 6, 6004
+Lucerne) dans les trente jours qui suivent la présente notification (art. 100
+al. 1 LTF).
+La greffière :
