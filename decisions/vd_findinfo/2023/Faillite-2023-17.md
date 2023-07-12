@@ -1,0 +1,165 @@
+---
+decision_id: "vd_findinfo_Faillite___2023___17"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2023 / 17"
+decided: "2023-07-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9426301"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-056.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-190.md", "switzerland/bund/acts/281.1/art-194.md"]
+---
+
+# VD Findinfo Faillite / 2023 / 17
+
+## Regeste
+
+ACTE DE RECOURS, MOTIVATION DE LA DEMANDE, CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ | 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2023 / 17
+
+ACTE DE RECOURS, MOTIVATION DE LA DEMANDE, CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ | 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FW22.045235-230730
+126
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+12 juillet 2023
+__________________
+Composition
+:              M.
+Hack
+,
+président
+M.
+Maillard et Mme Giroud Walther, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+321 al. 1 CPC
+Vu le jugement rendu le 17 mai 2023 à la suite de l’audience du 11 mai 2023 par le Président
+du Tribunal d’arrondissement de Lausanne admettant la requête de faillite sans poursuite préalable
+du 8 novembre 2022 dirigée contre
+Z.________
+SA
+, à [...], déposée par la
+Caisse
+Q.________
+, à [...], prononçant dite
+faillite avec effet au 17 mai 2023 à 10 h 00, mettant les frais judiciaires, arrêtés à
+300 fr., à la charge de la faillie, disant que celle-ci rembourserait à la requérante
+son avance de frais, par 300 fr., et n’allouant pas de dépens,
+vu le recours daté du 23 mai et déposé à la poste le lendemain, interjeté par
+Z.________ SA qui demande que lui soit octroyée une dernière chance,
+vu le courrier de la recourante du 3 juillet 2023,
+vu les autres pièces du dossier ;
+attendu que la voie du recours au sens des art. 319 ss CPC (Code de procédure civile du 19 décembre
+2008; RS 272) est ouverte contre la décision prononçant une faillite sans poursuite préalable
+(art. 174 al. 1 LP [loi du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1]
+par renvoi de l’art. 194 al. 1 LP,
+que le recours doit être introduit auprès de l'instance de recours par acte écrit et motivé
+(art. 321 al. 1 CPC), dans les dix jours à compter de la notification de la décision motivée
+(art. 174 al. 1 LP),
+que le délai de recours est réputé observé si l’acte de recours est adressé
+à l’autorité précédente en temps utile (ATF 140 III 636 consid. 3.7),
+qu’en l’espèce, le recours adressé le 24 mai 2023 au Tribunal d’arrondissement
+de Lausanne a été déposé à temps;
+attendu que, pour être recevable, le recours doit être motivé (art. 321 al. 1 in initio
+CPC),
+que, selon la jurisprudence du Tribunal fédéral, pour satisfaire à cette exigence, la
+partie recourante doit démontrer le caractère erroné de la motivation de la décision
+attaquée et son argumentation doit être suffisamment explicite pour que l’instance de
+recours puisse la comprendre, ce qui suppose une désignation précise des passages de la décision
+qu’elle attaque et des pièces du dossier sur lesquelles elle fonde sa critique (ATF 147 III
+176 consid. 4.2.1 et les références citées ; ATF 141 III 569 consid. 2.3.3 et réf.
+cit.; TF 5A_488/2015 du 21 août 2015 consid. 3.2.1, publié in RSPC 6/2015 pp. 512 s., et les
+arrêts cités),
+que ni l’art. 132 al. 1 et 2 ni l’art. 56 CPC ne sont applicables en cas d’absence
+de motivation d’un acte de recours (TF 5A_488/2015 précité consid. 3.2.2),
+que l’espèce, la recourante, par son directeur, déclare reconnaître avoir commis
+de erreurs dans les décisions prises depuis 2019, alors qu’elle avait du travail,
+qu’elle expose ensuite que ses fondateurs ont fait énormément de sacrifices durant les
+années 2020 à 2022 et qu’elle est certaine qu’elle arrivera à régler
+les arriérés réclamés par l’intimée, tout en reconnaissant ne pas avoir
+été en mesure de le faire pour les mois de février et mars 2023,
+qu’elle explique encore que ses buts sont de reprendre des activités dans le domaine sanitaire,
+mais sur des marchés plus petits et moins risqués, ce qui, dans les trente mois devrait permettre
+de régler les arriérés ouverts auprès de l’intimée et des autres institutions,
+des remboursements mensuels étant préférables à une faillite,
+qu’elle fait enfin valoir la sincérité des membres de son administration et le choc causé
+par le prononcé de faillite, se déclarant prête à céder à l’intimée
+les créances qu’elle a auprès de ses propres débiteurs,
+qu’elle ne discute toutefois pas la motivation du jugement de faillite constatant qu’au vu
+des nombreuses poursuites ouvertes en lien avec des charges sociales et publiques – démontrant
+un manque de liquidités – du caractère considérable des retards de paiement des
+cotisations – excluant l’existence d’une simple gêne passagère – et
+du respect très partiel de l’engagement de remboursement pris à l’audience du 8
+décembre 2022, la condition de suspension des paiements définie à l’art. 190 al.
+1 ch. 2 LP était réalisée, ce qui avait pour conséquence légale que la requête
+de faillite sans poursuite préalable déposée par l’intimée devait être
+admise,
+que le recours ne satisfait donc pas aux exigences de l’art. 321 al. 1 CPC et de la jurisprudence
+susmentionnée,
+qu’il est en conséquence irrecevable ;
+attendu qu’au demeurant, l’article 190 LP prévoyant le prononcé de faillite sans
+poursuite préalable a été introduit pour les situations particulières énumérées
+aux ch. 1 et 2 de cette disposition dans lesquelles tout retard dans le prononcé de faillite serait
+de nature à compromettre inutilement les intérêts des créanciers (cf. Gilliéron,
+Poursuite pour dettes, faillite et concordat, 5
+e
+éd., n° 1524 p. 360),
+qu’ainsi, en présence d’une situation de suspension de paiement définie à
+l’art. 190 al. 1 ch. 2 LP, la loi impose de donner la priorité aux intérêts des
+créanciers à voir la faillite prononcée, par rapport à ceux de l’entreprise
+à bénéficier de temps pour redresser sa situation,
+qu’à supposer recevable, la requête de la recourante tendant à l’octroi d’une
+dernière chance aurait dû être rejetée ;
+attendu que le présent arrêt est rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Z.________ SA en liquidation,
+‑
+Caisse Q.________,
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office des district de Lausanne et de l’Ouest lausannois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+Le greffier :
