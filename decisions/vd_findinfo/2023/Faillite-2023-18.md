@@ -1,0 +1,210 @@
+---
+decision_id: "vd_findinfo_Faillite___2023___18"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2023 / 18"
+decided: "2023-07-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9433240"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-056.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2023 / 18
+
+## Regeste
+
+CONDITION DE RECEVABILITÉ, MOTIVATION DE LA DEMANDE, RESTITUTION DU DÉLAI, AVANCE DE FRAIS, OUVERTURE DE LA FAILLITE, ACTE DE RECOURS | 321 al. 1 CPC (CH), 59 al. 1 CPC (CH), 59 al. 2 let. f CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2023 / 18
+
+CONDITION DE RECEVABILITÉ, MOTIVATION DE LA DEMANDE, RESTITUTION DU DÉLAI, AVANCE DE FRAIS, OUVERTURE DE LA FAILLITE, ACTE DE RECOURS | 321 al. 1 CPC (CH), 59 al. 1 CPC (CH), 59 al. 2 let. f CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF23.015523-230822
+141
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+18 juillet 2023
+____________________
+Composition
+:              M.
+Hack
+,
+président
+Mmes
+Byrde et Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+59 al. 1 et 2 let. f et 321 al. 1 CPC
+Vu le jugement rendu le 8 mai 2023, par lequel la Présidente du Tribunal d’arrondissement
+de La Côte a prononcé, par défaut des parties, la faillite de
+M.________SA
+,
+à [...] (commune de [...]), le jour même à 11 heures 30, à la réquisition de
+N.________SA
+,
+à [...],
+vu la requête de restitution de délai déposée le 19 mai 2023 par M.________SA,
+vu la décision de la présidente du tribunal du 22 mai 2023, prononçant l’effet suspensif
+jusqu'à droit connu sur la requête de restitution de délai,
+vu la citation à comparaître à l’audience du 12 juin 2023 adressée le même
+jour en courrier recommandé à la requérante, précisant qu’il serait alors statué
+sur la restitution «
+qui
+suppose que le défaut à l’audience de faillite n’est pas imputable au débiteur
+ou n’est imputable qu’à une faute légère
+»,
+qu’en outre, «
+pour
+qu’il soit statué, la partie requérante devra faire, avant l’ouverture de l’audience,
+une avance de frais de 400 fr.
+» et
+que «
+la
+partie requérante est priée de présenter à l’huissier du tribunal,
+avant
+l’audience
+,
+la preuve du paiement
+»,
+vu la décision rendue le 12 juin 2023, par laquelle la présidente du tribunal d’arrondissement,
+constatant que la requérante ne s’était pas présentée à l’audience
+du même jour, n’avait pas effectué l’avance de frais requise et n’avait pas
+indiqué les motifs pour lesquels elle ne s’était pas présentée à l’audience
+de faillite du 8 mai 2023, a déclaré irrecevable la requête en restitution de délai
+(I), a révoqué l’effet suspensif accordé (II), a confirmé le jugement de faillite
+et dit que celui-ci prenait effet le 12 juin 2023 à 14 heures (III) et a rendu le prononcé
+sans frais (IV),
+vu le recours formé le 15 juin 2023 par M.________SA contre cette décision,
+vu la décision du Président de la cour de céans prenant date le 23 juin 2023, rejetant
+la requête d’effet suspensif déposée par la recourante,
+vu les autres pièces du dossier ;
+attendu que la voie du recours des art. 319 ss CPC (Code de procédure civile ; RS 272) est ouverte
+contre la décision déclarant irrecevable ou rejetant la requête de restitution de délai
+en vue d’obtenir la tenue d’une nouvelle audience de faillite (CPF 30 décembre 2020/354 ;
+CPF 5 mars 2018/26),
+qu’en procédure sommaire, le délai de recours est de dix jours dès la notification
+de la décision attaquée (art. 321 al. 2 CPC),
+qu’en l’espèce, la décision attaquée a été notifiée à
+la recourante le 13 juin 2023,
+que le recours déposé le 15 juin 2023 a été interjeté en temps utile ;
+attendu que la partie qui entend user d'une voie de droit a la charge de se conformer à certaines
+règles de forme, à défaut de quoi sa démarche sera frappée d'irrecevabilité
+(Jeandin,
+in
+Bohnet/Haldy/Jeandin/Schweizer/Tappy (éd.), Commentaire romand, Code de procédure civile, 2
+e
+éd., 2019, n. 1
+ad
+art. 321 CPC),
+qu'en particulier, selon l'art. 321 al. 1 CPC, le recours doit être motivé,
+que, si la motivation du recours fait défaut, l’instance de recours n’entre pas en matière,
+que, selon la jurisprudence du Tribunal fédéral, la motivation du recours doit à tout
+le moins satisfaire aux exigences qui sont posées pour un acte d’appel (ATF 147 III 176 consid.
+4.2.1 ; TF 5D_43/2019 du 24 mai 2019 consid. 3.2.2.1 ; TF 5A_387/2016 du 7 septembre 2016 consid.
+3.1 ; TF 5A_488/2015 du 21 août 2015 consid. 3.2.1, publié
+in
+RSPC 6/2015 pp. 512 s., et les arrêts cités),
+que cela signifie que le recourant doit démontrer le caractère erroné de la motivation
+de la décision attaquée et que son argumentation doit être suffisamment explicite pour
+que l’instance de recours puisse la comprendre, ce qui suppose une désignation précise
+des passages de la décision qu’il attaque et des pièces du dossier sur lesquelles il
+fonde sa critique (ATF 147 III 176 précité),
+que ni l’art. 132 al. 1 et 2 ni l’art. 56 CPC ne sont applicables en cas d’absence
+de motivation d’un acte de recours (TF 5D_43/2019 précité ; TF 5A_387/2016
+précité ; RSPC 6/2015 pp. 512 s. précité, et les arrêts cités) ;
+attendu qu’en l’espèce, la recourante fait valoir premièrement que l’avance
+de frais requise de 400 fr. a été versée le 12 juin 2023,
+qu’elle produit sur ce point un avis bancaire indiquant que le compte courant dont elle est titulaire
+a été débité le 12 juin 2023 du montant de 400 fr. en faveur du Tribunal d’arrondissement
+de La Côte, avec la référence FF23.015523,
+que cela ne démontre toutefois pas que l’avance de frais requise ait été payée
+avant
+l’audience du 12 juin 2023,
+qu’au demeurant, la requérante n’a pas comparu à dite audience et n’a pas
+présenté la preuve du paiement de l’avance à l’huissier,
+que les constatations de la première juge sur ce point ne sont donc pas manifestement inexactes,
+comme le soutient la recourante,
+que ce moyen de recours doit être rejeté,
+que, pour le surplus, la recourante invoque un «
+arrangement
+viable
+» qui aurait été trouvé
+avec N.________SA et des pourparlers qui seraient en cours entre elle-même, sa banque et ses créanciers,
+«
+dans le but de
+trouver un accord acceptable pour tous
+»
+lui permettant de régler ses dettes tout en poursuivant son activité, et elle demande
+« l’arrêt
+de la procédure engagée par N.________SA, demande qu’ils soutiennent également
+»,
+que ce faisant elle ne critique pas la motivation de la décision attaquée selon laquelle elle
+n’a pas indiqué les motifs pour lesquels elle ne s’était pas présentée
+à l’audience de faillite du 8 mai 2023, alors que, comme elle y a été rendue attentive,
+la restitution de délai suppose que le défaut à l’audience de faillite ne soit pas
+imputable au débiteur ou ne soit imputable qu’à une faute légère,
+que le recours est en conséquence entaché d’un défaut de motivation sur ce point,
+que, par ailleurs, il n’y a pas de recours contre une décision confirmant une faillite (CPF
+5 mars 2018/26 et les arrêts cités),
+que la décision du 12 juin 2023 ne constitue pas un nouveau jugement de faillite contre lequel la
+voie du recours de l’art. 174 al. 1 LP (loi fédérale sur la poursuite pour dettes et
+la faillite ; RS 281.1) serait ouverte,
+que la faillite prononcée le 8 mai 2023 n’a à aucun moment été annulée,
+la décision du 22 mai 2023 ayant seulement suspendu ses effets,
+qu’en tant qu’il vise éventuellement le jugement de faillite du 8 mai 2023, le recours
+est donc largement tardif,
+qu’en conclusion, le recours doit être rejeté dans la mesure de sa recevabilité ;
+attendu que le présent arrêt est rendu sans frais judiciaires (art. 11 TFJC [tarif des frais
+judiciaires civils ; BLV 270.11.5]) ni dépens.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté dans la mesure de sa recevabilité.
+II.
+La décision est confirmée.
+III.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M.________SA,
+‑
+N.________SA,
+-
+M. le Préposé à l’Office des faillites de l’arrondissement de La Côte,
+-
+M. le Préposé à l’Office des poursuites du district de Morges.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Préposé au Registre du commerce du canton de Vaud,
+-
+M. le Conservateur du Registre foncier, bureau de La Côte,
+et communiqué à :
+-
+Mme la Présidente du Tribunal d’arrondissement de La Côte.
+La greffière :
