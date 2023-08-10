@@ -1,0 +1,232 @@
+---
+decision_id: "vd_findinfo_Plainte___2023___29"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2023 / 29"
+decided: "2023-08-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9460853"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-076.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-019.md", "switzerland/bund/acts/281.1/art-020a.md"]
+---
+
+# VD Findinfo Plainte / 2023 / 29
+
+## Regeste
+
+GRATUITÉ DE LA PROCÉDURE, PLAINTE{LP}, AUTORITÉ DE SURVEILLANCE, QUALITÉ POUR RECOURIR, CRÉANCIER | 18 al. 1 LP, 20a al. 2 ch. 5 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2023 / 29
+
+GRATUITÉ DE LA PROCÉDURE, PLAINTE{LP}, AUTORITÉ DE SURVEILLANCE, QUALITÉ POUR RECOURIR, CRÉANCIER | 18 al. 1 LP, 20a al. 2 ch. 5 LP
+
+TRIBUNAL
+CANTONAL
+FA23.008698-230854
+23
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+10 août 2023
+___________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1 et 20a al. 2 ch. 5 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par l’
+Etat
+de Vaud
+, représenté par l’
+Administration
+cantonale des impôts
+, à Lausanne, contre
+la décision rendue le 5 juin 2023 par la Présidente du Tribunal d’arrondissement de l’Est
+vaudois, autorité inférieure de surveillance, dans une procédure opposant
+W.________
+,
+à [...], au recourant ainsi qu’à
+T.________
+et à l’
+Office
+des poursuites du district de Lavaux-Oron
+, à
+Cully.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 27 février 2023, W.________ a déposé une plainte LP contre le procès-verbal des
+opérations de la saisie délivré le 30 novembre 2022 par l’Office des poursuites
+du district de Lavaux-Oron dans le cadre de poursuites exercées contre le plaignant à l’instance
+de l’Etat de Vaud, représenté par l’Administration cantonale des impôts, et
+de T.________.
+2.
+Par prononcé du 5 juin 2023, la Présidente du Tribunal d’arrondissement de La Riviera
+– Pays-d’Enhaut, statuant en sa qualité d’autorité inférieure de surveillance,
+a écarté la plainte (I) et rendu sa décision sans frais, ni dépens (II). En résumé,
+elle a considéré que le procès-verbal litigieux était un acte purement informatif
+ne contenant aucune mesure d’exécution forcée susceptible de plainte, et qu’à
+supposer qu’il pût faire l’objet d’une plainte, celle déposée par W.________
+le 23 février 2023 était tardive.
+3.
+Par recours déposé le 15 juin 2023,
+l’Etat de Vaud a conclu, principalement, à la réforme du chiffre II du dispositif précité
+en ce sens que les frais de justice sont mis à la charge du plaignant et de son conseil, solidairement
+entre eux, un nouveau chiffre III les condamnant en outre à une amende de 1'500 fr., solidairement
+entre eux ; subsidiairement, il a conclu à l’annulation du chiffre II du dispositif et au
+renvoi de la cause à l’autorité précédente pour nouvelle décision dans
+le sens des considérants à intervenir.
+En droit :
+I.
+Pour justifier la recevabilité de son recours, l’Etat de Vaud se réfère aux art.
+18 al. 1 LP (loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1) et 28
+al. 1 LVLP (loi vaudoise d’application de la LP ; BLV 280.05).
+a)
+aa)
+Aux termes de l'art. 17 al. 1 LP, sauf dans les cas où la loi prescrit la voie judiciaire, il peut
+être porté plainte à l'autorité de surveillance lorsqu'une mesure de l'office est
+contraire à la loi ou ne paraît pas justifiée. La procédure de plainte est réglée
+par les art. 17 ss LP et 17 ss LVLP. Aux termes de l’art. 18 al. 1 LP, toute décision de l’autorité
+inférieure peut être déférée à l’autorité cantonale supérieure
+de surveillance dans les dix jours à compter de sa notification. Selon l’art. 28 al. 1 LVLP,
+le recours au Tribunal cantonal, Cour des poursuites et faillites, s'exerce dans les dix jours dès
+la notification du prononcé par acte écrit déposé au greffe du tribunal d'arrondissement.
+Il est signé par le recourant ou son mandataire.
+bb)
+Le recours de l’Etat de Vaud a en l’espèce été déposé dans les formes
+requises et en temps utile, même s’il a été déposé directement auprès
+de la cour de céans.
+b)
+La question à résoudre est celle
+de la qualité pour recourir de l’Etat de Vaud afin que des frais et une amende pour témérité
+soient mis à la charge du débiteur et de son conseil. Le recours ne dit rien sur cette question.
+aa)
+La qualité pour recourir au sens de l'art. 18 al. 1 LP doit être reconnue à toute personne
+qui avait, devant l'autorité inférieure, qualité pour déposer une plainte et à
+toute personne ou autorité de poursuite qui fait valoir un intérêt digne de protection,
+direct, actuel et réel à la suite de la décision de l'autorité inférieure (ATF
+135 I 187 consid. 1.3 ; Cometta/Möckli,
+in
+Staehelin/Bauer/Lorandi
+(éd.), Basler Kommentar, Bundesgesetz über Schuldbetreibung und Konkurs I, 3e éd. 2021,
+n. 48
+ad
+art. 17 SchKG [LP] et n. 11
+ad
+art. 18 SchKG et les réf. cit. ; Gilliéron, Commentaire de la loi fédérale sur
+la poursuite pour dettes et la faillite, vol. I, 1999, n. 26
+ad
+art. 18 LP ; CPF 24 avril 2023/8 consid. 4.1 ; CPF 28 août 2013/27). En principe, l’autorité
+dont la décision n’a pas été confirmée n’a pas la qualité pour recourir
+(TF 5A_639/2020 du 29 mars 2021 consid. 2). Exceptionnellement, cette qualité est reconnue à
+l’office des poursuites et des faillites lorsque, notamment, il agit comme organe du canton et
+fait valoir les intérêts du fisc ou que le litige a trait à l'application de l'ordonnance
+sur les émoluments perçus en application de la LP (OELP [RS 281.35] ; TF 5A_535/2017
+du 1
+er
+septembre 2019 consid. 1.1 ; TF 5A_172/2016 du 19 août 2016 consid. 1.2, non publié aux
+ATF 142 III 648 ; TF 5A_426/2013 du 14 octobre 2013 consid. 1.1 ; TF 5A_688/2012 du 29 avril
+2013 consid. 2 ; TF 5A_536/2012 du 20 mars 2013 consid. 1.1 ; TF 5A_79/2010 du 7 juin 2010
+consid. 1.2, publié
+in
+Pra 2011 (30) p. 205).
+bb)
+Aux termes de l'art. 20a al. 2 ch. 5 LP, les procédures devant les autorités cantonales de
+surveillance sont gratuites. La partie ou son représentant qui use de procédés téméraires
+ou de mauvaise foi peut être condamné à une amende de 1'500 fr. au plus ainsi qu'au paiement
+des émoluments et des débours. Se verra reprocher un comportement téméraire ou de
+mauvaise foi celui qui - en violation du devoir d'agir selon la bonne foi, principe aussi applicable
+en procédure - forme un recours - ou une plainte - sans avoir d'intérêt concret digne
+de protection et bien que la situation en fait et en droit soit claire, avant tout pour ralentir la procédure
+de poursuite (ATF 127 III 178 consid. 2a ; 120 III 107 consid. 4a ; 111 IA 148 consid. 4 ;
+TF 5A_438/2020 du 15 juin 2020 consid. 5.1 ; TF 5A_350/2017 du 28 juillet 2017 consid. 3.7 ;
+TF 5A_825/2015 du 7 mars 2016 consid. 5.1). Il s'agit ainsi de sanctionner les procédés qui
+troublent le cours ordinaire de l'exécution forcée et les procédés dilatoires, dont
+le devoir général d'agir de bonne foi implique de s'abstenir (Gilliéron,
+op.
+cit.
+, n° 19
+ad
+art. 20a LP), tels que le dépôt d'un recours voué d'emblée à l'échec, la
+multiplication d'actes peu intelligibles, le fait de soulever des griefs «tous azimuts» faisant
+fi des règles de compétence des juridictions saisies (TF 5A_438/2020 consid. 5.1 précité ;
+TF 7B.105/2005 du 3 août 2005 consid. 3.2). La condamnation aux frais ou à une amende en vertu
+de l'art. 20a al. 2 ch. 5 LP relève du (large) pouvoir d'appréciation de l'autorité de
+surveillance, dont l'exercice n'est revu en instance fédérale qu'avec retenue (TF 5A_438/2020
+consid. 5.1 précité ; TF 5A_640/2014 du 16 octobre 2014 consid. 4).
+D’après la jurisprudence et la doctrine, seuls le plaignant ou son représentant condamnés
+pour témérité au paiement d’une amende ou à des émoluments et des débours
+en application de l’art. 20a al. 2 ch. 5 LP ont, s’ils sont touchés, la qualité
+pour recourir devant l’autorité cantonale supérieure en application de l’art. 18
+al. 1 LP, puis devant le Tribunal fédéral en application de l’art. 76 LTF (loi sur le
+Tribunal fédéral ; RS 173.110), par renvoi de l’art. 19 LP (cf. par ex. TF 5A_400/2022
+du 7 mars 2023 consid. 3 ; TF 5A_997/2019 du 10 janvier 2020 consid. 5.3 ; TF 5A_640/2014 du
+16 octobre 2014 consid. 4 ; TF 5A_131/2013 du 25 juin 2013 consid. 6.1 ; cf. TF 5A_825/2015
+du 7 mars 2016 consid. 5.1 et 5.2, qui dispose en particulier que la partie n’a pas la qualité
+pour recourir pour contester des frais mis à la charge de son représentant ; Cometta/Möckli,
+op. et loc. cit.
+).
+cc)
+En l’espèce, l’Etat de Vaud a la qualité de créancier de W.________ et est
+donc partie à la procédure de plainte. Cette qualité de partie à la procédure
+n’implique toutefois pas qu’il est touché directement dans ses droits par le prononcé
+litigieux, notamment en tant que celui-ci prévoit, au chiffre II de son dispositif, qu’il
+est rendu sans frais ni dépens. L’Etat de Vaud n’a donc pas d’intérêt
+digne de protection à réclamer que le plaignant et son représentant soient condamnés
+à s’acquitter des frais de justice et à ce qu’une amende de 1'500 fr. soit mise
+à leur charge, en application de l’art. 20a al. 2 ch. 5 LP. Du reste, il n’expose pas
+en quoi il serait touché par ledit chiffre II du dispositif contesté.
+II.
+En conclusion, le recours est irrecevable, faute de qualité pour recourir de l’Etat de Vaud.
+Le présent arrêt est rendu sans frais (art. 20a al. 2 ch. 5 LP et 61 al. 2 let. a OELP) ni
+dépens (62 al. 2 OELP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Administration cantonale des impôts (pour l’Etat de Vaud),
+‑
+M. Julien Greub, agent d’affaires breveté (pour W.________),
+-
+M. le Préposé à l’Office des poursuites du district de Lavaux-Oron,
+-
+Me Ismael Fetahi, avocat (pour T.________).
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Riviera – Pays-d’Enhaut, autorité
+inférieure de surveillance.
+La greffière :
