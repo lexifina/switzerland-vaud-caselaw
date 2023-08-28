@@ -1,0 +1,718 @@
+---
+decision_id: "vd_findinfo_Exequatur___2023___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Exequatur / 2023 / 3"
+decided: "2023-08-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9491741"
+cites_law: ["switzerland/bund/acts/0.275.12/art-001.md", "switzerland/bund/acts/0.275.12/art-034.md", "switzerland/bund/acts/0.275.12/art-035.md", "switzerland/bund/acts/0.275.12/art-036.md", "switzerland/bund/acts/0.275.12/art-041.md", "switzerland/bund/acts/0.275.12/art-043.md", "switzerland/bund/acts/0.275.12/art-045.md", "switzerland/bund/acts/0.275.12/art-046.md", "switzerland/bund/acts/0.275.12/art-052.md", "switzerland/bund/acts/0.275.12/art-053.md", "switzerland/bund/acts/0.275.12/art-054.md", "switzerland/bund/acts/0.275.12/art-055.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-111.md", "switzerland/bund/acts/272/art-317.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-327a.md", "switzerland/bund/acts/281.1/art-081.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.35/art-048.md", "switzerland/bund/acts/291/art-027.md"]
+---
+
+# VD Findinfo Exequatur / 2023 / 3
+
+## Regeste
+
+DÉCLARATION D'EXÉCUTION, DÉCISION ÉTRANGÈRE | 271 al. 3 LP, 34 ch. 1 CL (2007), 38 par. 1 CL (2007), 41 CL (2007), 43 CL (2007), 46 par. 1 CL (2007), 53 CL (2007), 54 CL (2007), 55 CL (2007), 327a CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 28.08.2023 Exequatur / 2023 / 3
+
+DÉCLARATION D'EXÉCUTION, DÉCISION ÉTRANGÈRE | 271 al. 3 LP, 34 ch. 1 CL (2007), 38 par. 1 CL (2007), 41 CL (2007), 43 CL (2007), 46 par. 1 CL (2007), 53 CL (2007), 54 CL (2007), 55 CL (2007), 327a CPC (CH)
+
+TRIBUNAL
+CANTONAL
+KH22.048247-230005
+183
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+28 août 2023
+___________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+34 ch. 1, 38 par. 1, 41, 43, 46 par. 1, 53, 54, et 55 CL (2007) ; 271 al. 3 LP ; 327a CPC
+La Cour des poursuites et faillites du Tribunal cantonal prend séance pour statuer à huis clos
+sur le recours exercé par
+E.________
+,
+à [...], contre l’ordonnance d’exequatur rendue le 29 novembre 2022 par le Juge de paix
+du district de Lausanne dans la cause divisant la recourante d'avec
+O.________
+,
+à [...] (France).
+Vu les pièces au dossier, la cour considère :
+En fait :
+E.________, née [...], est également nommée dans le présent arrêt, suivant les
+pièces citées, E.________.
+1.
+a)
+Le 28 novembre 2022, O.________ a déposé une requête de séquestre et d’exequatur
+auprès du Juge de paix du district de Lausanne, concluant notamment à ce qu’il prononce
+l’exequatur du jugement du Tribunal de Grande instance de Paris du 7 novembre 2017 (N° RG
+[...]) et ordonne le séquestre « du bien immeuble de Madame E.________, née [...],
+sis rue [...] à Lausanne, soit la part de propriété par étage n° [...], sur
+la parcelle de base n° [...], et de la part de copropriété n°[...] qui s’y
+rapporte », ainsi que de tous les avoirs de la précitée en mains de trois établissements
+bancaires en Suisse, à concurrence de 2'678'091 fr. 70, « sans cautions ni sûretés ».
+A l’appui de sa requête, il a produit notamment, en copie sauf mention contraire :
+-
+un arrêt de la Cour d’appel de Paris (chambre des appels correctionnels) du 19 mai 2017, statuant
+sur les appels des parties à la présente cause contre un jugement du Tribunal de Grande instance
+de Paris du 13 avril 2015 les condamnant, ainsi que les sociétés [...] et [...], pour fraude
+fiscale, respectivement complicité de fraude fiscale. La Cour d’appel a confirmé les
+condamnations pénales, mais allégé les peines, et confirmé le jugement attaqué
+en toutes ses dispositions sur l’action civile, par lesquelles le tribunal avait notamment admis
+la constitution de la Direction générale des finances publiques comme partie civile et dit
+que « O.________ serait solidairement tenu avec E.________ au paiement des impôts fraudés
+(IR et ISF) par cette dernière au titre des années 2009 et 2010 et à celui des pénalités
+y afférentes » (pièce 3) ;
+-
+un arrêt de la Cour de cassation (chambre criminelle) du 29 janvier 2020, cassant et annulant l’arrêt
+du 19 mai 2017 précité, « mais en ses seules dispositions relatives aux peines prononcées
+à l’encontre des sociétés [...] et [...] et à l’indemnisation de l’Etat
+français, toutes autres dispositions étant expressément maintenues » (pièce
+4) ;
+-
+l’original de l’expédition exécutoire d’un jugement contradictoire rendu
+par le Tribunal de Grande instance de Paris le 7 novembre 2017 dans la cause N°RG [...], condamnant,
+notamment E.________ « à garantir intégralement O.________ à l’euro près,
+sur simple présentation de quittance, de tout paiement que celui-ci pourra être amené
+à effectuer entre les mains de l’administration fiscale, au titre de l’exécution
+de la condamnation solidaire au paiement des impôts IR et ISF fraudés par E.________ en 2009
+et 2010, prononcée par le tribunal correctionnel de Paris le 13 avril 2015, et confirmée
+par l’arrêt rendu le 19 mai 2017 par la cour d’appel de Paris », prononçant
+l’exécution provisoire du jugement sur le tout, et ordonnant en conséquence notamment
+à tous les huissiers de justice, sur ce requis, de mettre ladite décision à exécution
+(p. 12, avec sceau et signature du greffier en chef du tribunal) (pièce 5) ;
+-
+un avis de droit délivré le 15 janvier 2018 par Me Xavier P. Vuitton, docteur en droit, avocat
+et professeur associé à l’Université de Paris XII, à la demande d’O.________,
+sur le sens du terme « garantir » employé dans le dispositif du jugement du
+7 novembre 2017 précité. Cet avis indique qu’en substance, en l’espèce,
+ce terme signifie « rembourser », en précisant ce qui suit :
+«
+Saisi
+d’une action en garantie portant sur des sommes d’un montant encore indéfini, le tribunal
+ne pouvait pas condamner Mme E.________ au paiement d’une somme précise. Mais, ayant constaté
+l’obligation de celle-ci d’assumer seule in fine la charge de la condamnation prononcée
+par le tribunal correctionnel au profit de l’administration fiscale, il a logiquement condamné
+Madame E.________ à vous garantir de toutes les sommes que serez conduit à verser à ce
+titre, c’est-à-dire à vous les rembourser. » (pièce 11) ;
+-
+une communication de l’Office de la population de la Commune de [...] du 14 septembre 2022,
+selon laquelle E.________ est depuis le 1
+er
+août 2021 domiciliée à [...], en provenance de [...] (pièce 6) ;
+-
+des « actes concernant la signification de l’expédition exécutoire »
+du jugement du 7 novembre 2017 précité à E.________, comprenant une demande n° 225383
+adressée au Tribunal cantonal des Grisons par [...], huissier de justice, le 7 décembre
+2017, tendant à la notification du jugement en question à E.________, à [...], et la demande
+identique rédigée sur la formule prévue par la Convention de La Haye relative à la
+signification et la notification à l’étranger des actes judiciaires et extrajudiciaires
+en matière civile ou commerciale (RS 0.274.131), dont les rubriques attestant de la remise
+de l’acte à sa destinataire par l’autorité étrangère requise ne sont
+pas complétées (pièce 16) ;
+-
+des « actes concernant la signification de l’expédition exécutoire »
+du jugement du 7 novembre 2017 précité à l’avocat français d’E.________,
+dont les « modalités de remise de l’acte » attestent de cette remise le
+30 novembre 2017 (pièce 17) ;
+-
+un arrêt rendu le 20 novembre 1019 par lequel la Cour d’appel de Paris, saisie d’un
+appel interjeté le 7 décembre 2019 par E.________ contre le jugement du 7 novembre 2017
+précité, a infirmé ce jugement et débouté O.________ de ses conclusions en garantie
+(pièce 12) ;
+-
+un arrêt de la Cour de cassation, Chambre commerciale, financière et économique, du 16
+novembre 2022, annulant pour un motif formel l’arrêt du 20 novembre 2019 précité
+et renvoyant l’affaire à la Cour d’appel « autrement composée »
+(pièce 13) ;
+-
+un acte de signification par huissier à la Direction générale des finances publiques d’Ile
+de France et de Paris, le 28 juillet 2022, notamment d’un chèque d’un montant de 2'399'327
+euros, et d’une déclaration écrite d’O.________ précisant que le montant en
+question est « versé au titre des rappels d’impôts sur le revenu et la fortune
+dus
+in fine
+par Madame E.________, ainsi que des pénalités afférentes, pour les années 2009 et
+2010 » (pièce 19) ;
+-
+une décision de la Direction générale des finances publiques du 18 août 2022, prononçant
+la mainlevée partielle, à hauteur d’un montant de 2'407'627,50 euros, de la saisie conservatoire
+de droits d’associés et de valeurs mobilières pratiquée le 25 juin 2015 par
+huissier contre O.________, et maintenant cette saisie à concurrence de 322'587,50 euros (pièce
+20) ;
+-
+un acte de signification par huissier à la Direction générale des finances publiques d’Ile
+de France et de Paris, le 25 août 2022, d’un chèque d’un montant de 322'587,50
+euros, et d’une déclaration écrite d’O.________ précisant que le montant en
+question est versé au titre d’intérêts, « ce qui porte le montant du versement
+effectué à un total de 2'721'914,50 euros » (pièce 21) ;
+-
+la déclaration d’impôt 2014 d’E.________, alors domiciliée dans le canton
+des Grisons, mentionnant cinq comptes en Suisse (pièce 22) ;
+-
+deux extraits du Registre foncier de Lausanne et Ouest lausannois, concernant les parts de propriété
+par étages n° [...], immeuble de base n° [...], et n° 11884, à Lausanne, propriétés
+d’E.________ (pièce 23) ;
+-
+des extraits du Code de procédure civile français (pièces 14 et 15).
+b)
+Le
+29 novembre 2022, le juge de paix, retenant le cas de séquestre de l’art. 271 al. 1 ch. 6
+LP (loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1), a ordonné
+le séquestre « selon conclusions annexées, auprès des Offices de poursuites
+compétents », pour une créance de 2'678'091 fr. 70 contre E.________, dont le titre
+était le jugement français invoqué dans la requête, et a dispensé le requérant
+de fournir des sûretés.
+2.
+Par ordonnance séparée directement motivée du 29 novembre 2022, le juge de paix a déclaré
+exécutoire le jugement rendu le 7 novembre 2017 par le Tribunal de Grande instance de Paris (5
+ème
+chambre, 1
+ère
+section, N°RG [...]), en France, dans la cause divisant O.________ d’avec E.________, née
+[...], dont un exemplaire était annexé à l’ordonnance (I), cette décision étant
+rendue sans frais (II).
+3.
+Le
+29 décembre 2022, E.________ a fait opposition à l’ordonnance de séquestre du 29
+novembre 2022.
+4.
+a)
+Par acte du 29 décembre 2022, E.________ a recouru contre l’ordonnance d’exequatur séparée
+du 29 novembre 2022 en concluant, avec suite de frais et dépens, principalement à son annulation
+(1), le requérant étant débouté « des fins de sa requête en reconnaissance
+du caractère exécutoire » (2), subsidiairement, à la suspension de la procédure
+de recours jusqu’à droit connu sur la procédure d’appel contre le jugement du 7
+novembre 2017 pendante devant la Cour d’appel de Paris, « ou à tout le moins jusqu’à
+droit connu sur le "référé premier président" en suspension de l'exécution
+provisoire de ce jugement qui sera formé par E.________, dans le cadre de la procédure d'appel
+contre ce jugement » (3) et à l’annulation de l’ordonnance (4), le requérant
+étant débouté « des fins de sa requête en reconnaissance du caractère
+exécutoire » (5), et, en tous les cas, à la mise à la charge de l’intimé
+O.________ de tous les frais judiciaires et dépens (6), celui-ci étant débouté de
+« toutes autres ou contraires conclusions » (7).
+A l’appui de son recours, elle a produit, outre une procuration en faveur de son conseil et l’ordonnance
+attaquée, notamment les pièces nouvelles suivantes, en copie, désignées comme
+titres
+dans son bordereau :
+-
+un courrier de l’Office fédéral de la justice du 4 octobre 2010, enjoignant aux autorités
+chargées de l’exécution de demandes d’entraide judiciaire internationale de rejeter
+les demandes adressées à la Suisse « dans le cadre de procédures pénales
+étrangères » fondées sur des données bancaires volées (titre 6) ;
+-
+une déclaration de saisine de la Cour d’appel de Paris du 8 décembre 2022, avisant les
+parties de la saisine reçue le 29 novembre 2022 « sur renvoi après cassation datée
+du 16 novembre 2022 » (titre 17b) ;
+-
+l’ordonnance de séquestre du 29 novembre 2022 (titre 8) ;
+-
+le procès-verbal de séquestre établi par l’Office des poursuites du district de
+Lausanne le 16 décembre 2022, concernant le séquestre exécuté à l’encontre
+de la recourante, selon ordonnance du juge de paix du 29 novembre 2022 (titre 18) ;
+-
+le suivi des envois recommandés de l’ordonnance et du procès-verbal de séquestre
+précités au conseil de la recourante et à celle-ci, distribués à leurs destinataires
+respectifs le 19 décembre 2022 (titres 19 et 20) ;
+-
+des extraits du Code de procédure civile français (titres 14 et 15, 17c et 17 d).
+b)
+Par réponse du 9 mars 2023, l’intimé a conclu préalablement à la levée
+de l'effet suspensif attaché au recours et au rejet de la demande de suspension de la procédure
+formée par la recourante ; au fond, il a conclu au rejet du recours, tous les frais et dépens
+étant mis à la charge de la recourante. Il a produit les trois pièces nouvelles suivantes,
+en copie :
+-
+les « diligences des autorités grisonnes », comprenant un courrier adressé
+par le greffe du Tribunal cantonal des Grisons à [...], huissier de justice, le 22 décembre
+2017, se référant à sa demande d’entraide judiciaire n° 225383 et lui transmettant
+la formule complétée attestant de la remise du jugement concerné à E.________ personnellement,
+à [...], le 19 décembre 2017, ainsi que le suivi de l’envoi postal recommandé par
+lequel la notification a été opérée, montrant l’accusé de réception
+signé par la destinataire personnellement, le 19 décembre 2017, au guichet de la Poste (pièce
+25) ;
+-
+un certificat « Annexe V » de la Convention de Lugano 2007 concernant la compétence
+judiciaire, la reconnaissance et l’exécution des décisions en matière civile et
+commerciale (dans sa version au Journal officiel de l’Union européenne), délivré
+le 20 janvier 2023 par le Tribunal judiciaire de Paris, sous la signature d’un huissier de justice
+et audiencier au Tribunal de commerce, attestant que le jugement de la Cour de cassation du 16 novembre
+2022 est « exécutoire dans l’Etat d’origine », et une apostille
+de l’Avocat général près la Cour d’appel de Paris du 20 janvier 2023,
+confirmant l’authenticité de la signature sur le certificat (pièce 26) ;
+-
+un dito (dans sa version au Recueil systématique suisse ; RS 0.275.12), délivré le
+7 février 2023 par le Tribunal judiciaire de Paris, sous la signature du même huissier
+de justice, attestant que le jugement du Tribunal de Grande instance de Paris du 7 novembre 2017
+est « exécutoire dans l’Etat d’origine », et une apostille de l’Avocat
+général près la Cour d’appel de Paris du 8 février 2023 confirmant l’authenticité
+de la signature sur le certificat (pièce 27).
+Par décision du 14 mars 2023, le Président de la cour de céans a rejeté la demande
+présentée par l’intimé tendant à la levée de l’effet suspensif instauré
+automatiquement par l’art. 327a al. 2 CPC (Code de procédure civile ; RS 272).
+c)
+Le 23 mars 2023, la recourante a déposé une réplique spontanée et a produit encore
+deux pièces nouvelles, à savoir :
+-
+une ordonnance de référé rendue le 16 janvier 2023 par un Vice-président du Tribunal
+judiciaire de Paris dans une cause RG [...] faisant droit à une demande de provision de l’intimé
+et condamnant, à titre provisionnel, la recourante à lui verser la somme de 1'360'957,25 euros
+(titre 30) ;
+-
+un avis de déclaration d’appel du recourant contre l’ordonnance de référé
+précitée du 14 février 2023 (titre 31).
+d)
+L’intimé a dupliqué le 6 avril 2023.
+Par lettre du 2 mai 2023, le Président de la cour de céans a informé les parties que la
+cause était gardée à juger, qu’il n’y aurait pas d’autre échange
+d’écriture et qu’aucun fait ou moyen de preuve nouveau ne serait pris en compte.
+En droit
+:
+I.
+a)
+Le créancier qui possède un titre
+de mainlevée définitive contre le débiteur peut requérir le séquestre des biens
+de ce dernier qui se trouvent en Suisse (art. 271 al. 1 ch. 6 LP [loi fédérale sur la
+poursuite pour dettes et la faillite ; RS 281.1]). Aux termes de l’art. 271 al. 3 LP, dans
+les cas énoncés à l’al. 1, ch. 6, qui concernent un jugement rendu dans un état
+étranger auquel s’applique la Convention du 30 octobre 2007 concernant la compétence
+judiciaire, la reconnaissance et l’exécution des décisions en matière civile et
+commerciale, le juge statue aussi sur la constatation de la force exécutoire.
+La Convention concernant la compétence judiciaire, la reconnaissance et l’exécution des
+décisions en matière civile et commerciale, conclue à Lugano le 30 octobre 2007 (ci-après :
+CL 2007), entrée en vigueur le 1
+er
+janvier 2010 dans les pays de l’Union européenne et le 1
+er
+janvier 2011 en Suisse (RS 0275.12), s’applique, quelle que soit la nature de la juridiction, en
+matière civile et commerciale (art. 1 par. 1, 1
+re
+phrase,
+CL 2007), à l’exception des questions relatives à l’état et la capacité
+des personnes physiques, aux régimes matrimoniaux, aux testaments et aux successions (art. 1 par. 2
+let. a CL 2007). Sont exclues les matières fiscales, douanière ou administrative (art. 1 par.
+1, 2
+e
+phrase, CL 2007), les faillites, concordats et autres procédures analogues, la sécurité
+sociale, et l’arbitrage (art. 1 par. 2 let. b, c et d CL 2007). En vertu de l’art. 63 par.
+1 CL 2007, la convention n’est applicable qu’aux actions judiciaires intentées et aux
+actes authentiques reçus postérieurement à son entrée en vigueur dans l’Etat
+d’origine et, s’il s’agit d’une requête en reconnaissance ou en exécution
+d’une décision ou d’un acte authentique, dans l’Etat requis.
+b)
+En l’espèce, le jugement dont l’exequatur est requis a été rendu par une autorité
+judiciaire française dans le cadre d’un litige de nature civile. Il est constaté dans
+ce jugement du 7 novembre 2017 que l’assignation a été délivrée à la défenderesse
+E.________ le 28 juillet 2017, soit après l’entrée en vigueur de la Convention de
+Lugano 2007 en Suisse et en France. Cette convention est donc applicable.
+II.
+a)
+L’art. 43 par. 1 CL 2007 prévoit que l’une ou l’autre partie peut former un recours
+contre la décision relative à la demande de déclaration constatant la force exécutoire.
+En droit suisse, c’est l'art. 327a CPC qui met en œuvre l'art. 43 CL. Le débiteur séquestré
+qui entend soulever l'un des motifs de refus d'exequatur prévus par la CL (art. 45 par. 1
+cum
+art. 34 s. CL) ou s'en prendre aux conditions que le premier juge peut examiner (
+i.e.
+les formalités selon l'art. 53 CL, l'existence d'une décision exécutoire selon les art.
+32 et 38 par. 1 CL et l'application de la CL selon l'art. 1 CL) ne peut le faire que dans le cadre du
+recours de l'art. 327a CPC (ATF 147 III 491 consid. 6.2.2 ; TF 5A_159/2021 du 9 septembre 2021 c.
+5.2.2).
+Le recours est porté devant la juridiction indiquée sur la liste figurant à l’annexe
+III de la convention (art. 43 par. 2 CL 2007), soit, en Suisse, devant le Tribunal cantonal supérieur.
+Dans le canton de Vaud, c’est la Cour des poursuites et faillites qui est compétente pour
+statuer sur les recours en matière d’exécution forcée et d’exequatur de créances
+pécuniaires ou en constitution de sûretés (art. 75 al. 2 LOJV [loi vaudoise d’organisation
+judiciaire ; RSV 173.01]).
+Aux termes de l’art. 43 par. 5 CL 2007, auquel renvoie l’art. 327a al. 3 CPC, le recours
+contre la déclaration constatant la force exécutoire doit être déposé dans un
+délai d’un mois dès la signification de la décision, ce délai étant de
+deux mois si la partie contre laquelle l’exécution est demandée est domiciliée sur
+le territoire d’un autre Etat lié par la convention que celui dans lequel la déclaration
+constatant la force exécutoire a été délivrée.
+En l’espèce, le jugement dont l’exequatur est requis porte sur une créance pécuniaire
+de l’intimé contre la recourante en remboursement « à l’euro près,
+sur simple présentation de quittance, de tout paiement que celui-ci pourra être amené
+à effectuer entre les mains de l’administration fiscale, au titre de l’exécution
+de la condamnation solidaire au paiement des impôts IR et ISF fraudés ». L’autorité
+de recours est la cour de céans. Le recours, interjeté en temps utile, devant l’autorité
+compétente et dans les formes requises (art. 321 al. 1 CPC), est recevable.
+La réponse de l’intimé est également recevable (art. 322 CPC).
+Il en va de même de la réplique spontanée de la recourante et de la duplique spontanée
+de l’intimé (ATF 142 III 48 consid. 4.1.1 et les réf. cit.).
+b)
+Selon l’art. 327a al. 1 CPC, lorsque
+le recours est dirigé contre une décision du tribunal de l'exécution au sens des art.
+38 à 52 CL 2007, l’instance de recours examine avec un plein pouvoir de cognition les motifs
+de refus prévus par la convention. Le juge de l'exécution, en effet, déclare la décision
+exécutoire dès l'achèvement des formalités prévues aux art. 53-54 CL sans entendre
+la partie adverse (art. 41 CL) et sans examiner les motifs de refus des art. 34 et 35 CL. Il est dès
+lors possible d'introduire des nova devant l’autorité de recours ; les pièces nouvelles
+sont ainsi recevables, dans la mesure où elles ont trait aux conditions de l'exequatur (ATF 145
+III 422 consid. 4.2 et 5.2 ; ATF 138 III 82 consid. 3.5.3, JdT 2012 II 470).
+Les nova doivent être en principe déjà introduits dans le premier échange d’écritures,
+soit dans le recours et la réponse. Des motifs d’économie de la procédure peuvent
+toutefois justifier que des nova puissent être produits plus tard, à tout le moins jusqu’à
+la phase de délibération, soit jusqu’au moment où la cause est prête à
+être jugée (ATF 142 III 413 c. 2.2.5, JdT 2017 II 153). Dans le cadre du recours de l’art.
+327a CPC, les faits nouveaux sont admissibles par application analogique de l'art. 317 al. 1 CPC. Ainsi
+lorsque, par hypothèse, après le dépôt du recours et de la réponse, l'autorité
+de recours étrangère modifie, sur appel, la décision dont l’exequatur en Suisse
+est contesté en recours, la nouvelle décision étrangère doit être sans retard
+alléguée comme un fait nouveau et produite comme nouveau moyen de preuve (TF 5A_568/2012 du
+24 janvier 2013 c. 4, RSPC 2013 p. 255).
+Les pièces nouvelles produites à l’appui du recours sont recevables, la recourante n’ayant
+pas eu l’occasion de faire valoir ses moyens en première instance.
+Les pièces nouvelles produites à l’appui de la réponse au recours sont également
+recevables. La recourante conteste la recevabilité de la pièce 25 au motif que, datée
+du 22 décembre 2017, elle aurait pu être produite en première instance. Il s’agit
+en effet d’une pièce pseudo-nouvelle. On peut certes se demander pourquoi l’intimé
+n’a pas produit la preuve de la notification du jugement en cause à la recourante à l’appui
+de sa requête de séquestre et d’exequatur, dès lors qu’il a produit la demande
+de notification adressée formellement par un huissier de justice français aux autorités
+compétentes en Suisse. On constate cependant qu’il a également produit la preuve de la
+signification de ce jugement au conseil français de la recourante et qu’il est par ailleurs
+établi que celle-ci a formé en temps utile appel de ce jugement. L’intimé fait en
+outre valoir que la pertinence de la pièce en question n’est apparue qu’à la lecture
+des allégués de la recourante selon lesquels le jugement du 7 novembre 2017 ne lui aurait pas
+été notifié - une contestation qu’elle n'avait pas pu soulever en première
+instance, la procédure n’étant pas contradictoire à ce stade. On peut lui donner
+raison sur ce point et, pour les motifs exposés ci-dessus, admettre la recevabilité de la pièce
+25. Au demeurant, comme on le verra plus loin, la question de la notification du jugement dont l’exequatur
+est demandée n’est pas déterminante au regard de la CL 2007 (cf. infra consid. IV b)
+bb)).
+En ce qui concerne les pièces nouvelles produites par la recourante à l’appui de sa réplique,
+on peut considérer qu’elles l’ont été sans retard. En revanche, elles concernent
+une action récursoire de l’intimé contre la recourante qui n’est pas fondée
+sur le jugement dont l’exequatur est en cause. Elles n’ont donc pas trait aux conditions
+de l'exequatur et ne sont par conséquent pas recevables.
+III.
+a)
+Il y a lieu de statuer à titre incident sur la demande de la recourante tendant à la suspension
+de la présente procédure de recours jusqu’à droit connu sur l’appel pendant
+en France contre le jugement en cause ou sur une demande en suspension de l’exécution provisoire
+de ce jugement qu’elle dit vouloir déposer auprès du premier président de la Cour
+d’appel.
+b)
+La juridiction saisie d’un recours prévu à l’art. 43 ou 44 CL 2007 peut, à
+la requête de la partie contre laquelle l’exécution est demandée, surseoir à
+statuer, notamment si la décision étrangère fait, dans l’Etat d’origine, l’objet
+d’un recours ordinaire (art. 46 par. 1 CL 2007).
+Afin de permettre une circulation et une exécution rapides dans les Etats contractants des décisions
+qui sont exécutoires dans l'Etat où elles ont été rendues, la possibilité de
+suspendre la procédure doit revêtir un caractère exceptionnel (ATF 137 III 261 consid.
+3.2.2). La juridiction de recours n’a d’ailleurs pas l’obligation, mais la faculté
+de surseoir (Bucher, LDIP et CL, Commentaire romand, 1
+re
+éd., 2011, n. 3 ad art. 46 CL 2007). Elle doit se livrer à une pesée des intérêts
+en prenant en compte les chances de succès du recours formé dans l'Etat d’origine ainsi
+que les inconvénients qui pourraient résulter de l'octroi ou du refus de la suspension (Sogo,
+in
+Schnyder/Sogo
+[éd.], LugÜ Kommentar, 2
+e
+éd.,
+2023, n° 7
+ad
+art. 46 CL 2007). Le pronostic sur le sort de la décision dans l’état d’origine
+constitue le principal facteur pour accorder ou refuser le sursis (Bucher,
+op.
+et loc. cit.
+). Il s’agit donc d’évaluer
+les chances de succès du recours dirigé contre la décision dans l’Etat d’origine
+(ibid., n. 7 ad art. 46 CL). Tous les motifs que le débiteur peut invoquer dans le cadre de la procédure
+de recours dans l'Etat d’origine sont pertinents pour déterminer les chances de succès
+(Sogo,
+op. cit.
+,
+n° 8
+ad
+art. 46 CL).
+c)
+En l’espèce, il est à la limite de la témérité de la part de la recourante
+de demander la suspension de la procédure jusqu’à droit connu sur une requête en
+suspension de l’exécution provisoire du jugement qu’elle n’avait pas encore déposée
+au moment du dépôt de son recours, soit un mois après la saisine de la Cour d’appel,
+en annonçant seulement qu’elle déposerait une telle requête - à une date indéterminée
+– ce qu’elle n’a ensuite pas allégué avoir fait.
+Quant à la procédure d’appel « permettant d’aboutir à l’annulation
+ou à la modification du jugement », il serait nécessaire que la cour de céans,
+pour être en mesure d’en évaluer les chances de succès, puisse prendre connaissance
+de l’appel qui a été interjeté contre le jugement en cause. Or cet appel n’a
+pas été produit. Au surplus, la recourante ne soutient pas que cette procédure entraînerait
+ex lege
+une suspension de l’exécution de ce jugement et, comme on l’a vu, elle n’a pas
+déposé de requête en ce sens. L’arrêt sur appel, pour autant qu’il y
+en ait un, pourrait en outre ne pas être rendu avant la fin de l’année 2024, la durée
+moyenne d’une procédure devant la Cour d’appel apparaissant, au vu des autres arrêts
+produits, être de deux ans. Or, la question de l’exequatur du jugement en cause, qui a permis
+à l’intimé d’obtenir une ordonnance de séquestre à laquelle la recourante
+s’oppose dans une procédure parallèle, exige d’être traitée avec une
+certaine célérité.
+Au vu de ce qui précède, il n’existe pas de motif objectif fondant la demande de suspension.
+Celle-ci doit donc être rejetée.
+IV.
+a)
+Selon l’art. 33 par. 1 CL 2007, les décisions rendues dans un Etat lié par la convention
+sont reconnues dans les autres Etats liés par la convention sans qu’il soit nécessaire
+de recourir à aucune procédure. Une décision n'est pas reconnue si la reconnaissance est
+manifestement contraire à l’ordre public de l’Etat requis, si l’acte introductif
+d’instance ou un acte équivalent n’a pas été notifié ou signifié
+au défaillant en temps utile et de telle manière qu’il puisse se défendre –
+à moins qu’il n’ait pas exercé de recours à l’encontre de la décision
+alors qu’il était en mesure de le faire, mais la Suisse a émis une réserve selon
+laquelle elle n'applique pas cette exception (art. 1 al. 3 AF du 11 décembre 2007 ; RO 2010
+5601) –, ou si elle est inconciliable avec une décision rendue entre les mêmes parties
+dans l’Etat requis ou avec une décision rendue dans un autre Etat et pouvant être reconnue
+dans l'Etat requis (art. 34 CL 2007). En outre, une décision étrangère n'est pas reconnue
+si la juridiction de l’Etat d’origine n’était pas compétente (art. 35 CL
+2007). En aucun cas la décision étrangère ne peut faire l'objet d'une révision au
+fond (art. 36 CL 2007).
+Selon l’art. 38 par. 1 CL 2007, les décisions rendues dans un Etat lié par la convention
+et qui y sont exécutoires sont mises à exécution dans un autre Etat lié par la convention
+après y avoir été déclarées exécutoires sur requête.
+Aux termes de l’art. 53 par. 1 et 2 CL 2007, la partie qui invoque la reconnaissance d’une
+décision ou sollicite la délivrance d’une déclaration constatant sa force exécutoire
+doit produire une expédition de celle-ci réunissant les conditions nécessaires à
+son authenticité. La partie qui sollicite la délivrance d’une déclaration constatant
+la force exécutoire d’une décision doit aussi produire le certificat visé à
+l’art. 54, sans préjudice de l’art. 55. Le requérant doit donc en principe produire
+un certificat, délivré par les autorités compétentes de l’Etat où la décision
+a été rendue (art. 54 CL 2007) et sur lequel sont mentionnés l’autorité ayant
+délivré le certificat, la juridiction ayant prononcé la décision, la date de la décision,
+le numéro de référence de la cause, les parties en cause, pour les décisions par
+défaut, la date de la notification de l’acte introductif d’instance, le texte de la
+décision, la mention selon laquelle la décision est exécutoire dans l’Etat d’origine
+ainsi que les personnes contre lesquelles elle est exécutoire (annexe V CL 2007). Contrairement
+à ce qui était le cas sous le régime de l’aCL 2008, il n'est plus nécessaire
+de fournir une preuve de la notification de la décision à exécuter (Killias/Lienhard,
+in
+Schnyder/Sogo [éd.], LugÜ Kommentar, 2
+e
+éd.,
+2023, n° 9
+ad
+art. 54 CL 2007). Le contenu de ce certificat est présumé exact (Abbet,
+in
+Abbet/Veuillet [éd.], La mainlevée de l’opposition, 2
+e
+éd., 2022, n° 46b
+ad
+art. 81 LP et les réf. cit.). Cette présomption légale est toutefois réfragable (Killias/Lienhard,
+op. cit.
+,
+n° 12
+ad
+art. 54 CL 2007). L’art. 55 par. 1 CL stipule qu’à défaut de production du certificat
+visé à l’art. 54, la juridiction ou l’autorité compétente peut impartir
+un délai pour le produire ou accepter un document équivalent ou, si elle s’estime suffisamment
+éclairée, en dispenser. Il est ainsi possible de renoncer à d'autres documents si les
+informations requises par l'annexe V de la CL ressortent déjà directement de la décision
+elle-même (Killias/Lienhard,
+op.
+cit.
+, n° 7
+ad
+art. 55 CL 2007). C'est le cas lorsqu'il est incontestable qu'une décision n'est pas soumise à
+d'autres instances qui en suspendent la force exécutoire (Marro,
+in
+Dasser/Oberhammer [éd.], Lugano Übereinkommen, 3
+e
+éd., 2021, n° 15
+ad
+art. 55 CL 2007).
+Le créancier ne se verra donc pas privé de faire exécuter en Suisse un jugement "Lugano"
+pour des motifs purement formels relatifs aux documents produits. Seul est exposé à un rejet
+définitif celui qui présente au juge les éléments lui permettant de statuer, et donc
+qui suscite lui-même une décision sur cette question (TF 5A_428/2022 du 18 janvier 2023 consid.
+5.1.2). L'art. 55 al. 1 CL, on l’a vu, ménage plusieurs possibilités à la juridiction
+compétente pour le cas où le requérant omet de produire le certificat visé à
+l'art. 54 CL.
+Selon l’art. 41 CL 2007, la décision est déclarée exécutoire dès l’achèvement
+des formalités prévues à l’art. 53, sans examen au titre des art. 34 et 35. En cas
+de recours, la juridiction de recours ne peut révoquer une déclaration constatant la force
+exécutoire que pour l’un des motifs prévus aux art. 34 et 35 (art. 45 CL 2007). Elle
+peut toutefois aussi examiner les conditions et formalités de la déclaration d’exequatur
+qui devaient être examinées par l’autorité de première instance (TF 5A_934/2016
+du 23 août 2017 consid. 4).
+b)
+aa)
+Dans le cas particulier, l’intimé a produit une expédition originale du jugement dont
+l’exequatur était requis, répondant aux exigences d’authenticité, ainsi que
+l’a constaté le premier juge. Cela n’est pas contesté.
+bb)
+La recourante soutient en revanche que le jugement en question ne lui a pas été notifié.
+Toutefois dans le système mis en place par la CL 2007, ce moyen n’est pas pertinent. Il appartient
+aux autorités de l’Etat dans lequel le jugement a été rendu d’attester le
+caractère exécutoire du jugement, selon le droit de cet Etat. Il n’appartient pas au
+tribunal de l’exécution de l’Etat requis d’examiner cette question, ni, par conséquent,
+celle de l’existence ou de la validité de la notification selon le droit de l’Etat requis
+(CPF 27 juillet 2016/235 consid. VII). Au demeurant, la recourante n’est pas de bonne foi, dès
+lors qu’il ressort de la pièce 25 produite par l’intimé en deuxième instance
+qu’elle a bien signé, le 19 décembre 2017, l’accusé de réception du courrier
+recommandé par lequel le jugement en question lui a été adressé pour notification
+à son domicile de [...] par les autorités grisonnes.
+cc)
+Comme on l’a vu, le jugement dont l’exécution est demandée doit être exécutoire
+selon le droit de l’Etat dans lequel il a été rendu. C’est là le sens de l’exigence
+posée aux art. 53 par. 2 et 54 CL 2007.
+En l’espèce, l’intimé n’a pas produit de certificat au sens des art. 53 et
+54 CL 2007 devant le premier juge. Ce magistrat a toutefois estimé, ainsi que l’art. 55
+CL 2007 le lui permettait, être « suffisamment éclairé s’agissant de la
+force exécutoire de la décision dans l’Etat où celle-ci a été rendue »,
+considérant que l’expédition originale du jugement en cause, notamment sa page 2, établissait
+sa force exécutoire. L’arrêt de la Cour d’appel du 20 novembre 2019 infirmant ce
+jugement a été annulé par l’arrêt de la Cour de cassation du 16 novembre 2022,
+lequel « remet l’affaire et les parties dans l’état où elles se trouvaient
+avant cet arrêt et les renvoie devant la cour d’appel de Paris ». La saisine de
+la Cour d’appel est postérieure à la décision attaquée et, au surplus, il n’est
+ni allégué, ni établi qu’un effet suspensif ait été prononcé, ni
+même requis par le recourante. L’appréciation du premier juge est dès lors fondée.
+Au demeurant, l’intimé a produit en deuxième instance le certificat prévu par l’art.
+54 CL 2007, non seulement pour le jugement en cause, mais également pour l’arrêt de la
+Cour de cassation du 16 novembre 2022, renvoyant la cause à la Cour d’appel. C’est en
+vain que la recourante conteste la validité des certificats produits, au motif qu’ils ne seraient
+« pas tamponné par une autorité judiciaire », mais « par un huissier
+de justice, à savoir un simple particulier vraisemblablement mandaté par l’intimé »,
+de même que les apostilles jointes à ces certificats, dont elle souligne au surplus qu’elles
+confirment seulement l’authenticité de la signature, du sceau ou du timbre sur le document,
+mais ne signifient pas que le contenu du document est correct ou que la République français
+approuve son contenu. Les critiques dirigées contre les apostilles sont infondées à un
+double titre : premièrement, elles sont signées non par un huissier mais par le Procureur
+général près la Cour d’appel ; deuxièmement, le contenu du certificat
+est réputé exact. Certes, il s’agit d’une présomption légale réfragable,
+mais la recourante ne dit absolument pas en quoi le contenu des certificats en cause seraient inexacts.
+Quant à la signature et au sceau apposés sur les certificats produits, ils sont ceux d’un
+huissier de justice au Tribunal de commerce de Paris. Comme l’explique l’intimé dans
+sa duplique, le Tribunal de Grande instance de Paris, soit l’autorité qui a rendu le jugement,
+compétente pour en délivrer le certificat du caractère exécutoire, a fusionné
+avec le Tribunal d’Instance de Paris pour créer le Tribunal judiciaire de Paris, au sein duquel
+les questions relatives à l’exequatur relèvent de la compétence du Pôle activité
+économique et commerciale. La recourante ne saurait dès lors sérieusement soutenir que
+les certificats produits n’ont pas été établis par un officier public représentant
+dûment l’autorité judiciaire compétente.
+En conclusion, le caractère exécutoire en France du jugement en cause est établi.
+dd)
+Invoquant
+l’art. 34 ch. 1 CL 2007, la recourante soutient que la reconnaissance du jugement en cause est
+manifestement contraire à l’ordre public suisse. Selon elle, le premier juge aurait violé
+les « principes les plus élémentaires en matière de reconnaissance et d’exequatur »
+en prononçant l’exequatur d’un jugement dont la preuve de la notification n’avait
+pas été produite et en dispensant l’intimé de produire le certificat visé à
+l’art. 54 CL.
+L'art. 27 LDIP (loi fédérale sur le droit international privé ; RS 291) prévoit
+que la reconnaissance d'une décision étrangère doit être refusée en Suisse si
+elle est manifestement incompatible avec l'ordre public suisse matériel (al. 1) ou procédural
+(al. 2 let. a - c). Un jugement étranger peut en effet être incompatible avec l'ordre public
+suisse non seulement à cause de son contenu, mais également en raison de la procédure
+dont il est issu (ATF 142 III 180 consid. 3). A cet égard, l'ordre public suisse exige le respect
+des règles fondamentales de la procédure déduites de la Constitution, tels notamment le
+droit à un procès équitable et celui d'être entendu (ATF 126 III 327 consid. 2b et
+les références). Selon la jurisprudence du Tribunal fédéral, la notion d’incompatibilité
+avec l’ordre public suisse doit recevoir en matière d’exécution de jugements étrangers,
+une interprétation plus étroite que lorsqu’il s’agit de l’application directe
+de la loi étrangère par le juge suisse. En tant que clause d'exception, la réserve de
+l'ordre public doit être interprétée de manière restrictive, en ce sens que la reconnaissance
+et l'exécution de la décision étrangère constitue la règle, dont il ne faut
+pas s'écarter sans de bonnes raisons ; l'ordre public suisse s’oppose à l’exécution
+d’un jugement étranger lorsque ce jugement va, d’une manière intolérable,
+à l’encontre du sentiment du droit, tel qu’il existe généralement en Suisse,
+et viole les règles fondamentales de l’ordre juridique suisse (TF 5A_697/2020 du 22 mars 2021
+consid. 6.4.3.1, non publié aux ATF 147 III 491 ; ATF 143 III 404 consid. 5.2.3 ; 5A_248/2015
+du 6 avril 2016 consid. 3.3.1 et les références, non publié aux ATF 142 III 420 mais
+in
+Pra 2017 p. 822).
+En l’espèce, les motifs ayant conduit au rejet des moyens de la recourante tirés de l’absence
+de preuve de la notification du jugement en cause et de la non-production en première instance du
+certificat concerné (cf. supra consid. IV b) bb) et cc)) sont applicables. Ils conduisent au rejet
+du moyen tiré de la prétendue contradiction manifeste de la reconnaissance avec l’ordre
+public suisse, qui est infondé.
+ee)
+La recourante soutient en outre que le respect de l’ordre public « imposait d’ailleurs
+de rejeter toute procédure d’entraide fondée sur les données bancaires volées
+par Hervé Falciani ». Elle invoque sur ce point le courrier de l’Office fédéral
+de la justice du 4 octobre 2010, enjoignant aux autorités chargées de l’exécution
+de demandes d’entraide judiciaire internationale de rejeter les demandes adressées à
+la Suisse « dans le cadre de procédures pénales étrangères »
+fondées sur des données bancaires volées. On ne voit pas que cela vise les demandes d’exécution
+en Suisse de jugements étrangers. Le moyen est manifestement mal fondé.
+V.
+a)
+Vu ce qui précède, le recours doit
+être rejeté et l’ordonnance attaquée confirmée.
+b)
+L’art. 52 CL 2007, selon lequel aucun impôt, droit ou taxe proportionnel à la valeur
+du litige n’est perçu dans l’Etat requis à l’occasion de la procédure
+tendant à la délivrance d’une déclaration constatant la force exécutoire, n’exclut
+pas que des frais judiciaires soient mis à la charge des parties, mais que le montant de ces frais
+soit arrêté suivant la valeur litigieuse. Aux termes de l’art. 48 al. 2 OELP (ordonnance
+sur les émoluments perçus en application de la LP ; RS 281.35), l’émolument
+pour les décisions judiciaires concernant la force exécutoire d’un jugement rendu dans
+un Etat étranger au sens de l’art. 271 al. 3 LP est de 1'000 fr. au plus.
+En l’espèce, les frais judiciaires de deuxième instance seront arrêtés à
+900 fr. et mis à la charge de la recourante, qui succombe (art. 106 al. 1 CPC).
+c)
+L’intimé a droit à des dépens de deuxième instance, à la charge de la
+recourante (art. 111 al. 2 CPC), qu’il convient de fixer, conformément à l’art.
+3, al. 2 et 3, TDC (tarif des dépens en matière civile ; BLV 270.11.6), à 1'500
+francs.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance d’exequatur est confirmée.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 900 fr. (neuf cents francs)
+sont mis à la charge de la recourante.
+IV.
+La recourante E.________ doit verser à l’intimé O.________ la somme de 1'500 fr. (mille
+cinq cents francs) à titre de dépens de deuxième instance.
+V.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Adrien Ramelet, avocat (pour E.________),
+‑
+Mes Jean-Cédric Michel et Sébastien Fries, avocats (pour O.________).
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être
+déposés devant le Tribunal fédéral dans les trente jours qui suivent la présente
+notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Juge de paix du district de Lausanne.
+La greffière :
