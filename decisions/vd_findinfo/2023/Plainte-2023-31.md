@@ -1,0 +1,256 @@
+---
+decision_id: "vd_findinfo_Plainte___2023___31"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2023 / 31"
+decided: "2023-08-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9575592"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-107.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-036.md", "switzerland/bund/acts/281.1/art-068.md", "switzerland/bund/acts/281.1/art-097.md", "switzerland/bund/acts/281.35/art-013.md", "switzerland/bund/acts/281.42/art-009.md", "switzerland/bund/acts/281.42/art-049.md"]
+---
+
+# VD Findinfo Plainte / 2023 / 31
+
+## Regeste
+
+POURSUITE EN RÉALISATION DE GAGE, FRAIS D'EXPERTISE | 68 LP, 9 al. 2 ORFI
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2023 / 31
+
+POURSUITE EN RÉALISATION DE GAGE, FRAIS D'EXPERTISE | 68 LP, 9 al. 2 ORFI
+
+TRIBUNAL
+CANTONAL
+FA22.013275-230245
+29
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+29 août 2023
+__________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Giroud Walther, juges
+Greffier
+:
+Mme              Umulisa Musaby
+*****
+Art.
+68 al. 1 LP ; 9 al. 2 ORFI
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par l'
+OFFICE DES POURSUITES
+DU DISTRICT DE LAUSANNE
+contre la décision
+rendue le 13 février 2023, à la suite de l’audience du 19 janvier 2023, par la Présidente
+du Tribunal d’arrondissement de Lausanne, autorité inférieure de surveillance, dans la
+cause qui l'oppose à
+C.________
+,
+à Epalinges, et à la
+N.________SA
+,
+à Genève.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 21 septembre 2021, dans le cadre de la poursuite en réalisation de gage immobilier n° 7'427'921
+requise par N.________SA contre C.________, l'Office des poursuites du district de Lausanne (ci-après
+: l'office) a communiqué la réquisition de vente à la débitrice et ordonné l'estimation
+de la parcelle n° [...] du Registre foncier de Lausanne, sise chemin du [...], objet du gage.
+Le 18 mars 2022, l'office a dressé un procès-verbal d'estimation du gage retenant une valeur
+estimative de celui-ci de 5'400'000 fr., sur la base d'un rapport d'expertise établi par la société
+[...].
+Le 1
+er
+avril 2022, la débitrice a requis une nouvelle estimation du gage devant la Présidente du Tribunal
+d'arrondissement de Lausanne, d'autorité inférieure de surveillance (ci-après : la présidente).
+Par ordonnance du 4 avril 2022, l'autorité inférieure de surveillance a octroyé l'effet
+suspensif requis par la débitrice jusqu'à droit connu sur la plainte.
+Le 28 septembre 2022, la société M.________, mandaté par la présidente, a déposé
+son rapport d'expertise, évaluant l'objet du gage à 7'900'000 francs.
+2.
+Par prononcé du 13 février 2023, notifiée
+à l'office le lendemain, la présidente a arrêté à 7'900'000 fr. la valeur de
+la parcelle précitée (I), a laissé
+les
+frais de l'expert M.________ par 5'331 fr. 15 à la charge de l'Etat (II) et a rendu cette décision
+sans frais judiciaires ni dépens (III).
+La présidente a considéré qu'il fallait retenir la seconde estimation, compte tenu du
+caractère exceptionnel du bien évalué et du fait que la seconde expertise était plus
+favorable à la débitrice.
+3.
+Par acte du 21 février 2023, l'office a interjeté un recours contre cette décision, en
+concluant, principalement, à la réforme du chiffre II, en ce sens que les frais de la seconde
+expertise sont mis à la charge de la débitrice. Subsidiairement, il a conclu à la révocation
+de l'effet suspensif ordonné le 4 avril 2022.
+Au pied de ses déterminations du 24 mars 2023, C.________ (ci-après : l'intimée) a conclu,
+avec suite de dépens, au rejet du recours.
+Interpellée, la créancière [...] a déclaré, le 28 mars 2023, qu'elle ne se considérait
+pas comme partie intimée dans la procédure de recours et qu'en tant que de besoin, elle s'en
+rapportait à justice.
+En droit :
+I.
+En l'espèce, le recours a été formé en temps utile contre une décision de l'autorité
+inférieure de surveillance (art. 18 al. 1 LP [loi fédérale sur la poursuite pour dettes
+et la faillite; RS 281.1] ; 28 al. 1 LVLP [loi vaudoise d'application de la LP; RSV 280.05] ; CPF 11
+octobre 2013/32) et comporte des conclusions et l'énoncé des moyens invoqués (TF 5A_118/2018
+du 7 février 2018 consid. 4.1).
+L'office a en outre qualité pour recourir. En effet, les organes d'exécution forcée sont
+habilités à recourir lorsqu'ils agissent comme organes du canton et font valoir des motifs
+fiscaux ; ils peuvent en particulier recourir en matière de frais (TF 5A_8/2018 du 21 juin 2018
+consid. 1.2 non publié in ATF 144 III 425 et les réf. citées, notamment ATF 134 III 136
+consid. 1.3). Le recours est dès lors recevable.
+Les déterminations de la débitrice sont également recevables (art. 31 al. 1 LVLP).
+II.
+L'office reproche à la présidente d'avoir
+laissé les frais de la seconde estimation du gage à la charge de l'Etat.
+L'intimée fait d'abord valoir que l'on ne saurait interpréter l'art. 9 al. 2 ORFI (Ordonnance
+du 23 avril 1920 du Tribunal fédéral sur la réalisation forcée des immeubles ; RS
+281.42) en ce sens que les frais sont mis à la charge du débiteur. Cette disposition ne réglerait
+pas la répartition des frais d'expertise dans l'hypothèse où, comme en l'espèce,
+c'est le débiteur poursuivi qui a requis la seconde expertise. Elle ajoute que les arrêts cités
+par l'office dans son recours – spécialement l'arrêt du Tribunal fédéral 5A_14/2016
+du 11 mars 2016 et l'arrêt de la cour de céans CPF 5 août 2010/20 – ne fourniraient
+pas non plus de solution au cas de l'espèce : les circonstances seraient différentes. Pour
+l'intimée, il conviendrait d'appliquer l'art. 9 al. 2 ORFI en retenant que les frais sont laissés
+à la charge de l'Etat, dès lors que la seconde expertise a sensiblement modifié l'estimation
+initiale. Ensuite, l'intimée invoque l'art. 106 al. 1 CPC. Elle soutient qu'elle ne serait pas la
+partie succombante, puisque la présidente a retenu exclusivement la seconde expertise immobilière,
+compte tenu du caractère exceptionnel de l'objet évalué. Enfin, sous l'angle de l'équité,
+les frais devraient être laissés à la charge du canton en application de l'art. 107
+al. 2 let. f CPC. Toujours selon l'intimée, il serait choquant de mettre les frais d'expertise à
+sa charge, alors qu'il y a une différence significative entre le premier et le second rapport d'expertise
+(une différence de 46%), que l'autorité inférieure de surveillance a retenu ce dernier
+rapport et qu'en demandant la réévaluation du bien, l'intimée aurait également agi
+dans l'intérêt des créanciers.
+a)
+Comme
+relevé par les parties, la cour de céans, en se référant à l'art. 9 al.
+2 ORFI, a déjà confirmé une décision mettant les frais d'une seconde expertise à
+la charge d'un débiteur poursuivi, qui avait requis la seconde expertise (CPF 5 août 2010/20).
+En outre, dans un arrêt rendu le 16 décembre 2015, l'autorité supérieure de surveillance
+du canton de Neuchâtel a fait de même, au motif que les frais d'une seconde expertise ne pouvaient
+plus être mis à la charge de l'adjudicataire, dès lors qu'ils ne faisaient plus partie
+des frais listés à l'art. 49 al. 1 let. a ORFI. Il restait à décider qui du
+débiteur ou du créancier devait les supporter. Elle a considéré que la disposition
+générale de répartition des frais de l'art. 68 al. 1 LP mettait ceux-ci, sans ambiguïté
+aucune, à la charge du débiteur (Tribunal cantonal de Neuchâtel ASSLP.2015.5). Le Tribunal
+fédéral, citant trois autres décisions cantonales (Cour de justice GE, in SJ 2000 II 220
+; Obergericht ZH, in ZR 1981 p. 189 ; Obergericht BE, in BlSchK 1992 p. 159), a confirmé l'arrêt
+neuchâtelois (TF 5A_14/2016 du 11 mars 2016). Il a jugé que la répartition des frais d'expertise
+se règle selon la disposition générale de l'art. 68 al. 1 1ère phr. LP et que les
+coûts d'une estimation ou d'une expertise requise par l'office (cf. par ex. art. 8 et 9 al. 1 ORFI
+en lien avec l'art. 97 LP) sont des débours (cf. art. 13 al. 1 OELP [Ordonnance du 23 septembre
+1996 sur les émoluments perçus en application de la loi fédérale sur la poursuite
+pour dettes et la faillite ; RS 281.35), qui doivent être remboursés à l'office et qui
+restent en principe à la charge du débiteur. Les frais d’une nouvelle estimation au sens
+de l'art. 9 al. 2 ORFI ne sont pas d'une nature juridique différente lorsque l'expert est mandaté
+par l'autorité de surveillance ; ils doivent ainsi suivre le sort des autres frais de poursuite
+conformément à l'art. 68 al. 1 LP et restent en principe à la charge du débiteur
+(consid. 3.2).
+L'art. 9 al. 2 ORFI prévoit une exception, lorsque la nouvelle estimation a été demandée
+par un créancier. Celui-ci ne peut réclamer le remboursement de ses frais au débiteur
+que si l'estimation de l'office a été sensiblement modifiée. Le législateur a uniquement
+voulu éviter, par souci d'équité, que le débiteur doive supporter les frais supplémentaires
+liés à une nouvelle estimation, qui se révèle en définitive superflue (Nicolet/van
+Hove/Woessner, Jurisprudence de l'autorité de surveillance des offices de poursuites et de faillites
+du canton de Genève de 1995 à 1998, in SJ 2000 II 220).
+En règle générale, tous les frais de poursuite doivent être considérés
+comme occasionnés par le débiteur, et donc supportés par lui. En revanche, les frais que
+le créancier aurait pu et dû éviter ne doivent pas être imputés au débiteur
+(TF 5A_433/2022 du 24 novembre 2022, destiné à la publication, consid. 4.1.2).
+b)
+Au vu de ces principes, l'argumentation de
+l'intimée ne peut pas être suivie.
+Contrairement à son opinion, les art. 68 al. 1 LP et 9 al. 2 ORFI règlent clairement la répartition
+des frais d'une nouvelle expertise, requise par le débiteur poursuivi. Ces dispositions ne prévoient
+en aucun cas que l'Etat doive les supporter. Ces frais incombent principalement au débiteur poursuivi,
+et, exceptionnellement, au créancier, si a) celui-ci a requis une nouvelle estimation et b) que
+cette estimation n'a pas sensiblement modifié l'estimation de l'office. L'on ne se trouve pas en
+l'espèce dans ce cas exceptionnel, puisque c'est l'intimée, débitrice poursuivie, qui
+a demandé une nouvelle estimation. C'est dès lors elle qui doit supporter les frais d'expertise
+conformément à la règle générale de l'art. 68 LP.
+En outre, les frais d'une nouvelle estimation de gage constituent des débours de poursuite, soit
+des frais de poursuite. Il ne s'agit pas de frais judiciaires, dont la répartition suivrait les
+art. 106 ss CPC. Ainsi, en tant que l'intimée invoque ces dernières dispositions, le grief
+est infondé.
+La conclusion principale de l'office doit dès lors être admise.
+III.
+Au vu de ce qui précède,
+le recours doit être admis. Le chiffre II de la décision attaquée doit être réformé
+en ce sens que les frais de la seconde expertise confiée à M.________ sont mis à la charge
+de la poursuivie.
+Il
+n'est ainsi pas
+nécessaire
+d'examiner la conclusion subsidiaire, à savoir la révocation de l'ordonnance d'effet suspensif
+du 4 avril 2022.
+De toute manière, la conclusion subsidiaire n'a pas d'objet. En effet, l'effet suspensif accordé
+le 4 avril 2022 concernait l'exécution du procès-verbal d'estimation du 18 mars 2022, soit
+la
+mise en exécution
+de
+la première estimation du gage. L'ordonnance du 4 avril 2022, qui concernait d'ailleurs un objet
+distinct de l'objet du présent recours, était valable jusqu'à droit connu sur la décision
+attaquée. L'ordonnance n'a dès lors pas déployé d'effet après la reddition de
+la décision attaquée. Puis, aucune requête de suspension n'ayant été déposée
+en deuxième instance, il n'existe pas d'effet suspensif qui pourrait être révoqué,
+étant rappelé qu'en matière de plainte, le recours n'a pas d'office d'effet suspensif.
+D’après l’art. 36 LP, le recours ne suspend la décision que s’il en est ainsi
+ordonné par l’autorité appelée à statuer ou son président.
+L'arrêt est rendu sans frais judiciaires
+ni dépens (art. 20a al. 2 ch. 5 LP ; 61 al. 2 let a et 62 al. 2 OELP [Ordonnance sur les émoluments
+perçus en application de la loi fédérale sur la poursuite pour dettes et la faillite ;
+RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est admis.
+II.
+Le prononcé est réformé au chiffre II de son dispositif comme il suit :
+II.
+met
+les frais de l'expert M.________ par 5'331 fr. 15 (cinq mille trois cent trente et un francs et quinze
+centimes) à la charge de la poursuivie C.________.
+Le prononcé est confirmé
+pour le surplus.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+Le
+président :              La greffière:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. le Préposé à l’Office des poursuites du district de Lausanne
+‑
+Me Pierre-Yves Court, avocat (pour C.________)
+-
+Mes Daniel Tunik et Téo Genecand,
+avocats (pour N.________SA)
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
