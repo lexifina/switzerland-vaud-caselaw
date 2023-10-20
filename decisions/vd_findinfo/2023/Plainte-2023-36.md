@@ -1,0 +1,297 @@
+---
+decision_id: "vd_findinfo_Plainte___2023___36"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2023 / 36"
+decided: "2023-10-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9558333"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-001.md", "switzerland/bund/acts/272/art-068.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-097.md", "switzerland/bund/acts/281.1/art-112.md", "switzerland/bund/acts/281.42/art-009.md"]
+---
+
+# VD Findinfo Plainte / 2023 / 36
+
+## Regeste
+
+MAXIME OFFICIELLE ET INQUISITOIRE, MAXIME INQUISITOIRE, GAGE IMMOBILIER, POURSUITE EN RÉALISATION DE GAGE, PROCÉDURE D'ESTIMATION | 20a al. 2 ch. 2 LP, 9 al. 2 ORFI, 9 ORFI
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2023 / 36
+
+MAXIME OFFICIELLE ET INQUISITOIRE, MAXIME INQUISITOIRE, GAGE IMMOBILIER, POURSUITE EN RÉALISATION DE GAGE, PROCÉDURE D'ESTIMATION | 20a al. 2 ch. 2 LP, 9 al. 2 ORFI, 9 ORFI
+
+TRIBUNAL
+CANTONAL
+FA23.008148-231062
+30
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+20 octobre 2023
+____________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et  Giroud Walther, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+20a al. 2 ch. 2 LP ; 9 al. 2 ORFI
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+L.________
+,
+à [...], contre la décision en nouvelle estimation de gage rendue le 21 juillet 2023, à
+la suite de l’audience du 11 juillet 2023, par la Présidente du Tribunal d’arrondissement
+de l’Est vaudois, autorité inférieure de surveillance, dans le cadre de procédure
+de réalisation de gage immobilier menée par l’
+Office
+des poursuites du district de Lavaux-Oron
+, à
+Cully.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 10 février 2023, l’Office des poursuites du district de Lavaux-Oron (ci-après :
+l'Office) a établi deux procès-verbaux d’estimation du gage n° 10'148'411 et 10'153'069
+portant sur l’immeuble RF n° [...] de la Commune de [...], propriété de L.________.
+(ci-après : le demandeur). Ces procès-verbaux retiennent que l’immeuble en cause
+a une valeur vénale de 3'200'000 fr. en se fondant sur un rapport d’expertise immobilière
+déposée le 31 mars 2022 par M.________ SA.
+2.
+Le 24 février 2023, le demandeur a requis de la Présidente du Tribunal d’arrondissement
+de l’Est vaudois une nouvelle estimation du gage en application de l’art. 9 ORFI (ordonnance
+du 23 avril 1920 sur la réalisation forcée des immeubles ; RS 281.42).
+Par prononcé du 21 avril 2023, la Présidente du Tribunal d’arrondissement de l’Est
+vaudois a mis en œuvre un nouvelle expertise de l’immeuble en cause et a désigné
+en qualité d’expert I.________ de N.________.
+Par courrier du 23 juin 2023, la présidente a convoqué le demandeur, l’Office et les
+créanciers poursuivant à l’audience du 11 juillet 2023.
+Dans une écriture du 28 juin 2023, la créancière [...] a informé la présidente
+qu’elle ne se présenterait pas à l’audience du 11 juillet 2023, a déclaré
+ne pas contester l’expertise immobilière du 10 février 2022 (sic) et s’en est rapportée
+à justice quant à la nouvelle estimation du gage.
+Le 28 juin 2023, le conseil du demandeur a demandé le report de l’audience pour le motif qu’il
+serait absent à l’étranger.
+Par courrier du lendemain, la présidente a invité le conseil du demandeur à se faire remplacer
+et a maintenu l’audience de 11 juillet 2023.
+Le 7 juillet 2023, l’expert I.________ a déposé son rapport. La valeur du bien expertisé
+y est estimée à 5'200'000 fr., compte tenu notamment du fait que le port privé «
+tel
+qu’il est à ce jour
+» constituait
+un élément de plus-value. Le rapport mentionne une visite en présence du demandeur le
+2 juin 2023, une estimation de la valeur actuelle des annexes à 530'000 fr., dont 300'000 fr. pour
+le port ; une valeur de 500'000 fr. est indiquée pour le «
+Port
+dragué et aménagé
+».
+Au sujet des annexes, le rapport comporte les explications suivantes :
+« Bien
+que les annexes présentent une certaine vétusté, je les considère à 100 % car
+il serait impossible à ce jour de les réaliser sans avoir de longues et coûteuses procédures
+administratives avant de lever les oppositions. Le fait d’exister leur confère une grande
+valeur intacte.
+Il reste cependant le point du port qui est en suspens actuellement auprès des administrations compétentes.
+Le renouvellement du bail joue un rôle crucial. La variation du prix pourrait être de 300'000
+fr., qui n’est pas pris en compte actuellement. »
+A l’audience du 11 juillet 2023, le demandeur s’est présenté, non assisté,
+de même que le substitut au préposé à l’Office et des représentants de
+l’un des créanciers. L’Office et le créancier présent ont déclaré
+ne pas avoir d’objection à ce que l’estimation du deuxième expert soit retenue.
+Le demandeur a fait valoir que le deuxième expert n’avait pas tenu compte d’une possibilité
+de draguer le port attenant à la parcelle en cause afin de pouvoir y stationner de plus grand bateaux,
+possibilité qui devait se concrétiser au mois de septembre 2023. Il a indiqué que ces
+travaux auraient lieu dès le renouvellement de la concession, des pourparlers étant en cours
+avec un voisin, auteur d’une opposition, et qu’une fois ceux-ci effectués, la valeur
+de l’immeuble atteindrait 6'000'000 francs.
+3.
+Par prononcé du 21 juillet 2023, la Présidente
+du Tribunal d’arrondissement de l’Est vaudois, statuant en tant qu’autorité inférieure
+de surveillance, a fixé la valeur vénale de la parcelle en cause à 5'200'000 fr. (I),
+a dit que les honoraires du deuxième expert feraient l’objet d’un prononcé séparé
+(II), a arrêté les frais judicaires à 150 fr., les a mis à la charge du demandeur
+et les a compensé avec l’avance déjà versée (III). En substance, elle a considéré
+qu’il n’y avait pas de raison de s’écarter de la valeur retenue par le deuxième
+expert et en particulier que les travaux invoqués par le demandeur ne pouvaient être pris en
+compte, faute d’avoir été établis.
+4.
+Par acte du 2 août 2023, L.________ a recouru
+contre ce prononcé en concluant à son annulation et au renvoi de la cause à l’autorité
+précédente pour nouvelle estimation du gage sur la base de rapport complémentaire tenant
+compte de la modification de la place de port en cours. Il a produit un bordereau de pièces.
+L’Office et les créanciers n’ont pas été invités à se déterminer
+En droit :
+I.
+a)
+Les décisions qui ne relèvent pas
+du juge, notamment celles qui sont rendues par les offices des poursuites et faillites et les autorités
+de surveillance, ne sont pas régies par le CPC mais – comme par le passé – par
+une procédure administrative spéciale, les cantons demeurant compétents pour la définir
+et prévoir, le cas échéant, une voie de droit (Message CPC du 28 juin 2006, FF 2006 6841
+ss, p. 6875 ; Vock/Nater, Basler Kommentar, Schweizerische Zivilprozessordnung, 3e éd. 2017, nn.
+8 et 9 ad art. 1 ZPO [CPC] ; Haldy, in Bohnet et alii, Code de procédure civil commenté, 2e
+éd., 2019, nn. 17 et 18 ad art. 1 CPC ; Berger, Berner Kommentar, Schweizerische Zivilprozessordnung,
+Berne 2012, n. 39 ad art. 1 ZPO ; Schenker, in Baker/McKenzie (éd.), Schweizerische Zivilprozessordnung,
+Berne 2010, nn. 11 et 12 ad art. 1 ZPO), sous réserve des dispositions spéciales de la LP (loi
+fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1) relatives
+à la plainte (cf. notamment art. 17, 18 et 20a al. 2 et 3 LP).
+b)
+Même si le délai pour demander une nouvelle estimation est celui de la plainte (art. 17 al.
+2 LP), une telle demande ne vise pas l’annulation ou la modification d’une mesure contraire
+à la loi ou injustifiée en fait. Il ne s'agit donc pas d'une plainte au sens strict, mais plutôt
+d’une requête «
+administrative
+normale
+» relative à l’activité
+de l’organe d’exécution forcée (ATF 131 III 136 consid. 3.2.1, JdT 2007 II 58 ;
+Zopfi, in Commentaire ORFI, n. 9 ad art. 9 ORFI, p. 30).
+Selon la jurisprudence de la cour de céans, la décision de l’autorité inférieure
+de surveillance relative à l’estimation d’un immeuble objet d’un gage peut faire
+l’objet d’un recours régi par les art. 18 LP et 28 à 33 LVLP (loi du 18 mai 1955
+d'application dans le canton de Vaud de la LP, BLV 280.05 ; CPF 7 mai 2018/9 ; CPF 18 mars 2013/10 ;
+CPF 11 décembre 2012/52 ; CPF 5 août 2010/20 ; CPF 26 juin 2009/25).
+c)
+Le recours, déposé dans les dix jours dès réception de la décision entreprise,
+en temps utile, comporte l'énoncé des moyens invoqués et des conclusions. Il est ainsi
+recevable à la forme (art. 18 LP et 28 LVLP). Les pièces produites à l’appui du
+recours sont également recevables (art. 28 al. 4 LVLP).
+II.
+Le recourant fait valoir que l’audience
+du 11 juillet 2023 a été fixée sans respecter les usages consistant dans un entretien
+téléphonique préalable entre le greffe et le secrétariat de son conseil, que celui-ci
+exploitait son étude sans associé ni stagiaire et qu’il ne pouvait se faire remplacer
+à l’audience qui, en outre, était fixée durant les vacances scolaires. Il relève
+que s’il a pu se présenter personnellement à l’audience, les arguments qu’il
+y a développés n’ont pas été pris en compte par l’autorité précédente.
+Il n’explicite toutefois pas en quoi le principe de célérité appliqué par l’autorité
+précédente pour refuser le report de l’audience aurait violé dans le cas précis
+son droit d’être assisté découlant du droit d’être entendu garanti par
+l’art. 29 al. 2 Cst. et l’art. 68 al. 1 CPC. Le recourant a en effet pu exposer ses
+arguments relatifs au creusement du port, allégations qui figurent dans l’état de fait
+du prononcé, et le conseil du recourant n’a pas fait usage de la possibilité de développer
+une argumentation juridique écrite pour pallier son absence à l’audience.
+Le recours doit être rejeté sur ce point.
+III.
+Le recourant fait grief à l’autorité
+précédente ne n’avoir pas tenu compte de ses explications quant à la plus-value
+résultant de travaux dans le port de la parcelle en cause, plus-value non prise en compte dans la
+deuxième expertise.
+a)aa)
+Selon
+l’art. 9 al. 1 ORFI, l'estimation doit déterminer la valeur vénale présumée
+de l'immeuble à réaliser, à savoir le produit prévisible de la vente, mais sans devoir
+être "
+la plus élevée
+possible
+". Elle ne préjuge en rien
+du prix qui sera effectivement obtenu lors des enchères ; tout au plus peut-elle fournir aux enchérisseurs
+un point de repère quant à l'offre envisageable (ATF 129 III 595 consid. 3.1; TF 5A_421/2018
+du 13 novembre 2018 consid. 6.2.2 ; TF 5A_672/2018 précité consid. 3.1.3).
+Dans la poursuite en réalisation du gage, l'estimation n'a qu'un rôle secondaire, en tant qu'elle
+ne donne qu'un ordre d'idée d'une offre acceptable aux intéressés, sans laquelle le produit
+attendu ne serait pas atteint. La fonction qu'elle revêt dans la procédure de saisie où
+elle fixe l'étendue de la saisie (art. 97 al. 2 LP) et vise à informer les créanciers
+sur l'issue probable de l'exécution (art. 112 al. 1 LP) est sans portée (ATF 135 I 102 consid.
+3.2.2 et 3.2.3 ; TF 421/2018 précité ; 5A_342/2016 du 7 juillet 2016 consid. 2.1).
+bb)
+L'autorité cantonale de surveillance statue en dernier ressort sur les contestations relatives au
+montant de l'estimation (art. 9 al. 2 cum 99 al. 2 ORFI), soit définitivement, car il s'agit là
+de questions d'appréciation (ATF 120 III 79 consid. 1). Les participants n'ont pas de droit à
+obtenir une surexpertise, même dans les cantons qui ont instauré deux autorités de surveillance
+et même si l'office a effectué lui-même la première estimation (TF 421/2018 précité
+consid. 6.2.1 ; TF 5A_672/ 2018 du 29 octobre 2018 consid. 3.3.3). Cette règle vise à éviter
+que, par des requêtes réitérées d'une nouvelle estimation, la procédure de réalisation
+forcée ne soit indûment traînée en longueur (ATF 120 III 135 consid. 2 ; TF 5A_275/2013
+du 12 juin 2013 consid. 5.1.2 et les autres références).
+Pour sa part, le Tribunal
+fédéral vérifie seulement si l'autorité cantonale de surveillance a respecté
+la procédure prévue et si elle n'a pas excédé ou abusé du pouvoir d'appréciation
+dont elle dispose. Une telle hypothèse est réalisée lorsqu'elle a pris des critères
+en considération qui n'auraient pas dû jouer de rôle, ou si au contraire, elle a ignoré
+des circonstances pertinentes (ATF 134 III 42 consid. 3 et les références ; TF 5A_421/2018
+précité consid. 6.2.1 ; TF 5A_672/2018 précité consid. 3.1.1 ; TF 5A_692/2017 du
+19 mai 2018 consid. 2.1).
+b)
+En
+application de l’art. 20a al. 2 ch. 2 LP, les autorités cantonales de surveillance constatent
+les faits d’office. Elles peuvent demander aux parties de collaborer et déclarer irrecevables
+leurs conclusions lorsque les parties refusent de prêter le concours nécessaire que l’on
+peut attendre d’elles (ATF 123 III 328 consid. 3, JdT 1999 II 26). La maxime inquisitoire a en
+outre des limites. Elle n’oblige pas le tribunal à étendre la procédure probatoire
+et à administrer tous les moyens de preuve envisageables. L’administration des preuves doit
+demeurer dans un cadre raisonnable et l’autorité d’instruction doit ne pas perdre de
+vue que la procédure d’exécution forcée, dans laquelle les questions de droit matériel
+n’entrent plus en ligne de compte, doit être rapide (ATF 125 III 231 consid. 4a ; ATF 123
+III 328 précité ; TF 5A_546/2017 du 6 octobre 2017 consid. 3.1 ; TF 5A_681/2016 du 24
+novembre 2016 consid. 3.1.3 et les références citées).
+c)
+En
+l’espèce, l’autorité précédente a écarté les explications du
+recourant pour le motif que les allégations de travaux à venir dans le port de la parcelle
+en cause n’étaient pas établies. Le recourant, assisté d’un conseil durant
+la procédure, n’a produit aucune pièce à l’appui de ses allégations.
+Le rapport d’expertise mentionne une plus-value de 200'000 fr. en cas de draguage et d’aménagement
+du port, mais ne la prend pas en compte en raison d’une procédure de renouvellement de bail
+en cours. Il n’y avait dès lors aucun devoir d’interpellation ou d’instruction
+complémentaire pour l’autorité précédente.
+En deuxième instance, le recourant n’a pas non plus produit de pièces établissant
+les travaux allégués, dont la plus-value est d’ailleurs estimée par le deuxième
+expert. Le grief tiré du caractère prétendument incomplet de la deuxième expertise
+est ainsi sans fondement.
+III.
+En conclusion, le recours doit être rejeté et le prononcé confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a ch. 5 LP ; art. 61 al.
+2 let. a et 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus en application
+de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. Julien Greub, agent d’affaires breveté (pour L.________),
+‑
+[...],
+-
+Office d’impôt
+des districts de la Riviera-Pays-d’Enhaut, Lavaux-Oron et Aigle (pour Etat de Vaud),
+-
+Administration cantonale des impôts (pour Etat de Vaud),
+-
+M. le Préposé à l’Office des poursuites du district de Lavaux-Oron.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+Le greffier :
