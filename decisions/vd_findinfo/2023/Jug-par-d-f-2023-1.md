@@ -1,0 +1,708 @@
+---
+decision_id: "vd_findinfo_Jug-par-d_f___2023___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-par-déf / 2023 / 1"
+decided: "2023-11-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9617916"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/232.11/art-001.md", "switzerland/bund/acts/232.11/art-003.md", "switzerland/bund/acts/232.11/art-013.md", "switzerland/bund/acts/232.11/art-015.md", "switzerland/bund/acts/232.11/art-053.md", "switzerland/bund/acts/232.11/art-060.md", "switzerland/bund/acts/272/art-002.md", "switzerland/bund/acts/272/art-005.md", "switzerland/bund/acts/272/art-091.md", "switzerland/bund/acts/272/art-095.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-111.md", "switzerland/bund/acts/272/art-124.md", "switzerland/bund/acts/272/art-147.md", "switzerland/bund/acts/272/art-150.md", "switzerland/bund/acts/272/art-153.md", "switzerland/bund/acts/272/art-223.md", "switzerland/bund/acts/272/art-239.md", "switzerland/bund/acts/291/art-110.md"]
+---
+
+# VD Findinfo Jug-par-déf / 2023 / 1
+
+## Regeste
+
+MARQUE DE HAUTE RENOMMÉE, PROTECTION DES MARQUES | 109 al. 1 LDIP, 109 al. 2 LDIP, 110 al. 1 LDIP, 3 al. 2 let. a LPM, 124 al. 2 CPC (CH), 147 al. 3 CPC (CH), 153 al. 2 CPC (CH), 153 CPC (CH), 223 al. 1 CPC (CH), 223 al. 2 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour civile Jug-par-déf / 2023 / 1
+
+MARQUE DE HAUTE RENOMMÉE, PROTECTION DES MARQUES | 109 al. 1 LDIP, 109 al. 2 LDIP, 110 al. 1 LDIP, 3 al. 2 let. a LPM, 124 al. 2 CPC (CH), 147 al. 3 CPC (CH), 153 al. 2 CPC (CH), 153 CPC (CH), 223 al. 1 CPC (CH), 223 al. 2 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+CO23.002709
+53/2023/ROU
+COUR
+CIVILE
+_________________
+Séance
+du 10 novembre 2023
+________________________
+Composition
+:              Mme KUHNLEIN, présidente
+M. Oulevey et Mme Elkaim,
+juges
+Greffier
+:              Mme Bron
+*****
+Cause
+pendante entre :
+J.________
+(Me P. Köster)
+et
+C.________
+-
+Du même jour -
+Statuant à huis clos, la cour considère :
+En fait :
+1.
+a)
+La demanderesse J.________ (ci-après la
+demanderesse) est une société non-gouvernementale et à but non-lucratif de droit [...],
+qui a son siège à [...] [...].
+Le but principal de la société est le soutien économique et financier d’organisations
+qui créent, développent et diffusent des logiciels et du matériel
+open
+source
+, soit les matériels et produits physiques
+développés selon les principes des ressources dites libres de droits ou sous licence libre.
+A ce titre, la demanderesse soutient et développe des projets
+open
+source,
+et s’occupe de leurs tâches
+administratives et non-techniques afin que ces projets puissent se développer sans devoir exploiter
+et gérer leur propre structure juridique.
+b)
+Dans le cadre de son activité, la demanderesse soutient et encadre notamment le
+[...]
+,
+qui est historiquement son premier projet et qui a été fondé par [...] le 16 août
+1993. A ce titre, elle en détient tous les actifs et les fonds.
+Le
+[...]
+est une communauté de bénévoles revêtant une structure organisationnelle et décisionnelle
+définie, présents dans le monde entier et qui collaborent au développement du système
+d’exploitation basé sur Linux, qui est composé entièrement de logiciels librement
+accessibles.
+Le produit [...] le plus répandu est le système d’exploitation [...] (ci-après le
+logiciel [...]). Il a été rendu accessible dans sa première version le 15 septembre 1993
+et reste aujourd’hui encore, à l’échelle mondiale, le seul système d’exploitation
+Linux en accès libre fournissant des versions stables et des mises à jour de sécurité,
+et qui n’est pas détenu par une entité commerciale.
+La demanderesse est titulaire de la marque « [...] » aux [...] (enregistrement requis
+le 7 novembre 1997 et effectif depuis le 21 décembre 1999 sous no [...] en classification Nice 9
+« Logiciel et matériel informatique »). En se fondant sur la marque nationale
+américaine, elle a requis l’enregistrement international de la marque auprès de l’Organisation
+mondiale de la Propriété intellectuelle (ci-après OMPI). Elle est désormais titulaire
+de la marque internationale « [...] » no [...] enregistrée depuis le 20 juin
+2011 en classification Nice 9. Elle est également titulaire de la marque « [...] »
+dans l’Union européenne, au Royaume-Uni, en Chine et au Japon.
+Sous cette marque qu’elle exploite à travers le monde depuis de nombreuses années, l’activité
+déployée par la demanderesse, et le
+[...]
+,
+vise principalement le développement et la distribution du logiciel [...] d’une part, et,
+d’autre part, depuis l’an 2000, l’organisation de conférences appelées
+[...]
+qui réunissent les communautés [...] nationales actives dans chaque pays du monde, notamment
+la Suisse, la France, l’Allemagne, l’Italie, le Royaume-Uni, la Pologne, l’Autriche,
+l’Espagne, la Norvège, la Belgique, les Etats-Unis, l’Asie du Sud-Est, l’Afrique
+et l’Amérique latine. Ces conférences réunissent chaque année de prestigieux
+sponsors, tels que notamment Google, Lenovo, Infomaniak, Amazon Web Services, IBM, Roche, HP, PwC, Fujitsu
+et l’EPF de Zurich.
+Le logiciel [...] est utilisé par de nombreuses entreprises (comme Infomaniak, LIIP et Microsoft)
+en Suisse et dans l’Union européenne, de même que par de nombreuses institutions de recherche
+(comme le département IT de l’Université de Zurich et le CERN), actives dans des domaines
+variés, ou encore par des entités publiques telles que des gouvernements ou des militaires.
+Il est cité par de nombreux utilisateurs de par le monde, comme la BBC au Royaume-Uni, l’EPFL
+et l’ETH à Zurich notamment. Il l’est également dans des articles de presse suisse
+et étrangère. Il a par exemple été mentionné en 2021 par la RTS Info aux côtés
+de grands noms de systèmes d’exploitation tels que Windows, macOS, Android et Mozilla Firefox.
+Il apparaît en outre que les offres d’emploi auprès du département Recherche et
+Développement de la BBC mentionnent comme exigences d’engagement notamment « une
+connaissance approfondie de Linux (utilisation de Ubuntu, [...]) ».
+Des cours de formation sur le logiciel [...] sont régulièrement organisés en Suisse.
+2.
+a)
+La défenderesse C.________ (ci-après la défenderesse) est une société anonyme
+de droit suisse qui a son siège à [...]. Elle a pour but de fournir des services, conseils
+et commerce dans le domaine de l'informatique ; commercialisation d'idées ou de projets en lien
+avec les domaines précités. La société peut créer des succursales en Suisse
+et à l'étranger, participer à d'autres entreprises en Suisse et à l'étranger,
+acquérir ou fonder des entreprises visant un but identique ou analogue, effectuer toutes opérations
+commerciales, financières, mobilières ou autres et conclure tous contrats propres à développer
+son but ou s'y rapportant directement ou indirectement.
+b)
+[...], de nationalité [...] et domicilié à [...], est l’administrateur unique de
+la défenderesse.
+Il est un ancien développeur du système d’exploitation [...] ainsi qu’un ancien
+membre du
+[...]
+.
+En 2018, il a été exclu de [...] et de sa communauté pour s’être adonné
+à des comportements ayant nui à la réputation de [...], de ses représentants et de
+la communauté dans son ensemble. Depuis lors, il a engagé une campagne de représailles
+et de dénigrement à leur encontre.
+3.
+Entre 2020 et 2022, [...], notamment au travers de la défenderesse, a procédé à l’enregistrement
+de plusieurs noms de domaines internet comportant le terme « [...] » : [...].chat,
+[...].news, [...].finance, [...].team, [...].guide, [...].org, [...].community, [...].plus, [...].video,
+[...].org, [...].community et [...].org.
+Au printemps 2022, sur le site internet de la défenderesse, [...] a incité tout un chacun à
+exploiter le nom et la marque « [...] » dans son nom de domaine en guise de « résistance
+à la censure ». Il a également procédé à de nombreuses publications
+en ligne à l’encontre du
+[...]
+et de ses représentants.
+4.
+Le 27 avril 2022, la demanderesse,
+[...]
+et [...].ch ont déposé une requête d’arbitrage auprès de l’OMPI afin
+de récupérer le nom de domaine [...].
+5.
+Le 14 mai 2022, la défenderesse, par l’intermédiaire de [...], a déposé la
+marque verbale « [...] » en Suisse auprès de l’Institut fédéral
+de la Propriété intellectuelle (ci-après IPI). La marque y est enregistrée sous no
+[...] depuis le 8 juin 2022 en classification Nice 9 pour des « logiciels et matériel
+informatique ». La première publication au Swissreg date du 8 juin 2022.
+Depuis lors, [...] a déclaré révoquer le
+Code
+of Conduct
+du
+[...]
+et affirmé qu’il avait l’autorité pour donner le droit à certaines entités
+tierces d’utiliser le nom de domaine [...]. Sur le site [...].org, il est indiqué que la marque
+[...] appartient à la défenderesse et le logiciel [...] y est proposé en téléchargement.
+6.
+Par décision du 19 juillet 2022, l’OMPI a admis la requête d’arbitrage déposée
+le 27 avril 2022 et ordonné que le nom de domaine [...] soit transféré à
+[...]
+.
+7.
+Le 5 septembre 2022, la demanderesse a formé opposition à l’inscription de la marque
+déposée par la défenderesse. La procédure est actuellement en cours.
+8.
+Le 11 septembre 2022, le
+[...]
+et ses animateurs ont déposé une plainte pénale à l’encontre de [...] et inconnus
+par l’intermédiaire de l’association suisse [...].ch, notamment pour diffamation, calomnie
+et contrainte.
+9.
+Par demande déposée le 19 janvier 2023,
+la demanderesse a pris les conclusions suivantes, rectifiées le 15 février 2023 :
+«
+A
+LA FORME
+1
+Déclarer la présente
+demande recevable.
+AU
+FOND
+Principalement
+2
+Condamner C.________ à
+la cession du droit de la marque individuelle suisse « [...] » no [...] enregistrée
+le 8 juin 2022 auprès de l’Institut fédéral de la Propriété intellectuelle
+à J.________.
+3
+Ordonner à l’Institut
+de la Propriété intellectuelle de modifier le titulaire de la marque individuelle suisse « [...] »
+no [...] au Registre des marques suisses en faveur de J.________.
+4
+Ordonner la publication
+du jugement et condamner C.________ au paiement y afférent.
+Subsidiairement
+5
+Constater que J.________
+est titulaire de la marque individuelle suisse « [...] » no [...] au Registre des
+marques suisses.
+6
+Ordonner à l’Institut
+fédéral de la Propriété intellectuelle de modifier le titulaire de la marque individuelle
+suisse « [...] » no [...] au Registre des marques suisses en faveur de J.________.
+7
+Ordonner la publication
+du jugement et condamner C.________ au paiement y afférent.
+Encore
+plus subsidiairement
+8
+Constater la nullité
+de la marque individuelle suisse « [...] » no [...].
+9
+Ordonner à l’Institut
+fédéral de la Propriété intellectuelle de radier du Registre des marques suisses
+la marque individuelle suisse « [...] » no [...].
+10
+Ordonner la publication
+du jugement et condamner C.________ au paiement y afférent.
+En
+tout état
+11
+Acheminer J.________ à
+prouver par toutes voies de droit les faits allégués dans la présente écriture.
+12
+Débouter C.________
+de toute autre ou contraire conclusion. »
+Par avis du 23 janvier
+2023, le Juge délégué de la Cour civile a requis de la demanderesse qu’elle procède
+au versement de l’avance de frais de
+18'500
+fr. dans un délai au 13 février 2023. La demanderesse a effectué le versement le 6 février
+2023.
+Par courrier recommandé
+du 8 février 2023, le juge délégué a notifié la demande à la défenderesse
+et lui a fixé
+un
+délai au 15 mars 2023 pour déposer une réponse. Ce délai a été prolongé
+au 2 juin 2023.
+Le 30 juin 2023, le juge délégué a fixé à la défenderesse un délai
+supplémentaire au 17 juillet 2023 pour déposer une réponse. Il a alors été indiqué
+qu’à défaut, l’instance suivrait son cours et que le tribunal pourrait rendre sa
+décision finale si la cause était en état d’être jugée en se fondant sur
+les seuls faits allégués par la demanderesse.
+Le 27 juillet 2023, le juge délégué a fixé à la défenderesse un ultime
+délai au 16 août 2023 pour déposer une réponse.
+Le 21 août 2023, la défenderesse a écrit ceci au juge délégué :
+« Nous
+n’avons pas confiance en la procédure.
+Nous
+avons annulé la marque et nous avons donné la marque au domaine public en meme (sic) temps.
+Nous
+n’acceptons pas les allégations des demanders (sic).
+Nous
+ne consentons pas à la demande du (sic) frais du tribunal.
+Nous
+ne consentons pas aux frais de la partie adverse.
+Nous
+ne consentons pas à la demande d’un jugement.
+Nous
+ne consentons pas d’un (sic) publication diffamatoire par le tribunal. »
+Le 30 août 2023, le juge délégué a fixé à la demanderesse un délai
+au 29 septembre 2023 pour indiquer si elle contestait ou admettait que la marque litigieuse avait été
+radiée (a), si elle s’opposait à ce que la cause soit rayée du rôle et, le
+cas échéant, pour quel motif (b), et en cas de réponse négative à la question
+b, à combien elle chiffrait ses conclusions en dépens (c).
+Par courrier du 12 septembre 2023, la demanderesse a informé le juge délégué que
+la marque litigieuse était toujours active, elle s’est opposée à ce que la cause
+soit rayée du rôle et elle a requis du tribunal de céans qu’il donne la suite qu’il
+convienne à la procédure au sens de l’art. 223 al. 2 CPC. Elle a en outre déclaré
+qu’il n’y avait pas encore lieu pour elle de chiffrer ses conclusions en dépens.
+Par courrier des 14 et 21 septembre 2023, la défenderesse a requis qu’une prolongation de
+délai au 30 novembre 2023 lui soit accordée pour déposer une réponse.
+Le 27 septembre 2023, le juge délégué a rejeté la requête de restitution du
+délai de réponse de la défenderesse et informé les parties que la cause était
+gardée à juger conformément à l’art. 223 al. 2 CPC, qu’un jugement par
+défaut serait rendu dans les meilleurs délais et que, dans l’intervalle, il ne serait
+tenu compte d’aucune écriture ni pièce nouvelle.
+En droit :
+I.
+La demanderesse s’en prend à l’enregistrement de la marque verbale suisse « [...] »
+no [...] par la défenderesse. Elle conclut principalement à ce que cette dernière soit
+condamnée à lui céder le droit de la marque litigieuse, à ce qu’il soit ordonné
+à l’IPI de modifier le registre des marques dans ce sens, et à ce que le jugement y afférent
+soit publié ; subsidiairement, elle conclut à ce qu’il soit constaté qu’elle
+est titulaire de la marque litigieuse, à ce qu’il soit ordonné à l’IPI de
+modifier le registre des marques dans ce sens et à ce que le jugement soit publié ; encore
+plus subsidiairement, elle conclut à ce qu’il soit constaté que la marque litigieuse
+est nulle, à ce qu’il soit ordonné à l’IPI de procéder à la radiation
+correspondante au registre des marques et à ce que le jugement soit publié. A l’appui
+de ses conclusions, elle invoque les art. 2 à 4, 53 et 60
+LPM
+(loi fédérale sur la protection des marques et des indications de provenance du 28 août
+1992 ; RS 232.11) ainsi que la Convention de Paris pour la protection de la propriété industrielle
+du 20 mars 1883, ratifiée par la Suisse le 6 juin 1884.
+La défenderesse n’a pas procédé.
+II.
+a)
+Le juge examine d'office sa compétence à raison de la matière et du lieu (art. 59 al.
+2 let. b et 60 CPC [Code de procédure civile du 19 décembre 2008 ; RS 272]). Les traités
+internationaux et la loi fédérale du 18 décembre 1987 sur le droit international privé
+(LDIP; RS 291) sont réservés (art. 2 CPC).
+La présente cause présente un élément d'extranéité, puisque la demanderesse
+a son siège aux [...]. Il convient dès lors de déterminer la compétence internationale
+et le droit applicable.
+En l’absence de convention internationale entre la Suisse et les [...], on doit se référer
+aux dispositions de la LDIP.
+b)
+En vertu des art.
+109 al. 1 et 2 LDIP, les tribunaux suisses du domicile du défendeur sont compétents pour connaître
+des actions portant sur la validité ou l’inscription en Suisse de droits de propriété
+intellectuelle et des actions portant sur la violation de tels droits.
+En
+l'espèce, la défenderesse ayant son siège dans le canton de Vaud, les tribunaux vaudois
+sont compétents.
+c)
+S’agissant de la compétence matérielle au sein du Canton de Vaud, la compétence
+de la cour de céans est donnée par l’art. 5 CPC. En effet, selon
+l'art.
+74 al. 3 LOJV (loi d'organisation judiciaire du 12 décembre 1979 ; BLV 173.01), la Cour civile
+du Tribunal cantonal connaît en instance cantonale unique des affaires civiles ressortissant à
+l'art. 5 CPC, parmi lesquelles on compte les litiges portant sur des droits de propriété intellectuelle
+(al. 1 let. a).
+d)
+Selon
+l'art. 110 al. 1
+LDIP, les droits de la propriété
+intellectuelle sont régis par le droit de l’État pour lequel la protection de la propriété
+intellectuelle est revendiquée.
+En l'espèce, le droit suisse est applicable.
+III.
+a)
+Selon l'art. 223 al. 2 CPC, si la réponse
+n'est pas déposée à l'échéance du délai supplémentaire de l'art. 223
+al. 1 CPC, le tribunal rend la décision finale si la cause est en état d'être jugée ;
+sinon, la cause est citée aux débats principaux.
+Le
+tribunal doit attirer l'attention des parties sur les conséquences du défaut lors de la fixation
+du délai supplémentaire (art. 147 al. 3 CPC). Cette obligation découle toutefois du principe
+de la bonne foi et non d'une prescription d'ordre. L'indication correcte selon l'art. 147 al. 3 CPC constitue
+en principe une condition de la forclusion, à moins que la partie n'ait connu les conséquences
+du défaut ou qu'elle ait pu en avoir conscience en faisant preuve de la diligence requise. Demeure
+également réservée la constellation dans laquelle l'omission de l'indication ne pouvait
+pas avoir d'effet sur le défaut de la partie. La simple indication de la disposition spéciale
+applicable ne suffit pas, les parties doivent être rendues attentives aux conséquences juridiques
+concrètes d'une omission. L'obligation d'attirer l'attention des parties sur les conséquences
+du défaut varie cependant en fonction des connaissances juridiques des personnes concernées
+et est plus complète pour les parties non représentées par des juristes (TF 5A_545/2021
+du
+8 février 2022 consid. 3.2 et les
+références citées).
+La notion de « cause en état d'être jugée » doit être mise en relation
+avec les règles sur le fardeau de la preuve. En cas de défaut au sens de l'art. 223 CPC, les
+faits allégués par le demandeur sont dispensés de preuve, puisque, faute de réponse,
+le défendeur n'a pas exposé lesquels sont reconnus ou contestés et qu'en vertu de l'art. 150
+CPC, la nouvelle procédure n'exige la preuve que des faits contestés (Tappy, CPC commenté,
+2011, n. 9 ad art. 223 CPC). La cause est donc normalement en état d'être jugée si, sur
+la base des allégations non contestées de la demande, le tribunal dispose d'un état de
+fait suffisant pour statuer. Toutefois, le tribunal n'est pas dispensé d'administrer des preuves
+lorsque les faits doivent être établis d'office. De plus, même dans les causes en principe
+pleinement soumises à la maxime des débats, le tribunal a la faculté d'administrer des
+preuves d'office s'il existe des motifs sérieux de douter de la véracité d'un fait non
+contesté. En pratique, le juge ne doit cependant pas se montrer particulièrement regardant
+si rien dans le dossier ne donne à penser à ce stade que les affirmations du demandeur ne seraient
+pas véridiques: il n'a en effet le droit d'ordonner d'office des preuves, dans l'hypothèse
+envisagée, que s'il a des doutes sérieux à leur égard, doutes qui ne sauraient résulter
+simplement du fait que le défendeur a négligé de procéder (Tappy, op. cit., n. 11
+ad art. 223 CPC). Le juge applique dès lors l'art. 153 al. 2 CPC – qui lui permet d'administrer
+des preuves d'office sans lui en faire une obligation («
+Kannvorschrift
+»)
+– lorsque des allégations paraissent invraisemblables au regard des pièces produites
+avec la demande, ou ne reposent sur aucune appréciation réelle des faits. Ainsi, il ne sera
+pas lié par un allégué manifestement exploratoire du type « les différents
+dommages résultant pour le demandeur de l'accident ne sont pas inférieurs à un montant
+total de 100'000 fr. » (Tappy, Les décisions par défaut,
+in
+Procédure civile suisse, Les grands thèmes pour les praticiens, Neuchâtel 2010, n. 30,
+p. 418) (sur le tout : CACI 18 novembre 2014/595 consid. 3b ; CACI
+26
+novembre 2015/639 consid. 3.1). Ainsi, hormis le cas où le juge a des doutes sérieux sur la
+véracité d’un allégué demeuré non contesté (art. 153 al. 2 CPC),
+la vérité judiciaire supplantera la vérité matérielle : en général,
+le défendeur défaillant succombera, à moins que la demande soit irrecevable ou juridiquement
+mal fondée. Dès lors, le plaideur inexpérimenté doit pouvoir se rendre compte que
+s’il renonce à répondre, les allégués du demandeur seront considérés
+comme établis et qu’une décision pourra être immédiatement rendue sur la base
+de la seule version des faits donnée par celui-ci, laquelle ne sera en général pas remise
+en question (CREC 19 mai 2021/148 consid. 3.2 et les références citées, JdT 2021 III 150).
+La décision rendue selon l’art. 223 al. 2 CPC est une décision finale tranchant définitivement,
+sous réserve de recours ou de restitution, le fond du litige. Elle ne saurait donc être confiée
+à un juge délégué au sens de l’art. 124 al. 2 CPC, sauf disposition expresse
+d’une loi d’organisation judiciaire cantonale prévoyant qu’en ce cas, l’autorité
+compétente au fond appartient à un juge unique, même dans une cause qui relèverait
+d’une juridiction collective si elle était tranchée en contradictoire (Tappy, op. cit.,
+n. 12 ad art. 223 CPC). Cela ne signifie pas cependant que cette autorité, collective ou non, doit
+tenir audience. L’art. 223 al. 2 CPC envisage en effet une décision prise à huis clos,
+voire par voie de circulation (Tappy, op. cit., n. 13 ad art. 223 CPC). Cette disposition n’exige
+enfin aucune requête de l’autre partie et peut être appliquée d’office, même
+si rien n’empêche le demandeur de solliciter qu’il soit fait application de cette disposition
+à l’échéance du délai supplémentaire de l’art. 223 al. 1 CPC (Tappy,
+op. cit., n. 14 ad art. 223 CPC).
+b)
+En l’espèce, la défenderesse n’a pas procédé dans le délai qui lui
+a été imparti puis prolongé pour déposer une réponse, conformément à
+l’art. 223 al. 1 CPC.
+La cause n'est pas soumise à la maxime d'office, et il n'y a aucun motif sérieux de douter
+de la véracité des faits non contestés. La cour de céans est ainsi en mesure de rendre
+en l’état une décision finale, à huis clos et par voie de circulation.
+IV.
+a)
+L
+a
+marque est un signe propre à distinguer les produits ou les services d'une entreprise de ceux d'autres
+entreprises (art. 1 al. 1 LPM). Son but est d'individualiser les marchandises et de les distinguer
+d'autres marchandises, pour permettre au consommateur de retrouver un produit qu'ils ont apprécié
+dans la masse des produits offerts (ATF 122 III 382, JdT 1997 I 231 consid. 1 et réf. cit.;
+Cherpillod, Le droit suisse des marques, CEDIDAC n°73, p. 60). Les mots, les lettres, les chiffres,
+les représentations graphiques, les formes en trois dimensions, seuls ou combinés entre eux
+ou avec des couleurs, peuvent en particulier constituer des marques (art. 1 al. 2 LPM).
+Le droit à la marque confère au titulaire le droit exclusif de faire usage de la marque pour
+distinguer les produits ou les services enregistrés et d'en disposer. En vertu de l’art. 13
+al. 2 LPM, le titulaire peut interdire à des tiers l'usage des signes dont la protection est
+exclue en vertu de l'art. 3 al. 1 LPM, soit en particulier d'apposer le signe concerné sur des produits
+ou des emballages (let. a), de l'utiliser pour offrir des produits, les mettre dans le commerce
+ou les détenir à cette fin (let. b), de l'utiliser pour offrir ou fournir des services
+(let. c), de l'utiliser pour importer, exporter ou faire transiter des produits (let. d), ou
+de l'apposer sur des papiers d'affaires, de l'utiliser à des fins publicitaires ou d'en faire usage
+de quelqu'autre manière dans les affaires (let. e).
+Quant à l’art. 15 al. 1 LPM, il permet au titulaire d’une marque de haute renommée
+d'interdire à des tiers l’usage de cette marque pour tous les produits ou les services pour
+autant qu’un tel usage menace le caractère distinctif de la marque, exploite sa réputation
+ou lui porte atteinte. Pour qu’une marque puisse prétendre au statut particulier de marque
+de haute renommée, ce qui compte est le taux élevé de reconnaissance dont elle bénéficie
+dans le public en général, soit également en dehors du cercle des acheteurs des produits
+ou services du genre en question. Conformément au principe de la territorialité, c’est
+l’impression du public suisse qui est déterminante et la haute renommée dont bénéficie
+la marque doit se vérifier sur l’ensemble du territoire de la Confédération, soit
+dans les trois principales régions linguistiques. Pour qu’une marque puisse être considérée
+comme de haute renommée et jouir du champ de protection étendu que lui confère l’art.
+15 al. 1 LPM, dont l’objectif n’est pas de lutter contre un éventuel risque de confusion
+au sens de l’art. 3 LPM, mais contre l’exploitation de l’image de la marque pour en
+permettre le transfert sur d’autres catégories de produits ou de services, il importe que
+l’image que le public se fait de cette marque soit positive. Le renom ainsi acquis par la marque
+a pour conséquence qu’elle possède une force de pénétration publicitaire utilisable
+non seulement pour commercialiser les produits et fournir les services auxquels elle était destinée
+à l’origine, mais encore pour faciliter sensiblement la vente d’autres produits ou la
+fourniture d’autres services. Pour qu’un signe quelconque enregistré comme marque soit
+considéré comme de haute renommée, il convient enfin qu’il bénéficie d’un
+caractère relativement unique, d’une position relativement exclusive qui seule justifie la
+protection élargie contre la dilution dont bénéficie la marque de haute renommée.
+Cela se vérifie au regard de l’ensemble des circonstances de chaque cas d’espèce.
+La question de savoir si ces critères sont réunis relève du fait et c’est donc au
+titulaire de la marque qu’il revient d’alléguer et prouver les circonstances particulières
+permettant à l’autorité saisie de conclure à la haute renommée de la marque,
+sauf si cette haute renommée est un fait notoire qu’il n’y a pas besoin de prouver (Tissot/Kraus/Salvadé,
+op. cit., nn. 431 ss et les références citées).
+b)
+En cas de conflit entre deux signes, c'est le plus ancien qui prévaut, le principe de la priorité
+de dépôt étant appliqué dans le droit suisse en vigueur (art. 6 en relation avec
+l'art. 3 al. 2 let. a LPM). L'art. 3 al. 2 let. b LPM prévoit une exception en ce sens qu'un signe
+non enregistré est également considéré comme une marque antérieure s'il est
+notoirement connu en Suisse au moment du dépôt d'un signe identique ou susceptible d'être
+confondu au sens de l'art. 6bis de la Convention de Paris pour la protection de la propriété
+industrielle (ci-après la Convention de Paris). L'art. 6bis de la Convention de Paris impose aux
+États de l'Union, entre autres, l'obligation d'interdire l'usage de marques de fabrique ou de commerce
+susceptibles d'être confondues avec une marque antérieure non enregistrée dans leur registre,
+dont il est notoirement établi qu'elle appartient à un ressortissant d'un (autre) État
+de l'Union et qu'elle est utilisée pour des produits identiques ou similaires. Cette disposition
+a pour but de lutter contre le piratage des marques, d'empêcher que des signes étrangers soient
+enregistrés ou utilisés dans un Etat contractant où ils sont devenus notoirement connus,
+dans la mesure où il en résulte un risque de confusion. Ni les actes législatifs internationaux
+ni les actes législatifs nationaux ne contiennent de définition légale de la marque notoire.
+Selon les recommandations d'interprétation de l'OMPI, la notoriété d'une marque s'apprécie
+en fonction des circonstances du cas d'espèce, les critères suivants étant notamment déterminants
+: le degré de connaissance de la marque dans le public concerné, la durée, l'étendue
+et la portée géographique de l'usage de la marque et de sa promotion, la durée et la portée
+géographique des enregistrements de marques effectués ou demandés, la protection antérieure
+du droit de marque, notamment par la reconnaissance de la notoriété par les instances compétentes
+de certains Etats contractants, ainsi que la valeur attachée à la marque. Les consommateurs,
+les canaux de distribution ainsi que les commerçants sont cités à titre d'exemple en tant
+que public déterminant, étant précisé que pour que la marque soit notoire, il suffit
+qu'elle soit généralement connue de l'un des publics concernés. Le Tribunal fédéral
+a reconnu que la notoriété d'une marque ne présuppose pas son utilisation en Suisse et
+qu'elle s'apprécie uniquement en fonction du degré de notoriété dans les milieux
+commerciaux concernés. Par ailleurs, il n'a toutefois pas encore défini plus précisément
+les exigences relatives au degré de notoriété (ATF 120 II 144 consid. 4b p. 153, "Yeni
+Raki"). Il a tout de même indiqué que la notion devait être interprétée
+de manière restrictive en tant qu'exception au principe de l'enregistrement (TF 4P.291/2000 du 19
+février 2001, publié
+in
+sic ! 4/2001 p. 317 ss, 319, "Central Perk") (ATF 130 III 267).
+c)
+En vertu de l’art. 53 al. 1 LPM, au lieu de faire constater la nullité de l’enregistrement,
+le demandeur peut intenter une action en cession du droit à la marque que le défendeur a usurpée.
+L’action en cession joue un rôle de rétablissement
+de
+la réalité en cas d’enregistrement frauduleux d’une marque dont l’usurpateur
+savait qu’elle était ou allait être utilisée par son titulaire légitime. Le
+défendeur usurpe la marque du demandeur s’il connaissait ou aurait dû connaître
+la marque de celui-ci. Les motivations du défendeur, ainsi qu’une éventuelle faute de
+sa part, sont sans pertinence, et il n’est pas indispensable qu’il y ait eu enregistrement
+frauduleux. Enfin, la marque usurpée ne doit pas nécessairement être identique à
+celle du titulaire : il suffit qu’elle crée un risque de confusion avec cette dernière
+et s’expose de ce fait à être déclarée nulle (
+Tissot/Kraus/Salvadé,
+nn. 1162 ss).
+Si elle est accueillie, l’action en cession s’accompagne, comme l’action en nullité,
+d’une modification du registre, mais au lieu de la radiation de la marque litigieuse, il s’agira
+de l’inscription du demandeur comme titulaire de la marque à la place du défendeur (
+Tissot/Kraus/Salvadé,
+nn. 1162 ss). L’action se périme par deux ans à compter de la publication de l’enregistrement
+(art. 53 al. 2 LPM).
+d)
+En l’espèce, la demanderesse, société de droit [...] dont le siège se trouve
+aux [...], est titulaire de la marque « [...] » aux [...] depuis le 21 décembre
+1999 (en classification Nice 9 « Logiciel et matériel informatique ») et de
+la marque internationale « [...] » enregistrée depuis le
+20
+juin 2011 (en classification Nice 9). Elle est également titulaire de la marque dans l’Union
+européenne, au Royaume-Uni, en Chine et au Japon.
+Sous cette marque qu’elle exploite à travers le monde depuis plus de vingt ans, la demanderesse
+déploie une activité qui vise principalement le développement et la distribution du logiciel
+[...], ainsi que l’organisation de conférences appelées
+[...]
+et sponsorisées par des partenaires internationaux qui réunissent les communautés [...]
+nationales actives dans chaque pays du monde, notamment la Suisse, la France, l’Allemagne, l’Italie,
+le Royaume-Uni, la Pologne, l’Autriche, l’Espagne, la Norvège, la Belgique, les Etats-Unis,
+l’Asie du Sud-Est, l’Afrique et l’Amérique latine. Le logiciel est utilisé
+par de nombreuses entreprises en Suisse et dans l’Union européenne, de même que par de
+nombreuses institutions de recherche, actives dans des domaines variés, ou encore par des entités
+publiques telles que des gouvernements ou des militaires. Il est cité par de nombreux utilisateurs
+de par le monde, notamment dans des articles de presse suisse et étrangère.
+Or, le 14 mai 2022, la défenderesse a déposé la marque verbale « [...] »
+en Suisse auprès de l’IPI. La marque y est enregistrée sous no [...] depuis le 8 juin
+2022 en classification Nice 9 pour des « logiciels et matériel informatique ».
+Elle est en tous points identique (orthographe, classification, produits concernés) à la marque
+internationale « [...] » dont la demanderesse est titulaire et qu’elle ne peut
+dès lors utiliser en Suisse alors que ses produits y sont distribués depuis de nombreuses années
+comme ailleurs dans le monde.
+L’enregistrement effectué par la défenderesse en Suisse porte ainsi atteinte aux droits
+antérieurs de la demanderesse fondés sur la marque internationale « [...] »
+qui est notoire dans le domaine informatique au niveau mondial au sens de l'art. 6bis de la Convention
+de Paris. En procédant de la sorte, la défenderesse, qui connaissait l’existence de la
+marque litigieuse ainsi que sa notoriété et qui savait que la demanderesse en était titulaire,
+puisque son administrateur unique était un développeur [...] et un ancien membre de la communauté
+du même nom, a usurpé dite marque et créé la confusion dans l’esprit du public.
+Il apparaît donc que les conditions de l’action en cession du droit de la marque au sens de
+l’art. 53 LPM sont réalisées puisque la demanderesse, qui est titulaire de la marque
+internationale notoire « [...] », a un intérêt à la cession de dite
+marque par la défenderesse, qui est titulaire de la marque usurpée enregistrée au registre
+suisse des marques, et qu’elle a ouvert action dans le délai de deux ans dès la publication
+de l’enregistrement le 8 juin 2022.
+Ainsi, il convient de faire droit aux conclusions 2 et 3 de la demanderesse, soit de condamner la défenderesse
+à céder à cette dernière le droit de la marque individuelle suisse « [...] »
+no [...] enregistrée auprès de l’IPI, et d’ordonner à celui-ci de modifier
+le titulaire de dite marque au registre des marques en faveur de la demanderesse.
+V.
+a)
+En vertu de l’art. 60 LPM, s
+ur
+requête de la partie qui obtient gain de cause, le juge peut ordonner la publication du jugement
+aux frais de l’autre partie. Il détermine le mode et l’étendue de la publication.
+Cette mesure
+a un caractère réparateur
+et sert à parer les effets dommageables de l'acte illicite. De plus, elle contribue à prévenir
+le risque de la continuation de l'atteinte auprès de la clientèle du lésé, à
+dissiper les troubles que l'auteur a provoqués dans les cercles intéressés. Elle a pour
+but de neutraliser les effets de la perturbation du marché et de conserver ou de reconstituer la
+clientèle du lésé. Celui qui requiert la publication doit faire état d'un intérêt
+digne de protection. La confusion semée dans le public doit être durable, l'intérêt
+à la publication doit exister au moment du jugement. La publication ne doit en revanche pas servir
+à exprimer une désapprobation, ni à assouvir un désir de vengeance, mais elle doit
+permettre au lésé de rétablir une position de concurrence injustement entamée. Un
+intérêt public à la rectification est reconnu lorsqu'il s'agit de supprimer un état
+d'incertitude durable dans le public (TF 4C.139/2003 du 4 septembre 2003 et les références
+citées).
+Le
+tribunal dispose à cet égard d'une certaine marge d'appréciation. Il met en balance les
+intérêts en présence et respecte le principe de la proportionnalité. Lorsque le cercle
+des personnes que la demanderesse a intérêt à informer de l'issue du litige est limité
+(membres d'une association par exemple), la publication du jugement ne s'impose pas, car on peut raisonnablement
+exiger de la demanderesse qu'elle s'adresse directement aux personnes concernées. En revanche, la
+publication est justifiée, en particulier, lorsque la violation du droit à la marque est survenue
+dans les médias ou lorsque le comportement du défendeur a été relaté dans la
+presse
+(SJ 2004 II 1).
+b)
+En l’espèce, la demanderesse a conclu à ce que le jugement soit publié aux frais
+de la défenderesse dans une revue spécialisée, ou à tout le moins sur le site internet
+de la défenderesse.
+La demanderesse n’a pas précisé dans quelle revue spécialisée elle demandait
+la publication du jugement. En revanche, il ressort des pièces au dossier que l’administrateur
+de la défenderesse, [...], a régulièrement utilisé son site internet pour diffuser
+des publications relatives à la marque litigieuse et notamment pour inciter tout un chacun à
+faire inscrire des noms de domaine comportant le terme « [...] » et à l’employer
+dans leurs activités. Il existe donc un intérêt légitime pour la demanderesse à
+ce que le jugement soit également publié sur le site internet de la défenderesse afin
+de dissiper les doutes du public sur la confusion créée par la défenderesse dans l’utilisation
+de la marque litigieuse et de dissuader ses lecteurs de procéder aux démarches indiquées
+par [...]. Dans cette mesure, la conclusion 4 de la demande doit être admise.
+VI.
+Les frais judiciaires et les dépens (art. 95 al. 1 CPC) sont mis à la charge de la défenderesse,
+qui succombe (art. 106 al. 1 CPC).
+Le montant des frais judiciaires et des dépens
+découle de la valeur litigieuse
+.
+Lorsque l'action ne porte pas sur le paiement d'une somme d'argent déterminée, le tribunal
+détermine la valeur litigieuse si les parties n'arrivent pas à s'entendre sur ce point ou si
+la valeur qu'elles avancent est manifestement erronée (art. 91 al. 2 CPC). La fixation de la valeur
+litigieuse dans les affaires ayant trait à l’existence ou à la violation de droits immatériels
+est difficile. Le Tribunal fédéral a admis que l’on applique à cet égard des
+valeurs seuils, fondées sur l’expérience (ATF 139 III 490 consid. 3.3 et réf. cit.,
+JdT 2008 I 393). Ainsi, la valeur litigieuse est de 50’000 fr. à 100’000 fr. lorsqu’il
+s’agit de signes plutôt faibles ("
+eher
+unbedeutende Zeichen
+"), de
+500'000 fr. à 1'000'000 fr. lorsque des montants importants sont en jeu (chiffre
+d’affaires, publicité, etc.), et supérieure à 1'000'000 fr. en présence
+de marques très connues, voire célèbres (pour le tout : TF 4A_727/2016 du 29 mai
+2017 consid. 2.3.2 avec réf. cit.).
+Dans le cas d’espèce, une valeur litigieuse de 200'000 fr.  sera retenue.
+Dès
+lors, l’émolument forfaitaire de décision (art. 95 al. 2 let. b CPC), mis à
+la charge de la défenderesse (art. 106 al. 1 CPC), réduit
+des
+deux tiers
+puisque
+le
+procès prend fin par une décision au sens de l’art. 223 al. 2 CPC, sera arrêté
+à 3'167 fr. (art. 18 et 22 al. 4 TFJC).
+En
+vertu de l’art. 111 CPC, ce montant sera compensé avec l’avance fournie par la
+demanderesse (al. 1), et restitué à celle-ci par la défenderesse (cf. al. 2).
+La demanderesse a par ailleurs droit à de pleins dépens (art. 95 al. 3 CPC), à la charge
+de la défenderesse, qui seront fixés à 8'400 fr., au vu des moyens et fondements
+soulevés dans la présente procédure (art. 4 et 19 al. 2 TDC [tarif
+des dépens en matière civile du 23 novembre 2010 ; BLV 270.11.6]), débours compris.
+En définitive, la défenderesse sera condamnée à verser à la demanderesse la
+somme de 11’567 fr. à titre de dépens (8'400 fr.) et de restitution d’avance
+de frais (3’167 fr.).
+VII.
+Le présent jugement, rendu par une instance cantonale unique au sens de l'art. 5 CPC, est motivé
+d'office (Kriech, ZPO-Kommentar, 2
+e
+éd., n. 7 ad art. 239 CPC; Steck/Brunner, Basler Kommentar, 3
+e
+éd., n. 10 ad art. 239 CPC).
+*
+* * * *
+Par
+ces motifs,
+la
+Cour civile,
+statuant
+à huis clos
+prononce
+:
+I.
+C.________ est condamnée à céder
+le droit de la marque individuelle suisse « [...] » no [...], enregistrée le
+8 juin 2022 auprès de l’Institut
+fédéral de la Propriété intellectuelle, à J.________.
+II.
+Ordre est donné à l’Institut fédéral
+de la Propriété intellectuelle de modifier le titulaire de la marque individuelle suisse « [...] »
+no [...] au Registre des marques suisses
+en faveur de J.________.
+III.
+C.________ est condamné à publier le
+jugement sur son site internet.
+IV.
+Les frais de justice, arrêtés à
+3’167 fr. (trois mille cent soixante-sept francs), sont mis à la charge de C.________.
+V.
+C.________ versera à J.________ le montant
+de 11’567 fr. (onze mille cinq cent soixante-sept francs) à titre de restitution d'avance
+de frais, ainsi que de pleins dépens.
+La
+présidente :              La greffière
+:
+C.
+Kühnlein              M. Bron
+Du
+Le jugement qui précède, lu et approuvé à huis clos, prend date de ce jour. Il est
+notifié, par l'envoi de photocopies, au conseil de la demanderesse et à la défenderesse
+personnellement, ainsi qu’à l’Institut fédéral de la Propriété intellectuelle.
+Le présent jugement peut faire l'objet d'un recours en matière civile devant le Tribunal fédéral
+au sens des art. 72 ss LTF et 90 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral - RS 173.110),
+cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF. Ces recours
+doivent être déposés devant le Tribunal fédéral dans les trente jours qui suivent
+la présente notification (art. 100
+al.
+1 LTF).
+La greffière :
+M. Bron
