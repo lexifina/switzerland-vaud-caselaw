@@ -1,0 +1,181 @@
+---
+decision_id: "vd_findinfo_Faillite___2023___27"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2023 / 27"
+decided: "2023-11-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9612452"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-056.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2023 / 27
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, RESTITUTION DU DÉLAI, ACTE DE RECOURS, MOTIVATION DE LA DEMANDE, SUSPENSION DE LA PROCÉDURE | 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2023 / 27
+
+OUVERTURE DE LA FAILLITE, RESTITUTION DU DÉLAI, ACTE DE RECOURS, MOTIVATION DE LA DEMANDE, SUSPENSION DE LA PROCÉDURE | 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF23.028244-231429
+240
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+29 novembre 2023
+__________________
+Composition
+:              M.
+Hack
+,
+président
+Mmes
+Byrde et Giroud Walther, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+321 al. 1 CPC
+Vu le jugement rendu le 15 août 2023, à la suite de l’audience du même jour, par
+lequel le Président du Tribunal d’arrondissement de l’Est vaudois a pronon-cé la
+faillite, par défaut des parties, de
+H.________,
+à Aigle, avec effet au 15 août 2023
+à 16 h 00, à la réquisition d’
+A.________
+,
+à Martigny (I) a mis les frais, par 200 fr., à la charge de la faillie (II) et a dit que celle-ci
+était la débitrice de la requérante de la somme de 200 fr., frais de publication en sus,
+à titre de remboursement des frais fixés au chiffre II (III),
+vu la demande de restitution de délai déposée le 31 août 2023 par H.________,
+vu la décision du Président du Tribunal d’arrondissement de l’Est vaudois du 1
+er
+septembre 2023, prononçant l’effet suspensif en ce sens que les effets de la procédure
+de faillite étaient suspendus jusqu'à droit connu sur la demande de restitution de délai,
+vu la décision rendue le 13 octobre 2023 par laquelle le Président du Tribunal d’arrondissement
+de l’Est vaudois a déclaré irrecevable – pour défaut de paiement de l’avance
+de frais – la requête de restitution de délai du 31 août 2023 (I), a constaté
+que la faillite de H.________ avait été prononcée le 15 août 2023, a dit que la faillite
+prenait effet le 12 octobre 2023 à 16 h 00 (II) et a mis les frais de la décision, arrêtés
+à 200 fr., à la charge de la requérante (III),
+vu l’acte de recours – intitulé « Recours contre la décision du 13/10/23
+et l’effet suspensif à la faillite » – déposé le 24 octobre 2023
+par H.________, qui demande à l’autorité de céans de « maintenir la suspension »
+de la cause et explique qu’elle « ne voudrai[t] pas que cette faillite soit notifiée
+sur [son] extrait des poursuites et encore moins résilier [son] entreprise auprès du Registre
+du commerce », sinon « tout ce qu’[elle] aura entrepris pour [se] redresser
+sera anéanti » ;
+attendu que la voie du recours des art. 319 ss CPC (Code de procédure civile ; RS 272) est ouverte
+contre la décision déclarant irrecevable ou rejetant la requête de restitution de délai
+(CPF 30 décembre 2020/354 ; CPF 5 mars 2018/26),
+qu’il n’y a en revanche pas de recours contre une décision confirmant une faillite (CPF
+5 mars 2018/26 et les arrêts cités) ;
+attendu que
+le recours doit être
+introduit dans les dix jours à compter de la notification de la décision motivée (art.
+321 al. 2 CPC),
+qu’il doit en outre être motivé
+(art.
+321 al. 1 CPC),
+que si la motivation du
+recours fait défaut, l’instance de recours n’entre pas en matière,
+que, selon la jurisprudence
+du Tribunal fédéral, la motivation du recours doit à tout le moins satisfaire
+aux exigences qui sont posées pour un acte d’appel (ATF 147 III 176 consid. 4.2.1 ; TF
+5D_43/2019 du 24 mai 2019 consid. 3.2.2.1 ; TF 5A_387/2016 du 7 septembre 2016 consid. 3.1 ; TF 5A_488/2015
+du 21 août 2015 consid. 3.2.1, publié in RSPC 6/2015 pp. 512 s., et les arrêts
+cités),
+que cela signifie que
+le recourant doit démontrer le caractère erroné de la motivation de la décision
+attaquée et que son argumentation doit être suffisam-ment explicite pour que l’instance
+de recours puisse la comprendre, ce qui suppose une désignation précise des passages de la
+décision qu’il attaque et des pièces du dossier sur lesquelles il fonde sa critique (ATF
+147 III 176 précité),
+que ni l’art. 132
+al. 1 et 2 ni l’art. 56 CPC ne sont applicables en cas d’absence de motivation d’un
+acte de recours (TF 5D_43/2019 précité ; TF 5A_387/ 2016 précité ;
+RSPC 6/2015 pp. 512 s. précité, et les arrêts cités) ;
+attendu qu’en l’espèce, l’acte de recours du 24 octobre 2023 est intitulé
+« Recours contre la décision du 13/10/23 et l’effet suspensif à la faillite »,
+qu’en tant qu’il vise la décision du 13 octobre 2023 – dont l’unique objet
+est la requête de restitution de délai déposée par H.________ le 31 août 2023,
+requête déclarée irrecevable pour défaut de paiement de l’avance de frais de
+la procédure – le recours a été déposé en temps utile, mais ne contient
+aucun moyen dirigé contre les motifs retenus dans la décision, la recourante ne faisant pas
+la moindre allusion à la requête de restitution de délai qu’elle avait déposée
+ni à la question de l’avance de frais qui lui avait été demandée,
+qu’ainsi, dans la mesure où il est dirigé contre la décision du 13 octobre 2023,
+le recours est irrecevable pour défaut de motivation topique,
+qu’à considérer que le recours vise le prononcé de la faillite – ce qui semble
+être le cas, dès lors que la recourante souhaite en réalité obtenir « l’effet
+sus-pensif » pour la faillite elle-même – l’acte est irrecevable pour tardiveté,
+qu’en effet, la décision du 13 octobre 2023 ne constitue pas un nou-veau jugement de faillite
+contre lequel la voie du recours de l’art. 174 al. 1 LP (loi fédérale sur la poursuite
+pour dettes et la faillite ; RS 281.1) serait ouverte,
+que la faillite prononcée le 15 août 2023 n’a à aucun moment été annu-lée,
+la décision du 1
+er
+septembre 2023 ayant seulement suspendu ses effets,
+que dans ces circonstances, le recours déposé le 24 octobre 2023, plus de deux mois après
+le prononcé de la faillite alors que le délai de recours était de dix jours (art. 174
+al. 1 LP), est très largement tardif,
+que de toute manière, même si le recours contre le prononcé de la faillite était
+recevable, il devrait être rejeté dans la mesure où la recourante ne fait valoir aucun
+moyen susceptible de permettre l’annulation de la faillite, à savoir la réa-lisation
+des conditions posées par l’art. 174 al. 2 LP (
+paiement
+de la dette à l’origine de la faillite
+et vraisemblance de la
+solvabilité
+de la faillie),
+qu’en définitive, le recours ne peut qu’être déclaré irrecevable ;
+attendu que le présent arrêt peur être rendu sans frais judiciaires (art. 11 TFJC [tarif
+des frais judiciaires civils ; BLV 270.11.5]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+La décision qui précède prend date de ce jour. Des copies en sont remises pour notification
+aux parties :
+-
+Mme H.________,
+-
+A.________.
+La présente décision peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cette décision est communiquée, par l'envoi de photocopies, à :
+-
+M. le Préposé à l’Office des faillites de l’arrondissement de l’Est
+vaudois,
+-
+M. le Préposé à l’Office des poursuites du district d’Aigle,
+-
+M. le Préposé au Registre du commerce du canton de Vaud,
+et, en original, à :
+-
+M. le Président du Tribunal d’arrondissement de l’Est vaudois.
+La greffière :
