@@ -1,0 +1,194 @@
+---
+decision_id: "vd_findinfo_Faillite___2023___28"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2023 / 28"
+decided: "2023-12-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9622765"
+cites_law: ["switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-056.md", "switzerland/bund/acts/272/art-132.md", "switzerland/bund/acts/272/art-138.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-031.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2023 / 28
+
+## Regeste
+
+DÉLAI DE RECOURS, DOUTE, FICTION DE LA NOTIFICATION, MOTIVATION DE LA DEMANDE | 174 al. 1 LP, 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2023 / 28
+
+DÉLAI DE RECOURS, DOUTE, FICTION DE LA NOTIFICATION, MOTIVATION DE LA DEMANDE | 174 al. 1 LP, 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF23.032935-231407
+247
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+6 décembre 2023
+__________________
+Composition
+:              M.
+Hack
+,
+président
+Mmes
+Byrde et Cherpillod, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+174 al. 1 LP ; 321 al. 1 CPC
+Vu la requête de
+faillite déposée le 31 juillet 2023 auprès du Tribunal d’arrondissement de l’Est
+vaudois par
+D.________
+contre
+G.________
+(poursuite n° 10'510'153 de l’Office des poursuites du district d’Aigle),
+vu le courrier recommandé du 3 août 2023 par lequel le requérant a été invité,
+en application de l’art. 56 CPC (Code de procédure civile du 19 décembre 2008, RS 272),
+à compléter son acte, qui était manifestement incomplet, en produi-sant le commandement
+de payer et la commination de faillite dans un délai au
+24
+août 2023, à défaut de quoi son acte ne serait pas pris en considération (art. 132
+CPC),
+vu l’avis recommandé du 29 août
+2023 par lequel un nouveau délai au 11 septembre 2023 a été imparti à D.________
+pour produire le comman-dement de payer et la commination de faillite dans la poursuite n° 10'510'153
+préci-tée, à défaut de quoi son acte serait écarté préjudiciellement,
+vu la décision rendue le 21 septembre 2023
+par laquelle le Président du Tribunal d’arrondissement de l’Est vaudois a constaté
+que D.________ n’avait pas produit les pièces requises dans le délai imparti, a par conséquent
+écarté préjudiciellement son acte du 31 juillet 2023, a rayé la cause du rôle,
+sans frais, et a restitué ses documents au requérant,
+vu l’acte de recours daté du 7 octobre
+2023, reçu au greffe du tribunal d’arrondissement le 17 octobre 2023, déposé par
+D.________, de la teneur suivante :
+«
+Mr le président du tribunal
+Le non respect du délai imparti a dû influencer votre réponse négative du 21.09.2023
+de               rayer la cause du rôle.
+Je vous prie de bien vouloir m’excuser et revoir le dossier ci-haut mentionné. J’ai
+dû               manquer au retrait
+de votre courrier recommandé à la suite de mon absence, j’étais en
+dehors du pays. Il n’a pas été de ce fait possible de retirer votre courrier recommandé,
+je               vous présente
+mes excuses.
+Ce courrier doit être considéré comme un recours contre votre décision du 21.09.2023
+mais aussi comme un rappel
+du non respect de la décision du 05.11.2018, la séance de
+reconciliation de conflit de salaires non versés par G.________ vu que, j’ai accompli mon
+devoir de travailler,
+de réaliser les tâches confiées de travail, tandis que Mr G.________
+n’a pas daigné verser les salaires durant plusieurs mois.
+(…)
+C’est pourquoi je vous prie, à votre tour, de verser le salaire en conflit sur mon compte
+à               la BCV.
+(…) ;
+attendu que selon l’art. 174 al. 1 LP (loi fédérale sur la poursuite pour dettes et
+la faillite ; RS 281.1), la décision du juge de la faillite peut faire l’objet d’un
+recours au sens du CPC, dans les dix jours à compter de la notification de la décision motivée
+(art. 321 al. 2 CPC),
+que le principe
+selon lequel
+est réputé observé un délai si le mémoire a été adressé à
+l'autorité précédente, qui vaut pour les recours au Tribunal fédéral (art. 48
+al. 3 LTF [loi du 17 juin 2005 sur le Tribunal fédéral ; RS 173.110]), doit être également
+appliqué dans la procédure de recours régie par le CPC (Tappy, Les voies de droit du nouveau
+Code de procédure civile, in JT 2010 III 115, spéc. p. 131),
+qu'en l'espèce, selon
+les informations d’acheminement de la Poste figu-rant au dossier, le pli ayant contenu la décision
+du 21 septembre 2023 n’a pas pu être distribué à son destinataire et a été
+retourné au greffe du tribunal d’arrondisse-ment le 30 septembre 2023, lendemain de l’échéance
+du délai de garde postale de sept jours,
+que le recourant
+est toutefois
+réputé avoir reçu ladite décision le
+29
+septembre 2023, dernier jour du délai de garde postale,
+que la fiction de la notification lui était en effet opposable dès lors qu’il était
+au courant de la procédure, qu’il avait lui-même initiée, et devait s’attendre
+à recevoir du courrier de l’autorité saisie (art. 138 al. 3 let. a CPC, applicable
+par renvoi de l’art. 31 LP),
+que le délai de recours, qui a commencé à courir le 30 septembre 2023, est ainsi arrivé
+à échéance le 9 octobre 2023,
+que l’acte de recours – daté du 7 octobre 2023 et parvenu au greffe du tribunal d’arrondissement
+le 17 octobre 2023 – a été adressé sous pli simple,
+que le sceau postal figurant sur l’enveloppe l’ayant contenu étant illisible, la date
+du dépôt du recours ne peut pas être déterminée avec certitude,
+que la question du respect du délai de l’art. 321 al. 2 CPC peut toutefois rester indécise,
+le recours étant de toute manière irrecevable pour un autre motif ;
+attendu qu’aux termes
+de l’art. 321 al. 1 CPC, le recours doit être motivé,
+que si la motivation fait défaut, l’instance de recours n’entre pas en matière,
+que, selon la jurisprudence
+du Tribunal fédéral, la motivation du recours doit à tout le moins satisfaire
+aux exigences qui sont posées pour un acte d’appel (ATF 147 III 176 consid. 4.2.1 ; TF
+5D_43/2019 du 24 mai 2019 consid. 3.2.2.1 ; TF 5A_387/2016 du 7 septembre 2016 consid. 3.1 ; TF 5A_488/2015
+du 21 août 2015 consid. 3.2.1, publié in RSPC 6/2015 pp. 512 s., et les arrêts
+cités),
+que cela signifie que
+le recourant doit démontrer le caractère erroné de la motivation de la décision
+attaquée et que son argumentation doit être suffisam-ment explicite pour que l’instance
+de recours puisse la comprendre, ce qui suppose une désignation précise des passages de la
+décision qu’il attaque et des pièces du dossier sur lesquelles il fonde sa critique (ATF
+147 III 176 précité),
+que ni l’art. 132
+al. 1 et 2 ni l’art. 56 CPC ne sont applicables en cas d’absence de motivation d’un
+acte de recours (TF 5D_43/2019 précité ; TF 5A_387/ 2016 précité ;
+RSPC 6/2015 pp. 512 s. précité, et les arrêts cités),
+qu'en l'espèce,
+D.________
+déclare que son acte de recours est dirigé contre la décision du 21 septembre 2023,
+que l’intéressé ne formule toutefois aucun grief contre cette décision, qui n’a
+d’autre objet que la constatation du fait qu’il n’avait pas déposé à
+temps les documents nécessaires permettant d’entrer en matière sur sa requête de
+faillite du 31 juillet 2023, qui a donc été écartée préjudiciellement,
+que le recourant ne fait
+en particulier pas valoir qu’il aurait produit les documents qui lui ont été demandés,
+qu’au contraire, il admet lui-même n’avoir pas procédé dans le délai
+imparti,
+que les seuls arguments présentés par le recourant, qui concernent un conflit de travail qui
+l’opposerait à G.________, sont ici sans pertinence,
+que le recours ne contient ainsi pas de motivation topique, conforme aux exigences de forme posées
+par la loi et la jurisprudence précitée,
+qu’il doit dès lors être déclaré irrecevable,
+que cela n’exclut pas que le recourant puisse procéder à nouveau devant la première
+instance ;
+attendu que le présent arrêt peut être rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. D.________.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+M. la Président du Tribunal d'arrondissement de l’Est vaudois.
+La greffière :
