@@ -1,0 +1,1109 @@
+---
+decision_id: "vd_findinfo_D_cision___2024___29"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2024 / 29"
+decided: "2023-12-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9789043"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-014.md", "switzerland/bund/acts/311.0/art-022.md", "switzerland/bund/acts/311.0/art-031.md", "switzerland/bund/acts/311.0/art-173.md", "switzerland/bund/acts/311.0/art-177.md", "switzerland/bund/acts/311.0/art-179quater.md", "switzerland/bund/acts/311.0/art-181.md", "switzerland/bund/acts/311.0/art-186.md", "switzerland/bund/acts/311.0/art-261.md", "switzerland/bund/acts/311.0/art-261bis.md", "switzerland/bund/acts/311.0/art-303.md", "switzerland/bund/acts/312.0/art-002.md", "switzerland/bund/acts/312.0/art-008.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-389.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# VD Findinfo Décision / 2024 / 29
+
+## Regeste
+
+DIFFAMATION, INFRACTIONS CONTRE LE DOMAINE SECRET, DISCOURS DE HAINE, ORDONNANCE DE NON-ENTRÉE EN MATIÈRE, MENACE{DROIT PÉNAL}, CONTRAINTE{DROIT PÉNAL} | 173 CP, 179quater CP, 180 CP, 181 CP, 261 CP, 261bis CP, 303 CP, 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale Décision / 2024 / 29
+
+DIFFAMATION, INFRACTIONS CONTRE LE DOMAINE SECRET, DISCOURS DE HAINE, ORDONNANCE DE NON-ENTRÉE EN MATIÈRE, MENACE{DROIT PÉNAL}, CONTRAINTE{DROIT PÉNAL} | 173 CP, 179quater CP, 180 CP, 181 CP, 261 CP, 261bis CP, 303 CP, 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+981
+PE22.005983-MMR
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+6 décembre 2023
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mme
+Fonjallaz et M. Maillard, juges
+Greffière
+:
+Mme              Fritsché
+*****
+Art.
+173, 179quater, 180, 181, 261, 261bis et 303 CP ; 385 et 393 CPP
+Statuant sur le recours interjeté le 13 juillet 2023 par
+P.________
+contre l’ordonnance rendue le 28 juin 2023 par le Ministère public de l’arrondissement
+de Lausanne dans la cause
+n° PE22.005983-MMR
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Préambule
+P.________, A.L.________, B.L.________, G.________,
+C.________ et N.________ vivent tous sur la parcelle sise au chemin de la [...], à Lausanne, dont
+ils sont copropriétaires.
+Un litige, notamment sur le plan civil, les oppose depuis de nombreuses années. Les voisins susmentionnés
+de P.________ sont défendus par Me A.W.________ et Me B.W.________.
+Les 15 septembre 2021, 19 avril 2022 et 20 septembre 2022, B.L.________, A.L.________, C.________, G.________
+et N.________, par l’intermédiaire de leur conseil Me B.W.________, ont déposé plainte
+pénale contre P.________ pour tentative de menaces, tentative de contrainte et contrainte en raison
+des faits suivants. A Lausanne, au [...], les 27 mai 2021, 3 juin 2021, 16 septembre 2021 et 6 octobre
+2021, P.________ aurait empêché son voisin N.________ d’accéder à ses places
+de parc en stationnant son véhicule et ceux de ses visiteurs sur l’aire de stationnement,
+partie commune de la PPE. Par ailleurs, durant les mois d’avril à octobre 2021, elle aurait,
+tous les jours, stationné sous véhicule sur cette aire de stationnement tentant ainsi d’empêcher
+son voisin de stationner son véhicule sur ses places de parc. Le 10 septembre 2021 elle aurait adressé
+un courriel à Me B.W.________ dans lequel elle aurait écrit «
+c’est
+ainsi que finissent les républiques bananières. Tous égaux sous les décombres
+»,
+en y joignant une photographie d’immeubles en ruines, provoqués par un attentat. Enfin, le
+16 septembre 2022, elle aurait empêché N.________ d’accéder à ses places de
+parc en stationnant trois véhicules devant celles-ci.
+Par ordonnance du 14 février 2023, le Ministère public de l’arrondissement de Lausanne
+a ordonné le classement de la procédure pénale dirigée contre P.________ pour tentative
+de menaces, tentative de contrainte et contrainte (I), a statué sur les pièces à conviction
+(II et III), a alloué à P.________ une indemnité de 8'380 fr. 55 au sens de l’art.
+429 al. 1 let. a CPP (IV), et a laissé les frais de procédure à a charge de l’Etat.
+a)
+Le 22 mars 2022, P.________ a déposé plainte contre A.L.________, B.L.________, G.________,
+C.________, N.________, Me A.W.________ et Me B.W.________ pour diffamation, violation du domaine secret
+ou du domaine privé au moyen d’un appareil de prise de vues, atteinte à la liberté
+de croyance et des cultes et discrimination raciale (P. 4).
+Elle faisait valoir dans cette plainte que le 23 décembre 2021, Me A.W.________ et Me B.W.________,
+mandatés par leurs clients A.L.________, B.L.________, G.________, C.________ et N.________, avaient
+déposé une requête de nova devant la Chambre patrimoniale cantonale avec différentes
+pièces à l’appui réunies sous un bordereau, signés par les avocats précités.
+Elle invoquait que les allégués 3003 à 3007 de cette écriture ainsi que les pièces
+320 à 322 produites à leur appui remplissait les conditions de plusieurs infractions. Ces allégués
+ont la teneur suivante (cf. P 4/3):
+«
+Ad
+chapitre II/G/4 «
+Comportement
+fautif de la défenderesse
+»
+de la réponse sur demande reconventionnelle et réplique du 28 octobre 2021 (pages 184 à
+191)
+Allégués
+3003.-
+Le
+10 novembre 2021, après notification d’une décision du juge civil nommant Me A.W.________
+en qualité de représentant de la PPE pour la représenter dans les procédures engagées
+par la défenderesse – décision faisait l’objet d’un appel et d’un recours
+de la défenderesse actuellement pendant – cette dernière écrivait à Me B.W.________
+le courriel suivant :
+«
+Vous
+connaissiez la teneur du jugement de […] avant de le recevoir.
+Vous
+avez des dons de voyance.
+Remerciez
+votre génitrice.
+C’est
+ainsi que finissent les républiques bananières. Tous égaux sous les décombres »
+.
+Pièce
+320
+Allégué
+3004.-
+En
+pièce jointe de ce courriel figure une photographie d’immeubles en ruines, provoquées
+manifestement par un attentat.
+Pièce
+320
+Allégué
+3005.-
+Le
+13 novembre 2021, la défenderesse a écrit à Me B.W.________ ce qui suit :
+« Monsieur
+l’avocat assermenté,
+Dans
+un jugement qui constitue certainement une première mondiale, le juge […] vous nomme mon conseil,
+alors que vous êtes simultanément mon avocat adverse, vous offrant ainsi de piocher par la
+force dans mon porte-monnaie et de manger à tous les râteliers.
+Ce
+jugement, dont votre fille […] attendait qu’il soit exécutoire avant même qu’il
+nous parvienne, rentrera certainement dans les annales de ce pays. Je ferai en sorte qu’il soit
+rendu public.
+On
+peut se demander quelles sont les motivations du juge […] pour se mettre dans une telle posture,
+et donner de lui l’image qu’il donne par ce jugement. L’observation de la suite des
+événements s’impose.
+Veuillez
+me dire si vous êtes membres de la franc-maçonnerie. Cas échéant de quelle loge.
+Mes valeurs religieuses protégées par la constitution m’interdisent de financer des membres
+d’un tel groupement (…) »
+Pièce
+321
+Allégué
+3006.-
+La
+défenderesse a installé sur l’arrière de sa voiture – qu’elle gare quotidiennement
+sans droit sur la partie commune de la PPE – une pancarte reproduisant trois sourates du Coran,
+manifestement destinée aux codemandeurs, et que l’on peut traduire de la manière suivante :
+-
+Allah entend tout, prenez garde à son châtiment.
+-
+Ceux qui font du mal aux autres et sont jaloux
+auront un châtiment exemplaire.
+-
+Ceux qui écoutent et croient les dires des
+autres auront le même sort.
+Pièce
+322
+Allégué
+3007
+.-
+Ces
+éléments confortent le comportement fautif et menaçant de la défenderesse.
+Appréciation
+»
+La pièce 320 est la copie d’un échange de courriels, dont un courriel du 10 novembre
+2021 envoyé depuis l’adresse [...]» à Me B.W.________ sous rubrique « RE :
+Affaire c/ [...] & CTS – [...]-Honoraires [...] à payer par [...]??? ». A ce
+courriel, qui mentionnait ce qui figure à l’allégué 3003, était annexé
+une photographie de plusieurs immeubles en ruines.
+La pièce 321 est la copie d’un courriel du 13 novembre 2021 envoyé depuis l’adresse
+« [...]» à Me A.W.________, avec copie à Me B.W.________, sous rubrique :
+« P. [...] avocat adverse et avocat conseil : décision d’un juge suisse en
+2021 ». Ce courriel mentionne ce qui figure à l’allégué 3005.
+La pièce 322 est une copie d’une photographie d’une page d’un livre rédigé
+en arabe.
+La plaignante invoquait que l’allégué 3004 et la pièce 320 ainsi que l’allégué
+3007 constituaient une atteinte à son honneur (art. 173 CP), que la pièce 322 constituait une
+violation du domaine secret ou du domaine privé au moyen d’un appareil de prise de vue s’agissant
+d’une photographie prise dans son véhicule automobile (art. 179 quater CP) et que l’allégué
+3006 ainsi que la pièce 322 constituaient une atteinte à sa liberté de croyance et de
+culte, la traduction de trois sourates étant erronée et destinée à lui nuire (art.
+261 et 261 bis CP). Les cinq prévenus seraient coupables des infractions dénoncées.
+Dans cette plainte, P.________ invoquait également que, le 28 janvier 2022, Me B.W.________ avait
+adressé au Ministère public un complément à une plainte du 15 décembre 2021
+reprenant les allégués 3006 et 3007 reproduits ci-dessus, et qui dirait : « Mme
+[...] persiste à vouloir intimider ses copropriétaires » ; elle aurait également
+produit la photographie figurant sous la pièce 322 précitée (cf. P 4/11). Les infractions
+énumérées ci-dessus seraient aussi réalisées en raison de ce complément
+de plainte.
+b)
+Le 28 septembre 2022, P.________ a déposé plainte contre N.________ et sa compagne R.________
+pour tentative de violation de domicile et contrainte. Elle leur reproche en substance de l’avoir,
+sur la partie commune de la parcelle dont ils sont copropriétaires, le 16 septembre 2022, à
+deux reprises, bloquée avec leur véhicule alors qu’elle-même se trouvait dans sa
+propre voiture, stationnée sur ladite partie commune. Elle reproche également à N.________
+d’avoir, toujours le 16 septembre 2022, tenté d’ouvrir de force la portière avant
+de son véhicule pour y pénétrer. Enfin, elle reproche à N.________ et à sa compagne
+de la harceler très régulièrement en prenant des photographies de son véhicule et
+en la filmant en diverses occasions (P. 7).
+c)
+En date du 3 novembre 2022, P.________ a déposé plainte contre A.L.________, B.L.________,
+G.________, C.________, N.________ et R.________ pour contrainte et violation du domaine secret ou du
+domaine privé au moyen d’un appareil de prise de vues (P. 11).
+P.________ expose que ses copropriétaires, lorsqu’ils ont effectué les travaux concernant
+les places de stationnement et les couverts pour les voitures, l’ont empêchée, principalement
+durant les années 2017 et 2018, en stockant notamment du matériel, en y déversant de la
+terre ou en immobilisant une benne ou un véhicule sur la voie d’accès aux places de parc,
+d’utiliser sa place de parking et son espace privatif, se rendant ainsi coupables de contrainte
+au sens de l’art. 181 CP.
+Elle leur reproche également de l’avoir, à de très nombreuses reprises, entre le
+24 avril 2018 et le mois de janvier 2022, prise en photo et filmée alors qu’elle effectuait
+différentes tâches chez elle, se rendant ainsi coupables de violation du domaine secret ou
+du domaine privé au moyen d’un appareil de prise de vues au sens de l’art. 179 quater
+CP.
+Enfin, elle se dit victime de harcèlement depuis de nombreuses années en raison des comportements
+des copropriétaires envers elle, ceux-ci s’étant rendu coupables de contrainte en vertu
+de l’art. 181 CP (stalking).
+d)
+Le 14 décembre 2022, P.________ a déposé une plainte à l’encontre de N.________
+pour dommages à la propriété. Elle lui reproche d’avoir, le 10 décembre 2022,
+vers 00h15, donné un coup avec sa main sur le coffre de son véhicule et d’avoir craché
+sur la vitre arrière, sur laquelle des sourates du Coran étaient placées (P.13).
+e)
+Une clé USB contenant 2 vidéos a été produite par P.________.
+B.
+Par ordonnance du 28 juin 2023, le Ministère
+public de l’arrondissement de Lausanne a refusé d’entrer en matière sur les plaintes
+de P.________ en tant qu’elles sont dirigées contre A.L.________, B.L.________, G.________,
+C.________, N.________, R.________, A.W.________ et B.W.________ pour dommages à la propriété,
+diffamation, contrainte, tentative de violation de domicile, violation du domaine secret ou du domaine
+privé au moyen d’un appareil de prise de vues, atteinte à la liberté de croyance
+et des cultes et discrimination raciale (I), a ordonné le maintien au dossier, pour en faire partie
+intégrante, de la clé USB contenant 2 vidéos, produite par P.________ et enregistrée
+sous forme de pièce à conviction sous fiche n° 34974 (II), et a laissé les frais
+à la charge de l’Etat (III).
+S’agissant de la
+plainte
+du 22 mars 2022
+(P. 4), Le Ministère public
+a considéré que les parties étaient copropriétaires de la parcelle sise au chemin
+de la [...] et qu’un litige, notamment sur le plan civil, les opposait depuis de nombreuses années
+devant différentes autorités du canton de Vaud. Il a rappelé que les propos litigieux
+avaient été tenus dans une requête de nova auprès de la Chambre patrimoniale cantonale,
+soit une autorité qui pouvait et qui devait faire la part des choses. Les propos tenus n’étaient
+en outre pas inutilement blessants et l’on se trouvait dans ce qui était autorisé et
+pertinent dans le cadre d’une telle procédure. Il en allait de même des propos litigieux
+tenus dans le cadre de la procédure pénale ([...]) qui s’était clôturée
+par une ordonnance de classement. La procureure en a conclu que les éléments constitutifs de
+l’infraction de diffamation n’étaient pas réalisés.
+Le Ministère public a considéré que les éléments constitutifs de l’infraction
+de violation du domaine secret ou du domaine privé au moyen d’un appareil de prise de vues
+au sens de l’article 179quater CP n’étaient pas non plus réunis, au motif que les
+photographies prises des sourates placées sur les vitres du véhicule de la plaignante à
+la vue de tous ne relevaient pas du domaine secret ou du domaine privé spécialement protégé.
+Enfin, le Ministère public a jugé que la lecture des allégués litigieux ne laissait
+pas apparaitre un jugement de valeur propre à blesser les sentiments religieux des personnes à
+qui ils s’adressaient, ni à présenter de manière inadéquate les convictions
+religieuses de sorte que l’on ne saurait retenir une atteinte à la liberté de croyance
+et des cultes au sens de l’art. 261 al. 1 CP. Par ailleurs, s’agissant de l’infraction
+réprimée à l’art. 261bis CP, il a considéré que la production en procédure
+des photographies et le contenu des allégués litigieux ne tendaient à l’évidence
+pas à rabaisser la plaignante dans sa religion et ses convictions. Par ailleurs, la condition de
+la publicité semblait également faire défaut, les écritures juridiques étant
+destinées uniquement à l’autorité civile et pénale, soumises au secret professionnel.
+Au vu de ces motifs, le Ministère public a refusé d’entrer en matière sur la plainte
+de P.________ du 22 mars 2022 en tant qu’elle était dirigée contre A.L.________, B.L.________,
+G.________, C.________, N.________, A.W.________ et B.W.________ pour diffamation, violation du domaine
+secret ou du domaine privé au moyen d’un appareil de prise de vues, atteinte à la liberté
+de croyance et des cultes et discrimination raciale (art. 310 al. 1 let. a CPP).
+Quant à la plainte du
+28
+septembre 2022
+, le Ministère public a rappelé
+que P.________ avait produit à l’appui de ses dires deux vidéos concernant l’épisode
+du 16 septembre 2022, que leur visionnement ne montrait pas dans quelle mesure elle avait été
+entravée dans sa liberté d’action par le comportement de N.________ et de sa compagne ;
+au surplus, les événements ne s’étaient déroulés que sur quelques minutes.
+Les éléments constitutifs de l’infraction de contrainte ne pouvaient donc être réalisés.
+S’agissant du harcèlement dont P.________ se dit victime, le Ministère public a rappelé
+que cette infraction relevait de l’infraction de contrainte en droit suisse que si, notamment,
+la victime changeait ses habitudes ou prenait des mesures pour éviter le harcèlement dénoncé,
+mais a considéré qu’en l’occurrence, tel n’était manifestement pas le
+cas, P.________ continuant à mener ses activités normalement.
+Il a par ailleurs constaté que la plaignante et les autres copropriétaires se filmaient et
+s’épiaient mutuellement depuis de nombreuses années, probablement afin de récolter
+des éléments pertinents pour toutes les procédures judiciaires en cours, de sorte que,
+dans ces circonstances, il convenait de ne pas entrer en matière en tant que la plainte du 28 septembre
+2022 était dirigée contre N.________ et R.________ pour tentative de violation de domicile
+et contrainte.
+S’agissant de la plainte pénale déposée le
+3
+novembre 2022
+, le Ministère public a en substance
+considéré que même s’ils étaient avérés, les faits tels que décrits
+par P.________ n’étaient pas suffisamment caractérisés au vu des circonstances concrètes
+pour constituer de la contrainte au sens de l’art. 181 CP. Par surabondance, il a estimé que
+les faits que la partie plaignante reprochait aux prévenus n’étaient pas comparables,
+dans leur intensité, à ceux de la violence ou de la menace d'un dommage sérieux, même
+si on les examinait comme un tout. Ils se situaient bien en deçà des cas dans lesquels le Tribunal
+fédéral avait admis la réalisation de l’infraction de contrainte. De plus, la partie
+plaignante n’indiquait pas en quoi elle avait considérablement modifié ses habitudes
+de vie en raison du comportement des prévenus. Enfin les parties étaient en litige depuis de
+nombreuses années, notamment sur le plan civil, et il n’appartenait pas au Ministère
+public de se substituer à l’autorité civile s’agissant de la construction d’une
+place de parc ou de l’aménagement extérieure de la PPE.
+Quant à l’infraction de violation du domaine secret ou du domaine privé au moyen d’un
+appareil de prise de vues, le Ministère public a rappelé qu’elle ne se poursuivait que
+sur plainte, et qu’en vertu de l’art. 31 CP, le droit de porter plainte se prescrivait par
+trois mois dès le jour où l’auteur a connu l’auteur. Dans ces conditions, les faits
+dénoncés s’étant produits entre avril 2018 et janvier 2022, il a considéré
+que la plainte du mois de novembre 2022 était manifestement tardive, ce qui justifiait de ne pas
+entrer en matière.
+Enfin, s’agissant de la plainte du 14 décembre 2022, le Ministère public a considéré
+que le comportement reproché à N.________ n’était pas constitutif d’un dommage
+à la propriété, le véhicule concerné n’ayant subi aucun dommage au sens
+du droit pénal. Il se justifiait ainsi de ne pas entrer en matière.
+C.
+Par acte du 13 juillet 2023, P.________, par son
+conseil de choix, a recouru contre cette ordonnance en concluant principalement à son annulation,
+le dossier de la cause étant renvoyé au Ministère public « pour qu’il
+procède à l’instruction des préventions reprochées sous l’angle des art.
+173 CP, 179quater CP, 180 CP, 181 CP, 261 CP, 261bis CP et 303 CP » dans ses plaintes des 22
+mars, 28 septembre, 3 novembre et 14 décembre 2022 et à la mise en accusation des prévenus,
+les frais étant laissés à la charge de l’Etat. Subsidiairement, elle a conclu à
+l’annulation de l’ordonnance et à ce que la cause soit renvoyée au Ministère
+public pour nouvelle décision dans le sens des considérants.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Les
+parties peuvent attaquer une ordonnance de non-entrée en matière rendue par le Ministère
+public en application de l’art. 310 CPP (Code de procédure pénale suisse du 5 octobre
+2007 ; RS 312.0) dans les dix jours devant l’autorité de recours (art. 310 al. 2, 322 al.
+2 et 396 al. 1 CPP ; cf. art. 20 al. 1 let. b CPP) qui est, dans le canton de Vaud, la Chambre des recours
+pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise d’introduction du Code de procédure
+pénale suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [Loi vaudoise d’organisation judiciaire
+du 12 décembre 1979 ; BLV 173.01]).
+1.2
+Interjeté dans le délai légal,
+par la partie plaignante qui a qualité pour recourir (art. 382 al. 1 CPP), le recours est recevable,
+sous réserve de ce qui sera précisé plus bas. Il en va de mêmes des pièces nouvelles
+produites avec le recours (art. 389 al. 3 CPP).
+Au sens de l’art. 385 al. 1 CPP et de la jurisprudence y relative, la motivation doit être
+complète, et étayée du point de vue des faits et du droit, si bien qu'un simple renvoi
+à d'autres écritures n'est pas suffisant (TF 6B_1447/2022 du 14 mars 2023 consid. 1.1 et les
+références citées). En tant que la recourante renvoie dans son acte de recours à
+des éléments figurant dans d’autres écritures, ou qu’elle ne développe
+suffisamment ses moyens, son acte est irrecevable (cf. infra).
+2.
+2.1
+La recourante invoque une violation de l’art.
+310 al. 1 let. a CPP. Elle soutient qu’il n’apparaît pas clairement que les faits qu’elle
+a dénoncés ne soient pas punissables. Elle invoque qu’il y a manifestement « deux
+poids deux mesures » dans le traitement des plaintes qu’elle a déposées par
+rapport à celles déposées par sa partie adverse (cf. acte de recours, p. 4). Elle cite
+comme exemple le jugement rendu par la Cour d’appel pénale le 16 avril 2021, qui l’a
+condamnée pour dommages à la propriété, insoumission à une décision de
+l’autorité et tentative de menaces, qui a été confirmé à tort par le Tribunal
+fédéral (cf. TF 6B_1054/2021 du 11 mars 2022). Elle a en outre développé ses griefs
+en relation avec chacune des plaintes (cf. infra consid. 3 à 6).
+2.2
+Conformément à l’art. 310 al.
+1 CPP, le Ministère public rend immédiatement une ordonnance de non-entrée en matière
+s’il ressort de la dénonciation ou du rapport de police que les éléments constitutifs
+de l’infraction ou les conditions à l’ouverture de l’action pénale ne sont
+manifestement pas réunis (let. a), qu’il existe des empêchements de procéder (let.
+b) ou que les conditions mentionnées à l’art. 8 CPP imposent de renoncer à l’ouverture
+d’une poursuite pénale (let. c).
+Selon
+l’art. 310 al. 1 let. a CPP, il importe que les éléments constitutifs de l’infraction
+ne soient manifestement pas réunis. Cette disposition doit être appliquée conformément
+à l’adage « in dubio pro duriore », qui découle du principe de la légalité
+(art. 5 al. 1 Cst. [Constitution fédérale de la Confédération suisse du 18 avril
+1999 ; RS 101] et art. 2 al. 2 CPP ; ATF 138 IV 86 consid. 4.2) et signifie qu’en principe un classement
+ou une non-entrée en matière ne peuvent être prononcés par le Ministère public
+que lorsqu’il apparaît clairement que les faits ne sont pas punissables ou que les conditions
+à la poursuite pénale ne sont pas remplies (ATF 146 IV 68 consid. 2.1 ; TF 7B_513/2023 du 4
+décembre 2023 consid. 3 ; TF 6B_1444/2021 du 17 mai 2022 consid. 3.2). En d’autres termes,
+il faut être certain que l’état de fait ne constitue aucune infraction. Une ordonnance
+de non-entrée en matière ne peut être rendue que dans les cas clairs du point de vue des
+faits, mais également du droit. S’il est nécessaire de clarifier l’état de
+fait ou de procéder à une appréciation juridique approfondie, le prononcé d’une
+ordonnance de non-entrée en matière n’entre pas en ligne de compte. En règle générale,
+dans le doute, il convient d’ouvrir une enquête pénale (ATF 143 IV 241 consid. 2.2.1
+; ATF 138 IV 86 précité consid. 4.1.2). En revanche, le Ministère public doit pouvoir
+rendre une ordonnance de non-entrée en matière dans les cas où il apparaît d’emblée
+qu’aucun acte d’enquête ne pourra apporter la preuve d’une infraction à la
+charge d’une personne déterminée (TF 6B_375/2020 du 9 juillet 2020 consid. 3.2 et les
+références citées ; TF 6B_541/2017 du 20 décembre 2017 consid. 2.2).
+3.
+Plainte du 22 mars 2022
+3.1
+3.1.1
+Factuellement, la recourante invoque que B.L.________, A.L.________, C.________, G.________ et N.________
+sont en litige avec elle dans le cadre d’une procédure ouverte auprès de la Chambre patrimoniale
+cantonale ([...]) qui concerne des contrats de vente ou d’entreprise. Elle renvoie  pour un
+résumé du litige à ce qui figure dans l’arrêt rendu par le Juge délégué
+de la Cour d’appel civile dans la cause [...] qu’elle indique avoir produit sous pièce
+5 de sa plainte pénale ; elle explique que, selon cet arrêt, les parties demanderesses
+ont pris différentes conclusions, que par courrier du 6 janvier 2020, elles ont annoncé au
+Juge délégué de la Chambre patrimoniale cantonale qu’elles retiraient les conclusions
+« G/XIX et XX » de leur demande du 27 mars 2019, et que toutes les conclusions de
+la demande en validation des mesures provisionnelles prononcées le 3 septembre 2018 par le Président
+du Tribunal civil de l’arrondissement de la Broye et du Nord vaudois avaient été balayées
+(mesures provisionnelles déclarées caduques) par l’ordonnance de mesures provisionnelles
+du 8 mars 2021 rendues par le Juge délégué de la Chambre patrimoniale cantonale et par
+l’arrêt du 16 juillet 2021 rendu par la Cour d’appel civile (sic). Elle en déduit
+qu’au moment de l’introduction de la requête de nova critiquée, le 23 décembre
+2021, les seules conclusions litigieuses de la demande en paiement du 27 mars 2019 de la procédure
+[...] étaient des conclusions prises sous let. A à F de ladite demande. Ces conclusions concernaient
+exclusivement le paiement de montants liés à la demeure et l’inexécution contractuelle
+reprochée par les parties demanderesses. Elle en déduit que la procédure [...] ne comporterait
+aucune conclusion qui serait liée à des atteintes à la personnalité ou à du
+tort moral (cf. acte de recours, pp. 4-5).
+La recourante invoque ensuite que la traduction des sourates figurant dans le courrier de Me B.W.________
+à la Procureure du 6 avril 2022 serait différente de celle figurant dans l’allégué
+3006 de la requête de nova du 23 décembre 2021 ou dans le complément de plainte du
+22 janvier 2022.
+Elle fait par ailleurs valoir que toutes les personnes citées en début du mémoire de recours
+auraient produit, sans son consentement, une photographie de l’intérieur de son véhicule
+(plage arrière) sur laquelle une feuille (format A4) comportant des sourates du Coran écrites
+en langue arabe serait visible.
+La recourante relève encore qu’une ordonnance de classement a été rendue par le
+Ministère public sur la plainte et le complément de plainte que les prévenus ont déposés
+contre elle les 15 décembre 2021 et 22 janvier 2022. S’agissant du courriel qu’elle
+a adressé le 10 novembre 2021, le Ministère public a retenu que la recourante « ne
+voulait que critiquer un système judiciaire qui, à ses yeux, dysfonctionne » et qu’elle
+« n’avait aucunement l’intention d’effrayer ou d’alarmer la destinataire
+dudit courriel » ; s’agissant des sourates, il a retenu que la liberté de croyance
+était garantie à tout un chacun, que le fait d’apposer des sourates à l’intérieur
+de son véhicule n’était pas constitutif d’une infraction pénale et qu’écrites
+en arabe, celles-ci n’étaient pas de nature à être comprises par les voisins de
+l’intéressée, de sorte qu’on ne pouvait retenir que la recourante avait l’intention
+d’intimider ceux-ci.
+3.1.2
+Juridiquement, la recourante fait grief au Ministère public d’avoir affirmé que «
+les
+propos litigieux ont été tenus dans une requête de nova auprès de la Chambre patrimoniale
+cantonale, soit une autorité qui peut et qui doit faire la part des choses. Les propos tenus ne
+sont en outre pas inutilement blessants et l’on se trouve dans ce qui est autorisé et pertinent
+dans le cadre d’une telle procédure
+».
+Selon elle, les propos décriés jetteraient sur elle le soupçon qu’elle serait une
+sorte de fondamentaliste extrémiste, autrement dit une terroriste qui risquerait de passer à
+l’acte et qui profèrerait des menaces. Elle soutient que les sourates faussement traduites
+à l’allégué 3006, alliées aux autres allégués et à la photo
+d’un quartier d’Alep présentée comme le résultat d’un attentat aurait
+un effet catastrophique sur le lecteur qui ne pourrait qu’en tirer la conclusion qu’elle
+est une extrémiste prête à passer à l’acte. Elle explique qu’il était
+très facile pour les personnes visées par la plainte de connaître la traduction exacte
+des sourates en question avant de communiquer à la Chambre patrimoniale cantonale une traduction
+erronée, faussement alarmante, donnant à des textes sacrés un contenu haineux, vengeur,
+extrémiste, menaçant et blasphématoire.
+Au surplus, les allégués en cause n’auraient rien à voir avec les conclusions prises
+par les parties ou avec l’objet du litige et n’auraient pas de rapport direct avec la cause
+civile. Elle considère que l’introduction de ces allégués n’avait pour but
+que de porter préjudice à sa réputation dans la société, dans sa religion et
+dans son honneur et que leur seul véritable état de la discréditer dans la procédure
+ouverte auprès de la Chambre patrimoniale cantonale. Elle reproche enfin à Mes B.W.________
+et A.W.________ d’avoir rapporté les allégations de leurs clients, sans prendre de précaution.
+Enfin, elle considère que l’avocat a la qualité de tiers par rapport à son client
+et que c’est à tort que
+« le
+Ministère public de l’arrondissement de Lausanne considère que les propos tenus auprès
+de la Chambre patrimoniale cantonale ne sont point diffamatoires, ces derniers n’ayant absolument
+aucun lien avec l’affaire pendante auprès d’elle et les magistrats, greffier, huissiers
+et secrétaire en ayant pris connaissance ont le statut de tiers au sens de l’a disposition
+précitée. En outre, le MP ne tient pas compte du fait que l’écriture de nova circule
+dans deux études d’avocats avec du personnel
+».
+3.2
+Aux termes de l’art. 173 ch. 1 CP, se rend coupable de diffamation celui qui, en s'adressant à
+un tiers, aura accusé une personne ou jeté sur elle le soupçon de tenir une conduite contraire
+à l'honneur, ou de tout autre fait propre à porter atteinte à sa considération, ou
+celui qui aura propagé une telle accusation ou un tel soupçon. L'inculpé n'encourra aucune
+peine s'il prouve que les allégations qu'il a articulées ou propagées sont conformes à
+la vérité ou qu'il avait des raisons sérieuses de les tenir de bonne foi pour vraies (ch.
+2). L'inculpé ne sera pas admis à faire ces preuves et il sera punissable si ses allégations
+ont été articulées ou propagées sans égard à l'intérêt public
+ou sans autre motif suffisant, principalement dans le dessein de dire du mal d'autrui, notamment lorsqu'elles
+ont trait à la vie privée ou à la vie de famille (ch. 3).
+Pour apprécier si une déclaration est attentatoire à l'honneur, il faut procéder
+à une interprétation objective selon le sens que le destinataire non prévenu devait, dans
+les circonstances d'espèce, lui attribuer (ATF 145 IV 462 consid. 4.2.3 ; ATF 137 IV 313 précité
+consid. 2.1.3). Les mêmes termes n'ont donc pas nécessairement la même portée suivant
+le contexte dans lequel ils sont employés (ATF 118 IV 248 consid. 2b ; ATF 105 IV 194 précité
+consid. 2). Selon la jurisprudence, un texte doit être analysé non seulement en fonction des
+expressions utilisées, prises séparément, mais aussi selon le sens général qui
+se dégage du texte dans son ensemble (ATF 137 IV 313 précité). Déterminer le contenu
+d'un message relève des constatations de fait. Le sens qu'un destinataire non prévenu confère
+aux expressions et images utilisées constitue en revanche une question de droit (ATF 137 IV 313
+précité).
+L'honneur protégé par le droit pénal est conçu de façon générale comme
+un droit au respect, qui est lésé par toute assertion propre à exposer la personne visée
+au mépris en sa qualité d'homme. La réputation relative à l'activité professionnelle
+ou au rôle joué dans la communauté n'est pas pénalement protégée. Il en
+va ainsi des critiques qui visent comme tels la personne de métier, l'artiste ou le politicien,
+même si elles sont de nature à blesser et à discréditer. Dans le domaine des activités
+socio-professionnelles, il ne suffit ainsi pas de dénier à une personne certaines qualités,
+de lui imputer des défauts ou de l'abaisser par rapport à ses concurrents. En revanche, il
+y a atteinte à l'honneur, même dans ces domaines, si on évoque une infraction pénale
+ou un comportement clairement réprouvé par les conceptions morales généralement admises
+(ATF 148 IV 409 consid. 2.3 ; ATF 145 IV 462 consid. 4.2.2 et les références citées ;
+TF 6B_226/2019 du 29 mars 2019 consid. 3.3 ; cf. Dupuis et al. [édit.], Petit commentaire, Code
+pénal, 2e éd., Bâle 2017, n. 5 ad Rem. prél. aux art. 173 à 178 CP). La diffamation
+est une infraction intentionnelle (Corboz, Les infractions en droit suisse, 3e éd., vol. I, Berne
+2010, n. 48 ad art. 173 CP).
+L'art. 14 CP prévoit que quiconque agit comme la loi l'ordonne ou l'autorise se comporte de manière
+licite, même si l'acte est punissable en vertu du présent code ou d'une loi. Ce fait justificatif
+doit en principe être examiné avant la question des preuves libératoires prévues
+par l'art. 173 ch. 2 CP (ATF 135 IV 177 consid. 4). La jurisprudence admet que le devoir procédural
+d'alléguer les faits constitue un devoir de s'exprimer selon l'art. 14 CP ; une partie (et son avocat)
+peut ainsi invoquer cette disposition à la condition de s'être exprimée de bonne foi,
+de s'être limitée aux déclarations nécessaires et pertinentes et d'avoir présenté
+comme telles de simples suppositions (ATF 135 IV 177 consid. 4 ; ATF 131 IV 154 consid. 1.3.1 ; TF 6B_475/2020
+du 31 août 2020 consid. 2.2.2 ; TF 6B_1254/2019 du 16 mars 2020 consid. 7.1 ; TF 6B_541/2019
+du 15 juillet 2019 consid. 2.2).
+3.3
+En l’espèce, la recourante invite d’abord l’autorité de recours à se
+référer à l’arrêt du Juge délégué de la Cour d’appel civile
+rendu le 16 juillet 2021 (no 351), qu’elle dit avoir produit sous pièce 5 de sa plainte. Or,
+cette pièce n’a pas été produite à l’appui de la plainte du 22 mars 2022,
+mais à l’appui de celle du 3 novembre 2022 (cf. pièce 12 annexe 5 ; deux classeurs
+bleus). De toute manière, cette manière de procéder ne respecte pas les exigences posées
+par l’art. 385 al. 1 CPP, et est irrecevable.
+La recourante fait valoir ensuite que c’est à tort que le Ministère public a retenu que
+les allégués n’étaient pas attentatoires à son honneur.
+A cet égard, on constate que la recourante ne procède à aucune démonstration ou exégèse
+textuelle objective des allégués en cause ni ne cite de jurisprudence à cet égard.
+Manifestement, sa contestation ne remplit à nouveau pas les exigences déduites de l’art.
+385 al. 1 CPP.
+De toute manière, aucun des termes figurant dans les allégués en cause ne l’expose
+au mépris en sa qualité d’être humain, au sens précité.
+D’abord, les allégués 3003 et 3005 ne font que reproduire les courriels des 10 et 13
+novembre 2021 qu’elle a elle-même rédigés. Sauf à invoquer qu’elle aurait
+elle-même tenu des propos attentatoires à son propre honneur, on ne voit pas en quoi ces allégués
+seraient diffamatoires. Par ailleurs l’allégué 3004 expose qu’en pièce jointe
+du premier message figure « une photographie d’immeubles en ruines, provoquée manifestement
+par un attentat ». Il s’agit effectivement d’immeubles en ruines, mais à la suite
+du bombardement d’Alep par le régime syrien (cf. P 4/5). Or on peine à comprendre comment
+la recourante qui a adressé cette image, sans explication autre que «
+C’est
+ainsi que finissent les républiques bananières. Tous égaux sous les décombres
+», peut s’insurger que ces ruines soient apparues pour sa partie adverse comme le résultat
+d’un attentat et non d’un bombardement. Par ailleurs, la recourante ne conteste pas avoir
+adressé à l’avocate des prévenus le courriel en cause ni avoir joint à celui-ci
+une photographie sur laquelle un destinataire non prévenu ne pouvait que voir une ville dont plusieurs
+immeubles étaient détruits.
+Quant à l’allégué 3006, on ne voit pas non plus en quoi un lecteur non prévenu
+pourrait en déduire que la recourante serait une personne méprisable, au sens précis où
+l’entend la jurisprudence, quelle que soit la traduction des sourates en cause. En effet, même
+dans la teneur retenue par l’allégué, celles-ci évoquent un châtiment divin.
+Le fait que les prévenus aient allégués qu’ils se sentaient visés par ces sourates
+ne saurait pas non plus être diffamatoires. Quant à la prétendue fausseté de la traduction
+mentionnée dans cet allégué et dans le complément de plainte du 28 janvier 2022,
+on ne voit pas ce que la recourante peut en tirer dès lors que, comme mentionné, même
+la traduction présentée n’est pas attentatoire à son honneur. Quant au fait que,
+le 6 avril 2022, Me B.W.________ aurait mentionné dans une lettre au Ministère public une nouvelle
+traduction qui n’avait rien à voir avec les précédentes, ce reproche ne figure pas
+dans la plainte, et n’a par conséquent pas été traité dans l’ordonnance
+attaquée. Il est dès lors irrecevable. De toute manière, cette dernière lettre ne
+figure pas au dossier et, même si le grief était fondé, on ne voit pas ce que la recourante
+pourrait en tirer, sauf à déduire qu’entre les mois de janvier et avril 2022, le conseil
+des prévenus aurait trouvé une autre traduction.
+Enfin, l’allégué 3007, soumis à l’appréciation, est la conclusion des
+précédents, en ce sens qu’il énonce que «
+Ces
+éléments confortent le comportement fautif et menaçant de la défenderesse ».
+Comme déjà dit, la recourante n’essaie
+pas de démontrer en quoi ces affirmations seraient attentatoires à son honneur. Comme retenu
+par le Ministère public, il s’agit d’affirmations qui sont couvertes par le fait justificatif
+de l’art. 14 CP. A tort ou à raison, les prévenus entendaient alléguer dans le cadre
+du litige civil qui les divise que la recourante avait un comportement fautif et menaçant à
+leur égard. Sauf à empêcher toute partie à un litige civil d’alléguer
+l’existence d’un tel comportement de la part de sa partie adverse, il faut admettre que cette
+allégation était admissible au sens de la disposition précitée. Cela vaut d’autant
+en l’espèce que cette allégation pouvait apparaître comme n’étant pas
+dépourvue de fondement, notamment au vu de la teneur des courriels de la recourante des 10 et 13
+novembre 2021 et de l’envoi par celle-ci à l’avocate des prévenus d’une photographie
+d’une série d’immeubles détruits.
+Certes, la recourante prétend que les allégués en cause n’avaient aucun lien avec
+l’objet du litige civil. Dans sa plainte du 22 mars 2022, elle ne mentionne toutefois pas
+que ces allégués seraient exorbitants au procès civil. De fait, à l’appui de
+cette plainte, elle n’a pas produit de pièces permettant de saisir les enjeux de la procédure
+civile divisant les parties. Ce n’est en effet qu’à l’appui de sa plainte du 3
+novembre 2022 qu’elle a déposé, sous pièce 12, deux classeurs de pièces à
+cet effet. De toute manière, il ressort de ces dernières pièces que ces allégués
+ont bien un lien avec la procédure. Les prévenus ont déposé une demande le 27 mars
+2019 à l’encontre de la recourante devant la Chambre patrimoniale cantonale (qui comporte
+700 allégués). Cette écriture n’a pas été produite par la recourante à
+l’appui de ses plaintes, et seules les conclusions figurent dans l’ordonnance rendue par
+le Juge délégué de la Chambre patrimoniale cantonale produite (cf. pièce 12, annexe
+5bis, pp. 10 ss). La recourante a produit la réponse qu’elle a elle-même déposée
+le 25 mai 2021 sur cette demande, qui contient des conclusions reconventionnelles (cf. pièce 12
+annexe 1) ; cette réponse comporte 288 pages et énonce 1506 allégués (nos 701-2207).
+Ensuite, les demandeurs ont déposé le 28 octobre 2021 une réplique sur cette réponse,
+qui contient également une réponse sur la demande reconventionnelle que la recourante avait
+déposée (cf. pièce 6/3) ; cette écriture comporte 287 pages et 708 allégués
+(nos 2208-2996) ; elle contient, en pages 184 à 191, un chapitre 4 intitulé « Comportement
+fautif de la défenderesse – La condamnation pénale de la défenderesse – Les
+ordonnances de classement des plaintes de la défenderesse » ; sous chapitre 4.4,
+ce chapitre comporte trois allégués de conclusions (cf. all. 2802 : « Les décisions
+pénales précitées sont révélatrices de la personnalité de la défenderesse,
+notamment son sens de l’exagération et de la victimisation ainsi que sa propension à
+solliciter inlassablement la justice – quand elle ne se fait pas justice elle-même - qu’elle
+critique parfois vertement lorsqu’elle lui donne tort … »; all. 2803 :
+« … comportements qu’elle inflige aux demandeurs depuis 2016 (avec les coûts
+psychologiques et financiers les accompagnant) et qui sont à bout depuis longtemps » ;
+all. 2804 : « Ces comportements sont également constitutifs de fautes sur le plan
+civil »). Or, d’après le préambule de la requête de nova, les allégués
+3001 à 3007 dont les demandeurs sollicitaient l’introduction en procédure visaient précisément
+à compléter le chapitre II/G/4 précité de la réponse sur demande reconventionnelle
+et réplique du 28 octobre 2021, chapitre intitulé « Comportement fautif de la défenderesse
+», en ses pages 184 à 191. Ainsi, quelles que soient les conclusions prises par les demandeurs,
+et l’éventuel retrait d’une partie de celles-ci en cours de procédure, il faut
+constater que les allégués litigieux ont bien un lien avec les allégués qu’ils
+tendent à compléter, et même qu’ils ont un lien avec le « comportement
+de la défenderesse », que les demandeurs considèrent comme civilement fautifs.
+Dans ces circonstances, et pour les motifs qui précèdent, le Ministère public pouvait
+à bon droit retenir que ces allégués étaient couverts par le devoir procédural
+d’alléguer des faits découlant de l’art. 14 CP et de la jurisprudence y relative.
+C’est donc à juste titre que le Ministère public a retenu qu’une infraction contre
+l’honneur en raison de la requête de nova litigieuse pouvait être exclue.
+Il en va de même d’une atteinte à l’honneur en raison du complément de plainte
+du 22 janvier 2022 selon laquelle la recourante persisterait « à vouloir intimider
+ses copropriétaires ». Le fait de dire de quelqu’un qu’il veut intimider autrui
+n’est pas de nature à la faire passer pour une personne méprisable. Comme déjà
+dit, la recourante ne le prétend du reste pas ni ne cherche à le démontrer.
+4
+4.1
+Dans un deuxième moyen, la recourante reproche au Ministère public d’avoir retenu que
+les allégués litigieux couplés à la photographie décrite comme une scène
+de dévastation terroriste ne tendaient pas à la rabaisser dans sa religion. Elle expose qu’elle
+est syrienne, de confession musulmane, qu’elle a évoqué dans sa plainte les exactions
+subies par sa famille dans ce pays et qu’elle a été choquée par la requête
+de nova, considérant qu’elle jetait sur elle le soupçon d’être une musulmane
+fondamentaliste ou djihadiste qui se servirait du Coran pour menacer ses copropriétaires. Elle considère
+que c’est parce qu’elle est musulmane que les sourates de protection placées dans son
+véhicule ont été utilisées contre elle dans la procédure civile, ce qui serait
+un signe de mépris pour elle, pour sa confession, pour les aspects fondamentaux de sa foi et pour
+le Coran dont ses textes sacrés auraient été souillés par une fausse traduction dont
+le contenu était profondément offensant et insultant. Enfin, l’offense serait publique
+car un nombre de personnes indéterminé pouvait prendre connaissance de la requête de nova
+litigieuse (greffiers, secrétaires, juges, employés d’études etc.).
+P.________ fait en outre grief au Ministère public de ne pas être entré en matière
+sur l’infraction de discrimination raciale dénoncée. Selon elle, les parties adverses
+l’auraient fait passer pour une personne méprisable, à savoir pour une potentielle terroriste
+islamiste utilisant le Coran pour soi-disant les menacer. Ainsi, les propos tenus par les parties adverses
+l’atteindraient dans sa dignité humaine en raison de son appartenance religieuse. Selon elle,
+la requête de nova n’a pas été publiée dans un cadre privé, de sorte que
+la condition de la publicité serait remplie.
+4.2
+L’art. 261 CP dispose que quiconque, publiquement et de façon vile, offense ou bafoue les
+convictions d’autrui en matière de croyance, en particulier de croyance en Dieu, ou profane
+les objets de la vénération religieuse (al. 1), quiconque empêche méchamment de célébrer
+ou trouble ou publiquement bafoue un acte cultuel garanti par la Constitution (al. 2), quiconque, méchamment,
+profane un lieu ou un objet destiné à un culte ou à un acte cultuel garantis par la Constitution
+(al. 3), est puni d’une peine pécuniaire.
+Les al. 1 à 3 de l'art. 261bis CP ne visent
+que l'agitation raciale; il s'agit d'appels qui s'adressent à un nombre indéterminé de
+personnes, mais qui peuvent avoir pour but l'excitation publique envers une ou plusieurs personnes (ATF
+126 IV 20 consid. 1c).
+L’art. 261bis CP prévoit quant à lui que quiconque, publiquement, incite à la haine
+ou à la discrimination envers une personne ou un groupe de personnes en raison de leur appartenance
+raciale, ethnique ou religieuse ou de leur orientation sexuelle, quiconque, publiquement, propage une
+idéologie visant à rabaisser ou à dénigrer de façon systématique cette
+personne ou ce groupe de personnes, quiconque, dans le même dessein, organise ou encourage des actions
+de propagande ou y prend part, quiconque publiquement, par la parole, l’écriture, l’image,
+le geste, par des voies de fait ou de toute autre manière, abaisse ou discrimine d’une façon
+qui porte atteinte à la dignité humaine une personne ou un groupe de personnes en raison de
+leur appartenance raciale, ethnique ou religieuse ou de leur orientation sexuelle ou qui, pour la même
+raison, nie, minimise grossièrement ou cherche à justifier un génocide ou d’autres
+crimes contre l’humanité, quiconque refuse à une personne ou à un groupe de personnes,
+en raison de leur appartenance raciale, ethnique ou religieuse ou de leur orientation sexuelle, une prestation
+destinée à l’usage public, est puni d’une peine privative de liberté de trois
+ans au plus ou d’une peine pécuniaire.
+4.3
+En l’occurrence, on ne discerne aucune atteinte
+à la liberté de croyance et des cultes dans le cadre des allégués 3003 à 3007
+de la requête de nova, ni a fortiori une atteinte publique. Les prévenus entendaient étayer
+leur procédure civile, mais cela n’implique pas encore qu’ils ont violé le devoir
+nécessaire de tolérance ni a fortiori que cette atteinte soit si grave qu’elle soit en
+mesure de troubler la paix publique. De plus, la condition relative à la publicité du comportement
+exigée aux art. 261 al. 1 et 261bis CP ne pouvait être remplie dès lors que
+les allégués en cause ont été formulés dans le cadre d’une procédure
+civile et qu’ils étaient donc destinés au tribunal ou à des intervenants soumis
+au secret professionnel, et non à un nombre indéterminé de personnes. Par ailleurs, on
+ne saurait considérer que ces allégués constituent une incitation à la haine ou à
+la discrimination au sens de l’art. 261bis CP. Là encore, la recourante se contente d’opposer
+sa propre vision des faits, ou son propre ressenti, sans essayer de procéder à une démonstration
+répondant aux exigences de l’art. 385 al. 1 CPP. Mal fondé dans la mesure où il
+est recevable, le grief doit être rejeté.
+5.
+5.1
+Dans un troisième moyen, la recourante fait grief au Ministère public de ne pas être entré
+en matière sur l’infraction de violation du domaine secret ou du domaine privé au moyen
+d’un appareil de prise de vues au sens de l’art. 179quater CP. Elle soutient que la photographie
+des sourates faisant l’objet de la plainte était affichée à l’intérieur
+de sa voiture et non pas sur les vitres. Elle ajoute que sa voiture serait garée systématiquement
+au même endroit, soit juste devant l’entrée de sa maison, sous ses fenêtres, ce
+qui ferait partie de son domaine privé. Elle rappelle encore que l’intérieur d’un
+véhicule est couvert par la protection de l’art. 179quater CP. Par ailleurs, la collecte de
+données sensibles au moyen d’un appareil de prise de vue n’est pas reconnaissable et
+n’est fondé sur aucun motif justificatif.
+5.2
+Selon l'art. 179quater CP, celui qui, sans le consentement de la personne intéressée, aura
+observé avec un appareil de prise de vues ou fixé sur un porteur d'images un fait qui relève
+du domaine secret de cette personne ou un fait ne pouvant être perçu sans autre par chacun
+et qui relève du domaine privé de celle-ci sera, sur plainte, puni d'une peine privative de
+liberté de trois ans au plus ou d'une peine pécuniaire. Sont protégés les faits qui
+se déroulent dans la sphère privée au sens étroit, c'est-à-dire qui ne peuvent
+être perçus sans autre par tout un chacun. Pour délimiter la sphère privée au
+sens étroit des autres domaines, il convient d'examiner si l'on peut sans autre - c'est-à-dire
+sans surmonter un obstacle physique ou juridico-moral - prendre connaissance des événements
+concernés (TF 6B_1171/2023 du 19 octobre 2023 consid. 2.1 et les références citées).
+Fait partie de la sphère privée au sens étroit le domaine privé protégé
+dans le contexte de la violation de domicile (art. 186 CP), soit une maison, un appartement, une pièce
+fermée d'une maison ou une place, une cour ou un jardin clos aux environs immédiats d'une maison.
+Si l'auteur pénètre physiquement dans le domaine privé protégé par l'art. 186
+CP pour y observer un fait au moyen d'un appareil de prise de vues ou pour le fixer sur un porteur d'images,
+il remplit les conditions de l'infraction prévue à l'art. 179quater CP. Conformément au
+sens et au but de cette disposition, l'observation ou l'enregistrement d'un fait se déroulant dans
+la sphère domestique au moyen d'un appareil de prise de vues est également punissable si l'auteur
+n'a pas à franchir physiquement la limite de cette sphère. L'art. 179quater CP protège
+aussi les environs immédiats d'une habitation, indépendamment du fait qu'ils soient clos ou
+non au sens de l'art. 186 CP et, si tel est le cas, sans égard au fait que l'observation puisse
+se dérouler sans effort ou seulement après avoir franchi un obstacle physique. Selon la jurisprudence,
+fait donc partie du domaine privé au sens étroit non seulement ce qui se passe dans la maison
+elle-même, mais aussi ce qui se déroule dans ses environs immédiats, utilisés par
+les habitants comme une surface appartenant encore à la maison ou reconnaissables comme tels par
+des tiers. Cet environnement comprend notamment la zone située juste devant la porte d'entrée
+d'une maison d'habitation. L'habitant d'une maison qui franchit le seuil de sa porte d'entrée, par
+exemple pour venir y chercher un objet déposé à cet endroit ou relever son courrier, reste
+dans la sphère privée au sens étroit (Privatsphäre im engeren Sinne) - dans tous
+les cas protégée par l'art. 179quater CP - même s'il se trouve dans un espace public jouxtant
+la sphère privée (privatöffentlicher Bereich). Il en va de même pour celui qui franchit
+le seuil de sa porte d'entrée pour saluer ou accueillir quelqu'un (ATF 118 IV 41 consid. 4e; voir
+cependant ATF 137 I 327 consid. 6.1 p. 336; TF 6B_1171/2023 précité consid. 2.1 ;
+TF 6B_56/2021 du 24 février 2022 consid. 2.2.3; TF 6B_569/2018 du 20 mars 2019 consid. 3.3). L'art.
+179quater al. 1 CP ne trouve cependant pas application lorsque les faits se déroulent devant l'entrée
+et sur le palier d'un immeuble comportant plusieurs logements et opposent les habitants de cet immeuble
+entre eux. Il s'agit en effet d'un espace utilisé de manière égale par les différents
+habitants de l'immeuble et sur lequel aucun ne dispose d'un droit exclusif. En conséquence, dans
+leurs relations internes, les habitants de l'immeuble ne bénéficient pas dans ces espaces de
+la même protection de leur sphère privée que celle qui prévaut dans leur appartement
+ou à proximité de l'entrée d'une maison individuelle sur laquelle une personne dispose
+un droit exclusif. Dans ces espaces communs, les habitants de l'immeuble ne peuvent pas se prévaloir
+de l'art. 179quater al. 1 CP les uns contre les autres (cf. TF 6B_1171/2023 précité consid.
+2.1 ; TF 6B_1149/2013 du 13 novembre 2014 consid. 1.3).
+Le domaine protégé par cette disposition comprend non seulement l’intérieur d’une
+habitation mais s’étend également aux environs immédiats qui sont considérés
+et reconnus sans autre par les occupants et par les tiers comme faisant encore partie pratiquement de
+l’espace de l’habitation, s’agissant notamment d’une maison (ATF 118 IV 41, JdT
+1994 IV 79, confirmé notamment par TF 6B_1149/2013 du 13 novembre 2014).
+5.3
+En l’espèce, le Ministère public a retenu que la photocopie des trois sourates avait
+été placée « sur les vitres du véhicule » de la recourante « à
+la vue de tous » sans préciser si c’était à l’intérieur ou
+à l’extérieur de celui-ci. La recourante conteste apparemment ce fait, et invoque qu’elle
+était « affichée à l’intérieur » dudit véhicule, sans
+du reste préciser où elle était ainsi affichée. Ce faisant, on peut considérer
+que la recourante conteste en réalité la constatation des faits opérée par le Ministère
+public au sens de l’art. 393 al. 2 let. b CPP. Or, elle se contente d’affirmer un autre fait
+que celui retenu par le Ministère public, mais sans essayer de démontrer que la constatation
+des faits opérée par celui-ci serait erronée, et que celle dont elle se prévaut serait
+plus correcte. Cette manière de procéder n’est pas recevable. Pour ce premier motif,
+son grief est irrecevable. De toute manière, la copie couleur de la photocopie en cause figurant
+au dossier (cf. pièce 4/12/27) montre la photocopie d’une page glissée dans une fourre
+en plastique en suspens sur une vitre, et donc bien affichée sur celle-ci. Dans la mesure où
+aucune des parties n’a jamais invoqué que cette photocopie aurait été placée
+à l’extérieur du véhicule, il faut admettre qu’elle a donc été affichée
+sur une des vitres du véhicule, à l’intérieur de celui-ci, mais de manière
+à être visible, et lisible, de l’extérieur. Ainsi, avec le Ministère public,
+il faut constater que, ayant été affichée sur l’une des vitres du véhicule
+de la recourante de manière à pouvoir être vue – et lue - par tout un chacun, la
+photocopie en cause et son contenu ne relèvent pas du domaine secret ou privé protégé
+par l’art. 179quater CP.
+Quant au lieu de situation du véhicule de la recourante, il est contesté, les prévenus
+ayant allégué dans leur requête de nova que la recourante le garait quotidiennement sans
+droit sur la partie commune de la PPE. Or, la recourante prétend dans son acte de recours qu’elle
+gare sa voiture systématiquement « devant l’entrée de sa maison, sous ses fenêtres »,
+ce qui serait « aux abords immédiats de l’entrée de chez elle » (acte
+de recours, p. 17). Ce faisant, elle prétend implicitement que la prise de vue en cause a été
+faite depuis un endroit dont elle aurait la jouissance exclusive, ou du moins près d’en tel
+endroit ; cet argument demeure cependant imprécis, et la recourante ne l’accompagne d’aucun
+plan ni règlement de PPE permettant d’étayer ses assertions. De toute manière, aucune
+mesure d’enquête ne serait propre à déterminer de quel endroit la photographie de
+la vitre du véhicule a été prise, et en tout cas pas qu’elle n’a pas été
+prise depuis une partie commune de la PPE, voire depuis la rue, la recourante admettant dans sa plainte
+qu’elle a placé durablement ces sourates dans son véhicule à des fins de protection,
+ce qui permettait à tout un chacun de prendre l’image en cause sans violer la sphère
+privée de la recourante, au sens défini ci-dessus (cf. consid. 5.2). La recourante ne propose
+du reste aucune mesure d’instruction pour établir ce fait.
+C’est ainsi à juste titre que le Ministère public n’est pas entré en matière
+sur la plainte déposée le 22 mars 2022 par P.________.
+6.
+6.1
+La recourante reproche à la procureure d’avoir rendu une ordonnance implicite de non-entrée
+en matière en n’envisageant pas l’application de l’art. 303 CP, qui
+se poursuit d’office. Selon elle, le comportement consistant à produire une traduction fausse
+des sourates le 28 janvier 2022 pour compléter leur plainte du 15 décembre 2021, et d’envoyer
+une traduction exacte des sourates le 6 avril 2022, sans retirer leur plainte pour autant, constituerait
+une dénonciation calomnieuse.
+6.2
+Aux termes de l'art. 303 ch. 1 al. 1 CP, se rend
+coupable de dénonciation calomnieuse quiconque aura dénoncé à l'autorité, comme
+auteur d'un crime ou d'un délit, une personne qu'il savait innocente, en vue de faire ouvrir contre
+elle une poursuite pénale. Sur le plan objectif, cette norme suppose qu’une communication
+imputant faussement à une personne la commission d’un crime ou d’un délit ait été
+adressée à l’autorité (ATF 132 IV 20 consid. 4.2 ; ATF 75 IV 78 ; TF 6B_483/2020
+du 13 octobre 2020 consid. 1.1.1). La dénonciation consiste à imputer en fait à la personne
+dénoncée un comportement qui est, en droit, constitutif d’un crime ou d’un délit.
+Pour qu’il y ait dénonciation, il n’est pas nécessaire que l’auteur affirme,
+comme étant certain, que la personne dénoncée a eu un tel comportement; il suffit qu’il
+rapporte à l’autorité, à dessein, des faits suffisants pour que celle-ci conçoive
+un soupçon qui l’oblige à procéder à des investigations (Delnon/Rüdy,
+in : Niggli/ Wiprächtiger [éd.], Basler Kommentar, Strafrecht II, 4
+e
+éd., Bâle 2019, n. 17 ad art. 303 CP).
+L’élément constitutif subjectif de l’infraction implique que l’auteur sache
+que la personne qu’il dénonce est innocente. Il s’agit d’une connaissance au sens
+strict. Le dol éventuel ne suffit pas (ATF 136 IV 170 consid. 2 ; TF 6B_1132/2021 du 8 juin 2022
+consid. 2.2).
+6.3
+En l’espèce, il faut d’abord relever qu’à aucun moment la recourante n’a
+invoqué dans sa plainte du 22 mars 2022 des faits relevant de la dénonciation calomnieuse,
+ni la qualification en cause, alors qu’elle y a décrit, juridiquement et avec précision,
+les infractions des art. 179 quater, 261, 261bis et 173 CP (dans cet ordre) aux pages 7 à 9. Bien
+plus, la recourante n’a pas complété sa plainte après le 6 avril 2022 ni après
+le 14 février 2023, date à laquelle le Ministère public a rendu une ordonnance de classement
+sur la plainte déposée par les prévenus. Dans ces conditions, il ne saurait y avoir d’ordonnance
+de non-entrée en matière implicite.
+7.
+Plainte du 28 septembre 2022
+7.1
+La recourante fait valoir que l’infraction de tentative de contrainte semble à tout le moins
+être réalisée lorsque N.________ a essayé d’ouvrir avec violence la portière
+de son véhicule et que la voiture de celui-ci était stationnée devant la sienne. Elle
+affirme en outre que N.________ aurait dû être entendu sur ses intentions. Elle soutient encore
+qu’elle est victime de harcèlement de la part de son voisin. Elle ne prétend plus que
+l’infraction de violation de domicile serait réalisée.
+7.2
+Conformément à l'art. 181 CP, se rend coupable de contrainte celui qui, en usant de violence
+envers une personne ou en la menaçant d'un dommage sérieux, ou en l'entravant de quelque autre
+manière dans sa liberté d'action, l'oblige à faire, à ne pas faire ou à laisser
+faire un acte. La menace d'un dommage sérieux est un moyen de pression psychologique consistant
+à annoncer un dommage futur dont la réalisation est présentée comme dépendante
+de la volonté de l'auteur, sans toutefois qu'il soit nécessaire que cette dépendance soit
+effective (ATF 117 IV 445 consid. 2b; 106 IV 125 consid. 2a; TF 6B_1407/2021 du 7 novembre 2022 consid.
+2.1) ni que l'auteur ait réellement la volonté de réaliser sa menace (ATF 122 IV 322 consid.
+1a; 105 IV 120 consid. 2a; TF 6B_1407/2021 précité consid. 2.1). La loi exige un dommage sérieux,
+c'est-à-dire que la perspective de l'inconvénient présenté comme dépendant de
+la volonté de l'auteur soit propre à entraver le destinataire dans sa liberté de décision
+ou d'action. La question doit être tranchée en fonction de critères objectifs, en se plaçant
+du point de vue d'une personne de sensibilité moyenne (ATF 122 IV 322 consid. 1a; 120 IV 17 consid.
+2a/aa; TF 6B_1407/2021 précité consid. 2.1). Il peut également y avoir contrainte lorsque
+l'auteur entrave sa victime "de quelque autre manière" dans sa liberté d'action.
+Cette formule générale doit être interprétée de manière restrictive. N'importe
+quelle pression de peu d'importance ne suffit pas. Il faut que le moyen de contrainte utilisé soit,
+comme pour la violence ou la menace d'un dommage sérieux, propre à impressionner une personne
+de sensibilité moyenne et à l'entraver d'une manière substantielle dans sa liberté
+de décision ou d'action. Il s'agit donc de moyens de contrainte qui, par leur intensité et
+leur effet, sont analogues à ceux qui sont cités expressément par la loi (ATF 141 IV 437
+consid. 3.2.1; 137 IV 326 consid. 3.3.1; TF 6B_1407/2021 précité consid. 2.1; TF 6B_637/2022
+du 29 septembre 2022 consid. 5.1.2; TF 6B_191/2022 du 21 septembre 2022 consid. 5.1).
+Lorsque l'auteur importune la victime de manière répétée durant une période
+prolongée, chaque acte devient, au fil du temps, susceptible de déployer, sur la liberté
+d'action de la victime, un effet d'entrave comparable à celui de la violence ou de la menace (au
+sujet de la notion de stalking ou de harcèlement obsessionnel, v. ATF 141 IV 437 et 129 IV 262 consid.
+2.3 à 2.5). Toutefois, en l'absence d'une norme spécifique réprimant de tels faits en
+tant qu'ensemble d'actes formant une unité, l'art. 181 CP suppose, d'une part, que le comportement
+incriminé oblige la victime à agir, à tolérer ou à omettre un acte et, d'autre
+part, que cela puisse être appréhendé comme le résultat d'un comportement de contrainte
+plus précisément circonscrit (ATF 129 IV 262 consid. 2.4; TF 6B_191/2022 précité
+consid. 5.1.2). Selon la jurisprudence, si le simple renvoi à un ensemble d'actes très divers
+commis sur une période étendue par l'auteur, respectivement à une modification par la
+victime de ses habitudes de vie ne suffit pas, faute de mettre en évidence de manière suffisamment
+précise quel comportement a pu entraîner quel résultat à quel moment (ATF 129 IV
+262 consid. 2.4; TF 6B_191/2022 précité consid. 5.1.2), l'intensité requise par l'art.
+181 CP peut néanmoins résulter du cumul de comportements divers ou de la répétition
+de comportements identiques sur une durée prolongée (ATF 141 IV 437 consid. 3.2.2).
+Selon la jurisprudence, la contrainte n'est contraire au droit que si elle est illicite, soit parce que
+le moyen utilisé ou le but poursuivi est illicite, soit parce que le moyen est disproportionné
+pour atteindre le but visé, soit encore parce qu'un moyen conforme au droit utilisé pour atteindre
+un but légitime constitue, au vu des circonstances, un moyen de pression abusif ou contraire aux
+mœurs (ATF 141 IV 437 consid. 3.2.1; 137 IV 326 consid. 3.3.1; 134 IV 216 consid. 4.1).
+Savoir si la restriction de la liberté d'action constitue une contrainte illicite dépend ainsi
+de l'ampleur de l'entrave, de la nature des moyens employés à la réaliser et des objectifs
+visés par l'auteur (ATF 129 IV 262 consid 2.1; 129 IV 6 consid. 3.4; arrêt 6B_191/2022 précité
+consid. 5.1.3).
+Lorsque la victime ne se laisse pas intimider et n'adopte pas le comportement voulu par l'auteur, ce
+dernier est punissable de tentative de contrainte (art. 22 al. 1 CP; ATF 129 IV 262; 106 IV 125 consid.
+2b; arrêt 6B_1407/2021 précité consid. 2.1). Pour qu'il y ait tentative de contrainte,
+il faut que l'auteur ait agi avec conscience et volonté, soit au moins qu'il ait accepté l'éventualité
+que le procédé illicite employé entrave le destinataire dans sa liberté de décision
+(ATF 120 IV 17 consid. 2c; TF 6B_1407/2021 précité consid. 2.1).
+7.3
+En l’espèce, les deux vidéos produites par la recourante sont brèves. Sur la première
+vidéo de 1 minutes 43, on voit le véhicule de N.________ proche de celui de la recourante,
+sans qu’on puisse affirmer que ce dernier a été bloqué. On discerne le prévenu
+agacé d’être filmé qui parle à un tiers, rentre dans son véhicule, avant
+d’en ressortir, de s’approcher de la portière de la voiture de la recourante, d’essayer
+de l’ouvrir en lui disant trois fois d’arrêter de le filmer. Il rentre ensuite dans
+sa voiture et s’en va. La deuxième vidéo, qui contient les images du véhicule qui
+sort du parking, dure 29 secondes, étant précisé que les véhicules ne sont pas dans
+la même position que sur la première vidéo.
+Au vu de la durée de ces événements et du fait que les véhicules ont dû manœuvrer
+pour sortir du parking, on ne saurait retenir quoiqu’il en soit que la recourante a été
+contrainte dans sa liberté de se mouvoir d’une manière suffisamment marquée. En
+outre, le fait que l’intimé a essayé d’ouvrir la portière du véhicule
+dans lequel se trouvait la recourante, sans violence particulière contrairement à ce qu’elle
+affirme, et qu’il lui a dit presque simultanément à trois reprises « vous allez
+arrêter de me filmer » ne constitue manifestement pas une tentative de contrainte ; ses paroles
+suffisent de plus à établir quelle était son intention, de sorte qu’il est inutile
+de l’entendre sur ce point. Enfin, R.________ est restée assise sur le siège avant passager
+du véhicule de son compagnon pendant ce laps de temps, de sorte qu’on ne voit pas ce qui pourrait
+lui être reproché.
+Quant au stalking, avec le Ministère public, il faut retenir que les faits dénoncés ne
+remplissement pas les conditions restrictives de cette infraction. Pour toute preuve, la plainte était
+accompagnée de photographies de véhicules stationnés et de deux personnes, ce qui est
+insuffisant pour rendre même plausible la commission d’une telle infraction (P 7/2-7/4).
+La non-entrée en matière prononcée par la Procureure s’agissant de cette plainte
+pénale peut également être confirmée.
+8.
+Plainte du 3 novembre 2022
+8.1
+La recourante conteste l’appréciation du Ministère public selon laquelle les faits qu’elle
+dénonce ne sont pas constitutifs de contrainte, en particulier de stalking.
+8.2
+Les éléments de la contrainte par stalking ont été rappelés au considérant
+7.2 ci-dessus, auquel il suffit de renvoyer.
+8.3
+En l’espèce, il faut d’abord constater que la recourante n’invoque plus que les
+faits dénoncés dans sa plainte du 3 novembre 2022 seraient constitutifs d’une violation
+du domaine secret ou du domaine privé au moyen d’un appareil de prise de vue, au sens de l’art.
+179 quater CP, ni ne développe d’argument à cet égard. Sa contestation ne sera donc
+examinée que sous l’angle de l’infraction de contrainte.
+A cet égard, la recourante relate dans sa plainte plusieurs incidents liés au litige qui la
+divise d’avec ses voisins et copropriétaires. Ceux-ci s’insèrent dans le conflit
+qui a donné lieu, comme déjà mentionné, à un important procès civil et
+à plusieurs procédures pénales. Le fait qu’un tel conflit ne peut qu’être
+pesant, voire très pesant, ne suffit pas à considérer que la recourante est victime de
+stalking. Elle invoque en effet certains incidents qui sont anciens et qui seraient survenus en même
+temps que la procédure pénale qui a donné lieu à sa condamnation et au rejet de son
+recours le 11 mars 2022 par le Tribunal fédéral (TF 6B_1054/2021), dont elle paraît toujours
+contester le bien-fondé.  Les nombreux griefs relatifs à une période antérieure
+au 3 août 2022 (accès empêché en 2017 et 2018, barrage du passage sur les échafaudages
+en août 2017, arrachage de piquets en mai 2018, neige accumulée autour de son véhicule
+en décembre 2021, prises de vue en avril 2018, en 2021 et en janvier 2022), y compris en relation
+avec des plaintes qu’elle a déjà déposées en temps utile, sont manifestement
+tardifs (art. 31 al. 1 CP); la recourante n’expose au demeurant pas en quoi elle n’était
+pas en mesure de déposer plainte plus tôt pour les faits en cause, non déjà couverts
+par ses plaintes précédentes. Elle ne saurait en effet ne pas déposer plainte en temps
+utile ensuite de certains comportements qu’elle considère comme répréhensibles pris
+isolément, et attendre plusieurs années pour s’en plaindre en bloc.
+De toute manière, vu l’écoulement du temps, il serait impossible d’établir
+un grand nombre des faits qu’elle dénonce, et notamment si ceux-ci étaient inhérents
+à la marche d’un chantier ou s’ils relevaient d’une volonté de lui nuire
+(cf. ch. 3, 4 et 5 de la plainte pénale : accès à sa villa bloqué, mètres
+cubes de terre déversés dans son jardin, alors qu’elle indique elle-même que sa
+condamnation est liée à ce dernier événement), étant précisé qu’il
+ressort de leurs allégations dans la procédure civile qui divise les parties que les prévenus
+eux-mêmes se plaignent également d’être « à bout » du fait
+des comportements prétendument répréhensibles de la recourante (cf. all. 2802 à 2803
+cités au consid. 3.3. ci-dessus).
+Enfin, la recourante se plaint du fait que plus de 500 photographies ont été prises de son
+véhicule, et qu’elle se sent ainsi surveillée. Ce qui a été dit ci-dessus au
+sujet du délai de plainte s’applique ici. La recourante invoque que, depuis des années,
+soit au moins depuis 2018, depuis le 1
+er
+avril 2021 et en janvier 2022, elle ne cesse d’être prise en photo et filmée par ses
+voisins (cf. ch. 10 à 12 de la plainte pénale). Tous ces faits étant antérieurs au
+3 août 2022, les conditions pour une ouverture d’instruction ne sont manifestement pas réunies
+(art. 310 al. 1 al. 1 CPP). Quant aux photographies postérieures, la recourante ne les détaille
+pas, se contentant d’alléguer que son véhicule aurait été photographié
+506 fois depuis le 1
+er
+avril 2022 jusqu’au 12 août 2022 (cf. chiffre 12 de la plainte). La lecture de l’annexe
+45 offerte à titre de preuve de ces allégations ne concerne toutefois que des photographies
+d’avril à novembre 2021 (selon les dates apposées sur celles-ci). Quant aux photographies
+que la recourante fait grief aux prévenus d’avoir produit en septembre 2022 (cf. chiffre 14
+de la plainte), il s’agit de quatre photographies, qui ont apparemment été produites
+par les prévenus auprès du Ministère public dans le cadre de la plainte pénale qu’ils
+avaient déposés contre la recourante, en relation avec le stationnement de son véhicule.
+Manifestement, ces prises de vue – qui ne sont pas contestées sous l’angle de l’art.
+179 quater CP – ne suffisent pas à retenir que la recourante ferait l’objet d’un
+stalking.
+L’ordonnance de non-entrée en matière peut être confirmée sur ce point.
+9.
+Plainte du 14 décembre 2022
+9.1
+La recourante reproche à la procureure de n’avoir pas ouvert d’instruction s’agissant
+de cette plainte, dans laquelle elle avait exposé que dans la nuit du vendredi au samedi 10 décembre
+2022, vers minuit et quart, elle avait vu N.________ parquer son véhicule et au moment où il
+a longé sa voiture frapper violemment sur le coffre de son véhicule avec sa main et cracher
+avec force et haine contre le pare-brise arrière derrière lequel se trouvent les sourates du
+Coran visibles, la nuit étant claire. Elle reproche au Ministère public de n’avoir envisagé
+la question que sous l’angle du dommage à la propriété mais pas sous l’angle
+de l’injure et de l’atteinte à la liberté de croyance et des cultes. Or, un crachat
+par terre ou en direction de quelqu’un peut être une injure car il a pour but d’exprimer
+le mépris, d’une part ; en outre, les sourates sont protégées par l’art.
+261 CP et l’offense portée contre elle peut s’exprimer par le geste, d’autre part.
+9.2
+L’art. 177 al. 1 CP dispose que quiconque aura, de toute autre manière, aura, par la parole,
+l’écriture, l’image, le geste ou par des voies de fait, attaqué autrui dans son
+honneur sera, sur plainte, puni d’une peine pécuniaire de 90-jours-amende au plus. L’atteinte
+peut revêtir diverses formes, comme cracher en direction de quelqu’un (Dupuis et alii (éd.),
+Petit commentaire, Code pénal, 2
+e
+éd. 2017, n. 8 ad art. 177 CP).
+La teneur de l’art. 261 CP figure au consid. 4.2 ci-dessus, auquel il suffit de renvoyer. L’art.
+261 al. 3 CP vise la profanation d’un objet de culte. Cette infraction est intentionnelle et le
+point de savoir si le dol éventuel suffit est controversé (Dupuis, op. cit., n. 33 ad art.
+261 CP et la référence).
+9.3
+En l’espèce, il faut relever d’emblée que la recourante ne considère plus
+que son voisin aurait pu se rendre coupable de dommage à la propriété.
+S’il est vrai que l’on peut admettre que le fait de cracher sur le véhicule de quelqu’un
+ou en direction des photocopies d’une page d’un coran affichée sur une des vitres d’un
+véhicule – le coran étant indéniablement un objet de culte -, est susceptible dans
+certaines circonstances de remplir les conditions de l’injure, respectivement de l’atteinte
+à la liberté de croyance et des cultes, force est de constater que les faits dénoncés
+ne reposeraient que sur les dires de P.________. L’ouverture d’une instruction serait vaine.
+En effet, aucun élément n’est susceptible d’apporter la preuve ni même de
+rendre vraisemblables les faits dénoncés ni plus particulièrement l’existence de
+l’élément subjectif. Au demeurant, même si le prévenu avait craché en
+pleine nuit, il serait impossible de retenir à sa charge que son geste était accompagné
+d’une marque de mépris visant la recourante et que cette marque de mépris était
+d’une certaine gravité (pour l’injure), ni qu’il visait précisément
+l’objet de culte et non pas simplement le véhicule (pour l’atteinte à la liberté
+de croyance et des cultes). Dans ces circonstances, une condamnation du prévenu apparaît exclue.
+C’est donc à juste titre que la procureure a refusé d’entrer en matière sur
+cette plainte également.
+10.
+En définitive, le recours, manifestement mal fondé, doit être rejeté sans échange
+d’écritures (art. 390 al. 2 CPP) et l’ordonnance attaquée confirmée.
+Les frais de la procédure
+de recours, constitués du seul émolument d’arrêt par 3’410 fr. (art. 20 al.
+1 TFIP [Tarif des frais de procédure et indemnités en matière pénale du 28 septembre
+2010 ; BLV 312.03.1]), seront mis à la charge de la recourante, qui succombe (art. 428 al. 1 CPP).
+Le présent arrêt sera communiqué aux prévenus, puisque l’ordonnance attaquée
+l’a été.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du
+28 juin 2023 est confirmée.
+III.
+Les frais d’arrêt, par 3'410 fr. (trois
+mille quatre cent dix francs), sont mis à la charge de P.________.
+IV.
+L’arrêt est
+exécutoire.
+La
+présidente :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Frank Tièche, avocat (pour P.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de Lausanne,
+-
+M. A.L.________,
+-
+Mme B.L.________,
+-
+M. G.________,
+-
+Mme C.________,
+-
+M. N.________,
+-
+Mme R.________,
+-
+Me A.W.________, avocat,
+-
+Me B.W.________, avocate,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
