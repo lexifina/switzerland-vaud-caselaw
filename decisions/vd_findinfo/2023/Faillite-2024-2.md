@@ -1,0 +1,316 @@
+---
+decision_id: "vd_findinfo_Faillite___2024___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2024 / 2"
+decided: "2023-12-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9679488"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-107.md", "switzerland/bund/acts/272/art-138.md", "switzerland/bund/acts/272/art-142.md", "switzerland/bund/acts/272/art-150.md", "switzerland/bund/acts/272/art-248.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-255.md", "switzerland/bund/acts/281.1/art-031.md", "switzerland/bund/acts/281.1/art-166.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2024 / 2
+
+## Regeste
+
+RÉQUISITION DE FAILLITE, OBSERVATION DU DÉLAI, MAXIME INQUISITOIRE SOCIALE, AVEU, DÉCISION DE RENVOI | 166 al. 2 LP, 166 LP, 107 al. 2 LTF, 107 LTF, 150 al. 1 CPC (CH), 255 CPC (CH), 255 let. a CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2024 / 2
+
+RÉQUISITION DE FAILLITE, OBSERVATION DU DÉLAI, MAXIME INQUISITOIRE SOCIALE, AVEU, DÉCISION DE RENVOI | 166 al. 2 LP, 166 LP, 107 al. 2 LTF, 107 LTF, 150 al. 1 CPC (CH), 255 CPC (CH), 255 let. a CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF22.031494-231175
+243
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+29 décembre 2023
+______________________
+Composition
+:               M.
+Hack
+,
+président
+Mme
+Byrde et M. Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+166 al. 2 LP, 107 al. 2 LTF ; 150 al. 1, 255 let. a CPC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite à la suite de l’arrêt
+rendu le 3 août 2023 par la IIe Cour de droit civil du Tribunal fédéral, s'occupe du recours
+exercé par
+W.________
+SA
+en
+liquidation
+, à [...], contre le jugement
+rendu le 6 septembre 2022, à la suite de l’audience du même jour, par le Président
+du Tribunal d’arrondissement de la Broye et du Nord vaudois, prononçant par défaut des
+parties la faillite de la recourante à la réquisition de
+T.________
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le
+4 septembre 2020, à la réquisition de T.________, l’Office des poursuites du district
+du Jura-Nord vaudois a notifié à W.________ SA, dans la poursuite ordinaire n° 9'665'884,
+un commandement de payer la somme de 600'000 fr. avec intérêt à 6 % l’an dès
+le 4 octobre 2017, indiquant comme titre de la créance ou cause de l’obligation : «
+Montant
+prêté mais non remboursé en violation du contrat de prêt numéraire signé
+le 2 octobre 2017 par les parties : (spéc. art. 1 al. 2, 2 al. 1 et al. 3
+».
+La poursuivie a formé opposition totale.
+b)
+Par
+prononcé du 23 février 2021, rendu sur requête de T.________ du 11 septembre 2020, le
+Juge de paix des districts du Jura-Nord vaudois et du Gros-de-Vaud a prononcé la mainlevée
+provisoire de l’opposition dans la poursuite susmentionnée (I), a arrêté les frais
+judiciaires à 990 fr. (II), les a mis à la charge de la poursuivie (III) et a dit qu’en
+conséquence, celle-ci rembourserait au poursuivant son avance de frais, par 990 fr., et lui verserait
+des dépens, fixés à 2'000 fr. (IV). La copie du prononcé motivé, adressée
+au parties le 16 avril 2021, comporte un timbre humide du 26 mai 2021 indiquant qu’aucun recours
+n’a été déposé, le prononcé étant définitif et exécutoire.
+Les 3 et 30 juin 2021, les premières greffières du Tribunal d’arrondissement de la Broye
+et du Nord vaudois, ainsi que de la Chambre patrimoniale cantonale ont attesté chacune qu’aucune
+action en libération de dette n’avait été introduite devant leurs autorités
+respectives à la suite du prononcé susmentionné.
+c)
+Le
+14 juillet 2022, à la réquisition de T.________, l’Office des poursuites du district
+du Jura-Nord vaudois a notifié à W.________ SA une commination de faillite dans la poursuite
+en cause, portant sur les sommes de 600'000 fr. avec intérêt à 6 % l’an dès
+le 4 octobre 2017, 433 fr. 85 de frais de commandement de payer et de commination de faillite et 2'990
+fr. de frais de mainlevée.
+2.
+Par acte du 2 août 2022, reçu au greffe
+du tribunal d’arrondissement le lendemain, T.________ a requis du Président du Tribunal d’arrondissement
+de la Broye et du Nord vaudois qu’il prononce la faillite d’W.________ SA.
+Par courriers recommandés du 8 août 2022, le président a notifié la requête
+à la poursuivie et a cité les parties à comparaître à l’audience du 6 septembre
+2022 à 11 h 30.
+Les parties ont fait défaut à l’audience du 6 septembre 2022.
+3.
+a)
+Par jugement du 6 septembre 2022, notifié
+à la poursuivie le 15 septembre 2022, le Président du Tribunal d’arrondissement
+de la Broye et du Nord vaudois, statuant en tant qu’autorité de première instance en
+matière sommaire de poursuites et de faillites, a prononcé la faillite d’W.________ SA
+avec effet le 6 septembre 2022 à 11 h 45 (I), a ordonné la liquidation sommaire de
+la faillite (II) et a mis les frais judiciaires, par 200 fr., à la charge de la faillie (III).
+b)
+Par
+acte du 26 septembre 2022, W.________ SA en liquidation a recouru contre ce jugement en concluant, avec
+suite de frais et dépens des deux instances, principalement à la réforme du jugement en
+ce sens qu’il est renoncé à la faillite et, subsidiairement, à l’annulation
+du jugement et au renvoi de la cause au premier juge pour nouvelle décision dans le sens des considérants.
+Elle a produit un bordereau de quatorze pièces. Elle a allégué, dans la partie «
+faits
+»
+de son recours que la motivation du prononcé de mainlevée du 23 février 2021 avait été
+notifiée aux parties le 19 avril 2021 et a produit à l’appui de cette allégation
+une copie de dite motivation dont il ressort qu’elle a été adressée aux parties
+le 16 avril 2021.
+Par arrêt du 30 décembre 2022, la Cour
+des poursuites et faillites du Tribunal cantonal a rejeté le recours interjeté par W.________
+SA en liquidation contre ce jugement (I), a confirmé celui-ci (II), a mis les frais judiciaires
+de deuxième instance, arrêtés à 300 fr. à la charge de la recourante (III) et
+a déclaré l’arrêt exécutoire (IV).
+4.
+Par arrêt du 3 août 2023, la IIe Cour
+de droit civil du Tribunal fédéral a notamment admis le recours interjeté par W.________
+SA en liquidation, a annulé l’arrêt du 30 décembre 2022 et a renvoyé la
+cause à l’autorité précédente pour instruction et nouvelle décision (1).
+En substance, la Haute cour a examiné le respect par T.________ du délai de l’art. 166
+al. 2 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ;
+RS 281.1) et, dans ce cadre, a ordonné à la cour de céans d’instruire la question
+de la date de la notification de la motivation du prononcé de mainlevée du 23 février
+2021 (consid. 6.5 et 6.6).
+5.
+Dans ses déterminations du 22 septembre 2023,
+T.________ a conclu, avec suite de frais et dépens, à la réforme du jugement de faillite
+en ce sens que sa requête est rejetée. Il a admis que la motivation du prononcé de mainlevée
+avait été notifiée aux parties le 19 avril 2021 et que sa requête de faillite
+était de ce fait tardive.
+En droit
+:
+I.
+a)
+Selon l'art. 107 al. 2, 1re phrase, LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), si le Tribunal fédéral admet le recours, il statue lui-même sur le fond ou
+renvoie l'affaire à l'autorité précédente pour qu'elle prenne une nouvelle décision.
+Le principe de l'autorité de l'arrêt de renvoi découle du droit fédéral non
+écrit (ATF 148 I 127 consid. 3.1 ; ATF 143 IV 214 consid. 5.3.3 p. 222 s.). Conformément
+à ce principe, l'autorité à laquelle la cause est renvoyée par le Tribunal fédéral
+est tenue de fonder sa nouvelle décision sur les considérants de droit de l'arrêt du Tribunal
+fédéral. Elle est ainsi liée par ce qui a déjà été définitivement
+tranché par le Tribunal fédéral et par les constatations de fait qui n'ont pas été
+attaquées devant lui ou l'ont été sans succès (ATF 148 I 127 consid. 3.1 ; ATF
+143 IV 214 consid. 5.2.1 p. 220). La motivation de l'arrêt de renvoi détermine dans quelle
+mesure la cour cantonale ou du Tribunal pénal fédéral est liée à la première
+décision, prononcé de renvoi qui fixe aussi bien le cadre du nouvel état de fait que celui
+de la nouvelle motivation juridique (cf. ATF 148 I 127 consid. 3.1 ; ATF 135 III 334 consid. 2 p.
+335 s.; arrêt 6B_1231/2020 du 12 mai 2021 consid. 1.3.1 et les arrêts cités).
+b)
+En
+l’espèce la cause a été renvoyée à la cour de céans pour déterminer
+la date de notification de la motivation du prononcé de mainlevée du 23 février 2021.
+II.
+a)
+La
+procédure sommaire, réglée par les art. 248 ss CPC, s'applique aux décisions rendues
+en matière de faillite (art. 251 let. a CPC). L'art. 255 let. a CPC réserve la maxime inquisitoire.
+Le tribunal doit ainsi établir les faits d'office (" von Amtes wegen feststellen ").
+Il s'agit là de la maxime inquisitoire simple ou sociale (" eingeschränkte oder soziale
+Untersuchungsmaxime "; TF 5A_354/2016 du 22 novembre 2016 consid. 4.1 ; TF 5A_829/2014
+du 9 février 2015 consid. 2.4). Cette maxime a été conçue pour protéger la partie
+faible au contrat, pour garantir l'égalité entre les parties au procès et pour accélérer
+la procédure. Elle ne dispense pas les parties d'une collaboration active lors de la procédure
+(ATF 130 III 102 consid. 2.2; ATF 125 III 231 c. 4a). Les parties doivent recueillir elles-mêmes
+les éléments du procès; il leur incombe de renseigner le juge sur les faits de la cause
+et de lui indiquer les moyens de preuve propres à établir ceux-ci. De son côté, le
+juge doit établir d'office les faits, ce qui ne le contraint toutefois pas à rechercher lui-même
+l'état de fait pertinent (" von Amtes wegen erforschen "). Il doit informer
+les parties de leur devoir de coopérer à la constatation des faits et à l'administration
+des preuves et doit les interroger pour s'assurer que leurs allégués de fait et leurs offres
+de preuves sont complets s'il a des motifs objectifs d'éprouver des doutes sur ce point. Son rôle
+ne va toutefois pas au-delà; il ne se livre à aucune investigation de sa propre initiative
+(ATF 141 III 569 consid. 2.3.1, 2.3.2 et 3.1; TF 5A_354/2016 précité consid. 4.1 ; TF
+5A_829/2014 précité consid. 2.4).
+b)
+La
+jurisprudence considère comme non arbitraire l’application préconisée par une partie
+de la doctrine de la règle de l’art. 150 al. 1 CPC à la procédure régie par
+la maxime inquisitoire simple, ce qui a pour corollaire que les faits admis par les parties n’ont
+pas à être prouvés dans ce régime, pour autant que celles-ci aient la libre disposition
+de l’objet du litige (TF 5A_20/2020 du 28 août 2020 consid. 4.2 ; TF 5A_298/2015 du 30 septembre
+2015 consid 2.1.2 avec les références citées).
+c)
+En
+l’espèce, le Tribunal fédéral a considéré, de façon à lier la
+cour de céans, que le délai de l’art. 166 al. 2 LP avait commencé à courir
+le lendemain de la notification du commandement de payer, à savoir le 5 septembre 2020 (consid.
+6.2) et qu’il avait été suspendu après six jours par le dépôt le 11 septembre
+2020 de la requête de mainlevée (consid. 6.3). Il a considéré qu’il n’était
+pas contraire au droit fédéral d’admettre que le délai litigieux avait recommencé
+à courir le lendemain de la notification de la motivation du prononcé (consid. 6.4 et 6.5)
+et qu’il n’avait plus été suspendu par la suite, la poursuivie n’ayant pas
+ouvert action en libération de dette, ni formé plainte LP contre la commination de faillite
+(consid. 6.5).
+Avec sa réquisition de faillite du 2 août 2022, l’intimé a produit une copie certifiée
+conforme de la motivation du prononcé de mainlevée du 23 février 2021, dont il ressort
+qu’elle a été adressée aux parties le 16 avril 2021 et attestée exécutoire
+à défaut de recours le 26 mai 2021. Dans son recours du 26 septembre 2022, la recourante a
+allégué que la motivation en cause avait été notifiée aux parties le 19 avril
+2021 et a produit à l’appui de cette allégation une copie certifiée conforme de
+ladite motivation. Dans ses déterminations déposées le 22 septembre 2023 à la suite
+de l’arrêt du Tribunal fédéral, l’intimé a admis que la motivation du
+prononcé de mainlevée avait été notifiée aux parties le 19 avril 2021 et a reconnu
+que la requête de faillite du 2 août 2022 était tardive.
+Au considérant III) de l’arrêt du 30 décembre 2022, non examiné par le Tribunal
+fédéral, la cour de céans a jugé qu’après l’échéance du
+délai de recours contre un jugement prononçant la faillite du débiteur, un retrait de
+la requête de faillite par le poursuivant était inopérant. Elle a fondé cette solution
+sur l’avis de la jurisprudence cantonale et la doctrine qui relevaient que les parties n’avaient
+alors plus la libre disposition de l’objet du litige (OGer ZH, PS190141 du 16 septembre 2019 consid.
+II/4 ; Giroud/Theus Simoni, in Staehelin/Bauer/Lorandi (éd.), Basler Kommentar SchKG II, 3
+e
+éd., 2021, n. 23 ad art. 174 LP), la faillite n’étant pas instituée dans l’intérêt
+du poursuivant qui l’a requise – ou du poursuivi –, mais dans l’intérêt
+des autres créanciers (Gilliéron, Commentaire de la LP, n. 21 ad art. 174 LP et référence
+aux travaux parlementaires). Aussi, sur le principe et au vu de ce qui a été exposé plus
+(cf. consid. IIb)), l’aveu judiciaire de la part de l’intimé sur la date de notification
+de la motivation du prononcé de mainlevée pourrait ne pas lier pas la cour de céans. Toutefois,
+les parties étaient informées du point à instruire dans le cadre du renvoi ; elles
+n’ont pas produit de pièces établissant sans conteste celui-ci et la cour de céans
+ne saurait, dans le cadre de la maxime inquisitoire simple, procéder à des investigations de
+sa propre initiative. Comme il appartient au requérant à la faillite d’établir que
+le délai péremptoire de l’art. 166 al. 2 LP a été respecté, c’est
+à l’intimé de supporter les conséquences de l’absence de preuve sur le point
+faisant l’objet du renvoi. La requête de faillite du 2 août 2022 doit en conséquence
+être considérée comme tardive.
+Au surplus, il ressort de la motivation du prononcé de mainlevée du 23 février 2021
+que celle-ci a été envoyée aux parties le 16 avril 2021. On peut admettre qu’elle
+a été notifiée à l’intimé au plus tard à l’échéance
+du délai de sept jours de l’art. 138 al. 3 let. a CPC, soit le 23 avril 2021. L’intimé
+ne fait d’ailleurs valoir aucun vice dans la notification et a requis l’attestation du caractère
+exécutoire du prononcé qui a été délivrée le 26 mai 2021. Le délai
+de quinze mois de l’art. 166 al. 2 LP est ainsi arrivé à échéance au plus tard
+le 17 juillet 2022, compte tenu du fait qu’il avait couru six jours du 5 au 11 septembre 2020 (cf.
+art. 142 al. 2 CPC applicable par renvoi de l’art. 31 LP).
+La requête de faillite déposée le 2 août 2022 était ainsi tardive et aurait
+dû être rejetée pour ce motif.
+III.
+En conclusion, le recours doit être admis
+et le jugement réformé en ce sens que la requête de faillite est rejetée et la faillite
+annulée.
+Vu le caractère particulier de la cause, les frais judiciaires de première instance seront
+laissés à la charge de l’Etat (art. 107 CPC). Il n’y a pas lieu d’allouer
+de dépens de première instance, W.________ SA n’ayant pas procédé en première
+instance.
+Il en va de même des frais judiciaires de deuxième instance. L’avance versée par
+la recourante lui sera restituée. Il n’y a pas lieu d’allouer de dépens de deuxième
+instance, l’intimé ayant adhéré au recours.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le jugement est réformé en ce sens que la requête de faillite du 2 août 2022 est
+rejetée.
+La faillite prononcée
+le 6 septembre 2022 est annulée.
+Les frais judiciaires
+de première instance sont laissés à la charge de l’Etat.
+III.
+Les frais judiciaires de deuxième instance, sont laissés à la charge de l’Etat,
+l’avance de 300 fr. (trois cent francs) versée par W.________ SA lui étant restituée.
+IV.
+Il n’est pas alloué de dépens de deuxième instance.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Habib Tabet, avocat (pour W.________ SA),
+‑
+Me Marc Cheseaux, avocat (pour T.________),
+-
+M. le Préposé à l'Office des poursuites du district du Jura-Nord vaudois,
+-
+Mme la Préposée à l'Office des faillites de l'arrondissement de la Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de la Broye et du Nord vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de la Broye et du Nord vaudois.
+Le greffier :
