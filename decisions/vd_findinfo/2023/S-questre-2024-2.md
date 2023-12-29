@@ -1,0 +1,272 @@
+---
+decision_id: "vd_findinfo_S_questre___2024___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2024 / 2"
+decided: "2023-12-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9679503"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/211.432.1/art-079.md", "switzerland/bund/acts/272/art-107.md", "switzerland/bund/acts/272/art-309.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-273.md"]
+---
+
+# VD Findinfo Séquestre / 2024 / 2
+
+## Regeste
+
+DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION, DÉCISION DE RENVOI, SÉQUESTRE{LP} | 29 al. 1 Cst., 271 al. 1 ch. 4 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Séquestre / 2024 / 2
+
+DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION, DÉCISION DE RENVOI, SÉQUESTRE{LP} | 29 al. 1 Cst., 271 al. 1 ch. 4 LP
+
+TRIBUNAL
+CANTONAL
+KH23.029180-231004
+266
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+29 décembre 2023
+__________________
+Composition
+:              M.
+Hack
+,
+président
+Mmes
+Byrde et Giroud Walther, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+271 al. 1 ch. 4 LP et 29 al. 1 Cst
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+U.________
+,
+à Bussigny, contre l’ordon-nance de séquestre rendue le 7 juillet 2023 par le Juge de
+paix des districts du Jura-Nord vaudois et du Gros-de-Vaud, dans la cause opposant la recourante à
+B.________
+,
+à Tostedt (Allemagne),
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 6 juillet 2023,
+U.________ a requis
+du Juge de paix des districts du Jura-Nord vaudois et du Gros-de-Vaud :
+I)
+qu’il ordonne le
+séquestre, à concurrence de 459'814 fr. 80, de « tous avoirs,
+espèces, valeurs, titres, créances, droits, métaux précieux, œuvres d’art,
+choses ou bien en compte,
+dépôts ou coffres-fort, sous nom propre, désignation
+conventionnelle ou numérique, appartement soit à titre individuel soir conjointe-
+ment sous quelque forme que ce soit au débiteur B.________ ou
+contrôlés par lui sur lesquels il dispose d’une procuration ou de tout autre
+pouvoir ou sous le nom d’un tiers ou de fantaisie ou d’un prêt de nom mais
+appartenant en réalité au débiteur, soit notamment : Le bien immobilier décrit
+par le registre foncier
+vaudois comme suit : n° d’immeuble [...], immeuble de
+base [...] [...], n° [...]» ;
+II)
+qu’il ordonne au Préposé de l’Office des poursuites des districts du Jura-Nord
+vaudois et du Gros-de-Vaud de
+procéder immédiatement au séquestre susmen-
+tionné ;
+III)
+qu’il communique sans délai le jugement au Conservateur du Registre foncier
+Broye-Nord vaudois, à charge pour lui d’annoter la restriction du droit d’aliéner
+la parcelle [...] de la
+commune de [...] (art. 79 lit. a ORF) ;
+IV)
+qu’il dispense U.________ de fournir des sûretés au sens de l’art.
+273 LP.
+b)
+Le 7 juillet 2023, le Juge de paix des districts du Jura-Nord vaudois et du Gros-de-Vaud a scellé
+une ordonnance de séquestre contre B.________ portant sur une créance de 50’000 fr.,
+avec intérêt et accessoires légaux, et précisant notamment ce qui suit :
+«
+Titre et date de la créance / Cause de l'obligation : Restitution de l’acompte dans le cadre
+de la vente à terme
+conditionnelle et droit d’emption selon acte notarié du 30 juin 2021,
+complété par acte notarié du 15 novembre 2022.
+Cas de séquestre : art. 271 al. 1 ch. 4 LP
+Objets à séquestrer : Parcelle RF n. [...] de la commune de [...]
+(…) »
+Le créancier est dispensé de fournir des sûretés. ».
+b)
+Par courrier du 12 juillet 2023, la requérante a invité le juge de paix à reconsidérer
+sa décision en accordant le séquestre sur le montant total des créances invoquées,
+de 459'814 fr. 80, et subsidiairement de motiver sa décision avant l’éché-ance du
+délai de recours afin qu’elle puisse recourir en connaissance de cause.
+Le 14 juillet 2023, le premier juge a répondu qu’il n’entendait pas recon-sidérer
+sa décision.
+2.
+Par acte déposé le 18 juillet 2023, U.________ a recouru contre l’ordonnance de séquestre
+du 7 juillet 2023, concluant, avec suite de frais et dépens, à l’annulation de l’ordonnance
+(II) et à ce qu’il soit fait droit aux conclusions I à IV de sa requête de séquestre
+du 6 juillet 2023 (III à VI).
+En droit
+:
+I.
+Un recours au sens des art. 319 ss CPC (Code de
+procédure civile du 19 décembre 2008 ; RS 272) est ouvert contre le refus du séquestre,
+en vertu des art. 309 let. b ch. 6 et 319 let. a CPC (TF 5A_508/2012 du 28 août 2012 consid. 3.1
+; Jeandin, in Bohnet et alii [éd.], Commentaire romand, Code de procédure civile, 2e éd.,
+2019, n. 14a ad art. 309 CPC ; CPF 17 février 2023/14 ; CPF 26 août 2020/246 ; CPF 24
+novembre 2015/324).
+En l’espèce, le recours a été déposé dans le délai de dix jours de
+l’art. 321 al. 2 CPC, par une partie dont la requête de séquestre a été partiellement
+rejetée. Motivé conformément à l’art. 321 al. 1 CPC, il est recevable, à
+l’exception du renvoi à l’entier de la requête de séquestre (cf. recours p.
+10) qui ne respecte pas les réquisits de la jurisprudence relatifs
+à
+l’exigence de motivation de l’art. 321 al. 1 CPC
+(
+TF 4A_593/2015 du 13 décembre
+2016 consid. 5.2
+).
+Les pièces produites à l’appui du recours, qui figurent déjà au dossier de
+première instance, sont recevables.
+II.
+a)
+Dans un premier grief d’ordre formel,
+la recourante fait valoir une violation de son droit d’être entendue. Elle expose qu’elle
+avait requis que le séquestre porte sur une créance d’un montant de 459'814 fr. 80, que
+cette requête n’a été admise qu’à concurrence de 50'000 fr., et que la
+décision attaquée a été rendue « sous la forme d’un simple formulaire »
+qui n’indique pas pour quels motifs sa requête a été partiellement rejetée.
+En outre, elle relève qu’elle a requis la motiva-tion de ladite décision par courrier
+du 12 juillet 2023, en vain. Enfin, les voies de droit indiquées sur le formulaire seraient incomplètes,
+puisque seules l’opposition et la plainte y seraient mentionnées, à l’exclusion
+du recours. Les art. 38 et 239 CPC seraient violés. Elle considère toutefois que la Cour des
+poursuites et faillite dispose du même pouvoir d’examen que le premier juge, et qu’elle
+est par conséquent en mesure de réparer le vice en statuant elle-même sur le fond. Pour
+ce faire, elle renvoie aux arguments de la requête qu’elle a déposée le 6 juillet
+2023 (« Cette requête est ici censée alléguée dans son entier, la
+recourante, pour une question de lourdeur, renonce ici à la reprendre mot pour mot »),
+et les résume en pp. 10 à 14 de son acte de recours.
+b)
+Selon la jurisprudence, commet un déni
+de justice formel proscrit par l'art. 29 al. 1 Cst. l'autorité qui ne traite pas un grief relevant
+de sa compétence, motivé de façon suffisante et pertinent pour l'issue du litige (ATF
+142 II 154 consid. 4.2; ATF 141 V 557 consid. 3.2.1; ATF 135 I 6 consid. 2.1; TF 5A_351/2023 du
+13
+juillet 2023 consid. 4.2 ; TF 5A_1062/2019 du 16 avril 2020 consid. 4.1). De même, la jurisprudence
+a déduit du droit d'être entendu de l'art. 29 al. 2 Cst. l'obligation pour l'autorité
+de motiver sa décision, afin que l'intéressé puisse se rendre compte de la portée
+de celle-ci et l'attaquer en connaissance de cause (ATF 143 III 65 consid. 5.2; 142 I 135 consid. 2.1;
+138 I 232 consid. 5.1; 136 V 351 consid. 4.2). Pour satisfaire à cette exigence, il suffit que l'autorité
+mentionne au moins briève-ment les motifs qui l'ont guidée et sur lesquels elle a fondé
+sa décision. Elle n'a pas l'obligation d'exposer et de discuter tous les faits, moyens de preuve
+et griefs invoqués par les parties, mais peut au contraire se limiter à ceux qui, sans arbitraire,
+peuvent être tenus pour pertinents (ATF 142 II 154 consid. 4.2 et les références). Dès
+lors que l'on peut discerner les motifs qui ont guidé la décision de l'autorité, le droit
+à une décision motivée est respecté même si la motivation présentée
+est erronée. La motivation peut d'ailleurs être implicite et résulter des différents
+considé-rants de la décision (ATF 141 V 557 consid. 3.2.1 et les références ; TF
+5A_351/ 2023 précité ; TF 5A_69/2022 du 17 mai 2023 consid. 3.1).
+Le droit d'être entendu est une garantie constitutionnelle de caractère formel, dont la violation
+doit entraîner l'annulation de la décision, indépendamment des chances de succès
+du recours sur le fond (ATF 144 IV 302 consid. 3.1 ; ATF 135 I 187 consid. 2.2). Une violation du droit
+d’être entendu peut, exceptionnellement, être réparée devant l’autorité
+de seconde instance pour autant qu’il ne s’agisse pas d’une violation particulièrement
+grave et que l’autorité supérieure dispose du même pouvoir d’examen, en fait
+et en droit, que celle de première instance (ATF 145 I 167 consid. 4.4 et les réf. ; ATF 142
+II 218 ; ATF 137 I 195), ce qui n’est pas le cas de l’autorité de recours puisque celle-ci
+dispose d’un pouvoir d’examen restreint s’agis-sant de l’établissement des
+faits (art. 320 CPC ; TF 5A_515/2020 du 5 juillet 2021 consid. 3.2; CPF 28 juin 2018/80 ; Jeandin, in
+Bohnet et alii (éd.), Commentaire romand, Code de procédure civile, 2e éd., 2019, nn.
+4 ss ad art. 320 CPC).
+c)
+En l’espèce, le grief est bien fondé.
+Force est en effet de constater que le juge de paix a rejeté la requête de séquestre sur
+neuf des dix postes de créance invoqués (cf. requête, all. 51 et recours, p. 6), ordonnant
+le séquestre pour un montant de 50'000 fr. alors que la requête portait sur une créance
+de 459'814 fr. 80, sans fournir aucune motivation sur les raisons ayant conduit à cette décision.
+Le droit d’être entendue de la recourante a été clairement violé. En outre,
+invité par celle-ci à motiver sa décision, le premier juge n’a pas réagi.
+Contrairement à ce que soutient la recourante, le pouvoir d’examen de la Cour des poursuites
+et faillite est limité s’agissant de l’établissement des faits. En outre, on ne
+saurait dire que le vice n’est pas particulièrement grave. Enfin, le justici-able doit pouvoir
+bénéficier de manière effective de deux degrés de juridiction canto-nale, de sorte
+qu’on ne saurait qualifier le renvoi au premier juge de vaine formalité.
+Pour tous ces motifs, le grief, bien fondé, doit être admis. Il n’y a pas lieu d’annuler
+l’ordonnance, qui subsiste, mais d’inviter le premier juge à motiver sa décision,
+en exposant, pour chacune des créances que la recourante fait valoir et qui n’a pas été
+admise, les raisons pour lesquelles il a estimé que l’intéressée n’avait pas
+rendu vraisemblable son existence.
+III.
+Au vu de ce qui précède, le recours
+est admis et le dossier renvoyé au Juge de paix des districts du Jura-Nord vaudois et du Gros-de-Vaud
+afin qu’il motive son ordonnance de séquestre du 7 juillet 2023, en tant qu’elle rejette
+partiellement la requête de séquestre du 6 juillet 2023.
+Les frais judiciaires de deuxième
+instance, arrêtés à 990 fr., ne sont imputables à aucune des deux parties et
+peuvent
+être laissés à la charge de l’Etat (art.
+107
+al. 2 CPC). L’avance de frais du même montant effectuée par la recourante doit par conséquent
+lui être restituée.
+Il n’est pas alloué de dépens
+de deuxième instance.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le dossier est renvoyé au Juge de paix des districts du Jura-Nord vaudois et du Gros-de-Vaud afin
+qu’il motive son ordonnance de séquestre du 7 juillet 2023, en tant qu’elle rejette
+partiellement la requête de séquestre de U.________ du 6 juillet 2023.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 990 fr. (neuf cent nonante
+francs), sont mis à la charge de l’Etat.
+IV.
+L’avance de frais de 990
+fr.
+(neuf cent nonante francs)
+,
+effectuée par la recourante
+U.________
+,
+lui est restituée par la caisse du Tribunal cantonal.
+V.
+Il n’est pas alloué de dépens de deuxième instance.
+VI.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Adrien Gutowski, avocat (pour U.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 409'814 fr. 80 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Juge de paix des districts du Jura-Nord vaudois et du Gros-de-Vaud.
+La greffière :
