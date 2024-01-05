@@ -1,0 +1,611 @@
+---
+decision_id: "vd_findinfo_D_cision___2024___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2024 / 3"
+decided: "2024-01-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9656747"
+cites_law: ["switzerland/bund/acts/101/art-031.md", "switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-051.md", "switzerland/bund/acts/311.0/art-063.md", "switzerland/bund/acts/311.0/art-086.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-220.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-229.md", "switzerland/bund/acts/312.0/art-237.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md"]
+---
+
+# VD Findinfo Décision / 2024 / 3
+
+## Regeste
+
+DÉTENTION POUR DES MOTIFS DE SÛRETÉ, MOTIVATION DE LA DEMANDE, PROPORTIONNALITÉ, MESURE DE SUBSTITUTION À LA DÉTENTION, PROLONGATION, RISQUE DE RÉCIDIVE | 212 al. 3 CPP (CH), 221 al. 1 let. c CPP (CH), 229 al. 1 CPP (CH), 237 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale Décision / 2024 / 3
+
+DÉTENTION POUR DES MOTIFS DE SÛRETÉ, MOTIVATION DE LA DEMANDE, PROPORTIONNALITÉ, MESURE DE SUBSTITUTION À LA DÉTENTION, PROLONGATION, RISQUE DE RÉCIDIVE | 212 al. 3 CPP (CH), 221 al. 1 let. c CPP (CH), 229 al. 1 CPP (CH), 237 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+9
+PE22.023442-LAS
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+5 janvier 2024
+__________________
+Composition
+:               Mme
+Byrde
+,
+juge présidant
+M.
+Perrot et Mme Elkaim, juges
+Greffier
+:              M.
+Robadey
+*****
+Art.
+212 al. 3, 221 al. 1 let. c, 229 al. 1 et 237 CPP
+Statuant sur le recours interjeté le 22 décembre 2023 par
+A.I.________
+contre l’ordonnance rendue le 11 décembre 2023 par la Tribunal des mesures de contrainte dans
+la cause
+n° PE22.023442-LAS
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+A.I.________, né le [...] 1968, est un
+ressortissant suisse.
+Son casier judiciaire suisse comporte la mention suivante :
+- 6 mars 2013, Ministère public de l’arrondissement de La Côte, peine pécuniaire
+de 120 jours-amende à 30 fr., avec sursis pendant deux ans, et amende de 300 fr. pour violence ou
+menaces contre les autorités et les fonctionnaires.
+b)
+Entendue
+par la police le 16 décembre 2022, B.I.________ a expliqué que son mari A.I.________ la violentait
+physiquement depuis 2004 en lui assénant des coups de poings, en la griffant et en lui tirant les
+cheveux. Elle a également fait état de violences verbales et psychologiques, notamment de menaces
+de mort réitérées avec la notion d’égorgement, ainsi que de violences sexuelles,
+déclarant subir des rapports sexuels forcés. Elle a en outre déclaré craindre son
+mari et que celui-ci était alcoolique. Pour ces faits, elle a déposé une plainte pénale
+(PV aud. 1).
+c)
+Également entendu par la police le 16 décembre 2022, A.I.________ a en grande partie contesté
+les faits qui lui étaient reprochés, en particulier les infractions à caractère sexuel.
+Il a néanmoins reconnu avoir, à quelque reprise et sous l’emprise de l’alcool,
+traité sa femme de « connasse », « pétasse » ou « salope »,
+lui avoir tiré les cheveux, asséné des gifles et l’avoir menacée de mort, en
+ajoutant qu’elle avait peur de lui (PV aud. 2).
+d)
+Des photographies versées au dossier montrent la présence d’hématomes sur le visage
+et la poitrine de la plaignante (P. 4).
+e)
+Le même jour, le Ministère public de l’arrondissement de La Côte a ouvert une instruction
+pénale contre A.I.________ pour lésions corporelles simples, lésions corporelles simples
+qualifiées, menaces, menaces qualifiées et viol, pour les faits dénoncés par B.I.________.
+f)
+Le
+prévenu a été appréhendé le 17 décembre 2022 et son audition d’arrestation
+a eu lieu le lendemain.
+Par ordonnance du 20 décembre 2022, retenant des soupçons suffisants des infractions qui lui
+étaient reprochées, ainsi que l’existence des risques de collusion et de réitération,
+le Tribunal des mesures de contrainte a ordonné la détention provisoire de A.I.________ pour
+une durée de deux mois, soit au plus tard jusqu’au 16 février 2023.
+g)
+La détention provisoire de A.I.________ a été prolongée par ordonnances du Tribunal
+des mesures de contrainte des 15 février, 15 mai, 17 juillet et 10 août 2023, en raison de
+la persistance d’un risque de réitération.
+h)
+Dans leur rapport du 31 août 2023, les experts de l’Institut de psychiatrie légale du
+CHUV ont retenu chez le prévenu les diagnostics de syndrome de dépendance à l’alcool,
+actuellement abstinent mais dans un environnement protégé, trouble dépressif récurrent
+ainsi que des traits de personnalité immature et dépendante. Ils ont estimé le risque
+de récidive d’actes hétéroagressifs élevé, et fortement accru en cas de
+nouvelles consommations d’alcool. S’agissant de l’éventuelle instauration de mesures
+de substitution à la détention, les experts ont relevé que le prévenu semblait assez
+sensible au cadre et à l’autorité lorsqu’il n’était pas alcoolisé
+mais qu’en revanche, en cas de nouvelles alcoolisations massives, au vu de son intolérance
+à la frustration et de ses difficultés à gérer ses émotions, ils estimaient
+que des mesures de substitution pourraient ne pas être suffisantes (P. 48).
+i)
+Le 4 octobre 2023, le Tribunal des mesures de contrainte a rejeté la demande de libération
+du prévenu et a prolongé sa détention provisoire. Tel a une nouvelle fois été
+le cas par ordonnance du 7 novembre 2023, avec une prolongation jusqu’au 10 décembre
+2023, toujours en raison de la persistance du risque de réitération.
+j)
+Par acte du 28 octobre 2023, le Ministère public a engagé l’accusation contre A.I.________
+devant le Tribunal correctionnel de l’arrondissement de Lausanne pour lésions corporelles
+simples qualifiées, menaces qualifiées, contrainte et viol, en raison des faits suivants :
+«
+1.
+1.1.
+A Lausanne, principalement
+au domicile commun sis [...], entre le 28 novembre 2013 (les faits antérieurs étant prescrits)
+et le 13 décembre 2022, A.I.________ a commis des violences physiques à de réitérées
+reprises à l'encontre de son épouse B.I.________. Pendant cette période, A.I.________
+a tiré les cheveux de son épouse pour la déplacer ou pour la faire tomber, lorsque que
+quelque chose ne lui convenait pas, à la fréquence d’une fois par mois, ce qui lui occasionnait
+de la douleur. Lorsqu’il agissait de la sorte, A.I.________ a arraché les cheveux de son épouse
+à quatre ou cinq reprises par année. Il a aussi asséné des coups de poing au menton
+et aux bras de son épouse, ce qui a provoqué des hématomes, une fois tous les deux à
+trois mois, lorsqu’il avait des choses à lui reprocher et qu’il n’était pas
+d’accord avec elle. B.I.________ dissimulait les marques sous ses vêtements ou avec du fond
+de teint.
+1.2.
+A Lausanne, dans l’immeuble sis [...], le 13 décembre 2022, A.I.________, qui n’avait
+manifestement pas supporté qu’un client du bar « [...] », dont son épouse est
+la gérante, lui dise que celle-ci était la réelle patronne de l’établissement,
+a demandé à son épouse de le suivre dans l’appartement situé au-dessus du bistrot.
+B.I.________ est restée dans le couloir de l’immeuble car elle craignait pour sa vie si elle
+rentrait dans le logement. A.I.________ l’a alors saisie par les cheveux pour qu’elle vienne
+avec lui à l’intérieur du logement, avant de la pousser contre la porte de l’immeuble
+et de la secouer dans tous les sens. A.I.________ également asséné un coup de poing au
+niveau du buste de son épouse et un autre au niveau de l’œil, ainsi qu’un coup
+de pied, qui ont occasionné des bleus mais pas de saignement. Après cela, B.I.________ s’est
+rendue brièvement dans l’appartement, a pris de l’argent et a quitté les lieux
+en courant. Elle a consulté le Service des urgences du CHUV le 14 décembre 2022, où une
+dermabrasion temporale gauche et une dermabrasion au regard du menton ont été constatées.
+Elle s’est rendue auprès de l’Unité de médecine des violences le 16 décembre
+2022. Un constat médical a été établi à cette occasion. A l’examen physique,
+les lésions suivantes ont été constatées au niveau du thorax :
+-
+à la partie supérieure de la région pré-sternale, une très discrète ecchymose
+jaunâtre mesurant environ 2 cm de grand axe ;
+-
+à la partie supérieure du sein droit, une zone ecchymotique jaune vert mesurant environ 11
+x 7 cm.
+B.I.________
+a déposé plainte – demanderesse au pénal – le 16 décembre 2022. Par courriel
+de son conseil du 4 janvier 2023, elle a indiqué se porter partie plaignante – demanderesse
+au pénal et au civil.
+2.
+A Lausanne, dans l’immeuble sis [...], entre le 28 novembre 2013 (les faits antérieurs
+étant prescrits) et le 13 décembre 2022, notamment pendant le service dans un local situé
+derrière le bar, A.I.________ a proféré des menaces de mort à l’encontre de
+son épouse B.I.________, à la fréquence d’une fois tous les deux mois, au cas où
+elle le quitterait, ce qui lui a fait peur. Il lui a notamment dit plusieurs fois qu’il l’égorgerait
+comme un mouton, tout en approchant sa main de sa gorge. A la suite de l’épisode de violences
+physiques survenu le 13 décembre 2022, il lui a dit : « si je coule, tu coules ». Il lui
+est également arrivé de lui dire : « si tu continues, tu sais ce qu’il t’attend
+».
+B.I.________
+a déposé plainte – demanderesse au pénal – le 16 décembre 2022. Par courriel
+de son conseil du 4 janvier 2023, elle a indiqué se porter partie plaignante – demanderesse
+au pénal et au civil.
+3.
+A Lausanne, au domicile commun sis [...], le 6 ou le 8 décembre 2022, en début d’après-midi,
+A.I.________ est monté dans l’appartement depuis le bar en disant à son épouse :
+« on va baiser ». Il a pris une pastille pour l’aider à avoir une érection.
+B.I.________ a acquiescé alors même qu’elle n’avait pas envie. A.I.________ est
+ensuite retourné au bar. B.I.________ s’est douchée et a attendu son mari dans le lit.
+Ce dernier est remonté à l’appartement environ 20 minutes plus tard.  Il s’est
+déshabillé, puis il a embrassé son épouse et l’a touchée au niveau du
+vagin. Il s’est ensuite mis à genoux sur le lit et a placé son sexe en érection
+dans la bouche de B.I.________ qui était couchée de côté et qui lui a fait une fellation.
+Ensuite, il a pénétré vaginalement son épouse avec son sexe dans la position du missionnaire.
+Au moment de la pénétration, B.I.________ a eu mal car elle ne mouillait pas. Elle a demandé
+à son mari d’arrêter, mais celui-ci a continué à la pénétrer. B.I.________
+lui a derechef demandé d’arrêter. C’est alors que A.I.________ a contraint son
+épouse à subir l’acte sexuel en la tenant constamment par les poignets pendant cinq à
+sept minutes avec ses deux mains alors qu’elle se trouvait sur le dos, les jambes en l’air,
+et qu’elle ne pouvait pas bouger, jusqu’à ce qu’il éjacule en elle. A.I.________
+a adopté ce même comportement lors d’un rapport sexuel sur trois entre l’année
+2010, ce qui correspond à l’époque où celui-ci a commencé à prendre une
+pastille pour favoriser l’érection, et le 8 décembre 2022, étant précisé
+que les époux entretenaient des rapports sexuels trois ou quatre fois par semaine.
+B.I.________
+a déposé plainte – demanderesse au pénal – le 16 décembre 2022. Par courriel
+de son conseil du 4 janvier 2023, elle a indiqué se porter partie plaignante – demanderesse
+au pénal et au civil.
+»
+B.
+a)
+Le 28 novembre 2023, le Ministère public
+a saisi le Tribunal des mesures de contrainte d’une demande de détention de A.I.________ pour
+des motifs de sûreté. Il a appuyé sa demande en se fondant sur le rapport d’expertise
+psychiatrique, lequel faisait état d’un risque de récidive élevé et de l’insuffisance
+de mesures de substitution.
+b)
+Le 29 novembre 2023, le Tribunal des mesures de contrainte a temporairement ordonné la détention
+pour des motifs de sûreté de A.I.________ jusqu’à droit connu sur la demande du
+Ministère public.
+c)
+Le 1
+er
+décembre 2023, A.I.________ a conclu au rejet de la demande de détention pour des motifs de
+sûreté. Il a fait valoir qu’il avait tout mis en œuvre pour lui permettre de recouvrer
+sa liberté dans les meilleures conditions possibles, tant pour lui-même que pour la plaignante.
+Il a exposé qu’il pourrait bénéficier d’un nouveau lieu d’hébergement
+ainsi que d’un travail régulier et que des mesures de substitution pouvaient être ordonnées
+sous la forme d’une surveillance électronique ainsi que d’un engagement formel de sa
+part de ne plus approcher sa femme et sa fille. Il a par ailleurs indiqué qu’une libération
+serait l’occasion de le mettre à l’épreuve en vue de l’éventuel octroi
+d’un sursis à quelques semaines ou mois du procès. Il a également produit une lettre
+de son fils C.I.________ adressée au procureur allant dans son sens.
+d)
+Par ordonnance du 11 décembre 2023, le
+Tribunal des mesures de contrainte a ordonné la détention pour des motifs de sûreté
+de A.I.________ (I), fixé la durée maximale de celle-ci au plus tard jusqu’au 27 mars
+2024 (II) et dit que les frais, par 225 fr., suivaient le sort de la cause (III).
+Le tribunal a considéré, en se référant à ses précédentes ordonnances
+ainsi qu’aux charges énoncées dans l’acte d’accusation, que des soupçons
+suffisants pesaient sur le prévenu et que le risque de réitération restait concret, en
+l’absence d’élément nouveau. Il a en outre estimé qu’aucune mesure de
+substitution n’était apte à parer le risque retenu. Il a enfin relevé que le Ministère
+public n’avait pas indiqué la durée de la détention requise et que, les débats
+n’ayant pas encore été fixés, il convenait d’ordonner celle-ci pour une durée
+maximale de quatre mois, soit jusqu’au 27 mars 2024, ajoutant que le principe de proportionnalité
+demeurait respecté au regard des charges pesant sur l’intéressé et de la peine susceptible
+d’être prononcée.
+C.
+Par acte du 22 décembre 2023, A.I.________
+a recouru contre cette ordonnance, en concluant, sous suite de frais et dépens, à son annulation,
+subsidiairement, à sa réforme en ce sens qu’il est immédiatement mis en liberté.
+Par courrier du 29 décembre 2023, un délai non prolongeable au 5 janvier 2024 a été
+imparti à l’autorité inférieure et aux autres parties pour se déterminer.
+Par courrier du 29 décembre 2023, le Ministère public a indiqué qu’il n’entendait
+pas déposer de déterminations et a conclu au rejet du recours.
+Par courriel du 4 janvier 2024, le Tribunal des mesures de contrainte a renoncé à se déterminer
+sur le recours et s’est intégralement référé à la motivation de l’ordonnance
+querellée.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393 al. 1 let. c CPP
+(Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0), le recours est recevable contre
+les décisions du Tribunal des mesures de contrainte dans les cas prévus par le Code. L’art.
+222 CPP, qui prévoit que le détenu peut attaquer devant l’autorité de recours les
+décisions ordonnant une mise en détention provisoire ou une mise en détention pour des
+motifs de sûreté, ou encore la prolongation ou le terme de cette détention, autorise également
+le détenu, malgré une formulation peu claire, à attaquer devant l’autorité
+de recours une décision refusant la libération de la détention (CREP 1
+er
+juin 2023/439 consid. 1.1 ; CREP 2 mars 2023/156 consid. 1.1 ; CREP 16 février 2023/120 consid.
+1.1).
+Le recours doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (art. 384 let. b CPP), à l’autorité de recours (art.
+396 al. 1 CPP), qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal
+cantonal (art. 13 LVCPP [loi vaudoise d’introduction du Code de procédure pénale suisse
+du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [loi vaudoise d’organisation judiciaire du 12 décembre
+1979 ; BLV 173.01]).
+1.2
+En l’espèce, interjeté dans le
+délai légal par un détenu qui a qualité pour recourir (art. 222 et 382 al. 1 CPP)
+et dans les formes prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+La détention pour des motifs de sûreté
+commence lorsque l'acte d'accusation est notifié au tribunal de première instance et s'achève
+lorsque le jugement entre en force, que le prévenu commence à purger sa sanction privative
+de liberté, qu'il soit libéré ou que l'expulsion soit exécutée (art. 220 al.
+2 CPP).
+2.2
+Selon l’art. 221 al. 1 CPP, la détention
+provisoire et la détention pour des motifs de sûreté ne peuvent être ordonnées
+que lorsque le prévenu est fortement soupçonné d’avoir commis un crime ou un délit
+et qu’il y a sérieusement lieu de craindre qu’il se soustraie à la procédure
+pénale ou à la sanction prévisible en prenant la fuite (let. a), qu’il compromette
+la recherche de la vérité en exerçant une influence sur des personnes ou en altérant
+des moyens de preuve (let. b) ou qu’il compromette sérieusement la sécurité d’autrui
+par des crimes ou des délits graves après avoir déjà commis des infractions du même
+genre (let. c). En outre, la détention peut être ordonnée s’il y a sérieusement
+lieu de craindre qu’une personne passe à l’acte après avoir menacé de commettre
+un crime grave (art. 221 al. 2 CPP).
+L’art. 229 al. 1 CPP prévoit que, sur demande écrite du Ministère public, le Tribunal
+des mesures de contrainte statue sur la détention pour des motifs de sûreté lorsqu'elle
+fait suite à une détention provisoire.
+3.
+3.1
+Le recourant ne conteste pas l’existence de soupçons suffisants de commission d’infractions,
+dès lors qu’il admet les épisodes de violences conjugales. Il nie toutefois avoir commis
+les infractions à caractère sexuel dont il est accusé. Il conteste également l’existence
+d’un risque de fuite.
+3.2
+L'art. 221 al. 1 let. c CPP pose trois conditions pour admettre un risque de récidive. En premier
+lieu, le prévenu doit en principe déjà avoir commis des infractions du même genre
+et il doit s'agir de crimes ou de délits graves. Deuxièmement, la sécurité d'autrui
+doit être sérieusement compromise. Troisièmement, une réitération doit, sur
+la base d'un pronostic, être sérieusement à craindre (ATF 146 IV 326 consid. 3.1 ; ATF
+143 IV 9 consid. 2.5 ; TF 1B_107/2023 du 30 mars 2023 consid. 4.1).
+Bien qu'une application littérale de l'art. 221 al. 1 let. c CPP suppose l'existence d'antécédents,
+le risque de réitération peut être également admis dans des cas particuliers alors
+qu'il n'existe qu'un antécédent, voire aucun dans les cas les plus graves. La prévention
+du risque de récidive doit en effet permettre de faire prévaloir l'intérêt à
+la sécurité publique sur la liberté personnelle du prévenu (ATF 137 IV 13 consid.
+3 et 4). Le risque de récidive peut également se fonder sur les infractions faisant l'objet
+de la procédure pénale en cours, si le prévenu est fortement soupçonné –
+avec une probabilité confinant à la certitude – de les avoir commises (ATF 146 IV 326
+précité ; ATF 143 IV 9 précité consid. 2.3.1 ; TF 1B_107/2023 précité).
+La gravité de l'infraction dépend, outre de la peine menace prévue par la loi, de la nature
+du bien juridique menacé et du contexte, notamment la dangerosité présentée concrètement
+par le prévenu, respectivement son potentiel de violence. La mise en danger sérieuse de la
+sécurité d'autrui par des crimes ou des délits graves peut en principe concerner tous
+types de biens juridiquement protégés, même si ce sont en premier lieu les délits
+contre l'intégrité corporelle et sexuelle qui sont visés (ATF 146 IV 326 précité
+; ATF 143 IV 9 précité consid. 2.6 et 2.7 ; TF 1B_107/2023 précité).
+Pour établir le pronostic de récidive, les critères déterminants sont la fréquence
+et l'intensité des infractions poursuivies. Cette évaluation doit prendre en compte une éventuelle
+tendance à l'aggravation telle qu'une intensification de l'activité délictuelle, une escalade
+de la violence ou une augmentation de la fréquence des agissements. Les caractéristiques personnelles
+du prévenu doivent en outre être évaluées (ATF 146 IV 326 précité ; TF
+1B_107/2023 précité ; TF 1B_176/2022 du 21 avril 2022 consid. 3.1). Lorsqu'on dispose
+d'une expertise psychiatrique ou d'un pré-rapport, il y a lieu d'en tenir compte (ATF 143 IV 9 précité
+consid. 2.8).
+En général, la mise en danger de la sécurité d'autrui est d'autant plus grande que
+les actes redoutés sont graves. En revanche, le rapport entre gravité et danger de récidive
+est inversement proportionnel. Cela signifie que plus l'infraction et la mise en danger sont graves,
+moins les exigences seront élevées quant au risque de réitération. Lorsque la gravité
+des faits et leurs incidences sur la sécurité sont particulièrement élevées,
+on peut ainsi admettre un risque de réitération à un niveau inférieur. Il demeure
+qu'en principe le risque de récidive ne doit être admis qu'avec retenue comme motif de détention.
+Dès lors, un pronostic défavorable est nécessaire (et en principe également suffisant)
+pour admettre l'existence d'un tel risque (ATF 146 IV 326 précité ; ATF 146 IV 136 consid.
+2.2 ; ATF 143 IV 9 précité consid. 2.9 ; TF 1B_107/2023 précité).
+3.3
+En l’espèce, s’il nie la commission d’infractions à caractère sexuel,
+le recourant ne conteste pas l’existence de soupçons suffisants de commission d’un crime
+ou d’un délit. Il a en effet reconnu les épisodes de violence conjugale répétés,
+lors desquels il s’en est pris à son épouse en l’injuriant, en la menaçant
+de mort et en la frappant (cf. PV aud. 2). Partant, la première condition de l’art. 221
+al. 1 CPP est remplie.
+Le Ministère public a fondé sa requête de détention pour des motifs de sûreté
+sur l’existence d’un risque de réitération et le Tribunal des mesures de contrainte
+a considéré ce risque comme étant concret. Ni dans l’ordonnance querellée,
+ni dans les précédentes, il n’a été question de l’existence d’un
+risque de fuite. La motivation du recourant à cet égard n’est donc pas compréhensible
+ni recevable. Cela étant, on examinera d’office si le risque de réitération demeure
+concret.
+En l’occurrence, les actes de violence répétés qui sont reprochés au recourant
+ont porté atteinte à l’intégrité physique, à l’intégrité
+sexuelle et à la liberté de son épouse et doivent être qualifiés de graves.
+De l’avis des experts, les comportements du recourant sont engendrés par ses consommations
+massives d’alcool – qui ne sont pas contestées – lesquelles favorisent le passage
+à l’acte violent en raison d’une augmentation de l’impulsivité, d’une
+intolérance à la frustration et des difficultés de gestion émotionnelle (cf. P. 48,
+p. 20). Si l’accusé est abstinent en prison (ibidem, p. 19), il n’a toutefois pas été
+traité pour son syndrome de dépendance à l’alcool. Même s’il assure qu’en
+cas de libération, il ne consommerait plus, les garanties quant à son abstinence sont néanmoins
+maigres, voire inexistantes à ce jour, étant rappelé que le recourant a eu pour habitude
+d’ingérer de grandes quantités d’alcool quotidiennement pendant de nombreuses années
+(cf. PV aud. 2). Les experts ont évalué le risque de récidive comme étant élevé,
+et fortement accru en cas de nouvelles consommations d’alcool (cf. P. 48, p. 22). En outre,
+ils ont relevé que l’intéressé avait une crainte excessive d’être quitté
+(ibidem, p. 20). Or, il ressort du dossier qu’il soupçonne son épouse d’infidélité
+et de fréquenter un autre homme (ibidem, p. 17). Il est donc à craindre qu’en cas de
+libération, et en dépit de ses déclarations, le recourant ne consomme à nouveau de
+l’alcool et s’en prenne à son épouse, avec un possible nouveau passage à l’acte.
+Dans ce contexte, force est d’admettre que le risque de réitération présenté
+par le recourant est à ce stade toujours suffisamment important et concret pour justifier, sous
+l’angle de l’intérêt à la sécurité publique, son maintien en détention
+pour des motifs de sûreté. Comme déjà dit, il ne le conteste du reste pas.
+4.
+4.1
+Le recourant invoque ensuite une violation du principe de la proportionnalité, estimant que la détention
+qu’il subit est excessive au regard des faits reprochés. Il relève que l’audience
+de jugement a été fixée au 20 février 2024, qu’il pourra sans nul doute prétendre
+au sursis, respectivement au sursis partiel, et que dans cette hypothèse, il aura d’ores et
+déjà purgé la quotité maximale de la peine exécutable au jour de l’audience
+de jugement. En outre, il soutient que sa libération avant cette audience lui permettrait de bénéficier
+d’une période probatoire durant laquelle le tribunal pourra former un pronostic sur la base
+d’éléments concrets et non sur de simples déclarations faites en cours d’enquête.
+4.2
+En vertu des art. 31 al. 3 Cst. (Constitution fédérale de la Confédération suisse
+du 18 avril 1999 ; RS 101) et 5 § 3 CEDH (Convention de sauvegarde des droits de l’homme et
+des libertés fondamentales du 4 novembre 1950 ; RS 0.101), toute personne qui est mise en détention
+préventive a le droit d'être jugée dans un délai raisonnable ou d'être libérée
+pendant la procédure pénale. L'art. 212 al. 3 CPP prévoit ainsi que la détention
+provisoire ou pour des motifs de sûreté ne doit pas durer plus longtemps que la peine privative
+de liberté prévisible.
+Le juge peut dès lors maintenir une telle mesure aussi longtemps qu'elle n'est pas très proche
+de la durée de la peine privative de liberté à laquelle il faut s'attendre concrètement
+en cas de condamnation. Il convient d'accorder une attention particulière à cette limite, car
+il y a lieu de veiller à ce que les autorités de jugement ne prennent pas en considération
+dans la fixation de la peine la durée de la détention avant jugement à imputer selon l'art.
+51 CP (Code pénal suisse du 21 décembre 1937, RS 311.0 ; ATF 145 IV 179 consid. 3.1
+et les arrêts cités, JdT 2020 IV 3 ; TF 7B_933/2023 du 14 décembre 2023 consid. 2.2.1).
+Afin de ne pas empiéter sur les conséquences du juge du fond, le juge de la détention
+ne tient en principe pas compte de la possibilité éventuelle de l’octroi, par l’autorité
+de jugement, d’un sursis ou d’un sursis partiel, ni de la possibilité d’une libération
+conditionnelle au sens de l’art. 86 al. 1 CP (ATF 145 IV 179 consid. 3.4 ; ATF 143 IV 168
+consid. 5.1), à moins que son octroi apparaisse d’emblée évident (ATF 143 IV 168
+précité consid. 4.2 ; TF 7B_933/2023 précité consid. 2.2.1). En outre, pour
+examiner si la durée de la détention provisoire ou pour des motifs de sûreté s'approche
+de la peine à laquelle il faut s'attendre en cas de condamnation et ainsi respecter le principe
+de la proportionnalité, il appartient au juge de la détention de tenir compte de l'ensemble
+des circonstances du cas d'espèce. Dans ce contexte, le seul fait que la durée de la détention
+avant jugement dépasserait les trois quarts de la peine prévisible n'est pas décisif en
+tant que tel (ATF 145 IV 179 consid. 3.5 ; TF 7B_933/2023 précité consid. 2.2.1).
+4.3
+En l’espèce, le recourant invoque que la «
+détention
+provisoire parait aujourd’hui excessive au regard des faits reprochés
+».
+Ce faisant, il n’invoque pas que l’autorité n’aurait pas pris en considération
+toutes les circonstances du cas d’espèce, ou qu’il serait dans l’hypothèse
+exceptionnelle où le juge de la détention devrait prendre en considération l’octroi
+d’un sursis ou d’un sursis partiel. Sa contestation ne remplit donc pas les exigences de
+motivation posée par les art. 385 al. 1 et 396 al. 1 CPP et la jurisprudence y relative.
+De toute manière, le principe de proportionnalité est – dans la mesure précisée
+ci-dessous – respecté.
+En effet, le recourant a été renvoyé devant le Tribunal correctionnel de l’arrondissement
+de Lausanne pour lésions corporelles simples qualifiées, menaces qualifiées, contrainte
+(infractions chacune passible de trois ans de privation de liberté) et viol (infraction sanctionnée
+d’une peine privative de liberté d’un à dix ans). La détention provisoire
+du recourant a été ordonnée le 20 décembre 2022 et celle-ci a été prolongée
+en dernier lieu jusqu’au 27 mars 2024. A cette date, le recourant aura subi 15 mois et 7 jours
+de détention. Compte tenu des peines privatives de liberté pouvant entrer en considération,
+du concours entre les infractions qui lui sont reprochées, de la durée des actes reprochés
+(corroborée, pour les violences conjugales et les menaces, par les deux fils du recourant), de l’antécédent
+constitué par l’ordonnance pénale du 6 mars 2013 (condamnation à 120 jours-amende
+à 30 fr. le jour avec sursis pendant deux ans pour violence ou menace contre les autorités
+et les fonctionnaires pour avoir tenté d’asséner un coup de poing à un policier
+alors qu’il était sous l’influence de l’alcool), force est de constater que le
+recourant s’expose concrètement à une peine d’une durée supérieure à
+la période de détention qu’il a subie à ce jour, respectivement qu’il aura
+subie le 27 mars 2024, étant rappelé que le recourant a été renvoyé devant un
+tribunal correctionnel et qu’un tel tribunal connaît des infractions pour lesquelles la peine
+encourue est supérieure à un an (art. 9 al. 2 LVCPP). Cela étant, au moment de fixer la
+prolongation de la détention, l’autorité inférieure ignorait la date des débats.
+Depuis lors, ceux-ci ont été appointés au 20 février 2024 selon le recourant.
+Par conséquent, il ne se justifie pas, sous l’angle de la proportionnalité, d’arrêter
+l’échéance de la prolongation au 27 mars 2024.
+L’ordonnance querellée sera réformée en ce sens que la durée maximale de la
+détention pour des motifs de sûretés est fixée au plus tard jusqu’au 20 février
+2024.
+5.
+5.1
+Le recourant soutient enfin que des mesures de
+substitution seraient propres à contenir avec la même efficacité que la détention
+un prétendu risque de récidive. Il propose «
+une
+série de mesures destinées autant à rassurer la partie plaignante qu’à assurer
+une prise en charge complète dès sa sortie
+»,
+soit une interdiction de périmètre, le port d’un bracelet électronique ainsi qu’un
+engagement de sa part à s’abstenir de toute consommation d’alcool et à suivre une
+thérapie. Il a en outre produit une promesse d’embauche ainsi qu’une attestation d’hébergement.
+5.2
+Conformément au principe de la proportionnalité (art. 36 al. 3 Cst. ; pour la procédure
+pénale, cf. art. 197 al. 1 let. c CPP), il convient d'examiner les possibilités de mettre en
+œuvre d'autres solutions moins dommageables que la détention (règle de la nécessité),
+qui représente l'ultima ratio (ATF 140 IV 74 consid. 2.2, JdT 2014 IV 289). Cette exigence
+est concrétisée par l'art. 237 al. 1 CPP, qui prévoit que le tribunal compétent ordonne
+une ou plusieurs mesures moins sévères en lieu et place de la détention provisoire ou
+de la détention pour des motifs de sûreté si ces mesures permettent d'atteindre le même
+but que la détention.
+En vertu de l'art. 237 al. 2 CPP, font notamment partie des mesures de substitution la fourniture de
+sûretés (let. a), la saisie des documents d'identité et autres documents officiels (let.
+b), l'assignation à résidence ou l'interdiction de se rendre dans un certain lieu ou un certain
+immeuble (let. c), l'obligation de se présenter régulièrement à un service administratif
+(let. d), l'obligation d'avoir un travail régulier (let. e), l'obligation de se soumettre à
+un traitement médical ou à des contrôles (let. f) et l'interdiction d'entretenir des relations
+avec certaines personnes (let. g). Du fait que les mesures de substitution – énumérées
+de manière non exhaustive à l'art. 237 al. 2 CPP (Moreillon/Parein-Reymond, Petit Commentaire,
+Code de procédure pénale, 2
+e
+éd., Bâle 2016, n. 12 ad art. 237 CPP) – sont un succédané à la détention
+provisoire, le tribunal doit les prononcer à la place de la détention provisoire ou pour des
+motifs de sûreté si elles permettent d'empêcher la concrétisation du risque (ATF
+142 IV 367 consid. 2.1, SJ 2017 I 233 ; ATF 133 I 270 consid. 2.2 ; Coquoz, in : Jeanneret et al. [éd.],
+Commentaire romand, Code de procédure pénale suisse, 2
+e
+éd., Bâle 2019, n. 2 ad art. 237 CPP). Le juge de la détention peut également, le
+cas échéant, assortir les mesures de substitution de toute condition propre à en garantir
+l’efficacité (ATF 145 IV 503 consid. 3.1).
+5.3
+A l’instar du Tribunal des mesures de contrainte, la Chambre de céans considère que les
+mesures de substitution proposées par le recourant ne sont pas susceptibles de prévenir efficacement
+le risque constaté et qu’aucune autre mesure n’est à même de le pallier valablement.
+En effet, l’ensemble des mesures proposées par le recourant ne reposeraient que sur son bon
+vouloir et paraissent donc insuffisantes pour prévenir le risque élevé, voire accru, de
+réitération. S’agissant en particulier du port d’un bracelet électronique,
+il sied de relever qu’il ne permet pas une surveillance en temps réel et permettrait tout
+au plus de constater
+a posteriori
+la violation des mesures imposées, respectivement la commission d’une nouvelle infraction,
+mais pas de prévenir de nouveaux comportements violents. Quant à la volonté du recourant
+de poursuivre un suivi psychiatrique axé sur la dépendance à l’alcool et la problématique
+de la violence conjugale, si un tel suivi – reposant une fois encore uniquement sur son bon vouloir
+– peut permettre de limiter le risque de réitération constaté, il ne saurait suffire
+à le contenir sans une abstinence stricte à l’alcool, qui est l’élément
+le plus déterminant en matière de récidive. A cet égard, le suivi proposé –
+avec contrôle d’abstinence tous les 14 jours – parait insuffisant. En outre, la promesse
+d’embauche produite ne comporte pas de signature. Or, le fait que le recourant soit professionnellement
+occupé, et si possible dans un domaine où il ne soit pas mis en présence de boissons alcoolisées,
+parait nécessaire. Enfin, s’il est vrai que l’expertise psychiatrique prévoit la
+mise en place d’un traitement psychiatrique-psychothérapeutique ambulatoire au sens de l’art.
+63 CP, il appartiendra au tribunal et non au juge de la détention de décider si un tel traitement
+doit être ordonné, d’une part, et s’il peut être effectué pendant ou
+seulement au terme de l’exécution de la peine privative de liberté qui sera fixée,
+d’autre part. Il n’existe au surplus pas d’autre mesure moins sévère susceptible
+d’atteindre le même but que la détention.
+Dans ces conditions et au vu de l’importance des biens menacés – soit l’intégrité
+physique, l’intégrité sexuelle et la liberté –, la détention respecte
+le principe de la proportionnalité.
+6.
+En définitive, le recours doit être partiellement admis et l’ordonnance entreprise réformée
+dans le sens des considérants qui précèdent.
+Compte tenu de la nature de l’affaire et de l’acte de recours déposé, l’indemnité
+allouée au défenseur d’office de A.I.________ sera fixée à 540 fr., correspondant
+à une activité nécessaire d’avocat de trois heures au tarif horaire de 180 fr.,
+montant auquel il convient d’ajouter des débours forfaitaires à concurrence de 2 % des
+honoraires admis (art. 3bis al. 1 RAJ [règlement du 7 décembre 2010 sur l'assistance judiciaire
+en matière civile ; BLV 211.02.3], applicable par renvoi de l’art. 26b TFIP [tarif des
+frais de procédure et indemnités en matière pénale du 28 septembre 2010 ; BLV
+312.03.1]), par 10 fr. 80, plus la TVA au taux de 7.7 % (l’acte de recours ayant été
+déposé en 2023 et la prestation ayant été fournie avant l’entrée en vigueur
+du nouveau taux de l’impôt), par 42 fr. 40, soit à 594 fr. au total en chiffres
+arrondis.
+Vu le sort du recours, les frais de la procédure, constitués en l’espèce de l’émolument
+d'arrêt, par 1’650 fr. (art. 20 al. 1 TFIP), et des frais imputables à la défense
+d’office de A.I.________ (art. 422 al. 1 et 2 let. a CPP), fixés à 594 fr., seront mis
+à raison de deux tiers à la charge du recourant, qui voit la prolongation de sa détention
+diminuer d’environ un tiers, soit 1'496 fr., le solde d’un tiers étant laissé à
+la charge de l’Etat.
+Le remboursement à l’Etat des deux tiers de l’indemnité allouée au défenseur
+d’office du recourant ne sera toutefois exigible que pour autant que la situation financière
+de celui-ci le permette (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est partiellement admis.
+II.
+L’ordonnance du 11 décembre 2023 est réformée comme il suit :
+«
+I.
+[inchangé] ;
+II.
+Fixe la durée maximale de la détention pour des motifs de sûretés au plus tard jusqu’au
+20 février 2024 ;
+III.
+[inchangé] ; ».
+III.
+L’indemnité allouée à Me
+Christian Favre, défenseur d'office de A.I.________, est fixée à 594 fr. (cinq cent nonante-quatre
+francs).
+IV.
+Les frais de la procédure de deuxième instance, par 2’244 fr. (deux mille deux cent quarante-quatre
+francs), constitués de l'émolument d'arrêt, par 1’650 fr. (mille six cent cinquante
+francs), ainsi que de l'indemnité allouée à Me Christian Favre, défenseur d'office,
+par 594 fr. (cinq cent nonante-quatre francs), sont mis à la charge de A.I.________ à raison
+de deux tiers, soit 1'496 fr. (mille quatre cent nonante-six francs), le solde étant laissé
+à la charge de l’Etat.
+V.
+Le remboursement à l'Etat des deux tiers de l'indemnité allouée sous chiffre III ci-dessus
+ne sera exigible de A.I.________ que pour autant que sa situation financière le permette.
+VI.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Christian Favre, avocat (pour A.I.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+M. le Procureur de l’arrondissement
+de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
