@@ -1,0 +1,395 @@
+---
+decision_id: "vd_findinfo_D_cision___2024___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2024 / 7"
+decided: "2024-01-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9658283"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-061.md", "switzerland/bund/acts/312.0/art-129.md", "switzerland/bund/acts/312.0/art-130.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-423.md"]
+---
+
+# VD Findinfo Décision / 2024 / 7
+
+## Regeste
+
+DÉFENSE OBLIGATOIRE, ADMISSION DE LA DEMANDE, ATTEINTE À LA SANTÉ PSYCHIQUE, DOUTE | 130 let. c CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale Décision / 2024 / 7
+
+DÉFENSE OBLIGATOIRE, ADMISSION DE LA DEMANDE, ATTEINTE À LA SANTÉ PSYCHIQUE, DOUTE | 130 let. c CPP (CH)
+
+TRIBUNAL
+CANTONAL
+4
+PE22.023862-TBU
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+8 janvier 2024
+__________________
+Composition
+:               Mme
+Byrde
+,
+juge présidant
+M.
+Perrot et Mme Courbat, juges
+Greffier
+:              M.
+Jaunin
+*****
+Art.
+130 let. c CPP
+Statuant sur le recours interjeté le 24 novembre 2023 par
+B.________
+contre le prononcé rendu le 13 novembre 2023 par le Tribunal de police de l’arrondissement
+de La Côte dans la cause
+n° PE22.023862-TBU
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Les 17 mai, 28 mai et 11 juin 2022, G.________ a déposé trois plaintes pénales pour des
+dommages causés à sa voiture, laquelle était stationnée au droit de son domicile,
+à l’extérieur, sur une place privative. Il a émis des soupçons contre une voisine,
+soit B.________, née le [...] 1932.
+Le 29 juin 2022, D.________ a été entendue en qualité de personne appelée à
+donner des renseignements. Elle a confirmé que, le 7 juin 2022, elle avait vu B.________ briser
+le rétroviseur du véhicule de G.________. Plus tard dans la soirée, lorsqu’elle
+s’était rendue au domicile de cette dernière avec la police, celle-ci avait nié
+être l’auteure des dommages ; elle semblait «
+perturbée
+»
+(PV d’audition n° 1, R. 6
+in
+fine
+). D.________ a également indiqué
+qu’elle l’avait vue quelques semaines auparavant et qu’elle l’avait trouvée
+«
+un peu perdue,
+égarée et en colère, en relation avec les travaux du quartier
+»
+(
+ibidem
+,
+R. 7).
+B.________ a été entendue par la police le 2 décembre 2022 en présence d’une
+interprète en langue grecque. Elle a admis avoir, le 7 juin 2022, brisé le rétroviseur
+du véhicule de son voisin au moyen d’une pierre. En revanche, elle a contesté être
+l’auteure des autres dommages dénoncés par le plaignant (PV d’audition n°
+2).
+Un rapport de police a été établi le 7 décembre 2022. Il y est notamment indiqué
+que, selon le fils de la prévenue, cette dernière, alors âgée de
+90
+ans, était une personne «
+fragile
+et perturbée, voire démente
+».
+Il avait dû lui expliquer la procédure en cours, notamment sa prochaine audition à la
+police, et lui avait demandé de dire la vérité (P. 4, p. 5).
+Par ordonnance pénale du 10 mai 2023, le Ministère public de l’arrondissement de La Côte
+(ci-après : Ministère public) a condamné B.________ à une peine pécuniaire
+de 30 jours-amende à 30 fr. le jour, avec sursis pendant 2 ans, et à une amende de 300 fr.
+pour dommages à la propriété.
+Le 22 mai 2023, B.________ a formé opposition à cette ordonnance.
+Le 22 juin 2023, lors d’une audience de conciliation, B.________, assistée d’une interprète
+en langue grecque, a été entendue par la greffière de la procureure. S’agissant
+de l’ordonnance pénale rendue à son encontre, elle a notamment déclaré ce qui
+suit : «
+Je
+vous explique que je ne sais pas lire. Je ne sais pas de quoi vous parlez. Je n’ai jamais vu ce
+document. C’est mon fils qui a fait opposition. Vous me présentez ma lettre d’opposition
+du 22 mai 2023. Qu’est-ce que c’est que ça ? Je reconnais toutefois que c’est
+bien ma signature
+. » (PV d’audition
+n° 3, ll. 65 à 68).
+Par avis du 29 juin 2023, le Ministère public a informé B.________ du maintien de son ordonnance
+pénale et de la transmission du dossier de la cause au Tribunal de police de l’arrondissement
+de La Côte (P. 12).
+Par courrier du 8 novembre 2023, Me Luis Carlos dos Santos Gonçalves a requis d’être
+désigné en qualité de défenseur d’office d’B.________. Il a exposé
+que celle-ci était âgée de 91 ans, qu’elle ne parlait pas français, qu’elle
+ne comprenait manifestement pas le déroulement de l’affaire dont elle faisait l’objet
+et qu’elle ne disposait pas des conditions financières pour assurer sa défense
+(P.
+17).
+B.
+Par prononcé du 13 novembre 2023, le Tribunal
+de police de l’arrondissement de l’Est vaudois a refusé de désigner un défenseur
+d’office à B.________ (I) et a dit que la présente décision était rendue sans
+frais (II).
+Le tribunal a tout d’abord constaté que les conditions d’une défense obligatoire,
+en application de l’art. 130 CPP (Code de procédure pénale suisse du
+5
+octobre 2007 ; RS 312.0) n’étaient pas remplies. A cet égard, il a relevé que la
+prévenue avait pu jusqu’à ce jour suivre la procédure et être auditionnée
+à deux reprises sans l’assistance d’un avocat, qu’elle n’était pas
+au bénéfice d’une curatelle de représentation ou de portée générale,
+qu’aucune des réponses protocolées dans les procès-verbaux d’audition ne laissait
+entrevoir qu’elle serait incapable de suivre et de comprendre les enjeux de la procédure dirigée
+à son encontre, qu’elle ne prétendait pas que son état se serait détérioré
+depuis ses précédentes auditions et qu’elle avait été en mesure, probablement
+avec le soutien de son fils, de former opposition à l’ordonnance pénale et de confirmer
+celle-ci. Le tribunal a également relevé que la procédure ne soulevait pas de difficultés
+particulières sous l’angle factuel ou juridique. Par ailleurs, il a estimé qu’au
+vu des réquisitions du Ministère public contenues dans l’ordonnance pénale valant
+acte d’accusation, l’infraction reprochée était manifestement une bagatelle, de
+sorte que les conditions d’une défense d’office au sens de l’art. 132 al. 1 let.
+b CPP n’étaient pas davantage remplies.
+C.
+Par acte du 24 novembre 2023, B.________, par
+son défenseur, a recouru contre ce prononcé, concluant, avec suite de frais et dépens,
+à sa réforme en ce sens que Me Luis Carlos dos Santos Gonçalves lui est désigné
+en qualité de défenseur d’office avec effet au 7 novembre 2023.
+Par courrier du 19 décembre 2023, dans le délai imparti, le Tribunal de police de l’arrondissement
+de La Côte a déclaré qu’il se référait à son prononcé et qu’il
+renonçait à se déterminer pour le surplus.
+Par courrier du 27 décembre 2023, dans le délai imparti, le Ministère public a informé
+la Chambre de céans qu’il n’entendait pas déposer de déterminations.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393 al. 1 let. b CPP,
+le recours est recevable contre les ordonnances, les décisions et les actes de procédure des
+tribunaux de première instance, sauf contre ceux de la direction de la procédure. Une décision
+par laquelle le président du tribunal de première instance (direction de la procédure
+selon l’art. 61 let. c CPP) refuse, avant l’ouverture des débats devant lui, de nommer
+un défenseur d’office au prévenu est cependant attaquable par un recours selon les art.
+393 ss CPP, car un tel refus est de nature à causer un préjudice irréparable à l’intéressé
+(ATF 140 IV 202 consid. 2.2 ; ATF 139 IV 113, JdT 2014 IV 30).
+Le recours doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (art. 384 let. b CPP), à l’autorité de recours
+(art.
+396 al. 1 CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal
+(art. 13 LVCPP [loi d’introduction du Code de procédure pénale suisse du 19 mai 2009
+; BLV 312.01] ; art. 80 LOJV [loi d’organisation judiciaire du 12 décembre 1979 ; BLV 173.01]).
+1.2
+Interjeté en temps utile devant l’autorité
+compétente, par une partie qui a qualité pour recourir (art. 382 al. 1 CPP) et dans les formes
+prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+Invoquant l’art. 132 al. 1 let. b CPP, la
+recourante, par son défenseur,  reproche au premier juge de n’avoir pas tenu compte de
+ses réelles capacités cognitives, faisant valoir à cet égard qu’elle est âgée
+de 91 ans, qu’elle ne parle pas le français et que plusieurs témoignages ainsi que le
+rapport de police mentionnent un état de fragilité psychique, voire de démence. Compte
+tenu de ces éléments, elle ne serait pas en mesure de comprendre l’importance et le fonctionnement
+de la procédure. Ce serait du reste son fils qui a rédigé l’opposition à l’ordonnance
+pénale, puis la lui a fait signer, et qui, ensuite, a pris contact avec un avocat, en lui demandant
+de solliciter la désignation d’un défenseur d’office. La recourante indique également
+ne pas disposer de moyens financiers pour s’adjoindre le concours d’un avocat. Enfin, elle
+fait valoir qu’en cas de condamnation, le Secrétariat d’Etat aux migrations en serait
+informé et pourrait envisager son expulsion du territoire suisse, ce qui justifiait d’autant
+plus la désignation d’un défenseur d’office.
+2.1
+Aux termes de l’art. 130 let. c CPP, le
+prévenu doit avoir un défenseur lorsqu’en raison de son
+état
+physique ou psychique ou pour d’autres motifs, il ne peut pas suffisamment défendre ses intérêts
+dans la procédure et ses représentants légaux ne sont pas en mesure de le faire.
+Selon la jurisprudence,
+la question de la capacité de procéder doit être examinée d'office. Cependant, des
+indices de limitation ou d'absence d'une telle capacité doivent exister pour qu'il puisse être
+attendu de l'autorité qu'elle obtienne des éclaircissements à ce sujet. Une incapacité
+de procéder n'est ainsi reconnue que très exceptionnellement, soit en particulier lorsque le
+prévenu se trouve dans l'incapacité de suivre la procédure, de comprendre les accusations
+portées à son encontre et/ou de prendre raisonnablement position à cet égard (TF
+1B_229/2021 du 9 septembre 2021 consid. 3.1 ; TF 6B_1331/2020 du 18 janvier 2021 consid. 2.2.3 et
+les références citées).
+Selon la doctrine, l'hypothèse
+prévue à l'art. 130 let. c CPP est notamment tenue pour réalisée lorsque le prévenu
+n'est plus à même d'assurer, intellectuellement ou physiquement, sa participation à la
+procédure, à l'image des cas visés par l'art. 114 al. 2 et 3 CPP (Moreillon/Parein-Reymond,
+Petit Commentaire CPP, 2
+e
+éd., Bâle 2016, n. 15 ad art. 130 CPP et référence citée). La cause des incapacités
+personnelles peut consister dans des dépendances à l’alcool, aux stupéfiants ou
+à des médicaments, susceptibles d’altérer les capacités psychiques (TF 1B_229/2021
+précité ; TF 6B_508/2020 du 7 janvier 2021 consid. 2.1.1; TF 1B_493/2019 du 20 décembre
+2019 consid. 2.1), ainsi que de troubles mentaux sévères ou même légers (Schmid/Jositsch,
+Praxiskommentar, Schweizerische Strafprozessordnung, 4
+e
+éd., 2023, n. 9 ad art. 130 CPP ; Harari/Jakob/Santamaria, in : Jeanneret et al. [éd.], Commentaire
+romand, Code de procédure pénale suisse, 2
+e
+éd., Bâle 2019 [ci-après : CR CPP], n. 26 ad art. 130 CPP). Les empêchements psychiques,
+plus particulièrement, ne supposent pas que le prévenu souffre nécessairement de troubles
+d'ordre psychiatrique ; il suffit qu’il puisse être établi qu'il ne saisisse pas ou plus
+les enjeux auxquels il est confronté dans la procédure pénale (Moreillon/Parein-Reymond,
+op. cit., n. 17 ad art. 130 CPP et référence citée ; Ruckstuhl, in : Niggli/Heer/Wiprächtiger,
+Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung, 3
+e
+éd., Bâle 2023, n. 30 ad
+art.
+130 CPP et réf. cit.). La direction de la procédure dispose d'une marge d'appréciation
+pour déterminer si le prévenu frappé d'une incapacité personnelle peut suffisamment
+se défendre ou non ; au vu du but de protection visé par le cas de défense obligatoire,
+l’autorité devra se prononcer en faveur de la désignation d’un défenseur d’office
+en cas de doute ou lorsqu’une expertise psychiatrique constate l’irresponsabilité du
+prévenu, respectivement une responsabilité restreinte de celui-ci (TF 1B_229/2021 précité ;
+TF 6B_508/2020 précité ; TF 1B_493/2019 précité). Il s’ensuit qu’il appartient
+à la direction de la procédure, non au médecin, d’apprécier si le prévenu
+peut suffisamment se défendre. Il revient seulement au médecin d’attester des effets
+concrets de l’état de santé du prévenu sur la capacité de celui-ci de comprendre
+les enjeux et de participer aux actes de la procédure, pour que la direction de la procédure
+puisse, compte tenu de ces effets, apprécier si le prévenu peut suffisamment se défendre
+(
+ibidem
+).
+Si les conditions légales sont remplies, la direction de la procédure devra veiller à
+ce que le prévenu soit défendu même si l’infraction n’est pas ou peu grave.
+Le Tribunal fédéral considère que lorsque le représentant légal est un avocat
+expérimenté ou un curateur professionnel, il est en principe apte à défendre les
+intérêts du prévenu, mais a récemment invoqué, avec une apparence d’approbation,
+la doctrine préconisant que la représentation ne puisse être assurée par le représentant
+légal que pour des problématiques liées à des contraventions ou en lien avec des
+cas dits bagatelle, voire que le curateur doive être au bénéfice d’une formation
+juridique (Harari/Jakob/Santamaria, in : CR CPP, op. cit., n. 31 ad art. 130 CPP).
+En cas de défense
+obligatoire, l’art. 130 CPP impose au prévenu l’assistance d’un défenseur,
+que celui-ci le soit à titre privé (cf. art. 129 CPP) ou désigné d’office (art.
+132 CPP). Dans le premier cas, le prévenu choisit librement son avocat et le rémunère
+lui-même. Dans la seconde hypothèse, l'autorité désigne au prévenu un défenseur,
+rétribué par l'Etat - à tout le moins provisoirement - dans la mesure où la sauvegarde
+des droits de l'intéressé le requiert (ATF 149 IV 201 consid. 1.4 et les références
+citées).
+2.2
+En dehors des cas de défense obligatoire
+au sens de l’art. 130 CPP, la direction de la procédure ordonne une défense d’office
+si le prévenu ne dispose pas des moyens nécessaires et si l’assistance d’un défenseur
+est justifiée pour sauvegarder ses intérêts (art. 132 al. 1 let. b CPP).
+Ces deux conditions sont cumulatives (Harari/Jakob/Santamaria,
+in
+: CR CPP, op. cit., n. 55 ad art. 132 CPP). Selon la jurisprudence, une personne est indigente lorsqu’elle
+n’est pas en mesure d’assumer les frais de la procédure sans porter atteinte au minimum
+nécessaire à son entretien et à celui de sa famille (ATF 144 III 531 consid. 4.1 ; ATF
+141 III 369 consid. 4.1).
+2.3
+La Chambre de céans relèvera que la
+recourante est âgée de 91 ans. Selon les informations transmises à la police par son fils,
+elle serait fragile psychiquement ; elle pourrait même souffrir de démence (cf. P. 4,
+p. 5). Les déclarations de D.________, témoin des faits du 7 juin 2022, vont également
+dans ce sens. En effet, le jour en question, la recourante lui est apparue «
+perturbée
+»
+(PV d’audition n° 1, R. 6
+in
+fine
+). Elle l’a également décrite
+comme «
+un peu perdue
+»
+et «
+égarée
+»
+(
+ibidem
+,
+R. 7). On constate en outre que, lors de son audition par le Ministère public, la recourante a donné
+l’impression de rencontrer des difficultés à comprendre la procédure dès lors
+qu’interpellée sur l’ordonnance pénale, elle a déclaré ne pas savoir
+de quoi il s’agissait, ajoutant même n’avoir jamais vu ce document ni même la lettre
+d’opposition sur laquelle elle a toutefois reconnu sa signature. Au demeurant, tout semble indiquer
+que c’est son fils qui l’a, à tout le moins, soutenue dans ses démarches. Il ressort
+en effet des déclarations de la recourante et de l’acte de recours, que ce serait lui qui
+aurait établi l’opposition, puis aurait consulté un avocat pour le compte de sa mère.
+On peut ainsi penser que cette dernière n’était pas en capacité psychique de le
+faire elle-même, alors qu’il s’agissait pourtant d’opérations de procédure
+relativement simples. Enfin, au vu dossier, on relèvera que le comportement reproché, soit
+plusieurs dommages commis sur le véhicule d’un voisin sur une période d’un mois,
+pour un motif peu clair, semble
+a
+priori
+peu cohérent s’agissant d’une
+personne d’un âge avancé, sans antécédents judiciaires et décrite par
+sa voisine comme une «
+gentille
+dame
+» qui «
+nourrit
+les animaux du quartier
+» (PV d’audition
+n° 1, R. 7). Compte tenu de ces éléments, il existe des indices d’une capacité
+cognitive diminuée, qui laissent penser que la recourante n’est pas en mesure de saisir les
+enjeux de la procédure pénale. Il s’agit dès lors d’un cas de défense
+obligatoire au sens de l’art. 130 let. c CPP, qui justifie la désignation d’un défenseur
+d’office, étant précisé que, compte tenu de son indigence, il n’appartiendra
+pas à la recourante de le rémunérer.
+3.
+Au vu de ce qui précède, le recours
+doit être admis et le prononcé du 13 novembre 2023 réformé en ce sens que Me
+Luis Carlos dos Santos Gonçalves est désigné
+en qualité de défenseur d’office d’B.________ avec effet au
+8
+novembre 2023, date à laquelle la requête a été formulée.
+Les frais de la procédure de recours, constitués en l'espèce de l'émolument d'arrêt,
+par 990 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010 ; BLV 312.03.1]), et des frais imputables à la défense d'office
+(art. 422 al. 1 et 2 let. a CPP), fixés à 540 fr. sur la base d’une durée d’activité
+nécessaire d’avocat estimée à 3h00 au tarif horaire de 180 fr., auxquels il convient
+d’ajouter des débours forfaitaires à concurrence de 2 % (art. 3bis al. 1 RAJ [règlement
+sur l’assistance judiciaire en matière civile du
+7
+décembre 2010 ; BLV 211.02.3], applicable par renvoi de l’art. 26b TFIP), par 10 fr. 80, et
+la TVA, par 42 fr. 40, soit à 594 fr. au total, en chiffres arrondis, seront laissés à
+la charge de l’Etat (art. 423 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le prononcé du 13 novembre 2023 est réformé au chiffre I de son dispositif en ce sens
+que Me Luis Carlos dos Santos Gonçalves est désigné en qualité de défenseur
+d’office d’B.________ avec effet au
+8
+novembre 2023.
+Le
+prononcé est maintenu pour le surplus.
+III.
+L’indemnité allouée au défenseur
+d’office d’B.________ est fixée à 594 fr. (cinq cent nonante-quatre francs).
+IV.
+Les frais d’arrêt, par 990 fr. (neuf cent nonante francs), ainsi que l’indemnité
+due au défenseur d’office d’B.________, par 594 fr. (cinq cent nonante-quatre francs),
+sont laissés à la charge de l’Etat.
+V.
+L’arrêt est exécutoire.
+La
+juge présidant :
+Le greffier :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Luis Carlos dos Santos Gonçalves, avocat (pour B.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Vice-président du Tribunal de police de l’arrondissement de La Côte,
+-
+Mme la Procureure de l’arrondissement de La Côte,
+-
+M. G.________,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
