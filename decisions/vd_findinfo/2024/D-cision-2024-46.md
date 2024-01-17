@@ -1,0 +1,213 @@
+---
+decision_id: "vd_findinfo_D_cision___2024___46"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2024 / 46"
+decided: "2024-01-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9681141"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md"]
+---
+
+# VD Findinfo Décision / 2024 / 46
+
+## Regeste
+
+RETARD, DÉCISION D'IRRECEVABILITÉ, OPPOSITION TARDIVE | 396 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale Décision / 2024 / 46
+
+RETARD, DÉCISION D'IRRECEVABILITÉ, OPPOSITION TARDIVE | 396 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+48
+AM23.015328-ACP
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+17 janvier 2024
+__________________
+Composition
+:               M.
+Krieger
+,
+président
+Mmes
+Fonjallaz et Byrde, juges
+Greffière
+:              Mme
+Aellen
+*****
+Art.
+396 al. 1 CPP
+Statuant sur le recours interjeté le 4 octobre 2023 par
+X.________
+contre le prononcé
+rendu le
+13 septembre 2023 par le Tribunal d’arrondissement de l’Est vaudois
+dans
+la cause
+n° AM23.015328-ACP
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 3 août 2023, X.________ a été
+interpellé par la police au guidon d’un scooter. Il est ressorti des contrôles effectués
+qu’il n’était pas titulaire du permis de conduire de la catégorie A1.
+B.
+a)
+Par ordonnance du 17 août 2023, le Ministère public de l’arrondissement de l’Est
+vaudois (ci-après : le Ministère public) a condamné X.________ pour infraction à
+la loi fédérale sur la circulation routière (I), a révoqué le sursis qui lui
+avait été octroyé le 24 juin 2022 par le Staatsanwaltschaft Graubünden, Abteilung
+I (II), a fixé la peine d’ensemble à 45 jours-amende, le montant du jour-amende étant
+fixé à 30 francs (III) et a mis les frais de procédure, par 200 fr., à la charge
+de X.________ (IV).
+b)
+Envoyé sous pli recommandé, le courrier contenant cette ordonnance a été retourné
+au Ministère public avec la mention « non réclamé ». Le Procureur
+a par conséquent adressé, le 31 août 2023, une copie de cette ordonnance à X.________,
+sous pli simple, en attirant son attention sur le fait que cet envoi ne faisait pas courir un nouveau
+délai de recours ou d’opposition.
+c)
+Par
+lettre du 6 septembre 2023 intitulée « opposition à ma propre condamnation »
+et adressée au Ministère public, X.________ a en substance requis la clémence du procureur,
+expliquant ne pas avoir les moyens financiers de s’acquitter du montant des jours-amende.
+d)
+Le
+11 septembre 2023, le Ministère public a transmis le courrier susmentionné et le dossier de
+la cause au Tribunal d'arrondissement de l'Est vaudois (ci-après : le tribunal), estimant que
+l’opposition devait être considérée comme tardive.
+e)
+Par prononcé du 13 septembre 2023, le tribunal a déclaré irrecevable l’opposition
+à l’ordonnance pénale du 17 août 2023 formée le 6 septembre 2023 par X.________
+(I), a dit que l'ordonnance pénale rendue le 17 août 2023 était exécutoire (II) et
+a dit que la décision était rendue sans frais (III).
+f)
+Envoyé
+le même jour sous pli recommandé, le courrier contenant ce prononcé a été retourné
+au tribunal avec la mention « non réclamé ». Une copie de ce prononcé
+a été adressée le 2 octobre 2023 à X.________, sous pli simple. Le courrier accompagnant
+cet envoi attirait l’attention du prénommé sur le fait que la décision était
+réputée notifiée le dernier jour du délai de garde, soit le 21 septembre 2023, et
+que cet envoi ne faisait pas courir un nouveau délai de recours.
+C.
+a)
+Par courrier daté du « 14 octobre
+2023 », mais remis à la poste le 4 octobre 2023, adressé au tribunal et reçu
+au greffe de celui-ci le 5 octobre 2023, intitulé « recours », X.________ a
+demandé au procureur sa clémence.
+b)
+Par
+lettre du 6 octobre 2023, le tribunal a prié X.________ de bien vouloir indiquer, dans un délai
+au 16 octobre 2023, si son envoi devait être considéré comme un recours contre le prononcé
+rendu le 13 septembre 2023.
+X.________ n’a pas donné suite à ce courrier.
+c)
+Le 19 octobre 2023, le tribunal a transmis le dossier de la cause à la Chambre de céans comme
+objet de sa compétence.
+d)
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393 al. 1 let. b CPP, le recours est recevable contre les ordonnances, les
+décisions et les actes de procédure des tribunaux de première instance, sauf contre ceux
+de la direction de la procédure.
+Le
+prononcé par lequel un tribunal de première instance statue sur la validité de l'opposition
+formée par le prévenu contre
+une
+ordonnance pénale (cf. art. 356 al. 3 et 4 CPP) est susceptible de recours selon les art. 393 ss
+CPP.
+Ce recours s’exerce auprès de l’autorité de recours (cf. art. 20 al. 1 let. b CPP)
+qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP
+[loi d’introduction du Code de procédure pénale suisse du 19 mai 2009 ; BLV 312.01] ;
+art. 80 LOJV [loi d’organisation judiciaire du 12 décembre 1979 ; BLV 173.01]). Il doit être
+adressé par écrit, dans un délai de dix jours dès la notification de la décision
+attaquée (cf. art. 384 let. b CPP), à l’autorité de recours (art. 396 al. 1 CPP).
+Le délai de recours de dix
+jours – qui ne peut pas être prolongé (art. 89 al. 1 CPP) – commence à courir
+le jour qui suit la notification de l’ordonnance entreprise (art. 90 al. 1 et
+384
+let. b CPP ; Calame, in : Jeanneret/Kuhn/Perrier Depeursinge [éd.], Commentaire romand, Code de
+procédure pénale suisse, 2
+e
+éd., Bâle 2019, n. 3 ad art. 384 CPP). Si le dernier jour du délai est un samedi,
+un dimanche ou un jour férié selon le droit fédéral ou cantonal, le délai expire
+le premier jour ouvrable qui suit (art. 90 al. 2 CPP).
+1.2
+L’art. 85 al. 4 let. a CPP prévoit qu’un prononcé est réputé notifié
+lorsque, expédié par lettre signature, il n’a pas été retiré dans les
+sept jours à compter de la tentative infructueuse de remise du pli, si la personne concernée
+devait s’attendre à une telle remise. De jurisprudence constante, celui qui se sait partie
+à une procédure judiciaire et qui doit dès lors s’attendre à recevoir notification
+d’actes du juge est tenu de relever son courrier ou, s’il s’absente de son domicile,
+de prendre des dispositions pour que celui-ci lui parvienne néanmoins. A ce défaut, il est
+réputé avoir eu, à l'échéance du délai de garde, connaissance du contenu
+des plis recommandés que le juge lui adresse. Une telle obligation signifie que le destinataire
+doit, le cas échéant, désigner un représentant, faire suivre son courrier, informer
+les autorités de son absence ou leur indiquer une adresse de notification (ATF 141 II 429 consid.
+3.1 ; ATF 139 IV 228 consid. 1.1 ; TF 6B_936/2018 du 4 décembre 2018 consid. 1.1).
+1.3
+En l’espèce, le prononcé du 13
+septembre 2023 a été notifié le même jour, par pli recommandé, à X.________,
+qui ne l’a pas retiré. Le prénommé, qui avait formé opposition contre une ordonnance
+pénale, devait s’attendre à recevoir des notifications des autorités pénales.
+En cas d’absence, il lui incombait donc de prendre les dispositions nécessaires pour faire
+suivre son courrier ou, le cas échéant, informer les autorités de son absence ou leur
+indiquer une adresse de notification. Le prononcé est donc réputé notifié le dernier
+jour du délai de garde, soit le 21 septembre 2023. X.________ disposait dès lors d’un
+délai échéant le lundi 2 octobre 2023 pour interjeter recours. Déposé le 4 octobre
+2023, son acte, si c’est bien un recours, est tardif et, comme tel, irrecevable.
+2.
+Au vu de ce qui précède, le recours
+doit être déclaré irrecevable, sans échange d’écritures (art. 390 al.
+2 CPP).
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt (art. 422 al. 1 CPP), par 550 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront
+exceptionnellement laissés à la charge de l’Etat, au vu de l’incertitude existant
+sur la volonté de X.________ de déposer un recours auprès de la Chambre de céans.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Les frais d’arrêt, par 550 fr. (cinq cent cinquante francs), sont laissés à la charge
+de l’Etat.
+III.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. X.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal de police de l'arrondissement de l'Est vaudois,
+-
+M. le Procureur de l’arrondissement de l’Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
