@@ -1,0 +1,642 @@
+---
+decision_id: "vd_findinfo_D_cision___2024___61"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2024 / 61"
+decided: "2024-01-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9721387"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-023.md", "switzerland/bund/acts/311.0/art-033.md", "switzerland/bund/acts/311.0/art-181.md", "switzerland/bund/acts/311.0/art-219.md", "switzerland/bund/acts/311.0/art-220.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2024 / 61
+
+## Regeste
+
+QUALITÉ POUR RECOURIR, CLASSEMENT DE LA PROCÉDURE, PLAINTE PÉNALE, RETRAIT{VOIE DE DROIT}, CONTRAINTE{DROIT PÉNAL} | 181 CP, 219 CP, 220 CP, 33 CP, 319 CPP (CH), 382 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale Décision / 2024 / 61
+
+QUALITÉ POUR RECOURIR, CLASSEMENT DE LA PROCÉDURE, PLAINTE PÉNALE, RETRAIT{VOIE DE DROIT}, CONTRAINTE{DROIT PÉNAL} | 181 CP, 219 CP, 220 CP, 33 CP, 319 CPP (CH), 382 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+64
+PE21.015005-AYP
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+22 janvier 2024
+__________________
+Composition
+:               M.
+Krieger
+,
+président
+M.
+Maillard, juge, et Mme Epard, juge suppléante
+Greffière
+:              Mme
+Japona-Mirus
+*****
+Art.
+33, 181, 219, 220 CP ; 319 ss, 382 al. 1 CPP
+Statuant sur le recours interjeté le 7 septembre 2023 par
+D.T.________
+contre l’ordonnance de classement rendue le 18 août 2023 par le Ministère public de l’arrondissement
+de Lausanne dans la cause
+n° PE21.015005-AYP
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Depuis
+le 31 août 2021, une instruction pénale est ouverte devant le Ministère public de l’arrondissement
+de Lausanne (ci-après : Ministère public) contre G.V.________ pour violation du devoir
+d’assistance ou d’éducation et enlèvement de mineur, en raison des faits suivants :
+aa)
+Par
+jugement de divorce du 12 février 2021, le Tribunal civil régional des Montagnes et du Val-de-Ruz
+a attribué la garde de F.V.________, née le 2 novembre 2012, et d’O.V.________, né
+le 27 juillet 2018, à leur mère, D.T.________. L’exercice de l’autorité parentale
+a été maintenue au bénéfice des deux parents, soit D.T.________ et G.V.________.
+Durant l’été 2021, G.V.________ a emmené ses enfants en vacances en Turquie. Il
+devait les ramener à son ex-femme avant la rentrée scolaire, voire le 13 août 2021
+déjà, ce qu’il n’a pas fait. F.V.________ n’a dès lors pas pu commencer
+l’école à Lausanne, le 23 août 2021, tel qu’initialement prévu.
+bb)
+Le
+14 août 2021,
+G.V.________
+a adressé un signalement de mineur en danger dans son développement auprès de la Direction
+générale de l’enfance et de la jeunesse (ci-après : DGEJ), invoquant qu’il
+s’inquiétait des conditions de vie de ses deux enfants auprès de leur mère, précisant
+notamment que sa fille lui avait confié que sa mère lui parlait mal et la frappait.
+cc)
+Le
+16 août 2021, D.T.________ a déposé une plainte pénale en Turquie contre G.V.________,
+notamment pour l’enlèvement de ses enfants, et, le lendemain, une requête de retour auprès
+de l’Office fédéral de la justice (ci-après : OFJ) qui a notifié celle-ci
+aux autorités turques le 20 août 2021.
+dd)
+Le
+19 août 2021, G.V.________ a déposé une requête de mesures superprovisionnelles et
+provisionnelles auprès du Tribunal d’arrondissement de Lausanne, afin de modifier le jugement
+de divorce, en particulier pour fixer le lieu de résidence des enfants à son domicile par mesure
+de protection. Cette requête a été rejetée par courrier du 20 août 2021.
+Le 23 août 2021, le Tribunal des affaires familiales n° 3 de Mersin (Turquie), dans le cadre
+d’une cause en changement de garde ouverte devant lui par G.V.________ à l’encontre
+de D.T.________, a rendu une décision interdisant aux enfants de se rendre à l’étranger
+par mesure de précaution. Le 24 août 2021, le Tribunal civil des affaires familiales n°
+6 de Mersin a interdit aux enfants de quitter le territoire national, sous réserve de leur retour
+en Suisse, pays de domicile de D.T.________, en précisant que celle-ci avait le droit de garde exclusif
+sur eux. En parallèle, D.T.________ a transmis à la Justice de paix du district de Lausanne
+une requête de mesures superprovisionnelles en vue de suspendre avec effet immédiat le droit
+de visite de G.V.________ sur ses enfants. Par ordonnance de mesures superprovisionnelles du 30 août
+2021, rectifiée le lendemain, le Juge de paix du district de Lausanne a admis cette requête,
+tout en rappelant que le droit de déterminer le lieu de résidence de F.V.________ et O.V.________
+avait été attribué exclusivement à leur mère.
+ee)
+Le 26 août 2021, D.T.________ a déposé
+plainte pénale auprès du Ministère public de l’arrondissement de Lausanne contre
+G.V.________, notamment pour violation du devoir d’assistance ou d’éducation et enlèvement
+d’enfant. Elle lui reprochait, depuis le 13 août 2021, d’avoir refusé de lui remettre
+leurs deux enfants, alors qu’elle était seule détentrice du droit de déterminer
+leur lieu de résidence et, de ce fait, d’avoir violé son devoir d’éducation
+et d’assistance envers eux.
+ff)
+Le
+30 août 2021, la DGEJ a informé la Justice de paix qu’elle n’entendait pas effectuer
+d’appréciation du signalement effectué par G.V.________ le 14 août 2021, en
+raison des démarches entreprises auprès dudit tribunal. Elle ne s’estimait donc pas compétente.
+Par la suite, G.V.________ a pris une nouvelle conclusion auprès du Tribunal d’arrondissement
+de Lausanne, afin qu’un mandat d’évaluation soit confié à la DGEJ. Cette demande
+a été rejetée le 1er septembre 2021.
+G.V.________ a ensuite déposé une demande de changement du droit de garde auprès du Tribunal
+des affaires familiales n° 3 de Mersin. Le 10 septembre 2021, ce tribunal a néanmoins ordonné
+la remise immédiate de F.V.________ et O.V.________ à leur mère. Toutefois, le 27 septembre
+2021, le Tribunal civil des affaires familiales n° 8 de Mersin, dans son procès-verbal de l’examen
+préliminaire, a décrété que F.V.________ et O.V.________ devaient être empêchés
+de se rendre à l’étranger jusqu’à la conclusion de l’affaire, mais aussi
+que le processus d’obtention ou de modification des dossiers scolaires était suspendu. Il
+est à préciser que, le 24 septembre 2021, l’OFJ a informé le Ministère
+de la Justice turc de la teneur des art. 296 et 301a CC (Code civil suisse du 10 décembre 1907 ;
+RS 210), relatifs à l’autorité parentale et la détermination du lieu de résidence,
+tout en soulignant l’absence de collaboration de G.V.________.
+gg)
+Le
+6 octobre 2021, par ordonnance de mesures superprovisionnelles, le Président du Tribunal civil de
+l’arrondissement de Lausanne a suspendu immédiatement le droit de visite de G.V.________ sur
+ses deux enfants, tout en rappelant que le droit de déterminer leur lieu de résidence appartenait
+exclusivement à D.T.________. Cette autorité a également ordonné à G.V.________
+de remettre les enfants à leur mère, de les reconduire immédiatement ou de les faire reconduire
+par un tiers à leur résidence habituelle à Lausanne, en Suisse, et a invité la Police
+cantonale à faire le nécessaire pour qu’il soit procédé immédiatement
+à leur inscription aux registres RIPOL, INTERPOL et SIS.
+hh)
+Le
+24 novembre 2021, D.T.________ a récupéré sa fille, alors que son père l’amenait
+à un rendez-vous devant un pédagogue ou une assistante sociale mandatés par les autorités
+turques.
+ii)
+Le
+29 novembre 2021, par ordonnance de mesures provisionnelles, le Président du Tribunal civil a ordonné
+à G.V.________ de ramener immédiatement ses enfants auprès de leur mère, lui a retiré
+provisoirement l’autorité parentale, a rappelé que le droit de déterminer le lieu
+de résidence des enfants incombait exclusivement à leur mère et a suspendu, avec effet
+immédiat, le droit de visite de G.V.________ sur ses enfants.
+jj)
+Le
+même jour, soit le 29 novembre 2021, D.T.________, par son conseil, a adressé une lettre au
+Tribunal d’arrondissement de Lausanne, dont elle invoquait la confidentialité, par laquelle
+elle expliquait que G.V.________ semblait se livrer à «
+un
+odieux chantage
+» destiné à
+lui imposer le retrait de toutes les procédures civiles et pénales engagées en Suisse
+et en Turquie comme condition de remise de l’enfant O.V.________. Elle a ajouté que, pour
+préserver l’intégrité et la sécurité de son fils et espérer pouvoir
+le récupérer sain et sauf, elle n’avait d’autres choix que de signer une convention
+dans laquelle elle s’engageait au retrait des procédures susmentionnées, mais qu’elle
+n’en n’avait nulle intention libre, puisque c’était en raison d’éléments
+de chantage et sous la contrainte qu’elle prendrait le seul engagement qui lui permettrait de revoir
+son fils. Elle a précisé que cet accord devait d’ores et déjà être considéré
+comme nul et de nul effet.
+kk)
+Le
+30 novembre 2021, D.T.________ et G.V.________ ont signé un protocole de remise des enfants et d’agrément
+(P. 42/11). En particulier, le chiffre 5 de cette convention stipulait : «
+D.T.________
+accepte et s’engage à renoncer à toutes les requête déposées contre G.V.________
+et tous les membres de sa famille auprès des autorités turques et suisses, à renoncer
+à toutes ses plaintes, et à renoncer à tout droit d’intenter une action en justice
+contre les décisions à prendre, à condition que O.V.________ soit remis à elle, que
+G.V.________ renonce au dossier numéroté 2021/58 E du Tribunal des affaires familiales n°
+3 de Mersin et qu’il donne son consentement au retour des enfants en Suisse en renonçant à
+tous ses droits dans l’affaire numérotée 2021/690 E du Tribunal des affaires familiales
+n° 8 de Mersin
+».
+ll)
+Au
+début du mois de décembre 2021, ensuite de la convention précitée, D.T.________ a
+récupéré son fils.
+mm)
+Le
+20 décembre 2021, G.V.________ a confirmé à la DGEJ ses inquiétudes concernant les
+conditions de vie de ses enfants, dès lors que ceux-ci cohabitaient avec leur grand-mère maternelle
+qui aurait été maltraitante envers l’un d’eux.
+nn)
+Le
+15 février 2022, D.T.________, par son conseil, a adressé au Ministère public un courrier
+dans lequel elle avait joint sa lettre du 29 novembre 2021 au Tribunal d’arrondissement de Lausanne
+(cf. lettre jj) ci-dessus), expliquant notamment que l’engagement signé en Turquie l’avait
+été sous la pression, qu’il ne s’agissait pour elle que d’un «
+subterfuge
+imposé par la gravité des circonstances
+»
+et qu’elle n’avait nulle intention de retirer sa plainte pénale, vu la gravité
+des faits et le traumatisme important des enfants engendré par l’attitude de leur père.
+b)
+G.V.________
+a été entendu par le Ministère public le 3 novembre 2022 en qualité de prévenu.
+c)
+Dans
+sa séance du 14 décembre 2022, la Justice de paix du district de la Riviera-Pays-d’Enhaut
+a institué une curatelle de représentation en faveur des enfants F.V.________ et O.V.________
+et a nommé l’avocat Nicolas Rochani en qualité de représentant (P. 54).
+d)
+Le
+12 janvier 2023, F.V.________ et O.V.________, par leur curateur, ont déposé plainte pénale
+contre G.V.________ pour violation du devoir d’assistance.
+e)
+Par
+courriers des 25 et 31 janvier 2023, D.T.________ a requis la production en mains de l’OFJ de l’intégralité
+du dossier figurant sous référence K-21-230-1 CAA/PEF relatif à la procédure d’enlèvement
+international ouverte auprès de cet office en août 2021. Elle a également demandé
+l’audition de J.________ ou de tout autre responsable de la procédure susmentionnée entre
+août et décembre 2021. Dans le délai de prochaine clôture, D.T.________ a encore
+requis l’audition de G.________, logopédiste en charge d’O.V.________. Elle a également
+demandé que la direction du Collège [...], à Lausanne, soit interpellée afin de disposer
+d’un rapport de situation quant à l’état de F.V.________ à son retour à
+l’école, pour le motif que le rapport de la DGEJ était insuffisant. Enfin, elle a requis
+son audition et celle de ses enfants, ainsi que l’audition de son frère, B.T.________, qui
+est également son avocat en Turquie.
+B.
+Par ordonnance du 18 août 2023, le Ministère
+public a prononcé le classement de la procédure pénale dirigée contre G.V.________
+pour violation du devoir d’assistance et enlèvement de mineur (I), a dit que l’indemnité
+allouée au conseil juridique gratuit, Me Nicolas Rochani, était fixée à 3'032 fr.
+95, TVA et débours inclus (II), a dit qu’il n’y avait pas lieu d’octroyer à
+G.V.________ une indemnité au sens de l’art. 429 CPP (III), a dit qu’il n’y
+avait pas lieu d’octroyer à D.T.________ une indemnité au sens de l’art. 433 CPP
+(IV) et a ordonné le maintien au dossier de la clé USB inventoriée sous fiche de pièce
+à conviction n° 35'344 (V) et a mis les frais de procédure, y compris l’indemnité
+allouée sous ch. II, par 5'132 fr. 95, à la charge de G.V.________ (VI).
+Cette ordonnance retient en substance ce qui suit :
+Réquisitions
+de preuves
+La procureure a d’abord considéré que cerner le comportement de G.V.________ durant la
+procédure administrative conduite par l’OFJ n’était d’aucun soutien pour
+qualifier juridiquement les faits reprochés à ce dernier dans la présente cause et que,
+par ailleurs, la citation à comparaître d’une fonctionnaire ou d’un magistrat quel
+qu’il fût n’avait pas sa place dans une procédure pénale. Partant, elle a
+rejeté la réquisition tendant à la production en mains de l’OFJ de l’intégralité
+du dossier figurant sous référence K-21-230-1 CAA/PEF relatif à la procédure d’enlèvement
+international ouverte auprès de cet office en août 2021, ainsi que celle tendant à l’audition
+de J.________ ou de tout autre responsable de la procédure susmentionnée entre août et
+décembre 2021. Quant à l’audition de G.________, logopédiste en charge d’O.V.________,
+elle n’était pas nécessaire, dès lors que cette dernière avait produit un bilan
+logopédique de l’enfant, document qui était en soi suffisant. De toute manière,
+tant l’audition requise que ledit bilan étaient sans pertinence pour apprécier les faits.
+S’agissant de la requête tendant à interpeller la direction du Collège [...], afin
+de disposer d’un rapport de situation quant à l’état de F.V.________ à son
+retour à l’école, elle était inutile, vu le rapport complet et détaillé
+de la DGEJ, mentionnant déjà la scolarisation en Suisse et l’avis du pédiatre des
+enfants. Au demeurant, ce rapport avait satisfait les exigences du Tribunal civil qui l’avait demandé.
+Enfin, les auditions de B.T.________, de D.T.________, ainsi que des deux enfants de celle-ci n’apparaissent
+pas de nature à apporter d’éléments déterminants pour l’appréciation
+finale des faits reprochés, au vu des preuves déjà versées au dossier. La procureure
+a donc rejeté toutes les réquisitions déposées par D.T.________, d’autant plus
+qu’elles concernaient toutes l’infraction à l’art. 219 CP, pour laquelle seuls
+les enfants étaient parties et dûment représentés par un avocat.
+Motivation
+De la violation du
+devoir d’assistance ou d’éducation
+La procureure a d’abord relevé les éléments suivants :
+- G.V.________ avait expliqué que ses actes avaient eu pour seul objectif de protéger ses enfants,
+sa fille lui ayant affirmé ne plus se sentir en sécurité chez sa mère. Elle lui avait
+raconté que sa grand-mère maternelle la tapait et hurlait sur son petit frère, tandis
+que sa mère la soulevait par les cheveux. G.V.________ avait alors tenté de parler à D.T.________
+et à sa famille. Ces derniers auraient alors prétendu que la petite fille et lui-même
+mentaient. Son beau-frère avait d’ailleurs créé un groupe WhatsApp et exigé
+qu’il ramène les enfants en Suisse pour le 13 août 2021, ce qui n’avait jamais
+été convenu ainsi. G.V.________ avait également tenté plusieurs contacts avec D.T.________
+et avec plusieurs membres de son ex belle-famille, afin de trouver un arrangement pour organiser des
+visites auprès de leurs enfants. Sa fille ne voulant pas rentrer à Lausanne, le prévenu
+avait proposé de s’installer avec elle à Genève dans l’appartement de sa propre
+mère, décédée quelques mois plus tôt. Sa belle-famille avait interprété
+cela comme du chantage. En conséquence, le prévenu, vraisemblablement inquiet des conditions
+d’accueil de ses enfants chez leur mère, avait signalé cette situation à la DGEJ,
+le 14 août 2021. Il avait aussi contacté le Service Social International (SSI) à Genève.
+G.V.________ avait également amené ses enfants consulter la Prof. Dre [...], spécialiste
+en santé mentale de l’enfant et de l’adolescent, le 18 août 2021. Cette professionnelle
+avait mis en exergue l’attachement sécurisant des enfants avec leur père et recueilli
+les mêmes reproches de la petite fille en relation avec sa famille maternelle. Elle avait conclu
+qu’il était plus approprié pour les enfants de continuer leur vie et leur processus d’éducation
+auprès de leur père en Turquie. G.V.________ n’était donc pas rentré en Suisse
+pour ne pas perdre la confiance de sa fille. Il souhaitait la rassurer à propos de son retour chez
+sa mère. Il voulait que son ex-femme et sa fille fassent la paix, afin que cette dernière puisse
+retourner vivre avec sa mère si elle le souhaitait.
+- G.V.________ avait encore déclaré que sa fille avait conservé son téléphone
+portable et que D.T.________ pouvait l’appeler. Au demeurant, cette dernière pouvait aussi
+appeler le prévenu ou ses belles-sœurs, de même que voir les photographies postées
+par le prévenu sur Facebook. Celui-ci avait d’ailleurs transmis au Ministère public des
+échanges de messages prouvant que D.T.________ avait eu des contacts avec ses enfants. Celle-ci
+connaissait également l’adresse de son ex-mari à Mersin. Elle était même venue
+rendre visite aux enfants, les 20 ou 26 août 2021, ce que le prévenu avait prouvé en produisant
+des photographies. D.T.________ avait d’ailleurs mentionné sa visite, certes de quelques minutes,
+autorisée par G.V.________, à ses enfants en Turquie, le 26 août 2021. A un moment donné,
+le prévenu s’était certes caché dans une autre maison, celle de son oncle, toujours
+dans la même ville, que sa belle-famille ne connaissait pas. Toutefois, selon ses explications,
+ce comportement avait résulté du fait que des civils s’étaient présentés
+à son domicile avec des photographies de ses enfants et de lui-même, en parlant d’enlèvement.
+Il avait aussi entendu parler de tueurs à gage, ce qui l’avait effrayé. Dans ces deux
+lieux de résidence, G.V.________ avait effectué des améliorations pour la sécurité
+de ses enfants. Durant leur séjour avec lui, ses enfants avaient pu effectuer plusieurs activités
+(cf. les photographies produites par le prévenu), comme des promenades, ainsi que des sorties aux
+parcs de jeux et au zoo. Sa fille avait reçu un chat. O.V.________ avait fréquenté, durant
+l’été, une école privée tenue par sa famille en Turquie. L’enfant avait
+alors arrêté d’être violent et était devenu propre.G.V.________ avait également
+procédé à l’inscription de sa fille à l’école en Turquie pour qu’elle
+puisse commencer sa scolarité en septembre 2021. Il avait fourni la facture de cette inscription.
+Toutefois, celle-ci avait été annulée le 11 septembre 2021, après le passage
+de D.T.________ et de son avocat dans cette école. Du reste, le processus d’obtention ou de
+modification des dossiers scolaires avait été suspendu par décision du 27 septembre 2021
+du Tribunal des affaires familiales n° 8 de Mersin. Néanmoins, G.V.________ avait organisé
+un soutien scolaire pour sa fille. D’ailleurs, à l’automne 2021, les chaînes de
+télévision turques avaient adopté un protocole de suivi scolaire en raison de la pandémie
+de coronavirus.
+- G.V.________ avait enfin précisé que, lorsqu’il avait conduit sa fille au Tribunal
+en Turquie, le but était d’être entendus par une assistante sociale. Or, seules sa fille,
+son ex-femme et son ex-belle-mère l’avaient été, tandis qu’il était déféré
+devant un procureur. Sa fille avait alors été rendue à D.T.________. A partir de ce jour,
+les échanges entre celle-ci et le prévenu avaient été plus aisés. D.T.________
+avait pu lui exprimer avoir craint de perdre ses enfants et avoir pris conscience de leur valeur. Pour
+cette raison, ils avaient tous deux été en mesure de s’entendre raisonnablement et de
+conclure un protocole d’entente, ce que D.T.________ contestait toutefois.
+- F.V.________ avait expliqué à son curateur qu’elle avait passé du temps à
+Mersin et à Istanbul. Elle avait décrit les appartements dans lesquels elle avait vécu
+à Mersin, tout en précisant n’avoir pu sortir que deux fois du second appartement pour
+ne pas risquer de «
+croiser
+les avocats et la police
+». Durant son séjour
+en Turquie, elle avait vu son grand-oncle et sa grande-tante paternels, mais avait aussi passé du
+temps avec ses trois tantes paternelles et ses cousins. Elle en était «
+contente
+». Elle s’était amusée dans la piscine au bas du premier appartement et s’était
+rendue dans un parc d’attraction, ainsi qu’une fois dans un restaurant. Si elle n’avait
+pas ressenti l’envie d’appeler sa mère, la raison se trouvait dans la manipulation de
+son père à son égard. Elle regrettait de ne pas avoir «
+avancé
+» vers sa maman lorsqu’elle était venue les rencontrer en Turquie. Elle n’était
+pas parvenue à exprimer son ressenti concernant son séjour en Turquie et son retour en Suisse,
+affirmant n’être «
+ni
+contente, ni triste
+» car elle se sentait
+«
+un peu perdue
+». Elle avait néanmoins «
+peu
+de souvenirs
+» de cette période.
+- Dans son rapport d’évaluation du 2 juin 2022, établi sur mandat d’évaluation
+du Président du Tribunal civil de l’arrondissement de Lausanne, la DGEJ avait expliqué
+que, selon les enseignants de F.V.________, une intégration «
+en
+douceur et progressivement vu ce qu’elle venait de vivre
+» avait été prévue. Or, cela n’avait «
+pas
+été nécessaire
+». En outre,
+les résultats scolaires de l’enfant étaient bons. Aucun retard scolaire n’était
+à déplorer. De même, la pédiatre des enfants avait rapporté qu’«
+O.V.________ présentait
+un bon développement, aucune inquiétude ne s’est posée à son sujet
+». De même, F.V.________ «
+présentait
+un développement tout à fait normal et aucune observation particulière n’a été
+faite
+». Ainsi, dans son rapport, la DGEJ
+relevait uniquement que l’enlèvement des enfants «
+représente
+une situation de stress et d’inquiétude non conforme à leur sécurité
+», mais ne mentionnait aucun trouble en relation avec cet enlèvement en particulier chez les
+deux enfants. Certes, le bilan de G.________, logopédiste en charge d’O.V.________, avait
+conclu à un important retard de langage «
+à
+placer dans le contexte du vécu traumatisant de l’enfant qui est intervenu alors qu’il
+était âgé de trois ans et commençait à parler
+». Cependant, cette logopédiste soulignait également que, selon les périodes et les
+situations, «
+la langue
+parlée en famille était tantôt le turc, le kurde, l’anglais ou le français
+», sans préciser si ces langues étaient plutôt parlées avec l’un ou l’autre
+des parents, voire avec la famille élargie. Elle mentionnait encore que «
+la
+sœur aînée d’O.V.________ a parlé tard et la maman ne s’inquiète
+donc pas trop du retard de langage de son petit garçon
+». Dès lors, et outre le fait que la professionnelle signataire dudit bilan n’avait aucune
+qualification en psychiatrie ou en psychologie, rien ne permettait d’affirmer que le comportement
+de G.V.________ était la cause – même à titre principal – du retard de langage
+dont souffrait son fils. Par ailleurs, depuis le retour des enfants en Suisse, d’autres événements
+avaient pu induire ce déficit, sans aucun rapport avec les infractions reprochées à leur
+père. En conséquence, le bilan logopédique produit par D.T.________ était sans pertinence.
+Au vu de l’ensemble de ces éléments, la procureure a retenu que les comportements reprochés
+à G.V.________ par son ex-femme, soit d’avoir retenu leurs enfants, sans préavis ni concertation,
+en gardant le secret sur le lieu où ils se trouvaient, en coupant tout lien avec elle, les plaçant
+dans une situation incompréhensible au vu de leurs âges respectifs, dans un pays dont ils ne
+parlaient pas la langue, et empêchant ainsi sa fille de se rendre à l’école, n’étaient
+pas suffisamment caractérisés pour être constitutifs d’une violation du devoir d’assistance
+ou d’éducation au sens de l’art. 219 CP. Outre le fait qu’ils n’avaient
+pas été confirmés par F.V.________, ils devaient être appréciés avec une
+grande prudence au regard du litige aigu opposant les parties. D’ailleurs, la DGEJ avait préconisé
+une reprise supervisée du droit de visite du prévenu, ce qui avait été ratifié
+par le Président du Tribunal civil le 9 janvier 2023, et précisé avoir observé une
+complicité entre le père et ses enfants, ce qui tendait à corroborer les observations
+de la Prof. Dre [...] relatives à l’attachement des enfants à leur père. Rien
+ne permettait donc d’affirmer que le développement des enfants avait été concrètement
+mis en danger, aucune séquelle durable n’ayant été constatée – que ce
+fût par les enseignants ou la pédiatre des enfants –, ni à prévoir de ce fait.
+L’art. 219 CP n’était ainsi pas réalisé.
+De l’enlèvement
+de mineur
+La procureure a relevé que, par protocole de remise des enfants et d’agrément du 30 novembre
+2021, signé par G.V.________ et D.T.________, cette dernière avait retiré sa plainte,
+à condition que son fils lui soit remis. Or, O.V.________ était retourné auprès de
+sa mère à une date indéterminée début décembre 2021. Au demeurant, selon
+les termes de ce protocole, G.V.________ renonçait également à toute action de changement
+de garde et acceptait de demander la levée de toutes les injonctions, y compris celle concernant
+le départ des enfants à l’étranger, de même que leur retour en Suisse. D.T.________
+se prévalait cependant d’avoir été contrainte de signer ce protocole, ce dont elle
+avait informé le Tribunal civil de Lausanne par courrier du 29 novembre 2021 et le Ministère
+public par courrier du 15 février 2022 seulement. Elle était toutefois assistée par plusieurs
+avocats, autant en Turquie qu’en Suisse, sans compter le soutien de son frère, également
+avocat.
+La procureure en a déduit que D.T.________ avait signé le protocole en toute connaissance de
+cause et en étant informée de la conséquence de ses actes. Elle n’avait communiqué
+au Ministère public l’existence du protocole et d’une éventuelle contrainte que
+le 15 février 2022, soit presque trois mois après la signature, et uniquement après interpellation
+de ladite autorité qui souhaitait connaître l’avancement de ses démarches pour récupérer
+ses enfants. Lorsqu’il lui avait été demandé de se déterminer sur la problématique
+du retrait de plainte, D.T.________, par l’intermédiaire de son avocate, s’était
+contentée d’affirmer qu’elle entendait demeurer partie à la procédure pénale,
+comme cela était son droit le plus strict.
+La procureure a donc considéré que la plainte avait été retirée et que D.T.________
+n’était plus partie à la procédure. L’infraction d’enlèvement de
+mineur au sens de l’art. 220 CP ne se poursuivant que sur plainte et les enfants n’ayant
+pas qualité pour déposer plainte pour cette infraction, une ordonnance de classement devait
+être rendue en faveur de G.V.________ sur ce point, sans qu’il soit nécessaire d’examiner
+si les éléments constitutifs de l’infraction étaient réalisés.
+C.
+Par acte du 7 septembre 2023, D.T.________, par
+son conseil de choix, a recouru auprès de la Chambre des recours pénale contre cette ordonnance,
+en concluant, avec suite de frais et dépens, à son annulation, au renvoi du dossier de la cause
+au Ministère public pour qu’il procède dans le sens de considérants à intervenir,
+les frais étant mis à la charge du prévenu, respectivement de l’Etat, et une indemnité
+de 1'400 fr. lui étant allouée au titre de participation aux honoraires de son conseil.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le Ministère public en application des art. 319 ss CPP dans les dix jours
+devant l’autorité de recours (art. 322 al. 2 et 396 al. 1 CPP ; cf. art. 20 al. 1 let. b CPP),
+qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP
+[Loi vaudoise d’introduction du Code de procédure pénale suisse du 19 mai 2009; BLV 312.01];
+art. 80 LOJV [Loi vaudoise d’organisation judiciaire du 12 décembre 1979; BLV 173.01]).
+1.2
+Interjeté dans le délai légal (art.
+396 al. 1 CPP) et satisfaisant aux conditions de forme (art. 385 al. 1 CPP), le recours est recevable
+en la forme.
+1.3
+1.3.1
+Aux termes de l’art. 382 al. 1 CPP, seule
+la partie qui a un intérêt juridiquement protégé à l’annulation ou à
+la modification d’une décision a qualité pour recourir contre celle-ci. Le recourant
+n’est au bénéfice d’un intérêt juridiquement protégé que s’il
+est directement atteint, c’est-à-dire lésé, dans ses droits par la décision
+attaquée. Il ne suffit pas qu’il soit atteint dans ses droits par effet réflexe. Le recourant
+doit ainsi établir que la décision attaquée viole une règle de droit qui a pour but
+de protéger ses intérêts et qu’il peut par conséquent en déduire un droit
+subjectif. L’intérêt doit donc être personnel (CREP 11 octobre 2023/843 consid.
+2.1.1 ; CREP 21 juin 2019/506 consid. 2.1 ; CREP 2018/956 consid. 2.1 ; CREP 19 janvier 2016/31
+consid. 1.2 et réf. cit.). Une partie qui n’est pas concrètement lésée par
+la décision ne possède donc pas la qualité pour recourir et son recours est irrecevable
+(ATF 144 IV 81 consid. 2.3.1).
+1.3.2
+S’agissant du recours en tant qu’il concerne l’infraction d’enlèvement de
+mineur, il a été interjeté par une personne dont la qualité de partie plaignante
+n’a pas été reconnue et qui, partant, a un intérêt juridiquement protégé
+au recours. Il est dès lors recevable.
+1.3.3
+S’agissant du recours en tant qu’il concerne l’infraction de violation du devoir d’assistance
+ou d’éducation, D.T.________ n’a pas la qualité pour recourir. En effet, l’art.
+219 CP tend à protéger le développement physique et psychique des enfants. Ce sont eux
+qui doivent être considérés comme directement lésés. Le détenteur de l’autorité
+parentale ne peut agir que comme représentant des enfants. Or, en présence d’un conflit
+d’intérêts, soit dans le cadre d’une procédure pénale introduite contre
+le père, le parent concerné n’a plus le pouvoir de représenter l’enfant (TF
+6B_707/2014 du 18 décembre 2014 consid. 1.3.2 et les réf. cit ; CREP 1er mars 2021/198
+consid. 2). En l’espèce, cela est d’autant plus vrai qu’un curateur, soit Me Nicolas
+Rochani, a été désigné par la Justice de paix du district de la Riviera-Pays d’Enhaut,
+avec pour mission de représenter F.V.________ et O.V.________ dans le cadre de la procédure
+pénale ouverte contre G.V.________, et qu’il a également été désigné
+conseil juridique gratuit des deux enfants. La recourante n’a donc pas le pouvoir de représenter
+ses enfants dans le cadre de la présente procédure, respectivement n’a pas la qualité
+pour recourir en leur nom. Le recours est donc irrecevable en tant qu’il concerne l’infraction
+de violation du devoir d’assistance ou d’éducation.
+2.
+2.1
+La recourante fait valoir qu’elle n’aurait
+jamais procédé au retrait formel de sa plainte pénale auprès du Ministère public
+et que, bien au contraire, par son courrier du 29 novembre 2021 adressé aux autorités pénales
+et civiles suisses, elle aurait clairement manifesté son désaccord et les raisons pour lesquelles
+elle n’avait pas eu d’autres choix que de signer le protocole du 30 novembre 2021. Le
+Ministère public n’aurait d’ailleurs jamais pris formellement acte d’aucun retrait
+de plainte ni indiqué à l’intéressée qu’elle n’était plus
+partie à la procédure, au préalable de son ordonnance du 18 août 2023. La recourante
+prétend qu’elle aurait été victime de contrainte de la part de G.V.________, qui
+lui aurait fait miroiter le retour des enfants. Dès lors que la recourante aurait immédiatement
+invalidé le protocole par l’intermédiaire de son conseil, un tel accord, avec les explications
+claires données au Ministère public, ne saurait être considéré comme obtenu
+de façon loyale et conforme au droit et produire des effets. Par ailleurs, les enfants n’auraient
+pas été restitués ensuite de cet « accord », F.V.________ ayant pu
+échapper à la vigilance de son père pour se réfugier près de sa mère et
+O.V.________ ayant été rendu plusieurs jours après la signature du protocole. Selon la
+recourante, il serait donc insoutenable de dire qu’elle aurait valablement renoncé à
+toutes actions judiciaires et retiré valablement sa plainte pénale, de sorte qu’elle
+devrait être considérée comme partie à la procédure.
+2.2
+2.2.1
+L'art. 220 CP dispose que celui qui aura soustrait
+ou refusé de remettre un mineur au détenteur du droit de déterminer le lieu de résidence
+sera, sur plainte, puni d'une peine privative de liberté de trois ans au plus ou d'une peine pécuniaire.
+2.2.2
+Selon l'art. 33 CP, l'ayant droit peut retirer
+sa plainte tant que le jugement de deuxième instance cantonale n'a pas été prononcé
+(al. 1). Quiconque a retiré sa plainte ne peut la renouveler (al. 2).
+Le retrait de plainte constitue une manifestation de volonté irrévocable (ATF 143 IV 104 consid.
+5.1 ; 132 IV 97 consid. 3.3.1).
+Dans un arrêt publié aux ATF 79 IV 97, le Tribunal fédéral avait affirmé que,
+comme une telle manifestation de volonté ne relève pas du droit civil ou du droit des obligations,
+mais du droit pénal et de procédure pénale, les art. 23 ss CO ne sont pas applicables,
+même par analogie (consid. 4). Cette solution est critiquée par une majeure partie de la doctrine,
+qui soutient notamment que la validité du retrait de plainte est en tout cas affectée si l'ayant
+droit a agi sous le coup d'une tromperie ou d'une contrainte au sens du droit pénal (TF 6B_1105/2019
+du 12 décembre 2019 consid. 2.2 et les références citées).
+2.2.3
+Se rend coupable de contrainte selon l'art. 181
+CP celui qui, en usant de violence envers une personne ou en la menaçant d'un dommage sérieux,
+ou en l'entravant de quelque autre manière dans sa liberté d'action, l'aura obligée à
+faire, à ne pas faire ou à laisser faire un acte. La menace est un moyen de pression psychologique
+consistant à annoncer un dommage futur dont la réalisation est présentée comme dépendante
+de la volonté de l'auteur, sans toutefois qu'il soit nécessaire que cette dépendance soit
+effective (ATF 117 IV 445 consid. 2b ; ATF 106 IV 125 consid. 2a ; TF 6B_1105/2019 précité
+consid. 2.4 ; TF 6B_1216/2019 du 28 novembre 2019 consid. 2.1) ni que l'auteur ait réellement
+la volonté de réaliser sa menace (ATF 105 IV 120 consid. 2a ; TF 6B_1105/2019 précité
+consid. 2.4). La loi exige un dommage sérieux, c'est-à-dire que la perspective de l'inconvénient
+présenté comme dépendant de la volonté de l'auteur soit propre à entraver le
+destinataire dans sa liberté de décision ou d'action (ATF 120 IV 17 consid. 2a/aa ; TF 6B_1105/2019
+précité consid. 2.4 ; TF 6B_1216/2019 précité consid. 2.1). La question doit être
+tranchée en fonction de critères objectifs, en se plaçant du point de vue d'une personne
+de sensibilité moyenne (ATF 122 IV 322 consid. 1a ; ATF 120 IV 17 consid. 2a/aa ; TF 6B_1105/2019
+précité consid. 2.4).
+2.3
+En l’espèce, à l’instar
+du Ministère public, il y a lieu de retenir que le retrait de plainte opéré sur la base
+du protocole de remise des enfants et d’agrément signé le 30 novembre 2021 n’a
+pas été obtenu par la contrainte. En effet, on voit mal comment le prévenu aurait pu adopter
+un comportement menaçant à l’encontre de la recourante, alors que celle-ci était
+assistée par plusieurs avocats, autant en Turquie qu’en Suisse, sans compter le soutien de
+son frère, également avocat. En outre, il n’apparaît pas que le seul fait de réclamer
+les enfants en justice et de ne pas les restituer dans l’attente d’une décision, puisse
+être constitutif d’une menace d’un dommage sérieux au sens de l’art. 181
+CP, étant relevé que la recourante savait où se trouvait ses enfants et qu’une procédure
+judiciaire avait été ouverte. A cet égard, on relèvera que rien n’indique que
+les autorités tant suisses que turques étaient restées inactives ou faisaient preuve de
+prévention. Il faut encore constater que le prévenu a, de son côté, renoncé
+à tous ses droits quant aux procédures ouvertes en Turquie et s’est engagé à
+collaborer au retour de ses enfants en Suisse, alors qu’une décision prise par le Tribunal
+civil des affaires familiales n° 8 de Mersin le 27 septembre 2021 interdisait aux enfants de
+quitter le territoire turc. La recourante ne prétend du reste pas que le prévenu n’a
+pas respecté ses obligations. Le fils a d’ailleurs été rendu à sa mère,
+la fille cadette se trouvant déjà auprès de celle-ci. La recourante, comme elle le dit
+elle-même, a voulu s’assurer d’un retour rapide de ses enfants auprès d’elle.
+On ne saurait certes le lui reprocher. On ne voit toutefois pas quelle raison elle pourrait invoquer
+pour ne pas respecter sa part du contrat, étant précisé que celui qui a pris l’engagement
+de retirer sa plainte viole les règles de la bonne foi et ne mérite aucune protection juridique
+si, sans motifs valables, il maintient sa plainte alors que la partie adverse a satisfait aux conditions
+prévues (Dupuis et al. [éd.], Petit commentaire, Code pénal, 2e éd., Bâle
+2017, n. 7 ad art. 33 CP et les réf. citées).
+Au vu de ce qui précède, on ne perçoit pas quelle menace d'un dommage sérieux, au
+sens de l'art. 181 CP, aurait pu être proférée à l'encontre de la recourante afin
+de la pousser à signer le document du 30 novembre 2021. C’est donc à raison que le Ministère
+public a retenu que le retrait de plainte opéré sur la base de ce document n'avait pas été
+obtenu par la contrainte. Partant, il y a lieu de considérer que la plainte a été retirée.
+L’infraction d’enlèvement de mineur au sens de l’art. 220 CP ne se poursuivant
+que sur plainte, c’est à raison que le Ministère public a rendu une ordonnance de classement
+en faveur de G.V.________ sur ce point.
+3.
+En définitive, le recours, manifestement
+mal fondé, doit être rejeté dans la mesure où il est recevable, sans échange
+d’écritures (art. 390 al. 2 CPP), et l’ordonnance attaquée confirmée.
+Vu le sort du recours, les frais de la procédure, constitués en l’espèce de l’émolument
+d'arrêt, par 1’870 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront mis à la charge de la
+recourante, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+L’ordonnance du 18 août 2023 est confirmée.
+III.
+Les frais d’arrêt, par 1'870 fr. (mille
+huit cent septante francs), sont mis à la charge de D.T.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Julie André, avocate (pour D.T.________),
+-
+Me Albert Habib, avocat (pour G.V.________),
+-
+Me Nicolas Rochani, avocat (pour F.V.________ et O.V.________),
+-
+Ministère public central ;
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
