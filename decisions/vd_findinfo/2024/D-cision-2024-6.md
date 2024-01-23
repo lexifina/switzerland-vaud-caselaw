@@ -1,0 +1,652 @@
+---
+decision_id: "vd_findinfo_D_cision___2024___6"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2024 / 6"
+decided: "2024-01-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9689900"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-017.md", "switzerland/bund/acts/311.0/art-048a.md", "switzerland/bund/acts/311.0/art-177.md", "switzerland/bund/acts/311.0/art-179bis.md", "switzerland/bund/acts/311.0/art-179quater.md", "switzerland/bund/acts/311.0/art-179ter.md", "switzerland/bund/acts/311.0/art-180.md", "switzerland/bund/acts/311.0/art-186.md", "switzerland/bund/acts/311.0/art-292.md", "switzerland/bund/acts/312.0/art-002.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-007.md", "switzerland/bund/acts/312.0/art-008.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-136.md", "switzerland/bund/acts/312.0/art-138.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2024 / 6
+
+## Regeste
+
+ORDONNANCE DE NON-ENTRÉE EN MATIÈRE, INFRACTIONS CONTRE LE DOMAINE SECRET, ADMISSION PARTIELLE, ÉTAT DE NÉCESSITÉ | 17 CP, 179bis CP, 179ter CP, 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale Décision / 2024 / 6
+
+ORDONNANCE DE NON-ENTRÉE EN MATIÈRE, INFRACTIONS CONTRE LE DOMAINE SECRET, ADMISSION PARTIELLE, ÉTAT DE NÉCESSITÉ | 17 CP, 179bis CP, 179ter CP, 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+65
+PE23.013378-MNU
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+23 janvier 2024
+__________________
+Composition
+:               Mme
+B Y R D E, juge présidant
+Mme
+Fonjallaz et M. Perrot, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+17, 179
+bis
+,
+179
+ter
+,
+179
+quater
+CP ; 310 CPP
+Statuant sur le recours interjeté le 14 août 2023 par
+[...]
+contre l’ordonnance de non-entrée en matière rendue le 3 août 2023 par le Ministère
+public de l’arrondissement de La Côte dans la cause
+n° PE23.013378-MNU
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par
+ordonnance de mesures provisionnelles du 24 juin 2022, la Présidente du Tribunal civil de l’arrondissement
+de La Côte a prononcé, à l’égard d’T.________, une interdiction de pénétrer
+dans le périmètre à proximité du domicile des époux L.________ et [...] (ch.
+II du dispositif) et lui a interdit de prendre contact, de quelque manière que ce soit, avec eux,
+ainsi qu’avec leurs employeurs (ch. III et IV du dispositif) (P. 5/1).
+Le 16 février 2023, les époux L.________ et [...] ont saisi le juge civil d’une requête
+tendant à ce que ces interdictions soient assorties de la menace de la peine prévue par l’art.
+292 CP (Code pénal suisse du 21 décembre 1937 ; RS 311.0) (P. 5/4).
+Les requérants ont produit un enregistrement visuel et sonore effectué le 6 avril 2023, dont
+il sera fait état ci-dessous, à l’appui d’une nouvelle demande de mesure d’éloignement,
+déposée le 17 avril 2023 devant le Président du Tribunal civil de l’arrondissement
+de La Côte (P. 5/6 et 7).
+b)
+Le 6 juillet 2023, T.________ a déposé
+plainte pénale contre L.________, pour injure, enregistrement non autorisé de conversations,
+violation du domaine secret ou du domaine privé au moyen d’un appareil de prise de vues, menaces,
+violation de domicile, ainsi que pour toute infraction qui pourrait être découverte par l’enquête
+pénale (P. 4). Les faits dénoncés sont décrits comme il suit dans l’ordonnance
+de non-entrée en matière dont il sera fait état ci-dessous :
+«
+1) A [...],
+(…)
+,
+le 13 février 2023, vers 12h30, L.________ aurait enregistré le début de conversation
+qu’il a eu avec T.________, sans son consentement et lui aurait hurlé dessus en utilisant
+un ton agressif. Quelques minutes plus tard, L.________ aurait filmé T.________ sans son consentement,
+alors qu’il était en pantoufles et en peignoir. Le conseil de L.________ aurait transmis ces
+enregistrements au Président du Tribunal civil de l’arrondissement de La Côte.
+2) Au même endroit, le 6 avril 2023, vers 15h30, L.________ aurait enregistré la conversation
+qu’il a eue avec T.________, sans son consentement, et l’aurait transmise au Président
+du Tribunal civil de l’arrondissement de La Côte, par l’intermédiaire de son conseil.
+3) Au même endroit, le 13 mai 2023, L.________ aurait pénétré sans droit sur la propriété
+d’T.________ et l’aurait menacé de le faire condamner, lui déclarant également
+qu’il était un
+"escroc"
+.
+».
+B.
+Par ordonnance du 3 août 2023, le Ministère
+public de l’arrondissement de l’Est vaudois (ci-après : Ministère public)
+a refusé d’entrer en matière (I), a dit que la clé USB contenant deux enregistrements
+vidéo du 13 février 2023, inventoriée sous fiche de pièce à conviction n°
+42861, était maintenue au dossier (II) et a dit que les frais étaient laissés à la
+charge de l’Etat (III).
+La Procureure a considéré notamment ce qui suit :
+« (…)
+Ad cas n°1
+(...).
+En l’espèce, il ressort de la plainte déposée par [...] qu’il avait remarqué
+que L.________ utilisait son téléphone pour enregistrer une partie de leur conversation et
+pour le filmer. Le délai pour porter plainte est donc échu depuis le 13 mai 2023. La plainte
+déposée par [...] le 6 juillet 2023 doit dès lors être considérée comme
+tardive. Il convient ainsi de ne pas entrer en matière s’agissant de ce premier cas.
+Ad cas n° 2
+(…).
+L.________ a effectué un enregistrement vidéo et sonore de la conversation qu’il a eue
+avec le plaignant sans le consentement de ce dernier. Il s’agissait d’un acte délibéré
+; les conditions objectives et subjectives de l’enregistrement non autorisé de conversations
+sont ainsi réunies.
+Cela étant, il y a lieu de tenir compte du fait que les enregistrements litigieux ont été
+recueillis dans un contexte particulier. En effet, la Présidente du Tribunal d’arrondissement
+de La Côte a rendu une ordonnance de mesures provisionnelles le 24 juin 2022, selon laquelle il
+est fait interdiction à [...] de pénétrer dans le périmètre à proximité
+du domicile de L.________ et de [...], selon un plan annexé à la décision, de prendre
+contact, de quelque manière que ce soit, avec ces derniers, ainsi qu’avec leurs employeurs
+(P. 5/1). Des violations de ces clauses auraient été commises par [...], conduisant le conseil
+de L.________ et de [...] à requérir de la Présidente du Tribunal d’arrondissement
+de La Côte que les interdictions faites à [...] soient, tant par mesures superprovisionnelles
+que provisionnelles, assorties d’une amende au sens de l’art. 292 CP en cas de violation,
+par courrier du 16 février 2023 (P. 5/4).
+Force est ainsi de constater que les agissements de L.________ étaient destinés à se protéger
+des contestations d’[...] devant les autorités civiles, où les deux parties sont manifestement
+engagées dans un important conflit (P. 5/1). Il apparaît donc vraisemblable que L.________,
+anticipant un comportement contraire à la décision du tribunal civil de la part d’[...],
+ait ainsi voulu se protéger en enregistrant la rencontre avec ce dernier, devant sa propriété.
+L.________ a ainsi produit cet enregistrement auprès du Tribunal civil de l’arrondissement
+de La Côte pour prouver ses allégations (P. 5/7).
+Sur le vu de ce qui précède, il y a ainsi lieu de considérer que l’enregistrement
+effectué par L.________ a uniquement été fait dans le but de se protéger dans le
+cadre de la procédure civile qui l’oppose à [...]. Ce faisant, le fait justificatif doit
+être admis dans ce cas de figure et il ne doit pas être entrée en matière sur la
+plainte déposée par [...].
+Ad cas n° 3
+(...).
+[...] n’apporte aucun début de preuve pouvant effectivement attester que L.________ aurait
+pénétré sur la propriété de ce dernier. Aucune mesure d’enquête ne
+permettrait par ailleurs d’établir ce fait. Il ne doit donc pas être entré en matière
+pour ce qui concerne cette infraction pénale de violation de domicile au sens de l’art. 186
+CP.
+En deuxième lieu, [...] indique avoir été injurié et menacé par L.________.
+Il doit tout d’abord être rappelé que les parties se trouvent dans un profond litige.
+Ce faisant, les propos doivent être analysés dans leur contexte. De jurisprudence constante,
+il est admis que toute menace ne tombe pas sous le coup de l’art. 180 CP, la loi exigeant en effet
+que cette menace soit grave au point d’alarmer ou d’effrayer effectivement la personne qui
+la reçoit. En l’espèce, on constatera tout d’abord que le propos que le plaignant
+(…)
+dénonce comme une menace (P. 4, pt. 8) consiste dans le fait que L.________ entendrait le faire
+condamner. Cela laisse en réalité entendre que L.________ envisagerait de déposer plainte,
+ce qui n’est pas nécessairement une menace puisqu’une telle démarche de dépôt
+de plainte est en soi parfaitement légale, ce d’autant si la personne a pu commettre un acte
+susceptible de plainte. Un tel propos n’est donc pas suffisamment caractérisé pour alarmer
+ou effrayer son destinataire ; il importe peu qu’[...] déclare avoir té alarmé
+(par)
+ces propos.
+S’agissant des propos adressés par L.________ le qualifiant d’escroc, aucun début
+de preuve n’est apporté par [...] pour étayer ses griefs. Aucune mesure d’instruction
+ne permettrait d’accréditer la version d’[...]. Etant donné qu’un litige
+de longue date oppose les parties, les déclarations du plaignant ne pourraient être privilégiées.
+Il serait par ailleurs vain d’entendre L.________. Faute d’élément concret apporté
+par le plaignant, l’autorité de céans n’entre par conséquent pas en matière
+sur la plainte déposée par [...] sur ce troisième cas.
+(…)
+».
+C.
+a)
+Par acte du 14 août 2023, T.________,
+agissant par son conseil, a recouru contre l’ordonnance de non-entrée en matière précitée,
+en concluant, avec suite de frais et dépens, à son annulation et au renvoi du dossier de la
+cause au Ministère public «
+pour
+qu’il conduise une procédure préliminaire et instruise les faits visés par la plainte
+pénale dans le sens des considérants, notamment (sans exhaustivité) en procédant
+à l’audition de L.________ et d’T.________
+».
+Le recourant a requis une indemnité de 2'000 fr. au sens de l’art. 429 (recte : 433)
+CPP (Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0), tout en demandant par ailleurs
+le bénéfice de l’assistance judiciaire dès le 10 août 2023, jour du premier
+entretien entre mandant et mandataire. Le mémoire de recours porte aussi la signature de l’avocate
+stagiaire de Me Guy Longchamp, au regard de la mention «
+Pour
+rédaction
+».
+Le 27 novembre 2023, le Ministère public a fait savoir qu’il renonçait à se déterminer
+sur le recours.
+b)
+Le 18 décembre 2023, le recourant a produit une liste d’opérations de son mandataire
+(P. 14).
+A la réquisition de l’autorité de céans du 9 janvier 2024 (P. 15), Me Kim-Lloyd
+Sziboz, de l’Etude de Me Longchamp, a, par lettre du 12 janvier 2024, précisé que la
+liste d’opérations ne comportait que des opérations effectuées par l’avocat
+breveté, alors même qu’elle avait été le fruit d’un travail commun avec
+l’avocate stagiaire (P. 16).
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le Ministère public en application de l’art.
+310 CPP dans les dix jours devant l’autorité de recours (art. 310 al. 2, 322 al.
+2 et 396 al. 1 CPP ; cf. art. 20 al. 1 let. b CPP) qui est, dans le canton de Vaud, la Chambre des recours
+pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise d’introduction du Code
+de procédure pénale suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [loi
+vaudoise d’organisation judiciaire du 12 décembre 1979 ; BLV 173.01]).
+En l’espèce, le recours a été déposé en temps utile, devant l’autorité
+compétente, par la partie plaignante qui a qualité pour recourir (art. 382 al. 1 CPP)
+et a été établi dans les formes prescrites (art. 385 al. 1 CPP). Partant, il est recevable.
+2.
+2.1
+Le recourant limite sa contestation aux points
+2 et 3 de l’ordonnance de non-entrée en matière attaquée, dès lors qu’il
+ne conteste pas que sa plainte soit tardive s’agissant des faits survenus le 13 février 2023.
+S’agissant des faits décrits sous le chiffre 2 de l’ordonnance entreprise, le recourant
+fait valoir, en bref, que le Ministère public ne peut pas retenir, dans une ordonnance de non-entrée
+en matière, que les éléments constitutifs objectifs et subjectifs de l’infraction
+d’enregistrement non autorisé de conversation sont réunis. Il fait grief au Ministère
+public d’avoir considéré que L.________ pouvait se prévaloir d’un fait justificatif,
+soit d’avoir agi uniquement pour se protéger dans le cadre d’un procès civil. Il
+conteste ainsi que les conditions de l’état de nécessité au sens de l’art.
+17 CP soient réunies.
+2.2
+Aux termes de l'art. 309 al. 1 let. a CPP, le
+Ministère public ouvre une instruction, notamment, lorsqu'il ressort du rapport de police, des dénonciations
+ou de ses propres constatations des soupçons suffisants laissant présumer qu'une infraction
+a été commise.
+Conformément à l’art. 310 al. 1 CPP, le Ministère public rend immédiatement
+une ordonnance de non-entrée en matière s’il ressort de la dénonciation ou du rapport
+de police que les éléments constitutifs de l’infraction ou les conditions à l’ouverture
+de l’action pénale ne sont manifestement pas réunis (let. a), qu’il existe
+des empêchements de procéder (let. b) ou que les conditions mentionnées à l’art.
+8 CPP imposent de renoncer à l’ouverture d’une poursuite pénale (let. c).
+Selon l’art. 310 al. 1 let. a CPP, il importe que les éléments constitutifs de l'infraction
+ne soient manifestement pas réunis. Cette disposition doit être appliquée conformément
+à l'adage «
+in dubio
+pro duriore
+», qui découle du principe
+de la légalité (art. 5 al. 1 Cst. [Constitution fédérale de la Confédération
+suisse du 18 avril 1999 ; RS 101] et art. 2 al. 2 CPP ; ATF 138 IV 86 consid. 4.2 ;
+TF 6B_77/2021 du 6 mai 2021 consid. 2.2) et signifie qu'en principe un classement ou une non-entrée
+en matière ne peuvent être prononcés par le ministère public que lorsqu'il apparaît
+clairement que les faits ne sont pas punissables ou que les conditions à la poursuite pénale
+ne sont pas remplies (ATF 146 IV 68 consid. 2.1). La procédure doit se poursuivre lorsqu'une condamnation
+apparaît plus vraisemblable qu'un acquittement ou lorsque les probabilités d'acquittement et
+de condamnation apparaissent équivalentes, en particulier en présence d'une infraction grave.
+En effet, en cas de doute s'agissant de la situation factuelle ou juridique, ce n'est pas à l'autorité
+d'instruction ou d'accusation mais au juge matériellement compétent qu'il appartient de se
+prononcer (ATF 143 IV 241 consid. 2.2.1; ATF 138 IV 86 consid. 4.1.2 et les références citées;
+ATF 137 IV 285 consid. 2.3 et les références citées, JdT 2012 IV 160 ; TF 7B_27/2023
+du 12 septembre 2023 consid. 3.2 ; TF 6B_1177/2022 du 21 février 2023 consid. 2.1 ; TF 6B_638/2021
+du 17 août 2022 consid. 2.1.1 ; TF 6B_1199/2020 du 23 septembre 2021 consid. 2.1). En revanche,
+le Ministère public doit pouvoir rendre une ordonnance de non-entrée en matière dans les
+cas où il apparaît d’emblée qu’aucun acte d’enquête ne pourra apporter
+la preuve d’une infraction à la charge d’une personne déterminée (TF 6B_541/2017
+du 20 décembre 2017 consid. 2.2).
+2.3
+2.3.1
+En vertu de l’art. 179
+bis
+CP, celui qui, sans le consentement de tous les participants, aura écouté à l’aide
+d’un appareil d’écoute ou enregistré sur un porteur de son une conversation non
+publique entre d’autres personnes, celui qui aura tiré profit ou donné connaissance à
+un tiers d’un fait qu’il savait ou devait présumer être parvenu à sa propre
+connaissance au moyen d’une infraction visée à l’al. 1, celui qui aura conservé
+ou rendu accessible à un tiers un enregistrement qu’il savait ou devait présumer avoir
+été réalisé au moyen d’une infraction visée à l’al. 1, sera,
+sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine
+pécuniaire.
+Sur le plan objectif, le comportement typique est l’écoute, à l’aide d’un
+appareil d’écoute ou l’enregistrement sur un porteur de son d’une conversation
+non publique entre d’autres personnes, dont l’auteur est extérieur, soit un échange
+oral de propos entre deux personnes au moins, sans le consentement des participants. Peu importe le contenu
+de ladite conversation. Il faut admettre qu’il n’est pas nécessaire que le celui-ci
+soit secret et que c’est bien le caractère privé de la conversation comme telle qui est
+protégé (Dupuis/Moreillon/Piguet/Berger/Mazou/ Rodigari [éd.], Code pénal, Petit
+commentaire, 2
+e
+éd., 2017, n. 4 ad art. 179
+bis
+CP et les références citées).
+2.3.2
+L'art. 179
+ter
+CP prévoit que celui qui, sans le consentement des autres interlocuteurs, aura enregistré sur
+un porteur de son une conversation non publique à laquelle il prenait part, celui qui aura conservé
+un enregistrement qu'il savait ou devait présumer avoir été réalisé au moyen
+d'une infraction visée à l'al. 1, ou en aura tiré profit, ou l'aura rendu accessible à
+un tiers, sera, sur plainte, puni d'une peine privative de liberté d'un an au plus ou d'une peine
+pécuniaire.
+Cette disposition poursuit le but qu'un individu puisse s'exprimer verbalement en toute liberté,
+sans craindre que ses propos ne soient enregistrés contre sa volonté et qu'ainsi des paroles
+prononcées sans arrière-pensée se trouvent abusivement perpétuées (ATF 146 IV
+126 consid. 3.5; ATF 111 IV 63 consid. 2).
+Pour déterminer si une conversation est «
+non
+publique
+» au sens des art. 179
+bis
+et 179
+ter
+CP,
+il faut examiner, au regard de l'ensemble des circonstances, dans quelle mesure elle pouvait et devait
+être entendue par des tiers. La conversation n'est pas publique lorsque ses participants s'entretiennent
+dans l'attente légitime que leurs propos ne soient pas accessibles à tout un chacun. La nature
+de la conversation peut constituer un indice à cet égard, mais n'est pas seule décisive.
+Cette solution permet ainsi de protéger l'individu contre la diffusion de ses propos en dehors du
+cercle des personnes avec lequel il a choisi de partager ses opinions ; peu importe en quelle qualité
+il s'est exprimé (ATF 146 IV 126 consid. 3.6).
+2.3.3
+L’art. 179
+quater
+CP réprime la violation du domaine secret ou du domaine privé au moyen d’un appareil
+de prise de vues. Selon cette disposition, se rend coupable d’une telle infraction celui qui, sans
+le consentement de la personne intéressée, aura observé avec un appareil de prise de vues
+ou fixé sur un porteur d’images
+un
+fait qui relève du domaine secret de cette personne ou un fait ne pouvant être perçu sans
+autre par chacun et qui relève du domaine privé de celle-ci (al. 1), celui qui aura tiré
+profit ou donné connaissance à un tiers d’un fait qu’il savait ou devait présumer
+être parvenu à sa propre connaissance au moyen d’une infraction visée à l’al.
+1 (al. 2) et celui qui aura conservé une prise de vues ou l’aura rendue accessible à
+un tiers, alors qu’il savait ou devait présumer qu’elle avait été obtenue
+au moyen d’une infraction visée à l’al. 1 (al. 3).
+2.4
+Les termes «
+un fait ne
+pouvant être perçu sans autre par chacun et qui relève du domaine privé
+» couvrent ce que, dans la vie d'un individu, seul un cercle restreint de personnes peut percevoir
+(ATF 137 I 327 consid. 6.1). Les faits qui se produisent en public et qui peuvent être vus par chacun
+n'appartiennent pas au domaine protégé. Par conséquent, et inversement, la sphère
+privée protégée inclut en principe tout ce qui survient dans des endroits ou espaces clos,
+protégés des regards de ceux qui se trouvent à l'extérieur ; il s'agit en particulier
+de ce qui se produit dans une maison, un appartement ou un jardin privé et fermé (ATF 137 I
+327 précité et les références citées).
+2.5
+L'art.
+17 CP, qui définit l'état de nécessité licite, prévoit que quiconque commet
+un acte punissable pour préserver d'un danger imminent et impossible à détourner autrement
+un bien juridique lui appartenant ou appartenant à un tiers agit de manière licite s'il sauvegarde
+ainsi des intérêts prépondérants. Cette disposition suppose que l'auteur ait commis
+un acte punissable pour préserver un bien juridique lui appartenant ou appartenant à un tiers
+d'un danger imminent et impossible à détourner autrement. L'impossibilité que le danger
+puisse être détourné autrement implique une subsidiarité absolue (TF 6B_176/2010
+du 31 mai 2010 consid. 2.1; TF 6S.529/2006 du 8 février 2007 consid. 4). En d'autres termes, celui
+qui dispose de moyens licites pour préserver le bien juridique menacé ne peut pas se prévaloir
+de l'état de nécessité (TF 6B_343/2016 du 30 juin 2016 consid. 4.2; TF 6B_1056/2013
+du 20 août 2014 consid. 5.1). Il convient de faire une pesée des intérêts en prenant
+en considération non seulement le rang des biens juridiques en conflit, mais aussi la gravité
+de l'atteinte, l'importance du danger, ainsi que toutes les circonstances du cas concret (TF 6B_500/2013
+du 9 septembre 2013 consid. 3.2 et la réf. citée). Si le sacrifice du bien menacé peut
+être exigé de l'auteur, celui-ci agit de manière coupable; une peine devra donc être
+prononcée, mais celle-ci sera atténuée (art. 48a CP). Dans le cas contraire, l'auteur
+n'aura pas agi de manière coupable; il devra donc être exempté de toute peine, ce qui
+signifie la libération de la poursuite pénale (ATF 122 IV 1 consid. 2b p. 4).
+2.6
+2.6.1
+En
+l’espèce, contrairement à ce qu’affirme le recourant, le fait que le Ministère
+public a considéré que les éléments constitutifs de l’infraction de l’art.
+179
+bis
+CP étaient réalisés ne l’empêchait pas de retenir par ailleurs, en statuant
+par ordonnance de non-entrée en matière, que L.________ pouvait se prévaloir d’un
+fait justificatif, par exemple l’un état de nécessité au sens de l’art. 17
+CP. En outre, il est manifeste qu’un important conflit de voisinage oppose les parties depuis le
+mois de septembre 2021, comme cela ressort de l’ordonnance de mesures provisionnelles du 24 juin
+2022, qui mentionne en outre que les agissements du recourant envers ses voisins semblent être constitutifs
+de harcèlement (p. 4, 9
+e
+par.). En outre, le 16 février 2023 et le 17 avril 2023, les époux [...], agissant cette fois
+au fond, ont à nouveau saisi le juge civil d’une requête tendant à ce que des mesures
+d’éloignement soient prononcées à l’égard d’T.________. Pendant
+devant le juge civil, le conflit de voisinage entre les parties n’a dès lors pas à être
+instruit par le Ministère public. Le recours est donc mal fondé en tant qu’il invoque
+qu’un fait justificatif aurait dû entraîner la reddition d’une ordonnance de classement.
+2.6.2
+Dans sa plainte du 6 juillet 2023, le recourant affirme que L.________ l’a interpellé d’un
+ton menaçant, et que ce dernier s’est rendu coupable d’enregistrement non autorisé
+de conversation et/ou de violation du domaine secret ou du domaine privé au moyen d’un appareil
+de prise de vues. Or, même s’il était retenu que le recourant, comme il l’affirme,
+se tenait, lorsque L.________ l’a filmé, juste à la limite de la zone figurant en rouge
+sur le plan annexé à l’ordonnance de mesures provisionnelles, il faudrait constater que
+le recourant est manifestement arrêté devant le jardin de ses voisins et qu’il cherche
+le contact avec eux. Le fait que L.________ s’approche alors de lui en le filmant et en lui disant
+«
+T.________ tirez-vous
+», puis «
+Monsieur
+T.________
+», ce à quoi le recourant
+répond des mots peu intelligibles qui seraient, selon lui, «
+pourquoi
+vous m’avez envoyé (…) pourquoi vous m’avez lancé
+», alors que son voisin l’interrompt en déclarant «
+qu’est-ce
+que vous faites M. T.________ ! Je suis dans mon jardin, et vous entrez en contact avec moi, M. T.________
+» ne contient manifestement aucune menace. Sommer une personne qui est sous le coup d’une
+interdiction de périmètre et de contact de quitter le périmètre en question ne constitue
+en effet à l’évidence pas une menace.
+En outre, force est de constater que le recourant, tout comme L.________, s’expriment à haute
+voix, de sorte que tout un chacun peut les entendre et qu’en outre ces événements se
+sont déroulés à l’extérieur, le recourant se trouvant sur le chemin et son
+voisin dans son jardin ; les mots échangés étaient audibles par tout un chacun. Ainsi
+il ne s’agit pas d’une conversation non publique au sens des art. 179
+bis
+et 179
+ter
+CP. De plus, l’infraction de l’art. 179
+quater
+CP n’entre de toute façon pas en ligne de compte, faute pour l’enregistrement en cause
+– tant pour ce qui est de son contenu visuel que de son contenu sonore – de porter sur un
+fait qui relève du domaine secret ou du domaine privé du plaignant. Les éléments
+constitutifs objectifs de ces infractions ne sont ainsi pas réalisés.
+2.6.3
+Par surabondance, une partie de la doctrine admet que l’état de nécessité dans le
+domaine de la preuve peut être invoqué à titre de fait justificatif (cf. Henzelin/Massrouri,
+in
+: Jeanneret/Kuhn/Perrier Depeursinge [éd.], Code de procédure pénale suisse, Commentaire
+romand, 2
+e
+éd., 2019, n. 31 ad art. 179
+bis
+p. 785 ; Ramel/Vogelsang,
+in
+: Niggli/Heer/Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung,
+Art. 1-195 StPO, 4
+e
+éd., 2019, n. 26 ad art. 179
+bis
+CP, p. 3632). Or, le recourant était sous le coup d’une mesure d’éloignement et
+d’une interdiction de contact prononcées par le juge civil (P. 5/1, déjà cité) ;
+en outre, L.________ et son épouse venaient de déposer une nouvelle requête dans le même
+sens, se plaignant que le recourant avait déjà violé les interdictions le 13 février
+2023, le 28 octobre 2022 et le 29 août 2022. Dans ces conditions, en l’absence de témoins
+de la scène, il doit être admis que L.________ pouvait filmer le recourant pour se constituer
+une preuve dans le cadre de cette requête.
+La non-entrée en matière est donc conforme à l’art. 310 al. 1 let. a CPP dans la
+mesure décrite ci-dessus.
+3.
+3.1
+S’agissant des faits décrits sous le chiffre 3 de l’ordonnance entreprise, le recourant
+fait valoir que le Ministère public ne pouvait pas renoncer à l’ouverture d’une
+enquête et à procéder à des auditions au motif que la direction de la procédure
+ne disposait pas de preuve formelle. Les infractions dénoncées à cet égard sont celles
+d’injure, de menaces et de violation de domicile.
+3.2
+Aux termes de l’art. 177 CP, se rend coupable
+d’injure celui qui aura, par la parole, l’écriture, l’image, le geste ou par des
+voies de fait, attaqué autrui dans son honneur (al. 1). Le juge pourra exempter le délinquant
+de toute peine si l’injurié a directement provoqué l’injure par une conduite répréhensible
+(al. 2). Si l’injurié a riposté immédiatement par une injure ou par des voies de
+fait, le juge pourra exempter de toute peine les deux délinquants ou l’un d’eux (al.
+3).
+Selon l’art. 180 al. 1 CP, celui qui, par une menace grave, aura alarmé ou effrayé une
+personne sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou
+d’une peine pécuniaire.
+A teneur de l’art. 186 CP, se rend coupable de violation de domicile et sera, sur plainte, puni
+d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire,
+celui qui, d’une manière illicite et contre la volonté de l’ayant droit, aura pénétré
+dans une maison, dans une habitation, dans un local fermé faisant partie d’une maison, dans
+un espace, cour ou jardin clos et attenant à une maison, ou dans un chantier, ou y sera demeuré
+au mépris de l’injonction de sortir à lui adressée par un ayant droit.
+3.3
+En l’espèce, le recourant fait valoir que L.________ s’est introduit sans droit sur
+sa propriété le 13 mai 2023, que celui-ci l’a menacé de le faire condamner et qu’il
+l’a traité d’escroc. Comme l’admet lui-même le recourant, il ne peut fournir
+aucune preuve à l’appui de ses déclarations, aucun témoin n’ayant assisté
+à ces faits. Compte tenu du conflit de voisinage qui divise les parties et qui, comme rappelé
+ci-dessus, est à l’évidence exacerbé, le Ministère public a considéré
+que rien ne pouvait permettre de départager les déclarations des parties. En d’autres
+termes, le Ministère public est, sans même l’avoir entendu à cet égard, parti
+de la prémisse que L.________ contesterait les faits dénoncés par le plaignant. Se pose
+ainsi la question de savoir si, dans le cadre d’un litige «
+entre
+quatre yeux
+», où aucun élément
+extérieur ne permettrait de départager les versions des faits, il est possible de ne pas recueillir
+les déclarations d’une partie, ce qui équivaut à considérer qu’elle va
+de toute manière contester la réalité des faits dénoncés. En d’autres
+termes, le Ministère public ne s’est pas assuré que L.________ n’allait pas reconnaître
+les faits. Or, si les faits étaient avérés, ceux-ci pourraient tomber sous le coup des
+infractions de violation de domicile et d’injure ; pour le reste, le raisonnement du Ministère
+public est correct s’agissant de l’infraction de menace. En effet, le fait que L.________
+aurait fait savoir, dans le cadre d’un tel litige, qu’il entendait faire condamner le recourant
+ne constitue manifestement pas une menace illicite grave au sens de l’art. 180 al. 1 CP.
+Compte tenu de la maxime de l’instruction prévue à l’art. 6 CPP, du caractère
+impératif de la poursuite découlant de l’art. 7 CPP et du fait que les conditions de
+l’art. 8 CPP, qui régissent la renonciation à la poursuite pénale, ne sont pas réunies,
+il n’apparaît pas possible de prononcer une non-entrée en matière s’agissant
+des faits qui se seraient déroulés le 13 mai 2023 sans recueillir la position de L.________
+à cet égard, par le biais d’un rapport de police notamment. En effet, la plainte ne paraît
+pas d’emblée fantaisiste ou mal fondée compte tenu du contexte conflictuel entre voisins.
+Ensuite, il appartiendra au Ministère public de rendre, le cas échéant, une ordonnance
+de non-entrée en matière ou, après ouverture d’instruction, une ordonnance de classement,
+si aucun élément ne devait permettre de départager les déclarations des parties.
+4.
+Au vu de ce qui précède, le recours doit être partiellement admis ; l’ordonnance
+du 3 août 2023 sera annulée en tant qu’elle concerne les faits qui se sont déroulés
+le 13 mai 2023 (cas n
+o
+3) et confirmée pour le surplus (cas n
+os
+1 et 2). Le dossier de la cause est renvoyé au Ministère public pour qu’il procède
+dans le sens des considérants.
+Le recourant a requis l’assistance judiciaire pour la procédure de recours. A première
+vue, on ne pouvait pas considérer que son recours était d’emblée dénué
+de chances de succès. En outre, le requérant est indigent au vu des pièces produites.
+Enfin, l’assistance d’un mandataire professionnel était utile au vu de la relative complexité
+procédurale du litige au stade du recours, dont l’examen a impliqué de dissocier deux
+types d’infractions. Partant, il convient de faire droit à la requête. Me Guy Longchamp,
+d’ores et déjà consulté, sera désigné comme conseil juridique gratuit
+pour la procédure de recours (art. 136 al. 1 CPP).
+L’avocat du recourant réclame une indemnité d’un montant de 2'398 fr., fondée
+sur une durée de 13 heures et 12 minutes d’avocat breveté, au tarif de 180 fr. de l’heure,
+et de 12 minutes d’avocat stagiaire, au tarif de 110 fr. de l’heure. Interpellé sur
+le point de savoir qui, de l’avocat ou de l’avocat stagiaire, aurait rédigé le
+recours, puisqu’il y était mentionné «
+Pour
+rédaction
+» avec la signature de
+l’avocat stagiaire, Me Sziboz a indiqué que «
+le
+recours a été le fruit d’un travail commun avec notre avocate stagiaire (relecture, corrections,
+compléments, etc.)
+». Ce mode de
+faire – qui ne permet pas de discerner ce qui a été effectué par l’avocate
+stagiaire alors que celle-ci est mentionnée comme rédactrice de l’écriture –
+n’est pas exempt de critiques. En outre, Me Sziboz a indiqué que, « [e]
+n
+réalité, seules les opérations effectuées par l’avocat breveté figurent
+dans la liste des opérations produites
+».
+Quoi qu’il en soit, la durée indiquée est excessive, au vu du type de dossier en cause.
+Pour les opérations utiles de l’avocat breveté, soit les entretiens avec le client, l’étude
+du dossier, la rédaction du recours, les téléphones et courriels au client nécessaires,
+il sera retenu une durée de six heures (1 h + 30 min + 4 h + 30 min), à laquelle il convient
+d’ajouter 30 minutes pour les opérations à venir. S’y ajoutent encore les 12 minutes
+de téléphone au client effectuées par la stagiaire. Ont été déduits de
+ces opérations ce qui constitue du travail de secrétariat (lettre au tribunal, bordereau, mémos
+au client, liste des opérations, par exemple).
+C’est ainsi un total de six heures et 30 minutes au tarif de 180 fr. de l’heure et de 12
+minutes au tarif de 110 fr. de l’heure (art. 2 al. 1 let. a et 3 al. 2 RAJ [règlement sur
+l’assistance judiciaire en matière civile du 7 décembre 2010 ; BLV 211.02.3] par renvoi
+de l’art. 26b TFIP [tarif des frais de procédure et indemnités en matière pénale
+du 28 septembre 2010 ; BLV 312.03.1]) qu’il convient d’indemniser, soit 1'192 fr. (1'170
+fr. + 22 fr.). S’y ajoutent 2 % pour les débours (art. 3
+bis
+al. 1 RAJ par renvoi de l’art. 26b TFIP), soit 23 fr. 85, et 7,7 % de TVA sur le tout, s’agissant
+de prestations exclusivement antérieures au 1
+er
+janvier 2024 (cf. CREP 18 janvier 2018/39), de sorte que l’indemnité de conseil juridique
+gratuit s’élève au total à 1'310 francs en chiffres arrondis.
+Vu l’issue de la procédure, le recourant doit être tenu à la moitié des frais
+de la procédure
+de recours, constitués de l’émolument d’arrêt, par 1’650 fr. (art. 20
+al. 1 TFIP [tarif des frais de procédure et indemnités en matière pénale du 28 septembre
+2010 ; BLV 312.03.1]) et de l’indemnité ci-dessus, dès lors qu’il succombe partiellement
+(cf. l’art. 428 al. 1 CPP). Cette part des frais de procédure ne peut toutefois être
+mise à sa charge, mais doit être provisoirement supportée par l’Etat (Harari/Corminbœuf
+Harari,
+in
+: Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle
+2019, n. 51 ad art. 136 CPP), dès lors que le recourant bénéficie de l’assistance
+judiciaire, qui comprend notamment l’exonération des frais de procédure (art. 136 al.
+2 let. b CPP). Il sera toutefois tenu de rembourser cette part des frais à l’Etat dès
+que sa situation financière le permettra (art. 135 al. 4 CPP, par renvoi de l’art. 138 al.
+1 CPP ; ATF 143 IV 154 consid. 2.3, JdT 2017 IV 347 ; Harari/Corminbœuf Harari,
+in
+:
+Kuhn/Jeanneret [éd.], op. cit., n. 11 ad art. 138 CPP; CREP 2 octobre 2023/1032 consid. 4). Le solde
+des frais sera définitivement laissé à la charge de l’Etat (art. 428 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est partiellement admis.
+II.
+L’ordonnance du 3 août 2023 est annulée en tant qu’elle concerne les faits qui
+se seraient déroulés le 13 mai 2023 (cas n° 3).
+L’ordonnance
+est confirmée pour le surplus (cas n° 1 et n° 2).
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l’arrondissement de La Côte pour qu’il procède dans le sens des considérants.
+IV.
+La requête d’assistance judiciaire déposée par T.________ est admise et Me Guy Longchamp
+est désigné en qualité de conseil juridique gratuit d’T.________ pour la procédure
+de recours.
+V.
+L’indemnité
+allouée à Me Guy Longchamp, conseil juridique gratuit d’T.________, est fixée à
+1'310 fr. (mille trois cent dix francs).
+VI.
+Les
+frais de la présente procédure, comprenant les frais d’arrêt, par 1’650 fr.
+(mille six cent cinquante francs), ainsi que les frais imputables à l’assistance du conseil
+juridique gratuit du recourant, par 1'310 fr. (mille trois cent dix francs), sont mis par moitié,
+soit à hauteur de
+1'480
+fr. (mille quatre cent huitante francs), à la charge d’T.________ et provisoirement supportés
+à la charge de l’Etat dans cette même mesure ; les frais sont définitivement
+laissés à la charge de l’Etat pour le surplus, soit à hauteur de 1'480 fr. (mille
+quatre cent huitante francs).
+VII.
+T.________,
+bénéficiaire de l’assistance judiciaire, sera tenu de rembourser à l’Etat
+la moitié des frais d’arrêt provisoirement laissés à la charge de l’Etat,
+par 825 fr. (huit cent vingt-cinq francs), ainsi que la moitié de l’indemnité allouée
+à son conseil juridique gratuit pour la procédure de recours, par 655 fr. (six cent cinquante-cinq
+francs), dès que sa situation financière le permettra .
+VIII.
+L’arrêt est exécutoire.
+La
+juge présidant :
+Le greffier :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Guy Longchamp, avocat (pour T.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
