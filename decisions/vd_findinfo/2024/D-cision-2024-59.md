@@ -1,0 +1,312 @@
+---
+decision_id: "vd_findinfo_D_cision___2024___59"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2024 / 59"
+decided: "2024-01-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9687657"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-005.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-397.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-433.md", "switzerland/bund/acts/312.0/art-436.md"]
+---
+
+# VD Findinfo Décision / 2024 / 59
+
+## Regeste
+
+ADMISSION DE LA DEMANDE, DROIT D'OBTENIR UNE DÉCISION, RETARD INJUSTIFIÉ | 29 al. 1 Cst., 393 al. 2 let. a CPP (CH), 397 al. 4 CPP (CH), 5 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale Décision / 2024 / 59
+
+ADMISSION DE LA DEMANDE, DROIT D'OBTENIR UNE DÉCISION, RETARD INJUSTIFIÉ | 29 al. 1 Cst., 393 al. 2 let. a CPP (CH), 397 al. 4 CPP (CH), 5 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+67
+PE20.008484-XCR
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+23 janvier 2024
+__________________
+Composition
+:               M.
+Krieger
+,
+président
+Mmes
+Courbat et Elkaim, juges
+Greffier
+:              M.
+Jaunin
+*****
+Art.
+29 al. 1 Cst. ; 5 al. 1, 393 al. 2 let. a, 397 al. 4 CPP
+Statuant sur le recours interjeté le 27 décembre 2023 par
+Z.________
+pour déni de justice dans la cause
+n° PE20.008484-XCR
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 9 décembre 2019, Z.________ a déposé plainte pénale contre N.________, A.W.________
+et B.W.________ pour dommages à la propriété, calomnie et contrainte. Les faits dénoncés
+s’inscrivaient dans le cadre d’une relation de bail commercial conflictuelle, Z.________
+ayant loué à la société T.________ Sàrl, dont les dirigeants étaient A.W.________
+et B.W.________, et à N.________, à titre personnel, des locaux commerciaux, dans lesquels
+un centre de remise en forme était exploité (dossier joint B, P. 4).
+Le 24 mars 2020, le Ministère public de l’arrondissement de La Côte (ci-après :
+Ministère public) a décidé, sous la référence PE19.024079-XCR, de l’ouverture
+d’une instruction pénale contre N.________, A.W.________ et B.W.________ pour tentative de
+contrainte (dossier joint B, PV des opérations,
+p.
+2).
+Par ordonnance du 14 avril 2020, le Ministère public a partiellement refusé d’entrer
+en matière sur la plainte de Z.________, en tant que celle-ci concernait les infractions de dommages
+à la propriété et de calomnie.
+b)
+Le 3 juillet 2020, à la suite d’une plainte pénale déposée le 29 mai 2020 par
+N.________ (P. 4), le Ministère public a décidé, sous la référence PE20.008484-XCR,
+de l’ouverture d’une enquête pénale contre Z.________ pour certaines des infractions
+dénoncées, soit pour appropriation illégitime, subsidiairement utilisation sans droit
+de valeurs patrimoniales, contrainte, tentative de contrainte et contravention à la loi cantonale
+sur les garanties en matière de baux à loyer (PV des opérations, p. 2).
+Par ordonnance du 10 juillet 2020, le Ministère public a ordonné la jonction de l’enquête
+PE19.024079-XCR à l’enquête PE20.008484-XCR.
+Le 4 juin 2021, Z.________ a étendu sa plainte pénale contre N.________, A.W.________ et B.W.________
+pour dommages à la propriété, escroquerie, tentative de contrainte et dénonciation
+calomnieuse (P. 19).
+Entre le 8 mars 2021 et le 1
+er
+novembre 2022, le Ministère public a procédé aux auditions de Z.________, A.W.________
+et N.________ en qualité de prévenus, ainsi qu’à celle de [...] en qualité
+de personne appelée à donner des renseignements (PV d’audition n
+os
+1 à 4).
+Par courrier du 10 février 2023, Z.________, par son défenseur,
+Me
+Raphaël Hämmerli, a fait valoir qu’en raison d’un conflit d’intérêts,
+Me Etienne Campiche ne pouvait représenter de manière simultanée T.________ Sàrl,
+A.W.________, B.W.________ et N.________. Elle a en outre requis la reddition d’une ordonnance
+de classement en sa faveur, respectivement d’une ordonnance de non-entrée en matière
+s’agissant des faits sur lesquels le Ministère public n’entendait pas entrer en matière
+(P. 35).
+Par téléphone du 16 février 2023, Me Etienne Campiche a demandé au procureur quelles
+suites seraient données aux différentes plaintes versées au dossier. Il lui a été
+répondu que celles-ci seraient examinées et que des décisions seraient rendues (PV des
+opérations, p. 6).
+Par courrier du 28 février 2023, Z.________ a, par son conseil, étendu sa plainte contre N.________
+aux infractions de tentative de contrainte, subsidiairement menaces, et extorsion et chantage, en raison
+de faits survenus les 23 et 24 février 2023 (P. 36).
+Par courrier du 29 septembre 2023, Z.________, par son nouveau défenseur, Me Pascal de Preux, a
+requis le classement de la procédure s’agissant de toutes les infractions qui lui étaient
+reprochées, l’extension de l’instruction à l’égard de N.________, B.W.________
+et A.W.________ pour dommages à la propriété en relation avec la plainte pénale complémentaire
+déposée le 4 juin 2021 et la reddition d’une décision constatant l’absence
+de capacité à postuler de Me Etienne Campiche. Enfin, elle également demandé qu’une
+ordonnance de non-entrée en matière soit rendue pour les autres faits dénoncés par
+N.________ en nom propre et pour le compte de la Sàrl, conformément à ce qu’avait
+requis Me Raphaël Hämmerli dans son courrier du 10 février 2023 (P. 41).
+B.
+Par courrier du 16 novembre 2023, Z.________,
+par son défenseur, a imparti au procureur un délai d’un mois pour poursuivre l’instruction
+de la cause et rendre les décisions qui s’imposaient, en l’informant qu’à
+défaut, un recours pour déni de justice serait déposé (P. 45).
+C.
+Par acte du 27 décembre 2023, Z.________
+a recouru auprès de la Chambre des recours pénale pour déni de justice, concluant, avec
+suite de frais et dépens, à ce qu’il soit ordonné au Ministère public de se
+saisir et de traiter formellement l’ensemble des réquisitions formulées dans le courrier
+du 29 septembre 2023 dans un délai de dix jours dès le prononcé à intervenir. Elle
+a en outre requis une indemnité pour ses frais d’avocat qui ne soit pas inférieure à
+2'261 fr. 70.
+Par courrier du 19 janvier 2024, le Ministère public a déclaré qu’il n’entendait
+pas déposer de déterminations.
+En droit
+:
+1.
+Aux termes de l’art. 393 al. 2 let. a CPP
+(Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0), le recours peut être formé
+pour violation du droit, y compris l’excès et l’abus du pouvoir d’appréciation,
+le déni de justice et le retard injustifié. Selon l’art. 396 al. 2 CPP, le recours pour
+déni de justice ou retard injustifié n’est soumis à aucun délai. Il doit être
+motivé et adressé par écrit (art. 396 al. 1 CPP) à l’autorité de recours
+qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP
+[loi vaudoise d’introduction du Code de procédure pénale suisse du 19 mai 2009 ; BLV
+312.01] ; art. 80 LOJV [loi vaudoise d'organisation judiciaire du 12 septembre 1979 ; BLV 173.01]).
+En l’espèce, interjeté selon les formes prescrites, auprès de l’autorité
+compétente, par une partie qui a la qualité pour recourir (art. 382 al. 1 CPP), le recours
+est recevable.
+2.
+Invoquant un déni de justice, la recourante
+reproche au Ministère public de ne pas avoir donné suite aux réquisitions contenues dans
+ses courriers des
+10 février, 29 septembre
+et 16 novembre 2023, en lien avec l’avancement de la procédure, le règlement de la question
+du conflit d’intérêts concernant Me Etienne Campiche, l’extension de l’instruction
+pénale et la délivrance d’une ordonnance de classement, respectivement d’une ordonnance
+de non-entrée en matière. Elle fait valoir qu’aucune mesure d’instruction n’a
+été mise en œuvre depuis les auditions effectuées le 1
+er
+novembre 2022 et ce, malgré les relances successives de
+Me
+Raphaël Hämmerli, de Me Pascal de Preux et de Me Etienne Campiche. De plus, aucune de ses deux
+plaintes complémentaires des 4 juin 2021 et 28 février 2023 n’aurait été traitée
+par le procureur, à l’exception d’une question posée à A.W.________ le 1
+er
+novembre 2022.
+2.1
+Selon l'art. 29 al. 1 Cst. (Constitution fédérale
+de la Confédération suisse du 18 avril 1999 ; RS 101), toute personne a droit, dans une procédure
+judiciaire ou administrative, à ce que sa cause soit traitée équitablement et jugée
+dans un délai raisonnable. A l'instar de l'art. 6 § 1 CEDH (Convention de sauvegarde des droits
+de l'homme et des libertés fondamentales du 4 novembre 1950 ; RS 0.101), qui n'offre pas à
+cet égard une protection plus étendue, cette disposition consacre le principe de la célérité,
+en ce sens qu'elle prohibe le retard injustifié à statuer ; l'autorité viole cette garantie
+constitutionnelle lorsqu'elle ne rend pas une décision qu'il lui incombe de prendre dans le délai
+prescrit par la loi ou dans le délai que la nature de l'affaire et les circonstances font apparaître
+comme raisonnable (ATF 144 I 318 consid. 7.1 et les arrêts cités ; ATF 143 IV 373 consid. 1.3.1
+; TF 6B_1400/2022 du 10 août 2023 consid. 8.1).
+Par analogie avec l’art. 5 al. 1 CPP, le caractère raisonnable du délai s'apprécie
+selon les circonstances particulières de la cause, eu égard notamment à la complexité
+de l'affaire, à l'enjeu du litige pour l'intéressé, à son comportement ainsi qu'à
+celui des autorités compétentes (ATF 144 II 486 consid. 3.2 et les arrêts cités ;
+TF 6B_1400/2022 précité). Des périodes d'activités intenses peuvent compenser le
+fait que le dossier a été laissé momentanément de côté en raison d'autres
+affaires. On ne saurait reprocher à l'autorité quelques temps morts, qui sont inévitables
+dans une procédure. Lorsqu'aucun d'eux n'est d'une durée vraiment choquante, c'est l'appréciation
+d'ensemble qui prévaut (ATF 130 IV 54 consid. 3.3.3 ; ATF 130 I 312 précité consid. 5.2
+; TF 6B_1400/2022 précité). Le principe de la célérité peut être violé
+même si les autorités pénales n’ont commis aucune faute. Celles-ci ne sauraient
+donc exciper des insuffisances de leur organisation (ATF 130 I 312 précité consid. 5.2 ; TF
+6B_417/2019 du 13 septembre 2019 consid. 4.1 et les références citées). La surcharge des
+autorités de poursuite pénale ne saurait justifier que l’instruction d’une procédure
+éprouve trop de retard ou qu’il ne soit pas statué sur une requête d’une partie
+(ATF 130 I 312 consid. 5.2). Une inactivité de treize ou quatorze mois au stade de l'instruction,
+un délai de quatre ans pour qu'il soit statué sur un recours contre l'acte d'accusation ou
+encore un délai de dix ou onze mois pour que le dossier soit transmis à l'autorité de
+recours apparaissent comme des carences choquantes (ATF 130 IV 54 consid. 3.3.3 ; TF 6B_1400/2022
+précité).
+En vertu du principe de la confiance, les parties ont l'obligation d'intervenir en cours d'instance pour
+se plaindre d'un retard à statuer, si elles veulent pouvoir ensuite soulever un tel grief devant
+l'autorité de recours ; il leur appartient ainsi d’entreprendre ce qui est en leur pouvoir
+pour que l'autorité fasse diligence, notamment en incitant celle-ci à accélérer la
+procédure (ATF 130 I 312 consid. 5.2 ; TF 6B_967/2022 du 21 février 2023 consid. 2.2.2). Il
+serait en effet contraire au principe de la bonne foi, qui doit présider aux relations entre organes
+de l’Etat et particuliers en vertu de l’art. 5 al. 3 Cst., qu’un justiciable se plaigne
+d’un déni de justice devant l’autorité de recours, alors qu’il n’a
+entrepris aucune démarche auprès de l’autorité concernée (TF 1B_4/2023 du 27
+février 2023 consid. 2.2 ; TF 1B_309/2021 du 3 septembre 2021 consid. 4).
+Aux termes de l’art. 397 al. 4 CPP, si l’autorité de recours constate un déni de
+justice ou un retard injustifié, elle peut donner des instructions à l’autorité
+concernée en lui impartissant des délais pour s’exécuter.
+2.2
+En l’espèce, la présente enquête
+a été ouverte le 3 juillet 2020, à la suite d’une plainte pénale déposée
+le 29 mai 2020 par N.________ contre la recourante. Le même jour, le Ministère public a joint
+à cette procédure une enquête PE19.024079-XCR ouverte le 24 mars 2020 ensuite d’une
+plainte déposée le
+9 décembre
+2019 par la recourante contre N.________, A.W.________ et B.W.________. La recourante a encore déposé
+deux plaintes complémentaires les
+4
+juin 2021 et 28 février 2023, lesquelles n’ont pas fait l’objet de l’ouverture
+d’une instruction pénale, ni les procès-verbaux d’audition ni le procès-verbal
+des opérations ne contenant de mention à ce sujet. Par ailleurs, il ressort du procès-verbal
+des opérations que, depuis le 1
+er
+novembre 2022, date à laquelle ont eu lieu les auditions de A.W.________ et de N.________, le procureur
+n’a procédé à aucune mesure d’instruction, sa dernière action ayant consisté
+à autoriser le défenseur de la recourante à consulter le dossier en août 2023. En
+outre, depuis février 2023, les avocats successifs de la recourante ont adressé plusieurs courriers
+au procureur, soit en particulier les 10 février, 28 février, 29 septembre et 16 novembre 2023,
+pour lui demander d’instruire les faits dénoncés dans les plaintes complémentaires,
+de rendre une décision sur la capacité de postuler de Me Etienne Campiche et de rendre des
+ordonnances de classement et de non-entrée en matière en faveur de leur cliente. De son côté,
+par téléphone du 16 février 2023, Me Etienne Campiche a également interpellé
+le procureur sur la suite qu’il entendait donner à l’instruction.
+Force est de constater qu’il s’est écoulé presque quinze mois depuis la dernière
+mesure d’instruction, soit les auditions effectuées le 1
+er
+novembre 2022, ce qui constitue une carence choquante au sens de la jurisprudence. De plus, le procureur
+n’a donné aucune réponse aux différents courriers qui lui ont été adressés
+par les parties depuis février 2023, ce qui n’est pas admissible. On ne discerne aucun élément
+qui pourrait expliquer l’inactivité du procureur, laquelle est ainsi constitutive d’un
+retard injustifié. Dans ces circonstances, il convient d’impartir au Ministère public
+un délai de 15 jours dès réception du présent arrêt pour statuer sur la capacité
+de postuler de Me Etienne Campiche et mettre en œuvre les mesures d’instruction encore nécessaires.
+3.
+En définitive, le recours doit être
+admis et le dossier de la cause renvoyé au Ministère public pour qu’il procède dans
+le sens des considérants qui précèdent.
+Obtenant gain de cause, la recourante, qui a procédé avec l’assistance d’un avocat
+de choix, a droit à une indemnité pour les dépenses occasionnées par la procédure
+de recours (art. 433 al. 1 let. a CPP, applicable par renvoi de l’art. 436
+al.
+1 CPP). Me Pascal de Preux a produit une liste d’opérations faisant état d’un temps
+total consacré à la rédaction du recours de 6 heures, ce qui est excessif compte tenu
+de l’absence de complexité particulière de la cause. Il sera donc réduit à
+4 heures. La nature de l’affaire ne justifie pas non plus un tarif horaire aussi élevé
+que celui de 350 fr. requis par la recourante, de sorte qu’il n’y a pas lieu de s’écarter
+du tarif horaire médian de 300 fr. (art. 26a al. 3 TFIP [tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; BLV 312.03.1]). L’indemnité due en faveur
+de la recourante sera dès lors fixée à 1'200 fr. correspondant à une activité
+nécessaire d’avocat de 4 heures, au tarif horaire de 300 fr., montant auquel il convient d’ajouter
+des débours forfaitaires à concurrence de 2 % (art. 3bis al. 1 RAJ [règlement sur l'assistance
+judiciaire en matière civile du 7 décembre 2010 ; BLV 211.02.3] par renvoi de l'art. 26b TFIP),
+par 24 fr., plus la TVA, au taux de 7,7 %, s’agissant uniquement d’opérations antérieures
+au 1
+er
+janvier
+2024, par 94 fr. 25, soit à 1’319 fr. au total en chiffres arrondis, à la charge de l’Etat.
+Les frais de la procédure de recours, constitués en l'espèce de l'émolument d'arrêt,
+par 880 fr. (art. 20 al. 1 TFIP), seront laissés à la charge de l’Etat (art. 423 al.
+1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+Il est constaté un retard injustifié dans l’instruction de la cause PE20.008484-XCR.
+III.
+Un délai de 15 (quinze) jours est imparti
+au Ministère public de l’arrondissement de La Côte pour procéder dans le sens des
+considérants.
+IV.
+Une indemnité de 1’319 fr. (mille trois cent dix-neuf francs) est allouée à Z.________
+pour la procédure de recours, à la charge de l’Etat.
+V.
+Les frais d’arrêt, par 880 fr. (huit cent huitante francs), sont laissés à la charge
+de l’Etat.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Pascal de Preux, avocat (pour Z.________),
+-
+Me Etienne Campiche, avocat (pour N.________, A.W.________ et B.W.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
