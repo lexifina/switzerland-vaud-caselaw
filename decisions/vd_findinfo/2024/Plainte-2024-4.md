@@ -1,0 +1,454 @@
+---
+decision_id: "vd_findinfo_Plainte___2024___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2024 / 4"
+decided: "2024-02-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9719344"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-093.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-001.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-036.md", "switzerland/bund/acts/281.1/art-123.md", "switzerland/bund/acts/281.1/art-125.md", "switzerland/bund/acts/281.1/art-126.md", "switzerland/bund/acts/281.1/art-134.md", "switzerland/bund/acts/281.35/art-062.md", "switzerland/bund/acts/281.42/art-045.md"]
+---
+
+# VD Findinfo Plainte / 2024 / 4
+
+## Regeste
+
+PLAINTE{LP}, EFFET SUSPENSIF, VENTE AUX ENCHÈRES FORCÉES | 17 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2024 / 4
+
+PLAINTE{LP}, EFFET SUSPENSIF, VENTE AUX ENCHÈRES FORCÉES | 17 LP
+
+TRIBUNAL
+CANTONAL
+FA24.004964-240177
+7
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+21 février 2024
+__________________
+Composition
+:               M.
+Hack
+,
+président
+Mme
+Byrde et M. Maillard, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+17 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+H.________
+,
+à Crans-Montana, contre la déci-sion rendue le 8 février 2024 par la Présidente du
+Tribunal d’arrondissement de l’Est vaudois, autorité inférieure de surveillance,
+refusant d’octroyer l’effet suspensif à la plainte déposée le 6 février
+2024 par le recourant contre une décision de l’
+Office
+des poursuites du district de Lavaux-Oron
+du 31
+janvier 2024 rendue dans le cadre de la vente aux enchères des immeubles RF n° [...] et RF
+n° [...] de la Commune de Bourg-en-Lavaux.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 5 décembre 2023, à la suite de plusieurs réquisitions de vente déposées par
+des créanciers dans le cadre de poursuites en réalisation de gage immobilier dirigées
+contre H.________, l’Office des poursuites du district de Lavaux-Oron (ci-après :
+l’office) a notifié au débiteur, par son agent d’affaires breveté Julien Greub, l’état
+des charges de deux parcelles ...]...]...]de la Commune de Bourg-en-Lavaux –  RF n°
+[...], propriété de [...] dont H.________ est l’admi-nistrateur unique, et RF n°
+[...], propriété de H.________ – en vue de leur vente aux enchères prévue le
+27 février 2024 à 10h00. Les conditions de vente ont été également déposées
+le 5 décembre 2023.
+Une
+visite des parcelles
+s’est déroulée le 26 janvier 2024.
+b)
+Le 29 janvier 2024, le débiteur, par son conseil, a écrit à l’office pour se plaindre
+du fait que la visite aurait été perturbée par les « démarches intempes-tives »
+de Me [...] et de Me [...]; a invoqué que Me [...] serait le fils de la propriétaire des parcelles
+voisines, qu’il semblerait qu’il « souhaite tout mettre en œuvre pour décourager
+les éventuels amateurs » et qu’il « se pourrait que cette démarche
+ait été motivée par une volonté d’acquisition des biens » par lui-même
+ou sa mère « à un prix largement inférieur aux estimations » ;
+il a indiqué considérer que cette démarche, venant d’avocats inscrits au barreau
+vaudois, dont un est ancien bâtonnier, était « choquante et déloyale »
+ce qui l’amenait à examiner la possibilité d’une dénonciation à la Chambre
+des avocats ; il a également indiqué que le contenu des courriers que les deux avocats
+avaient remis au représentant de l’office présent lors de la visite du 26 janvier 2024
+était contesté et qu’il devait pouvoir se déterminer à leur sujet ; que
+si la réalité des choses ne pouvait pas être rétablie « auprès des
+amateurs », « la vente se fera à un prix tronqué » car leur confiance
+serait ébranlée ; il a ajouté que si les allégations des deux avocats étaient
+avérées – ce qu’il conteste –, les conditions de la vente seraient erronées.
+En conséquence, il a requis la suspension sans délai des procédés de vente aux enchères,
+de manière à éviter un dommage considérable.
+Par lettre du 31 janvier 2024, l’office, se référant à la correspondance du débiteur
+du 29 janvier 2024 « requérant sans délai la suspension des procédés de
+vente », a rappelé à celui-ci que les biens réalisés aux enchères
+forcées étaient vendus sans aucune garantie de la part de l’office (cf. point 18 des
+conditions de vente), d’une part, et que la LP (loi fédérale du 11 avril 1889 sur la
+poursuite pour dettes et la faillite ; RS 281.1) ne prévoyait aucun sursis à la réalisation
+autre qu’à l’art. 123 LP, d’autre part. Il a donc refusé de faire droit à
+la requête du débiteur tendant à la suspension des enchères, confirmant que celles-ci
+étaient maintenues pour le 27 févier 2024. Il a toutefois, pour garantir son droit d’être
+entendu, transmis au débiteur trois correspondances de Me [...], et l’a invité à
+se déterminer « au plus urgent, par écrit » sur celles-ci, en indiquant
+que ses déterminations seraient portées à la connaissance des intéressés avant
+la séance d’enchères.
+Les correspondances en cause peuvent être résumées comme suit :
+–
+Par lettre du 22 janvier 2024, Me [...], au nom de [...],
+propriétaire de la parcelle RF n° [...] de la Commune de Bourg-en-Lavaux, qui
+jouxte la parcelle RF n° [...], a informé l’office que cette dernière parcelle ne
+bénéficiait
+d’aucune servitude de vue et que le rapport d’expert publié sur le site
+internet de l’Etat de Vaud omettait de mentionner que les trois fenêtres du bâti-
+ment situé sur la parcelle RF n° [...] ne bénéficient au registre foncier d’aucune
+servitude autorisant leur
+maintien, ce qui constituait une moins-value importante.
+–
+Par lettre du 22 janvier 2024, Me [...], toujours au nom de [...], a informé l’office que :
+1) dans le cadre d’une demande de renouvellement
+de la concession d’usage du port qui se trouvait au sud de la parcelle RF n° [...],
+le propriétaire de celle-ci devait démolir une dalle en béton sur le lac et une partie
+d’un bâtiment
+(cabine de bain) sis sur le domaine public cantonal « [...] » ;
+que cette exigence était posée par la
+Direction
+générale de l’environnement
+;
+que               si le propriétaire
+ne se pliait pas à ces exigences, la concession du port ne serait
+pas renouvelée ; que 2) [...] était intervenue depuis plus d’une année
+au sujet de l’insalubrité du logement (appartement indépendant) que le débiteur
+avait créé au
+rez inférieur du bâtiment sans autorisation correspondante ; qu’une
+régularisation ne serait probablement pas possible du fait de l’insalubrité totale de
+ces locaux, ce qui les
+rendraient inhabitables et qu’un ordre d’interdiction d’habiter
+ce logement serait prononcé ; que 3) le propriétaire n’était pas en droit de
+rendre               habitables les
+bâtiments [...] et [...] sis sur ladite parcelle ; que ces dépen-
+dances avaient fait l’objet d’une procédure devant le Tribunal cantonal ; que les
+rapports d’expertise
+publiés sur le site internet de l’Etat de Vaud ne mentionnaient
+pas ces éléments qui constituaient des moins-values substantielles.
+–
+Par lettre du 23 janvier 2024, Me [...], toujours au nom de [...], a informé l’office que,
+en relation avec la parcelle RF n° [...], le débiteur
+avait mis à l’enquête publique la démolition d’une dalle sur le lac et d’une
+partie du               bâtiment
+(cabine de bain) sur le domaine public cantonal « [...]» et que le
+dossier était mis à l’enquête du 23 janvier au 22 février 2024.
+c)
+Le 5 février 2024, le débiteur a déposé une plainte au sens de l’art. 17 LP
+contre la décision de l’office du 31 janvier 2024, auprès de la Présidente du Tribunal
+d’arrondissement de l’Est vaudois, concluant principalement à ce que la vente des immeubles
+RF n° [...] et RF n° [...] de la Commune de Bourg-en-Lavaux soit « suspendue jusqu’à
+droit connu sur les griefs invoquées lors de la visite du
+26
+janvier 2024 » et, subsidiairement, qu’une nouvelle visite soit réappointée
+« avec fixation d’un délai au plaignant pour se déterminer sur les griefs formulés
+par les différents courriers adressés par Me [...] et Me [...]». Il a en outre requis
+l’effet suspensif, en invoquant que « la procédure de vente ne saurait aller de l’avant
+dès lors que, de l’aveu même de l’Office des poursuites, les événe-ments
+qui se sont déroulés sont susceptibles de causer un préjudice irréparable et irréversible
+au plaignant s’agissant d’allégation totalement erronées qui ont décou-ragé
+de nombreux amateurs ».
+Le 7 février 2024, l’office a communiqué à l’autorité saisie la liste
+des intéressés à la procédure de plainte et s’est déterminé sur la
+requête d’effet suspen-sif en concluant à son rejet.
+Le 8 février 2024, le plaignant et les intéressés ont été convoqués à
+une audience de plainte fixée au 5 mars 2024.
+2.
+Par décision rendue le 8 février 2024, la Présidente du Tribunal d’arron-dissement
+de l’Est vaudois a rejeté la requête d’effet suspensif contenue dans la plainte.
+3.
+Par acte déposée le 9 février 2024, le plaignant a recouru contre cette décision,
+concluant à sa réforme en ce sens que l’effet suspensif est octroyé.
+Par décision du 12 février 2024, la Vice-présidente de la Cour de céans a rejeté
+la requête d’effet suspensif contenue dans le recours.
+En droit :
+I.
+a)
+La décision de l'autorité inférieure de surveillance refusant l'effet sus-pensif dans
+le cadre d'une plainte au sens de l'art. 17 LP constitue une ordonnance d'instruction («
+prozessleitende
+Verfügung
+» ; ATF 100 III 11 [12]
+; Kren Kostkiewicz, OFK SchKG, 20
+ème
+éd. 2020, n. 8 ad art. 36 LP). Elle peut être attaquée par le biais d'un recours (art.
+18 al. 1 LP) à l'autorité supérieure de surveillance (cf. TF 5A_265/ 2018 du 9 juillet
+2018 consid. 3.3.3 ; TF 5A_518/2015 consid. 2.2 et les références) si elle est susceptible
+de causer à l'intéressé un préjudice irréparable au sens de l'art. 93 al. 1
+let. a LTF (Maier/Vagnato,  in SK SchKG, 4
+ème
+éd. 2017, n. 4 ad art. 18 LP ; Jent-Sorensen, in Kurzkommentar SchKG, 2
+ème
+éd. 2014, n. 8 ad art. 36 LP ; Lorandi, Besonderheiten der Beschwerde in Zivilsachen gegen Entscheide
+der kantonalen Aufsichtsbehörden in SchKG-Sachen, in PJA 2007 p. 433 ss [449] ; cf. ég. CPF
+30 décembre 2022/39 ; CPF 1
+er
+décembre 2017/36, consid. I.a), publié in JdT 2018 III 53).  Cette disposition de la LTF
+ne s'applique que par analogie, dans la mesure où l'art. 18 al. 1 LP ne prévoit rien sur cette
+condition de recevabilité. Le CPC ne régissant pas la procédure devant les autorités
+cantonales de surveillance, mais seulement la procédure judiciaire en matière de LP (art. 1
+let. c CPC
+a contrario
+; ATF 141 III 170 consid. 3 ; TF 5A_275/2013 du 12 juin 2013 consid. 6.2.1), il est en revanche exclu
+d'appliquer l'art. 319 let. b ch. 2 de cette loi ; en effet, un tel renvoi n'est possible que pour
+les questions que la LP ne règle pas ; tel n'est pas le cas du recours à l'autorité
+supérieure de surveillance qui, expressément prévu par l'art. 18 LP, doit dès lors
+être régi de façon uniforme parmi les cantons qui connaissent une double instance (TF
+5A_265/2018 du 9 juillet 2018 précité).
+b)
+Un préjudice ne peut être qualifié d'irréparable que s'il cause un inconvénient
+de nature juridique, à savoir qu’un jugement sur le fond même favorable au recourant
+ne ferait pas disparaître entièrement (ATF 139 V 42 consid. 3.1 ; ATF 138 III 46 consid. 1.2
+; ATF 137 III 324 consid. 1.1). Un dommage économique ou de pur fait n'est pas considéré
+comme un préjudice irréparable (ATF 141 III 80 consid. 1.2 ; ATF 138 III 333 consid. 1.3.1;
+ATF 134 III 188 consid. 2.2).
+Savoir si un tel préjudice existe s'apprécie par rapport aux effets de la décision incidente
+sur la procédure principale (ATF 141 III 80 précité consid. 1.2 ; ATF 137 III 380 consid.
+1.2.2). La probabilité d'un préjudice (juridique) irréparable suffit (ATF 137 III 380
+consid. 1.2.1). Encore faut-il toutefois qu'elle soit corroborée par des indices concrets et ne
+repose pas sur une simple pétition de principe ou se réduise à des considérations
+théoriques (TF 5A_934/2021 du 26 avril 2022 consid. 1.2.2 ; TF 5A_265/2018 du 9 juillet 2018
+consid. 3.3.4 et les références ; cf. aussi ATF 135 I 261 consid. 1.2 qui exige la menace d'un
+dommage concret). Il appartient à la partie qui recourt d'indiquer de manière détaillée
+en quoi elle se trouve menacée d'un préjudice juridique irréparable par la décision
+incidente qu'elle attaque ; à défaut, le recours est irrecevable (ATF 142 III 798 consid. 2.2
+; ATF 141 III 80 précité consid. 1.2 et les références ; ATF 138 III 46 consid. 1.2
+et les références ; ATF 137 III 324 consid. 1.1 ; TF 5A_934/2021 du 26 avril 2022 consid.
+1.2.2).
+c)
+En l’espèce, pour motiver la recevabilité de son recours, le recourant allègue que
+la vente aux enchères forcée est prévue pour le 27 février 2024 et l’audience
+de plainte pour le 5 mars 2024. Il en déduit l’existence d’un préjudice irréparable
+« dans la mesure où le maintien de cette vente dans la situation actuelle rendra la plainte
+sans objet et portera effectivement une atteinte irréversible aux intérêts du recourant
+(perte financière conséquentes selon développements ci-dessous »).
+Ce faisant, le recourant se borne à alléguer l’existence d’un préjudice irréparable,
+mais ne procède pas à une démonstration à cet égard. Certes, il invoque une
+perte financière possible, mais celle-ci ne ressort que de ses affirmations et des correspondances
+de [...], qui invoque que les informations qu’elles a données à l’office impliqueraient
+des moins-values. Toutefois, à ce stade, le recou-rant ne rend pas vraisemblable que les conditions
+de vente et l’état des charges seraient erronés, que l’estimation de la valeur
+de l’actif à réaliser indiquée lors de la publication des enchères serait fausse
+ou que les expertises effectuées ne tiendraient pas compte d’éléments importants
+figurant dans ces correspondances, et rien au dossier ne figure à cet égard. Il ressort au
+contraire d’un arrêt rendu le
+20
+octobre 2023 par la Cour de céans (CPF 20 octobre 2023/30 ; arrêt rejetant le recours
+déposé par H.________ contre un prononcé du 21 juillet 2023 de la Présidente du Tribunal
+d’arrondissement de l’Est vaudois, statuant sur une plainte du prénommé et fixant
+la valeur vénale de la parcelle RF n° [...] à 5'200'000 francs) que le second expert désigné
+pour déterminer la valeur vénale de la parcelle RF n° [...] de la Commune de Bourg-en-Lavaux
+a pris en compte le fait que la situation admi-nistrative du port était incertaine, ainsi que celle
+des annexes. Cet arrêt retient en effet notamment ce qui suit :
+«
+Le 7 juillet 2023, l’expert [...] a déposé son rapport. La valeur du bien expertisé
+y               est estimée à
+5'200'000 fr., compte tenu notamment du fait que le port privé « tel qu’il est
+à ce jour » constituait un élément de plus-value. Le rapport mentionne une visite
+en               présence du demandeur
+le 2 juin 2023, une estimation de la valeur actuelle des annexes
+à 530'000 fr., dont 300'000 fr. pour le port ; une valeur de 500'000 fr. est indiquée pour
+le               « Port dragué
+et aménagé ». Au sujet des annexes, le rapport comporte les explications
+suivantes :
+«
+Bien que les annexes présentent
+une certaine vétusté, je les considère à 100 % car il
+serait impossible à ce jour de les réaliser sans avoir de longues et coûteuses procédures
+administratives avant
+de lever les oppositions. Le fait d’exister leur confère une grande
+valeur intacte.
+Il reste cependant le point du port qui est en suspens actuellement auprès des adminis-
+trations compétentes. Le renouvellement du bail joue un rôle crucial. La variation du prix
+pourrait être de
+300'000 fr., qui n’est pas pris en compte actuellement. »
+».
+Au demeurant, si la vente aux enchères devait être affectée d’une quel-conque irrégularité,
+affectant soit la procédure préparatoire – ce qui n’est pas rendu vraisemblable
+à ce stade –, soit les opérations d’adjudication, rien n’empêchera le
+recourant de déposer une plainte LP contre l’adjudication (cf. art. 132a, 143a et 156 al.
+1 LP ; TF 5A_464/2023 du 31 août 2023 consid. 3.1.1 ; TF 5A_674/2021 du
+4
+octobre 2012 consid. 3.1.2 ; TF 5A_359/2016 du 7 septembre 2016 consid. 5.2), plainte qui en cas
+d’admission ferait disparaître tout dommage prétendu.
+Il s’ensuit que le recours est irrecevable, faute de préjudice juridique irréparable
+rendu vraisemblable.
+II.
+De toute manière, même recevable, le recours devrait être rejeté, pour les motifs
+qui suivent.
+a)
+Le recourant invoque que, lors de la visite des parcelles du 26 janvier 2024, les avocats [...] et [...]
+auraient remis trois correspon-dances au représentant de l’office présent. Me [...],
+qui serait le fils de la voisine, et son confrère auraient « ourdi » « des
+démarches intempestives » « pour découra-ger les éventuels amateurs ».
+Un amateur – [...] – aurait été découragé, et il pourrait en témoigner.
+Il affirme qu’il y a péril en la demeure, qu’il doit pouvoir se déterminer sur
+ces courriers, que leur contenu est contesté, que même si leur con-tenu était exact, les
+conditions de vente seraient erronées et l’office s’exposerait à une action d’un
+éventuel acquéreur trompé. Compte tenu des « démarches ourdies »
+« de l’aveu même de l’Office des poursuites, le maintien de cette vente aux
+enchères sera particulièrement défavorable aux intéressés ». Il fait
+valoir que, selon la doc-trine (Bettschart,
+CR-LP
+,
+n.
+10 ad art. 125 LP), l’office ne peut pas ajourner une vente aux enchères « à
+moins que des faits nouveaux qui sont de nature à compro-mettre le succès de la réalisation
+ne se soient produits ». Tel serait le cas selon lui. Le recourant soutient dès lors que
+la « procédure de ventes aux enchères doit être interrompue, de manière
+à ce que l’office puisse faire la lumière sur les allégations (erronées) communiquées
+sans droit de réponse lors de la visite, afin de pouvoir renseigner correctement les amateurs ».
+ba)
+L'octroi ou le refus de l'effet suspensif selon l'art. 36 LP relève du pouvoir d'appréciation
+de l'autorité de surveillance (ATF 100 III 11 [12] et les réfé-rences ; TF 5A_940/2019
+du 29 juin 2020 consid. 2.1 et les références ; TF 5A_265/ 2018 du 9 juillet 2018 consid.
+3.3.1 ; TF 5A_134/2017 du 5 mai 2017 consid. 3.3, publié in SJ 2017 I p. 409 ; Baeriswyl/Milani/Schmid,
+in SK SchKG, 4
+ème
+éd. 2017,
+n. 10 ad art. 36 LP et les
+arrêts cités). La décision dépend d'une pesée des intérêts entre la
+continuation de la procédure d'exécution et le maintien des choses telles qu'elles existaient
+avant que la décision attaquée ne soit rendue (TF 5A_265/2018 précité ; TF 5A_134/2017
+précité ; TF 5A_1026/2015 du 8 mars 2016 consid. 4.2 ; TF 5A_968/2015 du 7 mars 2016 consid.
+3.1 et les références). En règle générale, l'effet suspensif sera ordonné
+lorsque la plainte ou le recours ne semble pas dénué de chances de succès et pour autant
+que la mise en oeuvre immédiate de la mesure querellée, parallèlement à la procédure
+de plainte ou de recours, risque d'avoir pour conséquence de rendre inopérant le jugement à
+rendre par l'autorité de surveillance qui annulerait ou modifierait ladite mesure (TF 5A_265/2018
+précité ; TF 5A_134/ 2017 précité ; TF 5A_1026/2015 précité et les
+références).
+bb)
+Selon l'art. 125 al. 1 LP, la réalisation est faite aux enchères pub-liques. Elle est précédée
+d'une publication qui en indique le lieu, le jour et l'heure. L'al. 2 de l'art. 125 LP prévoit pour
+sa part que la publicité à donner à l'avis prévu par l'al. 1, de même que le
+mode, le lieu et le jour des enchères, sont déterminés par le préposé de la
+manière qu'il estime la plus favorable pour les intéressés, une insertion dans la feuille
+officielle n'étant pas de rigueur. L'office peut en particulier fixer une mise à prix minimale,
+ce afin de mettre les intéressés à l'abri d'une vente intervenant par surprise à
+vil prix, telle qu'elle pourrait résulter de l'application du principe de couverture prévu
+par l'art. 126 LP (TF 5A_500/2017 du 27 septembre 2017 consid. 5.1 ; TF 5A_244/2016 du 4 octobre 2016
+consid.4.2).
+Sous réserve du contenu des conditions de vente fixé par le droit fédé-ral (art.
+135 à 137 LP ; art. 45 ss ORFI
+[ordonnance du 23 avril 1920 sur la réalisa-tion forcée des immeubles ; RS 281.42]
+),
+l'office des poursuites arrête les conditions des enchères d'après l'usage des lieux et
+de la manière la plus avantageuse (art. 134 al. 1 LP), de façon en particulier à obtenir
+la somme la plus élevée possible. En la matière, il jouit d'une marge d'appréciation
+(TF 5A_244/2016 du 4 octobre 2016 consid. 4.2), en vue de rechercher la solution économiquement
+la plus avantageuse pour permettre d'encaisser le montant le plus élevé possible, dans l'intérêt
+des créan-ciers et du débiteur (ATF 128 I 206 consid. 5.2.2 ; TF 5A_529/2019 du 6 septembre
+2019 consid. 4.1.2). Les conditions de vente forment, avec l'état des charges, la base de toute
+vente aux enchères d’immeubles ; elles en déterminent les formalités, notamment
+les modalités de l'adjudication (ATF 128 III 339 consid. 4a ; TF 5A_464/ 2023 du 31 août
+2023 consid. 3.1.2 ; TF 5A_529/2019 précité consid. 4.1.2).
+c)
+En l’espèce, les « informations » données par [...] les
+22
+et 23 janvier 2024 font état d’éléments qui – s’ils sont vrais –
+sont tout à fait connus du recourant. Il en va ainsi de la « convention de servitude et
+de jour » qu’il a lui-même conclue avec [...] le 23 mai 2015, par laquelle ils ont
+mis fin au procès qui les divisait devant le Tribunal d’arrondissement de l’Est vaudois.
+D’après cette convention, [...] a accordé au recourant une servitude de jour et une servitude
+de vue grevant la parcelle RF n° [...], en faveur de la parcelle RF
+n°
+[...]. Il en va ainsi des procédures administratives en lien avec le port et la prétendue insalubrité
+d’un local ou la mise aux normes de celui-ci. Dans ces conditions, s’il avait dû estimer
+que les conditions de vente n’avaient pas été arrêtées correctement –
+en raison de ces éléments qu’il connaissait – il lui incombait de les contester
+par la voie de la plainte, en particulier s’il considérait qu’en raison de ces éléments,
+le résultat le plus avantageux ne pourrait pas être escompté. Or, le recourant n’a
+pas contesté ces conditions. Il ne saurait donc de bonne foi, alors que les « informations »
+en cause lui étaient connues et qu’il n’a pas réagi durant les étapes de la
+procédure préparatoire, soutenir à ce stade que lesdites « informa-tions »
+seraient déterminantes pour obtenir une adjudication la plus avantageuse. Au demeurant, certaines
+de ces « informations » sont censées être connues des éven-tuels intéressés
+à l’acquisition des parcelles en cause. Il en va ainsi manifestement des enquêtes publiques
+dont celles-ci font l’objet.
+En définitive, le recourant ne rend pas vraisemblable qu’il existe des faits nouveaux dont
+il ignorait l’existence, et qui justifieraient que l’office procède à un renvoi
+des enchères forcées des parcelles RF n° [...] et RF n° [...] et de la Commune de
+Bourg-en-Lavaux. A cet égard, le recourant ne prétend pas que la manière de procéder
+de l’office, qui se propose d’aviser lors des enchères les personnes présentes
+des correspondances envoyées par [...], excéderait le pouvoir d’appréciation dont
+celui-ci jouit dans le cadre de la préparation des opérations d’adjudication. Enfin,
+le recourant a été invité par l’office à se déterminer sur lesdites correspondances,
+et à ce jour, la Cour de céans n’a pas été informée qu’il l’aurait
+fait.
+III.
+En conclusion, le recours doit être déclaré irrecevable.
+L'arrêt est rendu sans frais (art. 20a ch. 5 LP), ni dépens (art. 62 al. 2 OELP [ordonnance
+sur les émoluments perçus en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+-
+M. Julien Greub, agent d’affaires breveté (pour H.________),
+-
+M. le Préposé à l'Office des poursuites du district de Lavaux-Oron,
+-
+Commune de Bourg-en-Lavaux,
+-
+ECA,
+-
+Administration cantonale des impôts,
+-
+Office d’impôt des personnes morales,
+-
+Me Alain Dubuis, avocat (pour [...]),
+-
+UBS Switzerland AG,
+-
+M. le Préposé à l'Office des poursuites du district de Sierre,
+-
+Me Ismael Fetahi (pour [...]),
+-
+Office d’impôt des districts des districts de la Riviera - Pays-d'Enhaut, Lavaux - Oron et
+Aigle.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d’arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
