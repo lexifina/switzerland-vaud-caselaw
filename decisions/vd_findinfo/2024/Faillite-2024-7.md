@@ -1,0 +1,214 @@
+---
+decision_id: "vd_findinfo_Faillite___2024___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2024 / 7"
+decided: "2024-03-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9755538"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2024 / 7
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, PAIEMENT | 174 al. 1 LP, 174 al. 2 LP, 174 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2024 / 7
+
+OUVERTURE DE LA FAILLITE, PAIEMENT | 174 al. 1 LP, 174 al. 2 LP, 174 LP
+
+TRIBUNAL
+CANTONAL
+FF23.050179-240134
+48
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+18 mars 2024
+__________________
+Composition
+:               M.
+Hack
+,
+président
+M.
+Maillard et Mme Cherpillod, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+174 al. 1 et 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+N.________
+SA
+, à [...], contre le jugement rendu le
+22 janvier 2024, à la suite de l’audience du 11 janvier 2024, par la Présidente du Tribunal
+d’arrondissement de Lausanne, prononçant la faillite de la recourante à la requête
+de
+X.________
+AG
+, à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Par acte du 17 novembre 2023, X.________ AG a requis du Président du Tribunal d’arrondissement
+de Lausanne qu’il prononce la faillite de N.________ SA pour la somme de 296'000 fr. sans intérêt
+et frais dans la poursuite n° 10'555'762 de l’Office des poursuites du district de Lausanne.
+A l’appui de sa requête, elle a produit notamment les pièces suivantes :
+-
+une copie du commandement de payer la somme de 298'121 fr. 96 sans intérêt, notifié le
+29 septembre 2022 à N.________ SA à la réquisition de X.________ AG et frappé d’opposition
+totale ;
+-
+une copie certifiée conforme d’un prononcé du Juge de paix du district de Lausanne du
+24 mai 2023, attesté définitif et exécutoire dès le 20 juin 2023, faute de recours,
+prononçant sur requête de la poursuivante du 8 février 2023 la mainlevée provisoire
+de l’opposition dans la poursuite susmentionnée à concurrence de 296'000 fr. sans intérêt ;
+-
+une copie de la commination de faillite dans la poursuite susmentionnée, notifiée le 26 septembre
+2023 à la poursuivie à la réquisition de la poursuivante, portant sur le paiement de la
+somme de 296'000 fr. sans intérêts, plus frais de poursuite.
+2.
+Par courriers recommandés du 20 novembre
+2023, la présidente a notifié la requête à la poursuivie et a cité les parties
+à comparaître à l’audience du 11 janvier 2024.
+La poursuivante a fait défaut à dite audience. La poursuivie a requis qu’un délai
+de paiement lui soit accordé. La présidente lui a fixé un délai échéant
+au 18 janvier 2024 à 14 heures pour s’acquitter de la poursuite en cause auprès de l’office
+des poursuites et lui faire parvenir une preuve de ce paiement.
+3.
+Par jugement du 22 janvier 2024, la Présidente
+du Tribunal d’arrondissement de Lausanne, statuant en tant qu’autorité de première
+instance en matière sommaire de poursuites, a prononcé la faillite de N.________ SA avec effet
+au 22 janvier 2024 à 14 heures (I) et a mis les frais judiciaires, arrêtés à 200
+fr., à la charge de la faillie (II). Elle a considéré que la requête de faillite
+et les pièces produites étaient conformes aux réquisits légaux et que la faillie
+n’avait pas justifié par titre s’être acquittée de la créance en poursuite,
+en capital, frais et intérêts.
+4.
+Par acte du 1
+er
+février 2024, N.________ SA a recouru contre ce jugement en concluant, avec suite de frais et dépens,
+à sa réforme que ce sens que sa faillite n’est pas prononcée. Elle a requis que
+l’effet suspensif soit accordé au recours et a produit un bordereau de quinze pièces.
+Par décision du 2 février 2024, le président de la cour de céans a admis la requête
+d’effet suspensif et a ordonné, à titre de mesures conservatoires, l’inventaire
+et l’audition de la faillie.
+Le 5 février 2024, à la réquisition de la cour de céans, l’Office des poursuites
+du district de Lausanne a produit la liste des affaires en cours de la recourante, dont il ressort que
+celle-ci fait l’objet de trente-cinq poursuites pour un montant total de 530'004 fr. 35 comprenant
+la créance faisant l’objet de la présente procédure à hauteur de 300'066 fr.
+60 et d’aucun acte de défaut de biens.
+L’intimée n’a pas été invitée à se déterminer.
+En droit
+:
+1.1
+Le recours a été déposé dans
+le délai de l’art. 321 al. 2 CPC (Code de procédure civile du 19 décembre 2008 ;
+RS 272). Motivé conformément à l’art. 321 al. 1 CPC, le recours est recevable.
+2.
+La recourante fait valoir qu’elle est solvable et qu’elle réunit les fonds aux fins
+de régler dans les plus brefs délai la créance à l’origine de la faillite.
+La pièce 15 de son bordereau est un «
+justificatif
+de paiement de la créance par la recourante (à produire)
+».
+2.1
+Aux termes de l’art. 174 al. 2 LP, l’autorité de recours peut annuler l’ouverture
+de la faillite lorsque le débiteur rend vraisemblable sa solvabilité et qu’il établit
+par titre que l’une des conditions suivantes est remplie (1) la dette, intérêts et frais
+compris, a été payée, (2) la totalité du montant à rembourser a été
+déposée auprès de l’autorité judiciaire supérieure à l’intention
+du créancier ou (3) le créancier a retiré sa réquisition de faillite.
+Aux termes de l'art. 174 al. 1 2ème phrase LP, les parties peuvent faire valoir devant l'instance
+de recours des faits nouveaux lorsque ceux-ci se sont produits avant le jugement de première instance.
+La loi vise ici les faits nouveaux improprement dits (faux nova ou pseudo-nova), à savoir ceux qui
+existaient déjà au moment de l'ouverture de la faillite et dont le premier juge n'a pas eu
+connaissance pour quelque raison que ce soit ; ces faits peuvent être invoqués sans restriction
+devant la juridiction de recours, pour autant qu'ils le soient dans le délai de recours (ATF 139
+III 491 consid. 4.4). Selon la jurisprudence, les vrais nova – à savoir les faits qui sont
+intervenus après l'ouverture de la faillite en première instance mentionnés à l’art.
+174 al. 2 ch. 1-3 LP – doivent également être produits avant l'expiration du délai
+de recours (ATF 139 III 491 consid. 4 ; 136 III 294 consid. 3 ; TF 5A_899/2014 du 5 janvier 2015 consid.
+3.1 et les autres références, publié in SJ 2015 I p. 437 ; CPF 2 mars 2022/17 consid.
+Ib). En vertu de la lettre claire de l'art. 174 al. 2 LP, aucun autre novum n'est admissible (TF 5A_874/2017
+du 7 février 2018 ; TF 5A_625/2015 du 18 janvier 2016 consid. 3.6.1 ; CPF 2 mars 2022/17 consid.
+Ib). L'octroi d'un délai pour se déterminer sur l'extrait du registre des poursuites et des
+actes de défaut de biens requis d'office et joint au dossier n'a pas pour effet de prolonger le
+délai de recours ni d'instituer un délai supplémentaire pour produire des pièces
+(TF 5A_681/2016 du 24 novembre 2016; CPF 2 mars 2022/17 consid. Ib  et les réf. cit.).
+2.2
+En l’espèce le délai de recours échéait le 2 février 2024. Les pièces
+effectivement produites avec le recours sont recevables, car figurant déjà au dossier de première
+instance. En revanche à cette date, la recourante n’avait ni allégué avoir payé
+la créance qui lui avait valu sa faillite, ni prouvé un tel paiement. Un délai pour ce
+faire ne saurait lui être octroyé et la fixation d’un délai de détermination
+sur l’extrait des poursuites ne permettrait pas à la recourante de corriger cette lacune.
+Faute d’établir la réalisation de l’une des trois conditions posées par l’art.
+174 al. 2 LP, son recours ne peut qu’être rejeté, sans que ne doive encore être
+examinée sa solvabilité prétendue.
+3.
+Vu ce qui précède, le recours doit être rejeté selon le mode procédural de l’art.
+322 CPC et le jugement attaqué confirmé. Vu l’effet suspensif accordé, la faillite
+de N.________ SA prend effet à la date du présent arrêt.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., sont mis à la
+charge de la recourante qui succombe (art. 106 al. 1 CPC) et qui en a déjà fait l’avance.
+Il n’y a pas lieu d’allouer des dépens de deuxième instance, l’intimée
+n’ayant pas été invitée à procéder.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite de N.________ SA prenant effet
+le
+18 mars 2024 à 16 heures
+.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante N.________ SA.
+IV.
+L’arrêt est exécutoire
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Simon Demierre, avocat (pour N.________ SA),
+‑
+Me Adrian Veser, avocat (pour X.________ AG),
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne.
+Le greffier :
