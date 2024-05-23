@@ -1,0 +1,652 @@
+---
+decision_id: "vd_findinfo_Plainte___2024___13"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2024 / 13"
+decided: "2024-05-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9869433"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-641.md", "switzerland/bund/acts/210/art-798.md", "switzerland/bund/acts/210/art-818.md", "switzerland/bund/acts/211.432.1/art-023.md", "switzerland/bund/acts/211.432.1/art-110.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-140.md", "switzerland/bund/acts/281.1/art-246.md", "switzerland/bund/acts/281.1/art-247.md", "switzerland/bund/acts/281.42/art-034.md", "switzerland/bund/acts/281.42/art-035.md", "switzerland/bund/acts/281.42/art-036.md", "switzerland/bund/acts/281.42/art-037.md", "switzerland/bund/acts/281.42/art-073.md", "switzerland/bund/acts/281.42/art-073a.md", "switzerland/bund/acts/281.42/art-073c.md", "switzerland/bund/acts/281.42/art-073e.md", "switzerland/bund/acts/281.42/art-073g.md", "switzerland/bund/acts/281.42/art-073h.md"]
+---
+
+# VD Findinfo Plainte / 2024 / 13
+
+## Regeste
+
+ÉTAT DES CHARGES, PLAINTE{LP}, COPROPRIÉTÉ, GAGE COLLECTIF, EXTRAIT DU REGISTRE, REGISTRE FONCIER | 641 CC, 798 al. 1 CC, 140 LP, 17 al. 1 LP, 110 al. 1 ORF, 23 ORF, 73e ORFI
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2024 / 13
+
+ÉTAT DES CHARGES, PLAINTE{LP}, COPROPRIÉTÉ, GAGE COLLECTIF, EXTRAIT DU REGISTRE, REGISTRE FONCIER | 641 CC, 798 al. 1 CC, 140 LP, 17 al. 1 LP, 110 al. 1 ORF, 23 ORF, 73e ORFI
+
+TRIBUNAL
+CANTONAL
+FA23.022838-231572
+17
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+23 mai 2024
+__________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Giroud Walther et Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+641 et 798 al. 1 CC, 17 al. 1 et 140 LP, 23 et 110 al. 1 ORF, 73e ORFI
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par la
+République
+et Canton de Genève
+, représentée
+par l’
+Administration fiscale
+cantonale
+, contre la décision rendue le 10
+novembre 2023 par la Présidente du Tribunal d’arrondissement de l’Est vaudois, autorité
+inférieure de surveillance, dans la cause opposant la recourante à l’
+Office
+des poursuites du district d'Aigle
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+A.Z.________
+fait l’objet d’une procédure
+en rappel d’impôt, soustraction et tentative de soustraction pour les années 2008 à
+2017 ouverte par l’Administration fiscale de la République et Canton de Genève (ci-après :
+AFC-GE) en décembre 2018. Dans ce cadre, deux demandes de sûretés fiscales pour des montants
+de respectivement 154'318'856 fr. et 3'431'615 fr., avec intérêts, ont été notifiées
+au débiteur.
+b)
+Le 29 mai 2019, à la réquisition de l’AFC-GE, l’Office des poursuites du district
+d’Aigle (ci-après : l’Office) a exécuté contre A.Z.________ deux ordonnances
+de séquestre fiscal correspondant chacune à l’un des deux montants précités.
+Le bien suivant a ainsi été frappé de séquestre, selon les procès-verbaux de
+séquestre établis le 27 juin 2019 :
+-
+Parcelle RF 9[...]-2, part de copropriété d’une demie de parcelle RF 9[...] de la commune
+d’[...], au lieu-dit «[...]», d’une surface totale de 1'355 m
+2
+,
+comprenant une habitation de 137 m
+2
+,
+un bâtiment de 48 m
+2
+et une place-jardin de 1’170 m
+2
+.
+La valeur de l’immeuble séquestré a été estimée par l’Office, selon
+rapport d’expertise, à 700'000 francs. Dans les observations, l’Office a indiqué
+notamment ce qui suit :
+«
+Gage
+immobilier : 11.11.1980 001-2[...]3 Cédule hypothécaire sur papier au porteur de Fr. 840'000.00,
+1
+er
+rang, int. max. 8%.
+Droit
+de gage collectif avec [...]/9[...]-1. Selon renseignement reçu du conseil du débiteur, la
+cédule a fait l’objet d’une saisie dans le cadre d’une procédure diligentée
+par le Ministère public genevois.
+»
+Le même jour, l’Office a adressé à A.Z.________, par l’intermédiaire
+de son conseil, l’avis au propriétaire de l’immeuble au sujet de l’encaissement
+des loyers et fermages. Cet avis invitait par ailleurs le débiteur à communiquer dans les trois
+jours à l’Office le nom du porteur de la cédule grevant la parcelle, respectivement à
+remettre cette cédule à l’Office si elle se trouvait en mains du débiteur.
+Par lettre du 3 juin 2019, le conseil de A.Z.________ a informé l’Office que la cédule
+hypothécaire avait déjà fait l’objet d’une saisie par le Ministère public
+genevois et que son mandant n’était donc pas en mesure de la faire parvenir à l’Office.
+c)
+Le
+9 août 2019, l’AFC-GE a fait notifier à A.Z.________ deux commandements de payer dans
+les poursuites en prestation de sûretés et en validation de séquestre n° 9’243’082
+et n° 9'243'073 de l’Office, auxquels le débiteur a formé opposition totale.
+Par décisions du 8 octobre 2019, la Juge de paix du district d’Aigle a prononcé la mainlevée
+définitive des oppositions.
+d)
+Le 14 octobre 2019, l’AFC-GE a requis la continuation des deux poursuites et, en particulier, la
+saisie de la «
+part
+de copropriété ½ parcelle 9/9[...]-2, sise sur la commune d’[...], [...], dont Monsieur
+A.Z.________ est propriétaire, ainsi que les fruits de celle-ci
+».
+Selon les procès-verbaux de saisie établis dans les deux poursuites par l’Office le 29
+novembre 2019, la saisie, exécutée le 28 octobre 2019, a porté sur l’immeuble précité.
+Le gage immobilier est mentionné dans les mêmes termes que dans les procès-verbaux de
+séquestre, à savoir :
+«
+Gage immobilier : 11.11.1980
+001-2[...]3 Cédule hypothécaire sur papier au porteur de Fr. 840'000.00, 1
+er
+rang, int. max. 8%.
+Droit
+de gage collectif avec [...]/9[...]-1. Selon renseignement reçu du conseil du débiteur, la
+cédule a fait l’objet d’une saisie dans le cadre d’une procédure diligentée
+par le Ministère public genevois.
+»
+e)
+Le 12 octobre 2021, l’AFC-GE a requis de l’Office, dans les deux poursuites, la vente du
+bien immobilier saisi.
+L’Office a fait publier dans la Feuille des avis officiels du 29 avril 2022 la publication de la
+réalisation d’une part de copropriété immobilière (art. 73a ss ORFI), comprenant
+la sommation aux créanciers et titulaires de charges de l’immeuble, qu’il s’agisse
+de la part de copropriété à réaliser ou de l’immeuble entier, de produire leurs
+droits sur l’immeuble, dans un délai échéant le 19 mai 2022.
+e)
+Le 4 mai 2022, le Ministère public de la République et Canton de Genève, sous la signature
+d’un procureur, a adressé à l’Office «
+l’exemplaire
+d’une copie de la cédule à disposition du Ministère public
+»,
+en précisant qu’il ignorait où se trouvait l’original de ce document.
+La copie en question est celle d’une cédule hypothécaire sur papier au porteur n°
+2[...]3 du Registre foncier d’Aigle, constituée le 11 novembre 1980 par B.Z.________ et A.Z.________,
+d’un montant de 840'000 fr. dont ceux-ci se reconnaissent expressément codébiteurs solidaires,
+avec un intérêt au taux maximum de 8 % l’an ; l’immeuble grevé en
+premier rang par cette cédule est la parcelle 9[...] de la Commune d’[...], [...], consistant
+en un pâturage de 1355 m
+2
+,
+dont B.Z.________ et A.Z.________ sont copropriétaires chacun pour une demie ; il est prévu
+qu’en dehors des cas légaux, le créancier pourra exiger le remboursement immédiat
+du prêt notamment si les débiteurs ou les constituants du gage font l’objet de l’un
+des procédés juridiques de la LP.
+f)
+Par courrier du 17 mai 2023, l’Office a communiqué à l’AFC-GE l’état
+des charges « dressé sur la base des renseignements obtenus du registre foncier, aucun créancier
+gagiste ne s’étant fait connaître dans le délai de production ». L’Office
+indiquait avoir «
+dès
+lors été tenu de porter à l’état des charges le capital de la cédule hypothécaire
+au porteur de CHF 840'000.00 grevant en premier rang la part de copropriété de A.Z.________,
+majoré des intérêts courants s’élevant à ce jour à CHF 107’333.35
+(intérêts au jour de la vente réservés), soit un montant total de CHF 947'333.35,
+ceci en application de l’art. 36 al. 2 ORFI
+»
+.
+Il faisait valoir que malgré la publication
+de la vente et ses investigations menées auprès du poursuivi et des autorités en charge
+des séquestres pénaux, il n’avait pas été en mesure de se faire remettre l’original
+de la cédule hypothécaire ; en conséquence, la part de copropriété du débiteur
+ne pourrait être adjugée lors des enchères publiques qu’à condition que l’offre
+soit supérieure à la somme de la créance garantie par gage admise à l’état
+des charges, de sorte que faute d’offre supérieure à 947'333 fr. 35, l’adjudication
+ne pourrait pas intervenir et les poursuites tomberaient. La valeur de la part de copropriété
+ayant été arrêtée par un expert à 700'000 fr., l’Office considérait
+comme «
+fort probable
+que les enchères ne donnent aucun résultat
+».
+Il requérait de l’AFC-GE, si elle souhaitait tout de même tenter de vendre cette part
+aux enchères publiques, une avance de frais de 15'000 francs.
+L’extrait du registre foncier concernant le bien-fonds [...]/9[...] indique à la rubrique
+« Propriété » : «
+COP
+[...] [...]/9[...]-1 sur ½
+» et
+«
+COP [...] [...]/9[...]-2
+sur ½
+», et à la rubrique
+« droits de gage immobilier » : «
+Aucun
+».
+L’extrait du registre foncier concernant la part de copropriété [...]/9[...]-2, valeur
+½ de l’immeuble de base B-F [...]/9[...], indique à la rubrique « Propriété » :
+«
+Propriété
+individuelle A.Z.________  14,04.1980 […] Achat
+»,
+et à la rubrique « Droits de gage immobilier » : «
+Rang
+1, Cédule hypothécaire sur papier au porteur, CHF 840'000.-., Intérêt max. 8%,
+RF No 2[...]3 du 11.11.1980, ID.[…], Droit de gage collectif avec [...]/9[...]-1
+».
+La description de l’immeuble entier (RF 9[...]) dans l’état des charges établi
+par l’Office indique qu’il appartient à B.Z.________ et A.Z.________ en copropriété
+chacun pour une demie, «
+COP
+[...] [...]/9[...]-1 pour ½
+» et
+«
+COP [...] [...]/9[...]-2
+pour ½
+» et que seule la part de
+copropriété de A.Z.________ (COP [...] [...]/9[...]-2 [...]) fait l’objet de la procédure
+de réalisation. A la rubrique « Créances garanties par gage immobilier sur l’immeuble
+entier » figure la mention «
+Néant
+» ;
+à la rubrique «
+Créances
+garanties par gage immobilier grevant la part de copropriété d’une demie de A.Z.________
+»
+a été portée la cédule hypothécaire sur papier au porteur RF 001-2[...]3 de
+840'000 francs en premier rang, avec la mention «
+droit
+de gage collectif, avec [...]-9[...]-1
+»,
+pour le montant précité en capital, plus intérêts à 8 % du 13 octobre 2021
+au 17 mai 2023 de 107'333 francs 35, soit au total 947'333 fr. 35.
+2.
+a)
+Par acte posté le 26 mai 2023, l’AFC-GE a saisi l’autorité inférieure de surveillance,
+en la personne de la Présidente du Tribunal d’arrondissement de l’Est vaudois (ci-après :
+la Président), d’une plainte au sens de l’art. 17 LP contre l’état des charges
+dressé par l’Office. Elle a conclu principalement à l’annulation de cet acte en
+tant qu’il considérait le montant nominal de la cédule plus intérêts, soit
+947'333 fr. 35, comme une créance exigible à payer en espèces et en tant qu’il fixait
+le montant de l’offre minimale à la même hauteur, et à ce qu’il soit ordonné
+à l’Office de vérifier auprès du débiteur si la cédule hypothécaire
+était libre de tout gage et/ou nantissement et où se trouvait son exemplaire original et d’établir
+un nouvel état des charges préalable.
+En substance, la plaignante reprochait à l’Office de n’avoir pas lu dans les extraits
+du registre foncier concernant l’immeuble entier et la part de copropriété qu’on
+avait affaire à un gage collectif au sens de l’art. 798 al. 1 CC (Code civil, RS 110),
+grevant l’immeuble entier au sens l’art. 73a al. 3 ORFI (ordonnance du Tribunal fédéral
+sur la réalisation forcée des immeubles ; RS 281.42), étant donné que la cédule
+en cause grève collectivement les deux parts de copropriété 9[...]-1 et 9[...]-2 qui constituent
+la parcelle 9[...], et de n’avoir pas suivi la procédure prévue par l’art. 73a
+al. 3 ORFI (la vente n’est provisoirement pas fixée et il est procédé à l’épuration
+des charges, laquelle est suivie, s’il en résulte que l’immeuble entier est grevé
+de droits de gage, de la procédure prévue par les art. 73e ss ORFI). Elle contestait en outre
+que, comme le soutenait l’Office, la dette hypothécaire doive être portée à
+l’état des charges pour son montant nominal plus intérêt et que ce montant constitue
+celui de l’offre minimale. Selon elle, il n’y aurait que deux possibilités : soit
+les deux parts de copropriétés constituant la parcelle entière garantissaient une dette
+hypothécaire effective, auquel cas cette dette ne devait pas être considérée comme
+exigible et payable en espèces dans l’état des charges, mais devait être déléguée
+à l’adjudicataire, en application de l’art. 73g al. 2 ORFI, et ne constituait pas une
+charge préférable ni n’impliquait qu’une offre minimale soit respectée lors
+de la vente aux enchères ; soit la cédule était libre de gage et à disposition
+des copropriétaires de la parcelle et il ne devait pas en être tenu compte dans l’état
+des charges en vertu de l’art. 35 al. 1 ORFI.
+La plaignante a requis l’effet suspensif, qui a été accordé par décision du
+6 juin 2023.
+L’Office s’est déterminé dans une réponse du 19 juin 2023, concluant au rejet
+de la plainte. La position de l’Office était en résumé la suivante : il résultait
+sans équivoque des extraits du registre foncier, sur lesquels l’Office s’était
+fondé en l’absence de toute production dans le délai, que seule la part de copropriété
+était grevée d’un droit de gage immobilier, l’immeuble entier étant libre
+de tout droit de gage immobilier ; l’Office n’avait pas le pouvoir de refuser de porter à
+l’état de charges celles qui figuraient dans l’extrait ni de les modifier ou de les
+contester ou d’exiger la production de moyens de preuves (art. 36 al. 2 ORFI) ; les créances
+inscrites au registre foncier étaient admises avec l’intérêt courant, même
+si elles n’avaient pas été produites (art. 246 LP) ; l’immeuble entier n’étant
+pas grevé, il n’y avait pas lieu de suivre la procédure décrite par l’art.
+73e
+ORFI.
+La plaignante, dans une écriture du 30 juin 2023, s’est déterminée sur la réponse
+de l’Office, a persisté dans ses conclusions du 26 mai 2023 et a conclu pour le surplus à
+ce que l’autorité de surveillance interpelle le nouveau mandataire du débiteur «
+pour
+la remise de l’original de la cédule hypothécaire
+».
+Elle a notamment fait valoir que «
+la
+technique de lecture de l’extrait du registre foncier est indépendante de la technique de
+l’ouverture des feuillets au registre foncier
+».
+b)
+Interpellé par la Présidente à la suite de l’audience tenue le 22 août 2023
+en présence de la plaignante et de l’Office, le mandataire de A.Z.________, par courrier du
+4 septembre 2023, a confirmé que son mandant n’était pas en possession de la cédule
+et ignorait sa localisation «
+en
+dehors des informations reçues du Ministère public
+».
+Il a produit trois pièces :
+-
+une lettre du 9 août 2018 du Ministère public genevois, sous la signature d’une
+procureure, adressée au mandataire de l’époque de A.Z.________, dont il ressort que le
+Ministère public a reçu d’une banque «
+une
+cédule hypothécaire apparemment originale, grevant l’immeuble 9[...] de la commune d’[...]
+»,
+document qui a été placé dans son coffre, que cette cédule est mentionnée sur
+l’extrait de la parcelle 9[...]-2, lequel mentionne un droit de gage collectif avec [...]-9[...]-1,
+et que A.Z.________ est désigné codébiteur solidaire de la cédule avec B.Z.________
+;
+-
+une lettre du 9 mars 2022 du Ministère public genevois, sous la signature d’un procureur,
+adressée à l’Office, confirmant à ce dernier qu’il ne s’oppose pas à
+la fixation de la vente de la parcelle RF 9[...]-2 d’[...] et que «
+la
+cédule hypothécaire sur papier au porteur est en possession du Ministère public
+» ;
+-
+une lettre du 16 septembre 2022 du Ministère public genevois, sous la signature du même procureur,
+adressée à l’Office, confirmant à ce dernier que le ministère public «
+ne
+dispose pas (et n’a jamais disposé) de l’original de la cédule hypothécaire
+sur papier au porteur et grevant la parcelle RF 9[...]-2 de la commune d’[...]
+».
+Invité à se déterminer sur les éléments qui précèdent, l’Office
+a indiqué, par lettre du 7 septembre 2023, qu’ils le confortaient «
+dans
+sa décision de porter à l’état des charges le capital de la cédule hypothécaire
+avec les intérêts au sens de l’art. 818 CC vu que visiblement personne ne sait qui
+la détient
+».
+La plaignante, par lettre du 12 septembre 2023, a soutenu qu’il convenait de tenir compte de la
+dernière déclaration du Ministère public genevois et d’admettre que celui-ci n’était
+pas en possession de l’original de la cédule hypothécaire RF 2[...]3. Elle a relevé
+que, dans une requête du 6 juillet 2018 tendant notamment à l’annulation de ladite cédule
+- requête retirée le 21 août 2018 -, A.Z.________ avait exposé avoir perdu l’original
+de cette cédule après sa restitution en juin 1997 par le Crédit suisse, qui l’avait
+détenue auparavant en garantie d’un prêt hypothécaire jusqu’au remboursement
+de ce prêt. La plaignante en concluait, dès lors que le nantissement ou la remise en pleine
+propriété de la cédule à un éventuel créancier gagiste aurait nécessité
+de posséder l’original du titre, qu’il était établi à satisfaction de
+droit que le débiteur n’avait pas pu remettre cette cédule en gage et que, partant, cette
+cédule était libre de gage, ce que confirmait le fait qu’elle n’avait fait l’objet
+d’aucune production lors de l’appel aux créanciers ; c’était ainsi à
+tort que l’Office avait tenu compte de son montant nominal et des intérêts pour le calcul
+de charge préférable formant le prix d’adjudication minimal.
+c)
+En même temps qu’elle déposait sa plainte 17 LP, l’AFC-GE a également formé
+opposition à l’état des charges litigieux au sens de l’art. 140 al. 2 LP, par courrier
+du 26 mai 2023 adressé à l’Office.
+3.
+Par décision rendue le 10 novembre 2023,
+notifiée à la plaignante le 13 suivant, la Présidente a rejeté la plainte, sans frais.
+Considérant que la plainte contre l’état des charges était ouverte lorsque l’office
+des poursuites avait violé une règle de procédure concernant sa rédaction, qu’en
+revanche, l’action en contestation de l’état des charges était réservée
+aux contestations matérielles concernant l’existence, l’étendue, le rang ou l’exigibilité
+des créances et qu’en l’espèce, la plaignante faisait valoir que l’Office
+n’aurait pas dû tenir compte de la cédule hypothécaire précitée dans l’état
+des charges litigieux, elle a constaté qu’il s’agissait d’une contestation matérielle
+qui ne pouvait pas être réglée par la voie de la plainte.
+4.
+La plaignante a recouru contre cette décision par acte du 21 novembre 2023, concluant à sa
+réforme en ce sens qu’il soit ordonné à l’Office d’établir un nouvel
+état des charges préalable ne fixant aucune date de vente aux enchères et ne tenant pas
+compte de la somme de 947'933 fr. 35 pour le calcul des charges préférables et du prix minimal
+d’adjudication de la part de copropriété n° 9[...]-2 de la Commune d’[...].
+La requête d’effet suspensif contenue dans le recours a été admise, par décision
+du 23 novembre 2023, prenant date le 27 suivant.
+Par lettre du 11 décembre 2023, l’Office a indiqué ne pas avoir d’autres déterminations
+à formuler que celles produites à l’autorité inférieure de surveillance.
+Le 15 décembre 2023, A.Z.________, par son conseil, a conclu au rejet du recours.
+En droit :
+I.
+Formé contre une décision de l’autorité inférieure de surveillance dans le
+délai de dix jours suivant sa notification (art. 18 al. 1 LP [loi fédérale sur la poursuite
+pour dettes et la faillite ; RS 281.1] et art. 28 al. 1 LVLP [loi vaudoise d’application de
+la LP ; BLV 280.05]), le recours a été déposé en temps utile. Il comporte des
+conclusions et l’énoncé des moyens invoqués, de sorte qu’il est conforme aux
+exigences de l’art. 18 LP et de la jurisprudence y relative en matière de motivation (TF 5A_118/2018
+du 7 février 2018 consid. 4.1 et les références citées). Il est ainsi recevable.
+Les déterminations de l’Office et du débiteur sont également recevables (art. 31
+al. 1 LVLP).
+II.
+a)
+La voie de la plainte est ouverte, selon l’art. 17 al. 1 LP, contre toute mesure de l’office
+contraire à la loi ou qui ne parait pas justifiée en fait. Par «mesure» au sens de
+cette disposition, il faut entendre tout acte d'autorité, accompli par l'office ou par un organe
+de la poursuite en exécution d'une mission officielle dans une affaire concrète (ATF 142 III
+643 consid. 3.1 ; 128 III 156 consid. 1c et les références ; Cometta/Möckli,
+in Staehelin/Bauer/Lorandi (éd.), Basler Kommentar SchKG I, 3
+e
+éd., 2021, n. 18 ad art. 18 SchKG [LP]) ; l'acte de poursuite doit être de nature
+à créer, modifier ou supprimer une situation du droit de l'exécution forcée dans
+l'affaire en question (
+ATF
+142 III 643 consid. 3.1 ; 129 III 400 consid. 1.1 ; Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, n. 12
+ad
+art. 17-21 LP). En d'autres termes, il doit s'agir
+d'un acte matériel qui a pour but la continuation ou l'achèvement de la procédure d'exécution
+forcée et qui produit des effets externes (ATF 142 III 643 consid. 3.1 ; Cometta/Möckli,
+op. cit.,
+n. 19
+ad art. 18 SchKG [LP].
+L'état des charges dans la poursuite par voie de saisie ou de réalisation de gage (art. 140
+et 156 al. 1 LP; art. 34 ss et 102 ORFI) est susceptible de plainte à l'autorité de surveillance
+(art. 17 LP) lorsque l'office des poursuites a violé des prescriptions formelles à l'occasion
+de son établissement (ATF 141 III 141 consid. 4.2 et les références). En revanche, l'action
+en épuration de l'état des charges est ouverte lorsque le demandeur entend contester l'existence,
+l'étendue, le rang ou l'exigibilité d'un droit inscrit à l'état des charges (art.
+37 al. 2 ORFI; même arrêt avec les références). Cette distinction est consacrée
+de longue date par la jurisprudence (cf. notamment: ATF 30 I 148 consid. 1; 38 I 273; 43 III 302 consid.
+1; 57 III 131 consid. 1; 140 III 234 consid. 3.1).
+L'état des charges renseigne sur les droits réels et les obligations réelles qui grèvent
+l'immeuble. L'acquéreur doit avoir connaissance des charges qu'il reprendra avec le bien-fonds (cf.
+TF 5A_394-395/2014 du 21 juillet 2014 consid. 4.1.2 ; TF 5A_387/2019 du 14 août 2019 consid.
+5.2). Un état des charges non conforme à l'extrait du registre foncier ou aux productions peut
+être attaqué par la voie de la plainte au sens de l'art. 17 LP (ATF 120 III 20 consid. 1).
+La voie de la plainte est ouverte contre l’état de collocation notamment «
+lorsque
+certaines prescription de procédure avec incidence de droit matériel n’ont pas été
+observées (ainsi lorsqu’une décision a été prise en faveur d’une prétention
+non produite ou insuffisamment justifiée)
+»
+(Gilliéron,
+op. cit.
+,
+n. 33 ad art. 17 LP) ; selon cet auteur, «
+ce
+qui vaut pour l’état de collocation vaut pour l’état des charges
+»
+(
+ibidem
+,
+n. 48 ad art. 247 LP).
+b)
+En l’espèce, la recourante se plaint du fait que l’Office, s’il a certes indiqué
+dans l’état des charges que la cédule grevait collectivement les deux parts de copropriété
+n° 9[...]-1 et 9[...]-2, a omis de tenir compte du fait qu’elle grève ainsi l’immeuble
+entier, au sens de l’art. 73a al. 3 ORFI, et n’a pas établi en conséquence un état
+des charges préalable devant servir de base aux pourparlers prévu par l’art. 73e
+ORFI. Elle reproche en outre à l’Office d’avoir pris une décision en faveur d’une
+prétention non produite, en admettant que la créance abstraite incorporée dans la cédule
+hypothécaire garantissait une créance hypothécaire effective pour laquelle aucune production
+n’avait été formulée, en inscrivant cette créance hypothécaire dans l’état
+des charges, en la considérant comme dénoncée au remboursement et donc exigible, et en
+tenant compte de cette créance non produite pour le calcul des charges préférables et
+du prix minimum d’adjudication.
+La recourante contestant ainsi la manière dont l’Office a appliqué les prescriptions
+légales régissant l’établissement de l’état des charges, on doit considérer,
+contrairement à l’autorité précédente, que la voie de la plainte au sens de
+l’art. 17 LP est ouverte.
+La plainte étant recevable tant matériellement que formellement, il reste à examiner son
+bien-fondé. L’autorité de céans, dont le pouvoir d’examen est complet en fait
+et en droit, est en mesure de trancher cette question, sans qu’il y ait lieu de renvoyer le dossier
+à l’autorité précédente pour qu’elle statue à nouveau.
+III.
+a)
+La copropriété au sens de l’art.
+641 CC est un droit de propriété unique, dont plusieurs personnes sont titulaires, chaque titulaire
+ayant une part du tout, part « idéale » en ce sens qu’elle ne correspond
+pas à une partie déterminée du bien en copropriété. Entité non matérielle,
+la part de copropriété constitue néanmoins elle-même un objet de propriété
+individuelle dont le titulaire peut disposer. La part de copropriété d’un immeuble est
+elle-même un immeuble (Steinauer, Les droits réels, Tome I, 6
+e
+éd., 2019, nos 1541 et 1542).
+Plusieurs immeubles peuvent être engagés en garantie de la même créance et lorsqu’ils
+appartiennent au même propriétaire ou à des codébiteurs solidaires, il est possible
+de grever chaque immeuble pour l’entier de la créance (droit de gage collectif au sens de
+l’art. 798 al. 1 CC). Chaque immeuble garantit alors la totalité de la créance, même
+si le montant de la créance dépasse la valeur de réalisation de l’immeuble :
+ni la créance, ni la garantie ne sont divisées. Le créancier peut se faire désintéresser
+sur le produit de la réalisation de chacun des immeubles grevés, mais il n’a qu’un
+seul et même droit de gage (Steinauer, Les droits réels, Tome III, 5
+e
+éd., 2021, n
+os
+4033, 4034 et 4037 ; Marchand, in Commentaire romand, Code civil II, 2016, n
+os
+7 et 9 ad art. 798 CC ; ATF 138 III 182 consid. 4.2). Le caractère collectif du gage doit être
+prévu dans l’acte constitutif et ressortir de l’inscription du gage au registre foncier,
+soit que les immeubles soient immatriculés sur un feuillet collectif, soit que chaque feuillet contienne
+l’indication que la somme garantie par gage correspond au montant total de la créance, complétée
+par une observation contenant une référence aux autres immeubles grevés du même droit
+de gage, conformément à l’art. 110 al. 1 ORF (ordonnance sur le registre foncier ;
+RS 211.432.1) (Marchand, op. cit., n° 10 ad art. 798 CC).
+Aux termes de l’art. 23 ORF, une part de copropriété est immatriculée comme immeuble
+au registre foncier lorsqu’elle est grevée d’un gage immobilier, ou lorsqu’il
+s’agit d’une part de copropriété en propriété par étages (al. 1) ;
+elle peut être immatriculée comme immeuble au registre foncier lorsque cela sert à la
+clarté et à la précision des écritures (al. 2) ; les parts de copropriété
+sont immatriculées par l’inscription, dans la rubrique « propriété »
+du feuillet du grand livre de l’immeuble de base, de la désignation des parts de copropriété
+en lieu et place du nom du propriétaire, et par l’ouverture d’un feuillet du grand livre
+pour chaque part de copropriété (al. 3) ; le feuillet du grand livre de la part à
+immatriculer indique la désignation de l’immeuble de base et, en cas de copropriété,
+la quote-part de l’immeuble de base (al. 5).
+L’extrait du registre foncier que l’office des poursuites doit demander lorsque la réalisation
+porte sur une part de copropriété (art. 73 ORFI), constitue l’élément de base
+pour toutes les décisions subséquentes de l’office. L’extrait doit donner des indications
+sur la copropriété et l’immeuble (la parcelle), puisque la première représente
+une partie du second. L’étendue de l’objet du gage doit impérativement ressortir
+du registre foncier (Annen, in Commentaire ORFI, Conférence des préposés aux poursuites
+et faillites de Suisse (éd.), 2012, n. 1 ad art. 73 ORFI).
+En l’espèce, A.Z.________ et B.Z.________ sont propriétaires en copropriété
+chacun pour une demie de la parcelle RF 9[...] d’[...], acquise en avril 1980. En novembre de la
+même année, ils ont constitué sur cette parcelle, qui consistait alors en un pâturage,
+une cédule hypothécaire sur papier au porteur en premier rang de 840'000 fr., dont ils se sont
+expressément reconnus codébiteurs solidaires. Le caractère collectif du gage ressortait
+ainsi déjà de l’acte constitutif de la cédule.
+Au registre foncier, conformément à l’art. 23 al. 3 ORF, les parts de copropriété
+9[...]-1 et 9[...]-2 ont été immatriculées par l’inscription, dans la rubrique « propriété »
+du feuillet du grand livre de l’immeuble de base, soit le bien-fonds [...]/9[...], de la désignation
+des parts de copropriété en lieu et place du nom du propriétaire : « COP
+[...] [...]/9[...]-1 sur ½ » et « COP [...] [...]/9[...]-2 sur ½ »,
+et par l’ouverture d’un feuillet du grand livre pour chaque part de copropriété.
+Là encore, conformément à l’art. 23 al. 3 et 5 ORF, le feuillet du grand livre de
+la part de copropriété 9[...]-2 indique la désignation de l’immeuble de base et
+la quote-part de l’immeuble de base : « valeur ½ de l’immeuble de base
+B-F [...]/9[...] » et, à la rubrique « Propriété » :
+« Propriété individuelle A.Z.________ ». Quant au droit de gage immobilier,
+il est mentionné, conformément à l’art. 110 al. 1 ORF, qu’il s’agit
+d’un « droit de gage collectif avec [...]/9[...]-1 ».
+Il est vrai que le feuillet concernant l’immeuble de base mentionne à la rubrique « droits
+de gage immobilier » : « Aucun ». Toutefois, dès sa constitution,
+la cédule hypothécaire en cause a grevé l’immeuble entier [...]/9[...], détenu
+en copropriété à parts égales par les codébiteurs solidaires, soit collectivement
+les parts 9[...]-1 et 9[...]-2, ainsi que cela ressort de l’inscription au registre foncier concernant
+la part de copropriété saisie. Les deux parts égales de copropriété d’un
+immeuble étant grevées collectivement d’un droit de gage, l’immeuble entier est
+grevé. L’Office, qui connaissait les éléments essentiels et pertinents concernant
+la copropriété, la constitution de la cédule et le caractère collectif du droit de
+gage, ne pouvait pas se retrancher derrière « la lettre » de l’extrait
+du registre foncier concernant l’immeuble entier [...]/9[...] pour soutenir que ce dernier n’était
+pas grevé. En l’occurrence, il résulte au contraire du registre foncier, soit des deux
+extraits pertinents en l’espèce, que l’immeuble entier lui-même est grevé
+d’un droit de gage.
+c)
+En
+l’absence de réalisation de l’immeuble de base, des mesures particulières doivent
+être prises lorsque l’immeuble de base de la part saisie est grevé de droits de gage.
+L’ORFI impose dans un tel cas un sursis à la vente et une procédure de conciliation (Mooser,
+La réalisation forcée en cas de propriété collective, Séminaire de formation
+de la Conférence des préposés aux poursuites et faillites de Suisse, Lausanne, 2021, p.
+17, n. 56). La publication de la vente indique quelle quote-part appartient au débiteur et renferme
+la description de l’immeuble et de ses accessoires, avec indication de la valeur estimative. Ces
+indications doivent également figurer à l’état des charges, qui doit énoncer
+séparément les charges grevant la part et les charges grevant l’immeuble entier, inscrites
+au registre foncier ou annoncées ensuite de la sommation publique (art. 73c ORFI) (Mooser, op. cit.,
+p. 17, n. 54). La publication officielle (art. 73a al. 1 ORFI) est nécessaire afin d’établir
+toutes les charges, elle sert de préparation à la réalisation. Il s’agit toutefois
+de clarifier préalablement l’état des charges (Annen, op. cit., n. 3 ad art. 73a ORFI).
+S’il résulte de la procédure d’épuration de l’état des charges
+que l’immeuble entier est grevé de droits de gage, il sera sursis à la vente (art. 73e
+al. 1 ORFI). Au cas où le débiteur répond solidairement avec les autres copropriétaires
+d’une dette garantie par un droit de gage grevant l’immeuble entier, l’Office cherchera
+à provoquer une répartition correspondante de la dette (art. 73e al. 2 ORFI).
+Au vu de ce qui précède, l’Office devait porter la cédule hypothécaire en cause
+à l’état des charges comme gage grevant l’immeuble entier. Sur ce point, la plainte
+était bien fondée et le recours doit être admis.
+d)
+La plaignante et recourante soutient par ailleurs que soit la cédule hypothécaire au porteur
+en cause n’est pas engagée et se trouve donc à disposition des propriétaires des
+parts de copropriété, de sorte qu’il y a lieu de ne pas en tenir compte dans l’état
+des charges en vertu de l’art. 35 al. 1 ORFI, soit les deux parts de copropriété grevées
+collectivement par cette cédule garantissent une créance hypothécaire effective, auquel
+cas cette créance ne doit pas être considérée comme exigible et payable en espèces
+dans l’état des charges préalable.
+Les moyens relatifs à l’existence et l’exigibilité de la créance garantie
+relèvent de la contestation de droit matériel qui ne peut être tranchée dans le cadre
+d’une procédure de plainte 17 LP. Au surplus, les créances garanties par gage n’ayant
+pas été produites doivent être portées à l’état des charges en tant
+que dettes exigibles (Annen,
+op.
+cit.
+, n. 18 ad art. 34 ORFI). Pour le calcul de
+l’offre minimale, toutefois, les créances garanties par gage immobilier grevant l’immeuble
+entier ne seront pas prises en considérations (art. 73h ORFI). Le grief est rejeté.
+IV.
+En conclusion, le recours doit être partiellement admis et la décision réformée en
+ce sens que la plainte est admise et qu’il est ordonné à l’Office d’établir
+un nouvel état des charges préalable en faisant figurer la cédule hypothécaire sur
+papier au porteur RF 001-2[...]3 de 840'000 fr., plus intérêt, en premier rang à la rubrique
+« Créances garanties par gage immobilier sur l’immeuble entier » avec
+la mention «
+droit
+de gage collectif, [...]-9[...]-1 avec [...]-9[...]-2
+»,
+et non à la rubrique «
+Créances
+garanties par gage immobilier grevant la part de copropriété d’une demie de A.Z.________
+»,
+et de procéder ensuite conformément aux art. 73e ss ORFI.
+L’arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a
+et 2 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP ; RS 281.35].
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est partiellement admis.
+II.
+La décision est réformée en ce sens que la plainte est admise et qu’il est ordonné
+à l’Office des poursuites du district d’Aigle d’établir un nouvel état
+des charges préalable dans le sens des considérants.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+République et Canton de Genève, Département des finances et des ressources humaines, Administration
+fiscale cantonale
+-
+M. le Préposé à l’Office des poursuites du district d’Aigle,
+‑
+Me Rémi Sacerdote, avocat (pour A.Z.________).
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
