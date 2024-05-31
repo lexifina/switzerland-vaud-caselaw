@@ -1,0 +1,498 @@
+---
+decision_id: "vd_findinfo_Plainte___2024___16"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2024 / 16"
+decided: "2024-05-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9862049"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-001.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-097.md", "switzerland/bund/acts/281.1/art-112.md", "switzerland/bund/acts/281.1/art-126.md", "switzerland/bund/acts/281.1/art-143b.md", "switzerland/bund/acts/281.42/art-009.md", "switzerland/bund/acts/281.42/art-099.md"]
+---
+
+# VD Findinfo Plainte / 2024 / 16
+
+## Regeste
+
+GAGE IMMOBILIER, POURSUITE EN RÉALISATION DE GAGE, CALCUL, PROCÉDURE D'ESTIMATION, MAXIME INQUISITOIRE | 20a al. 2 ch. 2 LP, 9 ORFI, 99 ORFI
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2024 / 16
+
+GAGE IMMOBILIER, POURSUITE EN RÉALISATION DE GAGE, CALCUL, PROCÉDURE D'ESTIMATION, MAXIME INQUISITOIRE | 20a al. 2 ch. 2 LP, 9 ORFI, 99 ORFI
+
+TRIBUNAL
+CANTONAL
+FA22.044793-240353
+12
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+31 mai 2024
+__________________
+Composition
+:               M.
+Hack
+,
+président
+M.
+Maillard et Mme Giroud Walther, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+20a al. 2 ch. 2 LP ; 9 et 99 ORFI
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+F.________
+et
+H.________
+,
+à [...], contre la décision rendue le 4 mars 2024 par le Président du Tribunal d’arrondissement
+de Lausanne, autorité inférieure de surveillance, dans la cause en estimation de gage opposant
+les recourants à l’
+Office
+des poursuites du district de Lausanne
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+F.________ fait l’objet des poursuites
+en réalisation de gage immobilier n° 710’786'550 et n° 710’786'554 de
+l’Office des poursuites du district de Lausanne (ci-après : l’Office), exercées
+à l’instance de la BCV, également notifiées à son épouse H.________. Ces
+poursuites sont parvenues au stade de la réalisation du gage. Dans ce cadre, le 18 octobre 2022,
+l’Office a notifié aux deux époux les procès-verbaux d’estimation du gage
+ainsi que le rapport d’expertise de Rham SA du 17 octobre 2022 sur lequel l’estimation était
+fondée. Selon ce rapport, l’immeuble constituant le gage (RF [...], à [...]), propriété
+exclusive du débiteur, consistant en une parcelle de 3'476 m2, dont 471 m2 de forêt, sur laquelle
+est construite une maison individuelle qualifiée de « cossue » de 365 m2 habitables,
+avec une terrasse dallée, un garage pour trois voitures, une vaste cour intérieure pavée,
+un jardin et une piscine extérieure, était estimé à une valeur vénale de 6'235'000
+fr. et à une valeur de liquidation de 5'925'000 francs. Cette dernière valeur était retenue
+dans les procès-verbaux d’estimation de l’Office.
+Par actes séparés mais identiques de « plainte 17 LP » du 26 octobre 2022,
+les époux F.________ (ci-après : les requérants) ont requis une nouvelle estimation
+du gage immobilier, en application de l’art. 9 ORFI. Ils ont fait valoir que l’expertise
+de Rham SA n’avait pas suffisamment pris en compte la situation géographique exceptionnelle
+de l’objet sis en zone résidentielle de luxe sans possibilité de densification de la
+zone à bâtir, ni le potentiel de développement du bâtiment existant et de construction
+d’un bâtiment nouveau, et avait pris en compte une prétendue vétusté injustifiée
+eu égard à la qualité des matériaux et à l’état exceptionnel d’entretien
+de la construction.
+Le Président du Tribunal d’arrondissement de Lausanne (ci-après : le Président)
+a donné suite à ces requêtes en informant les requérants et l’Office, le 7 novembre
+2022, que l’expert pressenti pour la nouvelle estimation serait Guy-Claude Piot, de Cogestim SA,
+à Rolle, sauf opposition écrite de leur part à cette proposition dans un délai au
+28 novembre suivant.
+Par décision du 14 novembre 2022, à la demande des requérants, le Président a joint
+les deux causes en nouvelle estimation du gage.
+Par lettre du 28 novembre
+2022, le conseil des requérants a informé le Président qu’il paraîtrait «
+plus
+adéquat de faire appel à un expert spécialisé dans la Ville de Lausanne
+»
+et que ses mandants s’opposaient à la proposition d’expert dans la mesure où l’expert
+pressenti n’était pas domicilié ni opérant à Lausanne.
+Par détermination du 2 décembre 2022 sur ce qui précède, l’Office a indiqué
+ne pas connaître d’expert immobilier spécialisé uniquement dans la région lausannoise
+et a relevé qu’un expert se spécialisait en fonction du type d’objet à estimer
+et non de la région concernée et que l’expert pressenti, membre de la CEI et titulaire
+du brevet fédéral d’expert en estimation immobilière depuis 2006, était notamment
+spécialisé dans l’expertise «
+des
+biens d’exception
+», tel que l’immeuble
+en cause.
+Par lettre du 5 janvier 2023, le conseil des requérants a renouvelé sa requête tendant
+à la désignation d’un expert «
+spécialisé
+dans le domaine immobilier particulier de la Ville de Lausanne
+».
+Il n’a pas proposé de nom d’expert.
+Par décisions du 3 février 2023, les requérants ont été mis au bénéfice
+de l’assistance judiciaire.
+L’expert Guy-Claude Piot de Cogestim SA a été informé de sa désignation par
+avis du Président du 10 février 2023. Il a également été informé que,
+«
+dans un souci d’objectivité
+»,
+l’expertise de Rham ne lui serait pas communiquée.
+L’expert a accepté sa mission et estimé ses honoraires à 4'500 fr. plus TVA. L’assistance
+judiciaire accordée aux requérants couvrant ces honoraires, l’expertise a été
+mise en œuvre le 22 mars 2023.
+b)
+L’expert Piot a déposé son rapport le 6 juillet 2023. Il a estimé la valeur vénale
+du bien-fonds à 6'750'000 fr., notamment en prenant position sur le potentiel de développement,
+limité eu égard à la réglementation constructive (COS limité à 1/6
+e
+),
+aux particularités du bien-fonds actuel (implantation du bâtiment existant ; proximité
+de la lisière forestière et retrait minimal imposé ; distance à respecter entre
+bâtiments ; emplacement d’arbres majeurs dont le maintien pourrait être exigé ;
+piscine à déplacer le cas échéant) et à l’impact d’une nouvelle
+construction sur le bâtiment existant. Il a néanmoins réservé une éventuelle
+extension du bâtiment existant tout en précisant que seul un projet complet validé par
+les autorités compétentes permettrait de définir précisément les possibilités
+de développement de cette parcelle. L’expert a résumé en un tableau les avantages
+et inconvénients de la parcelle (cf. expertise, p. 30 ; décision, pp. 4-5).
+c)
+L’Office s’est déterminé sur ce rapport le 18 juillet 2023. Il a rappelé tout
+d’abord que dans la procédure en réalisation de gage, l’estimation n’avait
+qu’une importance secondaire, que ses fonctions principales étaient de déterminer le
+découvert et d’orienter le créancier sur le résultat prévisible de la réalisation
+et qu’elle servait aussi à renseigner d’éventuels enchérisseurs. Il a ensuite
+récapitulé les différentes valeurs arrêtées par les experts successivement mandatés,
+a relevé que le premier expert, à juste titre selon lui, avait déduit un abattement de
+liquidation de 5 % de la valeur vénale du bien-fonds et a proposé un abattement similaire
+sur la valeur vénale arrêtée par le second expert, portant sa propre estimation à
+6'412'000 francs ; se référant à la jurisprudence fédérale, il a suggéré
+de procéder à une moyenne entre les deux valeurs de liquidation pour estimer les gages.
+Les requérants ont répondu le 7 août 2023 aux déterminations de l’Office, en
+faisant valoir que l’expertise avait surtout pour but de «
+fixer
+le point de départ de la vente à l’encan
+»,
+de sorte qu’il était exclu de se satisfaire d’une sous-évaluation.
+A cela, l’Office a répliqué, le 10 août 2023, que selon l’art. 126 al. 1 LP,
+l’objet à réaliser était adjugé après trois criées au plus offrant,
+à condition que l’offre soit supérieure à la somme des créances garanties par
+gage préférables à celle du poursuivant (créancier à la requête duquel
+la vente a été ordonnée et, s’il y en a plusieurs, celui dont le droit de gage est
+de rang antérieur aux autres), de sorte que la nouvelle estimation arrêtée n’exercerait
+aucune influence sur le prix de départ des enchères.
+d)
+Dans un second courrier du 7 août 2023, les requérants ont soumis au Président des questions
+complémentaires à poser à l’expert.
+L’Office s’en est remis à justice sur ces questions complémentaire, tout en soulignant
+derechef que selon la jurisprudence fédérale, l’estimation de l’immeuble en cause
+n’avait qu’une importance secondaire et pour principales fonctions de déterminer le
+découvert et orienter le créancier quant au résultat prévisible de la réalisation,
+ainsi que renseigner d’éventuels enchérisseurs.
+Le complément d’expertise requis a été ordonné le 8 septembre 2023 et a donné
+lieu à un rapport d’expertise complémentaire du 22 septembre 2023.
+Par avis du 23 octobre 2023, le Président a informé les requérants et l’Office qu’il
+n’y aurait pas d’audience avant qu’il ne rende sa décision sur la nouvelle estimation
+du gage et a fixé aux requérants un délai pour se déterminer sur le complément
+d’expertise.
+Le 2 novembre 2023, les requérants ont déposé leurs déterminations, reprochant en
+particulier à l’expert «
+de
+ne pas véritablement tenir compte de la qualité exceptionnelle de l’objet
+»,
+notamment de ses matériaux et de sa situation, et de ne pas mentionner «
+à
+tout le moins suffisamment
+» qu’il
+est «
+non seulement
+possible d’agrandir la construction, voire de construire une dépendance, mais également
+d’édifier une seconde construction
+».
+Ils ont requis la tenue d’une audience «
+au
+vu de l’importance des différences entre les estimations des expertises
+».
+Par lettre aux requérants et à l’Office du 13 novembre 2023, le Président a indiqué
+qu’une audience ne paraissait pas de nature à permettre de résoudre l’affaire au
+vu des expertises produites et de leurs positions respectives et leur a imparti un délai pour déposer
+d’ultimes déterminations écrites.
+Par lettre du 16 novembre 2023, l’Office a rappelé que la réalisation du bien-fonds aurait
+lieu ultérieurement dans le cadre d’enchères publiques, sous réserve de l’art.
+143b al. 1 LP (vente de gré à gré).
+Les requérants se sont déterminés le 30 novembre 2023 en se prévalant du droit d’être
+entendu, impliquant selon eux une audience contradictoire dès lors qu’ils contestaient en
+particulier la valeur estimée de l’immeuble, ainsi que la zone de classification et la valeur
+de construction du bien retenues dans l’expertise. Ils se sont en outre opposés à ce
+qu’une moyenne soit retenue entre les deux valeurs arrêtées par l’une et l’autre
+expertise. Ils se sont prévalu d’une estimation sensiblement plus importante, au besoin moyennant
+une nouvelle expertise, mettant en avant le besoin d’une estimation financière précise
+avant d’organiser la vente sur la base d’une valeur plancher minimale.
+Par lettre du 4 décembre 2023, le Président a fait savoir au conseil des requérants que
+le droit d’être entendu de ses mandants avait été respecté, au vu de ses écritures,
+et qu’une décision allait être rendue.
+2.
+Par décision du 4 mars 2024, le Président, statuant en sa qualité d’autorité
+inférieure de surveillance, a arrêté à 6'750'000 fr. la valeur vénale de la
+parcelle RF 12607 de la Commune de [...] (I), a invité l’Office à modifier les procès-verbaux
+d’estimation des gages nos 710'786’550 et 710'786’554 conformément au chiffre
+I ci-dessus (II), a mis les frais de l’expertise Piot, arrêtés à 4'846 fr. 50 et
+985 fr. 95, à la charge des requérants, solidairement entre eux (III), a mis les frais judiciaires,
+arrêtés à 150 fr., à la charge des requérants, solidairement entre eux, ces
+frais étant provisoirement laissés à la charge de l’Etat, et a rappelé l’obligation
+de remboursement de l’assistance judiciaire (IV et V).
+En substance, l’autorité précédente a d’abord rappelé le rôle défini
+pour l’estimation du gage par la jurisprudence fédérale et la possibilité de procéder
+à une moyenne en présence d’estimations différentes s’il n’y avait pas
+de motif objectif de se référer à l’une plutôt qu’à l’autre,
+ainsi que l’absence de droit à une troisième expertise (cf. décision pp. 8-9). Elle
+a comparé ensuite les mérites de chacune des expertises et a constaté que le rapport Piot
+était plus détaillé et précis que celui présenté par de Rham SA, l’expert
+Piot ayant relevé toutes les qualités particulières que présentait le bien en cause,
+sans oublier d’énumérer les inconvénients relevés et sans omettre de prendre
+position sur les possibilités d’étendre la surface construite de la parcelle, contrairement
+à ce que soutenaient les requérants ; sur ce point, l’autorité précédente
+a considéré que l’estimation des requérants du prix du m2 de terrain à 1'500
+fr., au lieu de 1'126 fr. comme retenu par l’expert, reposait uniquement sur leur appréciation
+subjective. Elle a considéré également qu’il se justifiait de prendre en compte
+le rapport Piot uniquement (y compris son complément), lequel échappait à toute critique,
+et d’arrêter la valeur vénale à 6'750'000 fr. sans prendre en compte l’abattement
+de liquidation de 5 % suggéré par l’Office, dès lors que selon l’art.
+9 al. 1, 1
+re
+phrase, ORFI, c’était bien la valeur vénale de l’immeuble qui devait être
+estimée. L’Office a ainsi été invité à modifier les procès-verbaux
+d’estimation dans le sens qui précède. Par ailleurs, les requérants étant à
+l’origine de la nouvelle estimation, ils devaient en supporter les frais, arrêtés par
+décisions des 16 et 26 octobre 2023, solidairement entre eux.
+3.
+Par recours du 13 mars 2023, F.________ et H.________ (ci-après : les recourants) ont conclu,
+avec suite de frais, principalement à l’annulation du prononcé précité, au
+retranchement de toutes les expertises mises en œuvre, que ce soit par l’Office ou par l’autorité
+inférieure, et à la mise en œuvre d’une nouvelle expertise destinée à
+évaluer la valeur du gage ; subsidiairement, ils ont conclu à l’annulation de la
+décision et au renvoi de la cause à l’autorité inférieure de surveillance pour
+nouvelle décision dans le sens des considérants, après tenue d’une audience contradictoire.
+La requête d’octroi de l’effet suspensif sous la forme d’une suspension provisoire
+de toutes les poursuites engagées à leur encontre a été rejetée par décision
+du président de la cour de céans prenant date le 18 mars 2024.
+L’Office n’a pas été invité à se déterminer.
+En droit :
+I.
+a)
+Les décisions qui ne relèvent pas du juge, notamment celles qui sont rendues par les offices
+des poursuites et faillites et les autorités de surveillance, ne sont pas régies par le CPC
+(Code de procédure civile ; RS 272) mais – comme par le passé – par une procédure
+administrative spéciale, les cantons demeurant compétents pour la définir et prévoir,
+le cas échéant, une voie de droit (Message CPC du 28 juin 2006, FF 2006 6841 ss, p. 6875 ;
+Vock/Nater, Basler Kommentar, Schweizerische Zivilprozessordnung, 3e éd. 2017, nn. 8 et 9 ad art.
+1 ZPO [CPC] ; Haldy, in Bohnet et alii, Code de procédure civil commenté, 2e éd., 2019,
+nn. 17 et 18 ad art. 1 CPC ; Berger, Berner Kommentar, Schweizerische Zivilprozessordnung, Berne 2012,
+n. 39 ad art. 1 ZPO ; Schenker, in Baker/McKenzie (éd.), Schweizerische Zivilprozessordnung, Berne
+2010, nn. 11 et 12 ad art. 1 ZPO), sous réserve des dispositions spéciales de la LP (loi fédérale
+sur la poursuite pour dettes et la faillite ; RS 281.1) relatives à la plainte (cf. notamment art.
+17, 18 et 20a al. 2 et 3 LP).
+b)
+Même
+si le délai pour demander une nouvelle estimation est celui de la plainte (art. 17 al. 2 LP), une
+telle demande ne vise pas l’annulation ou la modification d’une mesure contraire à la
+loi ou injustifiée en fait. Il ne s'agit donc pas d'une plainte au sens strict, mais plutôt
+d’une requête « administrative normale » relative à l’activité de
+l’organe d’exécution forcée (ATF 131 III 136 consid. 3.2.1, JdT 2007 II 58 ; Zopfi,
+in Commentaire ORFI, n. 9 ad art. 9 ORFI, p. 30).
+Selon la jurisprudence
+de la cour de céans, la décision de l’autorité inférieure de surveillance relative
+à l’estimation d’un immeuble objet d’un gage peut faire l’objet d’un
+recours régi par les art. 18 LP et 28 à 33 LVLP (loi d'application dans le canton de Vaud de
+la LP ; BLV 280.05) (CPF 20 octobre 2023/30 consid. I et les autres arrêts cités).
+c)
+Le recours, déposé dans les dix jours dès réception de la décision attaquée,
+soit en temps utile, comporte l'énoncé des moyens invoqués et des conclusions. Il est
+ainsi recevable formellement (art. 18 LP et 28 LVLP). Les pièces produites à l’appui
+du recours sont également recevables (art. 28 al. 4 LVLP).
+II.
+a) aa)
+Selon l’art. 9 al. 1 ORFI (ordonnance du Tribunal fédéral sur la réalisation forcée
+des immeubles ; RS 281.42), applicable également à la poursuite en réalisation de
+gage immobilier par renvoi de l'art. 99 al. 1 ORFI, l'estimation doit déterminer la valeur vénale
+présumée de l'immeuble et de ses accessoires, sans égard au montant de la taxe cadastrale
+ou de la taxe de l'assurance contre l'incendie.
+Aux termes de l'art. 9 al. 2 ORFI, applicable non seulement à l'estimation d'un immeuble saisi dans
+une poursuite ordinaire, mais également en matière de poursuite en réalisation de gage
+immobilier, par renvoi de l'art. 99 al. 2 ORFI, chaque intéressé a le droit d'exiger, en s'adressant
+à l'autorité de surveillance dans le délai de dix jours dès réception de l'estimation
+de l'Office, et moyennant avance des frais, qu'une nouvelle estimation de l'immeuble à réaliser
+soit faite par un expert.
+L'estimation doit déterminer la valeur vénale présumée de l'immeuble à réaliser,
+à savoir le produit prévisible de la vente, mais sans devoir être « la plus
+élevée possible ». Elle ne préjuge en rien du prix qui sera effectivement obtenu
+lors des enchères ; tout au plus peut-elle fournir aux enchérisseurs un point de repère
+quant à l'offre envisageable (ATF 129 III 595 consid. 3.1; TF 5A_676/2023 du 8 décembre 2023
+consid. 3.1.2 ; TF 5A_34/2023 du 22 août 2023 consid. 2.3.1 ; TF 5A_421/2018 du 13 novembre
+2018 consid. 6.2.2 ; TF 5A_672/2018 du 29 octobre 2018 consid. 3.1.3). Elle doit englober tous les critères
+susceptibles d'influer sur le prix d'adjudication, notamment les normes du droit public qui définissent
+les possibilités d'utilisation du bien-fonds à réaliser (ATF 143 III 532 consid. 2.2 et
+2.3 et les références ; TF 5A_676/2023 précité loc. cit.).
+Dans la poursuite en réalisation du gage, l'estimation n'a qu'un rôle secondaire, en tant qu'elle
+ne donne qu'un ordre d'idée d'une offre acceptable aux intéressés, sans laquelle le produit
+attendu ne serait pas atteint. La fonction qu'elle revêt dans la procédure de saisie, où
+elle fixe l'étendue de la saisie (art. 97 al. 2 LP) et vise à informer les créanciers
+sur l'issue probable de l'exécution (art. 112 al. 1 LP), est sans portée (ATF 135 I 102 consid.
+3.2.2 et 3.2.3 ; TF 5A_676/2023 et 5A_421/2018 précités loc. cit. ; TF 5A_342/2016 du 7 juillet
+2016 consid. 2.1).
+bb)
+En application de l’art. 20a al. 2 ch. 2 LP, les autorités cantonales de surveillance constatent
+les faits d’office. Elles peuvent demander aux parties de collaborer et déclarer irrecevables
+leurs conclusions lorsque les parties refusent de prêter le concours nécessaire que l’on
+peut attendre d’elles (ATF 123 III 328 consid. 3, JdT 1999 II 26). La maxime inquisitoire a en
+outre des limites. Elle n’oblige pas le tribunal à étendre la procédure probatoire
+et à administrer tous les moyens de preuve envisageables. L’administration des preuves doit
+demeurer dans un cadre raisonnable et l’autorité d’instruction doit ne pas perdre de
+vue que la procédure d’exécution forcée, dans laquelle les questions de droit matériel
+n’entrent plus en ligne de compte, doit être rapide (ATF 125 III 231 consid. 4a ; ATF 123
+III 328 précité ; TF 5A_546/2017 du 6 octobre 2017 consid. 3.1 ; TF 5A_681/2016 du 24
+novembre 2016 consid. 3.1.3 et les références citées).
+En particulier, l'autorité cantonale de surveillance statue en dernier ressort sur les contestations
+relatives au montant de l'estimation, soit définitivement, car il s'agit là de questions d'appréciation
+(ATF 120 III 79 consid. 1 ; TF 5A_676/2023 précité consid. 3.1.1). Les participants n'ont
+pas de droit à obtenir une sur-expertise, même dans les cantons qui ont instauré deux
+autorités de surveillance et même si l'office a effectué lui-même la première
+estimation (TF 5A_676/2023 précité loc. cit. ; TF 5A_421/2018 précité consid.
+6.2.1; TF 5A_672/2018 précité consid. 3.3.3). Ainsi, dans l’hypothèse où c’est
+l’office lui-même qui procède à la première estimation, les intéressés
+ont droit à une nouvelle estimation, effectuée par un expert, mais pas ensuite à une troisième
+estimation (ou deuxième expertise ou sur-expertise) ; dans l’hypothèse où l’office
+recourt aux services d’un expert pour la première estimation du gage, les intéressés
+ont droit à une nouvelle estimation effectuée par un expert, soit une seconde expertise, mais
+pas davantage à une troisième expertise. Cette règle vise à éviter que, par
+des requêtes réitérées d'une nouvelle estimation, la procédure de réalisation
+forcée ne soit indûment traînée en longueur (ATF 120 III 135 consid. 2 ; TF
+5A_676/2023 et 5A_421/2018 précités loc. cit.). Pour sa part, le Tribunal fédéral
+vérifie seulement si l'autorité cantonale de surveillance a respecté la procédure
+prévue et si elle n'a pas excédé ou abusé du pouvoir d'appréciation dont elle
+dispose. Une telle hypothèse est réalisée lorsqu'elle a pris des critères en considération
+qui n'auraient pas dû jouer de rôle, ou si au contraire, elle a ignoré des circonstances
+pertinentes (ATF 134 III 42 consid. 3 et les références ; TF 5A_676/2023 et 5A_421/2018
+précités loc. cit. ; TF 5A_672/2018 précité consid. 3.1.1 ; TF 5A_692/2017 du 19
+mai 2018 consid. 2.1).
+b)
+Les recourants reprochent à l’autorité inférieure de surveillance de n’avoir
+pas tenu compte de tous les éléments permettant une appréciation précise, complète
+et sûre de la valeur du gage. Selon eux, la décision attaquée serait susceptible d’entraîner
+un grave préjudice financier, tant pour eux que pour le créancier-gagiste. En particulier,
+ils contestent la valeur du m2 de terrain retenue par l’expert et font valoir divers arguments
+pour exposer à quel point la situation de leur bien-fonds est exceptionnelle dans la région
+lausannoise et comment le prix du m2 de terrain a plus que doublé durant les dernières décennies
+(1). Ils contestent aussi le nombre de m2 habitables retenu par l’expert, qui n’aurait pas
+pris en compte la surface aménagée de 60 m2 construite au-dessus des garages, disposant d’une
+entrée séparée et qui pourrait être louée car aisée à aménager,
+ou devenir une extension de la villa existante, ou encore un appartement de fonction. Ils contestent
+enfin la division effectuée par l’expert de la valeur globale de la construction par le nombre
+de m2 de surface parcellaire et non par le nombre de m2 purement habitables, ce qui devrait porter le
+m2 habitable à 4'520 fr. le m2 selon eux (2). Ils contestent ensuite la valeur retenue pour le m3
+en lien avec la qualité de la construction, eu égard aux matériaux de luxe utilisés
+(parquets, espaces de rangement intégrés, le tout en bois de grande qualité), de la qualité
+de l’insonorisation, de la protection thermique, des murs antisismiques, des possibilités
+de parcage couvert et extérieur, de la piscine et enfin du jardin doté d’essences rares.
+Il en résulterait une valeur au m3 non inférieure à 1'500 francs (3). Les recourants critiquent
+également la trop faible importance accordée selon eux par l’expert à l’environnement
+et à l’absence de nuisances sonores qui en découlerait (absence de trafic de passage,
+tranquillité, haut de parcelle en zone agricole) (4). Ils reprochent par ailleurs à l’expert
+de n’avoir pas tenu compte de la rareté du bien sur le marché (5). Enfin, ils reviennent
+sur les possibilités de construction, qui devraient tenir compte de la valeur utilisable du sous-sol
+de la villa, de l’appartement de fonction de 60 m2 déjà mentionné et doté de
+toutes les commodités pour permettre son occupation immédiate, de la surface des combles, également
+utilisable, et enfin du coefficient de construction, sous-utilisé en l’état (6). Pour
+terminer, ils contestent la valeur attribuée par l’expert aux aménagements extérieurs,
+qui auraient nécessité un investissement de 450'000 fr. déjà en 1992, époque
+de la construction, vu la pente du terrain, l’arrosage automatique installé, l’aménagement
+du niveau du terrain et les plantations d’essences rares, ainsi que l’aménagement de
+la piscine extérieure (7). Ils en déduisent que la valeur globale de leur bien, comparée
+à une villa voisine dotée de bien moins d’atouts s’étant vendue récemment
+à 7'700'000 fr., a été gravement sous-évaluée (8). Une nouvelle expertise serait
+donc nécessaire (9).
+Les recourants opposent leurs propres critères d’appréciation à ceux retenus par
+l’expert Piot, dont le rapport a été jugé détaillé, précis et complet
+par l’autorité inférieure de surveillance, sans toutefois étayer leur appréciation
+par des références à des éléments de l’instruction qui devraient permettre
+de contrer l’expert, ni prouver d’une quelconque autre manière les éléments
+qu’ils mettent en avant. En réalité, nonobstant la maxime d’office applicable,
+il faut constater que les griefs exposés par les recourants sont insuffisamment étayés
+pour emporter la conviction, même au degré de la vraisemblance.
+Il faut surtout relever que les recourants se méprennent sur la fonction de l’estimation et
+sur la possibilité concrète d’obtenir une estimation plus élevée de leur bien-fonds
+dans le cadre de la procédure de poursuite en réalisation de gage. Comme cela ressort de la
+jurisprudence appliquée à bon escient par le premier juge, l’estimation du gage en tant
+que telle n’a pour but que de fournir un ordre d'idée d'une offre acceptable aux intéressés,
+sans laquelle le produit attendu de la réalisation ne serait pas atteint. Son caractère secondaire
+est souligné par la jurisprudence applicable. L’estimation du gage n’a en particulier
+pas pour vocation de déterminer la valeur la plus élevée possible. Elle ne préjuge
+en rien du prix qui sera effectivement obtenu lors des enchères ; tout au plus peut-elle fournir
+aux enchérisseurs un point de repère quant à l'offre envisageable.
+Par ailleurs, la possibilité d’obtenir une sur-expertise est largement limitée dans ce
+cadre, comme cela ressort également de la jurisprudence appliquée par le premier juge et rappelée
+ci-dessus. Or, les recourants ont déjà obtenu une deuxième estimation du gage par un expert
+après avoir remis en cause le rapport d’expertise de Rham SA ; ils ne disposent donc
+pas d’un droit à obtenir une sur-expertise. Ils ont par ailleurs eu la possibilité de
+soumettre en substance les mêmes arguments que ceux développés à l’appui du
+présent recours à l’appui de leur requête de complément d’expertise,
+sur lesquels l’expert Piot a pris position. Pour contrer cette appréciation de l’expert
+- qui, contrairement à ce que les recourants soutiennent, a pris en compte les arguments mis en
+avant par ces derniers mais ne leur a pas forcément accordé le même poids -, les recourants
+ne peuvent se limiter à faire valoir une nouvelle fois leur appréciation subjective des qualités
+de leur immeuble, mais doivent étayer leur position, ce qu’ils ne font pas. Comme relevé
+par le premier juge, le rapport d’expertise Piot apparaît détaillé, précis
+et complet et rien ne justifie de mettre en œuvre une troisième expertise, a fortiori dans
+le cadre d’une procédure qui se veut rapide, comme souligné par la jurisprudence topique.
+On observera encore que contre la désignation de l’expert Piot, les recourants ont sollicité
+le choix d’un expert spécialisé dans le marché immobilier lausannois, mais n’ont
+pas fourni le moindre nom d’expert présentant une telle qualification. Cette attitude et la
+contestation systématique du résultat de l’expertise sans l’étayer davantage
+laissent à penser que la démarche a essentiellement pour but de retarder l’issue de la
+procédure de réalisation forcée, ce que veut précisément éviter la jurisprudence.
+A défaut de démontrer concrètement l’existence de motifs pour lesquels on devrait
+constater le caractère lacunaire du rapport d’expertise Piot et de son complément, le
+recours doit être rejeté et la décision attaquée confirmée.
+III.
+Les recourants ont sollicité l’assistance judicaire.
+a)
+Le principe de l’octroi ou du refus de l'assistance judiciaire en procédure de plainte LP
+n'est pas soumis à l'art. 117 CPC (Code de procédure civile ; RS 272) – ce code
+régissant cependant par analogie les questions de procédure en matière d'assistance judiciaire
+–, mais à l'art. 29 al. 3 Cst. (Constitution fédérale ; RS 101). En vertu de cette
+disposition, toute personne qui ne dispose pas de ressources suffisantes a droit à l'assistance
+judiciaire gratuite, à moins que sa cause ne paraisse dépourvue de toute chance de succès.
+Elle a en outre droit à la commission d’office d’un conseil juridique, dans la mesure
+où la sauvegarde de ses droits le requiert. La procédure de plainte étant gratuite (art.
+20a al. 2 ch. 5 LP), seule la question de l'assistance d'un avocat doit être examinée.
+b)
+Eu égard au sort du recours ainsi qu’au fait que les recourants ne font que reproduire dans
+leur mémoire les mêmes arguments que ceux déjà développés devant l’autorité
+inférieure de surveillance pour obtenir une troisième expertise, sans étayer d’une
+quelconque autre manière leur position, et cela dans le cadre d’une jurisprudence extrêmement
+restrictive sur la possibilité d’obtenir une sur-expertise, le bénéfice de l’assistance
+judiciaire doit leur être refusé, faute de chance de succès.
+IV.
+La présente décision est rendue sans frais ni dépens (art. 20a ch. 5 LP : art.
+61 al. 2 let. a et 62 al. 2 OELP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+La requête d’assistance judiciaire des recourants est rejetée.
+IV.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Michel Dupuis, avocat (pour F.________ et H.________),
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
