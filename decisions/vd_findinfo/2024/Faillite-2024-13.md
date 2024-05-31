@@ -1,0 +1,176 @@
+---
+decision_id: "vd_findinfo_Faillite___2024___13"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2024 / 13"
+decided: "2024-05-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9868053"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-396.md", "switzerland/bund/acts/272/art-068.md", "switzerland/bund/acts/272/art-132.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2024 / 13
+
+## Regeste
+
+PROCURATION, PROCURATION SPÉCIALE, PROLONGATION DU DÉLAI, DÉLAI FIXÉ PAR L'AUTORITÉ, VICE DE FORME | 396 al. 3 CO, 132 al. 1 CPC (CH), 68 al. 3 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2024 / 13
+
+PROCURATION, PROCURATION SPÉCIALE, PROLONGATION DU DÉLAI, DÉLAI FIXÉ PAR L'AUTORITÉ, VICE DE FORME | 396 al. 3 CO, 132 al. 1 CPC (CH), 68 al. 3 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF23.052917-240199
+101
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+31 mai 2024
+__________________
+Composition
+:              M.
+Hack
+,
+président
+Mmes
+Giroud Walther et  Cherpillod, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+396 al. 3 CO ; 68 al. 3, 132 al. 1 CPC
+Vu le jugement rendu le 15 janvier 2024 par la Présidente du Tribunal d’arrondissement de
+la Broye et du Nord vaudois prononçant, avec effet le 15 janvier 2024 à 16 h 45, la faillite
+de
+T.________
+Sàrl
+, à [...], sur requête de
+Caisse
+R.________
+, à [...], ordonnant la liquidation
+sommaire de la faillite et mettant les frais judiciaires, arrêtés à 200 fr., à la
+charge de la faillie,
+vu l’écriture datée du 23 janvier 2024 et remise à la poste le lendemain dans laquelle
+M.________ SA, déclarant agir au nom de la faillie, demande à la Présidente du Tribunal
+d’arrondissement de la Broye et du Nord vaudois d’annuler la faillite,
+vu la procuration «
+commerciale
+»
+signée le 1
+er
+octobre 2022 par l’associé gérant de T.________ Sàrl et reçue par le tribunal
+d’arrondissement le 25 janvier 2024, donnant procuration à M.________ SA «
+aux
+fins de la représenter et d’agir en son nom pour toutes tâches administratives, principalement
+afin d’accomplir la tenue d’un mandat de gestion, comptabilité, fiscalité (…)
+»,
+la procuration comportant «
+notamment
+tous pouvoirs d’agir auprès des administrations compétentes, des assurances sociales
+ou privées et de représenter valablement devant tous les bureaux administratifs ou commerciaux
+(…)
+»
+vu le courrier de la présidente du 14 février 2024 informant M.________ SA qu’après
+examen du dossier elle interprétait l’écriture du 23 janvier 2024 comme un recours
+et la transmettait à la cour de céans comme objet de sa compétence, la procédure
+de restitution de délai étant suspendue jusqu’à droit connu sur le recours,
+vu l’avis du président de la cour de céans du 22 février 2024 avisant M.________
+SA que la procuration générale produite en première instance n’était pas suffisante,
+lui impartissant un délai prolongeable échéant le 5 mars 2024, ultérieurement prolongé
+au 15 mars 2024, pour produire une procuration l’autorisant à recourir, faute de quoi le recours
+pourrait être déclaré irrecevable, et précisant que l’effet suspensif prononcé
+en première instance demeurait en vigueur,
+vu le courrier recommandé du 25 mars 2024, notifié à M.________ SA le lendemain, lui impartissant
+un délai supplémentaire de dix jours pour produire une procuration l’autorisant à
+recourir,
+vu l’écriture du 22 avril 2024 de Me Raphaël Tatti, au bénéfice d’une
+procuration, requérant notamment de pouvoir consulter le dossier,
+vu les autres pièces du dossier ;
+attendu que l’écriture déposée le 24 janvier 2024 l’a été dans le
+délai de dix jours de l’art. 174 al. 1 LP (loi fédérale du 11 avril 1889 sur la
+poursuite pour dettes et la faillite ; RS 281.1) ;
+attendu que, selon l’art. 68 al. 1 CPC applicable à la procédure sommaire régissant
+le prononcé de faillite (art. 251 let. a CPC), toute personne capable d’ester en justice peut
+se faire représenter au procès,
+que l’art. 68 al. 3 CPC prescrit que le représentant doit justifier de ses pouvoirs par une
+procuration,
+que d’après la doctrine, l’introduction de la règle de l’art. 68 al. 3 CPC
+a entraîné la suppression de la mention de l’ouverture d’un procès dans la
+liste des actes nécessitant une procuration spéciale de l’art. 396 al. 3 CO (Code des
+obligations du 30 mars 1911 ; RS 220) (Müller, Contrats de droit suisse, 2021, n° 2672,
+pp. 571-572 ; Werro, in Thevenoz/Werro (éd.), Commentaire romand CO I, 3
+e
+éd, 2021, n. 13 ad art. 396 CO et références),
+que, toutefois, cette suppression ne change rien à l’obligation pour le représentant
+de produire une procuration spéciale pour pouvoir agir devant les tribunaux (ibidem),
+qu’en l’espèce, la procuration commerciale produite ne couvre que des tâches administratives
+dans le cadre d’un mandat de gestion, comptabilité, fiscalité, auprès des administrations
+compétentes, des assurances sociales ou privées, ainsi que la représentation devant tous
+les bureaux administratifs ou commerciaux,
+qu’elle ne mentionne en revanche pas expressément la représentation devant les tribunaux
+et les pouvoirs d’intenter un procès, respectivement de déposer un recours,
+que les conditions de l’art. 68 al. 3 CPC et 396 al. 3 CO ne sont pas réalisées,
+que la procuration produite n’est pas valable devant la cour de céans ;
+attendu que selon l’art. 132 al. 1 CPC, le tribunal fixe un délai pour la rectification des
+vices de forme telle l’absence de signature ou de procuration,
+qu’à défaut de correction dans le délai, l’acte n’est pas pris en considération
+(art. 132 al. 1 in fine CPC), ce qui signifie, pour une requête ou une demande, l’irrecevabilité
+de celle-ci (Bohnet, in Bohnet et alii (éd.), Commentaire romand, Code de procédure civile,
+2
+e
+éd., 2019, n. 30 ad art. 132 CPC),
+qu’en l’espèce, un délai échéant au 5 mars 2024, ultérieurement
+prolongé au 15 mars 2024, puis de dix jours dès le 26 mars 2024, a été imparti à
+M.________ SA pour produire une procuration étant précisé qu’à défaut
+de correction du vice, il ne serait pas entré en matière sur le recours,
+que M.________ SA n’a produit aucune procuration dans ces délais prolongés,
+que celle produite par Me Tatti le 22 avril 2024 l’a été tardivement,
+que le recours du 24 janvier 2024 est en conséquence irrecevable pour défaut de production
+d’une procuration,
+attendu que le présent arrêt est rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Raphaël Tatti, avocat (pour T.________ Sàrl),
+‑
+Caisse R.________,
+-
+M. le Préposé à l'Office des poursuites du district du Jura-Nord vaudois,
+-
+Mme la Préposée à l'Office des faillites de l'arrondissement de la Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de la Broye et du Nord vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de la Broye et du Nord vaudois.
+Le greffier :
