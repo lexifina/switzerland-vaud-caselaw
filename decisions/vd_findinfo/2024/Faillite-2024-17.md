@@ -1,0 +1,186 @@
+---
+decision_id: "vd_findinfo_Faillite___2024___17"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2024 / 17"
+decided: "2024-06-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9897206"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2024 / 17
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, MOYEN DE DROIT, PAIEMENT | 174 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2024 / 17
+
+OUVERTURE DE LA FAILLITE, MOYEN DE DROIT, PAIEMENT | 174 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FF24.002211-240515
+113
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+18 juin 2024
+__________________
+Composition
+:              M.
+Hack
+,
+président
+Mmes
+Byrde etCherpillod, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+174 al. 2 LP
+Vu la requête de faillite du 15 janvier 2024 adressée au
+Tribunal
+d’arrondissement de l’Est vaudois
+par
+S.________
+,
+à Winterthur,
+au bénéfice
+d’une commination de faillite exécutoire
+n°
+10'994’437 de l’Office des poursuites du district de Lavaux-Oron portant sur la somme de
+11'115 fr. 10
+plus accessoires
+légaux, dirigée contre
+P.________
+,
+à Pully,
+vu l’audience tenue par défaut
+des parties le 20 février 2024,
+vu le jugement rendu le 20 février 2024 par lequel la Présidente du Tribunal d’arrondissement
+de l’Est vaudois a prononcé la faillite de P.________, avec effet au 20 février
+2024 à 16h00,
+vu la requête de restitution de délai déposée par P.________ le 1
+er
+mars 2024,
+vu la décision du 4 mars 2024 par laquelle la présidente a prononcé l’effet suspensif
+jusqu’à droit connu sur la requête de restitution de délai et a fixé une audience
+au 19 mars 2024 pour statuer sur la requête de restitution et sur la faillite,
+vu la tenue de l’audience du 19 mars 2024 en présence de la faillie,
+vu la demande de suspension de cause du 21 mars 2024 de S.________,
+vu le courrier de la présidente du 22 mars 2024 impartissant à S.________ un délai au
+2 avril 2024 pour lui faire savoir si sa requête de faillite était retirée ou maintenue,
+et précisant qu’à défaut de nouvelles dans le délai imparti, sa requête
+serait considérée comme maintenue,
+vu le jugement rendu 9 avril 2024 par lequel la Présidente du Tribunal d’arrondissement de
+l’Est vaudois a admis la requête de restitution de délai (I), a prononcé la faillite
+de P.________, avec effet au 8 avril 2024 (II) et a mis les frais judiciaires, par 400 fr., à la
+charge de la faillie (III),
+vu l’acte de recours déposé le 18 avril 2024 par P.________, qui conclut implicitement
+à l’annulation de la faillite,
+vu les autres pièces du dossier ;
+attendu que la voie du recours au sens des art. 319 ss CPC (Code de procédure civile du 19 décembre
+2008 ; RS 272) est ouverte contre le jugement de faillite (art. 174 al. 1 LP [loi fédérale
+du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1]),
+qu’en l’espèce, la faillite de la recourante a été prononcée une première
+fois le 20 février 2024,
+que la requête en restitution de délai que la faillie avait déposée suite à
+ce jugement, le 1
+er
+mars 2024, a été admise par décision du 9 avril 2024, ce qui a eu pour effet de mettre
+à néant le jugement de faillite du 20 février 2024 (CPF 23 mars 2023/22 ; CPF 4 octobre
+2022/139 ; cf. Tappy, in Bonhet et alii (éd.) Commentaire romand, Code de procédure civile,
+2
+e
+éd., 2019, n. 5 ad art. 148 CPC),
+que dans le jugement du 9 avril 2024, la faillite de la recourante a à nouveau été prononcée,
+que dans un tel cas – lorsque la demande de restitution de délai a été admise et
+la faillite prononcée – le recours de l’art. 174 LP est ouverte contre le nouveau jugement
+de faillite,
+que le recours du 18 avril 2024, dirigé contre le jugement du 9 avril 2024, déposé en
+temps utile et motivé (art. 321 al. 1 et 2 CPC), est dès lors recevable ;
+attendu
+qu'en vertu de l'art. 174 al. 2 LP, l'autorité de recours peut annuler le jugement de faillite lorsque
+le débiteur rend vraisemblable sa solvabilité et qu'il établit par titre que la dette
+à l'origine de la faillite, intérêts et frais compris, a été payée,
+ou que la totalité du montant à rembourser a été déposée auprès de
+l'autorité judiciaire supérieure à l'intention du créancier, ou encore que celui-ci
+a retiré sa réquisition de faillite,
+que ces deux conditions, remboursement (ou dépôt ou retrait) et solvabilité, sont cumulatives
+(TF 5A_471/2023 du 12 octobre 2023 consid. 3.1.2 ;  5A_600/2020 du 29 septembre 2020 consid.
+3.1 ; 5A_1009/2017 du 16 février 2018 consid. 3.2 et l’arrêt cité),
+qu’en l’espèce, la recourante indique avoir pu réunir une somme de 9'500 euros
+« qui va me permettre dès votre accord de verser un important acompte sur la dette
+auprès de S.________»,
+que force est de constater que, de l’aveu même de la recourante, la poursuite n° 10'994’437
+à l’origine de la faillite n’a pas été acquittée,
+que la première des conditions légales pour annuler la faillite n'est ainsi pas réalisée,
+qu’en ce qui concerne sa solvabilité, la recourante n'apporte aucun élément probant
+susceptible de rendre celle-ci vraisemblable,
+qu’on observe que selon un extrait de l’office des poursuites du 15 avril 2024, la société
+faisait l’objet, à cette date, de cinq actes de défaut de biens totali-sant 9'591 fr.
+40, ainsi que de trois poursuites pour un montant total de 14'474 fr. 50, en plus de celle à l’origine
+de faillite (qui se montait à 11'626 fr. 90 ledit jour),
+que, par conséquent, la deuxième condition pour annuler la faillite n’est pas
+non plus réalisée ;
+attendu que le recours, manifestement infondé au sens de l'art. 322 al. 1 CPC, ne
+peut qu’être rejeté et le jugement attaqué confirmé,
+que les frais judiciaires de deuxième instance, arrêtés à 300 fr., sont mis à
+la charge de la recourante, qui succombe (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+P.________,
+‑
+S.________,
+-
+M. le Préposé à
+l'Office des poursuites du district de
+Lavaux-Oron,
+-
+M. le Préposé à
+l'Office des faillites de l'arrondissement
+de
+l’Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de l’Est vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois.
+La greffière :
