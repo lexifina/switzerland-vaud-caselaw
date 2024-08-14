@@ -1,0 +1,274 @@
+---
+decision_id: "vd_findinfo_Plainte___2024___27"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2024 / 27"
+decided: "2024-08-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/9964030"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-008a.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-088.md"]
+---
+
+# VD Findinfo Plainte / 2024 / 27
+
+## Regeste
+
+REGISTRE DES POURSUITES, TIERS, COMMUNICATION | 8a al. 3 let. d LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2024 / 27
+
+REGISTRE DES POURSUITES, TIERS, COMMUNICATION | 8a al. 3 let. d LP
+
+TRIBUNAL
+CANTONAL
+FA23.046180-240414
+25
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+14 août 2024
+___________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Giroud Walther et Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+8a al. 3 let. d LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+H.________SA
+,
+à [...], contre la décision rendue le 12 mars 2024 par la Présidente du Tribunal
+d’arrondissement de l’Est vaudois, autorité inférieure de surveillance, rejetant
+les plaintes déposées par la recourante contre le refus de l’
+Office
+des poursuites du district de La Riviera - Pays-d'Enhaut
+de ne pas divulguer deux poursuites introduites à son encontre par
+P.________SA
+,
+à [...].
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+H.________SA fait l’objet des poursuites nos 10’848'332 et 10’848'334 de l’Office
+des poursuites du district de La Riviera – Pays-d’Enhaut (ci-après : l’Office)
+introduites par P.________SA. Dans chacune de ces poursuites, le commandement de payer a été
+notifié le 6 juin 2023 à la poursuivie, qui a formé opposition totale.
+Par demande du 14 septembre 2023, H.________SA a sollicité de l’Office la non-divulgation
+au sens de l’art. 8a al. 3 let. d LP (loi fédérale sur la poursuite pour dettes et la
+faillite ; RS 281.1) des deux poursuites précitées, en indiquant ne pas avoir connaissance
+d’une demande de mainlevée ou d’une action en reconnaissance de dette qui aurait été
+introduite par la poursuivante en lien avec l’une ou l’autre de ces poursuites.
+Par avis du 27 septembre 2023, l’Office a informé P.________SA de la demande de non-divulgation
+des poursuites nos 10’848'332 et 10’848'334 et lui a fixé un délai au 19 octobre
+2023 pour lui indiquer, pour chacune de ces poursuites, si elle avait demandé la mainlevée
+de l’opposition ou intenté une action en justice ou si la débitrice s’était
+acquittée intégralement de sa dette.
+Par lettre du 11 octobre 2023, la poursuivante s’est opposée à la demande de non-divulgation
+des poursuites en cause en se prévalant d’une action en justice ouverte devant la Chambre
+patrimoniale cantonale par H.________SA, demanderesse, contre [...] et P.________SA, défendeurs.
+Elle a produit l’autorisation de procéder délivrée par la Chambre patrimoniale le
+8 août 2023 et a fait valoir que «
+sitôt
+le délai de réponse fixé
+»,
+elle invoquerait la compensation à l’encontre des conclusions en paiement prises par la demanderesse
+et que «
+les prétentions
+reconventionnelles sont pendantes avec la mainlevée des oppositions requises pour ces deux poursuites
+».
+Par décisions du 16 octobre 2023, l’Office a rejeté la demande de non-divulgation de
+chacune des deux poursuites concernées en indiquant comme motif : «
+Suite
+à l’autorisation de procéder du 8 août 2023 de la Chambre patrimoniale cantonale
+».
+2.
+Par deux plaintes séparées adressées le 27 octobre 2023 au Président du Tribunal
+d’arrondissement de l’Est vaudois, autorité inférieure de surveillance, H.________SA
+a conclu, dans chacune des poursuites en cause, à ce que la décision de l’Office du 16
+octobre 2023 soit annulée et la non-divulgation de la poursuite concernée à des tiers
+ordonnée.
+La Présidente du tribunal en charge du dossier a joint les deux plaintes, convoqué la plaignante
+et l’Office à son audience du 12 décembre 2023 et invité l’Office à se
+déterminer sur les plaintes dans un délai au 24 novembre 2023. Elle a par ailleurs informé
+P.________SA de l’audience à venir et du fait qu’elle pouvait y assister si elle le
+souhaitait.
+Par détermination du 14 novembre 2023, l’Office s’en est remis à l’appréciation
+du tribunal.
+Le conseil de la plaignante, les représentants de l’Office et le conseil de la créancière
+ont comparu à l’audience et ont été entendus. Selon le procès-verbal de l’audience,
+le conseil de la créancière a indiqué qu’en l’état, un incident de procédure
+était en cours d’examen devant la Chambre patrimoniale, de sorte que sa mandante n’avait
+pas encore pu déposer de réponse, aucun délai ne lui ayant été imparti à
+cet effet, mais qu’elle avait d’ores et déjà chiffré plus ou moins ses conclusions
+futures et entendait requérir la mainlevée.
+3.
+Par prononcé rendu le 12 mars 2024, notifié à la plaignante le lendemain, l’autorité
+précédente a rejeté les plaintes déposées le 27 octobre 2023 par H.________SA
+(I) et a dit que la décision était rendue sans frais (II). Après avoir rappelé que
+le but de l’art. 8a al. 3 let. d LP était de ne plus porter à la connaissance des tiers
+des poursuites dont le créancier restait inactif afin de faire valoir ses droits, elle a considéré
+que cette hypothèse n’était pas réalisée en l’espèce, dès lors
+que même si la procédure pendante devant la Chambre patrimoniale cantonale entre la plaignante
+et la créancière avait été initiée par la plaignante, la créancière
+avait confirmé qu’elle entendait y faire valoir ses prétentions en lien avec les poursuites
+litigieuses, une fois qu’un délai de réponse lui aurait été imparti, et qu’elle
+souhaitait requérir la mainlevée. L’autorité précédente en a conclu qu’on
+ne saurait considérer à ce stade que la poursuivante aurait fait preuve d’inaction et
+que l’Office avait ainsi à bon droit rejeté la demande de non-divulgation.
+4.
+Par recours posté le 25 mars 2024, la plaignante a conclu à la réforme du prononcé
+précité en ce sens que la non-divulgation à des tiers des deux poursuites en cause est
+ordonnée.
+Invitée à se déterminer sur le recours, l’intimée P.________SA a indiqué,
+par lettre de son conseil du 5 avril 2024, s’en remettre à justice.
+L’Office, par détermination du 8 avril 2024, a conclu au rejet du recours.
+En droit :
+I.
+Le recours a été déposé dans le délai de dix jours suivant la notification du
+prononcé attaqué (art. 18 al. 1 LP et 28 al. 1 LVLP [loi vaudoise d’application de la
+LP ; BLV 280.05]), dont l’échéance, tombant le samedi 23 mars 2024, était reportée
+au lundi suivant (art. 73 al. 3 LVLP). Il a été produit dans les formes requises (art. 28 al.
+1 et 2 LVLP), comporte des conclusions et est suffisamment motivé (TF 5A_118/2018 du 7 février
+2018 consid. 4.1 ; art. 28 al. 3 LVLP). Il est ainsi recevable.
+Les déterminations de l’intimée et de l’Office sont aussi recevables (art. 31 LVLP).
+II.
+a)
+Conformément à l'art. 8a al. 3 LP, l'office des poursuites ne donne pas connaissance d'une
+poursuite à des tiers dans certaines conditions (let. a-d). C'est notamment le cas lorsque le débiteur
+a déposé une demande en ce sens après l'expiration d'un délai de trois mois à
+compter de la notification du commandement de payer, pour autant que le créancier n'apporte pas
+la preuve, à l'expiration d'un délai de vingt jours fixé par l'office des poursuites,
+qu'une procédure d’annulation de l'opposition (art. 79-84 LP) a été engagée
+à temps ; si cette preuve est apportée ultérieurement ou si la poursuite est continuée,
+elle est portée à nouveau à la connaissance des tiers (art. 8a al. 3 let. d LP).
+L’adoption de cette nouvelle disposition, entrée en vigueur le 1er janvier 2019, faisait suite
+à une initiative parlementaire du 11 décembre 2009 («Annulation des commandements de payer
+injustifiés»), qui demandait que la LP soit modifiée de sorte que les poursuites injustifiées
+puissent être annulées plus rapidement et plus simplement et qu’elles ne soient plus
+portées à la connaissance de tiers. L’art. 8a al. 3 let. d LP lie la non-communication
+d'une poursuite au fait qu'une procédure d’annulation de l'opposition n’a pas été
+engagée à temps. Selon son texte clair, en effet, la preuve qu'une procédure d’annulation
+de l'opposition au sens des art. 79-84 LP (dont fait partie la procédure de mainlevée) a été
+engagée suffit à rendre la poursuite visible pour les tiers. L'élément déterminant
+est de savoir si le créancier prend des mesures pour démontrer le bien-fondé de sa créance
+dans le délai imparti (ATF 147 III 544 consid. 3.2 et 147 III 41 consid. 3.4.2 et 3.5). Selon le
+Tribunal fédéral, le dépôt d'une requête de mainlevée suffit déjà
+à démontrer le sérieux de la poursuite, et ce indépendamment du fait que celle-ci
+ait abouti ou non (ATF 147 III 544 consid. 3.4.1 et 147 III 41 consid. 3.3.4 et 3.4.2).
+Il ressort également des débats parlementaires que l'inaction du créancier après
+la notification du commandement de payer doit justifier la non-communication de la poursuite. Le débiteur
+injustement poursuivi doit pouvoir éviter que sa solvabilité ne soit atteinte si le poursuivant
+ne fait « aucun effort » pour continuer la poursuite. Le délai de trois mois
+à compter de la notification du commandement de payer repose à cet égard sur l'idée
+qu’on attend du créancier qu'il s'adresse rapidement au juge en vue de faire avancer la poursuite
+après qu’une opposition a été formée, car il part du principe que sa créance
+est fondée. Une simple action du créancier doit cependant suffire à limiter la non-communication
+de la poursuite ou à justifier sa communication (ATF 147 III 41 consid. 3.3.4).
+Selon l’Instruction n° 5 du Service de Haute surveillance LP (Office fédéral de
+la justice) relative au nouvel art. 8a al. 3 let. d LP du 18 octobre 2018, actualisée le 19 octobre
+2021 (file:///C:/Users/zju2799/Downloads/weisung-5-f-2.pdf), tout débiteur qui considère que
+la poursuite dont il fait l’objet est injustifiée et qui souhaite qu’elle ne soit plus
+portée à la connaissance de tiers doit procéder comme il suit. Le débiteur doit commencer
+par attendre trois mois à compter de la notification du commandement de payer. Si pendant ces trois
+mois (ou n’importe quand après, mais pas au-delà de l'expiration du délai annal
+de validité du commandement de payer prévu par l'art. 88 al. 2 LP ; ATF 147 III 544 consid.
+3), le créancier n’a engagé aucune procédure visant à faire annuler l’opposition
+(mainlevée provisoire ou définitive de l’opposition ou action en reconnaissance de dette),
+le débiteur peut déposer une demande tendant à ce que la poursuite dont il fait l’objet
+ne soit plus portée à la connaissance de tiers. Il envoie cette demande à l’office
+des poursuites auprès duquel la poursuite a été requise. L’office rejette la demande
+s’il sait qu’une procédure de mainlevée de l’opposition a été engagée
+concernant la poursuite contestée, voire que la continuation de la poursuite a été requise.
+S’il n’a pas connaissance de telles démarches, il demande au créancier de prendre
+position sur la demande de non-divulgation du débiteur. Si, à l’issue d’un délai
+de vingt jours, l’office n’a reçu aucune communication du créancier indiquant qu’il
+a engagé une procédure visant à faire annuler l’opposition, il donne suite à
+la demande et ne porte plus la poursuite considérée à la connaissance de tiers. Il informe
+le requérant qu’il a approuvé sa demande. Pour prouver qu’il a engagé une
+procédure visant à faire annuler l’opposition, le créancier peut fournir la confirmation
+de remise à la poste ou l’accusé de réception de la demande de mainlevée ou
+du mémoire introduisant l’action en reconnaissance de dette. Si le créancier fournit
+une telle preuve, la poursuite est à nouveau portée à la connaissance de tiers (art. 8a
+LP).
+b)
+En l’espèce, la créancière intimée n’a engagé aucune action après
+la notification des commandements de payer en vue de lever les oppositions dont ils avaient été
+frappés. Pour s’opposer à la non-divulgation des poursuites en cause, elle s’est
+prévalue d’une procédure en réclamation pécuniaire ouverte à son encontre
+par la recourante devant la Chambre patrimoniale vaudoise et a allégué qu’elle prendrait
+dans sa réponse à la demande, dès qu’un délai lui aurait été fixé
+pour déposer cet acte, des conclusions reconventionnelles en compensation et qu’elle souhaitait
+requérir la mainlevée des oppositions. L’autorité précédente a considéré
+que cela ne constituait pas la preuve de l’inaction de la créancière. On ne saurait la
+suivre. La créancière est bien restée passive et n’a pas prouvé qu’elle
+avait engagé une procédure visant à faire annuler les oppositions. Elle n’a même
+pas prouvé avoir effectivement pris des conclusions reconventionnelles en ce sens, ni qu’elle
+les aurait « plus ou moins chiffrées », se bornant sur ce point à des déclarations
+d’intention. Dans ces conditions, la demande de non-divulgation des deux poursuites litigieuses
+aurait dû être admise.
+On pourrait objecter à ce qui précède que la poursuivante, dès lors qu’un délai
+de réponse ne semble pas lui avoir été imparti, n’a pas eu l’occasion de déposer
+des conclusions. Elle avait toutefois la possibilité de requérir la mainlevée provisoire,
+ce qu’elle n’a pas fait. Elle n’a pas davantage, de son côté, ouvert action
+au fond.
+III.
+En conclusion, le recours doit être admis
+et le prononcé attaqué réformé en ce sens que les plaintes sont admises et qu’il
+est ordonné à l’Office de ne pas porter à la connaissance de tiers les poursuites
+n° 10’848'332 et n° 10’848'334.
+La présente décision est rendue sans
+frais ni dépens (art. 20a ch. 5 LP ; art. 61 al. 2 let. a et 62 al. 2 OELP [ordonnance sur
+les émoluments perçus en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est admis.
+II.
+Le prononcé est réformé en ce sens que les plaintes sont admises et qu’ordre est
+donné à l’Office des poursuites du district de La Riviera – Pays-d’Enhaut
+de ne pas porter à la connaissance de tiers les poursuites n° 10’848'332 et n°
+10’848'334.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Mes Alexandre Blarer et Merigona Uka, avocats (pour H.________SA),
+‑
+Me Christophe Misteli, avocat (pour P.________SA),
+-
+M. le Préposé à l’Office des poursuites du district de La Riviera – Pays-d’Enhaut.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
