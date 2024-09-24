@@ -1,0 +1,416 @@
+---
+decision_id: "vd_findinfo_Plainte___2024___29"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2024 / 29"
+decided: "2024-09-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10024361"
+cites_law: ["switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-144.md", "switzerland/bund/acts/272/art-191.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-031.md", "switzerland/bund/acts/281.1/art-115.md", "switzerland/bund/acts/281.1/art-149.md"]
+---
+
+# VD Findinfo Plainte / 2024 / 29
+
+## Regeste
+
+PROCÈS-VERBAL DE SAISIE, PLAINTE{LP}, OBSERVATION DU DÉLAI, ACTE DE DÉFAUT DE BIENS | 115 al. 1 LP, 149 al. 1 LP, 17 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2024 / 29
+
+PROCÈS-VERBAL DE SAISIE, PLAINTE{LP}, OBSERVATION DU DÉLAI, ACTE DE DÉFAUT DE BIENS | 115 al. 1 LP, 149 al. 1 LP, 17 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FA24.008724-240905
+26
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+24 septembre 2024
+_______________________
+Composition
+:               M,
+Hack
+,
+président
+Mmes
+Giroud Walther et Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+17 al. 2, 115 al. 1 et 149 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.V.________
+,
+à [...], contre la décision rendue le 28 juin 2024 par la Présidente du Tribunal d’arrondissement
+de La Broye et du Nord vaudois, autorité inférieure de surveillance, dans la procédure
+de plainte ouverte par le recourant contre un acte de défaut de biens de l'
+Office
+des poursuites du district de La Broye-Vully
+,
+à [...].
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 23 juin 2017, l’Office des poursuites du district de La Broye-Vully (ci-après : l’Office)
+a notifié à A.V.________, débiteur poursuivi, à la réquisition de B.V.________,
+poursuivant, un commandement de payer n° 8’337'442 portant sur un montant en capital
+de 29'400 fr., fondé sur un jugement définitif et exécutoire. Le poursuivi n’a pas
+formé opposition.
+Saisi par le poursuivant d’une réquisition de continuer la poursuite, l’Office a adressé
+un avis de saisie au débiteur, le 30 août 2017, l’informant qu’une saisie aurait
+lieu le 13 septembre 2017.
+Le jour dit, l’Office a procédé à la saisie en présence de T.________,
+au bénéfice d’une procuration signée le 12 septembre 2017 par le débiteur lui
+donnant
+« mandat
+à titre individuel afin de le représenter et d’agir en son nom dans le cadre de ses affaires
+courantes, administratives et officielles l’opposant à B.V.________
+».
+L’Office a dressé un procès-verbal des opérations de la saisie, constatant que le
+débiteur n’avait aucun bien saisissable et indiquant, sous « Observations »,
+qu’un acte de défaut de biens serait délivré au créancier. T.________ a signé
+ce procès-verbal.
+Le 13 octobre 2017, l’Office a établi dans la poursuite en cause un acte de défaut de
+biens – procès-verbal de saisie selon art. 115 LP pour le montant total de 30'167 fr. 50,
+frais et intérêts compris. L’acte indique le numéro de saisie « 2360789 »
+et le numéro de débiteur « 77225 ».
+b)
+Dans
+le cadre d’une procédure d’exécution forcée ouverte par B.V.________ devant
+le Tribunal d’arrondissement de La Sarine contre
+A.V.________, T.________ s’est présenté
+pour le compte de ce dernier au bureau de l’Office le 22 décembre 2023 dans le but d’obtenir
+des informations sur la poursuite n° 8’337'442. A cette occasion, une réimpression
+de l’acte de défaut de biens du 13 octobre 2017 lui a été remise.
+Par lettre du 26 décembre 2023 adressée à l’Office, A.V.________ a sollicité
+«
+la sortie de l’archivage
+[réd. : de son dossier]
+de
+manière à pouvoir prendre connaissance du procès-verbal de l’acte de défaut
+de biens rendu le 13.10.2017 dans le cadre de la saisie N° 2360789, débiteur N° 77225,
+qui m’oppose à B.V.________ ainsi que des pièces annexes
+».
+Il a réitéré sa requête par lettre du 3 février 2024.
+Le 12 février 2024, T.________ s’est présenté au bureau de l’Office pour consulter
+le dossier d’archivage.
+Par courrier du 13 février 2024, l’Office a transmis à A.V.________ une copie du procès-verbal
+de saisie du 13 septembre 2017 et de l’acte de défaut de biens délivré au créancier
+le 13 octobre suivant.
+c)
+Par
+lettre datée du 15 février 2024, parvenue à l’Office le 19 suivant, A.V.________
+a déposé une plainte au sens de l’art. 17 LP contre l’acte de défaut de biens
+du 13 octobre 2017, dont il a demandé l’annulation pour les motifs suivants : (1) erreur
+dans le montant de la créance, (2) défaut de notification dès lors qu’il n’avait
+pas reçu cet acte en mains propres ou par lettre recommandée, (3) «
+atteinte
+à la sécurité juridique
+»,
+le défaut de notification l’ayant empêché d’être informé de la situation
+et de prendre les mesures nécessaires pour la régulariser, (4) prescription de la créance
+en remboursement de pensions alimentaires.
+L’Office a transmis cette plainte à la Présidente du Tribunal d’arrondissement
+de La Broye et du Nord vaudois (ci-après : la Présidente), autorité inférieure
+de surveillance, comme objet de sa compétence, le 19 février 2024.
+Le 14 mars 2024, le plaignant a produit une procuration signée le 5 mars 2024, aux termes de
+laquelle il donnait à T.________
+« mandat
+à titre individuel afin de le représenter dans le cadre de la plainte qui l’oppose à
+l’office des poursuites de la Broye-Vully
+».
+Par déterminations du 14 mars 2024, B.V.________, intervenant, a conclu au rejet de la plainte,
+faisant notamment valoir qu’elle était tardive.
+L’Office, par déterminations du 15 mars 2024, a conclu principalement à ce que la plainte
+soit déclarée tardive, faisant valoir que le débiteur avait eu connaissance de l’acte
+de défaut de biens délivré contre lui au plus tard le 22 décembre 2023, lors
+de la remise de la copie de cet acte ; subsidiairement, il a conclu au rejet de la plainte.
+Par réplique spontanée du 22 mars 2024 aux déterminations de l’intervenant parvenue
+au tribunal d’arrondissement le 26 suivant, le plaignant, par T.________, a conclu à la recevabilité
+de sa plainte, contestant qu’elle fût tardive, et à l’annulation de l’acte
+de défaut de biens litigieux. Il a produit des pièces.
+Le 26 mars 2024, toujours par son représentant, il a produit une réplique spontanée aux
+déterminations de l’Office et des pièces.
+c)
+L’audience de plainte s’est tenue le 28 mars 2024 en présence du représentant du
+plaignant au bénéfice d’une procuration, du Préposé de l’Office Philippe
+Germann et de l’intervenant, assisté de son conseil.
+Entendu en qualité de partie au sens de l’art. 191 CPC, le Préposé a confirmé
+qu’une réimpression de l’acte de défaut de biens du 13 octobre 2017 avait été
+remise à T.________ le 22 décembre 2023 dans les bureaux de l’Office. Interrogé
+ensuite sur la raison de l’absence de récépissé attestant de la réception de
+l’acte de défaut de biens par le débiteur [réd. au moment de la délivrance
+de cet acte en 2017], le Préposé a déclaré avoir appliqué la circulaire A541
+du 19 octobre 2004 du Secrétariat général de l’Ordre judiciaire, qui traite de la
+conservation des archives, prévoyant un délai de garde de deux ans pour la « correspondance
+générale », de sorte que l’Office n’était plus en mesure de produire
+ledit récépissé.
+Le Préposé a produit un procès-verbal de poursuite, précisant que ce document n’était
+jamais adressé aux parties mais uniquement imprimé dans des circonstances particulières.
+Il résulte de l’état des frais dressé dans ce document que trois opérations
+ont été effectuées le 13 octobre 2017 : (1) établissement et envoi du procès-verbal
+de saisie au créancier (21 fr. 30), (2) exécution infructueuse de la saisie (45 fr.) et
+(3) établissement et envoi du procès-verbal de saisie au(x) poursuivi(s) (21 fr. 30) ;
+les événements saisis dans le journal sont notamment, en date du 13 septembre 2017 : « Exécution
+de la saisie Résultat : Saisie infructueuse » et, en date du 13 octobre 2017 :
+« Acte de défaut de biens 115 LP ».
+Le plaignant, par son représentant, s’est encore spontanément déterminé dans
+un écrit du 29 mars 2024 et a produit des pièces.
+2.
+Par décision rendue le 28 juin 2024, la Présidente a déclaré la plainte irrecevable
+(I), rendu la décision sans frais judiciaires ni dépens (II) et rejeté toutes autres ou
+plus amples conclusions (III). En premier lieu, retenant que le représentant du plaignant avait
+participé à l’exécution de la saisie le 13 septembre 2017 et signé le procès-verbal
+de saisie établi à cette date et qu’il résultait en outre du procès-verbal
+de poursuite établi le 7 mars 2024 que des frais d’un montant de 21 fr. 30 avaient été
+comptabilisés le 13 octobre 2017 pour l’établissement et l’envoi du procès-verbal
+de saisie au créancier ainsi qu’au poursuivi, l’autorité précédente a
+considéré que l’acte de défaut de biens litigieux avait été notifié
+au plaignant le 13 octobre 2017, même si l’Office ne détenait plus le récépissé
+de l’envoi recommandé adressé au plaignant, récépissé qu’il n’était
+pas tenu de conserver au-delà de deux ans. La plainte du 15 février 2024 était par conséquent
+manifestement tardive et donc irrecevable pour ce motif déjà. En second lieu, l’autorité
+précédente a retenu qu’une réimpression de l’acte de défaut de biens
+du 13 octobre 2017 avait été remise au représentant du plaignant le 22 décembre 2023,
+de sorte que même si l’on devait considérer qu’il s’agissait-là de la
+première communication de l’acte litigieux au plaignant, le délai de plainte contre cet
+acte avait couru du 3 au 15 janvier 2024 ; la plainte déposée un mois après cette
+échéance était donc également tardive et irrecevable pour ce motif.
+3.
+Par acte déposé le 7 juillet 2024, le plaignant, par son représentant, a recouru contre
+la décision précitée, concluant en substance, avec suite de frais et dépens, à
+son annulation «
+pour
+vice de forme compte tenu des erreurs de notifications défaillantes, des erreurs d’adressage,
+de l’absence de transmission de pièces importantes nécessaires à la défense,
+ainsi que de nombreuses irrégularités procédurales
+»,
+et à sa réforme en ce sens que la plainte est recevable et admise en ce sens que l’acte
+de défaut de biens litigieux est annulé. En plus de la décision attaquée, le recours
+était accompagné de pièces figurant déjà toutes au dossier de première
+instance.
+Par décision prenant date le 11 juillet 2024, le Président de la cour de céans, autorité
+supérieure de surveillance, a rejeté la requête d’effet suspensif contenue dans
+le recours.
+L’Office s’est déterminé sur le recours par écrit du 16 juillet 2024, préavisant
+pour son rejet.
+L’intervenant B.V.________ s’est déterminé le 16 juillet 2024, concluant au rejet
+du recours.
+En droit :
+I.
+Formé contre une décision de l’autorité inférieure de surveillance dans le
+délai de dix jours suivant sa notification (art. 18 al. 1 LP [loi fédérale sur la poursuite
+pour dettes et la faillite ; RS 281.1] et art. 28 al. 1 LVLP [loi d’application dans le Canton
+de Vaud de la LP ; BLV 280.05]), le recours a été déposé en temps utile. Il
+comporte des conclusions et l’énoncé des moyens invoqués, de sorte qu’il est
+conforme aux exigences de l’art. 18 LP et de la jurisprudence y relative en matière de motivation
+(TF 5A_118/2018 du 7 février 2018 consid. 4.1 et les références citées), sous réserve
+de ce qui est dit plus bas (infra consid. IIa) et b)), et recevable dans cette mesure.
+Les déterminations de l’Office et de l’intervenant sont recevables (art. 31 LVLP).
+II.
+Le recourant soutient d’abord que des «
+erreurs
+dans la notification des documents, des violations des délais légaux, ou d’autres irrégularités
+procédurales
+» l’ont empêché
+de se défendre et justifient l’annulation de la décision attaquée.
+a)
+La jurisprudence du Tribunal fédéral
+en matière de recours selon les art. 319 ss CPC (Code de procédure civile ; RS 272) –
+applicable par analogie, du fait que l’art. 28 al. 3 LVLP n’a pas de portée propre (TF
+5A_118/2018 consid. 4.2 précité) – exige que le recourant démontre le caractère
+erroné de la motivation de la décision attaquée et que son argumentation soit suffisamment
+explicite pour que l’instance de recours puisse la comprendre, ce qui suppose une désignation
+précise des passages de la décision qu’il attaque et des pièces du dossier sur lesquelles
+il fonde sa critique (art. 321 al. 1 CPC ; ATF 147 III 176 consid. 4.2.1 ; TF 5A_488/2015 du
+21 août 2015 consid. 3.2.1, Revue suisse de procédure civile [RSPC] 2015, p. 512). La motivation
+du recours doit donc être topique, soit se rapporter aux questions factuelles et juridiques tranchées
+par la décision attaquée (TF 5A_118/ 2018 précité, cf. aussi CPF 23 septembre 2022/25 ;
+CPF 31 août 2021/30 ; CPF 4 novembre 2020/37).
+b)
+Les griefs concernant «
+la
+non-transmission de courriers et informations importantes
+»,
+«
+tous ces manquements
+de la Présidente
+» ou encore «
+toutes
+ces lacunes et erreurs du Greffe
+»,
+formulés par le recourant de manière générale sans aucune précision en fait
+ni en droit, sont irrecevables faute d’être suffisamment motivés.
+c)
+Quant au grief tiré d’un prétendu préjudice porté aux droits procéduraux
+du plaignant par le fait que les déterminations de l’Office et de l’intervenant sur
+la plainte n’ont pas été transmises à son représentant par courrier recommandé,
+il est totalement infondé. Outre que la loi n’exige pas que la transmission se fasse par courrier
+recommandé (art. 24 al. 1 et 2 LVLP), le représentant du plaignant a bien reçu ces déterminations
+et a pu se déterminer à leur sujet en temps utile, comme en attestent ses écrits des 22
+et 26 mars 2024.
+III.
+Ensuite et principalement, le recourant reproche à l’autorité précédente d’avoir
+considéré sa plainte comme tardive et de n’avoir pas annulé l’acte de défaut
+de biens litigieux du fait d’une notification irrégulière.
+a)
+aa)
+Aux termes de l’art. 149 al. 1 LP, le créancier qui a participé à la saisie et n’a
+pas été désintéressé intégralement reçoit un acte de défaut de
+biens pour le montant impayé. Le débiteur reçoit une copie de l’acte de défaut
+de biens.
+bb)
+Le délai de plainte de dix jours prévu par l'art. 17 al. 2 LP est un délai péremptoire
+et son observation une condition de recevabilité qui doit être vérifiée d'office.
+Il commence à courir du jour où la personne concernée a eu connaissance de la décision
+ou mesure, soit plus précisément du jour où elle en a eu une connaissance effective et
+suffisante (TF 5A_674/2022 du 26 octobre 2022 consid. 4.1 ; 5A_403/2017 du 11 septembre 2017 consid.
+6.3.2.1 ; 5A_547/2014 du 1er septembre 2014 consid. 3.1).
+cc)
+Il est de jurisprudence constante que si une décision comporte une double motivation (i.e. deux
+motivations indépendantes, alternatives ou subsidiaires), il incombe au recourant, sous peine d'irrecevabilité,
+de démontrer que chacune d'elles est contraire au droit (en application de l'art. 42 LTF, cf. ATF
+138 III 728 consid. 3.4 ; 136 III 534 consid. 2 ; TF 4A_614/2018 du 8 octobre 2019 du
+8 octobre 2019 consid. 3.2). On ne peut parler de double motivation que si chacun de ses pans suffit
+à sceller le sort de la cause.
+b)
+aa)
+En l’espèce, l’autorité précédente a jugé sous deux angles que la
+plainte avait été déposée tardivement le 15 février 2024, considérant que
+l’acte de défaut de biens litigieux avait non seulement été notifié au plaignant
+le 13 octobre 2017, mais lui avait encore été remis en copie, comme le prévoit l’art.
+149 al. 1 LP, par l’intermédiaire de son représentant, lors du passage de ce dernier
+dans les bureaux de l’Office le 22 décembre 2023. Quelle que soit la date retenue, la plainte
+avait dans les deux cas été déposée après l’échéance du délai
+de dix jours de l’art. 17 al. 2 LP.
+bb)
+Le recourant conteste la notification du 13 octobre 2017, relevant qu’il n’y en a pas de
+preuve formelle dès lors que l’Office n’a pas conservé de récépissé
+et que l’état des frais dressé dans le procès-verbal de la poursuite, s’il
+prouve que des frais d’envoi ont été comptabilisés, ne prouve pas l’envoi
+lui-même.
+En ce qui concerne la remise d’une copie de l’acte de défaut de biens litigieux à
+son représentant le 22 décembre 2023, le recourant l’admet (recours, p. 14, ch.
+2.8), mais soutient que l’acte ainsi remis «
+ne
+suffisait pas à prouver le manquement à l’envoi au débiteur
+» ;
+respectivement, il admet avoir personnellement pris connaissance de cet acte (recours, p. 14, ch. 2.6),
+ou à tout le moins de son existence (recours, p. 13, ch. 2.3) le 26 décembre 2023, mais soutient
+qu’il ne pouvait pas déposer une plainte contre cet acte avant d’avoir consulté
+les archives afin de pouvoir affirmer qu’il ne l’avait jamais reçu.
+cc)
+Quelle que soit la pertinence des arguments du recourant pour contester la première notification,
+son admission expresse de la remise d’une copie de l’acte de défaut de biens le 22 décembre
+2023 à son représentant et du fait qu’il en a eu lui-même connaissance le 26 décembre
+2023 suffit pour confirmer la tardivité de la plainte et avec elle, la décision attaquée.
+Il résulte d’ailleurs de la lettre du recourant à l’Office du 26 décembre
+2023 qu’il avait alors une connaissance effective de l’acte de défaut de biens litigieux
+et de son contenu puisqu’il se réfère dans cette lettre aux indications précises
+«
+saisie N° 2360789,
+débiteur N° 77225
+» figurant
+dans ledit acte. A cet égard, le recourant ne peut être suivi lorsqu’il soutient que
+le délai de plainte n’aurait commencé à courir qu’après qu’il avait
+pu consulter son dossier archivé et « vérifier » qu’il n’avait
+pas reçu l’acte en 2017. Le délai commence en effet impérativement à courir
+lors de la prise de connaissance de l’acte contesté et non, à la libre disposition du
+plaignant, lorsqu’il estime avoir eu les informations qu’il juge nécessaires. Cela est
+d’autant plus clair ici que le recourant, par son représentant, avait participé à
+la procédure ayant abouti en octobre 2017 à un acte de défaut de biens et qu’il
+ne saurait prétendre, s’il n’avait réellement pas reçu cet acte à cette
+époque, qu’il aurait eu besoin d’information pour se rendre compte de cela. Le délai
+de plainte n’est au surplus pas prolongeable (art. 144 al. 1 CPC applicable par renvoi de l’art.
+31 LP).
+dd)
+Le recourant invoque en vain l’art. 17 al. 3 LP qui prévoit qu’il peut être porté
+plainte en tout temps pour déni de justice ou retard non justifié. Une fois encore, l’acte
+de défaut de biens litigieux a été remis au recourant. Partant, ce dernier ne peut plus
+se plaindre du fait que tel n’aurait pas été le cas. Un éventuel retard à lui
+remettre cet acte, outre qu’il n’est nullement établi, ne lui permettait au surplus
+pas de s’en plaindre sans respecter le délai de dix jours posé par l’art. 17 al. 1
+LP dès la remise de l’acte à son représentant.
+ee)
+Une nullité (art. 22 al. 1
+in
+fine
+LP) de l’acte de défaut de biens
+litigieux du fait d’une absence de notification en 2017 (recours, p. 7, ch. 2.1) n’entre
+pas non plus en considération vu la transmission de l’acte le 22 décembre 2023 à
+tout le moins.
+c)
+Il résulte de ce qui précède que l’autorité précédente a, sans violation
+du droit, considéré que la plainte était tardive et donc, irrecevable.
+aa)
+Dans ces conditions, les reproches du recourant notamment sur la date à laquelle des documents lui
+auraient été remis, la manière dont ces documents auraient été conservés
+ou non, respectivement lui auraient été remis, le fait que certains documents ne lui auraient
+pas été remis ou encore qui se serait exprimé sur quoi dans le cadre de la procédure
+ouverte ensuite de sa plainte n’ont pas à être examinés. Outre qu’ils ne sont
+pas établis en fait, ni le plus souvent accompagnés en droit d’un grief précis,
+de tels reproches sont sans portée sur le sort de la cause et dénués de pertinence en
+l’espèce, la plainte étant tardive quoi qu’il en soit et notamment quoi qu’il
+se soit passé après l’échéance du délai de plainte.
+bb)
+Vu le sort du recours, il n’y a pas lieu d’ordonner à l’autorité précédente,
+comme le requiert le recourant, de lui transmettre «
+toute
+les pièces manquantes qui ne lui ont jamais été transmises
+».
+L’autorité de céans n’est au surplus pas compétente pour ouvrir une procédure
+disciplinaire contre le Préposé.
+IV.
+Vu ce qui précède, le recours, manifestement
+mal fondé, doit être rejeté dans la mesure de sa recevabilité et la décision
+confirmée.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP ; RS
+281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. T.________ (pour A.V.________),
+-
+M. le Préposé à l’Office des poursuites du district de La Broye-Vully,
+‑
+M. B.V.________.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière :
