@@ -1,0 +1,187 @@
+---
+decision_id: "vd_findinfo_D_cision___2025___42"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2025 / 42"
+decided: "2024-10-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10237419"
+cites_law: ["switzerland/bund/acts/935.61/art-012.md", "switzerland/bund/acts/935.61/art-014.md"]
+---
+
+# VD Findinfo Décision / 2025 / 42
+
+## Regeste
+
+DILIGENCE, AVOCAT, PREUVE ILLICITE, CLASSEMENT DE LA PROCÉDURE | 12 let. a LLCA, 55 al. 2 LPAv
+
+## Text
+
+Vaud Tribunal cantonal Chambre des avocats Décision / 2025 / 42
+
+DILIGENCE, AVOCAT, PREUVE ILLICITE, CLASSEMENT DE LA PROCÉDURE | 12 let. a LLCA, 55 al. 2 LPAv
+
+TRIBUNAL
+CANTONAL
+5/2025
+CHAMBRE
+DES AVOCATS
+_______________________________
+Décision
+du 3 octobre 2024
+__________________
+Composition
+:               M.
+PERROT
+,
+président
+Mes
+Fox, Chambour et Rappo, membres, ainsi que Me Kasser,
+membre suppléant
+Greffier
+:
+M.              Steinmann
+*****
+Vu la dénonciation déposée le 4 juillet 2024 par B.B.________ et A.B.________ (ci-après :
+les dénonciateurs), agissant par l’intermédiaire de leur conseil, Me L.________, à
+l’encontre de Me V.________, avocat à Lausanne,
+vu les déterminations de Me V.________ du 15 août 2024,
+vu les déterminations complémentaires des dénonciateurs des
+11
+septembre et 7 octobre 2024,
+vu les déterminations complémentaires de Me V.________ du
+26
+septembre 2024,
+vu les pièces au dossier ;
+attendu que la Chambre des avocats est l’autorité chargée de la surveillance des avocats
+qui pratiquent la représentation en justice dans le canton de Vaud (art. 14 LLCA [Loi sur la libre-circulation
+des avocats du 23 juin 2000 ;
+RS
+935.61]),
+qu’elle
+se saisit d'office, sur plainte ou sur dénonciation, de toute question concernant l'activité
+professionnelle d'un avocat (art. 11 LPAv [Loi sur la profession d’avocat du 9 juin 2015 ;
+BLV 177.11]),
+que
+sur le plan territorial, c’est l’activité exercée par l’avocat, et non le
+lieu de son inscription au registre, qui fonde la compétence de l’autorité de surveillance
+(Bauer/Bauer, Commentaire romand LLCA, 2
+e
+éd.,
+2022, n. 10 ad
+art. 14 LLCA),
+qu’en
+l’espèce, la présente dénonciation vise un avocat inscrit au registre cantonal vaudois,
+que
+le comportement reproché à Me V.________ est en outre survenu dans le cadre d’une procédure
+pénale ouverte devant les autorités vaudoises,
+que la Chambre des avocats
+est dès lors compétente pour en connaître ;
+attendu que Me V.________ est le conseil d’O.________ dans plusieurs litiges qui divisent ce dernier
+d’avec les dénonciateurs, dont le conseil est Me L.________,
+qu’O.________ et les dénonciateurs ont notamment tous trois été renvoyés en
+jugement par devant le Tribunal correctionnel de Lausanne, tant en qualité de prévenus que
+de plaignants, à la suite de plaintes pénales qu’ils ont déposées les uns contre
+les autres,
+que les dénonciateurs font valoir que, dans le cadre de cette procédure, Me V.________ aurait
+produit «
+des
+documents qu’il savait avoir été volés ainsi que des échanges entre son client
+et les auteurs de ce vol de données portant sur l’objet même du vol
+»,
+qu’ils soutiennent plus précisément que Me V.________ aurait produit en toute connaissance
+de cause deux pièces qui constitueraient «
+des
+preuves illicites
+»,
+à savoir les pièces 13 et 15 de son bordereau du 17 avril 2024, lesquelles proviendraient d’un
+vol de données commis au détriment de la société d’investigation
+I.________,
+basée à Genève,
+que ce faisant, Me V.________ aurait selon eux violé l’art. 12 let. a LLCA,
+que Me V.________ expose quant à lui que les dénonciateurs auraient mandaté la société
+I.________ pour enquêter sur son client O.________, dans une «
+volonté
+générale de nuire
+»
+à celui-ci,
+qu’il indique que les deux pièces litigieuses – qui consistent, d’une part, en
+une capture d’écran d’une boîte email démontrant soi-disant des échanges
+intervenus au sujet d’O.________ (pèce 13) et, d’autre part, en une table des matières
+des activités prétendument menées par I.________ à l’encontre de ce dernier
+(pièce 15) – «
+ont
+été reçues par [son mandant], de la part d’un informateur anonyme
+»,
+que «
+leur
+source et leur provenance ne sont pas établies
+»
+et que «
+rien
+ne permet (…) d’affirmer qu’il s’agirait d’un vol de données
+»,
+qu’il conteste ainsi le caractère illicite des pièces en question,
+qu’il soutient en outre que même si ces pièces avaient été illicites, elles
+n’en auraient pas moins été exploitables sous l’angle des conditions fixées
+par la jurisprudence, dès lors «
+qu’elles
+avaient pour seul but de libérer O.________ en renforçant d’autant plus les preuves sur
+la volonté de lui nuire
+» ;
+attendu qu’en l’espèce, les deux pièces incriminées ont été retranchées
+de la procédure pénale en cause,
+qu’en date du 5 juin 2024, Me V.________ a en effet indiqué à la Présidente du Tribunal
+d’arrondissement de Lausanne (ci-après : la présidente) qu’il retirait la
+pièce 15 de son bordereau du 17 avril 2024,
+que par courrier du 20 juin 2024, dont copie était transmise à Me L.________, il en a informé
+le Bâtonnier de l’Ordre des avocats vaudois, en précisant que la pièce 13 de ce
+même bordereau serait, elle aussi, retirée dans les jours suivants,
+que par courrier du 25 juin suivant, la présidente a toutefois ordonné d’elle-même
+le retranchement de cette pièce, sans indication de motifs,
+qu’à ce stade, il n’a pas été démontré que les deux pièces
+précitées auraient constitué des preuves illicites au sens du droit pénal, ni que
+Me V.________ les aurait produites en ayant connaissance de ce fait,
+que la présidente ne s’est en particulier pas prononcée sur l’éventuelle illicéité
+de la pièce 13 lorsqu’elle en a ordonné le retranchement,
+qu’on ignore en réalité les circonstances exactes dans lesquelles lesdites pièces
+ont été obtenues et produites,
+qu’on ne saurait dès lors affirmer sans autre, comme le font les dénonciateurs, qu’il
+s’agirait de documents volés,
+qu’il n’appartient pas à la Chambre de céans d’instruire plus avant cette
+question, celle-ci sortant manifestement de son champ de compétence et relevant bien plutôt
+des autorités pénales,
+qu’il ne lui appartient pas non plus d’examiner l’éventuelle exploitabilité
+desdites pièces au regard des critères posés en la matière par le droit pénal
+s’agissant de la production de preuves illicites,
+qu’en définitive, les dénonciateurs n’ont pas établi que Me V.________ aurait
+produit des preuves illicites et inexploitables dans le cadre de la procédure pénale incriminée,
+ni qu’il l’aurait fait en connaissance de cause ;
+attendu qu’il n’apparaît
+pas, au vu de ce qui précède, que Me V.________ aurait enfreint les règles professionnelles
+de l’avocat telles qu’elles sont décrites à l’art. 12 LLCA,
+qu’il n’y
+a donc pas lieu de donner suite à la dénonciation, qui doit être classée sans frais.
+Par
+ces motifs,
+la
+Chambre des avocats,
+statuant
+à huis clos :
+I.
+décide de ne pas ouvrir une enquête disciplinaire à la suite de la dénonciation déposée
+par A.B.________ et B.B.________ contre Me V.________.
+II.
+dit que la décision est rendue sans frais.
+Le
+président :               Le greffier
+:
+Du
+La décision qui précède, lue et approuvée à huis clos, est notifiée à
+:
+‑
+Me V.________,
+Cette décision est également communiquée à :
+‑
+Me L.________ (pour A.B.________ et B.B.________).
+Le greffier :
