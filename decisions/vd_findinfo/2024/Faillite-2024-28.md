@@ -1,0 +1,278 @@
+---
+decision_id: "vd_findinfo_Faillite___2024___28"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2024 / 28"
+decided: "2024-11-01"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10069842"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-191.md"]
+---
+
+# VD Findinfo Faillite / 2024 / 28
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ, PREUVE FACILITÉE | 174 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2024 / 28
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ, PREUVE FACILITÉE | 174 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FF24.026379-241156
+196
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+1
+er
+novembre
+2024
+_______________________
+Composition
+:               Mme
+Giroud
+Walther
+, vice-présidente
+Mme
+Byrde et M. Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+174 al. 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+F.________Sàrl
+,
+à [...], contre le jugement rendu le 15 août 2024, à la suite de l’audience du même
+jour, par la Présidente du Tribunal d’arrondissement de Lausanne, prononçant la faillite
+de la recourante à la requête de
+G.________
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 9 août 2023, à la réquisition
+de G.________, l’Office des poursuites du district de l’Ouest lausannois a notifié à
+F._____Sàrl un commandement de payer dans la poursuite n° 10’881'853 portant sur un arriéré
+de cotisations de 16'651 fr. 20, plus intérêt à 5 % l’an dès le 21 juin
+2023, et sur divers frais. La débitrice n’a pas formé opposition.
+Le 24 novembre 2023, la créancière a fait notifier à la débitrice une commination
+de faillite dans la poursuite en cause.
+Le 5 juin 2024, elle a requis la faillite de la débitrice.
+La Présidente du Tribunal d’arrondissement de Lausanne a cité les parties à comparaître
+à son audience du 15 août 2024. L’audience s’est tenue par défaut des parties.
+2.
+Par jugement du 15 août 2024, la Présidente
+du tribunal a prononcé la faillite de F.________Sàrl, le jour même à 12 heures, et
+a mis les frais du jugement, par 200 fr., à la charge de la faillie. Elle a considéré
+que la requête de faillite et les pièces produites à son appui étaient conformes
+aux réquisits légaux et que l’intimée n’avait pas justifié par titre
+que la créance avait été acquittée en capital, intérêts et frais, ou qu’un
+sursis lui avait été accordé.
+Selon le suivi de l’envoi au dossier, ce jugement a été notifié à la faillie
+le 21 août 2024.
+3.
+a)
+Par recours déposé le 30 août
+2024, F.________Sàrl a conclu, avec suite «
+de
+frais et pleins dépens
+», à
+l’annulation du jugement prononçant sa faillite. A l’appui de son acte, elle a produit
+notamment les pièces suivantes :
+-
+un extrait du registre du commerce la concernant ;
+-
+une attestation établie le 28 août 2024 par [...] Sàrl, en tant que fiduciaire de la recourante,
+attestant avoir repris la gestion comptable et administrative de celle-ci, relevant que «
+la
+comptabilité 2022 a été tenue par une tierce personne, mais avec beaucoup trop d’incohérence
+»,
+que «
+concernant
+2023, aucune comptabilité n’a été tenue
+»,
+ce qui entraînait une taxation d’office, et qu’elle pouvait attester de la solvabilité
+de la société «
+sur
+la base des relevés bancaires 2024 en [sa] possession et après une analyse succincte
+» ;
+-
+le « décompte débiteur » de la recourante auprès de l’Office
+des poursuites du district de l’Ouest lausannois du 8 février 2024, présentant un total
+de poursuites de 193'042 fr. 15 ;
+-
+deux relevés d’un compte bancaire « courant entreprise » de la recourante,
+présentant un solde de 1'562 fr. au 31 mars 2024 et de 6'586 fr. 30 au 30 juin 2024 ;
+-
+des factures ouvertes auprès de divers clients ;
+-
+un relevé d’un versement exécuté le 22 août 2024 en faveur de l’Office
+des poursuites du district de l’Ouest lausannois, poursuite n° 10'881'853, d’un montant
+de 18'500 fr. ;
+-
+un décompte du solde de la poursuite n° 10'881'853, de 834 fr. 20 au 23 août 2024, établi
+par l’office des poursuites ;
+-
+un relevé d’un versement exécuté le 27 août 2024 par la recourante en faveur
+de l’Office des poursuites du district de l’Ouest lausannois d’un montant de 834 fr.
+20.
+b)
+Par
+décision prenant date le 6 septembre 2024, le Président de la Cour des poursuites et faillites
+a rejeté la requête d’effet suspensif contenue dans le recours.
+c)
+La liste des affaires en cours contre la recourante au 3 septembre 2024, dont l’édition a
+été requise d’office par le magistrat précité, mentionne vingt-quatre poursuites
+en cours pour une somme totale de 169’420 fr. 55, dont vingt concernent des créances de droit
+public (cotisations d’assurances sociales, impôts et TVA), dix-neuf étant déjà
+au stade de l’avis de saisie.
+La recourante s’est déterminée sur cet extrait dans le délai qui lui avait été
+imparti pour ce faire, dans une écriture du 27 septembre 2024, à l’appui de laquelle
+elle a produit des pièces nouvelles.
+d)
+L’intimée n’a pas été
+invitée à se déterminer sur le recours.
+En droit
+:
+I.
+En vertu de l'art. 174 al. 1, 1
+re
+phrase, LP (loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1), la décision
+du juge de la faillite peut, dans les dix jours, faire l'objet d'un recours au sens du CPC (Code de procédure
+civile ; RS 272). Selon l'art. 321 al. 1 CPC, le recours s'exerce par le dépôt d'un acte
+écrit et motivé, introduit auprès de l'instance de recours.
+En l’espèce, le recours a été déposé en temps utile et dans les formes
+requises. Il est ainsi recevable.
+II.
+a)
+L'autorité de recours, peut annuler l'ouverture
+de la faillite notamment lorsque le débiteur, en déposant le recours, rend vraisemblable sa
+solvabilité et établit par titre que depuis lors la dette, intérêts et frais compris,
+a été payée (art. 174 al. 2 ch. 1). Selon la jurisprudence, un tel titre doit être
+produit avant l'expiration du délai de recours (ATF 139 III 491 consid. 4.4 ; 136 III 294 consid.
+3 ; TF 5A_471/2023 du 12 octobre 2023 consid. 3.1.2 ; 5A_520/2022 du 6 décembre 2022 consid.
+2.1 ; 5A_243/2019 du 17 mai 2019 consid. 3.1, publié in SJ 2019 I 376 ; 5A_874/2017 du
+7 février 2018 consid. 4.2.1, publié in RSPC 2018 p. 238), toute pièce produite postérieurement
+à l'échéance du délai de recours étant irrecevable (TF 5A_874/2017 précité
+consid. 4.2.2). En particulier, le débiteur ne peut pas tirer profit du droit de se déterminer
+sur l’extrait des poursuites le concernant pour produire des pièces une fois échu le
+délai de recours prévu par l'art. 174 al. 1 LP (TF 5A_1009/2017 du 16 février 2018 consid.
+2.3).
+b)
+Il résulte de ce qui précède que les faits nouveaux allégués dans le recours
+et les pièces nouvelles produites à son appui sont recevables. En revanche, les pièces
+nouvelles produites par la recourante à l’appui de ses déterminations du 27 septembre
+2024 sont irrecevables.
+III.
+a)
+Les deux conditions posées par l’art.
+174 al. 2 LP pour pouvoir faire annuler la faillite, soit le paiement de la dette à l'origine de
+la faillite (ou le dépôt de la totalité de la somme à rembourser) et la vraisemblance
+de la solvabilité, sont cumulatives (TF 5A_471/2023 précité consid. 3.1.2 ; 5A_600/2020
+du 29 septembre 2020 consid. 3.1 ; 5A_1009/2017 précité consid. 3.2 et l'arrêt cité).
+La solvabilité, au sens de l'art. 174 al. 2 LP, se définit par opposition à l'insolvabilité
+au sens de l'art. 191 LP ; elle consiste en la capacité du débiteur de disposer de liquidités
+suffisantes pour payer ses dettes échues et peut aussi être présente si cette capacité
+fait temporairement défaut, pour autant que des indices d'amélioration de la situation à
+court terme existent. En plus, le poursuivi doit établir qu'aucune requête de faillite dans
+une poursuite ordinaire ou dans une poursuite pour effets de change n'est pendante contre lui et qu'aucune
+poursuite exécutoire n'est en cours contre lui. L'extrait du registre des poursuites constitue un
+document indispensable pour évaluer la solvabilité du failli. La condition selon laquelle le
+débiteur doit rendre vraisemblable sa solvabilité ne doit pas être soumise à des
+exigences trop sévères; il suffit que la solvabilité apparaisse plus probable que l'insolvabilité
+(TF 5A_600/2020 précité consid. 3.1 ; 5A_251/2018 du 31 mai 2018 consid. 3.1 et les références). Si
+le débiteur ne doit ainsi pas
+prouver
+sa solvabilité, il ne peut toutefois se contenter de simples allégations, mais doit fournir
+des indices concrets tels que des récépissés de paiements, des justificatifs des moyens
+financiers (avoirs en banque, crédit bancaire) à sa disposition, une liste des débiteurs,
+un extrait du registre des poursuites, des comptes annuels récents, un bilan intermédiaire,
+etc. (TF 5A_949/2023 du 7 février 2024 consid. 3.1.2 ; 5A_981/2021 du 28 janvier 2022 consid.
+6.1.2 et les arrêts cités).
+b)
+aa)
+En l’espèce, la recourante a prouvé par titre, en déposant son recours, que la dette
+à l’origine de la faillite avait été entièrement réglée. L’une
+des conditions cumulatives posées pour permettre l’annulation de l’ouverture de la faillite
+est ainsi réalisée.
+bb)
+Il résulte toutefois de l’extrait des poursuites au 3 septembre 2024, que la recourante faisait
+alors encore l’objet de nombreuses poursuites portant sur des dettes de droit public pour une somme
+totale de 133'283 fr. 65, soit près de 80 % de la somme totale des poursuites à son encontre.
+Cela dénote une incapacité à disposer de liquidités suffisantes pour faire face à
+des dettes courantes. Certes, la recourante dit avoir trouvé des arrangements de paiement avec certains
+créanciers (SUVA et Caisse cantonale de compensation AVS) et disposer de liquidités, mais il
+n’est pas établi que celles-ci seront suffisantes pour assumer à la fois les tranches
+de remboursement d’arriérés et le paiement des dettes courantes. A ce sujet, l’attestation
+de sa fiduciaire établie sur la base des relevés bancaires 2024 en sa possession et après
+une analyse qualifiée de « succincte » ne suffit pas à rendre vraisemblable
+une amélioration de la situation à court terme, d’autant moins que, même si la recourante
+a désormais confié sa gestion à une fiduciaire et «
+repris
+les choses en mains
+», elle admet avoir
+été taxée d’office pour la TVA et les impôts, faute d’avoir tenu une
+comptabilité conforme en 2023. Aucun compte récent n’a ainsi été versé
+au dossier, qui permettrait d’examiner les chances de viabilité de l’entreprise.
+Au vu de ces éléments, il convient de constater que la recourante n’a pas rendu vraisemblable
+sa solvabilité ; l’une des conditions cumulatives posées pour permettre l’annulation
+de l’ouverture de la faillite n’est ainsi pas réalisée.
+IV.
+En conclusion, le recours doit être rejeté et le jugement confirmé.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., doivent être
+mis à la charge de la recourante (art. 106 al. 1 CPC), qui en a déjà fait l’avance.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante.
+IV.
+L’arrêt est exécutoire.
+La
+vice-présidente :
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Helen Safaï, avocate (pour F.________Sàrl),
+‑
+G.________,
+-
+M. le Préposé à l'Office des poursuites du district de l’Ouest lausannois,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne.
+La greffière :
