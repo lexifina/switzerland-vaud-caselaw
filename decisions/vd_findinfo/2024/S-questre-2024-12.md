@@ -1,0 +1,139 @@
+---
+decision_id: "vd_findinfo_S_questre___2024___12"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2024 / 12"
+decided: "2024-11-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10095820"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-056.md", "switzerland/bund/acts/272/art-110.md", "switzerland/bund/acts/272/art-132.md", "switzerland/bund/acts/272/art-142.md"]
+---
+
+# VD Findinfo Séquestre / 2024 / 12
+
+## Regeste
+
+DÉPENS, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, OBLIGATION DE CHIFFRER LES CONCLUSIONS | 110 CPC (CH), 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Séquestre / 2024 / 12
+
+DÉPENS, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, OBLIGATION DE CHIFFRER LES CONCLUSIONS | 110 CPC (CH), 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+KE24.024373-241338
+204
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+19 novembre 2024
+_______________________
+Composition
+:              M,
+Hack
+,
+président
+Mmes
+Byrde et Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+110 et 321 al. 1 CPC
+Vu le prononcé du 15 août 2024 par lequel
+la Juge de paix du district de Lavaux-Oron a admis l’opposition au séquestre formée par
+T.________
+,
+à [...], et révoqué l’ordonnance de séquestre scellée contre lui le 21
+mai 2024 à la requête de
+P.________
+,
+au [...] (I et II), a arrêté les frais judiciaires à 480 fr. (III), a mis les frais à
+la charge de l’intimé (IV) et a dit qu’en conséquence, ce dernier rembourserait
+au requérant son avance de frais à concurrence de 480 fr. et lui verserait la somme de 6'000
+fr. à titre de dépens (V),
+vu les motifs de ce prononcé adressés le 24 et notifiés le 25 septembre 2024 aux parties,
+vu le « recours sur les dépens » formé par P.________, par acte posté
+le 7 octobre 2024, concluant, avec suite de frais judiciaires et dépens, à la réforme
+du chiffre V du prononcé précité en ce sens que les dépens alloués sont réduits
+à dire de justice ;
+attendu que la voie de droit prévue pour remettre en cause de manière séparée la
+décision sur les frais est celle du recours (art. 110 CPC [Code de procédure civile ;
+RS 272]),
+que le recours s’exerce par le dépôt d’un acte écrit et motivé auprès
+de l’instance de recours, dans les dix jours suivant la notification de la décision attaquée
+motivée (art. 321 al. 1 et 2 CPC),
+que si le dernier jour du délai est un samedi, un dimanche ou un jour férié, le délai
+expire le premier jour ouvrable qui suit (art. 142 al. 3 CPC),
+qu’en l’espèce, l’acte de recours remis à la poste le lundi 7 octobre 2024
+a été déposé en temps utile ;
+attendu que le recours cantonal, comme le recours au Tribunal fédéral, doit contenir des conclusions chiffrées,
+s'agissant de conclusions pécuniaires, sous peine d'irrecevabilité (ATF 134 III 235
+consid. 2 ; TF 4A_112/2018 du 20 juin 2018 consid. 2.1), sans qu’il puisse être remédié
+à ce vice par la fixation d'un délai de l'art. 132 CPC (cf. ATF 137 III 617 consid. 6,
+JdT 2014 II 187) ou de l'art. 56 CPC (TF 5A_3/2019 du 18 février 2019 consid. 4.2, RSPC 2019 p.310 ;
+TF 5A_855/2012 du 13 février 2013 consid. 5, RSPC 2013 p. 257),
+que cette exigence vaut aussi pour le recours séparé sur les frais, des conclusions duquel
+il doit ressortir clairement - le cas échéant en lien avec leur motivation - quels montants
+doivent être mis à la charge de quelle partie (TF 4A_112/2018 précité consid. 1.2.3 ;
+5A_692/2016 du 24 avril 2017 consid. 2.3 ; 4A_35/2015 du 12 juin 2015 consid. 3.2),
+qu’en l’espèce, les conclusions du recours tendant à la réduction «
+à
+dire de justice
+» des dépens alloués
+en première instance à l’intimé à la charge du recourant ne sont pas chiffrées,
+que la motivation du recours consistant à soutenir que la juge de paix «
+ne
+pouvait pas retenir un temps de travail de 16h00
+»
+et que le montant de 6'000 fr. des dépens octroyés est «
+manifestement
+disproportionné
+» ne permet pas
+de pallier l’absence de conclusions chiffrées,
+que le recours doit par conséquent être déclaré irrecevable ;
+attendu que le présent arrêt est rendu sans frais judiciaires (art. 11 TFJC [tarif des frais
+judiciaires en matière civile ; BLV 270.11.5]), ni dépens.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Philippe Ciocca, avocat (pour P.________),
+‑
+Me Alban Matthey, avocat (pour T.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 6’000 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe
+(art.
+74 LTF). Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Juge de paix du district de Lavaux-Oron.
+La greffière :
