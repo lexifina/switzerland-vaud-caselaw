@@ -1,0 +1,150 @@
+---
+decision_id: "vd_findinfo_Faillite___2024___32"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2024 / 32"
+decided: "2024-11-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10105893"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-056.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-166.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-172.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2024 / 32
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, ACTE DE RECOURS, MOTIVATION DE LA DEMANDE, CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ | 174 al. 1 LP, 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2024 / 32
+
+OUVERTURE DE LA FAILLITE, ACTE DE RECOURS, MOTIVATION DE LA DEMANDE, CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ | 174 al. 1 LP, 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF24.036805-241456
+219
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+22 novembre 2024
+______________________
+Composition
+:              M.
+Hack
+,
+président
+Mmes
+Byrde et  Giroud Walther, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+174 al. 1 LP ; 321 al. 1 CPC
+Vu le jugement rendu le 15 octobre 2024 à la suite de l’audience du 3 octobre 2024 par
+le Président du Tribunal d’arrondissement de Lausanne, statuant en tant qu’autorité
+de première instance en matière sommaire de poursuite, prononçant par défaut de la
+requérante la faillite de
+C.________
+,
+à [...], avec effet le 15 octobre 2024 à 9 heures, sur réquisition d’
+S.________
+SA
+, à [...], et mettant les frais judiciaires,
+arrêtés à 200 fr. à la charge du failli,
+vu la notification de ce jugement au failli le 18 octobre 2024,
+vu le recours interjeté le 28 octobre 2024 par le failli contre ce jugement
+attendu qu'aux termes de l'art. 174 al. 1 LP (loi fédérale du 11 avril 1889 sur la poursuite
+pour dettes et la faillite; RS 281.1), la décision du juge de la faillite peut, dans les dix jours,
+faire l'objet d'un recours au sens du CPC (Code de procédure civile du 19 décembre 2008; RS
+272),
+qu’en l’espèce, le recours a été déposé en temps utile ;
+attendu que la partie qui entend user d'une voie de droit a la charge de se conformer à certaines
+règles de forme, à défaut de quoi sa démarche sera frappée d'irrecevabilité
+(Jeandin, in Bohnet/Haldy/Jeandin/Schweizer/Tappy (éd.), Commentaire romand, Code de procédure
+civile, 2
+e
+éd., 2019, n. 1 ad art. 321 CPC ; CPF 9 octobre 2024/197),
+qu'en particulier, selon l'art. 321 al. 1 CPC, le recours doit être motivé,
+que selon la jurisprudence du Tribunal fédéral, pour satisfaire à cette condition, le
+recourant doit tendre à démontrer le caractère erroné de la motivation de la décision
+attaquée en la discutant au moins succinctement et son argumentation doit être suffisamment
+explicite pour que l’instance de recours puisse la comprendre, ce qui suppose une désignation
+précise des passages de la décision qu’il attaque et des pièces du dossier sur lesquelles
+il fonde sa critique (ATF 147 III 176 consid. 4.2.1 ; TF 5A_693/2022 du 6 mars 2022 consid. 6.2),
+que, si la motivation du recours fait défaut, l’instance de recours n’entre pas en matière,
+que ni l’art. 132 al. 1 et 2 ni l’art. 56 CPC ne sont applicables en cas d’absence
+de motivation d’un acte de recours (TF 5D_43/2019 du 24 mai 2019 consid. 3.2.2.1 ; TF 5A_387/2016
+du 7 septembre 2016 consid. 3.1 ; RSPC 6/2015 pp. 512 s. précité, et les arrêts cités),
+qu’en matière de faillite, les motifs peuvent aussi tendre à démontrer que les conditions
+d’une annulation de la faillite sont réunies (art. 174 al. 2 LP),
+qu’en l’espèce, le recourant fournit des explications sur les raisons pour lesquelles
+il ne s’est pas acquitté de la dette en poursuite et fait valoir que l’entreprise qu’il
+a créée devrait lui permettre de gagner des mandats lui procurant un revenu assurant le paiement
+de ses factures, qui sont très élevées,
+qu’il relève la modicité du montant ayant amené le prononcé de faillite, soit
+5'013 fr. 40, fait valoir que la faillite l’empêche de payer ses autres factures et qu’il
+a demandé à l’intimée un sursis et l’annulation de la procédure de faillite,
+qu’il soutient que le prononcé de faillite met en péril le mécanisme qu’il
+a mis en place pour payer toutes ses factures,
+que ce faisant, il ne discute pas la motivation du jugement attaqué selon laquelle la requête
+de faillite et les pièces produites par l’intimée (commandement de payer et commination
+de faillite) étaient conformes aux réquisits légaux et que le recourant n’avait
+pas justifié par titre que la créance en poursuite avait été acquittée en capital,
+frais et intérêts, ou qu’un sursis lui avait été accordé,
+qu’il ne développe pas davantage d’argument tendant à démontrer que les conditions
+d’annulation du jugement de faillite définies à l’art. 174 al. 2 LP seraient réunies,
+que le recours ne satisfait donc pas aux exigences de motivation de l’art. 321 al. 1 CPC et de
+la jurisprudence susmentionnée,
+qu’il est en conséquence irrecevable,
+attendu qu’au demeurant, à supposer recevable, il aurait dû être rejeté,
+qu’en effet le juge de la faillite, ne saurait examiner le bien-fondé de la créance dont
+le recouvrement forcé est requis devant lui (cf. Bohnet, Procédure civile, 3
+e
+éd. 2021 n° 1799, p. 480 et référence), la procédure de faillite relevant de
+l’exécution forcée (Declercq, Poursuites pour dettes, Une introduction, 2021 n
+os
+3 et 4, pp. 3 s.),
+qu’en outre, l’art. 171 LP impose au juge de la faillite de prononcer celle-ci sans retard
+si les exigences formelles des art. 166 ss LP sont respectées, sauf si une des hypothèses de
+l’art. 172 LP est réalisée, savoir en particulier, lorsque le débiteur justifie
+par titre que la créance a été acquittée en capital, intérêts et frais
+ou que le créancier a accordé un sursis (art. 172 ch. 3 LP), ce que le recourant n’a
+pas établi en première instance,
+que le premier juge était donc tenu de par la loi de prononcer la faillite du recourant ;
+attendu que le présent arrêt est rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. C.________,
+‑
+S.________ SA,
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+Le greffier :
