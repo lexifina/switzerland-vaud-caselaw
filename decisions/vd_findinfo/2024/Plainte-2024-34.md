@@ -1,0 +1,845 @@
+---
+decision_id: "vd_findinfo_Plainte___2024___34"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2024 / 34"
+decided: "2024-12-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10124951"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-797.md", "switzerland/bund/acts/281.1/art-015.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-095.md", "switzerland/bund/acts/281.1/art-123.md", "switzerland/bund/acts/281.1/art-126.md", "switzerland/bund/acts/281.1/art-134.md", "switzerland/bund/acts/281.1/art-135.md", "switzerland/bund/acts/281.1/art-145.md", "switzerland/bund/acts/281.1/art-156.md", "switzerland/bund/acts/281.1/art-256.md", "switzerland/bund/acts/281.1/art-259.md", "switzerland/bund/acts/281.42/art-009.md", "switzerland/bund/acts/281.42/art-045.md", "switzerland/bund/acts/281.42/art-050.md", "switzerland/bund/acts/281.42/art-108.md"]
+---
+
+# VD Findinfo Plainte / 2024 / 34
+
+## Regeste
+
+GAGE IMMOBILIER, POURSUITE EN RÉALISATION DE GAGE, CONDITIONS DES ENCHÈRES, MISE À PRIX SÉPARÉE, GRATUITÉ DE LA PROCÉDURE, PROCÉDÉ TÉMÉRAIRE, AMENDE | 797 CC, 134 al. 1 LP, 156 al. 1 LP, 18 al. 1 LP, 20a al. 2 ch. 5 LP, 108 al. 1 ORFI, 45 al. 1 ORFI
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2024 / 34
+
+GAGE IMMOBILIER, POURSUITE EN RÉALISATION DE GAGE, CONDITIONS DES ENCHÈRES, MISE À PRIX SÉPARÉE, GRATUITÉ DE LA PROCÉDURE, PROCÉDÉ TÉMÉRAIRE, AMENDE | 797 CC, 134 al. 1 LP, 156 al. 1 LP, 18 al. 1 LP, 20a al. 2 ch. 5 LP, 108 al. 1 ORFI, 45 al. 1 ORFI
+
+TRIBUNAL
+CANTONAL
+FA23.054844-240662
+33
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+5 décembre 2024
+______________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Giroud Walther, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1, 20a al. 2 ch. 5, 134 al. 1 et 156 al. 1 LP, 45 al. 1 et 108 al. 1 ORFI, 797 CC
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+S.________
+,
+à [...], contre la décision rendue le 7 mai 2024 par le Président du Tribunal d’arrondissement
+de l’Est vaudois, autorité inférieure de surveillance en matière de poursuites pour
+dettes et faillites, rejetant les plaintes déposées le 15 décembre 2023 par le recourant
+contre l’
+Office
+des poursuites du districit de Lavaux-Oron
+, à
+Cully.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+S.________ fait l’objet
+d’une poursuite en réalisation de gage immobilier n° 930’224 intentée par
+L.________. L’objet du gage est l’immeuble RF 1[...]7 sis à la route de [...],
+à [...], dont K.________AG (sise à Crans-Montana, au domicile précédent du poursuivi,
+qui en est l’administrateur unique) est propriétaire.
+Le 10 décembre 2020, la créancière a requis la vente du gage.
+Le 5 décembre 2023, l’Office des poursuites du district de Lavaux-Oron (ci-après : l’Office)
+a déposé l’état des charges et les conditions de vente de l’immeuble concerné ;
+la vente aux enchères forcée était fixée au mardi 27 février 2024, à 10
+heures 30, à Cully.
+2.
+S.________ fait l’objet d’une poursuite en réalisation de gage immobilier n° 10'153’069
+intentée par l’Etat de Vaud, représenté par l’Office d’impôt des
+districts de La Riviera – Pays-d’Enhaut, Lavaux-Oron et Aigle. L’objet du
+gage est l’immeuble RF 2[...]1 sis à la route de [...], à [...], dont le poursuivi est
+propriétaire. Le 23 juin 2022, le créancier a requis la vente du gage.
+Parallèlement, la banque E.________AG, en qualité de créancière hypothécaire
+de premier rang, a également introduit contre S.________ une poursuite en réalisation de gage
+immobilier n° 10'148’411. Le 11 octobre 2022, elle a requis la vente du gage.
+Les procès-verbaux d’estimation du gage n
+os
+10'148'411 et 10'153'069 portant sur l’immeuble RF 2[...]1 de la Commune de [...] ont été
+communiqués aux parties le 10 février 2023. Ces procès-verbaux retenaient que l’immeuble
+en cause avait une valeur vénale de 3'200'000 fr. en se fondant sur un rapport d’expertise
+immobilière déposé le 31 mars 2022 par CGS Global Immobilier SA. A la suite d’une
+demande de nouvelle estimation du gage, une seconde expertise a été mise en œuvre et,
+le 7 juillet 2023, l’expert Anton Alimi d’Okyo Sàrl a déposé son rapport.
+Par prononcé du 21 juillet 2023, l’autorité inférieure de surveillance a fixé
+la valeur vénale de la parcelle en cause à 5'200'000 fr. en se fondant sur le second rapport
+d’expertise. Par arrêt du 20 octobre 2023, la Cour des poursuites et faillites a rejeté
+le recours formé par S.________ contre ce prononcé (cf. CPF 20 octobre 2023/30).
+Le 5 décembre 2023, l’Office a déposé l’état des charges et les conditions
+de vente de l’immeuble concerné ; la vente aux enchères forcée était fixée
+au mardi 27 février 2024, à 9 heures, à Cully.
+3.
+Par deux plaintes adressées le 15 décembre 2023 à l’autorité inférieure
+de surveillance, S.________ a contesté les conditions de vente déposées le 5 décembre
+2023 par l’Office dans le cadre de la réalisation des immeubles RF 1[...]7 et 2[...]1 de [...]
+([...]).
+3.1
+Dans sa plainte dirigée contre les conditions de vente de l’immeuble RF 1[...]7, il a
+pris les conclusions suivantes :
+«
+I.
+Que la plainte est recevable et admise.
+II.
+Qu’en conséquence, les dispositions spécifiques des conditions de vente de l’immeuble
+RF 1[...]7 de la commune de [...], maison d’habitation au lieu-dit « [...]» sis
+à la route de [...]
+(sic)
+[...],
+[...], sont complétées en ce sens qu’il est précisé que l’immeuble est
+constitué de caves configurées pour l’exploitation d’une brasserie.
+III.
+Qu’en conséquence, les conditions de vente de l’immeuble RF 1[...]7 de la commune de
+[...], maison d’habitation au lieu-dit « [...] » sis à la route de [...]
+(sic)
+[...], [...], sont complétées en ce sens que les enchères forcées se dérouleront
+selon les modalités suivantes :
+-
+Dans un premier temps, l’immeuble
+RF 1[...]7 […] sera vendu au plus offrant ;
+-
+Dans un second temps, l’immeuble
+RF 1[...]7 […] sera vendu conjointement avec l’immeuble voisin, à savoir l’immeuble
+RF 2[...]1 […] au plus offrant ;
+-
+Celui qui aura fait l’offre
+la plus élevée lors de la première vente restera liée
+(sic)
+jusqu’à la fin de la seconde vente et les biens seront attribués au plus offrant en comparaison
+des prix obtenus par la vente individuelle de chacun des deux objets versus la vente en bloc de ces deux
+objets
+. »
+Le plaignant soutenait que les conditions de vente étaient incomplètes en ce sens qu’elles
+ne mentionnaient pas que les caves de l’immeuble concerné permettaient l’exploitation
+d’une brasserie artisanale ; de plus, elles ne précisaient pas si les cuves qui s’y
+trouvaient ainsi que diverses machines (pasteurisatrice, ligne d’embouteillage, etc.) étaient
+incorporées à l’immeuble ou pas. Il soutenait en outre qu’il était impératif,
+afin d’obtenir le prix de vente le plus élevé possible, de procéder à une double
+vente des parcelles RF 2[...]1 et 1[...]7 «
+dans
+l’esprit de la procédure de double mise à prix
+» ;
+selon lui, il était «
+fort
+à parier
+» que les amateurs seraient
+enclins à offrir une somme supérieure s’ils obtenaient l’assurance d’acquérir
+les deux objets.
+3.2
+Dans sa plainte dirigée contre les conditions de vente de l’immeuble RF 2[...]1, S.________
+a pris les conclusions suivantes :
+«
+I.
+Que la plainte est recevable et admise.
+II.
+Qu’en conséquence, le chiffre I des conditions de vente de l’immeuble RF 2[...]1 de
+la commune de [...], maison d’habitation au lieu-dit « [...] » sis à la
+route de [...]
+(sic)
+[...], [...] est modifié en ce sens que le prix minimum d’adjudication est fixé à
+CHF 4'200'000.00.
+III.
+Qu’en conséquence, le chiffre II des conditions de vente de l’immeuble RF 2[...]1 […]
+est modifié en ce sens que chaque offre d’enchère devra dépasser la précédente
+d’au moins CHF 50'000.00.
+IV.
+Qu’en conséquence, les dispositions spécifiques des conditions de vente de l’immeuble
+RF 2[...]1 […], en particulier l’art 23 lettre J sont modifiées en ce sens
+qu’il
+est constaté que la concession de port No [...] relative à un port privé de plaisance
+sur le domaine public cantonal et jouxtant la parcelle mise en vente est acquise à l’adjudicateur
+(sic)
+.
+V.
+Qu’en conséquence, les conditions de vente immobilière aux enchères de l’immeuble
+RF 2[...]1 […] sont complétées en ce sens que les enchères forcées se dérouleront
+selon les modalités suivantes :
+-
+Dans un premier temps, l’immeuble
+RF 2[...]1 […] sera vendu au plus offrant ;
+-
+Dans un second temps, l’immeuble
+RF 2[...]1 […] sera vendu conjointement avec l’immeuble voisin, à savoir l’immeuble
+RF 1[...]7 [… au plus offrant ;
+-
+Celui qui aura fait l’offre
+la plus élevée lors de la première vente restera lié jusqu’à la fin de
+la seconde vente et les biens seront attribués au plus offrant en comparaison des prix obtenus par
+la vente individuelle de chacun des deux objets versus la vente en bloc de ces deux objets
+. »
+Le plaignant soutenait que le montant du prix minimal d’adjudication de 1’7000'000 fr. était
+fixé trop bas au regard de la somme totale des droits de gages conventionnels, qui se montait à
+2'804'247 fr. 50 ; il en déduisait que le prix minimal d’adjudication au sens de l’art.
+126 LP (loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1) devait être
+de 3'000'000 francs ; il mentionnait, à titre de comparaison, le prix de vente minimal de la
+parcelle RF 1[...]7 fixé à 1'104'016 fr. 55, en prétendant que ce montant était «
+quasiment
+identique à l’estimation de l’Office selon le rapport d’expert qui avait été
+fixé
+(sic)
+à CHF 1'750'000.00
+» ; il
+considérait que le montant du prix minimal d’adjudication faisait courir le risque d’une
+réalisation à vil prix ; il en concluait qu’il fallait le fixer à tout le moins
+à une moyenne entre les estimations des valeurs vénales fournies par les deux experts (3'200'000
+fr. et 5'200'000 fr.), soit à 4'200'000 francs. Il soutenait au surplus que le montant de l’enchère
+minimale de 10'000 fr. retenu par l’Office était trop bas et ne permettait pas une vente de
+l’immeuble au meilleur prix avec pour objectif minimal d’atteindre le prix de l’estimation ;
+un montant de 50'000 fr. serait plus approprié. Par ailleurs, selon lui, le ch. 23 let. j des conditions
+de vente mentionnait de manière erronée qu’une procédure de maintien (renouvellement)
+de la concession de port était en cours alors que lui-même aurait obtenu le maintien de cette
+concession pour une durée de quinze ans supplémentaires ; il précisait toutefois
+qu’un recours était pendant auprès du Tribunal fédéral. Enfin, il soutenait
+qu’il était impératif de procéder à une double vente des parcelles RF 2[...]1
+et 1[...]7 «
+dans
+l’esprit de la procédure de double mise à prix
+» ;
+selon lui, il était «
+fort
+à parier
+» que les amateurs seraient
+enclins à offrir une somme supérieure s’ils obtenaient l’assurance d’acquérir
+les deux objets.
+4.
+L’Office s’est déterminé le 21 décembre 2023 sur les requêtes d’effet
+suspensif contenues dans les deux plaintes, en concluant à leur rejet.
+La créancière L.________ s’est déterminée le 21 décembre 2023 sur les
+deux plaintes, concluant à leur rejet.
+Par décision du 22 décembre 2023, l’autorité inférieure de surveillance a refusé
+d’octroyer les effets suspensifs requis.
+Dans sa détermination du 22 décembre 2023, l’Administration cantonale des impôts,
+pour l’Etat de Vaud, créancier du plaignant, propriétaire de la parcelle RF 2[...]1,
+et de K.________AG, propriétaire de la parcelle RF 1[...]7, a conclu au rejet des requêtes
+d’effet suspensif et au rejet des plaintes.
+Dans sa détermination du 5 janvier 2024, l’Office a conclu au rejet des deux plaintes. Il
+relevait en conclusion de son acte que le plaignant avait obtenu de nombreux «
+sursis
+»
+et cherchait à repousser une nouvelle fois les ventes par tous les moyens possibles, que les griefs
+soulevés relevaient de l’appréciation mais que le plaignant ne démontrait pas que
+l’appréciation opérée par l’Office était incorrecte ou arbitraire, ce
+dont il était conscient, et que de tels comportements pouvaient être sanctionnés par une
+amende de 1'500 fr. au plus ainsi que par le paiement des émoluments et débours.
+Le 18 janvier 2024, la banque E.________AG s’est est remise à justice sur la plainte relative
+à la parcelle RF 2[...]1, sous réserve de la conclusion tendant à la modification du prix
+minimum d’adjudication fixé dans les conditions de vente dont elle demandait le rejet.
+Une visite des parcelles s’est déroulée le 26 janvier 2024. Le 29 janvier 2024, S.________
+a écrit à l’Office pour se plaindre du déroulement de la visite et a requis «
+sans
+délai la suspension des procédés de vente
+».
+Une audience sur les deux plaintes du 15 décembre 2023 s’est tenue le 30 janvier 2024, en
+présence du plaignant et de son conseil, de la créancière L.________ et de son conseil,
+des représentants de l’Administration cantonale des impôts et du Préposé substitut
+de l’Office.
+Par décision du 31 janvier 2024, l’Office, considérant que la LP ne prévoyait pas
+d’autre sursis à la réalisation que celui régi par l’art. 123 LP, a rejeté
+la requête du plaignant du 29 janvier précédent tendant à la suspension des enchères
+et a confirmé que celles-ci étaient maintenus pour le 27 février 2024. Le 5 février
+2024, le plaignant a déposé une nouvelle plainte LP contre cette décision de l’Office.
+Le 8 février 2024, l’autorité inférieure de surveillance a rejeté la requête
+d’effet suspensif contenue dans cette plainte. Par acte du 9 février 2024, le plaignant a
+recouru contre cette décision auprès de la Cour des poursuites et faillite qui, par arrêt
+du 21 février 2024, a déclaré ce recours irrecevable (CPF 21 février 2024/7).
+Le 27 février 2024, il a été procédé aux ventes forcées et les deux immeubles
+ont été adjugés à [...] Immobilier SA, au prix respectivement de 3'700'000 fr. (RF
+2[...]1) et de 1'104'016 fr. 55 (RF 1[...]7), un délai au 27 mai 2024 étant imparti à
+cette société pour verser le solde des prix de vente. Le plaignant, respectivement K.________AG,
+ont contesté les adjudications par le dépôt de plaintes LP, qui ont toutes deux été
+rejetées par décisions de l’autorité inférieure de surveillance du 1
+er
+juillet 2024. Des recours ont été déposés contre ces rejets, qui n’ont pas
+encore été tranchés (réf. FA24.010936-240961 et FA24.010699-240960)
+5.
+Par prononcé rendu sous forme de dispositif le 2 février 2024 et de décision motivée
+le 7 mai 2024, le Président du Tribunal d’arrondissement de l’Est vaudois, autorité
+inférieure de surveillance, (ci-après : le premier juge) a rejeté les deux plaintes
+déposées le 15 décembre 2023 et statué sans frais. Il a rejeté le grief commun
+aux deux plaintes relatif à la vente en bloc, au motif que les immeubles réalisés n’étaient
+pas engagés collectivement, que le plaignant ne démontrait pas qu’ils constitueraient
+une unité économique impliquant une forte diminution de valeur en cas de vente séparée
+et qu’il n’existait par ailleurs aucune raison objective de vendre ces immeubles en bloc ;
+comme relevé par l’Administration cantonale des impôts dans ses observations, des ventes
+séparées seraient susceptibles d’intéresser plus d’amateurs différents
+et ainsi de faire croître de manière plus favorable les montants dans chacune des enchères.
+Il a rejeté le grief concernant le prix minimal d’adjudication de la parcelle RF 2[...]1 en
+relevant que l'adjudication était subordonnée à l'observation du principe de l'offre suffisante,
+d'après lequel l'immeuble ne pouvait être adjugé que si l'offre la plus élevée
+était supérieure à la somme des créances garanties par gage inscrites à l'état
+des charges et préférables à celles du poursuivant, à savoir le créancier gagiste
+à la requête duquel la vente a été ordonnée (art. 53 al. 1 et 105 al. 1
+ORFI [ordonnance du Tribunal fédéral sur la réalisation forcée des immeubles ;
+RS 281.42]) et que, sous cette condition, l'adjudication devait avoir lieu même si l'offre décisive
+était inférieure - fût-ce notablement - à la valeur d'estimation du gage, la loi
+actuelle n'exigeant plus que l'offre atteigne par surcroît le « prix d'estimation »
+et le préposé n'étant pas habilité à refuser l'adjudication parce que la somme
+des créances préférables n'avait pas été dépassée d'un montant déterminé
+ou parce qu'il estimait que le prix proposé n’était pas assez élevé ;
+le prix d’adjudication minimum devait ainsi être distingué de l'estimation, qui détermine
+la valeur vénale présumée de l'immeuble à réaliser (art. 9 al. 1 ORFI), à
+savoir le produit prévisible de la vente, mais sans devoir être « la plus élevée
+possible » ; par ailleurs, comme l’a relevé la banque E.________AG dans ses
+observations, la fixation d’un prix minimum d’adjudication largement supérieur à
+la créance du créancier-gagiste poursuivant viderait les droits de ce dernier de leur substance
+dans la mesure où il en résulterait un risque important que, faute d’offres suffisantes
+à un tel prix, l’immeuble ne soit finalement pas adjugé et qu’un certificat d’insuffisance
+de gage soit délivré au créancier-gagiste ; le premier juge a en outre relevé
+que l’office des poursuites jouissait d’une marge d’appréciation dans la fixation
+des conditions des enchères, dont seuls l’abus ou l’excès étaient sanctionnés,
+et qu’en l’espèce, le plaignant n’établissait pas un abus ou un excès
+d’appréciation dans la fixation du prix minimum d’adjudication. Il a également
+rejeté le grief relatif au montant de l’enchère minimale de 10'000 fr. de la parcelle
+RF 2[...]1 en considérant qu’il n’y avait aucun excès ou abus de l’Office
+dans sa marge d’appréciation, et que, comme souligné par ce dernier dans ses déterminations,
+un montant de 50'000 fr. paraissait trop élevé et risquerait de limiter le nombre d’offres
+qui pourraient être faites lors des enchères. Il a également rejeté le dernier grief
+relatif à la parcelle RF 2[...]1, concernant la concession du port, en relevant que le plaignant
+invoquait lui-même que la situation n’était pas définitive puisqu’un recours
+au Tribunal fédéral aurait été déposé, d’une part, et qu’en
+tout état de cause, c’était le propriétaire et non l’immeuble réalisé
+qui bénéficierait d’une telle concession, d’autre part. Enfin, le premier juge
+a rejeté le grief relatif aux conditions de vente de l’immeuble RF 1[...]7 et à la possibilité
+d’y exploiter une brasserie, au motif que les conditions de vente contestées ne mentionnaient
+aucun accessoire.
+6.
+Par acte déposé le 21 mai 2024, la plaignant a recouru contre le prononcé précité,
+qui lui avait été notifié le 8 mai précédent, par l’intermédiaire
+de son conseil. Il a requis à titre préalable l’octroi de l’effet suspensif. Au
+fond, il a conclu, avec suite de frais judiciaires et dépens, à l’annulation du prononcé
+(III), « ce faisant », à l’annulation des adjudications des immeubles
+en cause (IV) et à la modification des conditions de vente immobilières aux enchères de
+l’immeuble RF 2[...]1 en ce sens, d’une part, que les enchères forcées se dérouleront
+selon les modalités requises dans la conclusion V de la plainte déposée concernant cet
+immeuble (V) et, d’autre part, qu’il est constaté que la concession de port No 143/637
+relative à un port privé de plaisance sur le domaine public cantonal et jouxtant la parcelle
+mise en vente est acquise à l’adjudicataire (VI). Le recourant a produit un lot de pièces
+sous bordereau et requis la production d’une pièce 50 (procès-verbal d’audition
+du témoin [...] lors de l’audience du 24 avril 2024 dans la cause en plainte contre les adjudications
+des immeubles [réf. FA24.010936]).
+Par décision du 24 mai 2024, prenant date le 27 mai 2024, le Président de la cour de céans
+a rejeté la requête d’effet suspensif.
+Par lettre du 8 juillet 2024, L.________ a conclu au rejet du recours.
+Par acte du 8 juillet 2024, l’Administration cantonale des impôts, pour l’Etat de Vaud,
+a conclu à l’irrecevabilité des conclusions IV à VI du recours, au rejet de celui-ci
+pour le surplus et à la condamnation du recourant au paiement d’une amende et/ou des émoluments
+et débours en application de l’art. 20a al. 2 ch. 5 LP, au motif qu’en moins de cinq
+ans, il avait introduit vingt-sept procédures, dont vingt-trois procédures de plainte sans
+compter les recours, dans le but de ralentir la procédure de perception et tenter d’atteindre
+la prescription absolue du droit de percevoir l’impôt. La représentante du créancier
+a produit un onglet de pièces sous bordereau.
+Par lettre du 9 juillet 2024, la banque E.________AG a conclu au rejet du recours et à la confirmation
+du prononcé.
+Par acte du 12 juillet 2024, l’Office a conclu au rejet du recours et à la confirmation du
+prononcé attaqué. Il s’est déterminé en se référant à son écriture
+du 5 janvier 2024 et a complété celle-ci sur plusieurs points en relation avec les faits nouveaux
+allégués par le recourant. Il a produit un onglet de pièces.
+En droit :
+I.
+a) aa)
+Formé contre une décision de l’autorité inférieure de surveillance dans le
+délai de dix jours suivant sa notification (art. 18 al. 1 LP et art. 28 al. 1 LVLP
+cum
+73 al. 3 LVLP [loi d’application dans le Canton de Vaud de la LP ; BLV 280.05]), le recours a été
+déposé en temps utile. Il comporte des conclusions et l’énoncé des moyens invoqués,
+de sorte qu’il est conforme aux exigences de l’art. 18 LP et de la jurisprudence y relative
+en matière de motivation, sous réserve de ce qui sera précisé plus bas au considérant
+III c) (TF 5A_118/2018 du 7 février 2018 consid. 4.1 et les références citées).
+bb)
+Comme le relève à juste titre l’Etat de Vaud, l’objet de la plainte est limité
+aux conclusions prises devant l’autorité inférieure de surveillance. Or, en l’espèce,
+le plaignant a ajouté à celles-ci une conclusion IV tendant à l’annulation des adjudications
+des parcelles en cause. Cette conclusion, exorbitante au litige, est irrecevable. Le recourant ainsi
+que K.________AG ont déposé des plaintes au sens de l’art. 17 LP contre ces adjudications,
+qui font l’objet de procédures séparées.
+cc)
+Le recourant requiert la production du procès-verbal d’audition du 24 avril 2024 du témoin
+[...] par l’autorité inférieure de surveillance, dans la procédure relative aux
+plaintes qui ont été déposées contre les adjudications (FA24.010936). Le recourant
+– pour autant qu’on le comprenne – entend alléguer que ce témoin était
+intéressé par un achat en bloc des deux parcelles RF 2[...]1 et 1[...]7, mais qu’il a
+été découragé par le fait que, lors de la visite qui a eu lieu le 26 janvier 2024,
+la propriétaire de la parcelle voisine RF 2[...]0, [...], aurait perturbé le bon déroulement
+de la visite en sollicitant la lecture de divers courriers. Or, la question du déroulement de la
+visite du 26 janvier 2024 ne fait pas l’objet des plaintes présentement litigieuses,
+qui datent du 15 décembre 2023 ; en outre, le recourant n’expose pas en quoi cette question
+pourrait avoir une quelconque incidence sur la seule conclusion à laquelle elle paraît pouvoir
+se rattacher, à savoir la modification des conditions de vente immobilière aux enchères
+de l’immeuble RF no 2[...]1 en ce sens que les enchères forcées se dérouleront
+selon les modalités requises dans la conclusion V de la plainte qu’il a déposée
+en relation avec cet immeuble (enchères séparées et en bloc) ; au demeurant, cette
+conclusion est irrecevable (cf. infra consid. II c) aa)). Au vu de ce qui précède,
+cette réquisition sera rejetée, dans la mesure où elle est recevable.
+b)
+Les déterminations de l’Office et des créanciers sont également recevables ainsi
+que les pièces nouvelles produites par eux et par le recourant (art. 28 al. 4 et 31 LVLP).
+II.
+a) aa)
+Le
+recourant soutient que l’autorité précédente a établi les faits de manière
+inexacte quand elle a retenu que les deux immeubles en cause ne constituaient pas une unité économique.
+Il fait valoir qu’au contraire, il est à la fois le propriétaire de la parcelle RF 2[...]1
+et celui de la société K.________AG, laquelle est propriétaire de la parcelle RF 1[...]7.
+En outre, les deux parcelles seraient reliées par un chemin souterrain «
+qui
+permet de naviguer entre les deux parcelles
+».
+Enfin, la société à laquelle les deux parcelles ont été adjugées a demandé
+elle-même qu’en cas d’annulation de la vente de la parcelle RF 2[...]1, celle de la
+parcelle RF 1[...]7 soit également annulée. Il en déduit qu’il y aurait bien entre
+les deux parcelles une unité économique. En cas de doute sur ce point, il requiert une inspection
+locale. Dès lors que les deux parcelles forment une unité économique, il invoque sur le
+fond une violation de l’art. 108 ORFI. Il fait valoir que le témoin [...] était prêt
+à offrir la somme de 6'100'000 fr. pour les deux immeubles, mais qu’il n’est pas venu
+aux séances d’enchères en raison de l’intervention de la propriétaire voisine
+[...] lors de la visite des immeubles le 26 janvier 2024.
+bb)
+L’Etat de Vaud conteste que l’état de fait ait été établi de manière
+inexacte et, en particulier, que les deux parcelles appartiennent au recourant comme celui-ci tente de
+le faire croire. Il relève que le recourant, assisté d’un avocat, ne peut pas ignorer
+que la parcelle RF 1[...]7 appartient à une personne morale, et non à lui-même ; peu importe,
+dès lors, qu’il soit actionnaire de ladite personne morale, ce qu’il ne prouve d’ailleurs
+pas ; c’est le recourant qui a vendu en 2018 la parcelle RF 1[...]7 à la société
+K.________AG, suite à une division parcellaire de la parcelle RF 2[...]1 en 2006, comme le prouvent
+les extraits du Registre foncier produits le 22 décembre 2023 par l’Etat de Vaud ; c’est
+donc par la volonté du recourant lui-même que les parcelles ont des propriétaires différents.
+L’Etat de Vaud soutient que la question de la bonne foi du recourant se pose puisqu’il critique
+une situation de fait qu’il a lui-même créée. En outre, il déclare ne pas comprendre
+pour quels motifs le recourant n’a pas fait mention des éléments factuels dont il se
+prévaut lors des deux expertises qui ont été réalisées avant la vente. Dans
+la mesure où, sur le fond, le recourant prétend qu’il existe une unité économique
+entre les deux parcelles et que les arguments qu’il invoque à cet égard sont mal fondés,
+l’Etat de Vaud en déduit qu’il échoue à établir que l’art. 108
+ORFI est violé.
+cc)
+Quant à l’Office, à l’instar
+de l’Etat de Vaud, il rappelle que les immeubles réalisés ne sont pas engagés collectivement
+et qu’en règle générale, dans ce cas, les immeubles doivent être vendus séparément
+en vertu du principe de la spécialité des droits réels au sens de l’art. 797 CC
+(Code civil ; RS 210). Ce n’est qu’exceptionnellement que des immeubles gagés séparément
+peuvent être réalisés en bloc ou par lots, mais uniquement s’ils forment une unité
+économique ne pouvant être dissoute sans une forte diminution de valeur. Or, selon l’Office,
+ces conditions exceptionnelles ne sont pas remplies en l’espèce. Il rappelle à cet égard
+que les deux parcelles ont des propriétaires différents et que c’est le recourant lui-même
+qui a morcelé la parcelle de base RF 2[...]1 dont il était propriétaire pour créer
+la parcelle RF 1[...]7 et qui a ensuite vendu celle-ci à la société K.________AG en 2018.
+L’Office déduit des agissements du recourant et du fait que chaque parcelle est grevée
+individuellement la volonté de créer deux entités économiques distinctes. Quant à
+la demande de la société à laquelle les deux parcelles ont été adjugées,
+elle a été faite dans le cadre de la plainte que le recourant a déposée contre les
+adjudications et tend à ce que soit annulée l’adjudication de la parcelle RF 1[...]7
+en cas d’annulation de l’adjudication de la parcelle RF 2[...]1 ; l’Office relève
+que l’adjudicatrice n’a pas requis l’inverse et que sa demande ne traduit tout au plus
+que sa volonté d’être propriétaire des deux parcelles. Il en déduit qu’il
+n’existe aucune condition objective pour vendre ces immeubles en bloc.
+b) aa)
+La
+vente forcée d'immeubles peut avoir lieu après une poursuite par voie de saisie, après
+une poursuite en réalisation de gage, ensuite d'une faillite, ou dans le cadre d'un concordat.
+Dans le premier cas, les immeubles sont saisis lorsque les meubles ne suffisent pas à couvrir le
+montant de la créance (art. 95 al. 2 LP). La réalisation a lieu dans les délais prévus
+aux art. 116 al. 1 et 133 al. 1 LP. L'office des poursuites arrête les conditions des enchères
+d'après l'usage des lieux et de la manière la plus avantageuse (art. 134 LP). Il dispose d'une
+certaine marge d'appréciation, mais celle-ci a uniquement pour but la recherche de la solution économiquement
+la plus avantageuse, permettant de retirer de la vente un prix le plus élevé possible, dans
+l'intérêt des créanciers et débiteurs (ATF 128 II 206 consid. 5.2.2 ; ATF 126
+III 33 consid. 2). Les conditions de vente peuvent être attaquées par la voie de la plainte
+et du recours aux autorités de surveillance, notamment au motif qu'elles ne permettraient pas d'escompter
+le résultat le plus avantageux (Gilliéron, Commentaire de la LP, vol. II, 2000, n. 15
+ad
+art. 134 LP). Fondée sur l'art. 15 LP, l’ORFI règle notamment les actes préparatoires
+(art. 25 à 32), les conditions de vente (art. 45 à 52), les enchères et l'adjudication
+(art. 53 à 72). Les conditions de vente doivent notamment préciser, lorsque la vente porte
+sur plusieurs immeubles, si ceux-ci sont mis en vente en bloc, par lots ou par parcelles (art. 45 al.
+1 let. b ORFI).
+Dans la poursuite en réalisation de gage, la réalisation, dans le délai prévu à
+l'art. 145 LP, est soumise aux mêmes principes (art. 156 al. 1 LP). Les dispositions des art. 106a
+à 108 ORFI portent sur la réalisation des immeubles en copropriété et sur les droits
+de gages portant sur plusieurs immeubles (cf. infra consid. II b) bb)).
+Dans le cas d'une faillite, l'immeuble tombe dans la masse et est réalisé par l'administration
+aux enchères publiques ou de gré à gré si les créanciers le jugent préférable
+(art. 256 al. 1 LP). Les art. 134 à 137 LP sont notamment applicables par analogie aux enchères
+(art. 259 LP).
+bb) aaa)
+Comme on l’a vu au considérant précédent, conformément à l'art. 134 al.
+1 LP, applicable aux poursuites en réalisation de gage par renvoi de l'art. 156 al. 1 LP, l'office
+des poursuites arrête les conditions des enchères immobilières d'après l'usage des
+lieux et de la manière la plus avantageuse. Les conditions de vente, y compris l'état des charges,
+constituent le fondement de toute vente aux enchères d'immeubles ; elles en déterminent les
+formalités, notamment les modalités de l'adjudication (ATF 128 III 339 consid. 4a ; TF
+5A_464/2023 du 31 août 2023 consid. 3.1.2). Leur contenu est défini par les art. 135 LP et
+45 ss ORFI. Aux termes de l’art. 45 al. 1 ORFI, outre l’indication du débiteur,
+du créancier à la requête duquel la réalisation est opérée, du lieu et
+de la date de la vente et outre la désignation de l’immeuble et de ses accessoires, les conditions
+de vente doivent renfermer au moins les dispositions suivantes : a) elles doivent spécifier que
+l’immeuble est vendu avec toutes les charges le grevant d’après l’état des
+charges (servitudes, charges foncières, droits de gage immobilier et droits personnels annotés)
+et que les obligations personnelles du débiteur seront déléguées à l’acquéreur
+en ce qui concerne les dettes non exigibles, pour autant qu’elles subsistent d’après
+le prix d’adjudication (art. 135 LP) ; b) en cas de réalisation de plusieurs immeubles,
+les conditions de vente doivent indiquer s’ils seront mis en vente en bloc, par lots ou par parcelles
+et, éventuellement, la composition des lots et l’ordre des enchères.
+bbb)
+Selon l’art. 108 al. 1 ORFI, les immeubles donnés en gage séparément ne peuvent
+être vendus en bloc ou par lots que lorsqu’ils constituent une unité économique
+qui ne peut être démembrée sans forte diminution de valeur. Selon l’art. 108 al.
+1bis ORFI, la mise à prix en bloc ou par lots devra toujours être précédée de
+mises à prix séparées pour chaque immeuble ; les derniers enchérisseurs des
+divers immeubles mis à prix séparément resteront liés par leur offre jusqu’à
+ce que la mise à prix en bloc ou par lots ait eu lieu ; selon que les mises à prix séparées
+ou la vente en bloc ou par lots auront donné le prix global le plus élevé, l’adjudication
+sera prononcée en faveur des plus offrants lors des mises à prix séparées ou du plus
+offrant lors de la vente en bloc ou des plus offrants lors de la vente par lots. Cette façon de
+procéder sera, si possible, prévue dans les conditions de vente et dans tous les cas il en
+sera donné connaissance aux personnes présentes au début des enchères (art. 108 al.
+2 ORFI). Les conditions de vente mentionneront en outre que, lors de la mise à prix en bloc, la
+part au produit de la réalisation revenant à chaque immeuble individuellement devra atteindre
+au moins le montant de l’offre la plus élevée qui a été faite pour l’immeuble
+concerné lors de la mise à prix séparée (art. 108 al. 3 ORFI).
+Lorsque plusieurs immeubles ont été donnés en gage séparément, le créancier
+doit, s’il veut faire valoir ses créances garanties par gage par la voie de la réalisation
+forcée, introduire une poursuite séparée pour chacun des immeubles constitués en
+gage. Des immeubles donnés en gage séparément doivent en règle générale
+également être réalisés séparément ; ceci correspond au principe de
+la spécialité du gage des droits réels au sens de l’art. 797 CC (Kren Kostkiewicz,
+Verordnung des Bundesgerichts über die Zwangsverwertung von Grundstücken (VZG) – Kurzkommentar,
+2
+e
+éd. 2024, n. 1 et 2
+ad
+art. 108 VZG, pp. 609-610 ; Schmid-Tschirren, Basler Kommentar, ZGB II, n. 1
+ad
+art. 797 ZGB ; Amonn, Die Rechtsprechung des Bundesgerichts im Jahre 1989, pp. 653-683, spéc.
+668 s. [ATF 115 III 55]). Ce n’est qu’à titre exceptionnel que des immeubles donnés
+en gage séparément peuvent être réalisés en bloc ou par lots, parce qu’ils
+forment une unité économique et qu’une séparation ne pourrait se faire sans qu’il
+en résulte une forte diminution de valeur (Kren Kostkiewicz,
+op.
+et loc. cit.
+). Il s’agit d’une règle
+qui vaut dans l’intérêt des créanciers et du débiteur (
+ibidem
+).
+La notion d’unité économique était notamment utilisée en matière de droit
+des successions dans le domaine agricole avant l’entrée en vigueur de la version actuelle
+de l’art. 108 al. 1 ORFI ; était alors considérée comme unité économique
+toute entreprise agricole qui pouvait être exploitée de manière rentable depuis un centre
+commun par les mêmes forces de travail et sans effort démesuré (ATF 107 II 319 consid.
+4). La caractéristique de l’exploitation commune ne doit pas nécessairement être
+remplie pour pouvoir admettre une unité économique en présence de plusieurs immeubles ;
+une telle unité existe déjà lorsque l’unité spatiale ou fonctionnelle des immeubles
+engendre une valeur ajoutée qui se répercutera finalement aussi sur le produit de la vente
+(
+ibidem
+).
+cc)
+Les conditions de vente peuvent être attaquées, par la voie de la plainte, soit parce qu'elles
+n'ont pas été arrêtées d'après l'usage des lieux et ne permettraient pas d'escompter
+le résultat le plus avantageux, soit parce qu'elles violeraient une disposition explicite ou l'esprit
+de la loi (cf. art. 134 LP ; TF 5A_464/2023 du 31 août 2023 consid. 3.1.2 ; 5A_853/2014
+du 23 mars 2015 consid. 6.1.1). Seule la contestation des conditions d’enchères permet d’examiner
+la décision qui a été prise par l’office des poursuites de procéder à
+une mise à prix en bloc ou par lots (TF 7B.109/2003 consid. 1.2). Une plainte contre l’adjudication
+ne permet toutefois plus de faire valoir que la mise en vente aurait dû intervenir séparément
+pour chaque immeuble donné en gage séparément ou en bloc (TF 7B.109/2003 consid. 1.2).
+c) aa)
+En l’espèce, il n’est pas contesté que la plainte déposée par le recourant
+contre les conditions de vente de l’immeuble RF 2[...]1 était recevable dans la mesure où
+les conditions contestées concernaient cet immeuble. L’Etat de Vaud se prévaut de ce
+que le recourant demande uniquement la modification des conditions de vente de l’immeuble RF 2[...]1,
+et non plus de celles de l’immeuble RF 1[...]7, et réclame toujours la vente en bloc
+des deux immeubles, de sorte que l’acte de recours serait «
+difficilement
+applicable
+» dans la mesure où
+il serait impossible de parvenir à la solution préconisée par le recourant sans modifier
+également les conditions de vente de l’immeuble RF 1[...]7 qui ne sont plus contestées.
+Il en résulterait que la conclusion V du recours serait irrecevable.
+Ce grief est fondé. En effet, dans la conclusion V de son acte de recours, qui reprend
+in
+extenso
+la conclusion V de sa plainte contre les
+conditions de vente de l’immeuble RF 2[...]1, le recourant a requis que les immeubles RF 2[...]1
+et 1[...]7 soient successivement vendus de manière séparée et que «
+celui
+qui aura fait l’offre la plus élevée lors de la première vente restera lié
+jusqu’à la fin de la seconde vente et les biens seront attribués au plus offrant en comparaison
+des prix obtenus par la vente individuelle de chacun des deux objets versus la vente en bloc de ces deux
+objets
+». Il s’ensuit que, pour
+être admise, la conclusion V de l’acte de recours supposerait que les conditions de vente
+de la parcelle RF 1[...]7 soient également modifiées (cf. art. 134 et 135 LP ainsi que
+45 al. 1 let. b ORFI). Or, ces conditions de vente ne sont plus contestées par le recourant, qui
+n’a pas recouru contre le rejet de la plainte qu’il avait déposée sur ce point.
+Sauf à éluder les règles sur le délai de recours de l’art. 18 LP, il n’est
+pas possible à la cour de céans d’admettre la recevabilité de conclusions qui touchent
+des conditions de vente non contestées. La conclusion V de l’acte de recours doit donc être
+écartée. Il en va de même de la réquisition du recourant tendant à ce que, en
+cas de doute sur le fait que les deux parcelles forment une unité économique, la cour de céans
+procède à une inspection locale. Au vu de l’irrecevabilité de la conclusion V de
+l’acte de recours, cette réquisition perd son objet.
+bb)
+De toute manière, ladite conclusion V aurait manifestement dû être rejetée, pour
+les motifs exposés par la décision attaquée et les déterminations des créanciers
+et de l’Office.
+Contrairement à ce que laisse entendre le recourant pour la première fois dans son acte de
+recours, il n’est pas le propriétaire des deux immeubles en cause. Certes, il fait valoir
+qu’il est le « propriétaire » de la société K.________AG. Il
+ne précise pas ce qu’il entend par là, ni ce qu’il entend en déduire factuellement
+ou juridiquement. S’il entend invoquer qu’il en est l’actionnaire unique, il lui incombait
+d’en apporter la preuve, ce qu’il n’a pas fait. Quoi qu’il en soit, il ne saurait
+échapper au recourant, qui est assisté d’un avocat, que le principe est que lorsqu’une
+personne fonde une société anonyme ou en est l’actionnaire unique, il y a deux sujets
+de droit distincts avec des patrimoines séparés, la personne physique d’une part et la
+personne morale de l’autre (ATF 144 III 541 consid. 8.3.1). Le recourant ne fait pas valoir que
+le principe de la transparence (
+Durchgriff
+)
+pourrait faire échec à la dualité existant entre lui-même et la société
+K.________AG, et on voit mal que ce puisse être le cas. Dans ces conditions, il faut bien partir
+du principe que les deux immeubles litigieux appartenaient à des propriétaires distincts. Il
+en va de même des créanciers gagistes qui ont engagé des poursuites en vue de faire réaliser
+lesdits immeubles, qui étaient différents. C’est parce que les créanciers poursuivants
+étaient distincts, que les immeubles avaient été donnés en gage pour des créances
+différentes et que les propriétaires desdits immeubles étaient différents que les
+poursuites en réalisation et les ventes aux enchères ont été distinctes (cf. art.
+797 et 816 CC ; cf. supra consid. II b) bb)).
+Le recourant conteste certes le fait, retenu par l’autorité inférieure, que les immeubles
+en cause ne formaient pas une unité économique. Il ne fait toutefois valoir aucun argument
+sérieux, factuel ou juridique, propre à rendre vraisemblable le contraire. Le fait que les
+immeubles seraient reliés par un passage souterrain ne repose que sur ses dires. En particulier,
+il ne précise pas quel passage des deux expertises judiciaires serait probant à cet égard.
+De toute manière, un tel passage serait insuffisant pour déduire l’existence d’une
+unité, et a fortiori d’une unité « économique », étant
+relevé que le recourant n’amène aucun début d’argument pour alléguer
+et établir le caractère économique de cette prétendue unité. Enfin, il n’est
+pas possible de déduire quoi que ce soit d’objectif de la déclaration de l’adjudicataire
+dont se prévaut le recourant. Il faut bien plutôt déduire du fait que le recourant a morcelé
+la parcelle RF 2[...]1 en deux parcelles RF 2[...]1 et 1[...]7, puis s’est dessaisi de la parcelle
+ainsi nouvellement créée RF 1[...]7, qu’il admettait lui-même que ces deux immeubles
+ne formaient pas une unité et pouvaient suivre un sort séparé. Cette conclusion est renforcée
+par le fait que le recourant, alors qu’il est assisté d’un avocat, n’a pas contesté
+la décision de l’autorité inférieure de surveillance rejetant sa plainte en relation
+avec les conditions de vente de l’immeuble RF 1[...]7 ; or, s’il considérait vraiment
+de bonne foi que les deux immeubles constituaient une unité économique comme il le soutient,
+il aurait également recouru contre cette décision.
+A supposer recevable, la conclusion V du recours devrait donc être rejetée. Faute de tout doute
+au sujet de l’absence d’unité économique entre les deux immeubles, la réquisition
+tendant à ce que la cour de céans procède à une inspection locale devrait ainsi,
+elle aussi, être rejetée.
+Au vu de ce qui précède, c’est manifestement à tort que le recourant soutient que
+l’état de fait a été établi de manière inexacte, d’une part, et
+que l’art. 108 ORFI aurait été violé, d’autre part. L’Office n’a
+pas violé l’art. 134 LP en arrêtant les conditions de vente de l’immeuble en cause
+RF 2[...]1. Il s’ensuit que, même recevables, les griefs du recourant auraient dû être
+rejetés.
+III.
+a) aa)
+Le recourant soutient que c’est à tort que l’Office a refusé de faire figurer dans
+les conditions de vente de l’immeuble RF 2[...]1 «
+que
+la concession de port No 143/637 relative à un port privé de plaisance sur le domaine public
+cantonal serait acquise à l’adjudicateur
+».
+Il admet qu’il est vrai que le bénéficiaire de la concession est le propriétaire.
+Il soutient que cette concession a été renouvelée et qu’il est primordial «
+de
+le faire figurer dans les conditions de vente du fait que c’est à même de faire venir
+davantage de personnes à la vente aux enchères
+».
+Il prétend avoir «
+démontré
+facture à l’appui la possibilité de renouveler la concession de port
+» ;
+il déclare que cette concession «
+sera
+renouvelée moyennant plusieurs petits travaux pour lesquels la mise à l’enquête
+publique n’a fait l’objet d’aucune opposition, démontrant de ce fait la possibilité
+de renouveler
+».
+bb)
+L’Etat de Vaud se réfère au
+prononcé attaqué. Il souligne que les explications du recourant concernant le port de plaisance
+sont confuses et ne permettent aucunement de savoir si la concession a été renouvelée
+ou si elle doit l’être moyennant plusieurs travaux et qu’a fortiori, il n’en ressort
+pas quelle était la situation à la date de la publication des conditions de vente.
+cc)
+Se référant à ses précédentes
+déterminations, l’Office soutient que, comme l’indique le ch. 23 let. j des conditions
+de vente dont le recourant demande la modification, c’est le propriétaire et non l’immeuble
+réalisé qui bénéficie d’une concession d’un port privé de plaisance
+sur le domaine public cantonal, concédée par la Direction générale de l’environnement.
+L’Office en déduit qu’il n’est pas légitimé à assurer à l’adjudicataire
+le transfert de cette concession et que le fait que le renouvellement de cette concession soit en cours
+n’y change rien.
+b)
+Comme on l’a vu (cf. supra consid. II b) bb)), l’Office arrête les conditions
+de vente selon le droit fédéral (art. 135 à 137 LP; art. 45 ss ORFI), ainsi que d'après
+l'usage des lieux et de la manière la plus avantageuse (art. 134 al. 1 LP). En la matière,
+il jouit d'une marge d'appréciation dont seul l'abus ou l'excès sont sanctionnés (cf.
+supra consid II b) aa) ; TF 5A_244/2016 du 4 octobre 2026 consid. 4.2, publié
+in
+BlSchK 2017 pp. 19 ss ; Piotet,
+in
+Commentaire romand, Poursuite et faillite, 2005, n. 4 ad art. 134 LP ; CPF 15 juin 2017/13).
+c)
+En l’espèce, le recourant ne conteste
+pas le raisonnement fait par l’autorité inférieure, que ce soit au niveau factuel ou
+juridique. Il se contente de procéder par affirmations non étayées et ne cherche pas à
+démontrer que l’autorité inférieure aurait mal appliqué le droit, en particulier
+l’art. 135 al. 1 LP - qui régit le contenu des conditions des enchères. A fortiori ne
+cherche-t-il pas à démontrer que l’office aurait excédé ou abusé de son
+pouvoir d’appréciation dans le cadre de l’application de l’art. 134 LP. Manifestement,
+le recourant ne fait valoir aucun grief recevable au sens de la jurisprudence rendue par le Tribunal
+fédéral sur l’art. 18 LP (TF 5A_118/2018 du 7 février 2018 consid. 4.2 ; CPF
+25 juillet 2023/22 du 25 juillet 2023).
+Au surplus, et en tout état de cause, le recourant n’invoque pas ni ne démontre que la
+concession en cause - dont le renouvellement n’est pas établi - passerait à l’acquéreur
+avec la propriété de la chose, à l’instar par exemple du contrat de bail en vertu
+de l’art. 50 ORFI.
+Le grief à l’appui de la conclusion VI est irrecevable et aurait dû être rejeté
+de toute façon.
+IV.
+a)
+Le recours doit ainsi être rejeté dans la mesure de sa faible recevabilité.
+b) aa)
+L’Etat de Vaud conclut à ce que le recourant soit condamné au paiement d’une amende
+et/ou aux émoluments en application de l’art. 20a al. 2 ch. 5 LP. Il cite un extrait d’un
+jugement du Tribunal de Sierre selon lequel le recourant avait déposé douze plaintes LP devant
+lui entre 2021 et 2023, et soutient que la plainte LP contestant les conditions de vente du 5 décembre
+2023 ainsi que le présent recours sont dénués de fondement juridique admissible et «
+n’ont
+une fois de plus pour seul but que de retarder la procédure et obtenir la prescription du droit
+de percevoir l’impôt
+». Il
+s’agirait d’une instrumentalisation de la justice qui devrait être réprimée.
+bb)
+Aux termes de l'art. 20a al. 2 ch. 5 LP, les procédures devant les autorités cantonales de
+surveillance sont gratuites. La partie ou son représentant qui use de procédés téméraires
+ou de mauvaise foi peut être condamné à une amende de 1'500 fr. au plus ainsi qu'au paiement
+des émoluments et des débours. Se verra reprocher un comportement téméraire ou de
+mauvaise foi celui qui - en violation du devoir d'agir selon la bonne foi, principe aussi applicable
+en procédure - forme un recours sans avoir d'intérêt concret digne de protection et bien
+que la situation en fait et en droit soit claire, avant tout pour ralentir la procédure de poursuite
+(ATF 127 III 178 consid. 2a ; TF 5A_438/2020 du 15 juin 2020 consid. 5.1 ; 5A_350/2017 du 28
+juillet 2017 consid. 3.7). Il s'agit ainsi de sanctionner les procédés qui troublent le cours
+ordinaire de l'exécution forcée et les procédés dilatoires, dont le devoir général
+d'agir de bonne foi implique de s'abstenir (Gilliéron,
+op.
+cit.
+, vol. I, 1999, n. 19
+ad
+art. 20a LP), tels que le dépôt d'un recours voué d'emblée à l'échec,
+la multiplication d'actes peu intelligibles, le fait de soulever des griefs « tous azimuts »
+faisant fi des règles de compétence des juridictions saisies (TF 7B.105/2005 du 3 août
+2005 consid. 3.2).
+La condamnation aux frais ou à une amende en vertu de l'art. 20a al. 2 ch. 5 LP relève du (large)
+pouvoir d'appréciation de l'autorité de surveillance, dont l'exercice n'est revu en instance
+fédérale qu'avec retenue (TF 5A_438/2020 du 15 juin 2020 consid. 5.1 ; 5A_640/2014 du
+16 octobre 2014 consid. 4).
+cc)
+En l’espèce, contrairement à
+une procédure de plainte précédente, l’Etat de Vaud ne se fonde pas sur l’art.
+20a al. 2 ch. 5 LP pour conclure à la réforme du prononcé attaqué (cf. CPF 10 août
+2023/23 : recours irrecevable), mais pour que la témérité du recourant soit reconnue
+dans le cadre de la présente procédure de recours.
+Il est vrai que les arguments du recourant sont tous irrecevables ou dépourvus de substance. En
+outre, la cour de céans a statué à trois reprises en 2023 et 2024 sur des recours qu’il
+a déposés dans le cadre de plaintes relatives à la réalisation des immeubles en cause
+(CPF 21 février 2024/7 : recours irrecevable) ou du seul immeuble RF 2[...]1 (CPF 20 octobre 2023/30 :
+recours rejeté pour défaut de production de pièces établissant les travaux allégués
+dans le port ; CPF 1
+er
+mai 2023/11 : recours rejeté pour tardiveté de la plainte et défaut de fondement de la
+nullité alléguée). Vu le contenu du recours, on peut admettre qu’on a affaire à
+la réitération du dépôt d’actes similaires - à savoir irrecevables ou
+manquant de substance - et que la volonté du recourant a été en 2023 et 2024 de ralentir
+la vente forcée de l’immeuble RF 2[...]1 dont il est le propriétaire, et non de faire
+valoir de bonne foi des arguments dignes de protection devant l’autorité de céans. Il
+s’agit d’un comportement qui peut être qualifié de téméraire. Pour ce
+motif, la cour inflige au recourant une amende de 750 francs.
+Le présent arrêt est rendu sans frais ni dépens (art. 61 al. 2 let. a et 62 al. 2 OELP
+[ordonnance sur les émoluments perçus en application de la LP ; RS 281.35]). Le recourant est
+toutefois expressément avisé que d’éventuels procédés ultérieurs
+qui seraient téméraires se verraient taxés des frais, en plus d’une amende qui pourrait
+être plus élevée.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+Le prononcé est confirmé.
+III.
+Le recourant est condamné à une amende de 750 fr. (sept cent cinquante francs).
+IV.
+L’arrêt, rendu sans frais ni dépens,
+est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Raphaël Guisan, avocat (pour S.________),
+-
+M. le Préposé à l’Office des poursuites du district de Lavaux-Oron,
+-
+Me Alain Dubuis, avocat (pour L.________),
+-
+Administration cantonale des impôts (pour l’Etat de Vaud),
+-
+E.________AG
+-
+Commune de [...],
+-
+Etablissement cantonal d’assurance contre l’incendie et les éléments naturels (ECA),
+-
+Office d’impôt des personnes morales (pour l’Etat de Vaud),
+-
+Me Ismael Fetahi, avocat (pour [...]),
+-
+M. le Préposé à l’Office des poursuites du district de Sierre.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
