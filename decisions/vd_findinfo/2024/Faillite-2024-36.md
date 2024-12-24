@@ -1,0 +1,243 @@
+---
+decision_id: "vd_findinfo_Faillite___2024___36"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2024 / 36"
+decided: "2024-12-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10151797"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-191.md"]
+---
+
+# VD Findinfo Faillite / 2024 / 36
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, PAIEMENT, INSOLVABILITÉ | 174 al. 1 LP, 174 al. 2 LP, 174 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2024 / 36
+
+OUVERTURE DE LA FAILLITE, PAIEMENT, INSOLVABILITÉ | 174 al. 1 LP, 174 al. 2 LP, 174 LP
+
+TRIBUNAL
+CANTONAL
+FF24.036927-241382
+239
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+24 décembre 2024
+__________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Cherpillod, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+174 al. 1 et 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+H.________
+SA
+, à [...], contre le jugement rendu le
+23 septembre 2024, à la suite de l’audience du 17 septembre 2024, par la Présidente
+du Tribunal d’arrondissement de l’Est vaudois, prononçant la faillite de la recourante
+à la réquisition d’
+I.________
+Sàrl
+, à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le
+4 mars 2024, à la réquisition d’I.________ Sàrl, l’Office des poursuites du
+district de la Riviera-Pays-d’Enhaut a notifié à H.________ SA, dans la poursuite n° 11'191'580,
+un commandement de payer la somme de 17'018 fr. avec intérêt à 5 % l’an, indiquant
+comme titre de la créance ou cause de l’obligation : «
+Honoraires
+impayés liés à contrat de mandat signé le 14.07.23 et prestations fournies
+».
+La poursuivie a formé opposition totale.
+b)
+Par
+prononcé du 23 avril 2024, définitif et exécutoire selon attestation du 17 mai 2024, le
+Juge de paix du district de la Riviera-Pays-d’Enhaut a prononcé la mainlevée provisoire
+de l’opposition à concurrence de 13'462 fr. 25, avec intérêt à 5 % l’an
+dès le 28 octobre 2023.
+2.
+Le 27 juin 2024, à la réquisition d’I.________
+Sàrl, l’Office des poursuites du district de la Riviera-Pays-d’Enhaut a notifié
+à H.________ SA une commination de faillite dans la poursuite en cause pour un montant de 13'462
+fr. 25 avec intérêt à 5 % l’an dès le 28 octobre 2023.
+3.
+Le 13 août 2024, I.________ Sàrl a requis
+du Président du Tribunal d’arrondissement de l’Est vaudois qu’il prononce la faillite
+de H.________ SA.
+Par courrier recommandé du 16 août 2024, la présidente a cité H.________ SA à
+comparaître à l’audience du 17 septembre 2024, l’attention de celle-ci étant
+attirée sur le fait qu’elle ne pourrait éviter la faillite qu’en réglant le
+montant en poursuite (en capital, intérêt et frais de poursuite) au créancier directement,
+à son mandataire ou à l’office des poursuite et en payant au greffe les frais du tribunal
+par 50 fr. au moyen d’une QR-facture jointe ou en obtenant du créancier un retrait formel
+et sans condition de la réquisition.
+4.
+Par jugement du 23 septembre 2024, la Présidente
+du Tribunal d’arrondissement de l’Est vaudois, statuant en tant qu’autorité de
+première instance en matière sommaire de poursuites, a prononcé, par défaut des parties,
+la faillite de H.________ SA avec effet au 17 septembre 2024 à 16 h 00 (I), a mis les frais judiciaires
+à la charge de la faillie (II) et a dit que celle-ci était la débitrice d’I.________
+Sàrl de la somme de 200 fr., frais de publication en sus, à titre de remboursement de l’avance
+de frais (III). En substance, la première juge a considéré que la requête de faillite,
+ainsi que les pièces produites (commandement de payer et commination de faillite) étaient conformes
+aux réquisits légaux et que H.________ SA n’avait pas justifié par titre que la
+créance avait été acquittée en capital, intérêts et frais, ou qu’un
+sursis lui avait été accordé.
+5.
+Par acte rédigé en allemand avec traduction
+française, daté du 30 septembre 2023 et remis à la poste le lendemain, H.________
+SA en liquidation a recouru contre ce jugement en concluant à ce qu’elle puisse s’acquitter
+correctement de ses obligations.
+Par courrier daté du 9 octobre 2024 mais remis à la poste en temps utile le lendemain, H.________
+SA en liquidation a précisé qu’elle entendait faire appel du jugement.
+Le 16 octobre 2024, l’Office des poursuites du district de la Riviera-Pays-d’Enhaut a, sur
+réquisition de la cour de céans, produit la liste des affaires en cours de la recourante, dont
+il ressort qu’elle fait l’objet de quarante-quatre poursuites pour un montant total de 524'669
+fr. 60, dont onze au stade de la commination de faillite, et d’aucun acte de défaut de biens.
+Le 4 novembre 2024, la recourante s’est déterminée sur cette liste des affaires en cours
+et a requis de pouvoir fournir la preuve des paiements déjà effectués et obtenir la rectification
+par l’office des poursuites de la liste susmentionnée.
+L’intimée n’a pas été invitée à se déterminer.
+En droit
+:
+I.
+En vertu de l'art. 174 al. 1, 1
+re
+phrase, LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ;
+RS 281.1), la décision du juge de la faillite peut, dans les dix jours, faire l'objet d'un recours
+au sens du CPC (Code de procédure civile du 19 décembre 2008 ; RS 272). Selon l'art. 321
+al. 1 CPC, le recours s'exerce par le dépôt d'un acte écrit et motivé, introduit
+auprès de l'instance de recours.
+En l’espèce, le recours a été déposé en temps utile et dans les formes
+requises. Il est ainsi recevable.
+II.
+a)
+L'autorité de recours peut annuler l'ouverture
+de la faillite notamment lorsque le débiteur, en déposant le recours, rend vraisemblable sa
+solvabilité et établit par titre que depuis lors la dette, intérêts et frais compris,
+a été payée (art. 174 al. 2 ch. 1). Selon la jurisprudence, un tel titre doit être
+produit avant l'expiration du délai de recours (ATF 139 III 491 consid. 4.4 ; 136 III 294 consid.
+3 ; TF 5A_471/2023 du 12 octobre 2023 consid. 3.1.2 ; 5A_520/2022 du 6 décembre 2022 consid.
+2.1 ; 5A_243/2019 du 17 mai 2019 consid. 3.1, publié in SJ 2019 I 376 ; 5A_874/2017 du
+7 février 2018 consid. 4.2.1, publié in RSPC 2018 p. 238), toute pièce produite postérieurement
+à l'échéance du délai de recours étant irrecevable (TF 5A_874/2017 précité
+consid. 4.2.2). En particulier, le débiteur ne peut pas tirer profit du droit de se déterminer
+sur l’extrait des poursuites le concernant pour produire des pièces une fois échu le
+délai de recours prévu par l'art. 174 al. 1 LP (TF 5A_1009/2017 du 16 février 2018 consid.
+2.3).
+b)
+La
+recourante ne saurait donc obtenir un délai supplémentaire, ni après l’échéance
+du délai de recours ni après celui de déterminations sur la liste des affaires en cours,
+pour régler la ou les dettes en poursuite au moyen d’un prêt d’actionnaire.
+III.
+a)
+Les deux conditions posées par l’art.
+174 al. 2 LP pour pouvoir faire annuler la faillite, soit le paiement de la dette à l'origine de
+la faillite (ou le dépôt de la totalité de la somme à rembourser) et la vraisemblance
+de la solvabilité, sont cumulatives (TF 5A_471/2023 précité consid. 3.1.2 ; 5A_600/2020
+du 29 septembre 2020 consid. 3.1 ; 5A_1009/2017 précité consid. 3.2 et l'arrêt cité).
+La solvabilité, au sens de l'art. 174 al. 2 LP, se définit par opposition à l'insolvabilité
+au sens de l'art. 191 LP ; elle consiste en la capacité du débiteur de disposer de liquidités
+suffisantes pour payer ses dettes échues et peut aussi être présente si cette capacité
+fait temporairement défaut, pour autant que des indices d'amélioration de la situation à
+court terme existent. En plus, le poursuivi doit établir qu'aucune requête de faillite dans
+une poursuite ordinaire ou dans une poursuite pour effets de change n'est pendante contre lui et qu'aucune
+poursuite exécutoire n'est en cours contre lui. L'extrait du registre des poursuites constitue un
+document indispensable pour évaluer la solvabilité du failli. La condition selon laquelle le
+débiteur doit rendre vraisemblable sa solvabilité ne doit pas être soumise à des
+exigences trop sévères; il suffit que la solvabilité apparaisse plus probable que l'insolvabilité
+(TF 5A_600/2020 précité consid. 3.1 ; 5A_251/2018 du 31 mai 2018 consid. 3.1 et les références). Si
+le débiteur ne doit ainsi pas
+prouver
+sa solvabilité, il ne peut toutefois se contenter de simples allégations, mais doit fournir
+des indices concrets tels que des récépissés de paiements, des justificatifs des moyens
+financiers (avoirs en banque, crédit bancaire) à sa disposition, une liste des débiteurs,
+un extrait du registre des poursuites, des comptes annuels récents, un bilan intermédiaire,
+etc. (TF 5A_949/2023 du 7 février 2024 consid. 3.1.2 ; 5A_981/2021 du 28 janvier 2022 consid.
+6.1.2 et les arrêts cités).
+b)
+En
+l’espèce, la recourante n’a pas allégué ni a fortiori établi avoir réglé
+dans le délai de recours la dette en poursuite, en capital, intérêt et frais. La première
+condition à l’annulation du prononcé de faillite n’est dès lors pas réalisée
+et le recours doit être rejeté.
+Au demeurant, la recourante fait l’objet de de quarante-quatre poursuites pour un montant total
+de 524'669 fr. 60, dont onze au stade de la commination de faillite. La deuxième condition à
+l’annulation du prononcé de faillite, à savoir la solvabilité, n’est pas non
+plus réalisée et le recours aurait dû être rejeté même en cas de paiement
+de la dette en poursuite.
+Au surplus, la recourante s’en prend en vain au bien-fondé de la créance, cette compétence
+n’appartenant pas au juge de la faillite, qui n’examine pas la créance en tant que telle
+(cf. Peter, Introduction au droit des poursuites et des faillites, 2023, p. 130 ; Bohnet, Procédure
+civile, 3e éd. 2021 n° 1799, p. 480 et référence ; Declercq, Poursuites pour
+dettes, Une introduction, 2021 nos 3 et 4, pp. 3 s ; CPF 22 novembre 2024/219).
+IV.
+En conclusion, le recours doit être rejeté
+selon le mode procédural de l’art. 322 al. 1 CPC et le jugement confirmé.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 300
+fr., doivent être mis à la charge de la recourante (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+H.________ SA en liquidation,
+‑
+I.________ Sàrl,
+-
+M. le Préposé à l'Office des poursuites du district de la Riviera-Pays-d’Enhaut,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l’Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois.
+Le greffier :
