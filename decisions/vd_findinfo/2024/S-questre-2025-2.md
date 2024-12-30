@@ -1,0 +1,790 @@
+---
+decision_id: "vd_findinfo_S_questre___2025___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2025 / 2"
+decided: "2024-12-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10207566"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-151.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-278.md"]
+---
+
+# VD Findinfo Séquestre / 2025 / 2
+
+## Regeste
+
+CAS DE SÉQUESTRE, DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION, EXIGIBILITÉ, CRÉANCE | 29 al. 2 Cst., 271 al. 1 ch. 4 LP, 278 al. 3 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Séquestre / 2025 / 2
+
+CAS DE SÉQUESTRE, DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION, EXIGIBILITÉ, CRÉANCE | 29 al. 2 Cst., 271 al. 1 ch. 4 LP, 278 al. 3 LP
+
+TRIBUNAL
+CANTONAL
+KE22.053167-241002
+218
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+30 décembre 2024
+______________________
+Composition
+:              M.
+Hack
+,
+président
+Mme
+Byrde et Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+29 al. 2 Cst. ; 271 al. 1 ch. 4 et 278 al. 3 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+X.________
+,
+à [...] (France), contre le prononcé rendu le 28 mai 2024 par le Juge de paix du district
+de Lausanne, dans la cause en opposition au séquestre divisant le recourant d’avec
+W.________
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le
+[...] 2012, X.________ (ci-après : le séquestrant ou le recourant) et W.________ (ci-après
+: l’opposante ou l’intimée) ont conclu un contrat de mariage par lequel ils ont opté
+pour le régime de la séparation de biens tel qu’il est prévu par le droit [...].
+Ils se sont mariés le [...] 2013 à [...], où ils avaient alors leur domicile.
+b)
+Le 4 mars 2020, l’opposante a introduit
+une demande en divorce à [...]. Le séquestrant a fait de même à Monaco, le 27 mai
+2020.
+c)
+Le
+5 juin 2020, le séquestrant a déposé auprès du Tribunal de première instance
+de la Principauté de Monaco une requête tendant à la révocation de toutes les donations
+faites à l’opposante durant leur mariage et à la condamnation de l’opposante à
+lui restituer ces donations. Cette procédure est toujours pendante.
+aa)
+Le même jour, le séquestrant a également déposé auprès de la même
+autorité une requête de « saisie-arrêt » afin d’obtenir le séquestre
+d’avoirs détenus par l’opposante à Monaco. Une ordonnance rejetant la requête
+a été rendue le 15 juin 2020.
+bb)
+Par arrêt du 25 septembre 2020, la Cour d’appel de la Principauté de Monaco a « reçu »
+l’appel formé par X.________, « infirmé » l’ordonnance rendue
+le 15 juin 2020 par la Présidente du Tribunal de première instance et, statuant à nouveau,
+a autorisé l’appelant « à faire pratiquer une saisie-arrêt entre les mains
+de la S.A.M. [...], (…) à Monaco, sur toutes sommes, deniers ou valeurs détenus au nom
+de W.________ (…) et ce, pour avoir sûreté, garantie et paiement de la somme de 3'889.460,34
+euros, sauf à parfaire ou à diminuer
+».
+L’arrêt contient notamment les considérants
+suivants :
+« (…)
+Attendu qu’aux termes de l’art. 491 du Code de procédure civile sur le fondement duquel
+la demande a été soumise au premier juge, à défaut de titre, la saisie-arrêt
+peut avoir lieu en vertu de la permissions du juge et pour la somme qu’il fixe ;
+Que dans ce cas, le créancier qui entend solliciter, par requête non contradictoire, le bénéfice
+de cette autorisation judiciaire doit justifier d’un principe certain de créance présentant
+un caractère suffisant d’évidence, quand bien même la démonstration d’une
+créance liquide et exigible n’est pas exigée ;
+Qu’il s’ensuit que s’il n’a pas à justifier à ce stade d’une
+créance certaine, celle-ci doit cependant exister en germe ;
+Attendu qu’en l’espèce l’appelant soutient avoir effectué un certain nombre
+de dons manuels en faveur de son épouse au cours du mariage, donations qu’il entend désormais
+révoquer, ce dont il justifie en produisant l’assignation délivrée par devant le
+Tribunal de première instance à cette fin ;
+Que l’article 951 du Code civil consacre le principe de la libre révocation des donations
+faites entre époux durant le mariage ;
+Que toutefois les sommes d’argent remises à l’occasion d’un évènement
+pour lequel il est usage d’offrir un cadeau constituent de simples présent d’usage qui
+ne sont pas susceptible de révocation en application des dispositions de l’art. 721 du même
+Code ;
+Qu’ainsi l’exercice du droit consacré par l’article 951 précité caractérise
+un principe certain de créance présentant un caractère suffisant d’évidence
+pour les donations effectuées au bénéfice du conjoint durant le mariage ;
+(…)
+Qu’X.________ justifie ainsi d’un principe certain de créance à hauteur de la somme
+de 3.889.460,34 euros au regard des dépens effectuées en faveur de son épouse : acquisition
+des pièce de joaillerie (2.752.900 euros), du véhicule ROLLS ROYCE Phantom noire (300.000 euros),
+virements de 500.000 euros, 50.000 euros, 20.000 euros, 30.000 euros et 23.560,34 euros.
+(…)
+»
+cc)
+Par ordonnance du 15 janvier 2021, la Présidente du Tribunal de Première instance de la Principauté
+de Monaco a fait droit à une nouvelle requête de « saisie-arrêt »
+d’X.________ du 22 décembre 2020 et autorisé le requérant à faire « pratiquer
+une saisie-arrêt » entre les mains de la banque [...] à Monaco, sur toutes sommes,
+valeurs ou titre détenus au nom et pour le compte de W.________, « et ce pour avoir sûreté,
+paiement et garantie » de la somme de 3.889.460,34 euros, montant auquel la présidente
+évaluait provisoirement la créance du séquestrant.
+2.
+a)
+Par ordonnance du 27 janvier 2021, le Juge
+de paix du district de Lausanne a prononcé, à la requête d’X.________, un séquestre
+à concurrence de 4'237'139 fr. 20 sur des avoirs détenus par W.________ auprès de Banque
+[...] SA, succursale de Lausanne. L’ordonnance indiquait comme titre de la créance ou cause
+de l’obligation : « créance de X.________ à l’égard de son
+épouse W.________, relative à des donations effectuées par X.________ à W.________
+et dont il demande la révocation en application du droit en vigueur à Monaco ».
+b)
+L’opposition formée par W.________ à ce séquestre a été admise et l’ordonnance
+précitée révoquée, par prononcé du juge de paix du 26 avril 2021. Sur recours
+d’X.________, la Cour des poursuites et faillites a confirmé ce prononcé par arrêt
+du 15 octobre 2021. Elle a notamment considéré que le droit applicable à la question de
+la révocation des donations faites durant le mariage était le droit monégasque ;
+que le recourant avait rendu vraisemblable l’existence de créances résultant de la révocation
+des donations (sous forme de pièces de joaillerie, véhicule et virements d’argent) admises
+comme révocables par l’arrêt de la Cour d’appel de la Principauté de Monaco
+du 25 septembre 2020 et totalisant 3'889'460,34 euros, soit 4'237'139 fr. 20 au taux de change applicable
+au jour du dépôt de la requête ; qu’il n’avait en revanche pas démontré
+que le droit monégasque autorisait, dans le cadre de la révocation de donations effectuées,
+à réclamer la contre-valeur du don et non seulement la restitution des objets donnés ;
+que le recours, en ce qui concernait bijoux et véhicule, était donc infondé pour ce motif
+déjà et, par surabondance, pour le motif que la condition d’un lien suffisant avec la
+Suisse des créances relatives à ces objets ainsi qu’à un virement de 21'320'894
+roubles – correspondant au montant de 236'560,34 euros de l’un des virements en argent invoqués
+par le recourant – n’était pas réalisée. Surtout, alors que le recourant n’invoquait
+que le cas de séquestre prévu par l’art. 271 al. 1 ch. 4 LP qui suppose que la créance
+soit exigible, le premier juge avait contesté l’exigibilité des créances litigieuses et
+le recourant ne soulevait aucun grief à l’encontre de cette appréciation et n’établissait
+aucunement l’exigibilité des créances litigieuses au regard du droit monégasque,
+applicable à cette question.
+3.
+En parallèle, dans la procédure monégasque de « saisie-arrêt »,
+le Tribunal de première instance de la Principauté de Monaco a rendu le 12 juillet 2021 une
+ordonnance de référé, rétractant l’ordonnance du 15 janvier 2021 et ordonnant
+la mainlevée de la « saisie-arrêt » pratiquée le 28 janvier 2021 entre
+les mains de la banque [...], à Monaco. En substance, le tribunal a considéré que la compétence
+des juridictions monégasques était contestée dans le cadre de la procédure principale
+en révocation des donations faites entre époux et qu’X.________ avait fait preuve de
+déloyauté en ne signalant pas cette contestation dans le cadre de sa requête de « saisie-arrêt »
+du 22 décembre 2020. Il a considéré en outre ce qui suit  :
+«
+S’il
+est admis que les juridictions monégasques disposent d’une compétence pour ordonner la
+saisie de tout bien se situant sur le territoire de la Principauté, il résulte des débats
+que la demande principale porte non sur une saisie conservatoire des biens qui auraient fait l’objet
+d’une donation mais de leur contre-valeur monétaire, de sorte que la contestation de la compétence
+des juridictions monégasques reste une contestation sérieuse, et ce d’autant plus que
+la faculté même de solliciter la révocation est sérieusement contestée par le
+jeu de la loi ou par le contrat de mariage qu’il convient d’interpréter.
+»
+Le 11 avril 2023, X.________ a interjeté appel de cette ordonnance de référé. La
+procédure est toujours pendante.
+4.
+a)
+En Suisse, le 7 décembre 2021, X.________ a derechef requis du Juge de paix du district de Lausanne
+qu’il ordonne le séquestre de «
+tous
+avoirs en compte, biens, créances, droits réels ou personnels, participations et autres biens,
+valeurs et droits patrimoniaux de quelque nature que ce soit, y compris les espèces et autres objets,
+dont des papiers-valeurs déposés dans un coffre ou safe
+»
+détenus par W.________, auprès de Banque [...] SA, par sa succursale à Lausanne, cette
+fois à concurrence d’une créance de 4'047'212 fr. 96 (correspondant à la somme de
+3'889'460,34 euros au taux de change applicable au jour du dépôt de la requête). Il a
+notamment allégué que, durant leur mariage, il avait fait «
+de
+très nombreuses donations à l’intimée, sous forme de versements d’argent et
+d’achat de joaillerie et autres biens de luxe, dont un véhicule
+»,
+et que «
+les donations
+en question qui ressortent directement des pièces produites, sont réputées alléguées
+ici dans leur entièreté
+».
+A l’appui de sa requête, il a notamment produit les pièces suivantes, en copie :
+-
+le contrat de mariage signé par les parties ;
+-
+l’arrêt de la Cour des poursuites et faillites du 15 octobre 2021 ;
+-
+un «
+ordre de virement
+»
+du 16 mai 2018 d’un montant de CHF 3'750'000.00 par le séquestrant à un grand joailler,
+indiquant « proforma invoice » ;
+-
+une facture établie le 16 mai 2018 au nom de l’intimée par un grand joailler à Monaco
+pour deux parures et trois montres ;
+-
+une liste établie par Bank [...] AG à la demande du séquestrant de dix-sept opérations
+en euros effectuées entre le 16 mai 2018 et le 11 novembre 2019 en faveur de diverses maisons de
+haute couture ;
+-
+deux factures des 26 juillet et 26 septembre 2018 d’une maison de haute couture à Milan
+établies au nom du séquestrant ;
+-
+un avis de débit selon ordre du 28 janvier 2020 établi par Banque [...] SA, à Lausanne,
+concernant un virement de 30'000 fr. le 30 janvier 2020 en faveur d’une maison de haute couture,
+avec la mention : «
+CADEAU
+W.________
+» ;
+-
+un avis de débit selon ordre du 25 février 2020 établi par Banque [...] SA, à Lausanne,
+concernant un virement de 8'824,50 euros le 26 février 2020 en faveur d’une maison de haute
+couture ;
+-
+un «
+ordre de virement
+»
+du 6 juillet 2018 d’un montant de EUR 300'000.00 par le séquestrant à [...] Rentals,
+indiquant « vente Rolls Royce [...] » ;
+-
+une facture de 300'000 euros adressée le 2 juillet 2018 par [...] Rentals, à Monaco, à
+l’intimée pour la vente d’une Rolls Royce [...] ;
+-
+une « carte grise » établie le 10 août 2018 au nom de l’intimée
+comme propriétaire d’une Rolls Royce ;
+-
+un avis de débit selon ordre du 9 juin 2016 établi par Banque [...] SA, à Lausanne, concernant
+un virement de 500’000 euros le 15 juin 2016 en faveur de l’intimée ;
+-
+un avis de débit selon ordre du 19 octobre 2016 établi par Banque [...] SA, à Lausanne,
+concernant un virement de 50’000 euros le 19 octobre 2016 en faveur de l’intimée ;
+-
+un avis de débit selon ordre du 21 janvier 2019 établi par Banque [...] SA, à Lausanne,
+concernant un virement de 20’000 euros le 22 janvier 2019 sur un compte bancaire de l’intimée
+à Zurich ;
+-
+un avis de débit selon ordre du 1
+er
+juillet 2019 établi par Banque [...] SA, à Lausanne, concernant un virement de 30’000
+euros le 1
+er
+juillet 2019 sur un compte bancaire de l’intimée à Zurich ;
+-
+un avis de débit selon ordre du 31 mai 2016 établi par Banque [...] SA, à Lausanne, concernant
+un virement de 21'320'894,62 roubles le 31 mai 2016 sur un compte bancaire de « [...] »
+à [...], avec la communication suivante : « W.________
+Gift from a non-resident to a resident to buy
+a property in [...]
+» ;
+-
+une lettre adressée le 6 décembre 2021 par Sarah Filippi, avocate à Monaco, au mandataire
+genevois du séquestrant qui l’avait consultée au sujet des particularités du régime
+juridique monégasque de révocation des donations faites entre époux pendant le mariage ;
+-
+de la jurisprudence rendue par diverses instances judiciaires françaises, abordant la question de
+la révocation de donation ;
+-
+l’arrêt de la Cour d’appel de la Principauté de Monaco du 25 septembre 2020 ;
+-
+l’ordonnance de la Présidente du Tribunal de Première instance de la Principauté
+de Monaco du 15 janvier 2021 ;
+-
+l’ordonnance de séquestre rendue le 27 janvier 2021 par le Juge de paix du district de Lausanne ;
+-
+le prononcé du Juge de paix du district de Lausanne du 26 avril 2021 ;
+-
+un extrait du site internet de conversion des devises fxtomp.com au 6 décembre 2021 ;
+-
+un état du portefeuille de l’intimée auprès de Banque [...] SA, à Lausanne,
+au 27 octobre 2019.
+b)
+Le 8 décembre 2021, le juge de paix a ordonné le séquestre requis. Son ordonnance indiquait
+comme titre de la créance ou cause de l’obligation : «
+créance
+d’X.________ à l’égard de son épouse W.________, relative à des donations
+effectuées par X.________ à W.________ et dont il demande la révocation en application
+du droit en vigueur à Monaco, confirmée par l’arrêt de la Cour des poursuites et
+faillites du Tribunal cantonal vaudois de Lausanne du 15 octobre 2021 notifié le 20 octobre
+2021
+».
+c)
+Le
+22 décembre 2022, W.________ a formé opposition au séquestre, à la suite de la publication
+dans la FAO/FOSC du 16 décembre 2022 du procès-verbal de séquestre dressé par l’Office
+des poursuites du district de Lausanne, selon lequel « le séquestre peut avoir porté ».
+Le séquestrant s’est déterminé le 3 février 2023, concluant au rejet de l’opposition.
+d)
+Selon le procès-verbal de l’audience tenue le 20 février 2023 en présence des mandataires
+des parties, le conseil de l’opposante à produit d’entrée de cause des déterminations
+et des pièces.
+e)
+Par décision rendue le 20 février 2023, dont le dispositif a été adressé aux
+parties le 27 février 2023 et les motifs le 9 mai suivant, le juge de paix a admis l’opposition
+au séquestre et révoqué l’ordonnance du 8 décembre « 2022 »
+[recte : 2021].
+f)
+Saisie d’un recours d’X.________ contre ce prononcé, la Cour des poursuites et faillites,
+par arrêt du 29 décembre 2023, a considéré que le recourant n’avait pas eu
+le temps suffisant pour se déterminer sur l’écriture et les pièces déposées
+par l’opposante à l’audience du 20 février 2023, de sorte que son droit d’être
+entendu avait été violé ; elle a par conséquent annulé le prononcé
+et renvoyé la cause au juge de paix pour nouvelle décision après avoir imparti au recourant
+un délai pour se déterminer sur l’écriture et les pièces précitées.
+5.
+a)
+Dans le délai imparti par le premier juge à cet effet au 18 avril 2024, le séquestrant
+s’est déterminé et a produit la pièce C qu’il avait produite à l’appui
+de son recours du 22 mai 2023, déclarée recevable par la Cour des poursuites et faillites dans
+son arrêt du 29 décembre suivant, à savoir les conclusions qu’il avait prises le
+11 avril 2023 en appel contre l’ordonnance de référé du Tribunal de première
+instance de la Principauté de Monaco du 12 juillet 2021.
+L’opposante a répliqué le 6 mai 2024 et a produit ses propres conclusions sur appel prises
+le 20 juin 2023.
+Le séquestrant a dupliqué le 14 mai 2024.
+b)
+Par prononcé du 28 mai 2024, le juge de paix a admis l’opposition au séquestre (I), a
+révoqué l’ordonnance de séquestre du 8 décembre 2021 (II), a arrêté
+à 1'800 fr. les frais judiciaires, compensés avec l’avance de frais de l’opposante
+(III), a mis les frais à la charge du séquestrant (IV) a dit qu’en conséquence,
+celui-ci rembourserait à l’opposante son avance de frais et lui verserait la somme de 6'000
+fr. à titre de dépens (V) et a rejeté toutes autres ou plus amples conclusions (VI).
+Le séquestrant ayant demandé la motivation de cette décision par lettre du 6 juin 2024,
+les motifs du prononcé ont été adressés aux parties le 10 juillet 2024 et notifiés
+au séquestrant le lendemain. Le premier juge a considéré que la requête de séquestre
+du 7 décembre 2021 était recevable, même si elle reposait sur le même complexe de
+faits et avait le même objet que celle du 26 janvier 2021, les circonstances s’étant
+« sensiblement modifiées depuis le dépôt de la première requête »,
+au vu notamment de « l’évolution des procédures monégasques et plus
+spécialement de l’ordonnance de référé rendue le 12 juillet 2021 »
+et d’une « motivation différente de la première » présentée
+par le séquestrant dans sa deuxième requête, « en particulier complétée
+par une pièce nouvelle », savoir « un avis de droit établi par Me Sarah
+Filippi » ; que l’opposition, formée en temps utile, était également
+recevable ; que vu l’ordonnance de référé monégasque du 12 juillet 2021
+rétractant l’ordonnance du 15 janvier 2021 qui autorisait le séquestrant à pratiquer
+une « saisie-arrêt » à Monaco, au motif notamment que les questions de
+la compétence
+ratione
+fori
+, du droit applicable, de la possibilité
+même de procéder à une révocation des donations entre époux et de la matérialité
+de celles-ci étaient litigieuses, le séquestrant n’avait pas rendu vraisemblable l’existence
+de créances contre l’opposante ; que l’arrêt monégasque du 25 septembre
+2020, rendu avant l’ordonnance de référé et portant sur un même complexe de
+faits, apparaissait quant à lui lacunaire et ne permettait en conséquence pas de fonder utilement
+les prétentions du séquestrant ; que la première condition à l’admission
+du séquestre n’était par conséquent pas remplie et qu’il n’y avait
+donc pas besoin d’examiner la deuxième condition, soit le cas de séquestre.
+6.
+a)
+Par acte du 22 juillet 2024, le séquestrant a recouru, concluant, avec suite de frais judiciaires
+et dépens des première et deuxième instances, principalement à la réforme du
+prononcé en ce sens que l’opposition au séquestre est rejetée et l’ordonnance
+de séquestre confirmée, subsidiairement à l’annulation du prononcé et au renvoi
+de la cause à la première instance pour nouvelle décision dans le sens des considérants ;
+il a conclu également à sa dispense de fournir des sûretés.
+b)
+Par décision du 24 juillet 2024, le Président de la cour de céans, « à
+toutes fins utiles, au vu du montant très élevé sur lequel le séquestre litigieux
+porte », a prononcé l’effet suspensif requis dans le recours.
+c)
+Par réponse du 23 août 2024, l’intimée a conclu, avec suite de frais et dépens
+des première et deuxième instances, principalement au rejet du recours et subsidiairement,
+en cas d’admission du recours, à la condamnation du recourant à fournir des sûretés
+à concurrence d’un montant de 100'000 fr. «
+au
+minimum
+».
+d)
+Le 9 septembre 2024, le recourant a répliqué et produit une pièce nouvelle, savoir un
+arrêt rendu le 14 mai 2024 par la Cour d’appel de la Principauté de Monaco dans la cause
+en divorce divisant les parties.
+e)
+Le 19 septembre 2024, l’intimée a produit des «
+observations
+sur déterminations du 9 septembre 2024
+»
+ainsi qu’une pièce nouvelle, savoir une requête en révision de l’arrêt
+sur appel précité qu’elle avait déposée le 12 août 2024 auprès de
+la Cour de révision de la Principauté de Monaco. Elle a contesté la recevabilité
+de la pièce nouvelle produite par le recourant le 9 septembre 2024.
+f)
+Le recourant a encore répliqué le 4 octobre 2024 et produit une pièce censée établir
+la recevabilité de ladite pièce nouvelle.
+En droit
+:
+1.
+1.1
+Selon l’art. 278 al. 3 LP (loi fédérale sur la poursuite pour dettes et la faillite ;
+RS 281.1), la décision sur opposition au séquestre peut faire l’objet d’un recours
+au sens des art. 319 ss CPC (Code de procédure civile ; RS 272).
+En l’espèce, le recours a été déposé dans les formes requises, par acte
+écrit et motivé (art. 321 al. 1 CPC), et en temps utile (art. 321 al. 2
+cum
+142 al. 3 CPC). Il est ainsi recevable.
+1.2
+La réponse de l’intimée est également recevable (art. 322 CPC).
+1.3
+La réplique spontanée du recourant du 9 septembre 2024 a été déposée en
+temps utile (ATF 142 III 48 consid. 4.1.1 et réf. cit. ; TF 5D_74/2019 du 29 mai 2019 consid.
+4.1). En revanche, les faits nouveaux invoqués dans cette écriture ne sont pas recevables.
+En effet, si les nova sont recevables dans la procédure de recours (art. 278 al. 3 LP) - les vrais
+nova sans restriction et les pseudo-nova à certaines conditions (ATF 145 III 324 consid. 6, JdT
+2019 II 275; CPF 2 mars 2022/18 et les arrêts cités), c’est en tout état de cause
+dans le délai de recours, respectivement de réponse que les faits nouveaux doivent être
+allégués et les pièces nouvelles produites. Le droit de répliquer ne confère
+pas la faculté de produire les pièces qui auraient dû être déposées dans
+le délai utile (ATF 142 III 234 consid. 2.2 ; 132 I 42 consid. 3.3.4 et les arrêts cités
+; TF 5A_1009/2017 du 16 février 2018 consid. 2.3 ; CPF 30 décembre 2020/327 consid. Ic).
+En l’occurrence, le recourant se prévaut d’un arrêt de la Cour d’appel monégasque
+du 14 mai 2024, sans expliquer pour quel motif il ne l’a pas produit à l’appui de son
+recours du 22 juillet 2024. Cette pièce est ainsi irrecevable, de même que les moyens que le
+recourant tente de fonder sur elle.
+1.4
+Les déterminations du 19 septembre 2024 de l’intimée sur la réplique sont recevables
+(ATF 142 III 48 consid. 4.1.1 et réf. cit. ; TF 5D_74/2019 du 29 mai 2019 consid. 4.1). Elle
+soutient, à raison, que les nova contenus dans la réplique sont irrecevables, tout en produisant
+elle-même une pièce nouvelle, savoir une requête de révision du 12 août 2024.
+Antérieure à sa réponse du 23 août 2024, cette pièce est irrecevable.
+1.5
+Les dernières déterminations du recourant du 4 octobre 2024 sont recevables (ATF 142 III 48
+consid. 4.1.1 et réf. cit. ; TF 5D_74/2019 du 29 mai 2019 consid. 4.1). Il y est exposé
+que l’arrêt de la Cour d’appel monégasque du 14 mai 2024 n’aurait été
+reçu par «
+les
+conseils soussignés
+» que le 4
+septembre 2024. L’argument est vain, la date déterminante n’étant pas celle à
+laquelle le conseil monégasque du recourant a transmis l’arrêt aux conseils de son mandant
+en Suisse, mais la date à laquelle ce dernier a reçu cet arrêt de l’autorité
+judiciaire. Or, rien ne permet de retenir qu’il ne l’aurait pas reçu, par l’intermédiaire
+de son conseil monégasque, avant le dépôt de son recours. Cet arrêt doit ainsi toujours
+être considéré comme une pièce nouvelle irrecevable.
+2.
+Le recourant reproche à l’autorité
+précédente une violation de son droit d’être entendu et un déni de justice
+formel. Selon lui, le premier juge «
+n’a
+procédé à aucune analyse propre du caractère vraisemblable des créances alléguées
+»
+et a restreint «
+sans
+motif son examen à la question de savoir si l’état de fait sur lequel le Tribunal cantonal
+s’était fondé dans le cadre de la précédente procédure de séquestre
+était toujours d’actualité
+».
+2.1
+Le droit d'être entendu est une garantie constitutionnelle de caractère formel, dont la violation
+entraîne en principe l'annulation de la décision attaquée, indépendamment des chances
+de succès du recours au fond (ATF 144 I 11 consid. 5.3 ; TF 5A_804/2022 du 24 février 2023
+consid. 3.1.2). Le droit d'être entendu garanti par l'art. 29 al. 2 Cst. (Constitution fédérale
+de la Confédération suisse ; RS 101) implique pour l’autorité l’obligation
+de motiver sa décision (ATF 146 II 335 consid. 5.1 ; 143 III 65 consid. 5.2 ; 141 III 28 consid.
+3.2.4). Cette obligation a pour but que la personne destinataire de la décision puisse la comprendre,
+la contester utilement s’il y a lieu et que l’instance de recours soit en mesure, si elle
+est saisie, d’exercer pleinement son contrôle. Pour répondre à ces exigences, l’autorité
+doit mentionner, au moins brièvement, les motifs qui l’ont guidée et sur lesquels elle
+a fondé sa décision, de manière à ce que la personne concernée puisse se rendre
+compte de la portée de celle-ci et l’attaquer en connaissance de cause (ATF 143 III 65 consid.
+5.2). Elle n'a toutefois pas l'obligation d'exposer et de discuter tous les faits, moyens de preuve et
+griefs invoqués par les parties, mais peut au contraire se limiter à ceux qui, sans arbitraire,
+peuvent être tenus pour pertinents (ATF 150 II 48 consid. 2.2 ; 142 II 154 consid. 4.1 ; 138 I 232
+consid. 5.1 ; 137 II 266 consid. 3.2).
+2.2
+Le recourant reproche concrètement au premier juge d’avoir considéré que les créances
+n’avaient pas été rendues vraisemblables «
+au
+seul motif que l’ordonnance du Tribunal de première instance de la Principauté de Monaco
+du 15 janvier 2021 autorisant la saisie-arrêt avait été rétractée par ordonnance
+de référé du 12 juillet 2021 de sorte que l’état de fait sur lequel le TC s’était
+fondé dans son arrêt du 15 octobre 2021 ne serait plus d’actualité
+».
+2.2.1
+Le premier juge a tout d’abord rappelé les points suivants : les conditions auxquelles
+l’art. 272 LP soumet l’autorisation de séquestre, la première de ces conditions
+étant que le créancier rende vraisemblable que sa créance existe, le degré de preuve
+requis, soit la simple vraisemblance, la possibilité pour les parties, dans le cadre d’une
+procédure contradictoire d’opposition au séquestre, d’alléguer des moyens
+nouveaux de fait ou de droit et le devoir du juge de réexaminer la situation en tenant compte du
+changement de circonstances depuis le dépôt de la requête de séquestre, l’opposition
+au séquestre ayant pour but un réexamen, en contradictoire, de toutes les conditions du séquestre.
+Il a ensuite exposé l’argumentation du séquestrant, qui reprenait l’analyse faite
+par le Tribunal cantonal dans son arrêt du 15 octobre 2021 et affirmait que la question de la vraisemblance
+de ses créances, de leur montant et de leur exigibilité devait être examinée à
+la lumière du droit monégasque et que l’existence des créances litigieuses était
+rendue vraisemblable non seulement par les diverses factures et versements en attestant, mais également
+par l’arrêt de la Cour d’appel monégasque du 25 septembre 2020 et celui du
+Tribunal cantonal du 15 octobre 2021. Le premier juge a ensuite exposé la position de
+l’opposante, qui considérait que le droit monégasque n’était pas applicable
+aux contrats de donation intervenus durant la vie commune des parties, soutenant notamment à cet
+égard que les époux n’étaient pas domiciliés à Monaco aux périodes
+déterminantes, respectivement que le droit [...] était applicable. Il a encore exposé
+le contenu des déterminations du 19 avril 2024, dans lesquelles le séquestrant, « revenant
+sur les questions du domicile des époux ainsi que de l’existence des créances alléguées
+et renvoyant aux explications figurant dans sa requête », relevait plus spécialement
+que l’ordonnance de référé du 12 juillet 2021 rétractant l’ordonnance
+du 15 janvier 2021 et ordonnant la mainlevée de la « saisie-arrêt »
+pratiquée le 28 janvier 2021 était, d’une part, indépendante de la procédure
+ayant mené à l’arrêt de la Cour d’appel de la Principauté de Monaco du
+25 septembre 2020 – lequel demeurait donc valable et pertinent dans l’analyse de la cause
+– et, d’autre part, n’était pas définitive, puisqu’elle faisait l’objet
+d’une procédure d’appel pendante. Enfin, le premier juge a exposé que l’opposante,
+dans ses observations spontanées du 6 mai 2024, soutenait que les nouveaux développements du
+séquestrant au sujet de l’ordonnance de référé du 12 juillet 2021 étaient
+erronés et renvoyait à son écriture du 20 février 2023, et que le séquestrant
+s’était brièvement déterminé sur ces observations dans un acte du 14 mai 2024.
+En préambule à son examen de la question de la vraisemblance des créances litigieuses,
+le premier juge a rappelé qu’à l’issue de la précédente procédure
+d’opposition au séquestre
+,
+partant du principe que les parties étaient domiciliées à Monaco après un bref examen
+de la question, il avait été retenu que le droit monégasque était applicable au régime
+des donations entre époux au regard des dispositions topiques de la LDIP, et que l’existence
+des créances litigieuses avait été admise au degré de la vraisemblance, essentiellement
+sur la base des décisions rendues par les autorités judiciaires de la Principauté de Monaco
+ayant autorisé l’intimé à faire procéder à la « saisie-arrêt »
+de biens détenus par l’opposante sur sol monégasque. Il a toutefois constaté que
+l’état de fait sur lequel le Tribunal cantonal s’était fondé pour statuer
+n’était désormais plus d’actualité, vu l’ordonnance de référé
+rendue à Monaco le 12 juillet 2021, rétractant l’ordonnance du 15 janvier 2021
+et ordonnant la mainlevée de la « saisie-arrêt » pratiquée le 28 janvier 2021,
+au motif que les questions relatives à la compétence des juridictions monégasques, à
+l’application de la loi monégasque, à la possibilité même de procéder
+à une révocation des donations entre époux et à la matérialité de celles-ci
+faisaient l’objet de contestations sérieuses relevant du fond et échappant ainsi à
+la compétence du juge des référés et que les griefs mentionnés n’avaient
+pas été soulevés lors de l’analyse des demandes présentées dans le cadre
+de la procédure ayant abouti à l’arrêt de la Cour d’Appel du 25 septembre
+2020. Le premier juge a considéré que, dans ces circonstances, l’arrêt précité
+avait été rendu caduc par la décision du 12 juillet 2021, en ce sens qu’il
+ne saurait plus guère revêtir de pertinence dans l’analyse de la présente cause.
+Il a précisé que ce raisonnement demeurait pleinement valide, quand bien même les décisions
+du 25 septembre 2020 et du 12 juillet 2021 avaient été rendues dans des procédures indépendantes,
+dès lors que celles-ci se basaient sur le même complexe de faits et divisaient les mêmes
+parties ; l’ordonnance de référé était postérieure à l’arrêt
+de la Cour d’Appel et retenait des éléments déterminants sur le sort du litige,
+qui n’avaient pas pu être pris en compte par l’autorité précitée, car
+ignorés de celle-ci, de sorte que le raisonnement de la Cour d’Appel apparaissait lacunaire
+et que son arrêt ne permettait pas de fonder utilement les prétentions du séquestrant.
+En outre, le fait que l’ordonnance de référé du 12 juillet 2021 n’était
+pas définitive, le recourant ayant fait appel, n’était pas de nature à influer sur
+le sort de la cause l’ordonnance en question demeurant valable tant que l’autorité d’appel
+n’en aurait pas décidé autrement. Le premier juge a conclu des éléments qui
+précèdent que le séquestrant ne justifiait plus d’un « principe certain
+de créance » en vertu du droit monégasque et que, par conséquent, le caractère
+vraisemblable de l’existence des créances alléguées faisait désormais défaut.
+Ce faisant, le premier juge a motivé sa décision de manière détaillée - bien
+plus d’ailleurs que le recourant ne l’admet - et respecté ainsi ses obligations en la
+matière.
+2.2.2
+Le recourant indique au surplus uniquement que le caractère vraisemblable des créances alléguées
+découlait «
+non
+seulement de l’analyse faite par le Tribunal cantonal dans son arrêt du 15 octobre 2021, mais
+également et surtout des nombreuses pièces produites à l’appui de la requête
+de séquestre ainsi que des explications du recourant à cet égard ressortant de ses diverses
+écritures
+».
+Pour répondre aux exigences en matière de motivation du recours, son auteur doit démontrer
+le caractère erroné de la motivation de la décision attaquée et son argumentation
+doit être suffisamment explicite pour que l’instance de recours puisse la comprendre, ce qui
+suppose une désignation précise des passages de la décision qu’il attaque et des
+pièces du dossier sur lesquelles il fonde sa critique (ATF 141 III 569 consid. 2.2.3 ; TF 5A_734/2023
+du 18 décembre 2023 consid. 3.3 et les arrêts cités).
+En l’espèce, faute pour le recourant d’exposer quel moyen ou titre précis aurait
+été invoqué en première instance et en quoi il serait pertinent et aurait donc dû
+donner lieu à une prise de position du premier juge, le grief de violation de son droit d’être
+entendu, insuffisamment motivé, ne peut qu’être rejeté.
+3.
+Le recourant se plaint d’une «
+violation
+des art. 271 ss LP en lien avec une appréciation arbitraire des preuves
+».
+Il invoque à nouveau uniquement le cas de séquestre prévu par l’art. 271 al. 1 ch.
+4 LP et soutient que
+« l’ensemble
+des conditions du séquestre sont réalisées
+».
+3.1
+Comme déjà exposé dans l’arrêt de la Cour des poursuites et faillites du 15
+octobre 2021, le cas de séquestre prévu par l’art. 271 al. 1 ch. 4 LP implique que la
+créance, dont l’existence aurait été rendue vraisemblable, soit exigible. Le recourant
+en est bien conscient puisqu’il le rappelle lui-même (recours, p. 6 ch. 27 et 28), estimant
+ensuite que la créance est exigible (recours, p. 9 ch. 47). Cette question de l’exigibilité
+des créances est donc examinée en premier lieu ci-après.
+3.2
+Les faits qui sont immédiatement connus du Tribunal (
+gerichtsnotorische
+Tatsachen
+), notamment parce qu'ils ressortent
+d'une autre procédure entre les mêmes parties, sont également des faits notoires au sens
+de l’art. 151 CPC et peuvent être pris en considération même en l'absence d'allégation
+ou d'offre de preuve correspondante (TF 4A_122/2021 du 14 septembre 2021 consid. 2 ; 5A_266/2019 du 25
+août 2019 consid. 3.4 ; 5A_610/2016 du 3 mai 2016 consid. 3.1, RSPC 2017 p. 375). C’est le
+cas de l’arrêt de la Cour des poursuites et faillites du 15 octobre 2021, rendu dans une procédure
+qui opposait les mêmes parties et dans laquelle étaient examinées les mêmes prétendues
+créances du recourant, reposant selon lui sur la révocation des mêmes donations que dans
+le présent cas. Au surplus, l’arrêt en question a été produit par le recourant
+à l’appui de sa requête de séquestre, qui fait partie du dossier de la présente
+procédure.
+Dans cet arrêt, la cour avait constaté que le premier juge avait estimé que la vraisemblance
+de l’exigibilité des créances litigieuses n’avait pas été établie,
+ce qui excluait également le cas de séquestre invoqué par le recourant. Elle avait ensuite
+retenu ce qui suit concernant l’exigibilité des créances, au consid. 7.4.2 :
+«
+En
+l’occurrence, le recourant procède à un raisonnement fondé clairement sur le droit
+suisse. Quelques lignes plus haut, il invoquait toutefois – à raison – que c’est
+le droit monégasque qui devait s’appliquer. Il lui incombait donc manifestement d’exposer
+en quoi les créances litigieuses étaient exigibles à la lumière du droit monégasque.
+Dès lors qu’il était assisté, avant même le dépôt de sa requête
+de séquestre, d’une étude d’avocat monégasque le représentant précisément
+sur cette question de révocation de donations (pièce 9 notamment) et qu’il a par ailleurs
+fourni plusieurs extraits de la législation monégasque (pièces 8 et 11) ainsi qu’un
+avis de droit sur la question (pièce 12), on pouvait raisonnablement exiger de lui qu’il établisse
+le droit monégasque applicable en matière d’exigibilité des créances (cf. juris
+citée supra ; en particulier ATF 140 III 456 consid. 2.4 statuant précisément sur la condition
+de l’exigibilité). Or le recourant, assisté, n’expose aucunement, qui plus est
+en indiquant les dispositions légales ou jurisprudentielles précises applicables, en quoi les
+créances litigieuses seraient exigibles, aujourd’hui déjà, en droit monégasque.
+Dans ces conditions, et conformément à la jurisprudence citée supra ad consid. 6.2, sa
+requête de séquestre et partant son recours doivent être rejetés
+».
+3.3
+Dans la présente espèce, le recourant fait valoir que la créance doit être exigible
+et rappelle cette notion en droit suisse. Il soutient ensuite qu’«
+il
+ressort en effet de l’ensemble de ces pièces
+[réd. : à savoir, selon le ch. 43 du recours, de «
+l’intégralité
+des pièces produites par le recourant à l’appui de sa requête
+»] »
+et de «
+l’avis
+de droit produit
+» que «
+les
+créances du requérant issues de la révocation des donations sont pleinement exigibles
+»
+(recours, p. 9 ch. 45). Il en conclut que l’ensemble des conditions du séquestre sont réalisées,
+notamment qu’il a rendu vraisemblable l’exigibilité de ses créances contre l’intimée
+(recours, p. 9 ch. 47).
+3.3.1
+De jurisprudence constante, le renvoi en bloc à des pièces du dossier ne constitue pas une
+motivation suffisante, le recourant devant au contraire désigner de façon précise les
+pièces du dossier sur lesquelles il fonde sa critique (ATF 141 III 569 consid. 2.2.3 ; TF 5A_734/2023
+du 18 décembre 2023 consid. 3.3 et les arrêts cités). Le moyen du recourant est donc irrecevable
+sur ce point.
+De jurisprudence constante également, le seul renvoi à des écritures annexes ne constitue
+pas une motivation recevable (TF 5A_113/2018 du 12 septembre 2018 consid. 4.2.1.2 ; 5A_573/2017 du 19
+octobre 2017 consid. 3.3 ; CPF 29 décembre 2023/265 consid. 3). Il n’en va pas différemment
+du simple renvoi, sans plus de détails, à un avis de droit. Or, en l’espèce, le
+recourant se réfère à «
+l’avis
+de droit produit
+» – qui n’est
+pas le même que celui produit dans la précédente procédure de séquestre –
+sans préciser quelle page de cet avis serait ici pertinente, ni en exposer le contenu d’une
+quelconque façon. Ici encore, le grief, insuffisamment motivé, est irrecevable. Au demeurant,
+«
+l’avis de
+droit
+» auquel le recourant se réfère
+a été envoyé par courrier au conseil du recourant en Suisse par une avocate - Me Sarah
+Filippi - dont l’étude est à Monaco, qui indique que ce confrère l’a «
+consultée
+à l’effet de savoir quelles sont les particularités du régime juridique monégasque
+de révocation des donations faites entre époux pendant le mariage
+».
+Au stade du dépôt du recours, on ne sait absolument rien du rôle et des compétences
+de cette avocate, ni de sa neutralité dans le litige entre les parties. Le recourant n’en
+dit rien. Dès lors qu’elle a été consultée par l’avocat du recourant,
+on voit mal que ses arguments puissent être interprétés autrement que comme ceux que présenterait
+cet avocat lui-même, valant ainsi uniquement déclaration de partie. On relève à cet
+égard que le courriel produit par le recourant à l’appui de sa dernière écriture
+du 4 octobre 2024, par lequel un arrêt de la Cour d’appel [de Monaco] du 14 mai 2024 a été
+transmis au conseil du recourant en Suisse, a été envoyé par l’étude de Me
+Sarah Filippi, soit l’auteur de «
+l’avis
+de droit
+». Il apparait ainsi hautement
+vraisemblable que cette avocate n’est pas une personne neutre, mais le conseil monégasque
+du recourant. Dans ces conditions, ses déclarations ont fort peu de valeur probante à elles
+seules. On relève d’ailleurs que ses réflexions sur la question de l’exigibilité
+sont de simples affirmations étayées uniquement par des extraits de quelques lignes d’arrêts,
+sans référence précise à un considérant et sans qu’on puisse voir clairement
+si les cas examinés dans ces décisions succinctement citées sont comparables au cas présent.
+Quoi qu’il en soit, l’avocate consultée par le recourant indique qu’en droit monégasque,
+en cas de désaccord du donataire, il incombe au donateur d’agir en justice pour obtenir la
+condamnation judiciaire du donataire à exécuter la révocation.
+Il résulte de ce qui précède que,
+contrairement à l’opinion du recourant, l’exigibilité d’une créance
+en restitution en nature ou autre ne découle pas automatiquement de la seule révocation d’une
+donation, à tout le moins en cas de désaccord du donataire, et que la vraisemblance de l’exigibilité
+d’une telle créance, avant condamnation par un tribunal à l’exécution de la
+révocation, n’est pas établie.
+3.4
+En conclusion, et comme cela avait déjà été exposé au recourant dans l’arrêt
+de la Cour des poursuites et faillites du 15 octobre 2021, faute pour lui d’avoir rendu vraisemblable,
+en indiquant les dispositions légales ou jurisprudentielles précises applicables, en quoi les
+créances litigieuses seraient exigibles, aujourd’hui déjà, en droit monégasque,
+sa requête de séquestre ne pouvait qu’être rejetée. La décision entreprise
+doit donc être confirmée par substitution de motifs, le recourant ayant lui-même parfaitement
+compris que l’exigibilité était une condition d’admission de sa demande de séquestre.
+Il s’ensuit le rejet du recours, sans que doive être tranchée la question de la vraisemblance
+de l’existence des créances alléguées à l’appui de la requête de
+séquestre.
+4.
+La conclusion subsidiaire de l’intimée
+au versement de sûretés, si «
+par
+impossible
+» le recours était admis,
+est sans objet, vu le sort du recours.
+5.
+Vu ce qui précède, le recours doit être rejeté et le prononcé attaqué confirmé.
+Les frais judiciaires de deuxième instance, arrêtés à 2’700 fr., sont mis à
+la charge du recourant qui succombe (art. 106 al. 1 CPC) et qui en a déjà fait l’avance.
+Celui-ci doit verser à l’intimée le montant de 4'080 fr. à titre de dépens
+et débours de deuxième instance (art. 8 et 19 al. 2 TDC [tarif des dépens en matière
+civile ; BLV 270.11.6]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 2'700 fr. (deux mille sept
+cents francs), sont mis à la charge du recourant.
+IV.
+Le recourant X.________ doit verser à l’intimée W.________ la somme de 4'000 fr. (quatre
+mille francs) à titre de dépens de deuxième instance.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Mes Romain Jordan et Ronald Asmar, avocats (pour X.________),
+‑
+Me Florian Godbille, avocat (pour W.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 4'047'212 fr. 96.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Juge de paix du district de Lausanne.
+La greffière :
