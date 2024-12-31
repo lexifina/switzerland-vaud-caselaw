@@ -1,0 +1,315 @@
+---
+decision_id: "vd_findinfo_Faillite___2024___37"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2024 / 37"
+decided: "2024-12-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10168105"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-089.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-191.md", "switzerland/bund/acts/281.1/art-194.md", "switzerland/bund/acts/281.1/art-197.md", "switzerland/bund/acts/281.1/art-230.md", "switzerland/bund/acts/281.1/art-269.md"]
+---
+
+# VD Findinfo Faillite / 2024 / 37
+
+## Regeste
+
+DÉCLARATION D'INSOLVABILITÉ, REJET DE LA DEMANDE, NOUVEAU MOYEN DE PREUVE, SUSPENSION DE LA FAILLITE FAUTE D'ACTIFS, RAISON INDIVIDUELLE | 191 LP, 230 al. 1 LP, 230 al. 4 LP, 230 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2024 / 37
+
+DÉCLARATION D'INSOLVABILITÉ, REJET DE LA DEMANDE, NOUVEAU MOYEN DE PREUVE, SUSPENSION DE LA FAILLITE FAUTE D'ACTIFS, RAISON INDIVIDUELLE | 191 LP, 230 al. 1 LP, 230 al. 4 LP, 230 LP
+
+TRIBUNAL
+CANTONAL
+FY24.017189-241428
+249
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+31 décembre 2024
+______________________
+Composition
+:               M.
+Hack
+,
+président
+M.
+Maillard et Mme Giroud Walther, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+191, 230 al. 1 et 4 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+G.________
+,
+à [...], contre le jugement rendu le 10 octobre 2024, à la suite de l’audience du 3 octobre
+2024, par le Président du Tribunal d’arrondissement de Lausanne rejetant la requête de
+faillite sans poursuite préalable déposée par le recourant.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le
+18 avril 2024, V.________, titulaire de la raison individuelle G.________, a déposé auprès
+du Président du Tribunal d’arrondissement de Lausanne une demande de mise en faillite personnelle.
+Il a motivé cette demande par le fait qu’il était dans une situation financière
+difficile l’empêchant de régler les dettes liées à l’activité commerciale
+de la raison individuelle en cause. Il a exposé que cette situation était due au manque d’activités
+de celle-ci qui avait entraîné l’arrêt complet du commerce et la saisie de son salaire.
+Il a indiqué avoir trouvé entretemps un travail salarié au sein d’une administration.
+A l’appui de sa demande, il a produit un extrait du 16 février 2024 du registre du commerce
+relatif à la raison individuelle G.________, dont il ressort qu’elle a été déclarée
+en faillite le 26 janvier 2023, que la faillite, suspendue faute d’actifs, a été clôturée
+le 6 avril 2023 et que la raison individuelle a été radiée le 13 juin 2023 vu la cessation
+d’activité.
+Par courrier du 19 avril 2024, le président a rendu le requérant attentif au fait que la procédure
+de faillite volontaire n’était pas destinée à régler la problématique
+du surendettement et qu’elle ne pouvait être demandée s’il n’y avait aucun
+actif à réaliser au profit des créanciers. Il lui a signalé un service d’aide
+spécialisé et l’a invité à indiquer dans un délai échéant au
+3 mai 2024 s’il maintenait sa demande.
+Par courrier du 3 mai 2024, V.________ a indiqué qu’il maintenait sa demande, car la liquidation
+des poursuites dont il faisait l’objet était une condition posée par son employeur au
+maintien de son engagement. Il a exposé qu’il était suivi par un service spécialisé
+de désendettement et qu’il avait besoin de la mise en faillite de sa raison individuelle pour
+lui permettre de se réorganiser, la situation étant très difficile d’un point de
+vue psychologique et moral.
+b)
+Par
+avis du 6 mai 2024, le président a imparti au requérant un délai échéant au
+27 mai 2024 pour produire un état de la situation actuelle, un certificat de salaire, ou, à
+défaut, une attestation de l’Office du chômage ou des services sociaux, des copies de
+sa dernière taxation fiscale et de son bail à loyer, la liste de tous ses créanciers avec
+adresses et montants dus, ainsi que toute pièce prouvant l’existence des dettes, la liste
+des poursuites et des actes de défaut de biens établis par le ou les offices de poursuites
+concernés, ainsi qu’un extrait récent du registre du commerce en cas d’inscription.
+Dans le même délai, ultérieurement prolongé d’office au 17 juin 2024, puis
+sur requête au 16 août 2024, le requérant était invité à verser une avance
+de frais de 5'000 fr. à l’Office des faillites de l’arrondissement de Lausanne et de
+200 fr. au tribunal, faute quoi il ne serait pas entré en matière sur la demande.
+Lesdites avances ont été effectuées dans le délai prolongé.
+c)
+Par
+courrier recommandé du 27 août 2024, le président a cité le requérant à
+comparaître à l’audience du 3 octobre 2024.
+Le requérant a fait défaut à cette audience.
+2.
+Par jugement du 10 octobre 2024, notifié
+au requérant le 21 octobre 2024, le Président du Tribunal d’arrondissement de Lausanne,
+statuant en tant qu’autorité de première instance en matière de poursuites pour
+dettes et de faillite, a rejeté la requête du 18 avril 2024 (I) et a mis les frais judiciaires,
+arrêtés à 200 fr., à la charge de [...] (II). En substance, le premier juge a considéré
+que les explications fournies dans la requête n’étaient pas probantes, que le requérant
+n’avait produit aucune pièce établissant sa situation financière, avait fait défaut
+à l’audience et n’avait pas fourni d’éléments permettant d’apprécier
+le bien-fondé de la requête, ce qui ne permettait pas de répondre à la question de
+savoir s’il était insolvable au sens de l’art. 191 al. 2 LP (loi fédérale
+du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1). La requête de faillite
+personnelle devait donc être rejetée.
+3.
+Par acte du 24 octobre 2024, V.________ a recouru
+contre ce jugement en concluant implicitement au prononcé de la faillite personnelle de la raison
+individuelle G.________.
+Le 28 octobre 2024, il a produit un lot de sept pièces.
+Le même jour, à la réquisition de la cour de céans, l’Office des poursuites
+du district de Lausanne a produit la liste des affaires en cours de V.________, dont il ressort qu’il
+fait l’objet de quatre poursuites pour un montant de 6'272 fr. 55 et de huit actes de défaut
+de biens pour un montant de 45'224 fr. 60 correspondant à des dettes fiscales.
+En droit
+:
+1.
+1.1
+a)
+La décision du juge statuant sur la requête
+de faillite du débiteur lui-même (art. 191 LP) peut, dans les dix jours, faire l’objet
+d’un recours au sens du CPC (Code de procédure civile du 19 décembre 2008 ;
+RS 272), selon l’art. 174 al. 1 LP applicable en vertu de l’art 194 LP. Selon l'art. 321
+al. 1 CPC, le recours s'exerce par le dépôt d'un acte écrit et motivé, introduit
+auprès de l'instance de recours.
+En l’espèce, le recours, insuffisamment motivé, a été déposé en temps
+utile, dans le délai de dix jours suivant la notification du jugement, et dans les formes requises.
+Il est ainsi recevable.
+1.2
+1.2.1
+Le recourant peut faire valoir des faits nouveaux lorsque ceux-ci se sont produits avant le jugement
+de première instance (faux nova ou pseudo-nova), (art. 174 al. 1, 2
+e
+phrase, LP) ; ces faits peuvent être invoqués sans restriction et prouvés par pièces,
+pour autant qu'ils le soient dans le délai de recours (ATF 139 III 491 consid. 4.4 ; TF 5A_520/2022
+du 6 décembre 2022 consid. 2.1; 5A_1005/2020 du 19 janvier 2021 consid. 3.1.2 et 3.4 ;
+5A_243/2019 du 17 mai 2019 consid. 3.1 et la référence, publié in SJ 2019 I 376).
+En revanche, selon la jurisprudence du Tribunal fédéral, dans le cadre d'un recours contre
+un prononcé de faillite sans poursuite préalable, seuls les pseudo-nova sont en principe recevables,
+les hypothèses énumérées exhaustivement à l'art. 174 al. 2 ch. 1 à 3 LP
+admettant des faits survenus postérieurement au jugement (vrai nova) étant étrangères
+à ce type de procédure (TF 5A_243/2019 précité consid. 3.1 et 3.2).
+1.2.2
+En l’espèce les pièces produites le 28 octobre 2024 l’ont été dans le
+délai de recours. En outre, le décompte de salaire et le bulletin de versement pour le décompte
+de chauffage sont antérieurs au jugement attaqué. Ils sont donc recevables, vu les considérations
+qui précèdent. En revanche les autres pièces, toutes datées du 28 octobre 2024, constituent
+des vrai nova, irrecevables dans la procédure de recours contre un jugement statuant sur une requête
+de faillite personnelle. Au demeurant, comme on le verra, elles sont sans influence sur le sort du litige.
+2.
+Le recourant requiert le prononcé de la faillite
+de la raison individuelle G.________, ceci vraisemblablement pour faire tomber les poursuites liées
+à cette activité commerciale.
+2.1
+Il ressort de l’extrait du registre du commerce produit en première instance que la faillite
+de la raison individuelle en cause a été prononcée déjà le 26 janvier 2023.
+Comme il était probable que les biens disponibles formant la masse en faillite ne suffiraient pas
+à couvrir les frais de liquidation sommaire de la faillite, celle-ci a été suspendue faute
+d’actifs en application de l’art. 230 al. 1 LP.
+Dans l’hypothèse d’une suspension de la faillite faute d’actifs, l’art.
+230 al. 4 LP prévoit que les poursuites engagées avant l’ouverture de la faillite renaissent
+après la suspension de celle-ci. La faillite prononcée le 26 janvier 2023 n’a donc eu
+aucun effet sur les poursuites alors en cours contre le recourant, vu l’application de l’art.
+230 al. 1 et 4 LP.
+2.2
+La faillite prononcée le 26 janvier 2023
+a été clôturée le 6 avril 2023.
+Selon la jurisprudence et la doctrine, lorsque des biens ayant échappé à la procédure
+de faillite sont découverts après la clôture de la faillite suspendue faute d’actifs,
+l’office des faillites peut demander au juge de reconsidérer sa décision de suspension
+et, si ce dernier partage son point de vue, d’ordonner la réouverture de la faillite, ainsi
+que sa liquidation en la forme sommaire ou ordinaire (ATF 110 II 396 consid. 2, JdT 1985 I 282 ;
+SJ 1995 p.703 consid 2 et références ; Staehelin/ Stojiljkovic, in Staehelin/Bauer/Lorandi,
+Basler Kommentar SchKG II, 3
+e
+éd. 2021 [ci-après : BK-SchKG II], n. 2 ad art. 269 LP et références).
+En l’espèce, le recourant ne prétend pas que des biens nouveaux non pris en compte au
+moment de la suspension de la faillite auraient été découverts. La procédure de faillite
+ouverte le 26 janvier 2023 et clôturée le 6 avril 2023 ne saurait donc être réouverte.
+2.3
+En outre, la raison individuelle G.________ a
+été radiée le 13 juin 2023 du registre du commerce en raison de la cessation de l’activité
+commerciale du recourant. La procédure d’exécution forcée de ses dettes était
+donc à nouveau la procédure de saisie des art. 89 ss LP (art. 38 al. 2, 39 et 42 LP), sous
+réserve du cas de faillite à la demande du débiteur de l’art. 191 LP qui peut être
+requise même quand celui-ci n’est pas inscrit au registre du commerce (BlSchKG  2002
+p. 147). Il convient dès lors d’examiner cette hypothèse.
+3.
+Le recourant fait valoir que son salaire est compris
+entre 3'850 fr. et 4'000 fr., qu’il est père de quatre enfants dont trois en formation dans
+son pays d’origine, ce qui entraine  des charges de l’ordre de 600 à 700 fr. par
+mois. Il expose que son épouse est à la recherche d’un emploi et que ses charges sont
+de 700 fr. de loyer, 150 fr. de frais de télévision et de téléphone, 500 fr. de primes
+d’assurance-maladie, 1'500 à 1'700 fr. de montant de base, 150 fr. de frais de garde, 156
+fr. de frais d’abonnement, 70 fr. de frais d’électricité et 200 fr. d’impôts.
+La difficulté à assumer ces frais avec son salaire l’amène en conséquence à
+requérir sa faillite personnelle.
+3.1
+Aux termes de l’art. 191 LP – dont
+les conditions d’application ont été rendues plus strictes lors de la révision de
+la LP entrée en vigueur le 1er janvier 1997 (cf. ATF 133 III 614 consid. 6.1.2), le débiteur
+peut lui-même requérir sa faillite en se déclarant insolvable en justice. Le débiteur
+doit rendre vraisemblable son insolvabilité, qui n’équivaut pas au surendettement, mais
+consiste en l’incapacité, en raison d’un manque de liquidités qui n’apparaît
+pas seulement temporaire, de payer ses dettes échues (Pierre Gapany, La faillite de la personne
+physique – les abus de la procédure de faillite Aspects judiciaires, JdT 2018 II 15 ss, spéc.
+p. 19, et les références citées à la note infrapaginale 16). La procédure d'insolvabilité
+prévue par l’art. 191 LP a pour but de répartir les biens du débiteur de manière
+équitable entre tous les créanciers. Celui qui requiert volontairement sa faillite doit donc
+avoir quelques biens à abandonner à ses créanciers (ATF 133 III 614 consid. 6.1.2).
+La prérogative du débiteur, prévue par l’art. 191 al. 1 LP, de requérir sa
+faillite en se déclarant insolvable en justice trouve sa limite dans l'abus de droit (art. 2 al.
+2 CC [Code civil du 10 décembre 1907 ; RS 210]), dont le juge doit examiner d'office la réalisation
+au regard de l'ensemble des circonstances du cas concret. Il convient de rappeler d’emblée
+que la faillite volontaire n'est pas une procédure visant à régler la problématique
+du surendettement des particuliers obérés ; les considérations relatives à la «
+spirale
+» de dettes dans lequel se trouverait le débiteur requérant sont dès lors sans pertinence.
+La demande de faillite volontaire du débiteur qui poursuit le but d’échapper à la
+saisie de son salaire constitue un abus de droit. Il ne saurait y avoir libre choix entre la saisie de
+revenu et la déclaration d'insolvabilité, car les intérêts des créanciers doivent
+également être pris en compte et il ne peut s'agir de faire triompher uniquement le point de
+vue du débiteur (ATF 145 III 26 consid. 2.2 et les références ; TF 5A_433/2019 du 26 septembre
+2019 consid. 4.1 ; TF 5A_819/2018 du 4 mars 2019 consid. 2.1).
+Le Tribunal fédéral a jugé qu’il y avait également abus de droit manifeste
+de la part d’un débiteur à solliciter sa mise en faillite volontaire alors qu’il
+sait que la masse ne disposera d’aucun actif réalisable au profit de ses créanciers (ATF
+133 III 614 consid. 6.1.2). La LP n'a pas créé une institution permettant à tout débiteur
+d'obtenir une procédure de mise à l'abri. La procédure de liquidation ne doit être
+continuée que s'il y a des biens suffisants (art. 230 al. 1 LP). A fortiori, s'il n'y a pas de biens
+du tout à réaliser, elle ne doit pas être entamée et le juge doit rejeter la requête
+de faillite présentée par le débiteur, faute d'intérêt (même arrêt).
+Cet arrêt a été rendu dans le cadre de l’assistance judiciaire (sous l’angle
+des chances de succès), mais le Tribunal fédéral a confirmé ultérieurement que
+son raisonnement s’appliquait aussi à la requête de faillite volontaire elle-même
+(TF 5A_433/2019 précité ; TF 5A_819/2018 précité ; Gapany,
+op.
+cit.
+, pp. 20-21 et les références citées
+à la note infrapaginale 24). En effet, seuls les biens existant au moment de la déclaration
+de faillite tombent dans la masse active de la faillite (art. 197 LP), et le salaire futur du débiteur
+n’en fait pas partie ; les saisies de salaire opérées par des créanciers pour une
+année tombent dès que le débiteur est déclaré en faillite (ATF 114 III 26 ;
+Marchand, La faillite personnelle, entre abus et regrets, JdT 2018 II 4 ss, 6). Le Tribunal fédéral
+a donc considéré que commettait un abus de droit le débiteur qui demandait sa faillite
+personnelle sans aucun actif susceptible de constituer une masse active pouvant désintéresser
+les créanciers. Dans cette hypothèse, le débiteur n’offre en effet rien à ses
+créanciers, alors qu’il récupère le salaire futur saisi ou pouvant être saisi
+par ceux-ci (Marchand,
+op.
+cit.
+, p. 9 et les arrêts cités). Il
+en va de même lorsque le dividende prévisible n’est pas nul mais insuffisant (Gapany,
+op. cit.
+,
+p. 21 et les réf. citées à la note infrapaginale 30 ; Brunner/Boller/Fritschi, BK-SchKG
+II, n. 16a ad art. 191 SchKG [LP]).
+3.2
+En l’espèce, les pièces figurant
+au dossier de première instance et celles produites avec le recours ne permettent pas de conclure
+à l’existence d’un quelconque actif susceptible de désintéresser les créanciers
+du recourant. Celui-ci se prévaut d’ailleurs lui-même de l’absence de valeurs restant
+disponibles.
+Dans ces circonstances et vu les considérations qui précèdent, la faillite personnelle
+du recourant ne peut être prononcée et le recours doit être rejeté.
+4.
+En conclusion, le recours doit être rejeté
+et le jugement confirmé.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 300
+fr., doivent être mis à la charge du recourant (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant V.________, G.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. V.________, G.________,
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+Le greffier :
