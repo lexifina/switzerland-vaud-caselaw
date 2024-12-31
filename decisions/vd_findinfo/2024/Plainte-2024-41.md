@@ -1,0 +1,134 @@
+---
+decision_id: "vd_findinfo_Plainte___2024___41"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2024 / 41"
+decided: "2024-12-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10198938"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-008.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md"]
+---
+
+# VD Findinfo Plainte / 2024 / 41
+
+## Regeste
+
+PROCÈS-VERBAL, PROCÈS-VERBAL DE SAISIE, FOI PUBLIQUE, MOTIVATION DE LA DEMANDE, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ | 18 al. 1 LP, 18 LP, 8 al. 2 LP, 28 al. 3 LVLP, 28 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2024 / 41
+
+PROCÈS-VERBAL, PROCÈS-VERBAL DE SAISIE, FOI PUBLIQUE, MOTIVATION DE LA DEMANDE, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ | 18 al. 1 LP, 18 LP, 8 al. 2 LP, 28 al. 3 LVLP, 28 LVLP
+
+TRIBUNAL
+CANTONAL
+FA24.037419-241723
+41
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+31 décembre 2024
+______________________
+Composition
+:              M.
+Hack
+,
+président
+Mmes
+Byrde et  Giroud Walther, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+8 al. 2, 18 al. 1 LP ; 28 al. 3 LVLP
+Vu la décision rendue le 5 décembre 2024, à la suite de l’audience du 10 octobre
+2024, par la Présidente du Tribunal d’arrondissement de Lausanne, statuant en tant qu’autorité
+inférieure de surveillance en matière de poursuite pour dettes et de faillite, déclarant
+irrecevable la plainte déposée par
+V.________
+,
+à [...], et rendant la décision sans frais judiciaires ni dépens,
+vu le recours, daté du 12 décembre 2024 et reçu au greffe du tribunal le 17 décembre
+2024, interjeté par V.________ contre cette décision,
+vu les autres pièces du dossier ;
+attendu que toute décision de l’autorité inférieure de surveillance peut être
+déférée à l’autorité cantonale supérieure de surveillance dans les
+dix jours à compter de sa notification (art. 18 al. 1 LP [loi fédérale du 11 avril 1889
+sur la poursuite pour dettes et la faillite; RS 281.1] et 28 al. 1 LVLP [loi vaudoise du 18 mai 1955
+d'application de la LP; RSV 280.05]),
+qu'en l'espèce, le recours du 12 décembre 2024 a été déposé en temps utile ;
+attendu que le recours doit être motivé (art. 28 al. 3 LVLP), soit indiquer les points sur
+lesquels une modification du prononcé est demandée et, au moins brièvement, les moyens
+invoqués, faute de quoi il est irrecevable (TF 5A_118/2018 du 7 février 2018 consid. 4.2),
+que la partie recourante doit donc prendre des conclusions tendant à la modification sur le fond
+de l'acte entrepris (ATF 133 III 489 consid. 3.1 ; 134 III 379 consid. 1.3).
+qu’elle doit en outre, selon la jurisprudence du Tribunal fédéral en matière de
+recours au sens des art. 319 ss CPC (Code de procédure civile du 19 décembre 2008 ; RS
+272) - applicable par analogie, du fait que l’art. 28 al. 3 LVLP n’a pas de portée propre
+(TF 5A_118/2018 consid. 4.2 précité) - démontrer le caractère erroné de la motivation
+de la décision attaquée et présenter une argumentation suffisamment explicite pour que
+l’instance de recours puisse la comprendre, ce qui suppose une désignation précise des
+passages de la décision attaquée et des pièces du dossier sur lesquelles est fondée
+sa critique (art. 321 al. 1 CPC ; ATF 147 III 176 consid. 4.2.1 ; TF 5A_488/2015 du 21 août 2015
+consid. 3.2.1, Revue suisse de procédure civile [RSPC] 2015, p. 512),
+que la motivation du recours doit donc être topique, soit se rapporter aux questions factuelles
+et juridiques tranchées par la décision attaquée (TF 5A_118/ 2018 précité),
+qu’en l’espèce la recourante fait valoir que la dette en poursuite a été payée
+et que la créancière n’a pas tenu compte de ce paiement et soutient que les informations
+figurant au chiffre 1 let. h de la partie «
+en
+fait
+» de la décision sont erronées,
+qu’elle n’indique pas en quoi la décision attaquée devrait être modifiée
+et se borne à contester, sans aucune autre explication, avoir reçu le commandement de payer
+litigieux,
+que le recours ne satisfait donc pas aux exigences de motivation prévues par la jurisprudence,
+qu’il est en conséquence irrecevable pour motivation insuffisante ;
+attendu qu’au demeurant, l’art. 8 al. 1 LP impose aux offices des poursuites de dresser procès-verbal
+de leurs opérations,
+que l’art. 8 al. 2 LP précise que les procès-verbaux font foi jusqu’à preuve
+du contraire,
+qu’en l’espèce, la décision attaquée retient en page 7 que la notification
+du commandement de payer litigieux le 5 juillet 2024 lors de la venue de la recourante au guichet de
+l’office des poursuites est mentionnée au procès-verbal de saisie,
+que la recourante n’a pas apporté la preuve de l’inexactitude de cette mention,
+que ses seules dénégations ne constituent pas une preuve du contraire au sens de l’art.
+8 al. 2 LP,
+qu’il faut dès lors tenir le commandement de payer litigieux pour notifié à la date
+du 5 juillet 2024 et constater que la plainte formée le 17 août 2024 était tardive,
+qu’à supposer recevable, le recours aurait dû être rejeté ;
+attendu que le présent arrêt est rendu sans frais judiciaires (art. 20a al. 2 ch. 5 LP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais judiciaires, est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Mme V.________,
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+Le greffier :
