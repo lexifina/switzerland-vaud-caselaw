@@ -1,0 +1,691 @@
+---
+decision_id: "vd_findinfo_D_cision___2025___6"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2025 / 6"
+decided: "2025-01-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10160921"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-010.md", "switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/311.0/art-063.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-236.md", "switzerland/bund/acts/312.0/art-237.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2025 / 6
+
+## Regeste
+
+REJET DE LA DEMANDE, DÉTENTION PROVISOIRE, PROLONGATION, MISE EN LIBERTÉ PROVISOIRE, RISQUE DE RÉCIDIVE | 221 al. 1 CP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale Décision / 2025 / 6
+
+REJET DE LA DEMANDE, DÉTENTION PROVISOIRE, PROLONGATION, MISE EN LIBERTÉ PROVISOIRE, RISQUE DE RÉCIDIVE | 221 al. 1 CP
+
+TRIBUNAL
+CANTONAL
+1
+PE23.013906-BRB
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt
+du 6 janvier 2025
+__________________
+Composition
+:               M.
+Krieger
+,
+président
+Mme
+Byrde et M. Maillard, juges
+Greffière
+:              Mme
+Kaufmann
+*****
+Art.
+221 al. 1 let. c CPP
+Statuant sur le recours interjeté le 23 décembre 2024 par
+X.________
+contre l’ordonnance rendue le 19 décembre 2024 par le Tribunal des mesures de contrainte dans
+la cause
+n° PE23.013906-BRB
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par ordonnance pénale du 29 octobre 2019, X.________, au bénéfice d’une curatelle
+de portée générale confiée au Service des curatelles et tutelles professionnelles
+(ci-après : SCTP), a été condamné par le Ministère public de l’arrondissement
+de Lausanne (ci-après : Ministère public) à une peine pécuniaire de 90 jours-amende
+à 30 fr. le jour et à une amende de 600 fr., pour violence ou menace contre les autorités
+et les fonctionnaires, injure, contrainte et tentative de contrainte.
+Le Ministère public a notamment retenu qu’entre
+le 27 juillet 2018 et le 13 janvier 2019, X.________ avait adressé à sa curatrice
+G.________ des messages contenant des menaces de mort au motif qu’il était fâché
+contre elle car elle gérait ses comptes et restreignait ses demandes d’argent. Le Parquet
+a également relevé que l’intéressé avait acquis un pistolet à billes avec
+le projet – qui ne s’était pas concrétisé – de l’utiliser pour
+aller menacer sa curatrice.
+b)
+Le 15 août 2023, ensuite de la dénonciation du SCTP du 13 juillet 2023 et des plaintes
+déposées les 9 et 15 août 2023 par V.________, curatrice, le Ministère public a ouvert
+une instruction pénale contre X.________ pour avoir, le 16 mai 2023, adressé sur l'adresse
+générale de la police de Lausanne un mail intitulé «
+Je
+vais tuer la curatrice si je ne peut pas déposer plainte penale pour vole de sous au réseau. !!!!
+[sic]
+», dans lequel il a écrit «
+Je
+vais m acheter un pistolet a bille et je la one shoot lors du reseau
+[…]
+J espere que vous avez bien
+compris que j ai 32 ans et si il faut je la tue. Sa commence a m ernerver cette histoire de curatelle
+de merde…. Donc prenez ma plainte ou je fais un malheur. A l office des curatelles…
+[sic]
+».
+Le 28 août 2023, le parquet a étendu l’instruction pénale contre X.________ pour
+avoir, dans un mail adressé à sa curatrice le 25 avril 2023, écrit : «
+Si
+je gagne pas ce salaire de chez [...], je devoilerai votre identiter sur les reseaux et à la police
+etc... J'ai plus d'un tour dans mon sac comme on dit
+[sic]
+»
+.
+c)
+A la suite des messages litigieux, la Justice
+de paix a relevé V.________ de son mandat de curatrice et a nommé Q.________ en cette qualité.
+d)
+Le
+15 novembre 2023, le Ministère public a entendu X.________ en qualité de prévenu. A cette
+occasion, celui-ci a admis être l’auteur des messages des 25 avril et 16 mai 2023. Il s’est
+excusé pour son comportement à l’égard d’V.________ et a exprimé des
+regrets. Il a déclaré qu’il s’agissait de «
+quelque
+chose à ne plus refaire
+». Il a
+en outre admis ne pas avoir tenu l’engagement qu’il avait pris à la suite de la médiation
+organisée par la police cantonale le 22 août 2018 avec son ancienne curatrice, G.________.
+S’agissant du pistolet à billes, il a expliqué que son acquisition remontait à son
+hospitalisation à Cery en 2019 et que cette arme avait été détruite par la police.
+La procureure a formellement mis en garde X.________ que s’il proférait à nouveau des
+injures ou des menaces envers sa curatrice ou toute autre personne, elle demanderait son placement en
+détention provisoire.
+e)
+Le 24 janvier 2024, ensuite d’une plainte déposée par Q.________, le Ministère public
+a étendu l’instruction contre X.________. Il lui était notamment reproché d’avoir
+adressé différents courriers d’injure et de menaces à cette dernière. Ainsi,
+le 5 octobre 2023, il lui a écrit : « V
+ous
+et l'office des curatelles vous êtres vraiment de la merde profondes
+»,
+« M
+ais vous l'office des
+curatelles vous etes des putes
+», « V
+ous
+allez me donner les 400.- vue que je vie dans un foyer ou sinon votre image va faire le tour des reseaux
+sociaux
+», « J
+'en
+ai rien a foutre d avoir une plainte ou pas », ainsi que « et je peux aller loins
+dans mes propos
+[sic] ». Le 30 novembre
+2023, il lui a écrit : « S
+i
+vous ne collaborer pas avec sa. Je vous informe que je vais vraiment me facher
+[sic] ». Le 14 décembre 2023, il lui a écrit «
+Vous
+attendez quoi de moi ? Que je fasse de la prison et gagner ma vie en prison ou bien ? Vous etes
+inconscient à 100%. Il va m enlever ce plafa civil ou je vais m'enerver sérieusement contre
+stephane.kolly@chuv.ch
+[sic] ».
+Le 27 décembre 2023, il lui a écrit «
+donc
+soit elle me donne mon salaire soit je la partage sur tout les reseaux sociaux
+[sic]
+». En outre, il lui était reproché d’avoir, entre le 19 et le 25 octobre 2023,
+puis le 17 novembre 2023, déclaré à différents intervenants, notamment à l'infirmière
+cheffe de la [...], à la police, au Dr [...] du CHUV et à la Dre [...] de l'Hôpital
+de Cery, qu'il voulait se rendre dans les locaux du SCTP pour les menacer avec une arme, de même
+que sa curatrice. Enfin, il lui était reproché d’avoir, le 27 décembre 2023, diffusé
+sur sa page Facebook le profil LinkedIn de sa curatrice, en mettant à côté du nom et de
+la photo de celle-ci l’annotation «
+mandat
+de protection de l'adulte de merde. Grosse pute. Verse mon salaire salope
+» et en commentant par : «
+salle
+pute qui travail pour voler les sous des autres
+[sic] », puis en demandant que cette photo soit partagée au maximum car elle ne lui versait
+pas son salaire.
+f)
+X.________ a été interpellé par la police le 25 janvier 2024. Son audition d’arrestation
+par le Ministère public a eu lieu le même jour. Il a admis l’intégralité des
+faits qui lui étaient reprochés.
+g)
+Par ordonnance du 26 janvier 2024, le Tribunal des mesures de contrainte (ci-après : TMC) a
+ordonné la détention provisoire de X.________ pour une durée maximale de trois mois, soit
+au plus tard jusqu’au 24 avril 2024, considérant qu’il existait des soupçons
+suffisants de culpabilité dès lors que le prévenu avait admis les faits qui lui était
+reprochés et qu’ils étaient documentés, que les risques de réitération
+et de passage à l’acte étaient réalisés, qu’aucune mesure de substitution
+n’était susceptible de prévenir valablement les risques constatés, y compris celles
+proposées par le recourant qui ne dépendaient que de la bonne volonté du prévenu
+de s’y conformer et qu’une mise en détention provisoire pour une durée de trois
+mois était proportionnée à la peine encourue en cas de condamnation.
+h)
+Par mandat du 29 janvier 2024, le Ministère public a désigné un expert pour qu’il
+procède à l’expertise psychiatrique de X.________.
+i)
+Par arrêt du 12 février 2024 (n° 107), la Chambre de céans a rejeté, dans la
+mesure de sa recevabilité, le recours déposé par X.________ contre l’ordonnance
+du 26 janvier 2024, constatant que l’existence de soupçons suffisants de culpabilité
+n’était pas contestée et confirmant les risques de récidive spéciale et de
+passage à l’acte ainsi que la proportionnalité de la mesure de contrainte.
+j)
+Par ordonnances des 18 avril et 16 juillet 2024, le TMC a prolongé la détention provisoire
+de X.________ pour une durée de trois mois à chaque fois. Par ordonnance du 9 octobre 2024,
+le TMC a rejeté la requête de mise en œuvre de mesures de substitution en lieu et place
+de la détention provisoire formulée par X.________ le 20 septembre 2024. Par ordonnance du
+21 octobre 2024, le TMC a prolongé la détention provisoire de X.________ pour une durée
+de deux mois, soit ultimement jusqu’au 21 décembre 2024.
+k)
+Dans le rapport d’expertise établi
+le 25 octobre 2024, [...] et [...], respectivement médecin agrée et psychologue associée
+à l’Institut de psychiatrie légale du CHUV, ont retenu, en ce qui concerne X.________,
+les diagnostics de troubles envahissants du développement, de retard mental léger, de trouble
+mental sans précision due à une lésion cérébrale ou à un dysfonctionnement
+cérébral ou à une affection physique ainsi que de trouble dépressif récurrent,
+actuellement en rémission. Ces troubles impliquaient notamment une immaturité associée
+à une tendance à agir de manière impulsive face à la frustration, des déficits
+cognitifs et des épisodes dépressifs répétés. Ils étaient considérés
+comme graves, compte tenu des difficultés qu’ils occasionnaient depuis de nombreuses années
+dans la majorité des domaines de la vie de l’expertisé. Ils impliquaient des difficultés
+de compréhension et d’expression verbales. En raison de ces troubles, sa responsabilité
+pénale, sur le plan psychiatrique, était diminuée dans une mesure légère à
+moyenne. Considérant les principaux facteurs de risque de violence interpersonnelle présents
+dans la situation du recourant – ses antécédents d’actes délictueux similaires
+à ceux qui lui étaient reprochés actuellement, ses problèmes dans ses relations interpersonnelles
+depuis l’enfance (avec en particulier des difficultés de compréhension des autres) et
+ses attitudes violentes (agressivité verbale face à la frustration), ses problèmes d’emploi
+ayant également impliqué des problèmes sur le plan financier, la persistance de troubles
+psychiques sévères avec des difficultés d’introspection et de l’instabilité,
+ses antécédents d’événements traumatiques, ses difficultés d’adhésion
+aux soins thérapeutiques et médicamenteux par le passé et ses difficultés de gestion
+du stress ; les expertes ont en outre retenu que le risque de récidive d’infractions
+similaires à celles qui lui sont reprochées devait être qualifié d’élevé.
+Un risque d’escalade paraissait cependant peu probable, d’autant plus que X.________ n’avait
+pas d’antécédent de violence physique, qu’il exprimait le souhait de ne pas commettre
+d’actes délictueux à l’avenir en s’investissant davantage dans sa thérapie
+et qu’il se montrait particulièrement marqué par sa première incarcération.
+Selon les médecins, l’ordonnance d’une mesure thérapeutique ambulatoire au sens
+de l’art. 63 CP était indiquée en termes de réduction du risque de récidive.
+En particulier, un traitement psychiatrique et psychothérapeutique ambulatoire, éventuellement
+associé à une médication adaptée sur le long terme, pouvait permettre de diminuer
+ce risque, ce type d’accompagnement pouvant aider l’intéressé à trouver un
+sens à des situations qui le rendaient perplexe, à mieux comprendre son fonctionnement psychique
+et à mieux gérer ses colères et la frustration. Le fait que le recourant adhérait
+au traitement thérapeutique et médicamenteux en prison, qu’il s’investissait dans
+la thérapie et qu’il exprimait le souhait de poursuivre ses soins à sa sortie de prison
+augmentait les chances de succès de la thérapie. En revanche, l’ampleur des troubles
+psychiques du recourant, sa rigidité de pensée, ses faibles capacités d’élaboration,
+son manque de conscience morbide et ses difficultés d’adhésion aux soins sur du long
+terme étaient susceptibles de compromettre la thérapie. Les expertes ont également souligné
+que selon le rapport médical du 25 juin 2024 réalisé par le Dr. [...], médecin chef
+de clinique adjoint au Service de médecine et psychiatrie pénitentiaires (SMPP), l’alliance
+thérapeutique de X.________ restait fragile sur le plan psychiatrique.
+l)
+Un complément d’expertise – portant notamment sur la question de savoir si une mesure
+institutionnelle au sens de l’art. 59 CP ne serait pas davantage adaptée à la situation
+de X.________ – a été requis par le Ministère public le 11 décembre 2024. Le
+délai pour le dépôt du rapport complémentaire a été fixé au 13 janvier
+2025.
+B.
+Par acte du 9 décembre 2024, X.________ a
+requis sa libération de la détention provisoire, respectivement son placement sous mesures
+de substitution en lieu et place de la détention provisoire, faisant valoir que son maintien en
+détention portait atteinte au principe de proportionnalité. S’agissant des mesures de
+substitution, il a conclu à une interdiction de contact avec V.________, Q.________ et K.________
+– nouvelle curatrice du recourant – ainsi que, principalement, à ce qu’il soit
+soumis à l’obligation de se soumettre à un suivi thérapeutique ambulatoire auprès
+de l’hôpital de Cery ou de tout autre médecin susceptible d’offrir une prise en
+charge similaire, subsidiairement, à son placement au sein de l’hôpital psychiatrique
+de Cery dans l’attente de son placement au sein d’une institution adaptés à ses
+besoins, selon PLAFA prononcé à son encontre et, plus subsidiairement, à ce que sa détention
+provisoire ne soit pas prolongée au-delà du 20 décembre 2024.
+Le 12 décembre 2024, le Ministère public a conclu au rejet de la demande de libération
+de la détention provisoire. Il a en outre requis la prolongation de cette détention provisoire
+pour une durée de trois mois, faisant valoir l’existence de soupçons suffisants de commission
+d’un crime ou d’un délit, des risques de réitération qualifié et de passage
+à l’acte, soulignant que les mesures de substitution proposées n’étaient pas
+une alternative suffisante à la détention provisoire et qu’au vu de la peine à laquelle
+le prévenu s’exposait, le principe de proportionnalité demeurait respecté.
+Dans ses déterminations du 18 décembre 2024, X.________ a conclu, sous suite de frais et dépens,
+au rejet de la demande de prolongation de la détention provisoire et à sa libération immédiate.
+Par ordonnance du 19 décembre 2024, le Tribunal
+des mesures de contrainte a rejeté la demande de libération de la détention provisoire
+de X.________ (I), a ordonné la prolongation de sa détention provisoire (II), a fixé la
+durée maximale de cette prolongation à deux mois, soit au plus tard jusqu’au 20 février
+2025 (III), et a dit que les frais de cette ordonnance, par 675 fr., suivaient le sort de la cause (IV).
+Le Tribunal des mesures de contrainte a considéré qu’il existait toujours des soupçons
+sérieux de culpabilité, relevant que ce point n’était pas litigieux. Il a estimé
+que les risques de réitération qualifié et de passage à l’acte demeuraient
+patents. Aucune des mesures de substitution proposées par le prévenu n’était apte
+à pallier les risques retenus, pas même la soumission à un suivi thérapeutique ambulatoire.
+En effet, tant que les conclusions complémentaires des experts sur la mise en œuvre soit d’une
+mesure thérapeutique institutionnelle au sens de l’art. 59 CP, soit d’un traitement
+ambulatoire au sens de l’art. 63 CP n’étaient pas connues, il y avait lieu de considérer
+que seule la détention était à même de prévenir la commission de nouvelles infractions.
+Une interdiction de contact, qui reposerait uniquement sur la bonne volonté du prévenu, n’était
+manifestement pas apte à pallier les risques retenus. Au vu de la gravité des faits reprochés
+à ce dernier, de ses antécédents et de la peine susceptible d’être prononcée
+en cas de condamnation, la durée de la détention provisoire, même prolongée, demeurait
+proportionnée.
+C.
+Par acte du 23 décembre 2024, X.________,
+par son défenseur d’office, a recouru contre cette ordonnance en concluant, avec suite de
+frais et de dépens, principalement à son annulation et à sa mise en liberté ;
+subsidiairement, il a conclu à l’annulation de l’ordonnance et à sa mise en liberté
+moyennant mise en œuvre des mesures de substitution proposées ; plus subsidiairement,
+il a conclu à l’annulation de l’ordonnance et à son renvoi au TMC pour qu’il
+procède dans le sens des considérants.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393 al. 1 let. c CPP
+(Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0), le recours est recevable contre
+les décisions du Tribunal des mesures de contrainte dans les cas prévus par le code. L’art.
+222 CPP prévoit que le détenu peut attaquer devant l’autorité de recours les décisions
+ordonnant une mise en détention provisoire ou une mise en détention pour des motifs de sûreté,
+ou encore la prolongation ou le terme de cette détention. Cette disposition autorise également
+le détenu, malgré une formulation peu claire, à attaquer devant l’autorité
+de recours une décision refusant la libération de la détention (CREP 23 mai 2024/390 consid.
+1.1 ; CREP 8 mai 2024/358 consid. 1.1 ; CREP 29 avril 2024/320 consid. 1.1).
+Le recours doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (art. 384 let. b CPP), à l’autorité de recours (art.
+396 al. 1 CPP), qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal
+(art. 13 LVCPP [loi vaudoise d’introduction du Code de procédure pénale suisse du
+19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [loi vaudoise d’organisation judiciaire du 12 décembre
+1979 ; BLV 173.01]).
+1.2
+En l’espèce, interjeté en temps utile, par un prévenu détenu qui a qualité
+pour recourir (art. 382 al. 1 CPP) et dans les formes prescrites (art. 385 al. 1 CPP), le recours est
+recevable sous réserve de ce qui suit (cf.
+infra
+consid. 3).
+2.
+2.1
+Le recourant soutient que la décision entreprise serait entachée d’arbitraire au motif
+que le premier juge se serait écarté des conclusions de l’expertise déposée
+le 25 octobre 2024 – qui préconisait la mise en place d’un traitement ambulatoire au
+sens de l’art. 63 CP – sans en expliquer les raisons. Ce faisant, il semble se plaindre d’un
+défaut de motivation, soit d’une violation de son droit d’être entendu.
+2.2
+Le droit d’être entendu garanti à
+l’art. 29 al. 2 Cst. (Constitution fédérale de la Confédération suisse du 18
+avril 1999 ; RS 101) implique, pour l’autorité, l’obligation de motiver sa décision,
+afin que le destinataire puisse la comprendre, l’attaquer utilement s’il y a lieu et afin
+que l’autorité de recours puisse exercer son contrôle. Le juge doit ainsi mentionner,
+au moins brièvement, les motifs qui l’ont guidé et sur lesquels il a fondé sa décision
+(ATF 146 II 335 consid. 5.1 ; ATF 143 III 54 consid. 5.2 ; ATF 139 IV 179 consid. 2.2), de manière
+que l’intéressé puisse se rendre compte de la portée de celle-ci et l’attaquer
+en connaissance de cause (ATF 143 IV 40 consid. 3.4.3 ; ATF 141 IV 249 consid. 1.3.1; ATF 139 IV
+179 précité consid. 2.2 ; TF 6B_1169/2022 du 30 juin 2023 consid. 1.1).
+2.3
+À la lecture du prononcé entrepris,
+on comprend que le premier juge a considéré que la préconisation d’instaurer un
+traitement ambulatoire paraissait insuffisante pour contrer le risque de réitération, dès
+lors qu’une telle mesure était déjà en place – et s’est avérée
+totalement inefficace – lorsque le recourant a réitéré ses menaces à l’encontre
+de ses curatrices successives. Le TMC en a déduit qu’aussi longtemps que les experts n’auraient
+pas livré leurs conclusions complémentaires quant à l’opportunité de la mise
+en œuvre d’une mesure thérapeutique institutionnelle au sens de l’art. 59 CP ou
+d’un traitement ambulatoire au sens de l’art. 63 CP, seule la détention était à
+même de prévenir la commission de nouvelles infractions. C’est donc en vain que le recourant
+se prévaut d’une violation de son droit d’être entendu.
+Mal fondé, ce grief doit être rejeté.
+3.
+3.1
+Le recourant invoque l’établissement
+inexact des faits. Il reproche au premier juge de ne pas avoir tenu compte de l’effet préventif
+de la détention subie, de l’impact de cette détention sur sa santé mentale et de
+l’absence de dangerosité immédiate alors que ces différents éléments résulteraient
+de l’expertise. Selon lui, ces lacunes justifieraient l’annulation de l’ordonnance
+querellée.
+3.2
+Les exigences de motivation du recours (art. 390
+al. 1 et 396 al. 1 CPP) sont posées à l’art. 385 al. 1 CPP. Selon cette disposition,
+la personne ou l’autorité qui recourt doit indiquer précisément les points de la
+décision qu’elle attaque (let. a), les motifs qui commandent une autre décision (let.
+b) et les moyens de preuves qu’elle invoque (let. c).
+Les motifs au sens de l'art. 385 al. 1 let. b CPP doivent être étayés par le recourant
+sous l'angle des faits et du droit. La motivation d'un acte de recours doit être entièrement
+contenue dans l'acte lui-même et ne saurait être complétée ultérieurement (TF
+7B_51/2024 du 25 avril 2024 consid. 2.2.2 ; TF 6B_1447/2022 du 14 mars 2023 consid. 1.1 et les réf.
+cit.). La motivation doit être complète, si bien qu'un simple renvoi à d'autres écritures
+n'est pas suffisant (TF 6B_1447/2022 précité ; cf. en lien avec l’art. 42 LTF [loi
+sur le Tribunal fédéral du 17 juin 2005 ; RS 173.110], ATF 140 III 115 consid. 2).
+L’art. 385 al. 2, 1
+re
+phrase, CPP prévoit que si le mémoire ne satisfait pas aux exigences mentionnées à
+l’alinéa 1, l’autorité de recours le renvoie au recourant pour qu’il le complète
+dans un bref délai. Si, après l’expiration de ce délai supplémentaire, le mémoire
+ne satisfait toujours pas à ces exigences, l’autorité de recours n’entre pas en
+matière. Cette disposition vise uniquement à protéger le justiciable contre un formalisme
+excessif de la part de l’autorité. Elle ne permet en revanche pas de suppléer un défaut
+de motivation, dès lors que la motivation de l'acte de recours doit être entièrement contenue
+dans celui-ci (TF 6B_1447/2022 précité). Elle ne saurait dès lors être complétée
+ou corrigée ultérieurement, l’art. 385 al. 2 CPP ne devant pas être appliqué
+afin de détourner la portée de l’art. 89 al. 1 CPP, qui interdit la prolongation des
+délais fixés par la loi et n’autorise pas la partie à compléter un acte dépourvu
+de motivation (TF 6B_1447/2022 précité ; TF 6B_609/2021 du 19 juillet 2021 consid. 2.4
+; TF 6B_510/2020 du 15 septembre 2020 consid. 2.2 et les réf. cit.).
+3.3
+En l’espèce, on relèvera tout d’abord qu’une éventuelle constatation
+inexacte des faits ne serait pas de nature à conduire à l’annulation de la décision
+entreprise, mais pourrait tout au plus imposer un complément de l’état de fait retenu
+en première instance. Quoi qu’il en soit, le recourant se borne à livrer sa propre interprétation
+de l’expertise, sans toutefois citer expressément ni faire référence à des
+passages du rapport qui soutiendraient son point de vue. Faute de motivation suffisante, ce grief est
+irrecevable.
+4.
+4.1
+Le recourant conteste l’existence d’un risque de récidive qualifié. Il fait valoir
+que ce constat irait à l’encontre des conclusions des experts, lesquels ont relevé qu’il
+adhérait au traitement prodigué en prison et exprimait un engagement sérieux à poursuive
+sa thérapie après sa libération, et n’ont pas qualifié le risque de récidive
+comme étant grave et imminent. Il ajoute que les comportements qu’on lui reproche sont liés
+à des frustrations autour de conflits administratifs et financiers et qu’il n’y a pas
+eu de nouveaux faits depuis le dépôt du rapport d’expertise en octobre 2024. Il conteste
+également le risque de passage à l’acte retenu par le TMC. Il soutient qu’il a
+toujours nié vouloir faire du mal à qui que ce soit, qu’il n’a jamais tenté
+de passer à l’acte depuis sa précédente condamnation et qu’aussitôt que
+la personne concernée n’est plus sa curatrice, il cesse de l’importuner.
+4.2
+L'art. 221 al. 1 let. c CPP, dans sa teneur au 1
+er
+janvier 2024, prévoit que la détention provisoire et la détention pour des motifs de sûreté
+ne peuvent être ordonnées que lorsque le prévenu est fortement soupçonné d'avoir
+commis un crime ou un délit et qu'il y a sérieusement lieu de craindre qu'il compromette sérieusement
+et de manière imminente la sécurité d'autrui en commettant des crimes ou des délits
+graves après avoir déjà commis des infractions du même genre.  Selon la jurisprudence
+récente du Tribunal fédéral, l'application de cette disposition (risque de récidive
+simple) présuppose, pour placer un prévenu en détention avant jugement, que celui-ci ait
+déjà été reconnu coupable pour au moins deux infractions du même genre (TF 7B_1035/2024
+du 19 novembre 2024 consid. 2.11 destiné à la publication). La prévention du risque
+de récidive doit permettre de faire prévaloir l'intérêt de la sécurité
+publique sur la liberté personnelle du prévenu (ATF 137 IV 13 consid. 3 et 4 ; TF 7B_1089/2024
+du 6 novembre 2024 consid. 3.2.2). Pour établir le pronostic de récidive, les critères
+déterminants sont la fréquence et l'intensité des infractions poursuivies. Cette évaluation
+doit prendre en compte une éventuelle tendance à l'aggravation telle qu'une intensification
+de l'activité délictuelle, une escalade de la violence ou une augmentation de la fréquence
+des agissements. Les caractéristiques personnelles du prévenu doivent en outre être évaluées.
+En général, la mise en danger de la sécurité d'autrui est d'autant plus grande que
+les actes redoutés sont graves. En revanche, le rapport entre gravité et danger de récidive
+est inversement proportionnel. Cela signifie que plus l'infraction et la mise en danger sont graves,
+moins les exigences seront élevées quant au risque de réitération. Lorsque la gravité
+des faits et leurs incidences sur la sécurité sont particulièrement élevées,
+on peut ainsi admettre un risque de réitération à un niveau inférieur. Il demeure
+qu'en principe, le risque de récidive ne doit être admis qu'avec retenue comme motif de détention.
+Un pronostic défavorable est nécessaire (et en principe également suffisant) pour admettre
+l'existence d'un tel risque (ATF 146 IV 326 consid. 3.1 et les réf. cit. ; TF 7B_1251/2024
+du 16 décembre 2024 consid. 3.2).
+Selon l’art. 221 al. 1
+bis
+CPP, en vigueur depuis le 1
+er
+janvier 2024, la détention provisoire et la détention pour des motifs de sûreté peuvent
+exceptionnellement être ordonnées aux conditions suivantes : le prévenu est fortement
+soupçonné d’avoir porté gravement atteinte à l’intégrité physique,
+psychique ou sexuelle d’autrui en commettant un crime ou un délit grave (let. a) ; en outre,
+il y a un danger sérieux et imminent qu’il commette un crime grave du même genre (let.
+b).
+Enfin, la détention peut être ordonnée s’il y a un danger sérieux et imminent
+qu’une personne passe à l’acte après avoir menacé de commettre un crime grave
+(art. 221 al. 2 CPP ; modifié au 1
+er
+janvier 2024).
+4.3
+En l’espèce, il est vrai que les infractions
+qui sont reprochées au recourant dans le cadre de la présente affaire – diffamation,
+injure, menaces, tentative de contrainte et violence ou menaces contre les autorités et les fonctionnaires
+– ne sont pas passibles d’une peine privative de liberté de plus de trois ans et ne
+constituent donc pas des crimes (art. 10 al. 2 CP). Il faut par ailleurs donner acte au recourant que,
+dans leur rapport du 25 octobre 2024, les expertes ont estimé qu’un risque d’escalade
+– soit de commission d’infractions plus graves – leur paraissait peu probable dans
+la mesure où le recourant n’avait pas d’antécédents de violence physique,
+qu’il exprimait le souhait de ne pas commettre d’actes délictueux à l’avenir
+en s’investissant davantage dans sa thérapie et qu’il se montrait particulièrement
+marqué par sa première incarcération. Il s’ensuit que le risque que le recourant
+commette prochainement un crime grave ne parait à ce stade plus vraisemblable. L’existence
+d’un risque de récidive qualifié (art. 221 al. 1
+bis
+CPP) ou de passage à l’acte (art. 221 al. 2 CPP) – qui supposent tous les deux le danger
+qu’un crime grave soit commis – ne pouvait ainsi, postérieurement à l’expertise
+psychiatrique, plus être retenu par l’autorité précédente.
+Il n’en demeure pas moins que le recourant
+a déjà, sur dénonciation du SCTP du 21 janvier 2019, été condamné par ordonnance
+pénale du 29 octobre 2019 pour violence ou menace contre les autorités et les fonctionnaires,
+injure, contrainte et tentative de contrainte. Cette condamnation faisait suite à l’envoi
+de plusieurs messages contenant des menaces de mort contre son ancienne curatrice, G.________, au motif
+que le recourant était fâché contre elle parce qu’elle restreignait ses demandes
+d’argent. L’enquête avait en outre permis d’établir que le recourant s’était
+procuré un pistolet à billes qu’il comptait utiliser pour aller menacer sa curatrice.
+Il ressort par ailleurs du dossier qu’avant cette première condamnation, une séance de
+médiation avait été organisée auprès de la Police cantonale. Le recourant avait
+alors pris l’engagement de ne plus importuner sa curatrice. La condamnation qui a suivi démontre
+qu’il n’est manifestement pas parvenu à respecter cet engagement. Qui plus est, en dépit
+de cette condamnation, le recourant a continué à proférer des menaces à l’encontre
+de sa nouvelle curatrice, ce qui a conduit à une deuxième dénonciation du SCTP le 18 février
+2020. A la faveur d’une nouvelle médiation, le recourant a dans ce cas pu bénéficier
+d’une ordonnance de non-entrée en matière qui a été rendue le 30 juin 2020.
+Le 13 juillet 2023, le SCTP a toutefois dû déposer une nouvelle dénonciation contre le
+recourant, en raison du comportement qu’il avait adopté contre sa nouvelle curatrice, V.________.
+Les 9 et 15 août 2023, celle-ci a également personnellement porté plainte pour violence
+ou menace contre les autorités et les fonctionnaires en raison des propos menaçants qu’il
+tenait à son encontre. Entendu par le Ministère public le 15 novembre 2023, le recourant
+a été clairement informé des conséquences qu’aurait une nouvelle récidive ;
+il s’est par ailleurs engagé à ne pas recommencer. Le 19 janvier 2024, la nouvelle et
+énième curatrice du recourant, Q.________, a malgré tout dû, elle aussi, déposer
+une plainte pour dénoncer de nouveaux comportements inadmissibles du recourant, notamment le partage
+de son identité sur les réseaux sociaux, accompagnée d’injures.
+En outre, dans leur rapport du 25 octobre 2024, les expertes qui ont procédé à l’expertise
+psychiatrique de X.________ ont retenu les diagnostics de troubles envahissants du développement,
+de retard mental léger, de trouble mental sans précision due à une lésion cérébrale
+ou à un dysfonctionnement cérébral ou à une affection physique ainsi que de trouble
+dépressif récurrent, actuellement en rémission. Elles ont par ailleurs relevé que
+ces troubles impliquaient notamment une immaturité associée à une tendance à agir
+de manière impulsive face à la frustration. Considérant les principaux facteurs de risque
+de violence interpersonnelle présents dans la situation actuelle du recourant, – à savoir
+ses antécédents d’actes délictueux similaires à ceux qui lui sont reprochés
+actuellement, ses problèmes dans ses relations interpersonnelles depuis l’enfance (avec en
+particulier des difficultés de compréhension des autres) et ses attitudes violentes (agressivité
+verbale face à la frustration), ses problèmes d’emploi ayant également impliqué
+des problèmes sur le plan financier, la persistance de troubles psychiques sévères avec
+des difficultés d’introspection et de l’instabilité, ses antécédents
+d’événements traumatiques, ses difficultés d’adhésion aux soins thérapeutiques
+et médicamenteux par le passé et ses difficultés de gestion du stress – elles ont
+en outre retenu que le risque de récidive d’infractions similaires à celles qui sont
+reprochées au recourant devait être qualifié d’élevé.
+Il résulte de ce qui précède que
+le recourant a déjà commis et été condamné pour plusieurs infractions du même
+genre que celles qui lui sont aujourd’hui reprochées. Malgré cette précédente
+condamnation, les médiations organisées, les mises en garde et les engagements pris, il s’est
+montré totalement incapable de se maîtriser et a continué à menacer ses curatrices
+à chaque fois qu’il était contrarié par la manière dont ses revenus étaient
+gérés. À cet égard, ses actes ont même gagné en fréquence puisque
+deux curatrices ont déposé plainte à son encontre à six mois d’intervalle.
+On relève au demeurant que le recourant est aujourd’hui encore convaincu que ses différents
+curateurs lui volent son salaire (P. 95). Le risque qu’il récidive à nouveau en
+commettant des infractions du même genre – qui ne sont certes pas des crimes, mais tout de
+même des délits graves s’agissant en particulier des menaces de mort – est donc
+patent et d’ailleurs confirmé par les experts. Il s’ensuit que les conditions posées
+à l’art. 221 al. 1 let. c CPP sont manifestement réalisées.
+5.
+5.1
+Le recourant reproche au premier juge d’avoir
+refusé les mesures de substitution proposées – à savoir l’obligation de se
+soumettre à un suivi thérapeutique ambulatoire auprès de l’hôpital de Cery
+ou de tout médecin susceptible d’offrir une prise en charge similaire, subsidiairement le
+placement au sein de l’hôpital psychiatrique de Cery, et interdiction de contact avec les
+deux plaignantes – au motif que ces mesures ne dépendaient que de sa volonté. Il fait
+à cet égard valoir qu’il serait désormais conscient du fait qu’une violation
+de ses engagements impliquerait un retour en détention. Il soutient pour le reste que la durée
+de sa détention serait disproportionnée au regard de la gravité des actes commis.
+5.2
+5.2.1
+Conformément au principe de la proportionnalité
+(art. 36 al. 3 Cst. ; pour la procédure pénale, cf. art. 197 al. 1 let. c CPP), il convient
+d'examiner les possibilités de mettre en œuvre d'autres solutions moins dommageables que la
+détention (règle de la nécessité). Cette exigence est concrétisée par l'art.
+237 al. 1 CPP, qui prévoit que le tribunal compétent ordonne une ou plusieurs mesures moins
+sévères en lieu et place de la détention si ces mesures permettent d'atteindre le même
+but que la détention. Selon l'art. 237 al. 2 CPP, font notamment partie des mesures de substitution
+la fourniture de sûretés (let. a), la saisie des documents d'identité (let. b), l'assignation
+à résidence ou l'interdiction de se rendre dans un certain lieu ou un certain immeuble (let.
+c), l'obligation de se présenter régulièrement à un service administratif (let. d),
+l'obligation d'avoir un travail régulier (let. e), l'obligation de se soumettre à un traitement
+médical ou à des contrôles (let. f) et l'interdiction d'entretenir des relations avec
+certaines personnes (let. g).
+Un placement en institution avant un jugement
+au fond n'est en principe pas exclu ; la liste des mesures de substitution énoncée à
+l'art. 237 CPP n'est en effet pas exhaustive (ATF 145 IV 503 consid. 3.1 ; 142 IV 367 consid. 2.1)
+et rien ne s'oppose à un tel placement, combiné le cas échéant avec d'autres mesures,
+si cela permet d'atteindre le même but que la détention. Une telle mesure doit cependant reposer
+sur un avis d'expert (TF 1B_284/2023 du 16 juin 2023 consid. 2.1 ; TF 1B_402/2020 du 21 août
+2020 consid. 4.3.4 ; TF 1B_171/2019 du 8 mai 2019 consid. 3.1). Il est en outre nécessaire,
+pour qu'un placement institutionnel puisse être ordonné à titre de mesure de substitution,
+que l'avis d'expert porte spécifiquement sur l'opportunité de mettre en œuvre un tel placement
+avant jugement, en particulier au regard de son aptitude à contenir de manière suffisante le
+risque de récidive compte tenu du danger encouru par les victimes potentielles. Ainsi, lorsque le
+placement institutionnel n'est préconisé par l'expert qu'à titre de mesure thérapeutique
+au sens des art. 59 ss CP à prononcer dans le cadre d'un jugement au fond, ce placement ne saurait
+en principe être mis en œuvre en tant que mesure de substitution au sens de l'art. 237 CPP ;
+il est toutefois susceptible de faire l'objet d'une exécution anticipée de mesure selon l'art.
+236 CPP (TF 1B_284/2023 précité ; TF 1B_402/2020 précité ; TF 1B_171/2019
+précité), cette démarche supposant alors une demande du prévenu en ce sens et l'accord
+de la direction de la procédure (cf. art. 236 al. 1 CPP). Au demeurant, le choix d'une
+mesure au sens des art. 59 ss CP relève en principe du juge du fond. Une mesure de substitution
+ayant les caractéristiques d'une mesure au sens des art. 59 ss CP ne peut ainsi pas être ordonnée
+par le juge de la détention sans que toutes les conditions en soient
+a
+priori
+assurées (TF 7B_810/2024 du 23 août
+2024 consid. 4.2.1 et les réf. cit.)
+5.2.2
+Selon l’art. 212 al. 3 CPP, la détention
+provisoire ou pour des motifs de sûreté ne doit pas durer plus longtemps que la peine privative
+de liberté prévisible. La proportionnalité de la détention provisoire doit être
+examinée au regard de l’ensemble des circonstances concrètes du cas d’espèce
+(ATF 139 IV 270 consid. 3.1 ; ATF 133 I 168 consid. 4.1 et les réf. cit.). Le juge peut dès
+lors maintenir la détention provisoire aussi longtemps qu'elle n'est pas très proche de la
+durée de la peine privative de liberté à laquelle il faut s'attendre concrètement
+en cas de condamnation (ATF 145 IV 179 consid. 3.1 ; ATF 143 IV 168 consid. 5.1 ; ATF 139 IV 270 consid.
+3.1).
+5.3
+En l’espèce, on relèvera tout
+d’abord qu’à ce stade, les expertes n’ont pas préconisé une mesure institutionnelle
+au sens de l’art. 59 CP, de sorte qu’une mesure de substitution sous la forme d’un
+placement à l’hôpital de Cery ne paraît pas envisageable.
+En revanche, les expertes ont en l’état
+estimé que l’ordonnance d’une mesure thérapeutique ambulatoire au sens de l’art.
+63 CP était indiquée en termes de réduction du risque de récidive. Elles ont en particulier
+relevé qu’un traitement psychiatrique et psychothérapeutique ambulatoire, éventuellement
+associé à une médication adaptée sur le long terme, pourrait permettre de diminuer
+le risque de récidive que présente le recourant, ce type d’accompagnement pouvant aider
+l’intéressé à trouver un sens à des situations qui le rendent perplexe, à
+mieux comprendre son fonctionnement psychique et à mieux gérer ses colères et la frustration.
+Elles ont également souligné que le fait que le recourant adhère actuellement au traitement
+thérapeutique et médicamenteux en prison, qu’il s’investisse dans la thérapie
+et qu’il exprime le souhait de poursuivre ses soins à sa sortie de prison augmentaient les
+chances de succès de la thérapie. Il ressort toutefois du rapport médical du 25 juin 2024
+établi par le SMPP que l’alliance thérapeutique avec le recourant est encore fragile.
+Les expertes ont de leur côté aussi indiqué que l’ampleur des troubles psychiques
+du recourant, sa rigidité de pensée, ses faibles capacités d’élaboration, son
+manque de conscience morbide et ses difficultés d’adhésion aux soins sur du long terme
+étaient susceptibles de compromettre la thérapie. Enfin et surtout, le recourant ne prétend
+pas que des contacts auraient été pris avec un quelconque thérapeute, au sein de l’hôpital
+de Cery ou ailleurs, pour assurer son suivi en cas de libération. À ce stade, rien n’indique
+donc qu’un suivi effectif pourrait être mis en place à la sortie de prison du recourant
+ni qu’il serait suffisant pour prévenir tout risque de récidive. Quant à l’interdiction
+de prendre contact avec les deux plaignantes et K.________, on ne peut que constater qu’une telle
+interdiction ne reposerait effectivement que sur la bonne volonté du prévenu, ce qui est insuffisant.
+Dans ces conditions, force est de constater qu’il
+n’existe pas de mesure de substitution propre à prévenir le risque de récidive retenu.
+Pour le reste, les infractions reprochées
+au recourant sont graves, celui-ci ayant en particulier explicitement menacé de s’en prendre
+à la vie de l’une de ses curatrices. L’intéressé a par ailleurs un antécédent
+pour des infractions du même genre et a d’autre part récidivé en cours d’enquête
+malgré plusieurs médiations et mises en garde. On relèvera également le concours
+d’infractions. À ce stade, la durée de la détention – y compris la prolongation
+ordonnée – ne paraît donc pas encore dépasser la durée de la peine prévisible
+et demeure par conséquent acceptable, étant toutefois précisé qu’il convient
+que l’instruction soit menée à terme avec célérité.
+6.
+En définitive, le recours, manifestement mal fondé, doit être rejeté sans échange
+d'écritures (art. 390 al. 2 CPP) dans la mesure où il est recevable, et l’ordonnance
+du 19 décembre 2024 confirmée.
+Au vu de la nature de la cause et de l’acte déposé par Me Benjamin Schwab, défenseur
+d’office du recourant, il sera retenu 4 heures d’activité nécessaire d’avocat
+au tarif horaire de 180 fr. (art. 2 al. 1 let. a et 3 al. 2 RAJ [règlement sur l'assistance judiciaire
+en matière civile du 7 décembre 2010 ; BLV 211.02.3] par renvoi de l’art. 26b TFIP [tarif
+des frais de procédure et indemnités en matière pénale du 28 septembre 2010 ; BLV
+312.03.1]), soit 720 francs. Viennent s’y ajouter des débours forfaitaires à hauteur
+de 2 % des honoraires admis (art. 3bis al. 1 RAJ), soit 14 fr. 40, et la TVA au taux de 8,1 % sur le
+tout, par 59 fr. 48. L’indemnité d’office s’élève ainsi au total à
+794 fr. en chiffres arrondis.
+Vu le sort du recours, les frais de la procédure, constitués de l’émolument d’arrêt,
+par 1’980 fr. (art. 20 al. 1 TFIP), et de l’indemnité due au défenseur d’office
+(art. 422 al. 1 et 2 let. a CPP), par 794 fr., seront mis à la charge du recourant, qui succombe
+(art. 428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+sera exigible du recourant dès que sa situation financière le permettra (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+L’ordonnance du 19 décembre 2024 est confirmée.
+III.
+L’indemnité allouée à Me
+Benjamin Schwab, défenseur d’office de X.________, est fixée à 794 fr. (sept cent
+nonante-quatre francs).
+IV.
+Les frais d’arrêt, par 1’980 fr. (mille neuf cent huitante francs), ainsi que l’indemnité
+allouée à Me Benjamin Schwab, par 794 fr. (sept cent nonante-quatre francs), sont mis à
+la charge de X.________.
+V.
+Le
+remboursement à l’Etat de l’indemnité allouée au chiffre III ci-dessus sera
+exigible de X.________ dès que sa situation financière le permettra.
+VI.
+L’arrêt
+est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Benjamin Schwab, avocat (pour X.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Président du Tribunal des mesures de contrainte,
+-
+Mme la Procureure de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
