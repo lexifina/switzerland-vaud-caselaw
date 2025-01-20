@@ -1,0 +1,185 @@
+---
+decision_id: "vd_gerichte_23bis"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CACI"
+docket: "23bis"
+decided: "2025-01-20"
+published: "2025-07-23"
+language: "fr"
+legal_area: "Mesures protectrices de l'union conjugale"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/1986ef3b-3c17-4a3c-806d-fb55e2185bc1"
+cites_decisions: ["4A_474/2012", "4G_4/2016", "5A_174/2023", "5A_37/2017", "5A_426/2022", "5A_6/2016", "5A_776/2019", "5A_972/2016", "5D_192/2017", "BGE 140 III 385", "BGE 142 III 695", "BGE 143 III 520"]
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-107.md", "switzerland/bund/acts/272/art-334.md"]
+---
+
+# Mesures protectrices de l'union conjugale
+
+## Text
+
+TRIBUNAL CANTONAL
+JS22.014786-221124
+23bis
+CO UR D’APPEL CIVI L E
+____________________________
+Prononcé rectificatif du 20 janvier 2025
+________________________________
+Composition : Mme CHOLLET, juge unique
+Greffière : Mme Umulisa Musaby
+*****
+Art. 334 al. 1 CPC
+Statuant sur la requête en rectification de l'arrêt rendu le
+18 janvier 2023 par la Juge unique de la Cour d'appel civile (CACI 18
+janvier 2023/23), dans la cause opposant G.________, requérant, à
+X.________, intimée, tous deux à Lausanne, la Juge unique de la Cour
+d’appel civile du Tribunal cantonal considère :
+1117
+
+- 2 -
+En fait et e n droi t :
+1.
+1.1 Par arrêt du 18 janvier 2023, la Juge unique de la Cour d'appel
+civile (ci-après : la juge unique) a rejeté l’appel interjeté par G.________ (ci-
+après : requérant) dans la mesure où il était recevable (I) et réformé
+l’ordonnance de mesures protectrices de l’union conjugale rendue le 26
+août 2022 par le Président du Tribunal civil de l’arrondissement de
+Lausanne comme il suit (II) :
+ʺ(…)
+II. L’ordonnance est modifiée aux chiffres III à X comme il suit :
+(…)
+V et VI dit que G.________ contribuera à l'entretien de son fils
+[...], né le 11 décembre 2014, par le régulier versement,
+d'avance le premier de chaque mois, d'une pension
+mensuelle, allocations familiales par 300 fr. non
+comprises et dues en sus, en main de X.________ :
+- de 2'220 fr. (deux mille deux cent vingt francs) pour la
+période du 1er septembre 2022 au 30 juin 2023 et
+- de 2'330 fr. (deux mille trois cent trente francs) dès le
+1er juillet 2023 ;
+VII et VIII dit que G.________ contribuera à l'entretien de sa
+fille [...], née le 3 août 2018, par le régulier versement,
+d'avance le premier de chaque mois, d'une pension
+mensuelle, allocations familiales par 300 fr. non
+comprises et dues en sus, en main de X.________ :
+- de 2'590 fr. (deux mille cinq cent nonante francs) pour
+la période du 1er septembre 2022 au 30 juin 2023 et
+- de 2'330 fr. (deux mille trois cent trente francs) dès le
+1er juillet 2023 ;
+(…).ʺ
+Cet arrêt retient aux considérants 17.3.1 et 17.3.2 que le
+requérant perçoit les allocations familiales et qu’il les affectera à une
+partie des coûts directs des enfants.
+
+- 3 -
+1.2 Par arrêt du 16 août 2023 (5A_174/2023), la IIe Cour de droit
+civil du Tribunal fédéral a rejeté le recours interjeté par le requérant dans
+la mesure où il était recevable (1).
+2. Par actes des 11 et 12 septembre 2024, le requérant a requis
+l’interprétation de l’arrêt cantonal du 18 janvier 2023 et la rectification du
+dispositif de cet arrêt, en ce sens qu’il ne doit pas verser les allocations
+familiales à son épouse et qu’« il était précisé que [les contributions
+d’entretien fixées aux chiffres V à VIII du dispositif de l’arrêt] sont dues
+hors allocations familiales que [le requérant] conservera ».
+Par déterminations du 21 octobre 2024, l’intimée a conclu au
+rejet de la requête.
+3.
+3.1 Aux termes de l’art. 334 al. 1 CPC (Code de procédure civile ;
+RS 272), si le dispositif de la décision est peu clair, contradictoire ou
+incomplet ou qu’il ne correspond pas à la motivation, le tribunal procède,
+sur requête ou d’office, à l’interprétation ou à la rectification de la
+décision.
+Le but de l'interprétation et de la rectification n'est pas de
+modifier la décision du tribunal, mais de la clarifier ou de la rendre
+conforme avec le contenu réellement voulu par celui-ci (TF 5D_192/2017
+du 17 mai 2018 consid. 3.2; 5A_6/2016 du 15 septembre 2016 consid.
+4.3.1 non publié aux ATF 142 III 695). La rectification permet de corriger –
+même d’office – des erreurs de rédaction (TF 5A_426/2022 du 3 août 2022
+c. 5.4, RSPC 2023 p. 102), lorsqu'il apparaît, à la lecture de l'arrêt dans
+son ensemble et en fonction des circonstances, une inadvertance qui peut
+être corrigée sans hésitation sur la base de ce qui a été décidé (TF
+5A_776/2019 du 27 octobre 2020 consid. 3.1 ; TF 5A_972/2016 du 24 août
+2017 consid. 4.2 ; TF 5A_6/2016 du 15 septembre 2016 consid. 4.3.1 non
+publié à l’ATF 142 III 695).
+
+- 4 -
+3.2 L’intimée s’oppose à la rectification, arguant que les griefs du
+requérant ont été tranchés de façon explicite et définitive par le Tribunal
+fédéral.
+Le Tribunal fédéral a en particulier considéré que le requérant
+n’avait pas établi qu’il ne percevait pas les allocations familiales. Il a ainsi
+définitivement tranché le point de savoir si c’est le requérant ou son
+épouse qui perçoit les allocations familiales, de sorte qu’on ne saurait y
+revenir. De toute manière, dans ses conclusions, le requérant demande
+qu’il soit prononcé qu’il « conservera » les allocations familiales, ce qui
+laisse entendre qu’il les perçoit.
+En revanche, le Tribunal fédéral n’a pas statué sur l’obligation
+contenue dans le dispositif enjoignant au requérant de verser à son
+épouse les allocations familiales, en sus des montants de contributions
+d’entretien, faute d’épuisement matériel des voies de droit cantonales. En
+tout état de cause, il appartient à l’autorité de céans de préciser le
+contenu de l’arrêt qu’elle a rendu et de rectifier, le cas échéant, son
+propre dispositif (cf. TF 5A_37/2017 du 10 juillet 2017 ; TF 4G_4/2016 du
+21 juin 2017 consid. 2.2-2.3).
+A cet égard, si le dispositif de l’arrêt du 18 janvier 2023
+astreint le requérant à verser à son épouse les allocations familiales, les
+motifs du même arrêt (consid. 17.3.1 et 17.3.2) indiquent qu’il doit
+affecter ces allocations aux besoins des enfants, ce qui suppose qu’il ne
+les reverse pas à son épouse. En outre, les calculs effectués aux
+considérants précités permettent de comprendre que le requérant doit
+conserver les allocations familiales pour assumer une partie des coûts
+directs des enfants, en particulier lorsque ceux-ci sont auprès de lui, et
+verser ensuite à l’intimée des montants couvrant le solde de l’entretien
+convenable des enfants.
+Il découle de la simple lecture des considérants précités que le
+dispositif ne reflète pas la volonté de l’autorité de céans.
+
+- 5 -
+4. Au vu de ce qui précède, il y a lieu de rectifier les chiffres II/V à
+VIII du dispositif de l’arrêt entrepris, qui contient une erreur manifeste, en
+ce sens que le requérant ne doit pas verser à l’intimée les allocations
+familiales, en sus des montants des contributions d’entretien fixées aux
+chiffres précités.
+Le présent prononcé rectificatif peut être rendu sans frais
+judiciaires dès lors que ceux-ci ne sont pas imputables aux parties (art.
+107 al. 2 CPC). Il n’est pas alloué de dépens, l'art. 107 al. 2 CPC ne
+prévoyant en principe pas l'imputation de dépens à la charge du canton
+(ATF 140 III 385 consid. 4.1).
+
+- 6 -
+Par ces motifs,
+la Juge unique de la Cour d’appel civile,
+prononce :
+I. Le dispositif de l'arrêt du 18 janvier 2023, adressé aux
+parties pour notification le 30 janvier 2023, est rectifié
+aux chiffres II/V à VIII en ce sens que G.________ ne doit
+pas verser à X.________ les allocations familiales par
+300 fr. (trois cents) par enfant, en sus des contributions
+d’entretien fixées aux chiffres précités.
+II. Le prononcé, rendu sans frais judiciaires ni dépens, est
+exécutoire.
+La juge unique : La greffière :
+
+- 7 -
+Du
+Le présente prononcé, dont la rédaction a été approuvée à
+huis clos, est notifié à :
+- Me Mireille Loroch, avocate (pour G.________)
+- Me Gabrielle Weissbrodt, avocate (pour X.________)
+et communiqué, par l'envoi de photocopies, à :
+- M. le Président du Tribunal civil de l’arrondissement de Lausanne
+Le présent prononcé peut faire l'objet d'un recours en matière
+civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Dans les affaires
+pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de
+droit du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins
+que la contestation ne soulève une question juridique de principe
+(art. 74 LTF). Ces recours doivent être déposés devant le Tribunal fédéral
+dans les trente jours qui suivent la présente notification (art. 100 al. 1
+LTF). Le recours doit porter sur les points concernés par la rectification, à
+l'exclusion des moyens que les parties auraient pu et dû invoquer à
+l'encontre du premier arrêt (ATF 143 III 520 consid. 6.3 ; TF 4A_474/2012
+du 8 février 2013 consid. 2).
+La greffière:
