@@ -1,0 +1,184 @@
+---
+decision_id: "vd_findinfo_D_cision___2025___99"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2025 / 99"
+decided: "2025-01-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10220756"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-030.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2025 / 99
+
+## Regeste
+
+MOTIVATION DE LA DEMANDE, DÉCISION D'IRRECEVABILITÉ, JONCTION DE CAUSES | 385 al. 1 CPP (CH), 396 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale Décision / 2025 / 99
+
+MOTIVATION DE LA DEMANDE, DÉCISION D'IRRECEVABILITÉ, JONCTION DE CAUSES | 385 al. 1 CPP (CH), 396 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+58
+PE24.021423/PE24.013862-CMS
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+28 janvier 2025
+__________________
+Composition
+:               M.
+Krieger
+,
+président
+Mme
+Byrde et M. Maytain, juges
+Greffière
+:              Mme
+Juillerat Riedi
+*****
+Art.
+385 al. 1 et 396 al. 1 CPP
+Statuant sur le recours interjeté le 18 janvier 2025 par
+X.________
+contre l’ordonnance de jonction de procédures pénales rendue le 9 janvier 2025 par
+le Ministère public de l’arrondissement de l’Est vaudois dans la cause
+n° PE24.013862-CMS
+,
+la Chambre des recours pénale considère :
+En fait
+:
+A.
+Le Ministère public de l’arrondissement de l’Est vaudois (ci-après : Ministère
+public) conduit une procédure pénale pour escroquerie contre X.________ et [...] ; la
+cause est inscrite au rôle sous la référence
+PE24.013862-CMS.
+Le Ministère public dirige en outre une procédure pénale pour le même chef de prévention,
+notamment, contre X.________ et [...] ; la cause est inscrite au rôle sous la référence
+PE24.021423-CMS.
+B.
+Par ordonnance de jonction de procédures
+pénales du 9 janvier 2025, le Ministère public, considérant que les causes sont connexes,
+a prononcé la jonction de l’enquête PE24.021423-CMS à l’enquête PE24.013862-CMS
+(I) et a dit que les frais suivaient le sort de la cause (II).
+C.
+Par acte du 17 janvier 2025, remis à la poste
+le lendemain, X.________ a recouru contre l’ordonnance précitée en concluant implicitement
+à son annulation.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de
+jonction rendue par le Ministère public en application de l’art. 30 CPP (Code de procédure
+pénale suisse du 5 octobre 2007 ; RS 312.0) dans les dix jours devant l’autorité de recours
+(art. 310 al. 2, 322 al. 2 et 396 al. 1 CPP ; cf. art. 20 al. 1 let. b CPP) qui est, dans le canton de
+Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [Loi vaudoise d’introduction
+du Code de procédure pénale suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [Loi vaudoise
+d’organisation judiciaire du 12 décembre 1979 ; BLV 173.01]).
+1.2
+Le recours a été interjeté en temps utile par le prévenu, qui a par ailleurs la qualité
+pour recourir (art. 382 al. 1 CPP).
+2.
+2.1
+Le recours s’exerce par le dépôt
+d’un mémoire écrit et dûment motivé (art. 390 al. 1 et 396 al. 1 CPP). Les
+exigences de motivation du recours sont posées à l’art. 385 al. 1 CPP. Selon cette disposition,
+la personne ou l’autorité qui recourt doit indiquer précisément les points de la
+décision qu’elle attaque (let. a), les motifs qui commandent une autre décision (let.
+b) et les moyens de preuve qu’elle invoque (let. c). La jurisprudence et la doctrine en ont déduit
+que, sous peine d’irrecevabilité, le recourant doit exposer précisément, en se référant
+aux considérants de la décision attaquée, quels motifs commandent – sous l’angle
+du fait et du droit – de prendre une autre décision (cf. TF 7B_51/2024 du 25
+avril 2024 consid. 2.2.2 ; TF 6B_1447/2022 du 14 mars 2023 consid. 1.1 et les références
+citées). Il découle ainsi des principes généraux régissant les exigences de
+motivation selon l’art. 385 al. 1 CPP que le recourant doit tenter de démontrer que sa
+thèse l’emporte sur celle de la décision attaquée, ses moyens devant prendre appui
+sur la motivation de l’autorité intimée. Le plaideur ne peut se borner à alléguer
+des faits mais doit mettre en exergue les failles qu’il croit déceler dans le raisonnement
+de l’autorité inférieure, le renvoi à d’autres écritures n’étant
+pas suffisant (cf.  TF 6B_1447/2022 précité consid. 1.1 ; CREP 22 novembre 2024/849
+consid. 1.1 ; CREP 8 avril 2024/262 consid. 1.3).
+L’art. 385 al. 2, 1
+re
+phrase, CPP prévoit que si le mémoire ne satisfait pas aux exigences mentionnées à
+l’alinéa 1, l’autorité de recours le renvoie au recourant pour qu’il le complète
+dans un bref délai. Si après l’expiration de ce délai supplémentaire, le mémoire
+ne satisfait toujours pas à ces exigences, l’autorité de recours n’entre pas en
+matière. Cette disposition vise uniquement à protéger le justiciable contre un formalisme
+excessif de la part de l’autorité. Elle ne permet en revanche pas de suppléer un défaut
+de motivation, dès lors que la motivation de l'acte de recours doit être entièrement contenue
+dans celui-ci (TF 7B_51/2024 précité consid. 2.2.2; TF 6B_1447/2022 précité consid.
+1.1). Elle ne saurait dès lors être complétée ou corrigée ultérieurement,
+l’art. 385 al. 2 CPP ne devant pas être appliqué afin de détourner la portée
+de l’art. 89 al. 1 CPP, qui interdit la prolongation des délais fixés par la loi
+et n’autorise pas la partie à compléter un acte dépourvu de motivation (TF 6B_1447/2022
+précité consid. 1.1).
+2.2
+En l’espèce, l’acte de recours
+ne comporte aucun moyen dirigé contre les motifs ou le dispositif de l’ordonnance et qui,
+en se référant aux considérants de la décision attaquée, commanderait de rendre
+une autre décision, de sorte qu’il ne respecte pas les exigences déduites par la jurisprudence
+de l’art. 385 al. 1 CPP. Le recourant, en effet, se borne à contester la qualification d’escroquerie
+et sollicite des explications sur les éléments qui justifient cette accusation ; il conteste
+que les faits qui lui sont reprochés impliquent une volonté de tromper ou une tromperie. Ce
+faisant, il développe une argumentation en lien avec le bien-fondé de l’enquête
+et non avec le bien-fondé de la jonction, et plus particulièrement avec la connexité des
+deux procédures.
+Un tel défaut de motivation ne saurait justifier qu'un délai supplémentaire soit imparti
+au recourant pour compléter son acte en application de l'art. 385 al. 2 CPP, étant précisé
+que celui-ci aura la possibilité de soulever ses moyens au fond ultérieurement.
+3.
+Il résulte de ce qui précède que
+le recours doit être déclaré irrecevable, sans échange d’écritures (art. 390
+al. 2 CPP).
+Les frais de la procédure de recours, constitués du seul émolument d’arrêt,
+par 440 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010 ; BLV 312.03.1]), seront mis à la charge du recourant, qui succombe
+(art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Les frais d’arrêt, par 440 fr. (quatre cent quarante francs), sont mis à la charge de
+X.________.
+III.
+L’arrêt est exécutoire.
+Le
+président :
+La greffière :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+X.________,
+-
+Ministère public central ;
+et communiqué à :
+-
+Mme la Procureure de l’arrondissement de
+l’Est vaudois,
+-
+[...],
+-
+[...],
+-
+Me Rose Örer, avocate (pour [...]),
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
