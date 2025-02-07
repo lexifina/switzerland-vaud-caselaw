@@ -1,0 +1,366 @@
+---
+decision_id: "vd_findinfo_D_cision___2025___98"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2025 / 98"
+decided: "2025-02-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10200935"
+cites_law: ["switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-237.md", "switzerland/bund/acts/312.0/art-238.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2025 / 98
+
+## Regeste
+
+DÉTENTION PROVISOIRE, RISQUE DE FUITE, RISQUE DE COLLUSION, SÛRETÉS, MESURE DE SUBSTITUTION À LA DÉTENTION | 221 al. 1 let. a CPP (CH), 221 al. 1 let. b CPP (CH), 237 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale Décision / 2025 / 98
+
+DÉTENTION PROVISOIRE, RISQUE DE FUITE, RISQUE DE COLLUSION, SÛRETÉS, MESURE DE SUBSTITUTION À LA DÉTENTION | 221 al. 1 let. a CPP (CH), 221 al. 1 let. b CPP (CH), 237 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+83
+PE24.026684-LAS
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+7 février 2025
+__________________
+Composition
+:               M.
+Krieger
+,
+président
+Mme
+Elkaim et M. Maytain, juges
+Greffier
+:              M.
+Jaunin
+*****
+Art.
+221 al. 1 let. a et b, 237, 238 al. 1 CPP
+Statuant sur le recours interjeté le 3 février 2025 par
+S.________
+contre l’ordonnance rendue le 22 janvier 2025 par le Tribunal des mesures de contrainte dans la
+cause
+n° PE24.026684-CDT
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Ressortissant français, S.________ est né le [...] 2005 à [...], en France. Il est sans
+activité et domicilié [...], en France.
+b)
+Le 9 décembre 2024, S.________, H.________ et X.________ ont été interpellés à
+la douane de Sézegnin, à Athenaz, à bord d’un véhicule appartenant et conduit
+par ce dernier. La fouille dudit véhicule a permis de constater la présence, d’une part,
+de bijoux, de montres et d’autres objets de provenance douteuse, et, d’autre part, de matériel
+pouvant servir à commettre des cambriolages (tournevis, pinces, pieds-de-biche, lampes-torches,
+bande adhésive noire, gants foncés, bonnets foncés, cache-cous foncés et plusieurs
+paires de chaussures). Plusieurs documents au nom d’une dénommée [...], domiciliée
+à [...], qui a confirmé avoir été victime d’un vol par effraction en date du
+28 novembre 2024 et reconnaître ses bijoux, ont également été retrouvés dans
+le véhicule précité. Par ailleurs, S.________ était en possession d’une lampe
+taser (P. 6).
+Le 10 décembre 2024, le Ministère public cantonal Strada (ci-après : Ministère
+public) a décidé de l’ouverture d’une instruction pénale contre S.________,
+X.________ et H.________ pour vol, dommages à la propriété, violation de domicile et infraction
+à la loi fédérale sur les armes, pour avoir, entre novembre et décembre 2024, commis
+des vols par effraction dans des habitations et détenu des armes sans les autorisations requises
+(cf. PV des opérations, p. 2).
+Par ordonnance du 13 décembre 2024, le Tribunal des mesures de contrainte, retenant l’existence
+des risques de fuite et de collusion, a ordonné la détention provisoire de S.________ pour
+une durée de six semaines, soit au plus tard jusqu’au 19 janvier 2025.
+c)
+Le 9 janvier 2025, le Ministère public a saisi le Tribunal des mesures de contrainte d’une
+demande de prolongation de la détention provisoire de S.________ pour une durée de trois mois.
+Il a invoqué l’existence des risques de fuite, de collusion et de réitération.
+Dans ses déterminations du 16 janvier 2025, S.________ a conclu à sa remise en liberté
+immédiate, subsidiairement moyennant la fourniture de sûretés à hauteur de 10'000
+fr. et une interdiction de prendre contact directement ou indirectement avec H.________ et X.________.
+B.
+Par ordonnance du 22 janvier 2025, le Tribunal
+des mesures de contrainte a ordonné la prolongation de la détention provisoire de S.________
+(I) a fixé la durée maximale de la prolongation à 3 mois, soit au plus tard jusqu’au
+18 avril 2025 (II) et a dit que le frais de la présente décision, par 300 fr., suivaient le
+sort de la cause (III).
+Le tribunal a retenu que les soupçons initiaux pesant sur S.________ s’étaient renforcés,
+l’intéressé ayant notamment reconnu avoir commis le cambriolage à [...] le 28 novembre
+2024. Il a ensuite estimé que le risque de fuite était concret dès lors que le prévenu
+était un ressortissant français, sans aucune attache avec la Suisse, où il n’était
+venu que pour y commettre un cambriolage. En ce qui concerne le risque de collusion, le tribunal a constaté
+que S.________ avait refusé de s’expliquer sur ses complices et sur ce qu’il était
+advenu d’une partie du butin. Il a également relevé que l’enquête se poursuivait
+pour déterminer si le prévenu avait commis d’autres cambriolages et qu’une vidéo
+datée du 4 septembre 2024, à 20h52, dans laquelle on pouvait voir un individu non identifiable
+commettre une effraction avec un tournevis, avait été retrouvée dans son téléphone
+portable. Il convenait ainsi d’éviter que S.________, en cas de remise en liberté, puisse
+interférer dans l’enquête, notamment en prenant contact avec les personnes impliquées
+afin de convenir d’une version commune ou en faisant disparaître ou en altérant des éléments
+de preuve, notamment du butin, qu’il agisse du vol par effraction à [...] ou d’éventuelles
+autres infractions. Enfin, le tribunal a considéré qu’aucune mesure de substitution,
+y compris celles proposées par le prévenu, n’était à même de pallier les
+risques précités. Ainsi, le dépôt de sûretés, outre le fait qu’il
+n’était pas documenté, ne pouvait être ordonné tant que le risque de collusion
+perdurait. De plus, une interdiction de prendre contact avec H.________ et X.________ était insuffisante,
+dès lors que son respect ne reposerait que sur le bon vouloir du prévenu et serait au demeurant
+incontrôlable par la direction de la procédure.
+C.
+Par acte du 3 février 2025, S.________, par
+son défenseur d’office, a recouru contre cette ordonnance, concluant, avec suite de frais
+et dépens, à son annulation, à sa libération immédiate et au prononcé de
+mesures de substitution à forme de la fourniture d’un montant de 10'000 fr. à titre de
+sûretés et d’une l’interdiction d’entrer en contacts directs ou indirects
+avec H.________ et X.________.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393 al. 1 let. c CPP
+(Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0), le recours est recevable contre
+les décisions du Tribunal des mesures de contrainte dans les cas prévus par le Code. L’art.
+222 CPP prévoit que le détenu peut attaquer devant l’autorité de recours les décisions
+ordonnant une mise en détention provisoire ou une mise en détention pour des motifs de sûreté
+ou encore la prolongation ou le terme de cette détention. Le recours doit être adressé
+par écrit, dans un délai de dix jours dès la notification de la décision attaquée
+(art. 384 let. b CPP), à l’autorité de recours (art. 396 al. 1 CPP), qui est, dans le
+canton de Vaud, la Chambre des recours pénale du Tribunal cantonal
+(art.
+13 LVCPP [loi vaudoise d’introduction du Code de procédure pénale suisse du 19 mai 2009
+; BLV 312.01] ; art. 80 LOJV [loi vaudoise d’organisation judiciaire du
+12
+décembre 1979 ; BLV 173.01]).
+1.2
+Interjeté dans le délai légal
+par un détenu qui a qualité pour recourir (art. 222 et 382 al. 1 CPP) et dans les formes prescrites
+(art. 385 al. 1 CPP), le recours est recevable.
+2.
+Selon l’art. 221 al. 1 CPP, la détention
+provisoire et la détention pour des motifs de sûreté ne peuvent être ordonnées
+que lorsque le prévenu est fortement soupçonné d’avoir commis un crime ou un délit
+et qu’il y a sérieusement lieu de craindre qu’il se soustraie à la procédure
+pénale ou à la sanction prévisible en prenant la fuite (let. a), qu’il compromette
+la recherche de la vérité en exerçant une influence sur des personnes ou en altérant
+des moyens de preuve (let. b) ou qu’il compromette sérieusement la sécurité d’autrui
+par des crimes ou des délits graves après avoir déjà commis des infractions du même
+genre (let. c).
+3.
+Le recourant, qui a reconnu avoir participé
+au cambriolage du
+28 novembre 2024, à
+[...], ne conteste pas, à juste titre, l’existence de soupçons suffisants de la commission
+d’un crime ou d’un délit. En revanche, dans un premier moyen, il soutient qu’il
+ne présenterait aucun risque de collusion. Il fait valoir que, même s’il réussissait
+à convenir d’une version commune avec ses coprévenus, il ne pourrait échapper à
+une condamnation. En outre, l’essentiel du butin aurait déjà été retrouvé
+lors de la fouille du véhicule. Enfin, il n’existerait aucun élément au dossier
+qui serait de nature à l’incriminer pour d’autres infractions.
+3.1
+Selon la jurisprudence, il peut notamment y avoir
+collusion lorsque le prévenu tente d'influencer les déclarations que pourraient faire des témoins,
+des personnes appelées à donner des renseignements ou des coprévenus, ainsi que lorsqu'il
+essaie de faire disparaître des traces ou des moyens de preuve. En tant que motif de détention
+avant jugement, le danger de collusion vise à empêcher le prévenu de mettre en danger
+la recherche de la vérité (TF 7B_1003/2024 du
+14
+octobre 2024 consid. 4.2).
+Pour retenir l'existence d'un risque de collusion, l'autorité doit démontrer que les circonstances
+particulières du cas d'espèce font apparaître un danger concret et sérieux de telles
+manœuvres, propres à entraver la manifestation de la vérité, en indiquant, au moins
+dans les grandes lignes et sous réserve des opérations à conserver secrètes, quels
+actes d'instruction doivent être encore effectués et en quoi la libération du prévenu
+en compromettrait l'accomplissement. Dans cet examen, entrent en ligne de compte les caractéristiques
+personnelles du détenu, son rôle dans l'infraction ainsi que ses relations avec les personnes
+qui l'accusent et ses liens avec les autres prévenus ; entrent aussi en considération la nature
+et l'importance des déclarations, respectivement des moyens de preuve susceptibles d'être menacés,
+la gravité des infractions en cause et le stade de la procédure. En effet, plus l'instruction
+se trouve à un stade avancé et les faits sont établis avec précision, plus les exigences
+relatives à la preuve de l'existence d'un risque de collusion sont élevées (ATF 137 IV
+122 consid. 4.2 ; TF 7B_1003/2024 précité et les références citées).
+3.2
+En l’espèce, on relève, à
+l’instar du Tribunal des mesures de contrainte, que, si le recourant a reconnu avoir participé
+au cambriolage de [...], il s’est pour le reste montré peu collaborant, refusant de s’expliquer
+sur les agissements de ses complices et sur ce qui était advenu de la partie du butin qui n’a
+pas été retrouvée. Il a également refusé de répondre à plusieurs questions
+des enquêteurs portant sur des éléments issus de l’analyse de ses données téléphoniques
+(cf. PV d’audition n° 8, R. 6 à 8). Par ailleurs, la vidéo, datée du 4 septembre
+2024, retrouvée dans son téléphone portable, sur laquelle on peut voir un individu commettre
+une effraction au moyen d’un tournevis, vient concrètement alimenter le soupçon d’une
+activité délictueuse qui pourrait aller au-delà du cas de [...]. Le Tribunal des mesures
+de contrainte a également précisé, reprenant en cela les informations transmises par le
+Ministère public, lesquelles ne sont pas contestées, que l’analyse des données téléphoniques,
+des données signalétiques et des chaussures se poursuivait, et que des contrôles devaient
+encore être effectués auprès des douanes afin de connaître les entrées et sorties
+du véhicule des prévenus, ainsi qu’auprès des casinos. Ainsi, les faits qui restent
+à élucider, à savoir la possible commission d’autres infractions, l’identification
+de tous les participants au cambriolage de [...], la détermination du sort d’une partie du
+butin qui n’a pas été retrouvée, et les opérations d’enquête qui
+doivent encore être menées, dont on peut raisonnablement escompter des résultats utiles
+à l’instruction, justifient la prolongation de la détention provisoire en raison du risque
+de collusion. En effet, il est évident que, s’il devait être libéré, le recourant
+pourrait être tenté de prendre contact avec les personnes impliquées, singulièrement
+avec celles qui n’auraient pas encore été identifiées, pour convenir d’une
+version commune, ou de faire disparaître des preuves et le butin non retrouvé à ce jour.
+A ce stade de l’enquête, le risque de collusion est donc suffisamment concret et sérieux,
+si bien que le grief y relatif, mal fondé, doit être rejeté.
+Au surplus, le recourant ne conteste pas l’existence du risque de fuite (art. 221 al. 1 let. a
+CPP), lequel a également été retenu, à raison, par le Tribunal des mesures de contrainte.
+Ce risque est patent s’agissant d’un ressortissant français, domicilié en France
+et sans aucune attache en Suisse.
+4.
+Dans un second moyen, le recourant fait valoir
+qu’il pourrait être paré au risque de fuite moyennant la mise en œuvre d’une
+mesure de substitution, sous la forme de la constitution de sûretés à hauteur de 10'000
+francs. Ce montant serait versé par ses parents. Le recourant conclut par ailleurs au prononcé,
+toujours à titre de mesure de substitution, d’une interdiction de contact avec ses coprévenus.
+4.1
+Conformément au principe de la proportionnalité
+ancré à l'art. 36 al. 3 Cst. (Constitution fédérale de la Confédération
+suisse du 18 avril 1999 ; RS 101), il convient d'examiner les possibilités de mettre en œuvre
+d'autres solutions moins dommageables que la détention (règle de la nécessité). Cette
+exigence est concrétisée par l'art. 237 al. 1 CPP, qui prévoit que le tribunal compétent
+ordonne une ou plusieurs mesures moins sévères en lieu et place de la détention si ces
+mesures permettent d'atteindre le même but que la détention. Selon l'art. 237 al. 2 CPP, font
+notamment partie des mesures de substitution la fourniture de sûretés
+(let.
+a) ou l’interdiction d’entretenir des relations avec certaines personnes (let. g). Cette
+liste est exemplative et le juge de la détention peut également, le cas échéant,
+assortir les mesures de substitution de toute condition propre à en garantir l'efficacité (ATF
+145 IV 503 consid. 3.1 ; TF 7B_1219/2024 du 5 décembre 2024 consid. 5.2).
+A teneur de l'art. 238 al. 1 CPP, s'il y a danger de fuite, le tribunal peut astreindre le prévenu
+au versement d'une somme d'argent afin de garantir qu'il se présentera aux actes de procédure
+et qu'il se soumettra à l'exécution d'une sanction privative de liberté. La libération
+moyennant sûretés implique un examen approfondi, qui demande une certaine collaboration de
+la part du prévenu, dès lors que le caractère approprié de la garantie doit être
+apprécié notamment au regard des ressources du prévenu, de ses liens avec des personnes
+pouvant lui servir de caution – respectivement des possibilités financières de celles-ci
+(cf. TF 7B_371/2024 du 23 avril 2024 consid. 5.2 ; TF 7B_778/2023 du 6 novembre 2023 consid. 2.3.1 ;
+TF 7B_645/2023 du 13 octobre 2023 consid. 3.2.2 et les arrêts cités) – et de la confiance
+qu'on peut avoir que la perspective de perdre le montant agira comme un frein suffisamment puissant pour
+écarter toute velléité de fuite (cf. ATF 105 Ia 186 consid. 4a). Il convient également
+de tenir compte de l'origine des fonds proposés comme sûretés. Par ailleurs, même
+une caution élevée peut ne pas suffire pour pallier un risque de fuite lorsque la situation
+financière du prévenu ou celle des personnes appelées à servir de caution est incomplète
+ou présente des incertitudes (TF 7B_371/2024 précité ; TF 7B_778/2023 précité
+; TF 7B_645/2023 précité). Enfin, le juge de la détention peut renoncer à ordonner
+une mise en liberté sous caution ou moyennant le versement de sûretés lorsqu'il a la conviction
+que cette mesure ne suffira pas à garantir la présence du prévenu aux débats et,
+le cas échéant, sa soumission au jugement (TF 7B_371/2024 précité ; TF 7B_1009/2023
+du 6 février 2024 consid. 6.2.1 ; TF 7B_778/2023 précité ; TF 1B_291/2023 du 16 juin 2023
+consid. 5.3 et les références citées).
+4.2
+On relèvera tout d’abord que la fourniture
+de sûretés ne permet de toute manière pas de pallier le risque de collusion, ni du reste
+une interdiction de contact avec les coprévenus, qui ne reposerait que sur la bonne volonté
+du recourant de s’y soumettre et dont la violation ne pourrait être constatée qu’
+a
+posteriori
+. Pour ce motif déjà, la prolongation
+de la détention provisoire ne peut qu’être confirmée. Il convient toutefois d’ajouter
+que, dans ses déterminations au Tribunal des mesures de contrainte, S.________ évoquait la
+fourniture de sûretés «
+sous
+la forme par exemple d’une caution que paieraient vraisemblablement
+[ses]
+parents
+».
+Or, on ne dispose d’aucun renseignement un tant soit peu fiable s’agissant des relations
+que le recourant entretient avec ses parents, sinon que, selon ses dires, il vit avec eux et trois de
+ses frères et sœurs, et que tout se passe bien à la maison (PV d’audition
+n°
+1, R. 3). On apprend toutefois, à la lecture des déterminations précitées, que sa
+mère travaillerait en qualité d’infirmière sur l’île de Mayotte, ce qui
+paraît contredire les premières déclarations du recourant. Le fait est qu’on ignore
+tout de la situation de fortune et de revenus de ses parents, respectivement de l’origine des fonds
+que ceux-ci pourraient engager pour servir de sûretés. On ne sait même pas si, véritablement,
+ils sont disposés à servir de caution à leur fils. Dans ces conditions, il n’est
+pas possible d’apprécier la solidité de la garantie offerte, respectivement de se convaincre
+que la perspective de la perte de cette somme agira sur le recourant comme un frein suffisant pour le
+dissuader de se soustraire à la poursuite pénale et aux potentielles conséquences négatives
+qu’elle comporte pour lui. Il suit de là que la mesure de substitution proposée ne paraît
+pas à même de parer au risque de fuite. De ce point de vue également, la prolongation
+de la détention provisoire du recourant est justifiée.
+5.
+Le recourant n’invoque pas que sa détention
+provisoire violerait le principe de la proportionnalité. L’examen de l’autorité
+de recours étant limité aux moyens soulevés (cf. par exemple CREP 31 décembre 2024/924
+consid. 6 et l’arrêt cité), il n’est pas nécessaire d’examiner cet aspect.
+On relèvera toutefois que la durée de la détention provisoire déjà subie, respectivement
+à subir jusqu’au 18 avril 2025, respecte le principe de proportionnalité compte tenu
+de la gravité des faits reprochés, de la valeur considérable du butin et de la peine à
+laquelle s’expose le recourant en cas de condamnation.
+6.
+En définitive, le recours, manifestement
+mal fondé, doit être rejeté sans échange d’écritures (art. 390 al. 2 CPP)
+et l’ordonnance entreprise confirmée.
+Au vu du travail accompli par Me Pierre-Alain Killias, défenseur d’office de S.________, son
+indemnité sera fixée à 450 fr., correspondant à une activité nécessaire
+d’avocat de 2h30 au tarif horaire de 180 fr., montant auquel il convient d’ajouter des débours
+forfaitaires à concurrence de 2 % des honoraires admis
+(art.
+3
+bis
+al. 1 RAJ [règlement du 7 décembre 2010 sur l'assistance judiciaire en matière civile
+; BLV 211.02.3], applicable par renvoi de l’art. 26b TFIP [tarif des frais de procédure et
+indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), par 9 fr., plus la
+TVA au taux de 8,1 %, par 37 fr. 20, soit à 497 fr. au total en chiffres arrondis.
+Vu le sort du recours, les frais de la procédure, constitués en l’espèce de l’émolument
+d'arrêt, par 1’100 fr. (art. 20 al. 1 TFIP), et des frais imputables à la défense
+d’office (art. 422 al. 1 et 2 let. a CPP), par 497 fr., seront mis à la charge du recourant,
+qui succombe (art. 428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+du recourant ne sera exigible que pour autant que la situation financière de ce dernier le permette
+(art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 22 janvier 2025 est confirmée.
+III.
+L’indemnité allouée à Me
+Pierre-Alain Killias, défenseur d’office de S.________, est fixée à 497 fr. (quatre
+cent nonante-sept francs).
+IV.
+Les frais d’arrêt, par 1’100 fr. (mille cent francs), ainsi que l'indemnité allouée
+à Me Pierre-Alain Killias, par 497 fr. (quatre cent nonante-sept francs), sont mis à la charge
+de S.________.
+V.
+Le remboursement à l’Etat de l’indemnité allouée au chiffre III ci-dessus
+ne sera exigible que pour autant que la situation financière de S.________ le permette.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. Pierre-Alain Killias, avocat (pour S.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+Mme la Procureure cantonale Strada,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
