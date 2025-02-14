@@ -1,0 +1,406 @@
+---
+decision_id: "vd_findinfo_D_cision___2025___95"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2025 / 95"
+decided: "2025-02-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10207439"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-123.md", "switzerland/bund/acts/311.0/art-140.md", "switzerland/bund/acts/312.0/art-133.md", "switzerland/bund/acts/312.0/art-134.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.1/art-003.md", "switzerland/bund/acts/312.1/art-024.md", "switzerland/bund/acts/312.1/art-025.md", "switzerland/bund/acts/312.1/art-039.md", "switzerland/bund/acts/312.1/art-044.md", "switzerland/bund/acts/935.61/art-012.md"]
+---
+
+# VD Findinfo Décision / 2025 / 95
+
+## Regeste
+
+DROIT PÉNAL DES MINEURS, DÉFENSE D'OFFICE, AVOCAT DE LA PREMIÈRE HEURE, MODIFICATION{EN GÉNÉRAL}, REJET DE LA DEMANDE | 134 al. 2 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale Décision / 2025 / 95
+
+DROIT PÉNAL DES MINEURS, DÉFENSE D'OFFICE, AVOCAT DE LA PREMIÈRE HEURE, MODIFICATION{EN GÉNÉRAL}, REJET DE LA DEMANDE | 134 al. 2 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+81
+PM24.027059-VBK
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt
+du 14 février 2025
+__________________
+Composition
+:               M.
+Krieger
+,
+président
+M.
+Perrot et Mme Courbat, juges
+Greffière
+:              Mme
+Fritsché
+*****
+Art.
+134 al. 2 CPP et 25 PPMin
+Statuant sur le recours interjeté le 24 janvier 2025 par
+V.________
+contre l’ordonnance rendue le 13 janvier 2025 par la Présidente du Tribunal des mineurs dans
+la cause
+n° PM24.027059-VBK
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 14 décembre 2024, alors qu’une instruction pénale était déjà ouverte
+contre V.________ – mineur né le [...] – pour violation grave des règles de la
+circulation routière, agression, conduite sans autorisation, conduite d’un véhicule automobile
+en étant dans l’incapacité de conduire et vol d’usage d’un véhicule
+(PM24.001692), le Tribunal des mineurs a ouvert une nouvelle instruction pénale contre l’intéressé
+pour brigandage avec une arme dangereuse (art. 140 ch. 2 CP [Code pénal suisse du 21 décembre
+1937 ; RS 311.0]) et lésions corporelles simples qualifiées (art. 123 ch. 2 CP).
+Il lui est en substance reproché d’avoir à Montreux, durant la nuit du 13 au 14 décembre
+2024 :
+- à proximité du Club Millésime, emporté les biens de H.________, après l’avoir
+menacé au moyen d’un couteau et l’avoir frappé ;
+- au même endroit, avoir emporté les biens de D.________ après avoir fait usage de violence
+physique à son encontre ;
+- à la gare, porté un coup de couteau à [...] qui l’a atteint au bras.
+Le 15 décembre 2024, le Tribunal des mineurs a ordonné le placement de V.________ en détention
+provisoire, détention prolongée à deux reprises par le Tribunal des mesures de contrainte,
+en dernier lieu jusqu’au 18 février 2025.
+b)
+Les faits susmentionnés s’étant déroulés durant le week-end, il a été
+fait appel à la permanence des avocats afin que le prévenu soit assisté d’un avocat
+lors de ses premières auditions. C’est Me Benjamin Schwab qui est intervenu à ses côtés.
+Le 15 décembre 2024, la Présidente du Tribunal des mineurs a procédé à l’audition
+de V.________, assisté de Me Benjamin Schwab, en qualité de prévenu. Elle les a informés
+que le prévenu était déjà assisté d’un avocat d’office (ndr :
+Me Christophe Tafelmacher) dans le cadre d’une autre procédure ouverte en janvier 2024 (PM24.001692)
+et qu’il était vraisemblable que ce dernier continue à assister le prévenu dans
+le cadre de la présente affaire.
+Le 15 décembre 2024, V.________ a signé une procuration en faveur de Me Benjamin Schwab «
+dans
+le cadre de la procédure actuellement pendante auprès du Tribunal des mineurs du canton de
+Vaud le concernant en qualité de prévenu, cas échéant en remplacement de tout précédent
+conseil intervenant dans cette cause, y compris pour les faits survenus entre les 13 et 14 décembre
+2024
+».
+Le 16 décembre 2024, la Présidente du Tribunal des mineurs a désigné Me Christophe
+Tafelmacher en tant que défenseur d’office du prévenu dans le cadre de la présente
+instruction.
+Par courrier du 17 décembre 2024, cosigné par V.________, Me Benjamin Schwab a sollicité
+sa désignation en qualité de défenseur d’office de celui-ci.
+Le 27 décembre 2024, V.________ a écrit ce qui suit à la Présidente du Tribunal des
+mineurs : «
+Pour donner
+suite à un appel avec mon avocat M. Benjamin Schwab, je vous écris ces lignes pour vous demander
+l’autorisation de garder cet avocat en lieu et place de M. Christophe Tafelmacher. M. Schwab m’a
+demandé de procédé (sic) de la sorte afin de lui permettre d’avoir accès à
+mon dossier (...)
+».
+B.
+Par ordonnance du 13 janvier 2025, la Présidente
+du Tribunal des mineurs a refusé de relever Me Christophe Tafelmacher de sa mission de défenseur
+d’office de V.________ et de désigner Me Benjamin Schwab en tant que nouveau défenseur
+d’office du prévenu (I) et a dit que les frais de cette ordonnance suivaient le sort de la
+cause (II).
+La présidente a motivé son ordonnance comme il suit :
+«
+En l’espèce, le prévenu
+n’allègue pas une éventuelle détérioration du lien de confiance ; aucun élément
+du dossier ne permet non plus de mettre en évidence cela. Dans son pli du 27 décembre 2024,
+le prévenu explique faire cette démarche à la demande de Me SCHWAB (et non de sa propre
+initiative), dans le seul but de lui permettre d’avoir accès au dossier (P. 22).
+Les éléments invoqués par le prévenu ne sont à l’évidence pas pertinents
+; la relation de confiance ne paraît pas perturbée, ni la défense rendue inefficace
+».
+C.
+Par acte du 24 janvier 2025, V.________, par l’intermédiaire
+de Me Benjamin Schwab, a recouru contre cette ordonnance en concluant, avec suite de frais et dépens,
+principalement à sa réforme en ce sens que Me Benjamin Schwab est désigné en qualité
+de défenseur d’office en sa faveur dès le 14 décembre 2024, en remplacement
+de Me Christophe Tafelmacher. Subsidiairement il a conclu à son annulation, le dossier de la cause
+étant renvoyé à l’instance précédente pour nouvelle décision dans
+le sens des considérants. Plus subsidiairement il a conclu à la réforme de cette ordonnance
+en ce sens que Me Benjamin Schwab est désigné en qualité de défenseur d’office
+en sa faveur dès le 14 décembre 2024.
+Le 3 février 2025, la Présidente du Tribunal des mineurs a indiqué qu’elle n’entendait
+pas déposer de déterminations. Cette correspondance a été communiquée aux parties
+le 6 février 2025.
+Dans ses déterminations du 5 février 2025, Me Christophe Tafelmacher a en substance indiqué
+qu’une enquête pénale avait été ouverte contre V.________ le 23 janvier 2024
+pour des infractions graves (PM24.001692), qu’il avait été désigné par le Tribunal
+des mineurs le 25 janvier 2024 en qualité de défenseur d’office de ce prévenu, qu’il
+l’avait assisté dans de nombreux actes d’instruction, dont plusieurs auditions de police
+et d’audiences devant le Tribunal des mineurs, que le 18 mars 2024 il avait présenté
+une réquisition visant à la mise en œuvre d’une expertise psychiatrique à laquelle
+cette autorité avait donné une suite favorable et que l’expert avait déposé
+son rapport le 2 décembre 2024, un délai au 15 janvier 2025 étant imparti aux parties
+pour se déterminer. Il a également déclaré qu’il avait régulièrement
+rendu visite au prévenu pendant les mois où il était placé en détention préventive
+et qu’une relation de confiance s’était ainsi instaurée, permettant une défense
+constructive. Par ailleurs il avait rédigé plusieurs déterminations auprès du Tribunal
+des mesures de contrainte à l’occasion des nombreuses demandes de prolongation de la détention
+de son client, il s’était entretenu à plusieurs reprises avec la Présidente du Tribunal
+des mineurs ainsi qu’avec les deux éducateurs chargés du suivi du prévenu, et avait
+eu plusieurs contacts avec les parents et les amis de son client. Enfin, il a rappelé que, le 16 décembre
+2024, il avait été désigné en qualité de défenseur d’office de V.________
+dans le cadre de la présente affaire, que le 8 janvier 2025 il avait rendu visite à son client
+pour faire un point de la situation sur les évènements du mois de décembre 2024 ainsi
+que pour préparer une audition de police agendée au 21 janvier 2025. A cette occasion ils avaient
+également échangé sur le rapport d’expertise. Durant ce dernier entretien, son client
+n’aurait pas exprimé une seule fois un souhait de changer de défenseur d’office,
+mais l’aurait chargé de formuler des réquisitions auprès du Tribunal des mineurs.
+Enfin, le 21 janvier 2025, il avait assisté V.________ lors de son audition de police, qui portait
+sur les évènements survenus dans la nuit du 13 au 14 décembre 2024, en présence des
+défenseurs des coprévenus. A cette occasion, l’intéressé n’aurait pas
+non plus exprimé le souhait de changer de défenseur d’office, pas plus qu’il n’aurait
+évoqué la constitution d’un autre avocat. De même, lors de l’audience du 5
+février 2025, son client n’aurait pas sollicité un tel changement et une jonction de
+cette affaire avec l’affaire principale a été évoquée.
+Ces déterminations ont été communiquées aux parties le 6 février 2025.
+Me Benjamin Schwab s’est déterminé le 10 février 2025 et son écriture a été
+communiquée aux parties le 12 février suivant.
+En droit
+:
+1.
+1.1
+Conformément
+à l’art. 39 al. 1 PPMin (Loi fédérale sur la procédure pénale applicable
+aux mineurs du 20 mars 2009, RS 312.1), la recevabilité et les motifs du recours sont régis
+par l’art. 393 CPP (Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0). Une
+décision du juge des mineurs, fondée sur les art. 24 et 25 PPMin est susceptible de recours
+(art. 393 al. 1 let. a CPP ; CREP 5 octobre 2012/688).
+1.2
+Les
+art. 24 et 25 PPMin ne contiennent pas de disposition réglementant la révocation et le remplacement
+du défenseur d’office. Le siège de la matière se trouve à l’art. 134
+al. 2 CPP, applicable par renvoi de l’art. 3 al. 1 PPMin.
+En
+l’occurrence, le recours contre une décision du Ministère public en matière de remplacement
+du défenseur d'office est recevable (art. 393 al. 1 let. a CPP ; CREP 14 septembre 2022//697 ; CREP
+6 juillet 2022/497 ; CREP 6 avril 2022/242 ; CREP 18 mai 2021/447). Il doit ainsi en aller de même
+en matière de procédure pénale applicable aux mineurs.
+1.3
+La compétence pour statuer sur les recours
+appartient à l’autorité de recours (art. 39 al. 3 PPMin) qui est, dans le canton de Vaud,
+la Chambre des recours pénale du Tribunal cantonal (art. 18 al. 1 LVPPMin [loi d'introduction de
+la loi fédérale du 20 mars 2009 sur la procédure pénale applicable aux mineurs, BLV
+312.05] ; CREP 12 décembre 2017/857 consid.1.1 et les références citées).
+1.4
+Interjeté dans le délai légal de
+dix jours de l'art. 396 al. 1 CPP, par le prévenu, représenté par son conseil de choix,
+et satisfaisant aux prescriptions de forme de l'art. 385 al. 1 CPP, le recours est recevable.
+2.
+2.1
+Le recourant requiert la désignation de Me
+Schwab en qualité de défenseur d’office en sa faveur. Il fait tout d’abord valoir
+que la Présidente du Tribunal des mineurs ne lui a désigné un conseil d’office que
+le 16 décembre 2024 alors qu’il aurait dû avoir un défenseur dès le 14 décembre
+2024 déjà (soit pour les opérations effectuées par le défenseur de la première
+heure pendant le week-end où il était de permanence). Ensuite, il explique que si les deux
+procédures pénales devaient être jointes, ce qui sera vraisemblablement le cas, il s’agirait
+alors de ne retenir qu’un seul défenseur. A cet égard, Me Benjamin Schwab rappelle que
+le prévenu a signé «
+pour
+accord
+», un courrier indiquant en substance
+qu’il demandait la poursuite de l’intervention du défenseur ayant été appelé
+le 14 décembre 2024 lors de sa permanence comme avocat de la première heure, ainsi qu’une
+procuration sur laquelle figurait la mention suivante : «
+(…)
+dans le cadre de la procédure actuellement pendante auprès du Tribunal des mineurs du canton
+de Vaud le concernant en qualité de prévenu, cas échéant en remplacement de tout
+précédent conseil intervenant dans cette cause, y compris pour les faits survenus entre les
+13 et 14 décembre 2024
+».
+2.2
+2.2.1
+Aux termes de l’art. 24 PPMin, le prévenu mineur doit avoir un défenseur dans les cas
+suivants : il est passible d’une privation de liberté de plus d’un mois ou d’un
+placement (let. a) ; il ne peut pas suffisamment défendre ses intérêts dans la procédure
+et ses représentants légaux ne le peuvent pas non plus (let. b) ; la détention provisoire
+ou la détention pour des motifs de sûreté a duré plus de 24 heures (let. c) ; il
+est placé dans un établissement à titre provisionnel (let. d) ; le ministère public
+des mineurs ou le procureur des mineurs intervient personnellement aux débats (let. e).
+En vertu de l’art. 25 al. 1 PPMin, l'autorité compétente désigne un défenseur
+d'office lorsque le prévenu mineur doit avoir un défenseur et que l'une des conditions suivantes
+est remplie : le prévenu mineur ou ses représentants légaux n'ont pas choisi de défenseur
+malgré une sommation (let. a) ; le défenseur s'est vu retirer son mandat ou l'a abandonné
+et le prévenu mineur ou ses représentants légaux n'ont pas désigné un nouveau
+défenseur dans le délai imparti (let. b) ; le prévenu mineur et ses représentants
+légaux ne disposent pas des ressources financières nécessaires (let. c).
+2.2.2
+Aux termes de l'art. 134
+al. 2 CPP, si la relation de confiance entre le prévenu et le défenseur d'office est gravement
+perturbée ou si une défense efficace n'est plus assurée pour d'autres raisons, la direction
+de la procédure confie la défense d'office à une autre personne.
+L’art. 134 al. 2 CPP permet de tenir compte d'une détérioration objective du rapport
+de confiance entre le prévenu et son défenseur sans lien avec une violation des règles
+professionnelles. Il faut cependant que l'atteinte au lien de confiance soit corroborée par des
+éléments tangibles et objectifs qui laissent apparaître que la poursuite du mandat d'office
+n'est clairement plus justifiée ou ne peut raisonnablement être imposée (ATF 138 IV 161
+consid. 2.4, JdT 2013 IV 75 ; TF 1B_285/2019 du 27 juin 2019 consid. 4). Le simple fait que la partie
+assistée n'ait pas confiance en son conseil d'office ne lui donne pas le droit d'en demander le
+remplacement lorsque cette perte de confiance repose sur des motifs purement subjectifs et qu'il n'apparaît
+pas de manière patente que l'attitude de l'avocat d'office soit gravement préjudiciable aux
+intérêts de la partie (ATF 138 IV 161 précité consid. 2.4 ; TF 1B_166/2020 du 25
+juin 2020 consid. 3.1.2).
+2.2.3
+Aux termes de l’art. 133 al. 2 CPP, le choix du défenseur d’office tient compte des
+aptitudes de celui-ci et, dans la mesure du possible, des souhaits du prévenu. Ce droit de proposition
+(qui découle également de la Cour européenne des droits de l’homme) ne peut être
+invoqué qu'une fois, en principe au début de la procédure (TF 1B_44/2019 du 30 janvier
+2019 consid. 2.2 ; TF 1B_103/2017 du 27 avril 2017 consid. 2.2). Le terme « choix » utilisé
+aux al. 1bis et 2 de la disposition vise à exclure toute désignation au hasard. L’attribution
+de mandats officiels selon un processus aléatoire comporte en effet le risque que le prévenu
+ne bénéficie pas d’une défense suffisante, parce que son défenseur pourrait
+ne pas disposer des connaissances nécessaires. De ce fait, l’art. 133 al. 2 CPP invite l’organe
+chargé du choix du défenseur à veiller à ce qu’il ait les compétences
+adéquates (Message du Conseil fédéral concernant la modification du code de procédure
+pénale du 28 août 2019, FF 2019 p. 6385). Le refus de suivre les souhaits du prévenu doit
+être motivé au moins sommairement par l’autorité (cf. art. 29 al. 2 Cst. et 3 al.
+2 let. c CPP ; TF 1B_419/2017 du 7 février 2018 consid. 2.1).
+2.2.4
+Selon l’art. 12 LLCA (loi fédérale sur la libre circulation des avocats du 23 juin 2000
+; RS 935.61), l’avocat exerce sa profession avec soin et diligence (let. a), ainsi qu’en
+toute indépendance, en son nom personnel et sous sa propre responsabilité (let. b). Pour s’acquitter
+pleinement de sa mission, l’avocat doit informer son client sur les risques de la procédure
+(ATF 138 IV 161 précité consid. 2.5.4 et les références) et le conseiller en conséquence.
+Pour que le prévenu ait droit à un changement de défenseur d’office, il ne suffit
+dès lors pas que le défenseur actuel, lors d’un entretien entre avocat et client, ait
+recommandé une stratégie qui déplaît au prévenu. Pour qu’une divergence
+de vues sur la meilleure stratégie à suivre justifie un changement de défenseur d’office,
+il faut que cette divergence ait un effet dommageable sur l’engagement et sur l’efficacité
+du défenseur en procédure ou qu’elle entrave sérieusement la nécessaire collaboration
+du client et de l’avocat pour la préparation de la défense. Pour que le prévenu
+soit fondé à demander un changement de défenseur d’office, il ne suffit pas non
+plus que l’avocat refuse d’accomplir un acte de procédure réclamé par le client,
+si cet acte est inutile (ATF 138 IV 161 précité consid. 2.4 et la référence citée)
+ou s’il n’entre pas dans le mandat confié à l’avocat (TF 1B_115/2021 du 3
+mai 2021 consid. 3.1 et les réf.). Il appartient au prévenu qui demande le remplacement de
+son défenseur d’office de rendre vraisemblable les motifs sur lesquels il fonde sa demande
+(CREP 5 septembre 2019/649 consid. 2.2 ; CREP 15 août 2018/618 consid. 2.2).
+2.3
+En l’occurrence,
+Me Christophe Tafelmacher est le défenseur d’office de V.________ depuis le 24 janvier 2024.
+Il est allé régulièrement rendre visite à son client, il a eu des contacts avec ses
+éducateurs, avec ses parents et avec ses amis, de sorte qu’il est déjà bien investi
+auprès du jeune homme et que l’existence d’un lien de confiance – bâti sur
+plus d’une année – est manifeste, ce qui n’est d’ailleurs pas contesté
+par le prévenu. Le recourant ne met en outre pas en évidence des manquements ou des actes effectués
+par son mandataire susceptibles de mettre en péril une défense efficace. Au vu de ces éléments,
+les conditions de l’art. 134 al. 2 CPP ne sont pas réalisées.
+Par ailleurs, s’il est effectivement d’usage que l’avocat de la première heure,
+appelé durant sa permanence, soit désigné d’office pour la suite de la procédure,
+il faut bien admettre qu’il s’agit d’un cas particulier. En effet, le prévenu,
+mineur, bénéficiait déjà d’une défense d’office dans le cadre d’une
+autre procédure pénale ouverte il y a une année pour de nombreux faits ; son interpellation
+ayant eu lieu durant le week-end et les nouveaux faits étant graves, il devait être assisté
+d’un avocat lors de son audition du samedi 14 décembre 2024 par la police et de celle du dimanche
+15 décembre 2024 par la Présidente du Tribunal des mineurs. Lors de cette deuxième audition,
+la magistrate a ainsi expressément informé Me Benjamin Schwab que V.________ était déjà
+assisté d’un avocat d’office dans le cadre d’une autre procédure ouverte
+pour des faits graves et qu’il était vraisemblable que ce dernier assiste le prévenu
+pour cette affaire également. L
+e
+16 décembre 2024 elle a donc a désigné Me Christophe Tafelmacher en qualité de défenseur
+d’office de V.________ pour cette nouvelle procédure et le prévenu n’a pas recouru
+contre cette désignation, ce qu’il aurait naturellement fait s’il souhaitait réellement
+changer d’avocat.
+Dans ces circonstances, on peut s’interroger sur la bonne compréhension par le prévenu
+de sa signature «
+pour
+accord
+» de la lettre du 14 décembre
+2024 (P. 18). En outre, on ne saurait déduire du contenu de la lettre du 27 décembre 2024
+(P. 22), qui indique que «
+Pour
+donner suite à un appel avec mon avocat Me Benjamin Schwab, je vous écris ces lignes pour vous
+demander l’autorisation de garder cet avocat en lieu et place de Me Christophe Tafelmacher. M.
+Schwab m’a demandé de procédé (sic) de la sorte afin de lui permettre d’avoir
+accès à mon dossier
+», une
+volonté clairement exprimée de l’intéressé de changer de défenseur. Il
+en va de même de la procuration signée le 15 décembre 2024, soit le lendemain de son interpellation.
+Enfin, il ne ressort ni de l’audition du 21 janvier 2025 du prévenu par la police, ni de celle
+du 5 février 2025 effectuée par la Présidente du Tribunal des mineurs, lors desquelles
+il était assisté de Me Christophe Tafelmacher, que l’intéressé aurait émis
+des réserves ou demandé activement la présence de Me Benjamin Schwab.
+Pour toutes ces raisons, la décision du Tribunal des mineurs de refus de remplacer le défenseur
+d’office ne prête pas le flanc à la critique et peut être confirmée.
+Pour le reste, il appartiendra à cette autorité d’indemniser Me Benjamin Schwab pour
+les opérations effectuées les 14 et 15 décembre 2024 en relation avec son intervention
+en qualité d’avocat de la première heure appelé durant sa permanence.
+3.
+En définitive, le recours doit être rejeté et l’ordonnance entreprise confirmée.
+Au vu des déterminations circonstanciées déposées le 5 février 2025 par Me Christophe
+Tafelmacher, défenseur d’office de V.________, il convient de lui allouer une indemnité.
+Celle-ci sera fixée à 540 fr., correspondant à une activité nécessaire d’avocat
+de 3h00 au tarif horaire de 180 fr., montant auquel il convient d’ajouter des débours forfaitaires
+à concurrence de 2 % des honoraires admis (art. 3bis al. 1 RAJ [règlement du 7 décembre
+2010 sur l'assistance judiciaire en matière civile ; BLV 211.02.3], applicable par renvoi de l’art.
+26b TFIP [tarif des frais de procédure et indemnités en matière pénale du 28 septembre
+2010 ; BLV 312.03.1]), par 10 fr. 80, plus la TVA au taux de 8,1 %, par 44 fr. 60. L’indemnité
+s’élève ainsi à 596 fr. au total en chiffres arrondis.
+Aucune indemnité ne sera allouée à Me Benjamin Schwab, qui n’est pas désigné
+d’office et dont le client n’a pas obtenu gain de cause.
+Vu le sort du recours, les frais de la procédure, constitués en l’espèce de l’émolument
+d'arrêt, par 605 fr. (art. 20 al. 1 et 2 TFIP [Tarif des frais judiciaires et indemnités en
+matière pénale du 28 septembre 2010 ; BLV 312.03.1]), et des frais imputables à la défense
+d’office de V.________ (art. 422 al. 1 et 2 let. a CPP applicable par renvoi de l’art. 44
+al. 2 PPMin), fixés à 596 fr., seront mis à la charge du recourant, qui succombe (art.
+428 al. 1 CPP).
+Le remboursement à
+l'Etat de l'indemnité allouée au défenseur d'office du recourant ne sera exigible que
+pour autant que la situation financière de ce dernier le permette (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 13 janvier 2025 est confirmée.
+III.
+L'indemnité allouée à Me Christophe Tafelmacher, défenseur d'office de V.________,
+est fixée à 596 fr. (cinq cent nonante-six francs).
+IV.
+Les frais d’arrêt, par 605 fr. (six
+cent cinq francs), ainsi que l’indemnité due au défenseur d’office du recourant,
+par 596 fr. (cinq cent nonante-six francs), sont mis à la charge de V.________.
+V.
+Le
+remboursement à l’Etat de l’indemnité allouée au chiffre III ci-dessus ne
+sera exigible que pour autant que la situation financière de V.________ le permette.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Christophe Tafelmacher, avocat (pour V.________),
+-
+Me Benjamin Schwab, avocat
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal des mineurs,
+-
+M. [...],
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
