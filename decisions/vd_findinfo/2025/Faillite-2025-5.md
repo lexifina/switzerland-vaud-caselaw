@@ -1,0 +1,156 @@
+---
+decision_id: "vd_findinfo_Faillite___2025___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2025 / 5"
+decided: "2025-02-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10237466"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-056.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md"]
+---
+
+# VD Findinfo Faillite / 2025 / 5
+
+## Regeste
+
+VOIE DE DROIT, RESTITUTION DU DÉLAI, MOTIVATION DE LA DEMANDE, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ | 149 CPC (CH), 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2025 / 5
+
+VOIE DE DROIT, RESTITUTION DU DÉLAI, MOTIVATION DE LA DEMANDE, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ | 149 CPC (CH), 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF24.032827-250047
+8
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+28 février 2025
+___________________
+Composition
+:              M.
+Hack
+,
+président
+M.
+Maillard et Mme Cherpillod, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+149, 321 al. 1 CPC
+Vu le jugement rendu le 12 septembre 2024 par la Présidente du Tribunal d’arrondissement de
+Lausanne, statuant en tant qu’autorité de première instance en matière sommaire
+de poursuites, prononçant par défaut des parties la faillite de
+J.________
+,
+à [...], avec effet au 12 septembre 2024 à 12 heures, à la réquisition d’
+E.________
+SA
+, à [...], et mettant les frais judiciaires,
+arrêtés à 200 fr., à la charge du failli,
+vu la demande de restitution de délai avec requête d’effet suspensif déposée
+le 18 octobre 2024 par J.________,
+vu le prononcé du 21 octobre 2024 de la Présidente du Tribunal d’arrondissement de Lausanne
+prononçant l’effet suspensif en ce sens que les effets de la procédure de faillite sont
+suspendus jusqu’à droit connu sur la demande de restitution de délai,
+vu l’avis du greffe du tribunal du 21 octobre 2024 impartissant au failli un délai échéant
+au 11 novembre 2024 pour procéder à l’avance de frais de 400 fr., afin qu’une décision
+soit rendue, ainsi qu’un délai non prolongeable échéant à la même date
+pour s’acquitter auprès de l’office des poursuites de la dette ayant entraîné
+le prononcé de faillite et lui faire parvenir une preuve de ce paiement,
+vu la décision rendue le 6 janvier 2025 par la Présidente du Tribunal d’arrondissement
+de Lausanne constatant qu’aucune avance de frais n’avait été versée dans le
+délai imparti, refusant en conséquence d’entrer en matière sur la demande de restitution
+de délai, révoquant l’effet suspensif accordé le 21 octobre 2024, disant que le
+prononcé de faillite du 12 septembre 2024 prenait effet le 6 janvier 2025 à 14 heures
+et mettant les frais de la procédure de faillite, par 200 fr. et ceux de la procédure de restitution
+de délai, par 200 fr. à la charge du failli,
+vu le recours daté du 14 janvier 2025 et remis à la poste le 16 janvier 2025 interjeté
+par J.________ contre cette décision,
+vu la décision du président de la cour de céans du 17 janvier 2025, rejetant la requête
+d’effet suspensif contenue dans le recours,
+vu les autres pièces du dossier ;
+attendu que selon l’art. 149 CPC (Code de procédure civile du 19 décembre 2008 ;
+RS 272), le tribunal statue définitivement sur la restitution, ce qui exclut en principe tout recours
+contre sa décision (Tappy, in Bohnet et alii (éd.), Commentaire romand, Code de procédure
+civile [ci-après : CR-CPC], 2e éd., 2019, n. 12 ad art. 149 CPC),
+que la voie du recours des art. 319 ss CPC est toutefois ouverte contre la décision déclarant
+irrecevable ou rejetant une requête de restitution de délai en vue d’obtenir la tenue
+d’une nouvelle audience de faillite, celle-ci étant une décision finale lorsque le tribunal
+de première instance a déjà clos la procédure et que la requête de la partie
+défaillante tend à la faire rouvrir (ATF 139 III 478 consid. 6.3 ; Tappy, op. cit., n. 13 et
+13a ad art. 149 CPC ; CPF 5 mars 2018/26),
+qu’en l’espèce, le recours contre la non-entrée en matière sur la demande
+de restitution de délai a été déposé en temps utile ;
+attendu que la motivation du recours est une condition de recevabilité prévue par la loi et
+qui doit être examinée d'office (art. 321 al. 1 CPC ; TF 5A_734/2023 du 18 décembre 2023
+consid. 3.3 et les arrêts cités ; 5D_43/2019 du 24 mai 2019 consid. 3.2.2.1).
+que, si la motivation du recours fait défaut, le recours est irrecevable (TF 5A_734/2023 précité
+loc. cit. ; 4A_462/2022 du 6 mars 2023 consid. 5.1.1 et les arrêts cités),
+que le recourant doit démontrer le caractère erroné de la motivation de la décision
+attaquée et son argumentation doit être suffisamment explicite pour que l’instance de
+recours puisse la comprendre, ce qui suppose une désignation précise des passages de la décision
+qu’il attaque et des pièces du dossier sur lesquelles il fonde sa critique (ATF 147 III 176
+consid. 4.2.1 ; TF 5A_734/2023 précité loc. cit. ;  5D_43/2019 précité loc.
+cit.),
+que ni l’art. 132 al. 1 et 2 ni l’art. 56 CPC ne sont applicables en cas d’absence
+de motivation d’un acte de recours (TF 5A_734/2023 précité consid. 3.3 in fine et les
+arrêts cités),
+qu’en l’espèce, le recourant demande un délai supplémentaire pour pouvoir
+constituer un dossier, fait valoir que l’intimée n’a pas répondu à son courrier
+et qu’il a reçu une réponse de l’office des poursuites après que la décision
+attaquée a été rendue,
+que, ce faisant, il ne discute pas la motivation de la décision selon laquelle la première
+juge ne pouvait entrer en matière sur la demande de restitution de délai car l’avance
+de frais de 400 fr. n’avait pas été versée dans le délai et, qu’au demeurant,
+dite demande aurait dû être rejetée, le failli n’ayant pas établi avoir payé
+dans le même délai le montant ayant donné lieu au prononcé de faillite,
+que le recours ne satisfait donc pas aux exigences de motivation de l’art. 321 al. 1 CPC et de
+la jurisprudence susmentionnée,
+qu’il est en conséquence irrecevable ;
+attendu que le présent arrêt est rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. J.________,
+‑
+E.________ SA,
+-
+M. le Préposé à l'Office des poursuites du district de l’Ouest lausannois,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne.
+Le greffier :
