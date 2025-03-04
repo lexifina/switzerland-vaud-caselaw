@@ -1,0 +1,289 @@
+---
+decision_id: "vd_findinfo_Plainte___2025___6"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2025 / 6"
+decided: "2025-03-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10237498"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-008.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-064.md", "switzerland/bund/acts/281.1/art-072.md"]
+---
+
+# VD Findinfo Plainte / 2025 / 6
+
+## Regeste
+
+NOTIFICATION DE LA DÉCISION, MEMBRE DE LA FAMILLE, MÉNAGE COMMUN, ACTE DE RECOURS, MOTIVATION DE LA DEMANDE, CONDITION DE RECEVABILITÉ, COMMANDEMENT DE PAYER | 18 al. 1 LP, 18 LP, 64 al. 1 LP, 64 LP, 72 LP, 28 al. 3 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2025 / 6
+
+NOTIFICATION DE LA DÉCISION, MEMBRE DE LA FAMILLE, MÉNAGE COMMUN, ACTE DE RECOURS, MOTIVATION DE LA DEMANDE, CONDITION DE RECEVABILITÉ, COMMANDEMENT DE PAYER | 18 al. 1 LP, 18 LP, 64 al. 1 LP, 64 LP, 72 LP, 28 al. 3 LVLP
+
+TRIBUNAL
+CANTONAL
+FA24.041321-241698
+2
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+4 mars 2025
+_________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et  Cherpillod, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+18 al. 1, 64 al. 1, 72 LP ; 28 al. 3 LVLP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+K.________
+,
+à [...], contre la décision rendue le 3 décembre 2024 par la Présidente du Tribunal
+d’arrondissement de Lausanne, autorité inférieure de surveillance, rejetant la plainte
+du recourant contre la notification d’un commandement de payer par l’
+Office
+des poursuites du district de Lausanne
+, à
+Lausanne.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le
+19 août 2024, un agent postal s’est présenté au domicile d’K.________ (ci-après :
+le plaignant) afin de lui notifier le commandement de payer la somme de 5’871 fr. 55 plus accessoires
+légaux dans la poursuite n° 11'390'920 de l’Office des poursuites du district de
+Lausanne (ci-après : l’Office). Il a remis l’acte à la fille du plaignant
+et a coché la case «
+au
+destinataire
+». Interrogé comme
+témoin, il a déclaré ne pas se souvenir de cette notification en particulier, car il visitait
+cinq cents clients par jour, mais a indiqué que les directives en la matière prescrivaient
+que, lorsque un enfant répondait à la porte, il convenait de s’enquérir si celui-ci
+était majeur avant de lui notifier, le cas échéant, le commandement de payer, consigne
+qu’il appliquait.
+Le plaignant n’a pas formé opposition.
+b)
+Le
+10 septembre 2024, à la réquisition du créancier, l’Office a adressé au plaignant
+un avis de saisie fixant celle-ci au 18 septembre 2024 pour un montant de 6'042 fr. 90, frais et intérêts
+compris.
+2.
+Par acte du 12 septembre 2024, K.________ a déposé auprès du Président du Tribunal
+d’arrondissement de Lausanne une plainte contre la notification du commandement de payer, invoquant
+un vice de celle-ci ayant empêché qu’il puisse y former opposition.
+Par acte du 13 septembre 2024, la présidente a notifié la plainte à l’Office et
+a cité les parties à comparaître à l’audience du 31 octobre 2024.
+Dans ses déterminations du 11 octobre 2024, l’Office a préavisé en faveur du rejet
+de la plainte.
+A l’audience du 31 octobre 2024, à laquelle le plaignant et l’Huissier-chef de l’Office
+se sont présentés, le premier a produit un courriel du 6 mai 2024 adressé à l’Office,
+l’informant qu’il serait absent pendant quelques semaines pour des raisons familiales.
+3.
+Par prononcé du 3 décembre 2024, la Présidente du Tribunal d’arrondissement de Lausanne,
+statuant en tant qu’autorité inférieure de surveillance, a rejeté la plainte (I)
+et a rendu la décision sans frais ni dépens (II). Elle a considéré que le commandement
+de payer avait été remis à la fille du plaignant, et que, dès lors que celle-ci était
+adulte et faisait ménage commun avec lui, la notification avait été valablement faite
+lors de cette remise. Elle a jugé qu’il appartenait au plaignant d’informer sa fille
+qu’il était susceptible de faire l’objet de poursuites et de l’instruire sur la
+conduite à tenir en cas de notification d’un commandement de payer, d’autant qu’ayant
+envoyé le 6 mai 2024 un courriel à l’Office pour lui indiquer qu’il serait absent,
+il était conscient que des poursuites étaient susceptibles de lui être notifiées ;
+enfin, la notification n’avait pas eu lieu pendant la période d’absence qu’il
+avait annoncée de sorte que le plaignant ne pouvait avec succès se prévaloir de ce courriel.
+Elle a constaté que les art. 64 et 65 LP sur la notification avaient été respectés.
+4.
+Par acte du 12 décembre 2024, K.________
+a recouru contre cette décision en faisant valoir qu’il n’avait pu bénéficier
+de son droit de former opposition.
+Dans ses déterminations du 24 décembre 2024, l’Office a préavisé en faveur
+du rejet du recours.
+En droit :
+1.
+1.1
+Selon les art. 18 al. 1 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la
+faillite; RS 281.1) et 28 al. 1 LVLP (loi vaudoise du 18 mai 1955 d'application de la LP; RSV 280.05),
+toute décision de l’autorité inférieure de surveillance peut être déférée
+à l’autorité cantonale supérieure de surveillance dans les dix jours à compter
+de sa notification
+En l'espèce, le recours du 12 décembre 2024 a été déposé en temps utile,
+par le plaignant qui a qualité pour recourir.
+1.2
+1.2.1
+L’art. 28 al. 3 LVLP prévoit que le
+recours au Tribunal cantonal de l’art. 18 al. 1 LP précise les points sur lesquels une modification
+du prononcé est demandée et indique brièvement, les moyens invoqués. Le Tribunal
+fédéral a dit que cette disposition n’avait pas de portée propre et que l’exigence
+selon laquelle le recours cantonal devait contenir un exposé, à tous le moins sommaire, des
+moyens invoqués, ressortissait au droit fédéral (TF 5A_118/2018 du 7 février 2018
+consid. 4.2 ; 7B.61/2005 du 29 avril 2005 et les auteurs cités).
+1.2.2
+En l’espèce, le recourant se contente de répéter les mêmes arguments qu’il
+a développés devant l’autorité inférieure, sans essayer de démontrer la
+fausseté du raisonnement de l’autorité inférieure de surveillance, si bien qu’il
+est douteux que son recours soit recevable au regard des exigences ressortant des art. 18 LP et 28 al.
+3 LVLP et de la jurisprudence y relative. Cette question peut toutefois demeurer indécise, dès
+lors que le recours doit, comme on le verra, de toute manière être rejeté.
+2.
+Le recourant fait valoir que «
+la
+procédure normale de notification n’a pas été respectée
+».  La case cochée est celle «
+Au
+destinataire
+» alors qu’elle aurait
+dû être celle «
+A
+une autre personne
+» avec l’indication
+des prénom, nom et relation avec le destinataire. Il prétend en outre que sa fille ne savait
+pas ce qu’était un commandement de payer, et qu’elle a pensé qu’il s’agissait
+d’un courrier comme un autre, raison pour laquelle elle «
+est
+partie sans faire part de ce pli
+». Il a
+déposé une plainte le 12 septembre 2024 «
+une
+fois sur le sol Suisse
+».
+2.1
+2.1.1
+Le commandement de payer est un acte sujet à notification (art. 72 LP). La preuve de la notification
+correcte incombe à l'Office des poursuites (ATF 149 III 218 consid. 2.2.2; 120 III 117 consid. 2;
+117 III 10 consid. 5c; TF 5A_322/2024 du 17 octobre 2024 consid. 3.2.1.1 ; 5A_893/2023 du 18
+avril 2024 consid. 2.1).
+2.1.2
+Selon l'art. 64 al. 1 LP, les actes de poursuite – dont les commandements de payer (ATF 117 III
+7 consid. 3b ; Angst/Rodriguez, in : Staehelin/Bauer/Lorandi (éd.), Basler Kommentar,
+Bundesgesetz über Schuld-betreibung und Konkurs, t. I, 3
+e
+éd. 2021, n. 8 et 8a ad art. 64 LP et les références citées) - sont notifiés
+au débiteur dans sa demeure ou à l'endroit où il exerce habituellement sa profession (1ère
+phrase); s'il est absent, l'acte peut être remis à une personne adulte de son ménage ou
+à un employé (2e phrase).
+La seconde phrase de la disposition précitée permet ainsi de notifier un acte de poursuite
+à l’épouse du débiteur ou à l’époux de la débitrice, à
+l’enfant adulte du débiteur (ce qui comprend l’enfant mineur capable de discernement),
+ou à ses parents ou grands-parents (Angst/Rodriguez, op. cit., n. 18 et 19 ad art. 64 LP). Elle
+n'exige pas que la personne habilitée à recevoir le commandement de payer connaisse le contenu
+du pli, ou soit un membre de la famille du poursuivi, mais seulement qu'il forme avec celui-ci une communauté
+domestique ; l'acte peut être ainsi notifié à la concubine du poursuivi (ATF 50 III 80;
+TF 5A_777/2011 du 7 février 2012 consid. 3.2.1 ; Angst/Rodriguez, op. cit., n. 18 et 19 ad
+art. 64 LP et les références citées). La notification n'est donc pas régulière
+lorsqu'elle est faite en mains de la fille qui ne vit pas sous le même toit que la débitrice
+(BlSchK 34/1970 p. 11 n° 2; Fritsche/Walder, Schuldbetreibung und Konkurs, vol. I, 3e éd.,
+1993, § 14 n. 33), ou lorsqu’elle est simplement déposée dans la boîte aux
+lettres ou dans une case postale sans être remise de manière effective à l’une des
+personnes prévues par l’art. 64 al. 1 seconde phrase LP (TF 5A_84/2022 du 6 mai 2022 consid.
+2.1.1 et les références citées).
+2.1.3
+Lorsque l'acte de poursuite à notifier au sens de l'art. 64 LP est un commandement de payer, il
+ressort de l'art. 72 LP que cette notification est opérée par le préposé, par un
+employé de l'office ou par la Poste (al. 1), avant qu'il soit procédé selon l'art. 64
+al. 2 LP en cas d'échec (ATF 138 III 25 consid. 2.1; TF 5A_305/2021 du 4 octobre 2021 consid. 4.4.2.1
+; TF 5A_843/2016 du 31 janvier 2017 consid. 4.1), et que celui qui procède à la notification
+atteste sur chaque exemplaire le jour où elle a eu lieu et la personne à laquelle l'acte a
+été remis (al. 2). Ce procès-verbal de notification, en tant que titre public (art. 8
+al. 2 LP et 9 CC) vise à permettre la preuve d'une notification correcte par l'office (TF 5A_305/2021
+précité ; 5A_418/2017 du 31 janvier 2018 consid. 3.2, publié in BlSchK 2018 p. 41).
+2.2
+En l’espèce l’autorité inférieure
+a constaté dans les faits que l’agent notificateur avait remis le commandement de payer litigieux
+à la fille majeure du recourant, qui fait ménage commun avec lui, le 19 août 2024. Le
+recourant ne conteste pas ces faits, et même les a allégués. L’allégation selon
+laquelle sa fille ignorait le contenu du pli ou son importance – du reste non prouvée –
+est sans pertinence, au vu des principes exposés par l’autorité inférieure et la
+Cour de céans (cf. supra consid. 2.1). Il en va de même de l’allégation –
+également non établie – selon laquelle sa fille serait partie peu après la remise
+du pli.
+Quant à l’argument factuel, selon lequel l’agent notificateur n’a pas coché
+la case de la notification «
+A
+une autre personne
+», mais celle intitulée
+«
+Au destinataire
+», il est bien fondé. Toutefois, le recourant n’expose pas en quoi cette mention de l’agent
+notificateur – qui, entendu comme témoin, a exposé qu’il rencontrait environ cinq
+cents clients par jour, et qu’il avait procédé dans le cas présent comme d’habitude
+– aurait une quelconque incidence sur la validité de la notification. En effet, si c’est
+bien la fille majeure du recourant, faisant ménage commun avec lui, qui a réceptionné
+le pli contenant le commandement de payer – comme retenu par l’autorité inférieure
+et allégué par le recourant lui-même –, cela signifie que le procès-verbal
+de notification contient une erreur sur ce point, mais pas que la notification au recourant par remise
+du pli à sa fille n’a pas été valablement effectuée, pour les motifs qui viennent
+d’être exposés ; si le pli a été remis au destinataire le 19 août 2024,
+comme indiqué sur le commandement de payer, cela signifie que le pli a été remis au recourant
+lui-même ; dans ce cas, la notification aurait aussi valablement été effectuée ;
+il faut relever à cet égard que le recourant a prétendu dans sa plainte et dans son recours
+qu’il était absent de son domicile à la date considérée mais qu’il n’a
+jamais produit aucun document, ou proposé de faire entendre un témoin, pour établir ce
+fait ; certes, il a adressé à l’Office un courriel, le 6 mai 2024, indiquant sans autre
+précision ni preuve qu’il serait «
+absent
+pour quelques semaines
+», mais le commandement
+de payer en cause date du 31 juillet 2024, et il ressort du suivi des envois postaux que le recourant
+a été avisé pour retrait le 5 août 2024. En tout état de cause, comme déjà
+dit, le procès-verbal de notification n’a qu’une fonction de preuve. Dès lors que,
+selon la version des faits présentée par le plaignant lui-même et tenue pour établie
+par l’autorité inférieure, la notification était valable, cette autorité n’avait
+pas l’obligation d’ordonner d’office l’administration d’autres preuves,
+par exemple l’audition de la fille dudit plaignant, pour s’assurer que c’était
+bien elle plutôt que son père qui avait réceptionné le pli (cf. art. 20 al. 2 ch.
+2 LP ; TF 5A_362/2024 du 19 septembre 2024 consid. 6.1.3 ). Le recourant ne l’invoque du reste
+pas.
+3.
+En conclusion, le recours doit être rejeté
+dans la mesure où il est recevable et la décision attaquée confirmée.
+Le présent arrêt est rendu sans frais judiciaires ni dépens (art. 20a al. 2 ch. 5 LP,
+61 al. 2 let. a et 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus
+en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+La décision est confirmée.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+Le
+président :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. K.________,
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+Le greffier :
