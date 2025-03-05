@@ -1,0 +1,244 @@
+---
+decision_id: "vd_findinfo_Plainte___2025___9"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2025 / 9"
+decided: "2025-03-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10240079"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-008a.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-021.md", "switzerland/bund/acts/281.1/art-085a.md"]
+---
+
+# VD Findinfo Plainte / 2025 / 9
+
+## Regeste
+
+QUALITÉ POUR AGIR ET RECOURIR, PLAINTE{LP} | 17 LP, 18 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2025 / 9
+
+QUALITÉ POUR AGIR ET RECOURIR, PLAINTE{LP} | 17 LP, 18 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FA24.044766-250075
+6
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+5 mars 2025
+__________________
+Composition
+:               M.
+Hack
+,
+président
+M.
+Maillard et Mme Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+17 et 18 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+Y.________
+,
+à [...], contre la décision rendue le 3 janvier 2025 par le Président du Tribunal d’arrondissement
+de l’Est vaudois, autorité inférieure de surveillance, dans la cause opposant le recourant
+à l’
+Office
+des poursuites du district de La Riviera - Pays-d'Enhaut
+,
+à Vevey.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Y.________ (ci-après : le recourant)
+a fait l’objet d’une poursuite n° 11'029'084 de l’Office des poursuites du
+district de La Riviera - Pays-d'Enhaut (ci-après : l’Office) introduite par l’Etat
+de Vaud. Il fait par ailleurs l’objet d’une poursuite distincte n° 11'029'083 du
+même office.
+b)
+Dans le cadre de la poursuite n° 11'029'084, un commandement de payer portant sur un montant de
+550 fr. a été notifié le 4 décembre 2023 au recourant, qui a formé opposition
+totale. Cette opposition a été définitivement levée par prononcé de la Juge
+de paix du district de La Riviera-Pays-d’Enhaut du 19 mars 2024, confirmé par arrêt de
+la Cour des poursuites et faillites du Tribunal cantonal, autorité de recours, du 9 août 2024.
+Le poursuivant ayant requis la continuation de la poursuite, un avis de saisie a été adressé
+par l’Office au recourant le 24 septembre 2024, l’avisant qu’il serait procédé
+à la saisie le 8 octobre suivant pour un montant total de 742 fr. 50 (frais et intérêts
+compris) dans la poursuite en question.
+Le 4 octobre 2024, le recourant a entièrement payé la poursuite n° 11'029'084 à
+l’Office. La liste des poursuites le concernant indique le paiement intervenu et le solde égal
+à zéro de la poursuite en question.
+c)
+Le
+7 octobre 2024,
+le
+recourant a déposé une plainte au sens de l’art. 17 LP (loi fédérale sur la
+poursuite pour dettes et la faillite ; RS 281.1) contre «
+la
+saisie agendée le 8 octobre 2024
+»,
+selon avis du 24 septembre 2024, «
+pour
+une créance inexistante depuis le 4 octobre 2024
+».
+Cette plainte tendait à l’annulation de la poursuite n° 11'029'084 et de la saisie prévue,
+«
+en application
+de l’art. 85a al. 3 LP
+», et à
+la radiation de la poursuite en cause.
+Par détermination du 16 octobre 2024, l’Office a conclu au rejet de la plainte, faisant valoir,
+d’une part, que la poursuite en cause avait été entièrement réglée et,
+d’autre part, qu’il ne lui appartenait pas de l’annuler, l’action en annulation
+de la poursuite devant être dirigée contre le créancier et portée devant le juge
+civil.
+2.
+Par décision du 3 janvier 2025, l’autorité précédente a constaté que la
+plainte était sans objet, dans la mesure où la poursuite n° 11'029'084 avait été
+payée (I), a rendu sa décision sans frais ni dépens (II) et a rayé la cause du rôle
+(III).
+3.
+Par acte de recours du 23 janvier 2025 contre
+ce prononcé, dont il a admis d’emblée la notification à l’échéance
+du délai de garde de sept jours, le 13 janvier 2025, le recourant a conclu en substance à sa
+réforme, soit à la suppression du chiffre III de son dispositif (radiation du rôle) et
+à ce que l’autorité supérieure de surveillance : (a) constate «
+la
+jonction par l’Office des saisies prévues le 8 octobre 2024 concernant les deux poursuites
+du 4 décembre 2023 portant n° 11'029'084 et n° 11'029'083
+»,
+(b) ordonne «
+l’annulation,
+en application de l’art. 85a al. 3 LP, des saisies prévues le 8 octobre 2024 ainsi que des
+poursuites y relatives n° 11'029'084 et n° 11'029'083
+»
+et c) ordonne «
+la
+radiation immédiate du registre des saisies prévues le 8 octobre 2024 et des poursuites y relatives
+n° 11'029'084 et n° 11'029'083 »
+.
+En droit :
+I.
+a)
+Le
+recours contre une décision de l'autorité inférieure de surveillance doit être introduit
+auprès de cette autorité dans un délai de dix jours dès la notification de la décision
+(art. 18 al. 1 LP et 28 al. 1 LVLP [loi vaudoise d'application de la LP ; BLV 280.05]).
+En l’espèce, le recours adressé le 23 janvier 2025 à l’autorité précédente
+a été formé en temps utile.
+II.
+a) aa)
+La qualité pour porter plainte selon l'art. 17 LP est reconnue à toute personne lésée
+ou exposée à l'être dans ses intérêts juridiquement protégés ou, à
+tout le moins, atteinte dans ses intérêts de fait par une mesure ou une omission d'un organe
+de la poursuite (ATF 139 III 384 consid. 2.1 ; 138 III 219 consid. 2.3 ; 129 III 595 consid.
+3 ; 120 III 42 consid. 3). Le plaignant doit dans tous les cas poursuivre un but concret ; il doit
+être matériellement lésé par les effets de la décision attaquée et avoir
+un intérêt digne de protection à sa modification ou à son annulation (ATF 139 III
+384 consid. 2.1 ; 138 III 219 consid. 2.3 ; TF 5A_554/2022 du 26 janvier 2023 consid. 5.1 ;
+5A_48/2022 du 10 mai 2022 consid. 4.2.1 et les références). De pratique constante, la plainte
+n'est recevable que si elle permet d'atteindre un but concret sur le plan de l'exécution forcée
+; aussi, l'art. 21 LP prévoit-il que, lorsqu'une plainte est reconnue fondée, l'autorité
+annule ou redresse l'acte qui en fait l'objet. La plainte ne peut ainsi, sous peine d'irrecevabilité,
+avoir seulement un effet déclaratif ou tendre uniquement à faire constater l'irrégularité
+du procédé de l'office (ATF 138 III 265 consid. 3.2 ; 138 III 219 consid. 2.3 ; TF
+5A_554/2022 du 26 janvier 2023 consid. 5.1 ; 5A_837/2018 du 17 mai 2019 consid. 3.1, publié
+in
+Pra 2019 (78) p. 785).
+bb)
+Même si l’art. 18 al. 1 LP qui régit le recours à l’autorité supérieure
+de surveillance ne le précise pas, la jurisprudence a reconnu que la légitimation pour recourir
+était subordonnée, quant aux personnes concernées par la procédure d’exécution
+forcée en cours, à l’existence d’un intérêt à saisir l’autorité
+supérieure. Tel est le cas si la décision de l’autorité inférieure est susceptible
+de léser les intérêts juridiquement protégés du recourant, dans le même
+sens que l’intérêt à la plainte ; cet intérêt doit donc être concret,
+actuel et réel, et non théorique ou hypothétique (Gilliéron, Commentaire de la loi
+fédérale sur la poursuite pour dettes et la faillite, vol. I, Lausanne 1999, n. 32 et
+33
+ad
+art. 18 LP, pp. 262 s. ; ATF 105 III 35 consid. 1).
+cc)
+Selon l’art. 28 al. 3 LVLP, le recours indique les points sur lesquels une modification du prononcé
+est demandée et indique brièvement les moyens invoqués ; cette exigence d’un exposé
+et de conclusions ressortit à l’art. 18 al. 1 LP, selon le Tribunal fédéral (TF
+5A_118/2018 du 7 février 2018 consid. 4.2 et la réf. cit.).
+b)
+En l’espèce, toutes les conclusions du recours sont irrecevables dans la mesure où elles
+portent également sur la poursuite n° 11'029'083 et sont ainsi exorbitantes de celles
+tranchées par l’autorité précédente. La présente procédure concerne
+uniquement la poursuite n° 11'029'084, qui faisait d’ailleurs seule l’objet de
+la plainte du 7 octobre 2024.
+La conclusion (a) est en outre irrecevable au motif qu’elle est purement constatatoire. Au demeurant,
+il n’y a aucune «
+jonction
+de poursuites
+» - notion totalement
+inexistante en droit des poursuites - à constater ; le fait qu’une saisie concerne plusieurs
+poursuites au stade de la continuation contre un débiteur, le cas échéant, n'a rien à
+voir avec une jonction au sens procédural du terme et n’empêche aucunement que les poursuites
+traitées simultanément à ce stade connaissent un sort distinct. Preuve en est qu’en
+l’espèce, le recourant a réglé l’une des deux poursuites et pas l’autre.
+La conclusion (b) tendant à l’annulation de la poursuite n° 11'029'084 en application
+de l’art. 85a al. 3 LP est irrecevable en procédure de plainte, l’action en annulation
+de poursuite étant une action civile. Il en va de même de la conclusion (c) en radiation de
+la poursuite, le recourant partant apparemment de l’idée erronée qu’une poursuite
+doit être automatiquement radiée par l’office si elle est réglée et que la
+« non-radiation » peut faire l’objet d’une plainte. Tel n’est pas
+le cas. La loi prévoit uniquement la non-divulgation à des tiers des poursuites nulles ou annulées
+ou retirées (art. 8a LP). Comme on l’a vu, l’annulation s’obtient par une action
+civile spécifique ; quant au retrait de la poursuite, le poursuivi peut le demander au poursuivant.
+La décision attaquée constatant à raison que la poursuite n° 11'029'084 a été
+réglée, l’intérêt du recourant à agir contre cette décision est douteux.
+Le paiement de la poursuite en question est expressément indiqué dans la liste des poursuites
+contre le recourant, de sorte qu’il est visible par les tiers que cette poursuite a été
+réglée. En outre, le paiement étant intervenu avant la saisie prévue dans cette poursuite
+le 8 octobre 2024, cette saisie n’a évidemment pas eu lieu et les conclusions (b) et (c) du
+recours tendant à son annulation et à sa radiation sont dépourvues d’objet.
+III.
+Vu ce qui précède, le recours doit être déclaré irrecevable.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 2 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP ; RS 281.35]).
+Par ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. Y.________,
+‑
+M. le Préposé à l’Office des poursuites du district de La Riviera – Pays-d’Enhaut.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
