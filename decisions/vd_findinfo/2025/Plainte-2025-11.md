@@ -1,0 +1,346 @@
+---
+decision_id: "vd_findinfo_Plainte___2025___11"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2025 / 11"
+decided: "2025-03-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10266259"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-125.md", "switzerland/bund/acts/281.1/art-126.md", "switzerland/bund/acts/281.1/art-134.md", "switzerland/bund/acts/281.1/art-135.md", "switzerland/bund/acts/281.1/art-139.md", "switzerland/bund/acts/281.1/art-156.md", "switzerland/bund/acts/281.42/art-009.md"]
+---
+
+# VD Findinfo Plainte / 2025 / 11
+
+## Regeste
+
+CONDITIONS DES ENCHÈRES, VALEUR VÉNALE{SENS GÉNÉRAL}, PRINCIPE DE L'OFFRE SUFFISANTE, VALEUR OFFICIELLE | 126 LP, 134 al. 1 LP, 134 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2025 / 11
+
+CONDITIONS DES ENCHÈRES, VALEUR VÉNALE{SENS GÉNÉRAL}, PRINCIPE DE L'OFFRE SUFFISANTE, VALEUR OFFICIELLE | 126 LP, 134 al. 1 LP, 134 LP
+
+TRIBUNAL
+CANTONAL
+FA24.037344-241475
+8
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+20 mars 2025
+__________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et  Giroud Walther, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+126, 134 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+G.________
+,
+à [...], contre la décision rendue le 23 octobre 2024, à la suite de l’audience
+du 3 octobre 2024, par le Président du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, admettant la plainte formée par le recourant contre la fixation
+d’un prix minimum d’adjudication par l’
+Office
+des poursuites du district de Lausanne
+, à
+Lausanne, dans le cadre de l’exécution forcée requise notamment par
+S.________
+,
+à [...].
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+G.________ (ci-après : le plaignant) est propriétaire de la parcelle RF [...] de la Commune
+de [...].
+Les créanciers du plaignant, dont la S.________ agissant comme créancier gagiste, ont requis
+la vente de la parcelle susmentionnée.
+Le 18 octobre 2022, l’Office des poursuites du district de Lausanne (ci-après : l’Office)
+a retenu une valeur vénale de la parcelle de 5'925'000 fr. dans deux procès-verbaux d’estimation
+de gage.
+Le plaignant et son épouse ayant requis une deuxième estimation, la valeur vénale a été
+fixée au montant de 6'750'000 fr. par décision du Président du Tribunal d’arrondissement
+de Lausanne du 4 mars 2024. Le recours interjeté par le plaignant et son épouse contre cette
+décision a été rejeté par arrêt de la cour de céans du 31 mai 2024.
+2.
+L’avis de vente aux enchères de la parcelle en cause a été publié dans la Feuille
+officielle suisse du commerce (FOSC) et dans la Feuille des avis officiels du canton de Vaud (FAO) le
+[...] avril 2024.
+Les conditions de vente immobilière aux enchères ont été déposées le 9
+août 2024. Elle prévoient, à leur chiffre 1 ce qui suit :
+« L’immeuble
+sera adjugé après trois criées au plus offrant, à condition que son offre soit supérieure
+au prix minimum d’adjudication de
+CHF
+3'500’0000 (trois millions cinq cent mille francs)
+en application de la jurisprudence fédérale, notamment de l’arrêt 5A_244/2016 du
+4 octobre 2016, afin de concilier et sauvegarder les intérêts en cause. A défaut d’offre
+suffisante lors de la séance d’enchères, l’immeuble sera remis à l’encan
+à une date ultérieure avec une mise à prix résultant de l’application du principe
+de l’offre suffisante au sens de l’art. 126 al. 1 LP ».
+3.
+Par acte du 19 août 2024, G.________ a saisi
+le Président du Tribunal d’arrondissement de Lausanne d’une plainte tendant à la
+modification, respectivement à la réforme des conditions de vente aux enchères du bien-fonds
+en cause, par référence, à tout le moins, à la valeur effective du gage, telle que
+retenue en procédure par l’expert mis en œuvre par l’autorité de surveillance,
+et à ce que la vente aux enchères, appointée au 30 octobre 2024, soit renvoyée jusqu’à
+droit connu sur la plainte. Subsidiairement, il a conclu à l’annulation de la décision
+du 9 août 2024 et à ce qu’il soit imposé à l’Office de rendre une nouvelle
+décision dans le sens des considérants de celle à intervenir, la vente aux enchères,
+appointée au 30 octobre 2024, étant interdite jusqu’à droit connu sur la plainte.
+Plus subsidiairement, il a conclu à l’annulation de la décision du 9 août 2024 et
+au renvoi de la cause à l’Office pour nouvelle décision dans le sens des considérants
+de celle à intervenir, le renvoi de la vente aux enchères étant ordonné.
+Par courriers recommandés du 23 août 2024, le président a notifié la plainte à
+l’Office et a cité les parties à comparaître à l’audience du 3 octobre
+2024.
+Dans ses déterminations du 3 septembre 2024, l’Office a préavisé en faveur du rejet
+de la plainte.
+Le plaignant, assisté de son conseil, et le substitut du Préposé à l’Office
+se sont présentés à l’audience du 3 octobre 2024. Le plaignant et l’Office
+ont confirmé leurs conclusions.
+4.
+Par décision du 23 octobre 2024, le Président
+du Tribunal d’arrondissement de Lausanne, statuant en tant qu’autorité inférieure
+de surveillance, a admis partiellement la plainte (I), a arrêté le prix minimum d’adjudication
+de l’immeuble en cause à 4'500'000 fr. lors de la vente aux enchères du 30 octobre 2024
+(II), a fixé l’indemnité finale du conseil d’office du plaignant (III), a dit que
+le plaignant était tenu au remboursement de dite indemnité aux conditions de l’art. 123
+CPC (IV) et a rendu la décision sans frais (IV). En substance, le premier juge a pris en compte
+que l’immeuble en cause était une maison de standing dans un quartier résidentiel de
+haut de gamme, qui n’était pas susceptible d’attirer un grand nombre d’acheteurs,
+n’ayant d’ailleurs été visitée que par le représentant de la banque créancière.
+En l’absence d’autre enchérisseur, il apparaissait que celle-ci ne chercherait pas à
+acquérir l’immeuble à un prix supérieur au montant de 3'500'000 fr. fixé par
+l’Office. Il a toutefois jugé que ces éléments ne justifiaient pas de fixer le montant
+du prix minimum d’adjudication au niveau de l’estimation de la valeur vénale, mais uniquement
+aux deux tiers de celle-ci.
+5.
+Par acte du 31 octobre 2024, le plaignant a recouru
+contre cette décision en concluant, avec suite de frais et dépens, à sa réforme en
+ce sens que le prix minimum d’adjudication de l’immeuble et cause est fixé à 6'750'000
+fr. et subsidiairement, à son annulation et au renvoi de la cause au premier juge pour nouvelle
+décision dans le sens des considérants de l’arrêt à intervenir. Il a requis
+que l’effet suspensif soit accordé au recours et le bénéfice de l’assistance
+judiciaire.
+Par décision du 1
+er
+novembre 2024, la Vice-présidente de la Cour des poursuites et faillites a admis la requête
+d’effet suspensif.
+Dans ses déterminations du 15 novembre 2024, l’Office a préavisé en faveur du rejet
+du recours.
+Dans ses déterminations spontanées du 21 novembre 2024, S.________ a conclu, avec suite de
+frais et dépens, au rejet du recours.
+Le 25 novembre 2024, le recourant a déposé une détermination spontanée sur celles
+de ses parties adverses.
+En droit :
+1.
+Selon les art. 18 al. 1 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la
+faillite; RS 281.1) et 28 al. 1 LVLP (loi vaudoise du 18 mai 1955 d'application de la LP; RSV 280.05),
+toute décision de l’autorité inférieure de surveillance peut être déférée
+à l’autorité cantonale supérieure de surveillance dans les dix jours à compter
+de sa notification
+En l'espèce, le recours du 31 octobre 2024 a été déposé en temps utile, par
+le plaignant qui a qualité pour recourir. Motivé conformément à l’art. 28 al.
+3 LVLP et à la jurisprudence y relative (TF 5A_118/2018 du 7 février 2018 consid. 4.1 et les
+références citées), il est recevable.
+Les déterminations de l’Office, de même que celles de S.________ – dès lors
+que ses intérêts de fait de créancière sont concernés (ATF 138 III 219) –
+sont recevables (art. 31 al. 1 LVLP).
+La réplique spontanée du recourant est également recevable (ATF 146 III 97 consid. 3.4.1 ;
+142 III 48 consid. 4.1.1).
+2.
+2.1
+Aux termes de l’art. 17 al. 1 LP, il peut
+être porté plainte auprès de l’autorité de surveillance lorsqu’une mesure
+de l’office est contraire à la loi ou ne paraît pas justifiée en fait. Par loi,
+il faut entendre non seulement la LP, mais toutes les ordonnances d’exécution rendues par
+le Conseil fédéral ou le Tribunal fédéral, et notamment l’ORFI (ordonnance
+du 23 avril 1920 sur la réalisation forcée des immeubles ; RS 281.42) (Gilliéron,
+Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite, n. 88 ad art. 17
+LP et les réf. cit.).
+2.2
+Les conditions de vente peuvent être attaquées, par la voie de la plainte, soit parce qu'elles
+n'ont pas été arrêtées d'après l'usage des lieux et ne permettraient pas d'escompter
+le résultat le plus avantageux, soit parce qu'elles violeraient une disposition explicite ou l'esprit
+de la loi (cf. art. 134 LP ; TF 5A_388/2024 du 1
+er
+octobre 2024 consid. 6.2.1 ; 5A_464/2023 du 31 août 2023 consid. 3.1.2 ; 5A_853/2014 du 23 mars
+2015 consid. 6.1.1).
+Sont légitimés à contester les conditions de vente ceux à qui un exemplaire de leur
+publication a été communiqué, conformément à l'art. 139 LP (TF 5A_388/2024 précité
+consid. 6.2.1 ; 7B.103/2001 du 4 juillet 2001 consid. 2a ; Gilliéron, op. cit., n. 20 ad art. 134
+LP et les références citées).
+2.3
+2.3.1
+La vente forcée d'immeubles peut avoir lieu
+après une poursuite par voie de saisie, après une poursuite en réalisation de gage, ensuite
+d'une faillite ou dans le cadre d'un concordat.
+Conformément à l'art. 134 al. 1 LP, applicable aux poursuites en réalisation de gage par
+renvoi de l'art. 156 al. 1 LP, l'office des poursuites arrête les conditions des enchères immobilières
+d'après l'usage des lieux et de la manière la plus avantageuse. Les conditions de vente, avec
+l'état des charges, constituent le fondement de toute vente aux enchères d'immeubles ; elles
+en déterminent les formalités, notamment les modalités de l'adjudication (ATF 128 III
+339 consid. 4a ; TF 5A_388/2024 du 1er octobre 2024 consid. 6.2.1 ; TF 5A_464/2023 du 31 août 2023
+consid. 3.1.2). Leur contenu est défini par les art. 135 LP et 45 ss ORFI et par les formulaires
+obligatoires ORFI 13 P et 13 F (TF 5A_388/2024 précité consid. 6.2.1 ; 5A_464/2023 précité
+consid. 3.1.2).
+Selon l'art. 125 al. 1 LP, la réalisation est faite aux enchères publiques. Elle est précédée
+d'une publication qui en indique le lieu, le jour et l'heure. L'al. 2 de l'art. 125 LP prévoit pour
+sa part que la publicité à donner à l'avis prévu par l'al. 1, de même que le
+mode, le lieu et le jour des enchères, sont déterminés par le préposé de la
+manière qu'il estime la plus favorable pour les intéressés, une insertion dans la feuille
+officielle n'étant pas de rigueur.
+2.3.2
+Selon les art. 126 et 142a LP, applicables par renvoi de l’art. 156 al. 1 LP, l'adjudication est
+subordonnée à l'observation du principe de l'offre suffisante, d'après lequel l'immeuble
+ne peut être adjugé que si l'offre la plus élevée est supérieure à la somme
+des créances garanties par gage inscrites à l'état des charges et préférables
+à celles du poursuivant, à savoir le créancier gagiste à la requête duquel la
+vente a été ordonnée (art. 53 al. 1 et 105 al. 1 ORFI ; TF 5A_244/2016 du 4 octobre
+2016 consid. 4.1 avec les citations).
+Sous cette condition, l'adjudication doit avoir lieu même si l'offre décisive est inférieure
+- fût-ce notablement - à la valeur d'estimation du gage (ou valeur vénale présumée
+en application de l’art. 9 ORFI); en effet, la loi actuelle n'exige plus que l'offre atteigne par
+surcroît le «
+prix
+d'estimation
+». Le préposé n'est
+pas habilité à refuser l'adjudication parce que la somme des créances préférables
+n'a pas été dépassée d'un montant déterminé ou qu'il estime que le prix
+proposé n'est pas assez élevé (TF 5A_244/2016 du 4 octobre 2016 consid. 4.1 ; 5A_904/2013
+du 19 mars 2014 consid. 2.2; 5A_237/2012 du 10 septembre 2012 consid. 4.4 avec les citations).
+2.3.3
+Autre est la question de l’insertion, dans les conditions de vente, d’une mise à prix
+afin de garantir une réalisation de l’immeuble «
+de
+la manière la plus avantageuse
+».
+C’est le lieu de rappeler qu’en vertu de l’art. 134 al. 1 LP, également applicable
+à la poursuite en réalisation de gage par renvoi de l’art. 156 al. 1 LP, il appartient
+à l’office d’arrêter les conditions des enchères d’après l’usage
+des lieux et de la manière la plus avantageuse, de façon à obtenir en particulier la somme
+la plus élevée possible, et qu’en la matière, celui-ci jouit d’une marge d’appréciation
+dont seul l’abus ou l’excès sont sanctionnés (TF 5A_529/2019 du 6 septembre 2019
+consid. 4.1.2 ; TF 5A_500/2017 du 27 septembre 2017 consid. 5.1 ; TF 5A_244/2016 du 4 octobre 2016 consid.
+4.2, publié in BlSchK 2017, p. 19 ; TF 7B.260/1999 du 12 janvier 1999 consid. 3).
+C’est dans ce cadre que la jurisprudence et la doctrine reconnaissent que, pour mettre à l’abri
+les intéressés «
+d’une
+réalisation à vil prix par surprise
+» qui peut résulter de l’application du principe décrit plus haut de l’offre
+suffisante ou de la couverture de l’art. 126 LP, le préposé peut fixer dans les conditions
+des enchères une mise à prix indicative (somme à partir de laquelle il espère recevoir
+des offres), voire une mise à prix (somme à partir de laquelle les offres sont recevables)
+(TF 5A_244/2016 du 4 octobre 2016 consid. 4.2 et les réf. cit.; Gilliéron, op. cit., n. 10
+ad. art. 126 LP). Se fondant sur les art. 53 al. 1 et 105 al. 1 ORFI, le Tribunal fédéral considère
+que l'immeuble ne peut être adjugé que si l'offre la plus élevée est supérieure
+à la somme des créances garanties par gage inscrites à l'état des charges et préférables
+à celles du poursuivant, à savoir le créancier gagiste à la requête duquel la
+vente a été ordonnée (TF 5A_244/2016 précité consid. 4.1).
+3.
+3.1
+En l’espèce, le recourant se trompe lorsqu’il prétend à ce que la valeur d’estimation
+du gage concorde avec celle du prix d’adjudication minimum : la jurisprudence rendue en la matière
+est claire à cet égard (cf. consid. 2.3.2 supra), le débiteur n’ayant aucun droit
+à ce que l’offre atteigne la valeur d’estimation.
+3.2
+Le recourant fait valoir la différence importante entre la valeur d’estimation et le prix
+minimum d’adjudication, qui l’exposerait, vu la valeur des prétentions des créanciers
+gagistes, à un acte de défaut de biens, ce qu’une vente à un prix supérieur,
+proche ou égal à la valeur d’estimation du bien, permettrait d’éviter.
+Il y lieu de donner acte au recourant de cette différence notable de valeur, se chiffrant à
+2'250'000 fr., entre l’estimation et le prix minimum d’adjudication. Toutefois, comme le
+relève l’Office, si le prix minimum d’adjudication était fixé à la valeur
+d’estimation, la vente, forcée et à date fixe faut-on le rappeler, n’aurait pratiquement
+aucune chance d’aboutir ; à cela s’ajoute le fait que le débiteur et son épouse
+vivent sur les lieux, ce qui est de nature à décourager un certain nombre d’acquéreurs
+potentiels face à l’incertitude sur la date effective de libération des lieux. Or, contre
+ces arguments, le recourant n’oppose aucun élément concret qui ferait apparaître
+l’appréciation de l’Office comme abusive ou arbitraire, malgré qu’il se prévaut
+d’un prix fixé de la sorte, sans toutefois le justifier autrement que par référence
+à l’estimation, qui n’est, on l’a vu, pas déterminante. D’ailleurs,
+la décision attaquée a tenu compte, pour admettre partiellement la plainte, du fait que le
+bien en question était d’un standing plus élevé que la moyenne, après avoir
+décrit ses caractéristiques essentielles. Or le recourant ne tente ni ne parvient à démontrer
+l’arbitraire de ces constatations.
+On rappellera qu’en la matière, tant l’Office que l’autorité de surveillance
+jouissent d’un large pouvoir d’appréciation et agissent dans le cadre d’une «
+Kann-Vorschrift
+» ne s’imposant pas en règle absolue. Or d’une part l’Office a déjà
+tenu compte de l’opportunité de fixer un prix minimum d’adjudication (et non seulement
+indicatif), mais l’autorité de surveillance a haussé ce prix de façon non négligeable,
+en prenant en compte les caractéristiques essentielles de l’immeuble. Ce faisant, il apparaît
+que l’Office a tenu compte des intérêts opposés du débiteur (à ne pas
+être soumis, après et malgré la vente, à un acte de défaut de biens) et des
+créanciers (à recouvrer leurs créances), dans une mesure toutefois nécessaire pour
+permettre l’avancement de la poursuite dans les meilleures conditions possible. En effet, si la
+vente n’aboutit pas au prix minimum d’adjudication, une nouvelle vente serait fixée,
+qui serait soumise au principe de l’offre suffisante.
+Le recourant échoue donc à démontrer un abus du pouvoir d’appréciation ou l’arbitraire
+du prix d’adjudication critiquée.
+4.
+En conclusion, le recours doit être rejeté
+et la décision confirmée.
+4.1
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP ; art. 61 al.
+2 let a et 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus en application
+de la LP ; RS 281.35]).
+4.2
+Le recourant requiert l’octroi de l’assistance judiciaire. Il y a lieu de rejeter cette requête,
+le recours étant manifestement dépourvu de chance de succès, la jurisprudence citée
+par l’autorité de surveillance de première instance excluant expressément la fixation
+du prix minimum d’adjudication au niveau de l’estimation de la valeur vénale (art. 29
+al. 3 Cst. [Constitution fédérale du 18 avril 1999 ; RS 101] a contrario).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+La demande d’assistance judiciaire est rejetée.
+IV.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Michel Dupuis, avocat (pour G.________),
+‑
+Me Alain Dubuis, avocat (pour S.________),
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+Le greffier :
