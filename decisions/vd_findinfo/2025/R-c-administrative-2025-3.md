@@ -1,0 +1,288 @@
+---
+decision_id: "vd_findinfo_R_c-administrative___2025___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-administrative / 2025 / 3"
+decided: "2025-04-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10302316"
+cites_law: ["switzerland/bund/acts/311.0/art-321.md", "switzerland/bund/acts/935.61/art-012.md", "switzerland/bund/acts/935.61/art-013.md", "switzerland/bund/acts/935.61/art-017.md"]
+---
+
+# VD Findinfo Réc-administrative / 2025 / 3
+
+## Regeste
+
+SAUVEGARDE DU SECRET, SECRET PROFESSIONNEL, HONORAIRES, AVOCAT, RECOUVREMENT | 321 CP, 46 LPAv
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative Réc-administrative / 2025 / 3
+Vaud Tribunal cantonal Cour administrative Réc-administrative / 2025 / 3
+Vaud Tribunal cantonal Cour administrative Réc-administrative / 2025 / 3
+
+SAUVEGARDE DU SECRET, SECRET PROFESSIONNEL, HONORAIRES, AVOCAT, RECOUVREMENT | 321 CP, 46 LPAv
+
+TRIBUNAL
+CANTONAL
+P64
+COUR
+ADMINISTRATIVE
+______________________________
+LEVÉE
+DU SECRET PROFESSIONNEL
+Séance
+du 28 avril 2025
+__________________
+Présidence
+de               Mme
+Bernel
+,
+présidente
+Juges
+:              M.
+Maillard et Mme Di Ferro Demierre
+Greffière
+:              Mme
+Saghbini
+*****
+Art.
+13 al. 1 LLCA ; 321 ch. 2 CP ; 36 al. 1 let. g RAOJ
+Vu la requête déposée le 28 février 2025 par Me X.________ auprès de la Présidente
+de la Cour de droit administratif et public du Tribunal cantonal, indiquant qu’elle a défendu
+Y.________ dans le cadre d’un appel déposé devant la Cour d’appel du Tribunal cantonal
+valaisan et qu’elle doit
+« agir
+en justice pour obtenir le paiement des honoraires qui lui sont dus »
+,
+de sorte qu’elle sollicite d’être déliée du secret professionnel dans la mesure
+nécessaire pour faire valoir son droit à des honoraires et, à cette fin, justifier les
+opérations qu’elle a effectuées dans le cadre de son mandat,
+vu le courrier du 1
+er
+mars
+2025 de Y.________ exposant qu’il ne voit pas pourquoi il devrait payer son ancienne avocate, dès
+lors que Me X.________ avait fait preuve
+« d’incompétence
+rare »
+, que
+« sa
+plaidoirie n’a servi à rien »
+et qu’elle lui a fait
+« perdre
+de l’argent équivalent au solde des honoraires réclamés »
+,
+vu la transmission des écrits précités par la Cour de droit administratif et public à
+la Cour administrative le 4 mars 2025,
+vu la lettre du 10 mars 2025 de la Présidente de la Cour administrative impartissant à Me X.________
+un délai pour compléter sa requête en vue d’établir les efforts déployés
+pour percevoir ses honoraires,
+vu le courrier du 17 mars 2025 de Me X.________ et les pièces transmises,
+vu les autres pièces au dossier ;
+attendu que l'avocat qui intervient en recouvrement de ses honoraires agit dans le cadre de son activité
+professionnelle et est soumis à la LLCA ([Loi fédérale sur la libre circulation des avocats
+du 23 juin 2000 ; RS 935.61] ; TF 2C_579/2023 du 29 août 2024 consid. 6.2)
+que selon l'art. 13 al. 1 LLCA, l'avocat est soumis au secret professionnel pour toutes les affaires
+qui lui sont confiées par ses clients dans l'exercice de sa profession, cette obligation n'étant
+pas limitée dans le temps et applicable à l'égard des tiers,
+que la violation du secret professionnel est réprimée par l'art. 321 CP (Code pénal suisse
+du 21 décembre 1937 ; RS 311.0), le chiffre 2 de cette disposition prévoyant toutefois
+que la révélation du secret ne sera pas punissable si elle a été faite avec le consentement
+de l'intéressé – lequel peut être exprès, tacite ou encore résulter d'actes
+concluants – ou si, sur la proposition du détenteur du secret, l'autorité supérieure
+ou l'autorité de surveillance l'a autorisée par écrit (Dupuis
+et
+al., Petit commentaire du Code pénal, 2
+e
+éd., Bâle 2017, n. 42 ad art. 321 CP et les références citées).
+qu’en vertu de l'art. 36 al. 1 let. g RAOJ (règlement du 13 novembre 2007 d'administration
+de l'ordre judiciaire ; BLV 173.01.3), la Cour administrative est ainsi compétente pour délier
+un avocat du secret professionnel,
+que la requête du 28 février 2024, tendant à délier Me X.________ (ci-après :
+la requérante) du secret professionnel découlant du mandat qui l’a liée à Y.________
+(ci-après : l’intimé), a été déposée auprès de la Cour
+de droit administratif et public, qui l’a transmise d’office à la Cour administrative
+comme objet de sa compétence,
+qu’elle est donc recevable,
+qu’au demeurant, le client, maître du secret, a indiqué implicitement s’opposer
+à cette requête ;
+attendu que la violation du secret professionnel de l'avocat est passible de sanctions tant pénales
+(art. 321 ch. 1 CP) que disciplinaires (art. 17 LLCA), à moins de faits justificatifs remédiant,
+en droit pénal, à l'illicéité, tel que le consentement du maitre du secret ou l'autorisation
+écrite de l'autorité supérieure ou de l'autorité de surveillance obtenue sur demande
+du détenteur du secret,
+que, dans les éléments couverts par le secret professionnel, figure l'existence d'un mandat
+entre l'avocat et son client, de sorte que l'avocat doit obtenir la levée préalable de son
+secret professionnel pour procéder en justice afin d'obtenir le paiement de ses honoraires (ATF
+150 II 300 consid. 5.2 ; TF 2C_101/2019 du 18 février 2019 consid. 4.1 ; TF 2C_439/2017
+du 16 mai 2018 consid. 3.2 ; TF 2C_704/2016 du 6 janvier 2017 consid. 3.1),
+que la levée du secret professionnel doit d'abord être demandée au client et si celui-ci
+refuse, l'autorité de surveillance doit statuer (ATF 142 II 307 consid. 4.3 ; TF 2C_101/2019
+du 18 février 2019 consid. 4.1 ; TF 2C_8/2019 du
+1
+er
+février
+2019 consid. 2.1 ; TF 2C_439/2017 du 16 mai 2018 consid. 3.2 et les références citées),
+que la levée du secret professionnel n'a aucune conséquence matérielle dès lors qu’elle
+permet seulement à celui qui l'obtient de faire valoir ses droits en justice sans violer le secret
+protégé par les règles disciplinaires ou le code pénal et qu’elle ne préjuge
+donc en rien d'un procès civil ultérieur (TF 2C_1045/2021 du 29 avril 2022 consid. 4.2 et les
+références citées),
+que la seule conséquence de la libération, qui ne porte que sur les informations strictement
+nécessaires à la procédure, est qu'elle ne permet pas au mandant d'invoquer le droit à
+la préservation du secret dans ce contexte (
+ibidem
+),
+qu’il faut apprécier sur la base d'une pesée de l'ensemble des intérêts en
+présence si l'autorité de surveillance doit accorder la levée du secret, l’autorisation
+ne devant être accordée que si les intérêts publics ou privés à la divulgation
+l’emportent clairement (ATF 142 II 307 consid. 4.3.3),
+que lors de cette pesée des intérêts, il convient de prendre en considération qu'un
+avocat a ordinairement un intérêt digne de protection à la levée du secret en vue
+du recouvrement de ses honoraires, cet intérêt s'opposant en principe à l'intérêt
+institutionnel au maintien de la confidentialité et à l'intérêt individuel du client,
+selon les circonstances, à tenir le mandat et toutes les informations qui s'y rattachent secrets
+(ATF 142 II 307 consid. 4.3.3 et les références citées ; TF 2C_101/2019 du 18
+février 2019 consid. 4.3; 2C_8/2019 du 1
+er
+février
+2019 consid. 2.3 ; TF 2C_439/2017 du 16 mai 2018 consid. 3.4),
+que dans la procédure de levée du secret, la mise en évidence de l'intérêt du
+client à s'y opposer ne doit pas être soumise à des exigences excessivement élevées
+car la protection conférée par l'art. 321 ch. 1 CP serait éludée par une véritable
+obligation d'alléguer et de prouver (ATF 142 II 307 consid. 4.3.3 et les références
+citées ; TF 2C_439/2017 du 16 mai 2018 consid. 3.4 et les références citées),
+qu’en outre, toujours dans la pesée des intérêts antagonistes en rapport avec une
+créance d'honoraires, il y a aussi lieu de prendre en considération que l'avocat peut en principe
+se faire verser une provision par le client, couvrant le coût prévisible de ses services, et
+que dans la mesure où le mandat revêt pour lui une signification économique importante,
+l'avocat peut même être tenu d'exiger cette provision au regard du devoir d'indépendance
+imposé par l'art. 12 let. b LLCA (TF 2C_1045/2021 du 29 avril 2022 consid. 4.3),
+qu’hormis les situations où il est d'emblée exclu de réclamer une provision, par
+exemple lorsque l'avocat est attribué au client en qualité de conseil d'office et gratuit,
+il incombe à l'avocat qui sollicite d'être libéré du secret de démontrer pourquoi
+il ne lui était pas possible de faire couvrir les coûts prévisibles par le versement d'une
+provision (ATF 142 II 307 consid. 4.3.3 et les références citées ; TF 2C_1045/2021
+du 29 avril 2022 consid. 4.3),
+que sous l'angle de la levée du secret professionnel, un acompte perçu par l'avocat doit être
+traité de la même manière qu'une provision car il s'agit de savoir, dans le cadre de la
+pesée des intérêts, si l'avocat a fait des efforts pour recouvrer les honoraires pendant
+l'exécution du mandat ou s'il est resté totalement inactif (TF 2C_1045/2021 du 29 avril
+2022 consid. 4.3),
+qu’en l’espèce, il ressort des pièces au dossier que la requérante a demandé
+un provision de 5'000 fr. le 11 mars 2024, laquelle a été payée par l’intimé
+le 15 mars suivant,
+qu’une nouvelle demande de provision de 3'000 fr. a été adressée à l’intéressé,
+lequel a versé ce montant le 23 avril 2024,
+que, dans l’intervalle, soit le 20 avril 2024, l’avocate a établi une note d’honoraires
+et de débours intermédiaire n° [...], d’un montant total de 5'230 fr. 35 TTC, couvert
+par les provisions encaissées,
+qu’elle a adressé le 4 juin 2024 à son mandant une note d’honoraires et de débours
+intermédiaire n° [...] d’un montant total de 1'307 fr. 60 TTC, également couvert
+par le solde des provisions,
+qu’ensuite, une nouvelle note d’honoraires et de débours intermédiaire n°
+[...] a été envoyée le 24 septembre 2024 au client, pour un montant total de 8'008 fr.
+90 TTC, partiellement couvert par le solde des provisions, la somme à verser sous
+« 30
+jours net »
+s’élevant à
+6'545 fr. 85 TTC,
+qu’enfin, le 14 octobre 2024, à la suite de la résiliation du mandat, la requérante
+a adressé sa note d’honoraires et de débours finale n° [...] sollicitant le versement
+d’un montant de 6'669 fr. 45 TTC – comprenant des opérations supplémentaires pour
+une somme de 122 fr. 60 TTC –, payable sous
+« 30 jours net »
+,
+que le 22 novembre 2024, l’intimé a versé la somme de 200 fr., ramenant la créance
+à 6'469 fr. 45,
+que par ailleurs, la requérante allègue ne pas avoir entrepris d’autres démarches
+de recouvrement dès lors que l’intimé lui avait indiqué à plusieurs reprises
+qu’il ne paierait pas ses honoraires, lui ayant notamment retourné, par envoi du 4 octobre
+2024, la facture du 24 septembre 2024
+« déchirée
+en petits morceaux »,
+qu’au vu de ce qui précède, on peut retenir que des notes d'honoraires ont régulièrement
+été adressées par l’avocate à son client entre mars 2024 et octobre 2024, notes
+qui ont été partiellement réglées par celui-ci au moyen des provisions versées,
+qu’ainsi l’avocate n’a pas attendu la fin de son mandat pour procéder à une
+facturation de ses honoraires,
+qu’il apparaît de plus que l’avocate a adressé le 24 septembre 2024 une facture,
+que le client a refusé d’acquitter en la retournant le 4 octobre 2024 déchirée et
+qu’à réception de la note d’honoraires et de débours finale le 14 octobre
+2024, le mandant s’est encore acquitté de 200 fr. le 22 novembre 2024,
+que depuis lors, l’avocate n’a pas entrepris d’autres démarches mais a demandé
+la levée du secret professionnel en vue d’agir en recouvrement arguant que l’intimé
+avait clairement indiqué qu’il ne paierait pas le solde des honoraires,
+que si l’avocate n’a certes pas émis de rappel, ni de sommation, ni même proposé
+un plan de paiement, on constate toutefois que l’intimé est fermement réfractaire à
+acquitter son dû, l’ayant manifesté par un acte d’opposition marqué en ce
+sens qu’il a déchiré la note d’honoraires et l’a renvoyée à son
+ancienne mandataire,
+que dans son envoi du 1
+er
+mars
+2024 adressé au tribunal, il a également affirmé qu’il s’opposait au paiement
+du solde dû, considérant en substance que l’avocate aurait été incompétente
+et lui aurait fait perdre de l’argent,
+que cela laisse penser que la position de l’intimé demeure inflexible, malgré le –
+modique – paiement intervenu le 22 novembre 2024, au point que tout rappel ou sommation resterait
+certainement superflu,
+qu’on peut donc considérer que l’avocate a établi avoir fourni les efforts en vue
+de percevoir ses honoraires pendant l'exécution du mandat et qu’elle n’est pas restée
+totalement inactive,
+que son intérêt prévaut sur celui du client,
+que l’intimé n’a en particulier pas fait valoir un intérêt individuel concret
+au maintien du secret, qui primerait ou serait contraire à l'intérêt de l'avocat à
+percevoir ses honoraires ou à la levée du secret professionnel,
+que l'argumentation de l’intimé portant sur la négligence dont aurait fait preuve l’avocate
+dans l'exécution de son mandat ne lui est d'aucun secours, cette critique relevant de la procédure
+au fond relative au paiement et n’étant pas pertinente dans le cadre de la présente procédure,
+qu’au demeurant, la levée du secret professionnel ne préjuge en rien d'un procès
+civil ultérieur,
+qu’enfin, il est précisé qu’en tant que l’intimé se plaint de n’avoir
+pas le détail des opérations effectuées par l’avocate, il peut en faire la demande
+en tout temps auprès de celle-ci (cf. art. 12 let. 1 LLCA ; TF 2C_314/2020 du 3 juillet 2020
+consid. 4.3),
+que compte tenu de l’ensemble des circonstances de l’espèce, l'intérêt de
+la requérante à la levée du secret doit être considéré comme étant
+prépondérant,
+que partant, la requête doit être admise,
+que la levée du secret professionnel ne sera accordée à Me X.________ que dans la stricte
+mesure nécessaire pour faire valoir sa créance d’honoraires à l’encontre de
+Y.________ ;
+attendu que la présente décision sera rendue sans frais,
+que bien qu’obtenant gain de cause, il n’y a pas lieu à l’allocation de dépens,
+Me X.________ ayant agi dans sa propre cause dans une mesure n’excédant pas ce qui est exigible
+de tout justiciable (cf. JdT 2014 III 213).
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La requête du 28 février 2025 est admise.
+II.
+Me X.________ est déliée du secret professionnel dans la stricte mesure nécessaire pour
+faire valoir sa créance d’honoraires à l’encontre de Y.________.
+III.
+La décision, rendue sans frais, ni dépens, est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+-
+Me X.________,
+-
+M. Y.________,
+La présente décision peut faire l’objet d’un recours à la Cour de droit administratif
+et public du Tribunal cantonal dans un délai de trente jours dès sa notification en déposant
+au greffe de ce tribunal un acte de recours motivé en deux exemplaires, désignant la décision
+attaquée et contenant leurs conclusions. Le recours est exercé conformément à la
+loi sur la procédure administrative (art. 92 ss LPA-VD [Loi sur la procédure
+administrative du 28 octobre 2008 ; BLV 173.36]).
+La greffière :
