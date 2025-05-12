@@ -1,0 +1,347 @@
+---
+decision_id: "vd_findinfo_Faillite___2025___12"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2025 / 12"
+decided: "2025-05-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10338199"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-407f.md"]
+---
+
+# VD Findinfo Faillite / 2025 / 12
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2025 / 12
+
+TRIBUNAL
+CANTONAL
+FW24.022640-241187
+43
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+12 mai 2025
+__________________
+Composition
+:               M.
+HACK, président
+Mme
+Byrde, juge, et M. Sauterel, juge suppléant
+Greffier
+:
+Mme
+*****
+Art.
+148 al. 1 et
+149 CPC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+L.________
+contre la décision rendue le 27 août 2024 par la
+Présidente
+du Tribunal d’arron-dissement de Lausanne dans la cause opposant la recourante à
+T.________
+.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 23 mai 2024,
+T.________
+en liquidation a adressé à la Présidente du Tribunal d’arrondissement de Lausanne
+une requête de faillite sans poursuite préalable dirigée contre L.________.
+Le 27 mai 2024, la requête a été adressée pour notification à L.________ et
+les parties ont été citées à une audience fixée au 27 juin 2024 à 11 heures.
+Le jour en question, à 8h36, le conseil de L.________ a requis par e-fax le report de l’audience
+en invoquant l’engagement de pourparlers entre les parties. Le conseil de T.________ en liquidation
+s’est opposé au renvoi de l’audience, laquelle a eu lieu en présence des parties,
+assistées de leur conseil respectif. Le procès-verbal de l’audience, dont les parties
+ont immédiatement reçu une copie, a la teneur suivante :
+«
+D’entrée de cause, les parties sollicitent la suspension de la présente cause afin de
+finaliser un accord.
+La
+Présidente fait droit à cette requête et informe les parties que la cause est suspendue
+jusqu’au
+4
+juillet 2024
+. Sans nouvelle de la part de la requérante
+d’ici cette date, cette dernière sera interpellée afin d’indiquer si la requête
+de faillite sans poursuite préalable peut être retirée, si la suspension doit être
+prolongée ou s’il convient de statuer en l’état.
+Copie du présent procès-verbal sera remise à l’issue de l’audience aux parties.
+Sans
+autre opération ni lecture du procès-verbal demandée, les débats sont clos et l’audience
+est levée à 11 heures 12.  ».
+Par lettre du 4 juillet 2024 adressée à la Présidente, T.________ en liquidation a indiqué
+que L.________ n’avait pas res-pecté la convention passée et a requis la reprise de la
+procédure afin qu’il soit statué en l’état. Une copie de cette lettre a été
+adressée par le greffe à L.________ le lendemain, 5 juillet 2024.
+b)
+Par jugement rendu le 9 juillet 2024, la Présidente du Tribunal d’arrondissement de Lausanne
+a admis la requête de faillite sans poursuite préalable formée le 23 mai 2024 par T.________
+en liquidation à l’encontre de L.________ (I), a prononcé le mardi 9 juillet 2024, à
+10 heures, la faillite sans poursuite préalable de
+L.________
+(II), a mis les frais judiciaires, arrêtés à 300 fr., à la charge de L.________ (III),
+a dit que
+L.________
+rembourserait à
+T.________
+en liquidation la somme de 300 fr. à titre de son avance de frais judiciaires (IV) et a dit
+que L.________ verserait la somme de 500 fr. à T.________ en liquidation à titre de dépens
+(V).
+c)
+Par déterminations du 9 juillet 2024 envoyées par courrier et par e-fax à 15h57, L.________
+a conclu, avec suite de frais et dépens, au rejet de la requête de faillite. Elle faisait valoir,
+en substance, que T.________ en liquidation ne disposait pas de créance à son égard et
+qu’elle n’était pas en situation de suspension de paiements.
+2.
+a)
+Par lettre du 10 juillet 2024,
+L.________
+a requis de la Présidente du Tribunal d’arrondissement de Lausanne la restitution du délai
+de déterminations sur la requête de faillite, partant l’annulation du jugement de faillite,
+et l’octroi d’un effet suspensif, notamment pour éviter toute publication de la faillite.
+Le 11 juillet 2023, la Présidente a accordé un effet suspensif à la requête en restitution
+du délai.
+Par déterminations du 26 juillet 2024, T.________ en liquidation s’est opposée à
+la restitution de délai.
+Par réplique spontanée du 9 août 2024,
+L.________
+a confirmé sa conclusion en restitution de délai, en relevant qu’elle n’avait commis
+aucune faute et que son droit d’être entendue et son droit à la réplique avaient
+été violés.
+Par duplique spontanée du 26 août 2024, T.________ en liquidation a notamment contesté
+toute violation du droit d’être entendue de L.________.
+b)
+Par décision du 27 août 2024, la Présidente du Tribunal d’arron-dissement de Lausanne
+a rejeté la requête
+de restitution de délai déposée le 9 juillet 2024 (I), a révoqué l’effet
+suspensif accordé le 11 juillet 2024 (II) a dit que le prononcé de faillite rendu le 9 juillet
+2024 contre la société L.________ prenait effet le 27 août 2024, à 10 heures (III),
+a mis les fais de l’audience de faillite, par 200 fr., et ceux de la procédure de restitution
+de délai, par 200 fr., à la charge de L.________ (IV) et a déclaré la décision
+définitive sur la question de la restitution de délai, nonobstant recours (V).
+La première juge a considéré, en résumé, que les parties avaient comparu à
+l’audience du 27 juin 2024, assistées de leur conseil respectif, et que L.________ avait donc
+pu se déterminer oralement sur la requête de faillite lors de ladite audience, de sorte qu’il
+pouvait être statué sans nouvelles déterminations de la prénommée.
+3.
+Par acte déposé le 9 septembre 2024, L.________ a recouru contre cette décision, concluant,
+avec suite de frais et dépens, à l’admis-sion de sa requête en restitution de délai
+du 9 juillet 2024 et à l’annulation du prononcé de faillite.
+Par réponse « anticipée » du 11 septembre 2024, l’intimée a,
+notam-ment, conclu à l’irrecevabilité du recours, avec suite de frais et dépens.
+Par décision du 11 septembre 2024, le Président de la Cour de céans a prononcé à
+titre superprovisionnel l’effet suspensif requis par la recourante dans son acte du 9 septembre
+2024.
+Le 23 septembre 2024, après avoir recueilli les déterminations de l’intimée, le
+Président de la Cour de céans a rejeté la requête d’effet suspensif, a révoqué
+celui accordé par décision superprovisionnelle du 11 septembre 2024 et a dit que la faillite
+de L.________ prenait effet, vu l’effet suspensif accordé, le 25 septembre 2024, à 16
+heures.
+4.
+Par acte déposé le 11 juillet 2024, L.________ a recouru contre le jugement de faillite du
+9 juillet 2024. Elle a conclu, avec suite de frais et dépens, à la réforme du jugement
+en ce sens que la requête de faillite sans poursuite préalable est rejetée et le prononcé
+de faillite annulé. Ce recours, traité sous référence FW24.022640-240927, fait l’objet
+d’un arrêt séparé de la Cour de céans (CPF, 12 mai 2025/42).
+En droit
+:
+I.
+Dans sa teneur au 31 décembre 2024, l’art. 149 CPC (Code de procé-dure civile
+; RS 272) disposait que le tribunal donne à la partie adverse l’occasion de s’exprimer
+et statue définitivement sur la restitution. Le nouvel art. 149 CPC, entré en vigueur le 1
+er
+janvier 2025,
+d’application
+immédiate conformément à l’art. 407f
+CPC
+,
+prévoit que
+l
+e
+tribunal donne à la partie adverse l’occasion de s’exprimer et statue définitivement
+sur la restitution, à moins que le refus de restitution n’entraîne la perte définitive
+du droit.
+Cette modification va dans le sens de la jurisprudence du Tribunal fédé-ral, rendue sous l’égide
+de l’ancien art. 149 CPC, selon lequel un refus de restitution de délai ne peut pas être
+imposé à la partie défaillante lorsque le refus entraîne la perte définitive
+d’une prétention ou de la possibilité de faire valoir un droit (ATF 139 III 478 consid.
+1 et 6 ; TF 4A_260/2016 du 5 août 2016 consid. 1.1 ; TF 5A_964/ 2014 du 2 avril 2015 consid.
+2.3). Selon la novelle, dans un tel cas, la décision pourra faire l’objet d’un recours
+(Message relatif à la modification du code de procé-dure civile suisse (Amélioration de
+la praticabilité et de l'application du droit ; FF 2020 2607 ss, spéc. p. 2656).
+Le Tribunal fédéral avait retenu qu’il
+n’y
+a en tout cas pas de recours contre l’octroi d’une restitution de délai, qui n’est
+jamais une décision finale en tant qu’elle permet l’accomplissement d’un acte
+de procédure par la partie défaillante dans le délai restitué, ou la tenue d’une
+nouvelle audience, et que la décision de restitution pourra donc être attaquée avec la
+décision finale intervenant plus tard ; qu’en revanche, le refus de restitution est une
+décision finale lorsque le tribunal de première instance a déjà clos la procédure
+et que la requête de la partie défaillante tend à la faire rouvrir, le refus de restitution
+entraînant alors la perte définitive de l’action ou du moyen de l’action, et qu’en
+pareil cas, l’exclusion de toute voie de recours n’est pas opposable à la partie requérante
+(ATF 139 III 478 consid. 6.3 ; Tappy,
+op.
+cit.
+, n. 13 et 13a ad art. 149
+CPC). En d’autres termes, la voie du recours est ouverte contre la décision déclarant
+irrecevable ou rejetant la requête de restitu-tion de délai en vue d’obtenir la tenue
+d’une nouvelle audience de faillite (cf. CPF
+5
+mars 2018/26).
+b)
+En
+l’espèce, si la requête de restitution du
+10
+juillet 2024
+avait été
+admise, la recourante aurait obtenu un délai pour se déterminer sur la requête de faillite
+et les conditions de celle-ci auraient été réexaminées. En ce sens,
+la
+décision du 27 août 2024 rejetant la requête de restitution de délai est
+assimilable
+à une déci-sion finale. On observe toutefois qu’en rejetant la requête de restitution,
+la première juge n’a nullement empêché
+L.________
+de recourir contre le jugement
+de faillite – la société a du reste fait usage de cette voie de droit – si bien
+que la procédure n’est pas close et l’intéressée n’a pas perdu définitivement
+son droit à ce que sa faillite ne soit pas prononcée si les conditions légales n’en
+sont pas remplies. Il s’ensuit que la recevabilité du recours est douteuse. Cette question
+peut toutefois rester indécise au vu des considérants qui suivent.
+II.
+a)
+Selon
+l’art. 148 al. 1 CPC, le tribunal peut accorder un délai supplé-mentaire ou citer les
+parties à une nouvelle audience lorsque la partie défaillante en fait la demande et rend vraisemblable
+que le défaut ne lui est pas imputable ou n’est imputable qu’à une faute légère.
+La requête doit être présentée dans les dix jours qui suivent celui où la cause
+de défaut a disparu (art. 148 al. 2 CPC). Le requérant supporte le fardeau de la preuve, au
+degré de la vraisemblance, des conditions matérielles d’application de l’art. 148
+CPC. Il doit donc motiver sa requête de restitu-tion en indiquant l’empêchement et produire
+des moyens de preuve disponibles (TF 5A_280/2020 du 8 juillet 2020 consid. 3.1.1 et l’arrêt
+cité).
+La faute légère
+vise tout comportement ou manquement qui, sans être acceptable ou excusable, n'est pas particulièrement
+répréhensible, tandis que la faute grave suppose la violation de règles de prudence élémentaires
+qui s'imposent impérieusement à toute personne (TF 5A_280/2020 précité consid. 3.1.1
+et l’arrêt cité ; TF 5A_180/2019 du 12 juin 2019 consid. 3.1).
+b)
+Le
+droit d'être entendu est une garantie constitutionnelle de carac-tère formel, dont la violation
+entraîne en principe l'annulation de la décision attaquée, indépendamment des chances
+de succès du recours au fond (ATF 144 I 11 consid. 5.3 ; TF 5A_804/2022 du 24 février 2023
+consid. 3.1.2). Toutefois une violation du droit d’être entendu qui n’est pas particulièrement
+grave peut exceptionnellement être guérie si l’intéressé peut s’exprimer
+devant une instance de recours ayant un libre pouvoir d’examen en fait comme en droit (TF 4D_76/2020
+du 2 juin 2021 consid. 4.2, non publié in ATF 147 III 440 ; ATF 142 II 218 consid. 2.8.1).
+c)
+En l’espèce, force est d’admettre que la recourante n’est pas « défaillante »
+au sens de l’art. 148 al. 1 CPC. Elle a en effet comparu à l’audience du 27 juin 2024,
+avec l’assistance d’un avocat, et avait, à cette occasion, la possibi-lité de se
+déterminer sur la requête de faillite dirigée contre elle. Il ressort du procès-verbal
+tenu lors de cette audience que «
+D’entrée
+de cause, les parties [ont] sollicit[é] la suspension de la présente cause afin de finaliser
+un accord »
+et
+que
+« La Présidente
+[a] fait droit à cette requête et [a] inform[é] les parties que la cause [était]
+suspendue jusqu’au
+4
+juillet 2024
+».
+Il
+a également été précisé que
+« Sans
+nouvelle de la part de la requérante d’ici cette date, cette dernière sera interpellée
+afin d’indiquer si la requête de faillite sans poursuite préalable peut être retirée,
+si la suspension doit être prolongée ou s’il convient de statuer en l’état.
+».
+La recourante, qui a reçu une copie de ce procès-verbal à l’issue de l’audience
+et en connaissait donc parfaitement la teneur, n’a pas sollicité la possi-bilité de se
+déterminer à l’issue de la suspension convenue au cas où la procédure devait
+être reprise et un jugement rendu. Cette omission lui est imputable. Aucun délai n’ayant
+été sollicité ou accordé, il n’y a en réalité rien à restituer.
+Il découle de ce qui précède que le droit d’être entendue de la recou-rante
+n’a nullement été violé et que sa requête de restitution de délai
+n’avait
+aucun objet
+.
+III.
+Le recours doit donc être rejeté, dans
+la mesure où il est recevable.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., sont mis à la
+charge de la recourante, qui succombe (art. 106 al. 1 CPC).
+La recourante versera en outre à l’intimée des dépens qu’il convient de fixer,
+compte tenu de la valeur litigieuse (856'000 fr.) et de l’ampleur du travail fourni par son avocat
+(art. 3 al. 2 TDC [tarif
+du
+23 novembre 2010 des dépens en matière civile ; BLV 270.11.6]
+),
+à 1'500 fr.
+en application
+de l’art. 8 TDC, qui prévoit, pour un avocat, en procédure de recours, une fourchette
+de
+1'500 fr. à 8'000 fr. pour
+une
+valeur litigieuse entre
+500'001
+fr. et 1’000'000 francs.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté, dans la mesure où il est recevable.
+II.
+La décision est confirmée.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante L.________ en liquidation.
+IV.
+La recourante L.________ en liquidation doit verser à l’intimée T.________ en liquidation
+la somme de 1'800 francs (mille huit cents francs) à titre de dépens et de restitution d’avance
+de frais de deuxième instance.
+V.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+-
+Me Laurent Roulier, avocat (pour L.________ en liquidation),
+-
+Me Stéphane Voisard, avocat (pour T.________ en liquidation),
+-
+M. le Préposé à l’Office des faillites de l’arrondissement de Lausanne,
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Préposé au Registre du commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d’arrondissement de Lausanne.
+La greffière :
