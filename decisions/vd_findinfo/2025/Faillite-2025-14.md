@@ -1,0 +1,300 @@
+---
+decision_id: "vd_findinfo_Faillite___2025___14"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2025 / 14"
+decided: "2025-05-26"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10348021"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-190.md"]
+---
+
+# VD Findinfo Faillite / 2025 / 14
+
+## Regeste
+
+RESTITUTION DU DÉLAI, FAILLITE SANS POURSUITE PRÉALABLE, VOIE DE DROIT, NOUVEAU MOYEN DE PREUVE | 148 al. 1 CPC, 148 CPC (CH), 149 CPC (CH), 326 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2025 / 14
+
+RESTITUTION DU DÉLAI, FAILLITE SANS POURSUITE PRÉALABLE, VOIE DE DROIT, NOUVEAU MOYEN DE PREUVE | 148 al. 1 CPC, 148 CPC (CH), 149 CPC (CH), 326 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FW24.051721-250300
+58
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+26 mai 2025
+_________________
+Composition
+:               M.
+Hack
+,
+président
+M.
+Maillard et Mme Cherpillod, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+148, 149, 326 al. 1 CPC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+Z.________
+Sàrl
+, à [...], contre la décision
+rendue le 28 février 2025 par la Présidente du Tribunal d’arrondissement de la Broye
+et du Nord vaudois rejetant la requête de restitution de délai dans le cadre de la faillite
+sans poursuite préalable prononcée à la réquisition d’
+M.________
+Sàrl
+, à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Par acte du 7 novembre 2024, M.________ Sàrl a requis du Président du Tribunal d’arrondissement
+de la Broye et du Nord vaudois qu’il prononce en application de l’art. 190 al. 1 ch. 2 LP
+(loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1),
+la faillite sans poursuite préalable de Z.________ Sàrl.
+2.
+Par courrier du 11 décembre 2024 Z.________
+Sàrl a demandé le report de l’audience appointée au 8 janvier 2025, pour le motif
+que son administrateur serait à l’étranger à cette date pour y célébrer
+une fête religieuse.
+Par avis du 12 décembre 2024, la présidente a informé Z.________ Sàrl que l’audience
+du 8 janvier 2025 était maintenue.
+Z.________ Sàrl a fait défaut à l’audience du 8 janvier 2025.
+3.
+Par décision du 10 janvier 2025, la Présidente du Tribunal d’arrondissement de la Broye
+et du Nord vaudois, statuant en tant qu’autorité de première instance en matière
+sommaire de poursuites, a notamment admis la requête d’M.________ Sàrl (I) et a prononcé
+la faillite sans poursuite préalable de Z.________ Sàrl avec effet au 10 janvier 2025 à
+9 heures (II). Elle a notamment constaté que la requérante était au bénéfice
+d’une créance de 50'000 fr. résultant d’un contrat de prêt qui faisait l’objet
+d’une poursuite en cours et qu’il ressortait de l’extrait du registre des poursuites
+que la faillie était en état de cessation de paiements.
+4.
+Par acte du 20 janvier 2025, la faillie a demandé
+à la Présidente du Tribunal d’arrondissement de la Broye et du Nord vaudois, avec suite
+de frais et dépens, une restitution de délai, l’appointement d’une nouvelle audience
+de faillite et  l’annulation de la décision du 10 janvier 2025. Elle a requis que l’effet
+suspensif soit accordé à la demande.
+Par décision du 22 janvier 2025, la présidente a prononcé l’effet suspensif en ce
+sens que les effets de la procédure de faillite ont été suspendus jusqu’à droit
+connu sur la demande de restitution.
+Dans ses déterminations du 3 février 2025, M.________ Sàrl a conclu, avec suite de frais
+et dépens, au rejet de la demande de restitution de délai.
+Dans sa réplique du 14 février 2025, Z.________ Sàrl a persisté dans ses conclusions.
+5.
+Par décision du 28 février 2025, notifié
+à la requérante le 3 mars 2025, la Présidente du Tribunal d’arrondissement de La
+Broye et du Nord vaudois a rejeté la demande de restitution de délai (I), a confirmé la
+faillite de Z.________ Sàrl, dite faillite prenant effet le 28 février 2025 à 9 heures
+(II) et a mis les frais judiciaires, arrêtés à 400 fr., à la charge de la requérante
+(III). En substance, la présidente a constaté dans la partie fait de la décision que la
+demande de renvoi de l’audience du 8 janvier 2025 avait été rejetée par courrier
+du 12 décembre 2024 et a considéré que le défaut de la requérante lui était
+imputable à faute, car son administrateur ne pouvait de bonne foi partir de l’idée que
+sa demande de renvoi de l’audience était admise.
+6.
+Par acte du 13 mars 2025, Z.________ Sàrl
+(ci-après : la recourante) a recouru contre cette décision en concluant, à titre
+préalable, à l’octroi de l’effet suspensif, principalement à la réforme
+de la décision en ce sens que sa demande de restitution de délai est admise et à l’annulation
+du prononcé de faillite, subsidiairement, au renvoi de la cause à la première juge pour
+nouvelle décision dans le sens des considérants à intervenir. Elle a produit un bordereau
+de quatre pièces.
+Par décision du 17 mars 2025, le président de la cour de céans a admis la requête
+d’effet suspensif en ce sens que les effets de la faillite sont suspendus.
+En droit
+:
+I.
+a)
+Selon l’art. 149 CPC (Code de procédure
+civile du 19 décembre 2008 ; RS 272), le tribunal statue définitivement sur la restitution,
+ce qui exclut en principe tout recours contre sa décision (Tappy,
+in
+Bohnet
+et alii
+(éd.), Commentaire romand, Code de procédure civile [ci-après : CR-CPC], 2
+e
+éd., 2019, n. 12
+ad
+art. 149 CPC). Il n’y a en tout cas pas de recours contre l’octroi d’une restitution
+de délai, qui n’est pas une décision finale en tant qu’elle permet l’accomplissement
+d’un acte de procédure par la partie défaillante dans le délai restitué, ou
+la tenue d’une nouvelle audience ; la décision de restitution pourra donc être attaquée
+avec la décision finale intervenant plus tard. Le refus de restitution, en revanche, est une décision
+finale lorsque le tribunal de première instance a déjà clos la procédure et que la
+requête de la partie défaillante tend à la faire rouvrir ; le refus de restitution entraîne
+alors la perte définitive de l’action ou du moyen de l’action. En pareil cas, l’exclusion
+de toute voie de recours n’est pas opposable à la partie requérante (ATF 139 III 478
+consid. 6.3 ; Tappy,
+op. cit.
+,
+n. 13 et 13a ad art. 149 CPC). En d’autres termes, la voie du recours des art. 319 ss CPC est ouverte
+contre la décision déclarant irrecevable ou rejetant la requête de restitution de délai
+en vue d’obtenir la tenue d’une nouvelle audience de faillite (cf. CPF 5 mars 2018/26).
+b)
+En l’espèce, dès lors que la
+faillite a été prononcée, si la requête du 20 janvier 2025 avait été admise,
+une nouvelle audience de faillite aurait été tenue et les conditions de la faillite auraient
+été réexaminées, le requérant pouvant alors faire valoir ses éventuels
+moyens. Il s’ensuit que, le recours, en tant qu’il est dirigé contre le rejet de la
+requête de restitution de délai, assimilable ici à une décision finale, est recevable
+matériellement.
+Déposé en temps utile et dans les formes requises (art. 321 al. 1 et 2 CPC), il est également
+recevable formellement.
+b)aa)
+Selon
+l’art. 326 al. 1 CPC, les conclusions, les allégations de fait et les preuves nouvelles sont
+irrecevables dans la procédure de recours,
+En effet, le recours des art. 319 ss CPC ne permet pas la continuation du procès devant l’autorité
+de recours (Jeandin, CR-CPC, n. 6 ad Intro art. 308-334 CPC), mais n’a pour but que de permettre
+la correction d’une violation du droit ou d’une constatation manifestement inexacte des faits
+(Hofmann/Lüscher, Le Code de procédure civile, 3
+e
+éd., 2023 p. 345), l’autorité de recours statuant en principe sur un état de fait
+identique à celui établi par le tribunal de première instance (Hofmann/Lüscher, op.
+cit., p. 375),
+bb)
+En
+l’espèce, les pièces nos 1 à 3 du bordereau accompagnant le recours figurent déjà
+au dossier de première instance. Elles sont en conséquence recevables. En revanche, la pièce
+n° 4, postérieure au prononcé, est nouvelle et, vu la règle de l’art. 326 al.
+1 CPC, irrecevable devant la cour de céans.
+II.
+La recourante invoque une violation de son droit
+d’être entendue. Elle soutient qu’en prononçant sa faillite en son absence, puis
+en refusant la restitution de délai, l’autorité de première instance l’aurait
+privée de la possibilité de s’expliquer sur sa situation financière.
+La recourante n’a pas pu s’exprimer sur sa situation financière, respectivement exercer
+son droit d’être entendue dans le cadre de la procédure de faillite sans poursuite préalable,
+parce qu’elle a fait défaut à l’audience du 8 janvier 2025. Si elle estimait que
+la première juge ne pouvait pas prononcer sa faillite en son absence, respectivement que procédant
+ainsi, elle la privait injustement de son droit d’être entendue, il lui appartenait de recourir
+contre la décision de faillite (TF 5A_262/2022 du 3 août 2022 consid. 3.1.2 ; TF 4A_289/2021
+du 16 juillet 2021 consid. 7.2). Elle ne peut en revanche pas faire valoir cet argument dans le cadre
+d’un recours contre une décision de refus de restitution de délai.
+Ce moyen est en conséquence irrecevable.
+III.
+La recourante soutient avoir rendu vraisemblable
+un motif d’empêchement qui ne lui est pas imputable. Elle expose en substance que son administrateur
+devait se rendre à l’étranger pour la célébration d’une fête importante
+de sa confession religieuse, qu’il avait informé la première juge de ce fait par un courrier
+du 11 décembre 2024 dans lequel il avait requis le renvoi de l’audience et que «
+croyant
+de bonne foi et avec certitude
+» que
+sa demande avait été acceptée, il n'avait pas estimé nécessaire de prévoir
+sa représentation à l’audience. Son défaut ne serait donc imputable qu’à
+une faute légère. Elle fait par ailleurs valoir que l’absence de restitution revient
+à la priver de la faculté d’apporter des éléments décisifs sur sa situation
+financière, en particulier le fait qu’elle devrait prochainement pouvoir s’acquitter
+de la poursuite en cours grâce à une prochaine entrée d’argent substantielle et
+ainsi éviter la faillite.
+a)
+Selon l’art. 148 al. 1 CPC, le tribunal
+peut accorder un délai supplémentaire ou citer les parties à une nouvelle audience lorsque
+la partie défaillante en fait la demande et rend vraisemblable que le défaut ne lui est pas
+imputable ou n’est imputable qu’à une faute légère. La requête doit être
+présentée dans les dix jours qui suivent celui où la cause de défaut a disparu (art.
+148 al. 2 CPC). Le requérant supporte le fardeau de la preuve, au degré de la vraisemblance,
+des conditions matérielles d’application de l’art. 148 CPC. Il doit donc motiver sa
+requête de restitution en indiquant l’empêchement et produire des moyens de preuve disponibles
+(TF 5A_280/2020 du 8 juillet 2020 consid. 3.1.1 et l’arrêt cité).
+La faute légère vise tout comportement ou manquement qui, sans être acceptable ou excusable,
+n'est pas particulièrement répréhensible, tandis que la faute grave suppose la violation
+de règles de prudence élémentaires qui s'imposent impérieusement à toute personne
+(TF 5A_280/2020 précité consid. 3.1.1 et l’arrêt cité ; TF 5A_180/2019
+du 12 juin 2019 consid. 3.1). Il y a faute légère au sens de l’art. 148 al. 1 CPC
+par exemple dans le cas d’une maladie subite d’une certaine gravité qui empêche
+la partie de se présenter ou de prendre à temps les dispositions nécessaires (TF 5A_280/2020
+précité consid. 3.1.1 et l’arrêt cité ; Tappy, CR-CPC n. 14
+ad
+art. 148 CPC ; Gozzi,
+in
+Basler Kommentar, Schweizerische Zivilprozessordnung, 3
+e
+éd. 2017, n. 20
+ad
+art. 148 CPC).
+b)
+En
+l’espèce, il est exact que par courrier du 11 décembre 2024, la recourante a requis le
+renvoi de l’audience prévue le 8 janvier 2025 en exposant que son administrateur serait alors
+à l’étranger pour la célébration d’une fête religieuse et de son
+anniversaire. La recourante omet toutefois de rappeler que l’autorité de première instance
+lui a immédiatement fait savoir, par courrier du 12 décembre 2024, – lequel ressort de
+l’état de fait de la décision attaquée et dont la réception n’est pas
+contestée – que l’audience fixée le 8 janvier 2025 à 9 heures était maintenue.
+La recourante est donc de mauvaise foi lorsqu’elle affirme avoir cru que sa demande de renvoi avait
+été acceptée. Elle savait au contraire que l’audience aurait lieu et devait donc
+impérativement prendre ses dispositions pour y comparaître ou, à tout le moins, s’y
+faire représenter. Elle le devait d’autant plus que, comme elle l’expose elle-même,
+l’enjeu de cette audience était capital pour son avenir. Sa faute consistant à ne pas
+se présenter à l’audience ne saurait en donc en aucun cas être qualifiée de
+légère.
+IV.
+En conclusion, le recours doit être rejeté
+selon le mode procédural de l’art. 322 al. 1 CPC et la décision confirmée.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 300
+fr., doivent être mis à la charge de la recourante (art. 106 al. 1 CPC).
+Comme l’effet suspensif a été attribué au recours, il convient de constater que
+la faillite de la recourante prend effet à la date du présent arrêt.
+Il n’y a pas lieu d’allouer de dépens de deuxième instance, l’intimée
+n’ayant pas été invitées à se déterminer.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée la faillite sans poursuite préalable de Z.________ Sàrl
+prenant effet le 26 mai 2025 à 16 h 30.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante Z.________ Sàrl.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Z.________ Sàrl,
+‑
+M. Christophe Savoy, agent d’affaires breveté (pour M.________ Sàrl),
+-
+M. le Préposé à l'Office des poursuites du district du Gros-de-Vaud,
+-
+Mme la Préposée à l'Office des faillites de l'arrondissement de la Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de la Broye et du Nord vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de la Broye et du Nord vaudois.
+Le greffier :
