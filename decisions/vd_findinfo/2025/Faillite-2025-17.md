@@ -1,0 +1,215 @@
+---
+decision_id: "vd_findinfo_Faillite___2025___17"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2025 / 17"
+decided: "2025-06-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10382257"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-322.md"]
+---
+
+# VD Findinfo Faillite / 2025 / 17
+
+## Regeste
+
+RESTITUTION DU DÉLAI, OUVERTURE DE LA FAILLITE, PROLONGATION DU DÉLAI | 148 al. 1 CPC, 148 CPC (CH), 149 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2025 / 17
+
+RESTITUTION DU DÉLAI, OUVERTURE DE LA FAILLITE, PROLONGATION DU DÉLAI | 148 al. 1 CPC, 148 CPC (CH), 149 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF25.003764-250465
+72
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+12 juin 2025
+_________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Cherpillod, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+148 al. 1, 149 CPC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+H.________
+,
+à [...], contre la décision rendue le 10 avril 2025, par la Présidente du Tribunal d’arrondissement
+de la Broye et du Nord vaudois rejetant la demande de restitution de délai du recourant dans le
+cadre de la faillite prononcée à la réquisition d’
+U.________
+SA
+, à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Par acte du 20 janvier 2025, U.________ SA a requis du Président du Tribunal d’arrondissement
+de la Broye et du Nord vaudois qu’il prononce la faillite de H.________ sur la base d’une
+commination de faillite exécutoire dans la poursuite n° 11'312'976 de l’Office des poursuite
+du district du Jura-Nord vaudois portant sur un montant total de 4'893 fr. 45 avec intérêts.
+A l’audience de faillite du 3 mars 2025, à laquelle la requérante a fait défaut,
+la présidente a imparti au poursuivi un ultime délai échéant au 11 mars 2025 à
+16 h 30 pour s’acquitter auprès de l’office des poursuites de la créance ayant
+donné lieu à la réquisition de faillite.
+2.
+Par jugement du 12 mars 2025, la Présidente
+du Tribunal d’arrondissement de la Broye et du Nord vaudois, statuant en tant qu’autorité
+de première instance en matière sommaire de poursuites, a prononcé, par défaut de
+la requérante, la faillite de H.________ avec effet le même jour à 9 heures.
+3.
+Par acte du 17 mars 2025, le failli a requis une
+restitution de délai.
+Par prononcé du 21 mars 2025, la présidente a accordé l’effet suspensif à cette
+requête.
+Par courrier du 21 mars 2025, la présidente a imparti au requérant un délai échéant
+au 7 avril 2025 pour s’acquitter de l’avance de frais de la procédure de restitution,
+fixée à 400 fr., et un même délai, spécifié non prolongeable, pour produire
+la quittance de l’office des poursuites attestant du paiement intégral du montant en poursuite.
+Le requérant s’est acquitté de l’avance de frais de 400 fr. le 28 mars 2025, mais
+n’a pas produit de quittance attestant du règlement du montant en poursuite.
+4.
+Par décision du 10 avril 2025, notifiée
+au requérant le lendemain, la Présidente du Tribunal d’arrondissement de la Broye et
+du Nord vaudois a rejeté la requête de restitution de délai du 17 mars 2025 (I), a confirmé
+la faillite de H.________, a dit qu’elle prenait effet le 10 avril 2025 à 9 heures (II) et
+a mis les frais judiciaires, arrêtés à 400 fr., à la charge du failli (III). En substance,
+la première juge a relevé que le requérant n’avait pas donné d’explications
+au fait qu’il n’avait pas réglé la poursuite ayant donné lieu à la réquisition
+de faillite dans l’ultime délai au 11 mars 2025 imparti à l’audience de 3
+mars 2025. Le requérant n’avait ainsi pas rendu vraisemblable que l’absence de paiement
+dans ce délai ne lui était pas imputable ou n’était imputable qu’à une
+faute légère. En outre, le requérant n’avait pas produit la quittance requise du
+paiement du montant en poursuite auprès de l’office des poursuites.
+5.
+Par acte du 11 avril 2025, H.________ a recouru
+contre cette décision en concluant implicitement à ce que sa faillite ne soit pas prononcée.
+L’intimée n’a pas été invitée à se déterminer.
+En droit
+:
+I.
+a)
+Selon l’art. 149 CPC (Code de procédure
+civile du 19 décembre 2008 ; RS 272), dans sa teneur en vigueur dès le 1
+er
+janvier 2025, le tribunal statue définitivement sur la restitution, à moins que le refus de
+restitution n’entraîne la perte définitive du droit.
+b)
+En l’espèce, si la requête du 17 mars 2025 avait été admise, un nouveau délai
+de paiement aurait été accordé au recourant et la faillite peut-être évitée.
+Il s’ensuit que le refus de restitution entraîne la perte d’un droit du recourant. Ainsi,
+sans préjuger du bien-fondé de la requête de restitution au stade de l’examen la
+recevabilité du recours, celui-ci, en tant qu’il est dirigé contre le rejet de la requête
+de restitution de délai est recevable matériellement.
+Déposé en temps utile et dans les formes requises (art. 321 al. 1 et 2 CPC), il est également
+recevable formellement.
+II.
+Le recourant allègue qu’il a réglé
+par virement le montant litigieux le 8 avril 2025, la somme nécessaire n’ayant été
+créditée sur son compte que le 7 avril 2025 au soir, et que l’office des poursuites n’aurait
+pas avisé la première juge de ce paiement.
+a)
+Selon
+l’art. 148 al. 1 CPC, le tribunal peut accorder un délai supplémentaire ou citer les
+parties à une nouvelle audience lorsque la partie défaillante en fait la demande et rend vraisemblable
+que le défaut ne lui est pas imputable ou n’est imputable qu’à une faute légère.
+La requête doit être présentée dans les dix jours qui suivent celui où la cause
+de défaut a disparu (art. 148 al. 2 CPC).
+La faute légère vise tout comportement ou manquement qui, sans être acceptable ou excusable,
+n'est pas particulièrement répréhensible, tandis que la faute grave suppose la violation
+de règles de prudence élémentaires qui s'imposent impérieusement à toute personne
+(TF 5A_414/2016 du 5 juillet 2016 consid. 4.1 ; TF 5A_927/2015 du 22 décembre 2015 consid. 5.1,
+SJ 2016 I 285 ; TF 4A_163/2015 du 12 octobre 2015 consid. 4.1, SJ 2016 I 114). Il y a faute légère
+au sens de l’art. 148 al. 1 CPC par exemple dans le cas d’une maladie subite d’une
+certaine gravité qui empêche la partie de se présenter ou de prendre à temps les
+dispositions nécessaires (Tappy, CR-CPC, n. 14 ad art. 148 CPC ; Gozzi, in Spühler/Tenchio/
+Infanger [éd.] Basler Kommentar, Schweizerische Zivilprozessordnung, 4
+e
+éd. 2025, n. 20 ad art. 148 CPC).
+Les conditions matérielles d’application de l’art. 148 CPC doivent être rendues
+vraisemblables par le requérant, qui supporte le fardeau de la preuve, la requête de restitution
+devant ainsi être motivée, c’est-à-dire indiquer l’empêchement et être
+accompagnée des moyens de preuve disponibles (TF 5A_927/2015 du 22 décembre 2015 consid. 5.1).
+b)
+En
+l’espèce, comme en première instance, le recourant ne fournit aucune explications au
+sujet des raisons de l’absence de paiement du montant ayant donné lieu à la réquisition
+de faillite dans le délai échéant au 11 mars 2025 imparti à l’audience du 3
+mars 2025. Avec la première juge, il y a donc lieu d’admettre qu’il échoue dans
+la démonstration que cette absence de paiement est non fautive ou ne procède que d’une
+faute légère.
+En outre, l’avis du 21 mars 2025 impartissait au recourant un délai non prolongeable échéant
+au 7 avril 2025, non pour payer le montant litigieux, mais pour produire la quittance émise par
+l’office des poursuites attestant de ce paiement complet. Il n’appartenait donc pas audit
+office d’informer la première juge du versement prétendument intervenu le 8 avril 2025
+et le recourant ne donne aucune explication sur les raisons pour lesquelles il n'a pas effectué
+les démarches requises dans cet avis. L’argumentation développée dans le recours
+est donc sans portée dans l’examen des conditions de la restitution du délai échéant
+le 11 mars 2025.
+Au surplus, dans la mesure où le recourant entendrait démontrer qu’au vu de ce prétendu
+paiement du 8 avril 2025, qui n’est d’ailleurs aucunement établi, la faillite n’aurait
+pas dû être confirmée, il y a lieu de relever que la décision attaquée porte
+uniquement sur la question de la restitution de délai et non sur celle relative aux conditions du
+prononcé de faillite. La confirmation et l’indication de la date de prise d’effet de
+la faillite est la conséquence de l’octroi par la décision du 21 mars 2025 de l’effet
+suspensif à la demande de restitution de délai. Si le recourant entendait soutenir que les
+conditions d’ouverture de la faillite n’étaient pas réalisées, il lui appartenait
+de recourir contre le jugement de faillite du 12 mars 2025.
+III.
+En conclusion, le recours doit être rejeté
+selon le mode procédural de l’art. 322 al. 1 CPC et la décision confirmée.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 300
+fr., sont mis à la charge du recourant (art. 106 al. 1 CPC).
+Il n’y a pas lieu d’allouer de dépens de deuxième instance, l’intimée
+n’ayant pas été invitée à se déterminer.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant H.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. H.________,
+‑
+U.________ SA,
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de la Broye et du Nord vaudois.
+Le greffier :
