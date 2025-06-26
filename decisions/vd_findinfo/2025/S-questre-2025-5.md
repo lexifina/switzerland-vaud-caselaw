@@ -1,0 +1,184 @@
+---
+decision_id: "vd_findinfo_S_questre___2025___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2025 / 5"
+decided: "2025-06-26"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10402317"
+cites_law: ["switzerland/bund/acts/173.110/art-066.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-107.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-109.md"]
+---
+
+# VD Findinfo Séquestre / 2025 / 5
+
+## Regeste
+
+DÉCISION DE RENVOI, RETRAIT{VOIE DE DROIT} | 107 al. 2 LTF, 107 LTF, 241 al. 3 CPC (CH), 241 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Séquestre / 2025 / 5
+
+DÉCISION DE RENVOI, RETRAIT{VOIE DE DROIT} | 107 al. 2 LTF, 107 LTF, 241 al. 3 CPC (CH), 241 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+KE22.015639-240288
+86
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+26 juin 2025
+_________________
+Composition
+:              Mme
+Giroud
+Walther
+, vice-présidente
+Mmes
+Byrde et  Cherpillod, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+107 al. 2 LTF ; 241 al. 3 CPC
+Vu le prononcé rendu le 2 juin 2022 par la Juge de paix du district de Lavaux-Oron rejetant les
+oppositions formées par
+A.G.________
+,
+à [...], et
+B.G.________
+,
+audit lieu, aux séquestres requis par
+A.Q.________
+,
+à [...], et
+B.Q.________
+,
+audit lieu, confirmant l’ordonnance de séquestre du 29 mars 2022, arrêtant les frais
+judiciaires à 660 fr., les mettant à la charge des opposants, qui en avaient fourni l’avance,
+et disant que ceux-ci verseraient aux intimés-séquestrants, la somme de 4'000 fr. à titre
+de dépens,
+vu l’arrêt de la cour de céans du 28 mars 2023 rejetant le recours déposé par
+A.G.________ et B.G.________ contre ce prononcé, mettant les frais judiciaires, arrêtés
+à 2'700 fr., à la charge des recourants, allouant à A.Q.________ et B.Q.________ des dépens
+de deuxième instance fixés à 2'040 fr. et déclarant l’arrêt exécutoire,
+vu l’arrêt rendu le 15 février 2024 par la IIe Cour de droit civil du Tribunal fédéral
+admettant le recours de A.G.________ et de B.G.________, annulant et réformant l’arrêt
+cantonal du 28 mars 2023 en ce sens que la requête de séquestre est rejetée en tant qu’elle
+est dirigée contre B.G.________, l’ordonnance de séquestre étant annulée dans
+cette mesure, renvoyant la cause pour le surplus à l’autorité cantonale pour nouvelle
+décision dans le sens des considérants pour ce qui est du séquestre dirigé contre
+A.G.________ et prévoyant au consid. 8 que l’autorité cantonale devrait statuer à
+nouveau sur les frais et dépens de la procédure cantonale,
+vu les déterminations des parties des 18 et 28 mars, 11 et 22 avril 2024,
+vu le courrier du conseil des recourants du 26 juin 2024 requérant, d’entente avec le conseil
+des parties adverses, qu’il ne soit pas statué en l’état sur le recours, des discussions
+transactionnelles étant en cours,
+vu la décision de suspension de la procédure du 1
+er
+juillet 2024, renouvelée jusqu’au 30 avril 2025,
+vu le courrier adressé le 7 avril 2025 à la cour de céans par le notaire Mathieu Sinner,
+transmettant un courrier du conseil des intimés-séquestrants daté 8 août 2024
+à l’adresse de la cour de céans informant celle-ci que les parties avaient transigé
+et que ses mandants retiraient leur procédure, chaque partie assumant ses propres frais de justice
+et renonçant à l’allocation de dépens,
+vu le courrier de la vice-présidente de la cour de céans du 22 avril 2025, invitant les parties
+à préciser, dans un délai de dix jours, quelle partie retirait quel recours, étant
+précisé que les intimés A.Q.________ et B.Q.________ n’étaient pas susceptibles,
+de par leur qualité de partie intimée, de retirer un recours, et si toutes les parties adhéraient
+au principe de conserver leurs frais juridiques, respectivement de renoncer à des dépens,
+vu le courrier du conseil des recourants A.G.________ et B.G.________ du 24 avril 2025 déclarant
+retirer leur recours dans la mesure où l’entier des requêtes de séquestre déposées
+par les intimés avait été retiré, ledit recours devant être considéré
+comme étant devenu sans objet,
+vu les courriers des conseils des parties du 10 juin 2025, informant la cour de céans que leurs
+clients étaient convenus que chacun d’entre eux assumait ses frais de justice et renonçait
+à l’allocation de dépens,
+vu les autres pièces du dossier ;
+attendu que l’autorité cantonale à laquelle la cause est renvoyée (art. 107 al.
+2, 2e phrase, LTF [loi du 17 juin 2005 sur le Tribunal fédéral ; RS 173.110]) voit son pouvoir
+d’examen limité par les motifs de l'arrêt de renvoi, en ce sens que la portée de
+l’arrêt de renvoi dépend du contenu de cet arrêt et que l’autorité cantonale
+est liée par ce qui a été jugé définitivement par le Tribunal fédéral
+(ATF 143 IV 214 consid. 5.2.1 ; ATF 135 III 334 consid. 2 et les arrêts cités ; ATF 133 III
+201 consid. 4.2, rés. in JdT 2008 I 106 ; ATF 131 III 91 consid. 5.2 et les réf. cit. ; Poudret,
+Commentaire de la loi fédérale d'organisation judiciaire, vol. Il, Berne 1990, nn. 1.2 et 1.3
+ad art. 66 aOJ),
+qu’en l'espèce, le renvoi ne porte plus que sur le recours de A.G.________, dès lors
+que B.G.________ est hors de cause, et sur la question des frais judiciaires et des dépens de la
+procédure cantonale de première et deuxième instances,
+que A.G.________ a déclaré retirer son recours dès lors que les intimés avaient retiré
+leurs requêtes de séquestre,
+qu’il convient dès lors d’en prendre acte et de rayer la cause du rôle ;
+attendu que les parties ont déclaré assumer leurs propres frais judiciaires et renoncer à
+l’allocation de dépens,
+qu’en conséquence, les frais judiciaires de première instance, arrêtés à
+660 fr., dont le sort devait être examiné à la suite de l’admission du recours de
+B.G.________ et du renvoi de la cause en ce qui concerne le recours de A.G.________, doivent être
+laissés à la charge de ceux-ci, dès lors qu’ils les ont avancés et qu’ils
+ont admis les conserver à leur charge (art. 109 al. 1 CPC),
+que pour les mêmes raisons, il en va de même pour les frais judiciaires de deuxième instance,
+fixés par l’arrêt du 28 mars 2023 à 2'700 fr. et réduits des deux tiers à
+917 fr. en application de l’art. 76 al. 1 TFJC (tarif du 28 septembre 2010 des frais judiciaires
+civils ; BLV 270.11.5),
+attendu que les parties ont chacune renoncé à l’allocation de dépens,
+qu’en application de l’art. 109 al. 1 CPC, il n’y a pas lieu d’allouer de dépens
+de première ni de deuxième instances.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Il est pris acte du retrait du recours de A.G.________.
+II.
+La cause est rayée du rôle.
+III.
+Les frais judiciaires de première instance,
+arrêtés à 660 fr. (six cent soixante francs), sont mis à la charge de A.G.________
+et de B.G.________, solidairement entre eux.
+IV.
+Il n’est pas alloué de dépens
+de première instance.
+V.
+Les frais judiciaires de deuxième instance,
+arrêtés à 917 fr. (neuf cent dix-sept francs), sont mis à la charge de A.G.________
+et de B.G.________, solidairement entre eux.
+VI.
+Il n’est pas alloué de dépens
+de deuxième instance.
+VII.
+L’arrêt est exécutoire.
+La
+vice-présidente :
+Le greffier :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Alain Dubuis, avocat (pour A.G.________ et B.G.________),
+‑
+Me Pierre-Xavier Luciani, avocat (pour A.Q.________ et B.Q.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 2'000’000 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe
+(art.
+74 LTF). Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Juge de paix du district de Lavaux-Oron.
+Le greffier :
