@@ -1,0 +1,292 @@
+---
+decision_id: "vd_findinfo_Faillite___2025___20"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2025 / 20"
+decided: "2025-06-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10395493"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-239.md", "switzerland/bund/acts/272/art-265.md", "switzerland/bund/acts/272/art-273.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-085a.md"]
+---
+
+# VD Findinfo Faillite / 2025 / 20
+
+## Regeste
+
+ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, MOTIVATION DE LA DEMANDE, ATTRIBUTION DE L'EFFET SUSPENSIF | 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2025 / 20
+
+ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, MOTIVATION DE LA DEMANDE, ATTRIBUTION DE L'EFFET SUSPENSIF | 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF25.014139-250719
+87
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+27 juin 2025
+__________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Giroud Walther, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+321 al. 1 CPC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+G.________
+,
+à [...], contre le prononcé rendu le 30 mai 2025 par la Présidente du Tribunal d’arrondissement
+de l’Est vaudois, dans le cadre de la procédure en restitution de délai intentée
+par la recourante à la suite du jugement prononçant sa faillite à la réquisition
+d’
+Y.________
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Par requête déposée le 25 mars 2025 auprès du Tribunal d’arrondissement de
+l’Est vaudois, Y.________ a requis la faillite de G.________. Elle a produit un commandement de
+payer et une commination de faillite notifiés à la débitrice le 14 août 2024, respectivement
+le 7 octobre 2024, dans la poursuite n° 11’364'815 de l’Office des poursuites du
+district de Lavaux-Oron.
+b)
+La Présidente du tribunal saisie du dossier (ci-après : la Présidente) a convoqué
+les parties à son audience du 13 mai 2025. La créancière ayant été dispensée
+de comparution et la débitrice ne s’étant pas présentée, ni personne en son
+nom, l’audience s’est tenue par défaut des parties.
+c)
+Par jugement rendu à l’issue de cette audience et adressé pour notification aux parties
+le 19 mai 2025, la Présidente a prononcé la faillite de G.________, le 13 mai 2025 à 16 heures,
+par défaut des parties (I) et a mis les frais, par 200 fr., frais de publication en sus, à
+la charge de la faillie (II et III).
+2.
+a)
+Le 13 mai 2025, G.________ a déposé
+une demande de restitution de délai. Elle a indiqué s’être rendue au tribunal le
+jour même «
+en
+vue de demander un délai supplémentaire de quelques jours pour [s’]acquitter du montant
+dû
+», mais s’être sentie
+mal en apercevant la partie adverse «
+à
+l’approche du Tribunal
+» et n’avoir
+pu se rendre à l’audience. Elle a requis, «
+par
+conséquent
+», la restitution du
+délai «
+afin
+de régler le solde de la poursuite no 11364815 et ainsi faire annuler la faillite que [la Présidente
+avait] dû prononcer à [son] encontre
+»
+.
+b)
+Par avis du 19 mai 2025, la Présidente
+a fixé à la requérante un délai au 9 juin 2025 pour effectuer une avance de frais
+de procédure de 400 fr. et l’a informée qu’elle devrait en outre s’acquitter
+d’un émolument de 200 fr. directement à l’Office des faillites de l’arrondissement
+de l’Est vaudois.
+Elle
+l’a invitée par ailleurs à produire « dans le même délai »,
+la preuve du paiement de l’intégralité de la poursuite n° 11’364'815.
+c)
+Par prononcé du 30 mai 2025, la Présidente a refusé l’effet suspensif requis par
+G.________ « en ce sens que les procédés relatifs à la poursuite n° 11364815
+courent jusqu’à droit connu sur la présente demande », considérant que
+la requérante ne justi
+f
+iait
+pas par pièce les motifs de son absence à l’audience, ni ne prouvait par titre que la
+créance avait été acquittée en capital, frais et intérêt ou qu’un
+sursis lui avait été accordé.
+d)
+Par prononcé du 5 juin 2025, la Présidente a rejeté la requête de restitution de
+délai déposée le 13 mai 2025. Se fondant sur les conditions posées par l’art.
+148 CPC (Code de procédure civile ; RS 172) et la jurisprudence y relative, elle a constaté
+que la requérante soutenait s’être rendue au tribunal mais s’être sentie mal
+en apercevant la partie adverse et a considéré que ces explications n’établissaient
+pas un réel empêchement de procéder et de comparaître à l’audience ;
+elle a constaté au surplus que la requérante n’alléguait pas ni ne prouvait s’être
+acquittée de la créance litigieuse.
+Adressé aux parties le jour même, ce prononcé a été notifié à la requérante
+le 6 juin 2025.
+3.
+Par acte daté du 5 juin 2025 et posté
+à cette date, parvenu au greffe du tribunal d’arrondissement le 6 juin 2025, indiquant comme
+objet : « Contestation du refus de la restitution de délais et demande d’effet
+suspensif », G.________ a conclu à l’annulation par le tribunal de son «
+refus
+du 30 mai 2025
+» (1), à ce que
+l’effet suspensif soit accordé «
+en
+attendant la confirmation du créancier concernant notre accord de règlement
+»
+(2), et à ce qu’il soit sursis «
+à
+toute mesure d’exécution le temps des négociations en cours
+»
+(3.)
+Le dossier a été transmis par le tribunal d’arrondissement à la cour de céans,
+autorité de recours, le 6 juin 2025.
+Par décision du 10 juin 2025 prenant date le lendemain, la requête d’effet suspensif
+a été admise au motif que le recours ne paraissait pas dénué de toute chance de succès.
+En droit
+:
+I.
+a)
+La recourante indique, dans le corps de son
+acte du 5 juin 2025, que son recours est dirigé contre le «
+refus
+de restitution de délais (sic) du 30 mai 2025
+».
+Elle fait valoir qu’elle a «
+déjà
+adressé au Tribunal un courrier motivé expliquant les raisons de [son] absence à l’audience
+du 13 mai 2025, démontrant ainsi [sa] bonne foi et [sa] volonté de participer à la procédure
+»,
+qu’elle a procédé au versement d’une partie de la créance, qu’elle a
+pris contact avec le représentant du créancier afin d’obtenir un plan de paiement et
+qu’elle a réglé «
+l’ensemble
+des frais de procédure
+» le 28
+mai 2025, soit dans les délais impartis.
+b)
+aa)
+L’appel n’est pas recevable contre les décisions pour lesquelles le tribunal de la faillite
+ou du concordat est compétent (art. 308 let. b ch. 7 CPC).
+Selon l’art. 319 CPC, le recours est recevable contre les décisions finales, incidentes et
+provisionnelles de première instance qui ne peuvent faire l’objet d’un appel (let. a),
+les autres décisions et ordonnances d’instruction de première instance, dans les cas
+prévus par la loi (let. b ch. 1) ou lorsqu’elles peuvent causer un préjudice difficilement
+réparable (let. b ch. 2).
+La décision de mesures superprovisionnelles n'est en principe susceptible ni d'appel, ni de recours
+et ceci même lorsque la partie adverse n’a pas été entendue (art. 265 al. 1 CPC ;
+ATF 137 III 417 c. 1.3 et réf. citées ; Tappy, in Bohnet/Haldy/Jeandin/Schweizer/Tappy
+(éd.), Commentaire romand, Code de procédure civile, 2e éd. Bâle 2019, n. 16 ad art.
+273 CPC). La procédure prévue à l’art. 265 al. 2 CPC, qui impose au juge notamment
+de statuer sans délai, garantit en effet un réexamen rapide de la décision et constitue
+ainsi la voie de droit contre cette décision (ATF 137 III 417 consid. 1.2 et réf. citées).
+La jurisprudence prévoit certaines exceptions. Il en va ainsi de la décision par laquelle le
+juge refuse la suspension superprovisionnelle de la poursuite si la faillite du poursuivi risque d’être
+prononcée, dès lors qu'aucune décision de mesures provisionnelles ne pourra alors se substituer
+à celle refusant la suspension à titre superprovisionnel, le prononcé de la faillite rendant
+sans objet l’action en annulation de l’art. 85a al. 1 LP (TF 5A_473/2012 du 17 août
+2012 consid. 1). Tel est également le cas de la décision superprovisionnelle de refus d’une
+inscription provisoire d’hypothèque légale, car le requérant court le risque de
+la péremption de son droit si l’inscription n’est pas opérée au journal du
+registre foncier dans le délai légal (TF 5A_508/2012 du 28 août 2012 c. 3.1, SJ 2013 I
+33).
+bb)
+A teneur de l’art. 321 al. 1 CPC, le recours, écrit et motivé, est introduit auprès
+de l’instance de recours dans les trente jours à compter de la notification de la décision
+motivée ou de la notification postérieure de la motivation (art. 239 CPC). Le délai est
+de dix jours pour les décisions prises en procédure sommaire et les ordonnances d’instruction,
+à moins que la loi n’en dispose autrement (art. 321 al. 2 CPC).
+Le recours doit en outre être motivé (art. 321 al. 1 CPC), ce qui signifie que le recourant
+doit démontrer le caractère erroné de la motivation de la décision attaquée
+et son argumentation doit être suffisamment explicite pour que l’instance de recours puisse
+la comprendre, ce qui suppose une désignation précise des passages de la décision qu’il
+attaque et des pièces du dossier sur lesquelles il fonde sa critique (ATF 147 III 176 consid. 4.2.1
+et les références).
+c)
+En l’espèce, la décision attaquée n’est pas celle du 5 juin 2025 refusant
+la restitution de délai, mais celle du 30 mai 2025 refusant l’octroi de l’effet suspensif.
+On peut le déduire avec certitude de l’acte de recours dans lequel, à deux reprises et
+en particulier dans ses conclusions, la recourante déclare qu’elle recourt contre la décision
+du 30 mai 2025, d’une part ; d’autre part, à la date de la confection et de la
+mise à la poste de son acte de recours, soit le 5 juin 2025, la recourante n’avait pas encore
+réceptionné le prononcé du 5 juin 2025 rejetant sa requête de restitution de délai,
+qui lui a été notifié le lendemain ; enfin, il ressort indubitablement des conclusions
+qu’elle a prises qu’elle demande non seulement l’annulation de la décision du
+30 mai 2025 (conclusion 1.), mais aussi l’octroi de l’effet suspensif (conclusion 2.) et
+un sursis à l’exécution (conclusion 3.).
+Il n’est pas nécessaire en l’occurrence de déterminer si la décision attaquée
+doit être considérée comme une ordonnance refusant d’octroyer une mesure superprovisionnelle
+qui aurait pour conséquence de suspendre les effets de la procédure de faillite ouverte ensuite
+du prononcé de faillite. En effet, l’acte de recours est dépourvu de toute motivation
+idoine, non seulement sur la voie de recours, et en particulier sur l’éventuel préjudice
+irréparable (cf. art. 319 let. b ch. 2 CPC), mais aussi sur les motifs qui commanderaient, s’il
+fallait entrer en matière sur le recours, de rendre une autre décision. En effet, la première
+juge a rejeté la requête d’effet suspensif au motif, en substance, que la requête
+de restitution de délai paraissait dénuée de toute chance de succès. Or, pour toute
+motivation, la recourante se borne à renvoyer à sa requête de restitution de délai
+du 13 mai 2025, en disant qu’elle expliquait les raisons de son absence à l’audience ;
+toutefois, le renvoi à une écriture déposée antérieurement ne constitue pas
+un motif de recours recevable, au sens de l’art. 321 al. 1 CPC, et contrairement à ce qu’elle
+allègue, la recourante ne procède de la sorte à aucune démonstration du fait que
+sa requête de restitution de délai ne serait pas dénuée de toute chance de succès,
+mais se contente de l’affirmer péremptoirement, ainsi que d’affirmer être de bonne
+foi. Ce faisant, elle n’essaie pas de démontrer que le raisonnement opéré par la
+première juge serait entaché d’une erreur factuelle ou violerait une règle de droit.
+Les exigences de motivation déduites de l’art. 321 al. 1 CPC ne sont ainsi pas remplies, de
+sorte que le recours est irrecevable.
+II.
+Le recours doit dès lors être déclaré irrecevable selon la procédure de l’art.
+322 al. 1 in fine CPC. L’effet suspensif accordé par décision du 10 juin 2025 est ainsi
+révoqué.
+L’arrêt, rendu sans frais, est exécutoire.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’effet suspensif accordé par décision du 10 juin 2025 est révoqué.
+III.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Mme G.________,
+‑
+Me Serge Demierre, avocat (pour Y.________),
+-
+M. le Préposé à l'Office des poursuites du district de Lavaux-Oron,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l’Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de l’Est vaudois,
+-
+M. le Conservateur du Registre foncier, Office de Broye-Nord vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois.
+La greffière :
