@@ -1,0 +1,712 @@
+---
+decision_id: "vd_findinfo_Plainte___2025___16"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2025 / 16"
+decided: "2025-07-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10413829"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-021.md", "switzerland/bund/acts/281.1/art-022.md", "switzerland/bund/acts/281.1/art-091.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-093.md"]
+---
+
+# VD Findinfo Plainte / 2025 / 16
+
+## Regeste
+
+17 al. 4 LP, 20a al. 2 ch. 2 LP, 93 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2025 / 16
+
+17 al. 4 LP, 20a al. 2 ch. 2 LP, 93 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FA24.025713-250014
+16
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+2 juillet 2025
+__________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Giroud Walther, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+17 al. 4, 20a al. 2 ch. 2 et 93 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+Q.________
+,
+à [...], contre la décision rendue le 19 décembre 2024, à la suite de l’audience
+du 15 août 2024, par la Présidente du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, statuant sur la plainte déposée par le recourant contre une
+décision de l’
+Office
+des poursuites du district de Lausanne
+, à
+Lausanne.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Dans le cadre de la continuation de plusieurs
+poursuites dirigées contre Q.________ (ci-après : le débiteur, le plaignant ou le
+recourant) notamment par A.H.________ et B.H.________, l’Office des poursuites du district de Lausanne
+(ci-après : l’Office) a procédé à l’audition du débiteur le
+4 décembre 2023. Divers documents et justificatifs ont alors été réclamés à
+ce dernier, à produire dans un délai au 15 décembre 2023. Le 8 mai 2024, faute par le
+débiteur d’avoir fourni les pièces demandées, l’Office a requis de l’Office
+d’impôt des districts de Lausanne et Ouest lausannois une copie de la déclaration d’impôt
+du débiteur avec ses annexes, notamment les certificats de salaire. Il a également formulé
+une demande de renseignement auprès de la BCV, qui lui a transmis un relevé du compte privé
+dont le débiteur est titulaire auprès de cet établissement.
+Par décision du 30 mai 2024, sur la base des éléments en sa possession, notamment la déclaration
+d’impôt 2022 du débiteur, l’Office a ordonné une saisie du revenu du débiteur
+auprès de son employeur O.________SA à hauteur de 2’295 fr. par mois dès le 1
+er
+juin 2024. Le minimum d’existence du débiteur a été calculé de la manière
+suivante :
+Revenus
+Membre
+du ménage              Employeur
+Profession
+Revenu mensuel
+Débiteur
+O.________SA               Employé
+fr. 6’859.90
+Conjoint
+ou concubin              K.________SA
+Vendeuse
+fr. 1'790.00
+Charges
+Base
+mensuelle commune
+fr. 1’700.00
+Enfant
+– [...]
+fr.   100.00 BM Fr. 400.00
+./. Allocation familiale Fr. 300.00
+Loyer
+commun
+fr. 3’400.00
+(Prime
+d’assurance maladie débiteur
+fr.
+430.40 non justifié)
+Repas
+pris hors du domicile débiteur
+fr.
+250.00
+Déplacement
+jusqu’au lieu de travail en transport public débiteur
+fr.      78.00
+(Prime
+d’assurance maladie conjoint ou concubin
+fr.    136.60 non justifié)
+Repas
+pris hors du domicile conjoint ou concubin
+fr.    150.00
+Déplacement
+jusqu’au lieu de travail en transport public conjoint
+ou
+concubin
+fr.      78.00
+(Prime
+d’assurance maladie enfant
+fr.        0.00 non justifié)
+Calcul
+Revenu
+net par mois du débiteur
+fr. 6'859.90
+%
+des revenus totaux du couple
+%      79.31
+Base
+mensuelle
+fr. 1'348.20
+Supplément
+enfant de moins de dix ans
+fr.
+79.30
+Charges
+communes
+fr.  2’696.40
+Charges
+propres payées
+fr.
+440.94
+Charges
+enfant
+fr.
+0.00
+Contribution
+enfant mineur
+fr.        0.00
+Minimum
+d’existence
+fr.  4’564.86
+Montant
+mensuel saisissable
+fr.  2’295.05
+2.
+a)
+Le 10 juin 2024, le débiteur, par son conseil, a saisi la Présidente du Tribunal d’arrondissement
+de Lausanne (ci-après : la Présidente), autorité inférieure de surveillance,
+d’une plainte concluant à l’annulation de la saisie de salaire précitée. Il
+soutenait que l’Office n’avait pas tenu compte de la diminution effective de son salaire
+à 5'189 fr. 30, que ses charges mensuelles s’élevaient à 7’286 fr. 95, bases
+mensuelles comprises, dont il assumait 74,35 %, soit 5'418 fr. 05, qu’il ne disposait ainsi
+d’aucun solde de salaire saisissable et que la saisie de salaire litigieuse l’exposait à
+l’indigence. A l’appui de sa plainte, il a produit les pièces suivantes :
+-
+un procès-verbal de saisie à son encontre du 7 septembre 2018 ;
+-
+la décision de saisie de salaire litigieuse et l’avis à son employeur O.________SA ;
+-
+son certificat de salaire pour l’année 2023 établi par O.________SA, indiquant un salaire
+annuel net de 62'271 fr. 60 ;
+-
+un relevé bancaire d’un compte indéterminé pour la période du 30 novembre 2023
+au 12 février 2024, indiquant notamment un ordre permanent mensuel de 3'400 fr. à [...] SA,
+deux paiement à Supra-1846 SA, de 509 fr. 20 le 30 novembre 2023 et de 578 fr. le 12 février
+2024, un paiement à Caisse pour médecins-dentistes SA de 216 fr. 80 le 22 janvier 2024,
+un paiement à Swisscaution SA de 492 fr. 50 le 22 janvier 2024, et deux paiements à Swisscom
+Schweiz AG de 89 fr. 90 chacun, le 30 janvier et le 12 février 2024 ;
+-
+un rappel du 14 mai 2024 de Swica concernant la prime d’assurance maladie de sa compagne pour le
+mois d’avril 2024, de 442 fr. 05 ;
+-
+un « formulaire de calcul du minimum vital » du SECO rempli à une date indéterminée
+et non signé.
+b)
+Par décision du 12 juin 2024, la Présidente a prononcé l’effet suspensif requis
+dans la plainte jusqu’à droit connu sur celle-ci.
+c)
+Au terme de déterminations produites le 11 juillet 2024, l’Office a préavisé pour
+le rejet de la plainte. Il relevait que l’intéressé occupait une fonction dirigeante
+auprès de son employeur, étant l’administrateur de la société, et que sa situation
+pouvait par conséquent «
+raisonnablement
+être considérée comme semblable à la situation d’un débiteur indépendant
+» ;
+faute de production par le débiteur des décomptes de salaire requis, l’Office avait mené
+des investigations et s’était fondé sur la déclaration d’impôt pour déterminer
+les revenus du couple. L’Office précisait toutefois qu’il pourrait prendre une nouvelle
+décision si des justificatifs lui étaient remis. Quant aux charges invoquées par le plaignant,
+l’Office a en substance réfuté ses prétentions.
+e)
+Par déterminations du 11 juillet 2024, A.H.________ et B.H.________ ont conclu au rejet de la plainte.
+f)
+Au
+l’audience tenue le 15 août 2024 en présence des parties et de leurs représentants,
+le plaignant et les créanciers ont produit des pièces. La Présidente a alors imparti à
+l’Office un délai au 16 septembre 2024 pour indiquer si l’examen des pièces produites
+modifiait le montant de la saisie de salaire.
+g)
+Le 17 septembre 2024, l’Office a transmis à la Présidente des pièces que le plaignant
+lui avaient envoyées le 12 septembre précédent, à savoir la preuve du paiement du
+loyer mensuel du mois de septembre 2024 de 3'400 fr. à la régie [...] SA et la comptabilité
+au 31 décembre 2023 de deux sociétés décrites comme « dormantes ».
+Dans le courrier accompagnant ces pièces, le conseil du plaignant indiquait que les comptes définitifs
+des sociétés K.________SA et O.________SA n’étaient pas établis, «
+dans
+la mesure où la loi impose que les comptes soient bouclés au 30 juin de l’année
+qui suit l’exercice de référence et que la déclaration d’impôt peut être
+déposée jusqu’au 30 septembre
+».
+h)
+Le 30 septembre 2024, l’Office a livré son analyse des pièces produites et un nouveau
+calcul du minimum vital du plaignant, déterminant que la quotité de salaire saisissable dès
+le 1
+er
+juin 2024 était de 2’738 fr. 50. Tout en constatant «
+une baisse
+notoire
+» entre le revenu mentionné
+sur la déclaration d’impôt 2022 et le revenu perçu en 2024, il a maintenu sa décision
+de tenir compte d’un salaire mensuel net de 6'859 fr. 90, faute pour le plaignant d’avoir
+produit les comptes 2023 des sociétés O.________SA et K.________SA. Il a tenu compte du loyer
+de 3'400 fr. charges comprises, tout en précisant que le loyer pour cet appartement de 4,5 pièces
+était trop élevé au regard de la situation au plaignant et qu’il serait tenu compte
+d’un loyer réduit dès le 31 mars 2025, prochain terme du bail. Il a supprimé les
+frais de repas à l’extérieur du plaignant et de sa conjointe, considérant qu’ils
+n’étaient domiciliés qu’à quelques minutes à pied de leurs lieux de travail
+respectifs, situés à la même adresse ; pour le même motif, il a supprimé
+les frais de déplacement, considérant en outre que la société O.________SA possédait
+une flotte de véhicule permettant au plaignant de se déplacer pour ses rendez-vous professionnels.
+Il a entièrement maintenu sa décision quant aux autres charges contestées (primes d’assurance
+maladie et frais concernant l’enfant, notamment). Le nouveau calcul du minimum vital du plaignant
+se présentait comme suit :
+Revenu
+mensuel net du débiteur
+fr. 6'859.90               79.26 %
+Revenu
+mensuelle nette de sa conjointe
+fr.
+1'790.00
+20.74 %
+Total
+des revenus
+fr. 8'649.90
+100 %
+Charges
+Base
+mensuelle du couple
+fr. 1’700.00
+Base
+mensuelle enfant
+fr.
+100.00              400.- / 300.-
+Loyer
+fr. 3'400.00
+Assurances
+maladie de la famille et
+frais
+de déplacement et de repas
+fr.        0.00
+__________
+Total
+des charges
+fr.  5'200.00
+Revenu
+mensuel du plaignant
+fr. 6'859.90
+./. sa part au minimum vital commun (79.26 %)
+fr. 4'121.40
+Quotité
+saisissable
+fr. 2'738.50
+i)
+Les
+créanciers, d’une part, et le plaignant, d’autre part, ont produit des déterminations
+complémentaires le 14 octobre 2024.
+2.
+Par décision rendue le 19 décembre 2024, la Président a rejeté la plainte (I) et
+rendu sa décision sans frais judiciaires ni dépens (II). Elle a jugé que le calcul du
+minimum vital établi par l’Office « et sur la base duquel celui-ci a rendu sa décision
+du 30 mai puis du 30 septembre 2024 » ne prêtait pas le flanc à la critique, considérant
+en particulier ce qui suit :
+-
+au sujet du revenu plaignant : celui-ci avait tardé à fournir ses décomptes de salaire
+et n’avait pas produit les comptes 2023 des sociétés O.________SA et K.________SA « dont
+il est le seul administrateur avec signature individuelle » ; bien qu’il soit effectivement
+salarié de sa propre société, il était tout-à-fait possible d’imputer
+certaines charges à celle-ci, telles que des frais professionnels ou des dépenses liées
+à un véhicule ; le fait qu’un tiers ait potentiellement racheté les deux sociétés
+ne modifiait en rien la situation pour l’année 2023, voire 2024, aucune information en ce
+sens ne figurant d’ailleurs au Registre du commerce ; l’Office « aurait eu
+besoin d’une transparence complète de la part du plaignant afin de pouvoir effectuer un calcul
+conforme à la réalité » et, en l’absence de ces éléments, il
+était en droit de se baser sur le revenu figurant dans la déclaration fiscale 2022 ;
+- au sujet des charges : à l’exception du loyer, le plaignant avait allégué
+ses dépenses mensuelles sans en fournir les preuves nécessaires ;
+-
+au sujet des frais de piano et de tennis pour l’enfant : inclus dans le montant de base mensuelle,
+conformément aux Lignes directrices en la matière, ils n’avaient pas à être
+pris en compte séparément ;
+-
+au sujet des primes Swisscaution : s’agissant de dépenses non indispensables, elles n’avaient
+pas à être incluses dans les charges mensuelles incompressibles ;
+-
+au sujet des frais dentaires, par surabondance : ils n’étaient retenus, s’ils n’étaient
+pas remboursés par l’assurance maladie, que si des justificatifs étaient produits, ce
+qui n’était pas le cas en l’espèce.
+Cette décision a été notifiée au plaignant, par l’intermédiaire de son
+conseil, le 27 décembre 2024.
+3.
+a)
+Par acte du 6 janvier 2025, le plaignant a
+recouru contre la décision précitée auprès de la cour de céans, autorité
+cantonale supérieure de surveillance, concluant, principalement à l’annulation de la
+saisie sur salaire prononcée le 30 mai 2024 et à ce qu’il soit dit que son salaire ne
+peut faire l’objet d’aucune saisie, subsidiairement à ce que la saisie de salaire prononcée
+le 30 mai 2024 soit redéfinie dans le sens des considérants de l’arrêt cantonal
+à venir, plus subsidiairement à ce que la cause soit renvoyée à l’autorité
+inférieure pour complément d’instruction dans le sens des considérants de l’arrêt
+cantonal à venir et, dans tous les cas, à ce qu’une équitable indemnité de
+dépens lui soit allouée et les frais de procédure mis à la charge des créanciers
+poursuivants.
+A l’appui de son recours, il a produit les pièces suivantes :
+-
+son certificat de salaire pour l’année 2024 établi par O.________SA, indiquant un salaire
+annuel net de 62'271 fr. 60 ;
+-
+le certificat de salaire pour l’année 2024 de sa conjointe établi par K.________SA, indiquant
+un salaire annuel net de 25'195 fr. 50 ;
+-
+un décompte du 6 janvier 2025 établi par son assurance maladie, listant les primes payées
+en 2024, soit les primes des mois de janvier à septembre et du mois de novembre ;
+-
+onze avis de débit d’un compte indéterminé pour des montants versés entre février
+et décembre 2024 en faveur de Swica, assurance maladie de sa conjointe ;
+-
+son certificat d’assurance maladie 2025 ;
+-
+un « procès-verbal de vente pour biens meubles, créances et autres droits »
+établi par l’Office, concernant la vente des droits du recourant découlant de sa qualité
+d’actionnaire de K.________SA et de O.________SA à [...] pour le prix total de 2 fr., le 20
+novembre 2023.
+b)
+Par décision du 8 janvier 2025, prenant date le lendemain, le président de la cour de céans
+rejeté la requête d’effet suspensif contenue dans le recours.
+c)
+L’Office et les créanciers se sont vu fixer un délai de détermination sur le recours
+de dix jours, par avis du 20 janvier 2025.
+L’Office s’est déterminé le 30 janvier 2025, préavisant e rejet du recours.
+Il a relevé que le recourant ne faisait valoir «
+aucun
+élément nouveau probant à l’exception des preuves de paiements de l’assurance-maladie
+»
+et a indiqué que, sur la base de ce nouvel élément, il avait «
+établi
+un nouveau minimum vital d’existence
+»
+et «
+procédé
+à la modification de la retenue de salaire dès et y compris le mois de juin 2024
+».
+Il a produit une
+décision
+de saisie de salaire du 30 janvier 2025, ordonnant une saisie mensuelle du salaire du recourant à
+concurrence de 1’910 fr. dès le 1
+er
+juin 2024, sur la base du calcul suivant
+:
+Revenus
+Membre
+du ménage              Employeur
+Profession
+Revenu mensuel
+Débiteur
+O.________SA               Employé
+fr. 6’859.90
+Conjoint
+ou concubin              K.________SA
+Vendeuse
+fr. 1'790.00
+Charges
+Base
+mensuelle commune
+fr. 1’700.00
+Enfant
+– [...]
+fr.   78.00 BM Fr. 400.00
+./. Allocation familiale Fr. 322.00
+Loyer
+commun
+fr. 3’400.00
+Prime
+d’assurance maladie débiteur
+fr.    468.65
+Repas
+pris hors du domicile débiteur
+fr.        0.00 (repas au domicile)
+Déplacement
+jusqu’au lieu de travail en TP débiteur
+fr.        0.00 (vhc de fonction)
+Prime
+d’assurance maladie conjoint ou concubin
+fr.    442.05
+Repas
+pris hors du domicile conjoint ou concubin
+fr.        0.00 (repas au domicile)
+Déplacement
+jusqu’au lieu de travail en TP conjoint
+ou
+concubin
+fr.        0.00 (à pied)
+Prime
+d’assurance maladie enfant
+fr.    150.65
+Calcul
+Revenu
+net par mois du débiteur
+fr. 6'859.90
+%
+des revenus totaux du couple
+%      79.31
+Base
+mensuelle
+fr. 1'348.20
+Supplément
+enfant de moins de dix ans
+fr.      61.85
+Charges
+communes
+fr.  2'696.40
+Charges
+propres payées
+fr.    722.24
+Charges
+enfant
+fr.    119.47
+Contribution
+enfant mineur
+fr.        0.00
+Minimum
+d’existence
+fr.  4’948.19
+Montant
+mensuel saisissable
+fr.  1'911.70
+Les créanciers, pour leur part, n’ont pas procédé.
+En droit :
+I.
+Le recours a été déposé en temps utile, dans les dix jours suivant la notification
+du prononcé attaqué (art. 18 al. 1 LP [loi fédérale sur la poursuite pour dettes
+et la faillite ; RS 281.1] et 28 al. 1 LVLP [loi d’application dans le canton de Vaud de la
+LP ; BLV 280.05]). En effet, la décision attaquée ne constitue pas un acte de poursuites,
+de sorte que les art. 56 et 63 LP sont inapplicables ; en outre, l’art. 74 LVLP prévoit
+qu’il n’y a pas de féries judiciaires en matière de procédure de plainte.
+L’acte de recours comporte l’énoncé de conclusions et il est suffisamment motivé
+(TF 5A_118/2018 du 7 février 2018 consid. 4.1). Il est ainsi recevable. Les pièces produites
+avec le recours sont également recevables (art. 28 al. 4 LVLP).
+Les déterminations de l’Office et les pièces produites avec celles-ci sont également
+recevables (art. 31 al. 1 LVLP).
+II.
+Il sied tout d’abord de déterminer l’objet du recours.
+a)
+Aux termes l’art. 17 al. 4 LP, un office peut reconsidérer une décision qu'il a prise
+tant qu'elle n'est pas entrée en force de chose jugée, à savoir tant que le délai
+de plainte de dix jours de l'art. 17 al. 2 LP n'est pas échu et, en cas de plainte, jusqu'à
+l'envoi de sa réponse. Une fois le délai de plainte, le cas échéant de réponse,
+échu, une reconsidération ou une rectification n'est plus admissible, à moins que la décision
+en question ne soit frappée de nullité absolue au sens de l'art. 22 LP et n'ait pu, pour cette
+raison, acquérir force de chose jugée (ATF 103 III 31 consid. 1b ; ATF 97 III 3 consid. 2 ;
+ATF 88 III 12 consid. 1 ; ATF 78 III 49 consid. 1 ; TF 5A_312/2012 du 18 juillet 2012 consid 4.2.1, publié
+in Pra 2013 n° 37 p. 297).
+L'art. 17 al. 4 LP contient une réglementation au sujet de l'effet dévolutif de la plainte.
+La plainte a un effet dévolutif, c'est-à-dire que la mesure attaquée devient de la compétence
+de l'autorité de surveillance, qui peut soit annuler une décision, soit astreindre l'office
+à accomplir l'acte refusé (art. 21 LP). Mais cet effet dévolutif est limité tant
+que le délai pour porter plainte n'est pas échu et jusqu'à l'envoi de la réponse
+de l'office ; pendant ce laps de temps, l'office peut modifier sa décision et rendre la plainte
+sans objet (Erard, in Dallèves/Foëx/Jeandin [éd.], Commentaire romand, Poursuite et faillite
+[ci-après : Commentaire romand LP], 2005, nn. 60-61 ad art. 17 LP ; Gilliéron, Commentaire
+de la loi fédérale sur la poursuite pour dettes et la faillite, 1999, vol. I, n. 255 ss ad
+art. 17 LP ; Hunkeler, Kurzkommentar SchKG, 2e éd., 2014, nn. 34 ss ad art. 17 LP). La nouvelle
+décision ou mesure, qui doit être communiquée sans délai au plaignant et aux autres
+personnes concernées, ainsi qu'à l'autorité cantonale inférieure de surveillance,
+se substitue alors à l'ancienne. Si elle fait droit aux prétentions du plaignant et lui donne
+entière satisfaction, la contestation devient sans objet, et la plainte sera classée.
+Si la décision rendue par l’office des poursuites en application de l’art. 17 al.
+4 LP ne donne que partiellement gain de cause au plaignant, l’autorité de surveillance doit
+examiner la plainte – respectivement, le recours – qui n’est déclaré sans
+objet que dans la mesure de la nouvelle décision de l’office (ATF 126 III 85, JdT 2000 II
+16 ; Cometta/Möckli, in Staehelin/Bauer/Lorandi (éd.), Basler Kommentar SchKG I, 3
+e
+éd., 2021, [ci-après : BSK-SchKG I] n. 64 ad art. 17 LP ; Gilliéron, op. cit.,
+n. 263 ad art. 17 LP).
+b)
+En l’espèce, la plainte du 10 juin 2024 était dirigée contre l’avis de saisie
+du 30 mai 2024. Lors de l’audience du 15 août 2024, la Présidente a imparti à l’Office
+un délai pour indiquer si l’examen des pièces produites à cette audience modifiait
+le montant de la saisie de salaire. C’est dans ce cadre que l’Office a présenté,
+le 30 septembre 2024, un nouveau calcul du minimum vital du plaignant, déterminant une nouvelle
+part saisissable de son salaire supérieure à la précédente. Dès lors que cette
+décision a été rendue dans le délai imparti à l’Office par l’autorité
+inférieure de surveillance pour modifier éventuellement la saisie de salaire sur la base des
+pièces produites à l’audience, on doit admettre que la situation est identique au cas
+où la décision litigieuse est reconsidérée dans le délai de plainte ou dans
+le délai de réponse à la plainte et que la décision de l’Office du 30 septembre
+2024 constitue une modification de la décision du 30 mai 2024, au sens de l’art. 17 al. 4
+LP. Dans la mesure toutefois où cette nouvelle décision ne donnait pas gain de cause au débiteur
+saisi, la plainte de ce dernier conservait son objet et c’est à bon droit que l’autorité
+inférieure l’a examinée. Le rejet de la plainte au motif que le calcul du minimum vital
+sur la base duquel l’Office avait rendu « sa décision du 30 mai puis du 30 septembre
+2024 » ne prêtait pas le flanc à la critique a pour conséquence que c’est
+la décision de saisie du 30 septembre 2024 qui a été confirmée par l’autorité
+précédente et que le recours ne pouvait être dirigé que contre cette dernière
+décision. L’objet du recours serait ainsi circonscrit.
+En instance de recours, toutefois, l’Office a délivré une nouvelle décision de saisie,
+cette fois dans le délai de réponse au recours, réduisant la part saisissable du salaire
+du recourant et lui donnant ainsi partiellement gain de cause. Conformément à la jurisprudence
+précitée, le recours ne perd éventuellement son objet que dans la mesure de cette nouvelle
+décision du 30 janvier 2025 et il doit être examiné dans la mesure où il conserve
+un objet sous l’angle de cette décision.
+III.
+Dans son recours, le débiteur conteste le montant de son revenu retenu par l’Office et la
+non-prise en compte d’un montant de 256 fr. de charges («
+frais
+dentaires non couverts et d’autres charges encore
+»)
+concernant son fils, ainsi que des cotisations d’assurance maladie pour toute la famille. Ces cotisations
+ont été prises en compte dans la décision de l’Office du 30 janvier 2025, de sorte
+que ce point n’est plus litigieux. Au sujet de son revenu et des frais dentaires de son enfant,
+le recourant fait grief à l’Office et à l’autorité inférieure de surveillance
+d’avoir violé la maxime d’office et l’art. 20a al.2 ch. 2 LP, ainsi que les art.
+92 et 93 LP.
+a) aa)
+Aux termes de l'art. 93 al. 1 LP, tous
+les revenus du travail, les usufruits et leurs produits, les rentes viagères, les contributions
+d'entretien, les pensions et prestations de toutes sortes qui sont destinées à couvrir une
+perte de gain ou une prétention découlant du droit d'entretien, en particulier les rentes et
+les indemnités en capital qui ne sont pas insaisissables en vertu de l'art. 92 LP, peuvent être
+saisis, déduction faite de ce que le préposé estime indispensable au débiteur et
+à sa famille.
+Pour fixer le montant saisissable, l'office des poursuites doit d'abord tenir compte de toutes les ressources
+du débiteur; puis, après avoir déterminé le revenu global brut, il évalue le
+revenu net en opérant les déductions correspondant aux charges sociales et aux frais d'acquisition
+du revenu ; enfin, il déduit du revenu net les dépenses nécessaires à l'entretien
+du débiteur et de sa famille en s'appuyant généralement pour cela sur les directives de
+la Conférence des préposés aux poursuites et faillites de Suisse (TF 5A_16/2011 du 2 mai
+2011 consid. 2.1, SJ 2011 I 335). Lorsque le débiteur est marié (ou vit dans une relation de
+concubinage stable), il faut d’abord déterminer les revenus des deux époux et leur minimum
+vital commun, puis répartir entre eux le minimum vital obtenu en rapport avec le revenu net. La
+quotité saisissable du revenu du conjoint débiteur s’obtient alors en soustrayant sa
+part au minimum vital de son revenu déterminant (ATF 114 III 12 consid. 3).
+Par « tous les revenus du travail » au sens de l'art. 93 LP, il faut entendre
+toutes les formes de rétribution d'un travail personnel, régulier ou occasionnel, périodique
+ou permanent, principal ou accessoire, dans le cadre d'une activité d'employé ou d'indépendant
+(ATF 93 III 33 consid. 1; 86 III 15 [16];
+TF
+5A_976/2018 du 27 mars 2019 consid. 4.1.1; 5A_589/2014 du 11 novembre 2014 consid. 3.2, publié
+in
+SJ 2015 I p. 61 et
+in
+BlSchK 2016 p. 53). Il n'est pas nécessaire que le revenu du débiteur provienne d'un emploi,
+ni même qu'il lui soit juridiquement dû (ATF 91 IV 69; 85 III 38 consid. 1). Pour qualifier
+de revenu la prestation acquise, il faut se placer du point de vue économique (TF 5A_976/2018 et
+5A_589/2014 précités; Gilliéron, Commentaire de la loi fédérale sur la poursuite
+pour dettes et la faillite, Articles 89-158, 2000, n° 28
+ad
+art. 93 LP). La nature juridique, la qualification utilisée par les personnes impliquées ou
+les modalités d'exécution selon le droit civil ne sont dès lors pas pertinentes (TF 5A_976/2018
+du 27 mars 2019 consid. 4.1.1; TF 6B_403/2009 du 10 juillet 2009 consid. 1.6.2). Du point de vue de la
+nature juridique de l'objet saisi, il n'y a pas de distinction à faire entre les activités
+dépendantes ou indépendantes (ATF 93 III 33 précité).
+Pour fixer le montant saisissable, si le débiteur développe une activité indépendante,
+l'office des poursuites l'interroge sur le genre d'activité qu'il exerce, ainsi que sur la nature
+et le volume de ses affaires; il estime le montant du revenu en ordonnant d'office les enquêtes
+nécessaires et en prenant tous les renseignements jugés utiles; il peut en outre se faire remettre
+la comptabilité et tous les documents concernant l'exploitation du débiteur, qui est tenu de
+fournir les renseignements exigés. Lorsque l'instruction menée par l'office n'a révélé
+aucun élément certain, il faut tenir compte des indices à disposition. Si le débiteur
+ne tient pas de comptabilité régulière, le produit de son activité indépendante
+doit être déterminé par comparaison avec d'autres activités semblables, au besoin
+par appréciation (ATF 126 III 89 consid. 3a; TF 5A_976/2018 du 27 mars 2019 consid. 4.1.2; TF 5A_16/2011
+du 2 mai 2011 consid. 2.1, publié
+in
+SJ 2011 I p. 333). Il en va de même du poursuivi dont le statut de salarié lui confère
+une position assimilable au statut d'indépendant (TF 5A_976/2018 du 27 mars 2019 consid. 4.1.2).
+Le préposé aux poursuites doit élucider d'office les circonstances de fait qui sont nécessaires
+pour établir le revenu professionnel saisissable. Cela ne signifie cependant pas que le débiteur
+est dispensé de tout devoir de coopération. Au contraire, il lui incombe de renseigner l'autorité
+sur tous les faits essentiels et d'indiquer les preuves qui lui sont accessibles (ATF 119 III 70 consid.
+1 et les réf. cit.). En vertu de l'art. 91 al. 1 ch. 2 LP, le débiteur est du reste tenu, sous
+menace des peines prévues par la loi, d'indiquer jusqu'à due concurrence tous les biens qui
+lui appartiennent, même ceux qui ne sont pas en sa possession, ainsi que ses créances et autres
+droits contre des tiers.
+bb)
+Aux termes de l'art. 20a al. 2 ch. 2 LP, l'autorité de surveillance constate les faits d'office.
+L'autorité doit établir d'elle-même les faits pertinents dans la mesure qu'exige l'application
+correcte de la loi et ne peut se contenter d'attendre que les parties lui demandent d'instruire ou lui
+apportent spontanément les preuves idoines (TF 5A_187/2011 du 13 mai 2011 consid. 2.1). Selon la
+jurisprudence du Tribunal fédéral, la maxime inquisitoire n'oblige pas le tribunal à étendre
+la procédure probatoire et à administrer tous les moyens de preuve envisageables (ATF 125 III
+231 consid. 4a; TF 5A_681/2016 du 14 novembre 2016 consid. 3.1.3). En matière de saisissabilité,
+il existe un devoir des parties de collaborer à cet égard, en particulier sur les circonstances
+qu’elles sont le mieux à même de connaître car touchant à leur situation personnelle,
+et à défaut de collaboration, l’autorité de surveillance n’a pas à établir
+des faits qui ne ressortent pas du dossier (ATF 127 III 572 consid. 3c; 123 III 328 consid. 3 ;
+TF 5A_898/2016 du 27 janvier 2017 consid. 5.2). Les parties intéressées à une procédure
+d'exécution forcée n'en sont ainsi pas moins tenues de collaborer à l'établissement
+des faits (ATF 123 III 328 précité; TF 5A_253/2015 du 9 juin 2015 consid. 4.1).
+b) aa)
+En
+l’espèce, s’il est vrai que le recourant a produit des certificats de son salaire et
+de celui de sa compagne, il n’en demeure pas moins qu’il n’a jamais produit la comptabilité
+2023 des sociétés dont il est l’administrateur, que l’Office lui a réclamée
+à réitérées reprises. Le 12 septembre 2024, en revanche, il a produit la comptabilité
+au 31 décembre 2023 de deux sociétés « dormantes », dont il n'y avait
+évidemment rien à tirer, tout en indiquant que les comptes définitifs des sociétés
+K.________SA et O.________SA n’étaient pas établis, «
+dans
+la mesure où la loi impose que les comptes soient bouclés au 30 juin de l’année
+qui suit l’exercice de référence et que la déclaration d’impôt peut être
+déposée jusqu’au 30 septembre
+».
+Outre que la date du 30 juin était alors largement dépassée tandis que celle du 30 septembre
+était toute proche, le recourant n’a pas offert de produire les documents qu’on lui
+réclamait une fois que ceux-ci seraient établis – s’ils ne l’étaient
+pas déjà – sans toutefois aucunement contester à ce stade l’appréciation
+de l’Office selon laquelle sa fonction dirigeante au sein de son entreprise, quand bien même
+il est employé de celle-ci, faisait que situation dominante pouvait être considérée
+comme semblable à celle «
+d’un
+débiteur indépendant
+». Par
+la suite, dans ses déterminations, il s’est borné à affirmer que la comptabilité
+des deux sociétés précitées n’était pas pertinente pour déterminer
+son revenu, sans toutefois apporter d’éléments prouvant qu’il ne percevrait que
+son salaire mensuel et aucun autre revenu pour son activité au sein de ces sociétés, y
+compris par l’imputation à celles-ci de certaines charges, telles que des frais professionnels
+ou des dépenses liées à un véhicule. Dans ces circonstances, il y a lieu de considérer,
+à l’instar de l’autorité précédente, que pour établir ses calculs
+successifs du minimum vital du recourant, en dernier lieu le 30 janvier 2025, l’Office était
+en droit de retenir le revenu résultant des éléments qu’il avait pu se procurer
+lui-même, faute de collaboration du recourant.
+bb)
+Quant aux charge de 256 fr. concernant son enfant, contrairement à ce qu’affirme le recourant,
+aucune pièce n’établit leur existence, ni leur montant. En particulier, le relevé
+bancaire d’un compte indéterminé indiquant un paiement à Caisse pour médecins-dentistes
+SA de 216 fr. 80 le 22 janvier 2024 ne prouve ni que ces frais concernent l’enfant du recourant,
+ni qu’ils n’ont pas été couverts par une assurance. Quant au « formulaire
+de calcul du minimum vital » du SECO rempli à une date indéterminée et non signé,
+qui indique un montant de 380 fr. de « frais de formation des enfants », il ne constitue
+à l’évidence pas une preuve suffisante. Le recourant ne saurait de bonne foi alléguer
+des charges sans les documenter et reprocher ensuite à l’Office et à l’autorité
+de surveillance de ne pas appliquer la maxime inquisitoire. Le grief est totalement infondé.
+III.
+En conclusion, le recours doit être rejeté et la décision de l’Office des poursuites
+du district de Lausanne du 30 janvier 2025 confirmée.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+La décision de l’Office des poursuites du district de Lausanne du 30 janvier 2025 est confirmée.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Christophe Sivilotti, avocat (pour Q.________),
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne,
+-
+M. Jean-Daniel Nicaty, agent d’affaires breveté (pour A.H.________ et B.H.________).
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
