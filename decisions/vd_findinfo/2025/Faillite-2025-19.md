@@ -1,0 +1,413 @@
+---
+decision_id: "vd_findinfo_Faillite___2025___19"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2025 / 19"
+decided: "2025-07-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10420142"
+cites_law: ["switzerland/bund/acts/101/art-009.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-056.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-043.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-190.md", "switzerland/bund/acts/281.1/art-194.md"]
+---
+
+# VD Findinfo Faillite / 2025 / 19
+
+## Regeste
+
+ACTE DE RECOURS, CONSTATATION DES FAITS, INTERDICTION DE L'ARBITRAIRE, MOTIVATION DE LA DEMANDE | 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2025 / 19
+
+ACTE DE RECOURS, CONSTATATION DES FAITS, INTERDICTION DE L'ARBITRAIRE, MOTIVATION DE LA DEMANDE | 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FW24.054111-250464
+70
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+14 juillet 2025
+__________________
+Composition
+:               M.
+Hack
+,
+président
+M.
+Maillard et Mme Cherpillod, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+174 al.
+1 et 194 al. 1 LP ; 321 al. 1 CPC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+G.________
+et
+K.________
+contre le jugement rendu le 1
+er
+avril 2025 par la Présidente du Tribunal d’arrondisse-ment de Lausanne dans la cause opposant
+les recourants à
+B.________
+.
+Vu les pièces au dossier, la Cour considère :
+En fait :
+1.
+a)
+G.________ est propriétaire de la parcelle n° [...] sise à la route [...], à [...].
+La société K.________, dont G.________ est l’administrateur, avec signature individuelle,
+est propriétaire de la parcelle n° [...] sise à la même adresse.
+Le 27 février 2024, au cours d’une vente aux enchères forcées, les parcelles n°
+[...] et n° [...] susmentionnées ont été adjugées à la société
+B.________, respectivement aux prix de 3'700'000 fr. et de 1'104'016 fr. ;
+l’adjudi-cataire
+avait versé des acomptes respectivement de 1'355'000 fr. et de
+302'000
+fr.
+sur le compte de
+l’Office
+des poursuites du district de Lavaux-Oron
+le 21 février précédent.
+Le 8 mars
+2024, G.________ a déposé plaintes contre les déci-sions d’adjudication desdites
+parcelles. Par prononcés du 1
+er
+juillet 2024, le Président du Tribunal d’arrondissement de l’Est vaudois a rejeté
+les plaintes. Par arrêts rendus le 20 décembre 2024, la Cour de céans a rejeté les
+recours déposés par le plaignant contre lesdits prononcés.
+b)
+Le 29 octobre 2024, l’Office des poursuites du district de Lausanne a notifié à B.________,
+à la réquisition de K.________ et G.________, deux commandements de payer dans les poursuites
+n° 11'433’471 et n° 11'433’478 portant respectivement sur les sommes de 200'000
+fr. et de 1'800'000 fr., avec intérêts à 5% l’an dès le 26 février 2024,
+réclamées à titre de «
+Préjudice
+financier et interruption de la prescription
+».
+La poursuivie a formé opposition totale aux deux poursuites.
+2.
+Par acte du 22 novembre 2024, G.________, agissant
+en son nom propre, ainsi qu’au nom de K.________, a requis de la Présidente du Tribunal d’arrondissement
+de Lausanne, avec frais et dépens, la faillite sans poursuite préa-lable de
+B.________
+au sens de l’art. 190 al. 1 LP (Loi fédérale sur la pour-suite pour dettes et la faillite
+du 11 avril 1889 ; RS 281.1).
+Le 7 janvier 2025, B.________ a conclu au rejet de la requête de faillite sans poursuite préalable,
+avec suite de frais et dépens.
+Une audience a été tenue contradictoirement le 13 mars 2025.
+3.
+Par décision du 1
+er
+avril 2025, la Présidente du Tribunal d’arrondisse-ment de Lausanne (ci-après :
+la première juge ou la présidente) a rejeté, dans la mesure où elle est recevable,
+la requête de faillite sans poursuite préalable formée le 22 novembre 2024 par
+G.________
+et K.________ à l’encontre de B.________ (I), a dit que les frais judiciaires, arrêtés
+à 300 fr., sont mis à la charge de G.________ et de
+K.________
+par moitié chacun (II), a dit que les frais judiciaires seront compensés avec l’avance
+de frais versée (III), a dit que G.________ versera à B.________ la somme de 300 fr. à
+titre de dépens (IV) et a dit que K.________ versera à B.________ la somme de 300 fr.
+à titre de dépens (V).
+La première juge a considéré, d’une part, que G.________ n’avait pas rendu
+vraisemblable sa qualité de créancier, ni celle de K.________, et d’autre part, que la
+cessation de paiement de B.________ n’était établie par aucun élément du dossier.
+S’agissant de la qualité de créanciers des recourants, la présidente a tout d’abord
+constaté que G.________ invoquait comme cause de la créance un «
+préjudice
+financier
+» et l’«
+interruption
+de prescription
+», mais qu’il
+n’indiquait ni quel préjudice financier il aurait subi ni le fondement de ses prétentions.
+Elle a par ailleurs relevé que le solde du prix d’adjudication des parcelles n° [...]
+et n° [...] litigieux était dû à l’office des poursuites et non à G.________
+ou à K.________.
+En ce qui concerne la suspension des paiements, la présidente a cons-taté que B.________ ne
+faisait l’objet que des deux poursuites introduites par G.________ et K.________, dont le bien-fondé
+était contesté, et que celle-ci ne faisait l’objet d’aucun acte de défaut
+de biens. Elle a également relevé qu’aucun élément du dossier ne permettait
+de conclure que B.________ serait insolvable et que G.________ se contenait d’affirmer, sans l’établir,
+à tout le moins au degré de la vraisemblance requise, que l’intimée n’aurait
+pas les moyens de s’acquitter du solde du prix d’adjudication des parcelles n° [...]
+et n° [...].
+4.
+a)
+Par acte déposé le 14 avril 2025, G.________ et K.________ (ci-après : les recourants)
+ont recouru contre la décision du 1
+er
+avril 2025, conclu-ant, avec suite de frais et dépens, principalement à l’annulation
+de la décision et au prononcé de la faillite sans poursuite préalable de B.________ (ci-après :
+l’intimée), et subsidiairement à l’annulation de la décision et au renvoi
+de la cause à l’autorité précédente pour nouvelle décision dans le sens
+des considérants. A l’appui de son écriture, les recourants ont produit les pièces
+nouvelles suivantes :
+–
+une requête de conciliation
+du 8 mars 2025 adressée par G.________ au Tribunal d’arrondissement de Lausanne, dirigée
+contre B.________;
+–
+une requête de conciliation
+du 8 mars 2025 adressée par K.________ au Tribunal d’arrondissement de Lausanne, dirigée
+contre B.________ ;
+–
+un extrait du registre
+des poursuites de l’Office des poursuites du district de Lausanne du 9 avril 2025 concernant B.________.
+b)
+L’intimée n’a pas été invitée à se déterminer. Le 28 avril
+2025, elle a déposé une écriture spontanée.
+En droit
+:
+I.
+a)
+En
+vertu de l’art. 174 al. 1 LP, applicable par renvoi de l’art. 194 al. 1 LP, le jugement
+statuant sur une requête de faillite sans poursuite préalable peut, dans les
+dix jours, faire l’objet d’un recours au sens des art. 319 ss CPC
+(Code de procédure civile du 19 décembre
+2008 ; RS 272)
+. Aux termes
+de l’art. 321 CPC, le recours doit être introduit auprès de l'instance de recours par
+acte écrit et motivé (al. 1), dans les dix jours à compter de la notification de la décision
+motivée (al. 2).
+En l’espèce, le recours déposé le 14 avril 2025 a été interjeté en
+temps utile (art. 321 al. 2 CPC).
+La question de la motivation du recours (art. 321 al. 1 CPC) sera exa-minée sous chiffre II ci-après.
+b)
+Selon
+l’art. 174 al. 1, 2
+e
+phrase, LP, dans le cadre d’un recours contre un jugement de faillite, les parties peuvent
+faire valoir des faits nouveaux lorsque ceux-ci se sont produits avant le jugement de première
+instance (faux
+nova
+ou
+pseudo-
+nova
+).
+Ces faits peuvent être invoqués sans restriction et prouvés par pièces, pour autant
+qu'ils le soient dans le délai de recours (ATF 139 III 491 consid. 4.4 ; TF 5A_520/2022 du
+6 décembre 2022 consid. 2.1 ; TF 5A_1005/2020 du 19 janvier 2021 consid. 3.1.2 et 3.4
+; TF 5A_243/2019 du 17 mai 2019 consid. 3.1 et la référence, publié in SJ 2019 I 376). L’art.
+174 al. 2 LP dresse la liste des seuls faits survenus après le jugement qui sont recevables
+devant l’autorité de recours, savoir le paiement de la dette, intérêt et frais compris
+(ch. 1), le dépôt auprès de l’autorité de recours de l’entier du montant
+à rembourser (ch. 2) et le retrait par le créancier de sa requête de faillite (ch.
+3).
+Dans le cadre d'un
+recours contre un prononcé de faillite sans poursuite préalable, la jurisprudence du Tribunal
+fédéral a relevé que seuls les pseudo-
+nova
+,
+soit les faits survenus avant le jugement de faillite, sont en principe recevables, et que les
+faits énumérés exhaustivement à l’art. 174 al. 2 ch. 1 à 3 LP, admettant
+des faits survenus postérieurement au jugement (vrai
+nova
+), ne
+constituent pas des moyens permettant d’annuler un prononcé de faillite sans poursuite
+préalable (TF 5A_122/2022 du 21 juin 2022 consid. 3.1 ; TF 5A_264/2020 du 18 juin 2020
+consid. 4.1.2 ; TF 5A_243/2019 du 17 mai 2019 consid. 3.1).
+En l’espèce, s’agissant
+des pièces nouvelles produites à l’appui de l’acte de recours, les deux requêtes
+de conciliation du 8 mars 2025, antérieures
+au prononcé de faillite sans poursuite préalable du 1
+er
+avril 2025, sont recevables. Tel n’est en revanche pas le cas de l’extrait du registre des
+poursuites du 9 avril 2025, qui est irrecevable.
+c)
+L’écriture spontanée
+de l’intimée est irrecevable (art. 322 al. 1 CPC).
+II.
+a)
+Pour être recevable, le recours doit être motivé (art. 321 al. 1 CPC). Cela signifie que
+le recourant doit démontrer le caractère erroné de la motivation de la décision
+attaquée et que son argumentation doit être suffisamment explicite pour que l’instance
+de recours puisse la comprendre, ce qui suppose une désignation pré-cise des passages de la
+décision qu’il attaque et des pièces du dossier sur lesquelles il fonde sa critique (ATF
+147 III 176 consid. 4.2.1 ; TF 5D_43/2019 du 24 mai 2019 consid. 3.2.2.1 ; TF 5A_387/2016 du 7 septembre
+2016 consid. 3.1 ; TF 5A_488/ 2015 du 21 août 2015 consid. 3.2.1, publié
+in
+RSPC
+6/2015 pp. 512 s., et les arrêts cités). Ni l’art. 132 al. 1 et 2 ni l’art. 56
+CPC ne sont applicables en cas d’absence de motivation d’un acte de recours (TF
+5D_43/2019 précité ; TF 5A_387/ 2016 pré-cité ; RSPC 6/2015 pp. 512
+s. précité, et les arrêts cités).
+Lorsque la décision attaquée comporte plusieurs motivations indépen-dantes, alternatives
+ou subsidiaires, toutes suffisantes pour sceller le sort de la cause, la partie recourante doit, sous
+peine d'irrecevabilité, démontrer que chacune d'elles est contraire au droit en se conformant
+aux exigences de motivation requises (ATF 142 III 364 consid. 2.4 et les références ; TF 5A_368/2018
+du 25 avril 2019 consid. 9.3 ; TF 5A_154/2018 du 31 août 2018 consid. 3 ; TF 4A_133/2017 du
+20 juin 2017 consid. 2.2).
+b)
+L’art. 320 CPC dispose que
+le recours est recevable pour constata-tion manifestement inexacte des faits (let. b), par quoi on entend
+une constatation des faits ou une appréciation des preuves arbitraire au sens de l’art. 9
+Cst. (Constitu-tion fédérale de la Confédération suisse du 18 avril 1999 ; RS 101)
+(ATF 138 III 232 consid 4.1.2, JdT 2012 II 511 ; TF 5A_160/2022 du 27 juin 2022 consid. 2.1.2.2). En
+cette matière, le
+pouvoir d’examen
+de
+la Cour de céans est limité. Il n’y a arbitraire que lorsque l’autorité ne
+prend pas en compte, sans aucune raison sérieuse, un élément de preuve propre à modifier
+sa décision, lorsqu’elle se trompe manifeste-ment sur son sens et sa portée, ou encore
+lorsque, en se fondant sur les éléments recueillis, elle en tire des constatations insoutenables
+(ATF 140 III 264 consid. 2.3, JdT 2020 II 144 ; ATF 137 III 226 consid. 4.2).
+Le complètement de l'état de fait ne relève pas de l'arbitraire ; un fait non constaté
+ne peut pas être arbitraire, c'est-à-dire constaté de manière insoute-nable. En revanche,
+si un fait omis est juridiquement pertinent, le recourant peut obtenir qu'il soit constaté s'il
+démontre qu'en vertu des règles de la procédure civile, l'autorité précédente
+aurait objectivement pu en tenir compte et s'il désigne précisé-ment les allégués
+et les offres de preuves qu'il lui avait présentés, avec référence aux pièces
+du dossier (ATF 140 III 86 consid. 2 ; TF 4A_80/2025 du 31 mars 2025 consid. 3.2).
+c)
+En l’espèce, dans leur acte de recours, les recourants indiquent dans une partie « faits »
+que « les faits peuvent être brièvement résumés selon ce qui suit »,
+avant de présenter 21 allégués. Aucun de ceux-ci n’est toutefois accompagné
+d’un grief de constatation arbitraire des faits ou d’une explication, telle que requise par
+la jurisprudence rappelée ci-dessus, que l’un ou l’autre d’entre eux serait perti-nent,
+établi et aurait été omis à tort. En particulier, la seule référence, comme
+moyen de preuve, au dossier de première instance ne respecte pas les obligations de moti-vation
+rappelées ci-dessus. Conformément à la jurisprudence précitée, de tels faits
+sont irrecevables. Ils le sont également lorsqu’ils sont formulés, non accompagnés
+d’un grief ad hoc, dans le cadre de la partie « en droit » du recours. Il en
+va en parti-culier du fait que l’intimée n’aurait pas eu les moyens de s’acquitter
+du solde du prix d’adjudication, qu’elle serait insolvable et aurait suspendu ses paiements.
+Les moyens en droit, fondés sur de tels faits, ne peuvent quant à eux qu’être écartés.
+Par ailleurs, les recourants ne formulent aucun grief, fondé sur des faits recevables, à l’encontre
+de l’appréciation selon laquelle ils n’avaient pas rendu vraisemblable leur qualité
+de créanciers.
+Dans ces conditions, le recours, improprement motivé, s’avère irrece-vable.
+III.
+a)
+Selon l’art. 190 al. 1 ch. 2 LP, le créancier
+peut requérir la faillite sans poursuite préalable si le débiteur sujet à la poursuite
+par voie de faillite a suspendu ses paiements.
+Celui qui requiert la faillite sans poursuite préalable selon l'art. 190 al. 1 LP doit rendre vraisemblable
+sa qualité de créancier. La loi exige la simple vraisem-blance, et non une vraisemblance qualifiée
+(arrêts 5A_442/2015 du 11 septembre 2015 consid. 4.1.2, publié in SJ 2016 I p. 85 ; 5A_117/2012
+du 12 juillet 2012 consid. 3.2.2 et les références). Il suffit ainsi que l'autorité, se
+fondant sur des éléments objectifs, acquière l'impression que les faits pertinents se
+sont produits, mais sans qu'elle doive exclure pour autant la possibilité qu'ils se soient déroulés
+autrement (cf.
+ATF
+142 III 720
+consid. 4.1 et la référence
+[en matière de mainlevée provisoire] ; arrêt 5A_807/2016 du 22 mars 2017 consid. 3.1.3
+[en matière de séquestre]). La légitimation pour requérir la faillite appartient
+au créancier même si sa créance n'est pas encore exigible à la date du dépôt
+de la requête (
+ATF
+85 III 146
+consid. 3 ; TF 5P.91/2004 du 24
+septembre 2004 consid. 2.3 ; cf. ég.
+ATF
+120 III 87
+consid. 3b ; TF 5A_341/2021 du
+24 juin 2021 consid. 4.1).
+La suspension des paiements, est une notion juridique indéterminée qui accorde au juge un large
+pouvoir d'appréciation. Pour qu'il y ait suspension des paiements, il faut que le débiteur
+ne paie pas des dettes incontestées et exigibles, laisse les poursuites se multiplier contre lui,
+tout en faisant systématiquement opposi-tion, ou omette de s'acquitter même des dettes minimes.
+Il n'est cependant pas nécessaire que le débiteur interrompe tous ses paiements ; il suffit
+que le refus de payer porte sur une partie essentielle de ses activités commerciales. Même
+une dette unique n'empêche pas, si elle est importante et que le refus de payer est durable, de
+trahir une suspension des paiements ; tel est notamment le cas lorsque le débiteur refuse de désintéresser
+son principal créancier. Le non-paiement de créances de droit public peut constituer un indice
+de suspension des paiements. Il n'est en tout cas pas arbitraire de conclure à la suspension des
+paiements lorsqu'il est établi que le débiteur a, sur une certaine durée, effectué
+ses paiements quasi exclusivement en faveur de ses créanciers privés et qu'il a ainsi suspendu
+ses paiements vis-à-vis d'une certaine catégorie de créanciers, à savoir ceux qui
+ne peuvent requérir la faillite par la voie ordinaire (art. 43 ch. 1 LP). Le but de la loi n'est
+en effet pas de permettre à un débiteur d'échapper indéfiniment à la faillite
+unique-ment grâce à la favorisation permanente des créanciers privés au détriment
+de ceux de droit public (TF 5A_264/2020 du 18 juin 2020 consid. 4.1.1 ; TF 5A_720/ 2008 du 3 décembre
+2008 consid. 4). La suspension des paiements ne doit pas être de nature simplement temporaire, mais
+doit avoir un horizon indéterminé (ATF 137 III 460 consid. 3.4.1 ; TF 5A_264/2020 consid. 4.1.1
+précité ; TF 5A_1014/2019 du 25 mars 2020 consid. 2.1 ; TF 5A_828/2016 du 11 mai 2017 consid.
+2.1 ; TF 5A_354/ 2016 du 22 novembre 2016 consid. 6.2.1).
+b)
+En l’espèce, s’agissant de leur qualité de créanciers, les seules affir-mations
+des recourants, selon lesquelles ils seraient créanciers notamment parce qu’ils l’auraient
+prétendu à nouveau dans des requêtes de conciliation, sans justifier leur créance,
+est impropre à les rendre vraisemblable. On ne voit en outre pas en quoi l’impossibilité
+pour l’intimée de récupérer une cédule - fait irrecevable et non établi
+- rendrait vraisemblable la qualité de créanciers des recourants. Ainsi, dut-on par impossible
+discerner un grief à l’encontre de la décision attaquée sur la question de la qualité
+de créanciers des recourants, celui-ci serait infondé, ce qui justifierait le rejet du recours,
+la première condition posée par l’art. 190 al. 1 ch. 2 LP n’étant pas démontrée.
+S’agissant de la suspension des paiements de l’intimée, force est de constater, au vu
+des faits recevables, que celle-ci n’a aucunement été rendue vrai-semblable. En particulier,
+il n’est pas établi que l’intimée ne paierait pas des dettes incontestées
+et exigibles, laisserait les poursuites se multiplier contre elle, tout en faisant systématiquement
+opposition, ou omettrait de s'acquitter même des dettes minimes. Au contraire, il apparaît
+que les deux seules poursuites dirigées contre l’intimée sont celles introduites par
+les recourants ; l’intéressée ne fait par ailleurs l’objet d’aucun acte
+de défaut de biens. La seconde condition posée par l’art. 190 al. 1 ch. 2 LP n’est
+ainsi pas non plus réalisée.
+Il s’ensuit qu’à supposer recevable, le recours devrait être rejeté.
+IV.
+En conclusion, le recours doit être déclaré irrecevable.
+Dès lors qu’ils succombent,
+les frais judiciaires de deuxième instance, arrêtés à 750 fr., sont mis à la
+charge des recourants (art. 106 al. 1 CPC), solidaire-ment
+entre
+eux
+.
+Il n’y a pas lieu d’allouer des dépens deuxième instance, l’intimée
+n’ayant pas été invitée à procéder (art. 322 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Les frais judiciaires de deuxième
+instance, arrêtés à 750 fr. (sept cent cinquante francs), sont mis à la charge des
+recourants
+G.________ et K.________
+, solidairement
+entre eux.
+III.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Frédéric Hainard, avocat (pour G.________ et K.________),
+‑
+Me Michel Dupuis, avocat (pour B.________),
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d’arrondissement de Lausanne.
+La greffière :
