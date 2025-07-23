@@ -1,0 +1,1041 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2025___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2025 / 2"
+decided: "2025-07-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10436859"
+cites_law: ["switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-153.md", "switzerland/bund/acts/272/art-154.md", "switzerland/bund/acts/272/art-155.md", "switzerland/bund/acts/272/art-156.md", "switzerland/bund/acts/272/art-157.md", "switzerland/bund/acts/272/art-164.md", "switzerland/bund/acts/272/art-168.md", "switzerland/bund/acts/272/art-271.md", "switzerland/bund/acts/272/art-404.md", "switzerland/bund/acts/281.1/art-260.md"]
+---
+
+# VD Findinfo Jug-inc / 2025 / 2
+
+## Regeste
+
+NOUVEAU MOYEN DE FAIT, DÉCISION INCIDENTE, NOUVEAU MOYEN DE PREUVE | 153 CPC, 266 al. 1 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile Jug-inc / 2025 / 2
+
+NOUVEAU MOYEN DE FAIT, DÉCISION INCIDENTE, NOUVEAU MOYEN DE PREUVE | 153 CPC, 266 al. 1 CPC
+
+TRIBUNAL
+CANTONAL
+CT08.003039
+8
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+Z.________
+,
+à [...], requérant, d'avec
+M.________
+,
+à [...], intimé.
+___________________________________________________________________
+Du
+23 juillet 2025
+__________________
+Composition
+:               M.
+Parrone
+,
+juge instructeur
+Greffier
+:              M.
+Klay
+*****
+Statuant immédiatement à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu la demande déposée le 30 janvier 2008 devant le Tribunal d'arrondissement de Lausanne par
+M.________ (ci-après : l’intimé) à l'encontre de S.________ SA, dans laquelle
+il a pris, avec suite de frais et dépens, les conclusions suivantes :
+« I.
+S.________ SA est condamnée à verser immédiatement la somme de CHF 36'439.30, avec intérêt
+à 5% dès le 24 août 2007 sur le montant de CHF 18'219.05, et 5% sur CHF 18'219.05 dès
+le 24 septembre 2007, à M.________.
+Il.
+L'opposition totale faite au commandement de payer pour la poursuite No [...] est définitivement
+levée à concurrence de CHF 33'219.65.
+III.
+S.________ SA est condamnée à verser immédiatement la somme de CHF 7'560.70 aux assurances
+sociales concernées.
+IV.
+S.________ SA est condamnée à verser immédiatement la somme de CHF 15'000.-, avec intérêts
+à 5% dès le dépôt de la présente demande, à M.________ a titre de tort
+moral et atteinte à sa réputation professionnelle. »,
+vu la réponse de S.________ SA du 16 mai 2008 concluant, avec suite de frais et dépens, au
+rejet des conclusions de la demande, et dans laquelle elle a pris, à l'encontre de l’intimé,
+les conclusions reconventionnelles suivantes :
+« I.
+M.________ est le débiteur de S.________ SA et lui doit prompt paiement de la somme de CHF 827'041.75
+avec intérêt à 5% l'an dès le 16 mai 2008.
+II.
+La cause introduite par M.________ contre S.________ SA selon Demande du 30 janvier 2008 adressée
+au Tribunal d'arrondissement de Lausanne, enregistrée sous n° PT08.003039, est reportée
+en l'état où elle se trouve devant la Cour civile du Tribunal cantonal. »,
+vu le jugement incident du Président du Tribunal civil de l'arrondissement de Lausanne du 25 juin
+2008 prononçant le déclinatoire et reportant la cause, en l'état, devant la Cour civile
+du Tribunal cantonal,
+vu la réplique de l’intimé du 12 janvier 2009 concluant, avec suite de frais et dépens,
+au rejet des conclusions de la réponse, et dans laquelle il a augmenté les conclusions de sa
+demande comme suit :
+« I.
+S.________ SA est condamnée à verser immédiatement à M.________ la somme de CHF 233'242.20
+(deux cent trente-trois mille deux cents quarante-deux francs vingt), avec intérêt à
+5% dès 30 juin 2005.
+Il.
+L'opposition totale faite au commandement de payer poursuite No [...] de l'Office des poursuites
+de Lausanne-Est est définitivement levée à concurrence de CHF 68’219.65 (soixante-huit
+mille deux cents dix-neuf francs soixante-cinq), plus intérêts à 5% dès le 19 septembre
+2007, et libre cours est donné à la poursuite No [...].
+III.
+S.________ SA est condamnée à verser immédiatement la somme de CHF 7'560.70 (sept mille
+cinq cents soixante francs septante) aux assurances sociales concernées.
+IV.
+S.________ SA est condamnée à verser immédiatement à M.________ la somme de CHF 15'000
+(quinze mille francs), avec intérêt à 5% dès 30 janvier 2008, à titre de tort
+moral et d'atteinte à sa réputation professionnelle. »,
+vu la décision du Tribunal d'arrondissement de Lausanne du 16 janvier 2009, déclarant la faillite
+de S.________ SA,
+vu la plainte pénale déposée le 25 juin 2012 auprès du Ministère public du canton
+de Vaud par P.________, administrateur de la faillite de S.________ SA en liquidation, à l'encontre
+de l’intimé, pour escroquerie, gestion déloyale et abus de confiance,
+vu la duplique déposée le 26 mai 2015 par la Masse en faillite de S.________ SA, dans laquelle
+elle a confirmé les conclusions prises dans sa réponse,
+vu les déterminations de l’intimé du 12 juillet 2015, dans lesquelles il a confirmé
+les conclusions prises dans sa réplique,
+vu l’acte de cession de droits (art. 260 LP [loi fédérale sur la poursuite pour dettes
+et la faillite du 11 avril 1889 ; RS 281.1]) opérée le 23 août 2016 par la Masse
+en faillite de S.________ SA en faveur de Z.________ (ci-après : le requérant),
+vu le courrier signé conjointement le 20 septembre 2023 par les parties, informant le Juge instructeur
+de la Cour de céans (ci-après : le juge instructeur) qu'elles s'autorisaient réciproquement
+à produire directement toute pièce figurant au dossier pénal [...] dans le cadre de la
+réforme qu'elles entendaient déposer,
+vu le jugement incident du 7 décembre 2023, par lequel le juge instructeur a notamment admis la
+requête de réforme du 20 septembre 2023 de l’intimé, a autorisé ce dernier
+à introduire les allégués 500 à 577 (renumérotés 328 à 406) figurant
+dans sa requête ainsi que les offres de preuves y relatives, et à modifier les allégués,
+offres de preuves et conclusions dans le sens de sa requête, a imparti au requérant un délai
+de trente jours pour se déterminer sur les allégués nouveaux de l’intimé et,
+le cas échéant, introduire des allégations et des preuves connexes à celles autorisées
+par la réforme, et a maintenu tous les actes du procès,
+vu le jugement incident rendu le même jour, par lequel le juge instructeur a notamment admis la
+requête de réforme du 20 septembre 2023 du requérant, a autorisé ce dernier à
+introduire les allégués 328 à 645 (renumérotés 407 à 725) figurant dans
+sa requête ainsi que les offres de preuves y relatives, et à modifier les allégués,
+offres de preuves et conclusions dans le sens de sa requête à l’exception de l’allégué
+179, a imparti à l’intimé un délai de trente jours pour se déterminer sur les
+allégués nouveaux du requérant et, le cas échéant, introduire des allégations
+et des preuves connexes à celles autorisées par la réforme, et a maintenu tous les acte
+du procès,
+vu la réplique complémentaire bis du 20 septembre 2023, dans sa version renumérotée
+du 18 mars 2024, par laquelle l’intimé a pris les conclusions suivantes, avec suite de frais
+et dépens :
+«
+PRINCIPALEMENT
+I.
+Tous les actes procéduraux de Z.________, faute de disposer de la faculté de conduire le procès
+du créancier cessionnaire, sont déclarés irrecevables.
+SUBSIDIAREMENT
+I.
+S.________ SA en faillite est condamnée à verser immédiatement la somme de CHF 36'439.30
+avec intérêts à 5% dès le 24 août 2007 sur le montant de CHF 18'219.05,
+et 5% sur CHF 18'219.05 dès le 24 septembre 2007, à M.________.
+II.
+S.________ SA en faillite est condamnée à verser immédiatement la somme de CHF 15'000.-,
+avec intérêts à 5% dès le 30 janvier 2008 à M.________, à titre de
+tort moral et d’atteinte à sa réputation professionnelle.
+III.
+Toutes et plus amples conclusions sont rejetées.
+PLUS
+SUBSIDIAIREMENT
+I.
+Z.________ est condamné à verser immédiatement la somme de CHF 36'439.30 avec intérêts
+à 5% dès le 24 août 2007 sur le montant de CHF 18'219.05, et 5% sur CHF 18'219.05 dès
+le 24 septembre 2007, à M.________.
+II.
+Z.________ est condamné à verser immédiatement la somme de CHF 15'000.-, avec intérêts
+à 5% dès le 30 janvier 2008 à M.________, à titre de tort moral et d’atteinte
+à sa réputation professionnelle.
+III.
+Toutes et plus amples conclusions sont rejetées. »,
+vu la duplique complémentaire du 20 septembre 2023, dans sa version renumérotée du 28
+mars 2024, par laquelle le requérant a pris les conclusions suivantes, avec suite de frais et dépens :
+« I.
+Principalement
+Les conclusions de la Demande sont intégralement rejetées.
+II.
+Reconventionnellement
+M.________ est débiteur de la masse en faillite de S.________ SA en liquidation et est condamné
+à lui payer immédiatement la somme de CHF 1'237'806.75, plus intérêts à 5% l’an
+dès le 16 mai 2008.
+Subsidiairement
+M.________ est débiteur de S.________ SA en liquidation et est condamné à lui payer immédiatement
+la somme de CHF 1'237'806.75, plus intérêts à 5% l’an dès le 16 mai 2008.
+Plus subsidiairement
+M.________ est débiteur de Z.________ et est condamné à lui payer la somme de CHF 1'237'806.75,
+plus intérêts à 5% l’an dès le 16 mai 2008. »,
+vu les déterminations et allégués connexes du 28 mars 2024 du requérant, confirmant
+les conclusions prises dans sa duplique complémentaire,
+vu les déterminations du même jour de l’intimé, maintenant les conclusions de sa
+réplique complémentaire bis,
+vu les déterminations du 13 juin 2024 du requérant, confirmant les conclusions de sa duplique
+complémentaire et concluant à l’irrecevabilité, subsidiairement au rejet, de toutes
+les conclusions prises par l’intimé,
+vu les déterminations du 13 juin 2024 de l’intimé, prenant les conclusions suivantes,
+avec suite de frais et dépens :
+«
+PRINCPALEMENT
+I.
+Z.________ est condamné à verser immédiatement la somme de CHF 36'439.30 avec intérêts
+à 5% dès le 24 août 2007 sur le montant de CHF 18'219.05, et 5% sur CHF 18'219.05 dès
+le 24 septembre 2007, à M.________.
+II.
+Z.________ est condamné à verser immédiatement la somme de CHF 15'000.-, avec intérêts
+à 5% dès le 30 janvier 2008 à M.________, à titre de tort moral et d’atteinte
+à sa réputation professionnelle.
+III.
+Toutes et plus amples conclusions sont rejetées. »,
+vu l'avis du 26 septembre 2024 du juge instructeur, fixant aux parties un délai au 20 février
+2025 pour déposer un mémoire au sens de l'art. 317a CPC-VD (Code de procédure civile vaudoise
+du 14 décembre 1966 ; BLV 270.11), délai qui a été prolongé au 15 avril
+2025,
+vu la requête incidente de réforme du 13 avril 2025, par laquelle le requérant a pris,
+avec suite de frais et dépens, les conclusions suivantes à l'encontre de l’intimé :
+« I.
+La requête est admise.
+II.
+Z.________ est autorisé à se réformer à la veille du délai fixé pour le
+dépôt des mémoires de droit au sens de l'art. 317a aCPC-VD et ce aux fins de :
+1)
+Modifier les déterminations sur les allégués
+suivants :
+Allégués
+852
+et
+Déterminations
+ad all. 853 (version initiale)
+:
+853
+« contestés,
+étant précisé que [...] laquelle s'est élevée à CHF 1'237'806.75, […]. »
+Déterminations
+ad all. 853 (version modifiée)
+:
+« contestés,
+étant précisé que [...] laquelle s'est élevée à CHF 1'197'951.90, […]. »
+860
+à
+Déterminations
+ad all. 860 à 862 (version initiale)
+:
+862
+« Contesté,
+étant précisé que, [...] pas perçu la moins rémunération du groupe S.________
+SA. »
+Déterminations
+ad all. 860 à 862 (version modifiée)
+:
+« Contesté,
+étant précisé que, [...] pas perçu la moindre rémunération du groupe S.________
+SA. »
+881
+Déterminations
+ad all. 881 (version initiale)
+:
+« Rapport soit
+à la pièce, surplus contesté, étant précisé que la convention à laquelle
+il est fait référence n'est pas jointe au procès-verbal de la séance du Conseil d'administration
+de G.________ SA du 16 décembre 2003, faisant partie de la pièce requise par le Demandeur n°
+V (lot de pièces en mains du mandataire ad hoc L.________) produite que partiellement par le Demandeur
+à l'appui de son courrier du 15 octobre 2019 (seulement les pages 1, 4, 8 et 9 sur 12) de sorte
+que l'on ignore s'il s'agit de la même convention que celle produite en pièce 508 par le Demandeur ».
+Déterminations
+ad all. 881 (version modifiée)
+:
+« Rapport soit
+à la pièce, surplus contesté, étant précisé que la convention à laquelle
+il est fait référence se réfère à la facturation des ventes de marchandises
+aux clients internationaux par la Défenderesse, qu'elle n'est pas jointe au procès-verbal de
+la séance du Conseil d'administration de G.________ SA du 16 décembre 2003, faisant partie
+de la pièce requise par le Demandeur n° V (lot de pièces en mains du mandataire ad hoc
+L.________) produite que partiellement par le Demandeur à l'appui de son courrier du 15 octobre
+2019 (seulement les pages 1, 4, 8 et 9 sur 12) et qu'elle ne peut de toute manière pas correspondre
+à la convention de prestations de services produite en pièce 508 sachant qu'elle date de 2006 ».
+2)
+Retirer les allégués suivants de la
+procédure :
+Allégué
+403
+Allégué
+405
+Allégué
+778
+Allégué
+779
+3)
+Modifier les allégués de la procédure
+de la manière suivante :
+Allégué
+404.
+Version
+initiale
+:
+Le 19 octobre 2004, le
+demandeur, agissant seul pour la défenderesse, a donné l'ordre à la Banque S.________
+de prélever du compte n° [...] appartenant à la défenderesse la somme de €
+66'000.- et de la verser sur son compte privé Y.________ n° [...] sans en invoquer la cause.
+Preuve
+:
+pièces 157 (pièces 4, 5/70, 5/74 et 5/75)
+Version
+modifiée
+:
+Le 19 octobre 2004, le
+demandeur, agissant seul pour la défenderesse, a donné l'ordre à la Banque S.________
+de prélever du compte n° [...] appartenant à la défenderesse la somme de €
+66'000.- et de la verser sur son compte privé Y.________ n° [...] sans en invoquer la cause.
+Preuve
+:
+pièces 157/1, 157/14, 157/77, 157/81 et 157/82
+407
+Version
+initiale
+:
+Ainsi, sur une période
+de 3 mois et demi (mi-juillet à fin octobre 2004), le demandeur a prélevé,
+sous
+sa seule signature
+, sur les fonds de la défenderesse
+en sa faveur la somme totale de CHF 239'297.-.
+Preuve
+:
+pièces 157 (pièces 4, 5/17 et 5/68 à 5/77) et témoins
+Version
+modifiée
+:
+Ainsi, sur une période
+de 3 mois et demi (mi-juillet à fin octobre 2004), le demandeur a prélevé,
+sous
+sa seule signature
+, sur les fonds de la défenderesse
+en sa faveur la somme totale de CHF 183'633.-.
+Preuve
+:
+pièces 157/1, 157/14, 157/75 à 157/82 et 157/84 à
+157/86
+762
+Version
+initiale
+:
+L'ensemble des montants
+perçus de S.________ SA totalisent CHF 832'258.11.
+Preuve
+:
+pièce 617
+Version
+modifiée
+:
+L'ensemble des montants
+perçus par le Demandeur de S.________ SA sur son compte Y.________ n° [...] mentionnés
+aux allégués 713 à 761 totalisent CHF 832'258.11.
+Preuve
+:
+pièce 617
+763
+Version
+initiale
+:
+L'ensemble des montants
+perçus de G.________ SA totalisent CHF 276'190.-.
+Preuve
+:
+pièce 617
+Version
+modifiée
+:
+L'ensemble des montants
+perçus par le Demandeur de G.________ SA sur son compte Y.________ n° [...] mentionnés
+aux allégués 713 à 761 totalisent CHF 276'190.-.
+Preuve
+:
+pièce 617
+776
+Version
+initiale
+:
+Le 27 octobre 2007, un
+montant de CHF 66'000.- a été crédité sur le compte Y.________ n° [...] de M.________
+au débit du compte de S.________ SA, sans aucune mention.
+Preuve
+:
+rapport d'expertise + pièces 114, 617 à 620
+Version
+modifiée
+:
+Le 27 octobre 2004, un
+montant de € 66'000.- a été crédité sur le compte Y.________ n° [...]
+de M.________ au débit du compte de S.________ SA, sans aucune mention.
+Preuve
+:
+rapport d'expertise + pièces 114, 617 à 620
+780
+Version
+initiale
+:
+Le paiement précité
+en sa faveur de CHF 66'000.- au débit du compte S.________ SA a été fait sans cause valable
+et de manière illicite.
+Preuve
+:
+rapport d'expertise + pièces 114, 617 à 620
+Version
+modifiée
+:
+Pour couvrir le fait que
+le paiement précité en sa faveur de € 66'000.- au débit du compte S.________ SA
+avait été fait sans cause valable et de manière illicite, tout comme d'autres versements,
+le Demandeur s'est fait verser un bonus extraordinaire de CHF 120'900.- en janvier 2005.
+Preuve
+:
+rapport d'expertise (page 47 et 48) + pièces 114 et 618
+781
+Version
+initiale
+:
+M.________ est dès
+lors débiteur de S.________ SA de cette somme de CHF 66'000.-.
+Preuve
+:
+appréciation du tribunal
+Version
+modifiée
+:
+M.________ est dès
+lors débiteur de S.________ SA de cette somme de € 66'000.-, dont l'équivalent en francs
+suisses s'élève à CHF 101'528.-, qui a été intégrée par le Demandeur
+dans le bonus de CHF 120'900 qu'il s'est indûment octroyé.
+Preuve
+:
+appréciation du tribunal
+796
+Version
+initiale
+:
+Les montants mentionnés
+aux allégués 509 à 589 sont ceux perçus par M.________ uniquement sur les comptes
+qui ont pu être identifiés par Z.________ sachant qu'il a eu tout le mal du monde à faire
+la lumière dans les affaires laissées par M.________ suite à son départ.
+Preuve
+:
+déclaration de partie
+Version
+modifiée
+:
+Les montants mentionnés
+aux allégués 713 à 793 sont ceux perçus par M.________ uniquement sur les comptes
+qui ont pu être identifiés par Z.________ sachant qu'il a eu tout le mal du monde à faire
+la lumière dans les affaires laissées par M.________ suite à son départ.
+Preuve
+:
+déclaration de partie
+798
+Version
+initiale
+:
+Quoiqu'il en soit, les
+montants réclamés dans le cadre de la présente procédure sont uniquement ceux versés
+par S.________ SA en faveur de M.________, à savoir le salaire qu'il s'est attribué indûment
+ainsi que les charges sociales y relatives, à savoir les montants mentionnés aux allégués
+595 à 605 ci-dessous, qui constituent le dommage minimum subi par S.________ SA.
+Preuve
+:
+déclaration de partie
+Version
+modifiée
+:
+Quoiqu'il en soit, les
+montants réclamés dans le cadre de la présente procédure sont uniquement ceux versés
+par S.________ SA en faveur de M.________, à savoir le salaire qu'il s'est attribué indûment
+ainsi que les charges sociales y relatives, à savoir les montants mentionnés aux allégués
+799 à 809 ci-dessous, ainsi que les frais que l'expert a reconnu comme concernant le Demandeur et
+ayant été acquittés à tort par la Défenderesse, soit CHF 1'464.40, qui constituent
+le dommage minimum subi par S.________ SA.
+Preuve
+:
+déclaration de partie
+801
+Version
+initiale
+:
+Pour les mois de janvier
+à décembre 2005, le Demandeur s'est fait verser par S.________ SA un salaire net total de CHF
+379'749.50 correspondant à un montant brut de CHF 450'549.-.
+Preuve
+:
+rapport d'expertise + pièces 114, 617 à 620
+Version
+modifiée
+:
+Pour les mois de janvier
+à décembre 2005, le Demandeur s'est fait verser par S.________ SA un salaire net total de CHF
+395'925.25 correspondant à un montant brut de CHF 450'549.-.
+Preuve :
+rapport d'expertise + pièces 114, 617 à 620
+802
+Version
+initiale
+:
+Sur ce montant les charges
+sociales acquittées par S.________ SA, part employé et employeur, se sont élevées
+au total à CHF 141'599.- (2 x CHF 70'799.50).
+Preuve
+:
+rapport d'expertise + pièces 114, 307 à 310, 617 à 620
+Version
+modifiée
+:
+Sur ce montant les charges
+sociales acquittées par S.________ SA, part employé et employeur, se sont élevées
+au total à CHF 109'247.50.- (2 x CHF 55'623.75).
+Preuve
+:
+rapport d'expertise + pièces 114, 307 à 310, 617 à 620
+803
+Version
+initiale
+:
+Pour les mois de janvier
+à décembre 2006, le Demandeur s'est fait verser par S.________ SA un salaire net total de CHF
+245'531.75 correspondant à un montant brut de CHF 321'970.75.-.
+Preuve
+:
+rapport d'expertise + pièces 114, 617 à 620
+Version
+modifiée
+:
+Pour les mois de janvier
+à décembre 2006, le Demandeur s'est fait verser par S.________ SA un salaire net total de CHF
+269'210.85 correspondant à un montant brut de CHF 321'970.75.-.
+Preuve
+:
+rapport d'expertise + pièces 114, 617 à 620
+807
+Version
+initiale
+:
+Ainsi, pour les mois de
+juillet 2004 à juillet 2007, le Demandeur s'est fait verser par S.________ SA un salaire net total
+de CHF 851'732.75 correspondant à un montant brut de CHF 1'044'769.55.
+Preuve
+:
+rapport d'expertise + pièces 114, 617 à 620
+Version
+modifiée
+:
+Ainsi, pour les mois de
+juillet 2004 à juillet 2007, le Demandeur s'est fait verser par S.________ SA un salaire net total
+de CHF 891'587.60 correspondant à un montant brut de CHF 1'044'769.75.
+Preuve
+:
+rapport d'expertise + pièces 114, 208, 617 à 620 et 665
+808
+Version
+initiale
+:
+Sur ce montant les charges
+sociales acquittées par S.________ SA, part employé et employeur, se sont élevées
+au total à CHF 193'036.80 (2 x CHF 96'518.40).
+Preuve
+:
+rapport d'expertise + pièces 114, 307 à 310, 617 à 620
+Version
+modifiée
+:
+Sur ce montant les charges
+sociales acquittées par S.________ SA, part employé et employeur, se sont élevées
+au total à CHF 306'364.30 (2 x CHF 153'182.15).
+Preuve :
+rapport d'expertise + pièces 114, 307 à 310, 617 à 620
+et
+665
+809
+Version
+initiale
+:
+Le dommage total minimum
+subi par S.________ SA s'élève donc à CHF 1'237'806.75 (CHF 1'044'769.55 + CHF 193'036.80).
+Preuve
+:
+rapport d'expertise + pièces 114, 307 à 310, 617 à 620
+Version
+modifiée
+:
+Le dommage total minimum
+subi par S.________ SA au titre du salaire prélevé indûment par le Demandeur s'élève
+donc à CHF 1'197'951.90 (CHF 891'587.60 + CHF 306'364.30).
+Preuve
+:
+rapport d'expertise + pièces 114, 208, 307 à 310, 617 à
+620
+et 665
+4)
+modifier les moyens de preuve offerts à la
+preuve pour les allégués suivants de la manière suivante, :
+Allégué
+Preuve
+:
+63
+Version
+initiale
+:
+Preuve
+:
+pièce 103 et témoins
+Version
+modifiée
+:
+Preuve
+:
+pièce 106 et témoins
+599
+Version
+initiale
+:
+Preuve
+:
+pièces 606 et 607
+Version
+modifiée
+:
+Preuve
+:
+pièces 157/16, 606 et 607
+5)
+introduire une Triplique dont la teneur est celle
+du projet annexé à la présente requête ;
+6)
+introduire un onglet de pièces sous bordereau
+dont la teneur est celle du projet annexé à la présente écriture.
+III
+Un nouveau délai pour le dépôt du mémoire de droit au sens de l'art. 317a ccp-VD
+[
+sic
+]
+d'au moins 30 jours est imparti à Z.________ à cette fin.
+IV.
+Les autres actes de procédure sont maintenus. »,
+vu la triplique et le bordereau d’une pièce du même jour déposés par le requérant
+avec sa requête de réforme, ladite triplique contenant les conclusions suivantes, avec suite
+de frais et dépens :
+« I.
+Principalement
+Toutes les conclusions du Demandeur, en particulier celles figurant dans la Demande, la Réplique
+complémentaire bis et les Déterminations sont rejetées.
+II.
+Reconventionnellement
+1.
+Condamner M.________ à payer immédiatement
+à la masse en faillite de S.________ SA en liquidation la somme nette de CHF 1'197'951.90 (un million
+cent nonante-sept mille neuf cent cinquante-et-un francs et nonante centimes), plus intérêts
+à 5% l’an dès le 16 mai 2008.
+Subsidiairement
+Condamner
+M.________ à payer immédiatement à S.________ SA en liquidation la somme nette de CHF
+1'197'951.90 (un million cent nonante-sept mille neuf cent cinquante-et-un francs et nonante centimes),
+plus intérêts à 5% l’an dès le 16 mai 2008.
+Plus
+subsidiairement
+Condamner
+M.________ à payer immédiatement à Z.________ la somme nette de CHF 1'197'951.90 (un million
+cent nonante-sept mille neuf cent cinquante-et-un francs et nonante centimes), plus intérêts
+à 5% l’an dès le 16 mai 2008.
+2.
+Condamner M.________ à payer immédiatement
+à la masse en faillite de S.________ SA en liquidation la somme nette de CHF 1'464.40 (mille quatre
+cent soixante-quatre francs et quarante centimes), plus intérêts à 5% l’an dès
+le 16 mai 2008.
+Subsidiairement
+Condamner
+M.________ à payer immédiatement à S.________ SA en liquidation la somme nette de CHF
+1'464.40 (mille quatre cent soixante-quatre francs et quarante centimes), plus intérêts à
+5% l’an dès le 16 mai 2008.
+Plus
+subsidiairement
+Condamner
+M.________ à payer immédiatement à Z.________ la somme nette de CHF 1'464.40 (mille quatre
+cent soixante-quatre francs et quarante centimes), plus intérêts à 5% l’an dès
+le 16 mai 2008. »,
+vu l'avis du 16 avril 2025 du juge instructeur, fixant un délai au 6 mai 2025 au requérant
+afin de procéder au paiement de l'avance de dépens frustraires de 1'500 fr.,
+vu l'avis du 30 avril 2025, par lequel le juge instructeur a notifié la requête de réforme
+à l'intimé, lui a imparti un délai au 20 mai 2025 pour faire la déclaration prévue
+par l'art. 148 CPC-VD ou indiquer les mesures d'instruction demandées, dit avis valant interpellation
+au sens de l'art. 149 al. 4 CPC-VD pour toutes les parties,
+vu l'avis du 1
+er
+mai 2025 du juge instructeur, fixant un délai au 20 mai 2025 au requérant afin de procéder
+au paiement de l'avance de frais de 450 fr.,
+vu les déterminations du 20 mai 2025, par lesquelles l’intimé s’est opposé
+à la nouvelle requête de réforme susmentionnée,
+vu les déterminations spontanées du 27 mai 2025 du requérant, concluant à l’admission
+de sa requête de réforme,
+vu l’avis du 30 mai 2025, par lequel le juge instructeur a imparti au requérant un délai
+au 16 juin 2025 et à l’intimé un délai au 1
+er
+juillet 2025 pour produire un mémoire incident, précisant qu’à l’échéance
+du dernier délai, il statuerait sans plus ample instruction en application de l’art. 149 al.
+4 CPC-VD,
+vu les déterminations du 16 juin 2025 du requérant, maintenant sa position tendant à l’admission
+de sa requête de réforme,
+vu les déterminations du 30 juin 2025, par lesquelles l’intimé a confirmé, avec
+suite de frais et dépens, son opposition à la nouvelle requête de réforme,
+vu les autres pièces au dossier ;
+attendu que le requérant a versé l'avance de dépens frustraires le 29 avril 2025
+et l’avance de frais le 8 mai 2025 ;
+considérant que les procédures pendantes avant l'entrée en vigueur du nouveau droit fédéral
+de procédure civile demeurent régies par l'ancien droit de procédure cantonal jusqu'à
+la clôture de l'instance (art. 404 al. 1 CPC [Code de procédure civile du 19 décembre
+2008 ; RS 272]), le jugement incident rendu dans le cadre d'une telle procédure étant
+également régi par l'ancien droit (CREC II, 20 juillet 2011/66 consid. 1/a ; Haldy, La
+nouvelle procédure suisse, Bâle 2009, p. 3 n. 7 ; Tappy, Le droit transitoire applicable
+lors de l'introduction de la nouvelle procédure civile unifiée in JdT 2010 III 11 spéc.
+pp. 366 ss),
+qu'en l'occurrence, ouverte avant le 1
+er
+janvier 2011, la présente procédure au fond reste soumise à l'ancien droit de procédure
+et notamment au CPC-VD (art. 404 al. 1 CPC), de sorte qu'il en va de même pour la présente
+procédure incidente, ce qui permet aux parties de se réformer, aux conditions des art. 153
+ss CPC-VD ;
+considérant qu'aux termes de l'art. 153 al. 1 CPC-VD, la partie qui désire obtenir la restitution
+d'un délai, corriger ou compléter sa procédure peut, jusqu'à l'expiration du délai
+fixé pour le dépôt des mémoires de droit, voire jusqu'à la clôture de l'audience
+de jugement, demander l'autorisation de se réformer (art. 317a et 317b CPC-VD),
+que la requête doit indiquer les motifs et l'étendue de la réforme demandée (art.
+154 al. 1 CPC-VD),
+que la partie qui sollicite la réforme doit préciser dans sa requête les opérations
+nouvelles qu’elle se propose de faire dans le délai dont elle demande la restitution et les
+points sur lesquels elle entend corriger ou compléter sa procédure, en particulier les faits
+qu'elle veut alléguer et les preuves qu'elle entend faire administrer (Poudret/Haldy/Tappy, Procédure
+civile vaudoise, 3
+e
+éd., n. 1 ad art. 154 CPC-VD et les réf. cit.),
+qu’elle doit en outre exposer les motifs qui feraient apparaître la réforme demandée
+comme nécessaire ou utile à la solution du litige (Poudret/Haldy/Tappy,
+op.
+cit.
+, n. 1 ad art. 154 CPC-VD et les réf.
+cit.).
+que la même partie ne peut se réformer que deux fois au plus dans la même instance (art.
+157 CPC-VD),
+qu'en l'espèce, la requête de réforme du 13 avril 2025 a été déposée
+dans le délai fixé pour le dépôt des mémoires de droit, soit en temps utile,
+que le requérant y expose précisément les allégués qu’il entend modifier
+et introduire,
+que la requête porte ainsi sur la suppression de quatre allégués, sur la modification
+de trois déterminations sur allégués, de quinze allégués et des moyens de preuves
+de deux allégués, ainsi que sur l'introduction de 56 allégués nouveaux et les offres
+de preuve qui s'y rapportent, à savoir la pièce nouvelle 1012 et des pièces figurant déjà
+au dossier,
+que l'étendue et l'objet de la réforme ressortent ainsi de la requête, comme l'exige l'art.
+154 al. 1 CPC-VD,
+que celle-ci est au surplus conforme aux exigences des art. 19 et 147 al. 1 CPC-VD régissant la
+forme incidente, applicable en l'espèce par le renvoi de l'art. 154 al. 2 CPC-VD,
+que le requérant ne s’est réformé qu’une fois au cours de la procédure,
+que la requête de réforme est dès lors recevable en la forme ;
+considérant que la réforme n'est accordée que si la partie y a un intérêt réel
+et si la requête n'est pas présentée dans un but dilatoire (art. 153 al. 2 et 3 CPC-VD),
+que l'intérêt réel à la réforme doit être apprécié au regard
+de l'ensemble des circonstances, notamment de la pertinence du fait allégué, de sa vraisemblance,
+de la forme de la preuve offerte et de la durée probable de la procédure consécutive à
+la réforme (JdT 2002 III 190 ; Poudret/Haldy/Tappy,
+op.
+cit.
+, n. 4 ad art 153 CPC-VD),
+que la réforme doit notamment être refusée lorsqu'elle tend à l'introduction de faits
+dépourvus de pertinence ou de faits déjà invoqués sous une autre forme en procédure
+(JdT 2003 III 114),
+que la réforme permet toutefois de compléter les offres de preuve d'un fait déjà
+allégué en procédure,
+que l’autorisation de se réformer n’est pas subordonnée à l’absence
+de faute, le législateur n'ayant pas suivi le projet de loi qui prévoyait que la requête
+de réforme présentée avec un retard inexcusable devait être écartée (Bulletin
+du Grand Conseil [BGC], séance du 7 septembre 1966, pp. 719 et 921 ; Poudret/Haldy/Tappy,
+op.
+cit.
+, n. 2 ad art. 153 CPC-VD),
+qu'il a ainsi voulu prohiber la requête de réforme présentée à des fins exclusivement
+dilatoires et non pas sanctionner la requête tardive, dont le dépôt n'est pas soumis à
+un délai précis (art. 317b CPC-VD ; JdT 2003 III 114 consid. 4 ; JdT 1985 III
+106 consid. 7 et note),
+qu'au surplus, il n'incombe pas au requérant d'établir qu'il n'a pas déposé sa requête
+dans le but de prolonger la procédure, puisque l'art. 153 al. 3 CPC-VD ne pose pas de condition
+négative, mais réserve une exception analogue à l'abus de droit (Poudret/Haldy/Tappy,
+op. cit.
+,
+n. 8 ad art. 153 CPC-VD),
+qu'en l'espèce, dans la procédure au fond, le requérant allègue que les agissements
+de l’intimé ont constitué une violation de ses devoirs en sa qualité d'administrateur
+de S.________ SA et ont causé une perte financière à la société,
+que, par sa requête en réforme, le requérant entend notamment modifier ses déterminations
+du 13 juin 2024 ad all. 852 et 853, ad all. 860 à 862 et ad all. 881,
+qu’en réalité, il souhaite modifier les explications qu’il a fournies ensuite de
+ses déterminations au sens propre, soit après avoir indiqué « contesté[s] »
+ad all. 852 et 853 et ad all. 860 à 862, ainsi que « rapport soit à la pièce »
+ad all. 881,
+que l’art. 271 al. 4 CPC-VD prévoit toutefois que le défendeur qui déclare contester
+ou ignorer un fait ou se référer aux titres invoqués ne doit accompagner sa détermination
+d'aucune explication, toute adjonction étant réputée non écrite,
+que, partant, les explications que voudraient modifier le requérant étant réputées
+non écrites au sens de cette disposition, l’intéressé ne dispose d’aucun intérêt
+à les rectifier,
+que la requête de réforme doit ainsi être rejetée à cet égard,
+que le requérant demande également à être autorisé de retirer son allégué
+779 contenu dans sa duplique complémentaire du 20 septembre 2023, renumérotée le 28 mars
+2024,
+que, dans ses déterminations du 28 mars 2024, l’intimé a admis ledit allégué
+779,
+qu’en vertu de l’art. 164 al. 4 CPC-VD, les allégués admis ne peuvent être
+retirés qu’aux conditions de l’art. 168 CPC-VD, soit si son auteur rend vraisemblable
+qu’il était sous l’empire d’une erreur de fait, et non de droit,
+que le requérant ne se prononce toutefois pas sur les raisons qui le poussent à demander le
+retrait de l’allégué 779,
+qu’il ne prétend ainsi pas – ni ne rend vraisemblable
+a
+fortiori
+– que cet allégué serait
+le fruit d’une erreur de fait, et non de droit,
+que, partant, la requête de réforme doit être rejetée à cet égard,
+que le retrait des autres allégués 403, 405 et 778, qui n’ont pas été admis
+par la partie adverse, ne saurait être limité, le requérant disposant d’un intérêt
+réel à y procéder et la procédure s’en trouvant en définitive simplifiée,
+que, pour le reste, les modifications que le requérant souhaite apporter aux allégués
+et offres de preuve, tel que cela ressort de sa requête, ainsi que, surtout, les nouveaux allégués
+qu’il entend introduire par le biais de la réforme, portent notamment sur la correction d’erreurs,
+sur (la précision de) ses prétentions chiffrées formulées à l’encontre
+de l’intimé, sur la notion de droit français de « mandataire social »
+– notion qu’il a évoquée à l’allégué 557 de la duplique complémentaire
+–, sur la convention de prestation de services produite sous pièce 508 (initialement
+701) par l’intimé avec ses déterminations du 28 mars 2024 – s’agissant de
+la question de savoir si dite convention concernait ou non la rémunération de l’intimé
+–, sur le montant des revenus annuels de l’intimé entre 2003 et 2007 et sur différents
+comptes bancaires dont la titularité est attribuée à l’intimé par le requérant,
+que le requérant ne demande pas de nouvelles mesures d’instruction dans le cadre des modifications
+sollicitées dans sa requête,
+que la seule pièce que souhaite introduire l’intéressé à l’appui de ses
+nouveaux allégués consiste en un extrait – de quelques lignes – du site du « code
+du travail numérique » de la république française définissant la notion
+de « mandataire social »,
+que les modifications et les nouveaux allégués requis paraissent ainsi pertinents au regard
+de la procédure au fond,
+que la correspondance potentielle entre la convention produite par l’intimé sous pièce
+508 (initialement 701) et la pièce 706 requise préalablement par le requérant –
+ainsi que le soutient l’intimé – ne saurait empêcher l’introduction de nouveaux
+allégués s’y référant par le requérant,
+que, de même, le fait que la teneur des allégués de la triplique s’apparente éventuellement
+aux explications déjà données par le requérant dans le cadre de ses déterminations
+sur allégués contenues dans sa duplique complémentaire, à la suite de la formule
+«
+contesté,
+étant précisé que…
+»
+comme le soutient l’intimé, ne permet pas de considérer que les faits en ressortant auraient
+déjà été invoqués sous une autre forme en procédure,
+qu’en effet, comme déjà indiqué ci-dessus, de telles explications sont réputées
+non écrites au sens de l’art. 271 al. 4 CPC-VD, de sorte qu’il n’en serait pas
+tenu compte dans le jugement final,
+que l’argument de l’intimé selon lequel les allégués modifiés ne serviraient
+qu’à contester l’expertise d’U.________, ce qui ne pourrait être permis par
+le biais d’une requête de réforme, n’est également pas convaincant,
+qu’il est relevé que le requérant soutient, de son côté, qu’il ne remet
+pas en question l’expertise par les modifications et introduction d’allégués souhaitées,
+mais s’adapte à la teneur de l’expertise en « limit[ant] ses prétentions
+à ce titre aux montants reconnus par l’expert »,
+que ce point peut demeurer indéterminé, dès lors que le mécanisme de la réforme
+ne saurait en effet interdire par principe au requérant de modifier ses allégués ou d’en
+introduire de nouveaux dans un sens potentiellement contraire aux conclusions d’une expertise,
+qu’il en va de la liberté d’une partie de plaider par exemple qu’une expertise
+est dénuée de valeur probante, totalement ou partiellement,
+que, partant, le requérant dispose bien d’un intérêt réel à être
+autorisé à opérer les modifications souhaitées et introduire ses nouveaux allégués,
+l’argument de l’intimé selon lequel de nombreux allégués ont déjà
+été formulés par les parties n’étant d’aucune pertinence à cet égard,
+qu’en outre, le fait que la procédure dure depuis 17 ans n’empêche pas la présente
+réforme, étant en particulier relevé que celle-ci n’appellera en effet pas d’instruction
+particulière – une seule nouvelle pièce étant produite et aucune autre nouvelle
+mesure d’instruction n’étant requise – et ne devrait pas retarder la procédure
+outre mesure,
+qu’en définitive, aucun indice ne permet de penser que le requérant agirait dans un but
+purement dilatoire,
+que le requérant est, par ailleurs, en droit de réduire ou modifier ses conclusions (266 al.
+1 CPC-VD), qui sont connexes (CREC, 5 décembre 2006, n° 921, G. c. E.I. et S.I. ;
+JdT 2004 III 83 ; JdT 1990 III 82 ; JdT 1989 III 2 et 66), par le biais de la réforme
+(Poudret/Haldy/Tappy,
+op. cit.
+,
+n. 5 ad art. 153 CPC-VD), indépendamment de la question de savoir si cette modification est fondée
+ou non (Poudret/Haldy/Tappy,
+op.
+cit.
+, n. 7 ad art. 153 CPC-VD),
+qu’il se justifie ainsi d’admettre partiellement la requête de réforme dans la
+mesure susmentionnée ;
+considérant qu'il convient ainsi de verser immédiatement en procédure les nouveaux allégués
+373
+bis
+,
+375
+bis
+,
+377
+bis
+,
+380
+bis
+,
+383
+bis
+,
+384
+ter
+,
+404
+bis
+,
+557
+bis
+,
+557
+ter
+,
+557
+quater
+,
+557
+quinquies
+,
+809
+bis
+et 1049 à 1092 et les offres de preuve y afférentes, ainsi que de retirer les allégués
+– à l’exception de l’allégué 779 – et modifier les allégués
+et offres de preuves tels qu'ils ressortent de la requête,
+que le requérant n’est en revanche pas autorisé à modifier ses déterminations
+sur allégués telles qu’elles ressortent de la requête,
+qu'un délai sera ensuite imparti à l'intimé pour se déterminer sur les allégués
+ainsi introduits ou modifiés et, au besoin, alléguer des faits connexes ;
+considérant que tous les actes du procès peuvent et doivent être maintenus (art. 155 al.
+1 CPC-VD) ;
+considérant que la partie qui obtient la réforme est chargée des dépens frustraires,
+à moins qu'elle n'établisse n'avoir pu connaître en temps utile le fait qui l'incite à
+corriger la procédure (art. 156 al. 2 CPC-VD),
+qu'en l'occurrence, le requérant n’apporte pas cette preuve libératoire,
+qu'il apparaît en effet que l’essentiel des modifications et introductions d’allégués
+sollicitées dans la réforme ne se fondent sur aucun nouvel élément,
+que le requérant aurait ainsi pu y procéder préalablement dans la présente procédure
+au fond, soit par exemple lors de sa précédente requête de réforme,
+qu’il se justifie dès lors de mettre à sa charge des dépens frustraires,
+que, pour fixer le montant des dépens frustraires, il faut déterminer les opérations que
+la partie intimée devra refaire ou reconsidérer en raison de la réforme, alors qu'elles
+auraient pu être évitées dans le cours ordinaire de la procédure (cf. JICC 53/2003
+du 3 mars 2003),
+qu’en l’espèce, au vu des opérations qui sont rendues nécessaires par la réforme,
+il convient d'arrêter le montant des dépens frustraires à 1’500 fr. ;
+considérant que les frais de la procédure incidente doivent être arrêtés à
+900 fr., à la charge du requérant (art. 4 al. 1 et 170a al. 1 aTFJC [ancien tarif des frais
+judiciaires en matière civile du 4 décembre 1984], applicable par le renvoi de l'art. 99 al.
+1 TFJC [tarif des frais judiciaires civils du 28 septembre 2010 ; BLV 270.11.5]) ;
+considérant que le juge statue librement sur l'adjudication des dépens de l'incident soulevé
+par la requête de réforme (art. 156 al. 3 CPC-VD),
+que la partie qui s'oppose à la réforme peut être condamnée aux dépens de l'incident
+(Poudret/Haldy/Tappy,
+op. cit.
+,
+n. 2 ad art. 156 CPC-VD),
+qu’en l’espèce, la requête de réforme est admise partiellement, le requérant
+ne succombant en définitive que s’agissant de quelques allégués,
+qu’il se justifie ainsi de condamner l’intimé à payer des dépens incidents
+au requérant, correspondant à 90 % de pleins dépens, qu’il convient d’arrêter
+à 2’160 fr. (soit 810 fr. en remboursement de 90 % de ses frais de justice et 1’350
+fr. correspondant à 90 % de la participation aux honoraires de son conseil ; cf. art.
+91 et 92 al. 2 CPC-VD et art. 2 al. 1 ch. 10 et 11 aTAv [ancien tarif des honoraires d’avocats
+dus à titre de dépens du 17 juin 1986], applicable par renvoi de l'art. 26 al. 2 TDC [tarif
+des dépens en matière civile du 23 novembre 2010 ; BLV 270.11.6]).
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête de réforme formée le 13 avril 2025 par Z.________ est partiellement admise.
+II.
+Z.________ est autorisé à introduire les allégués 373
+bis
+,
+375
+bis
+,
+377
+bis
+,
+380
+bis
+,
+383
+bis
+,
+384
+ter
+,
+404
+bis
+,
+557
+bis
+,
+557
+ter
+,
+557
+quater
+,
+557
+quinquies
+,
+809
+bis
+et 1049 à 1092 figurant dans sa requête ainsi que les offres de preuve y relatives, et à
+retirer les allégués – à l’exception de l’allégué 779
+– et modifier les allégués, offres de preuves et conclusions dans le sens de sa requête.
+III.
+Un délai de trente jours est fixé à M.________ pour se déterminer sur les allégués
+nouveaux ou modifiés de Z.________ et, le cas échéant, introduire des allégations
+et des preuves connexes à celles autorisées par la réforme.
+IV.
+Tous les actes du procès sont maintenus.
+V.
+Z.________ doit verser à M.________ la somme de 1'500 fr. (mille cinq cents francs) à
+titre de dépens frustraires.
+VI.
+Les frais de la procédure incidente sont arrêtés à 900 fr. (neuf cents francs) et
+mis à la charge de Z.________.
+VII.
+M.________ doit verser à Z.________ la somme de 2'160 fr. (deux mille cent soixante francs)
+à titre de dépens réduits de l’incident.
+VIII.
+Toutes autres ou plus amples conclusions sont rejetées.
+Le
+juge instructeur :              Le greffier :
+Du
+Le jugement qui précède, directement motivé, lu et approuvé à huis clos, est
+notifié, par l'envoi de photocopies, aux conseils des parties.
+Le greffier :
