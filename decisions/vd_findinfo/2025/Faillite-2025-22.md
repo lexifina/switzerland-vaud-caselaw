@@ -1,0 +1,287 @@
+---
+decision_id: "vd_findinfo_Faillite___2025___22"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2025 / 22"
+decided: "2025-07-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10450423"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-107.md", "switzerland/bund/acts/272/art-138.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-159.md", "switzerland/bund/acts/281.1/art-168.md", "switzerland/bund/acts/281.1/art-172.md"]
+---
+
+# VD Findinfo Faillite / 2025 / 22
+
+## Regeste
+
+AUDIENCE DE FAILLITE, CITATION À COMPARAÎTRE, NOTIFICATION IRRÉGULIÈRE, DROIT D'ÊTRE ENTENDU, DÉCISION DE RENVOI, NULLITÉ | 29 al. 2 Cst., 174 al. 1 LP, 136 CPC (CH), 138 al. 1 CPC (CH), 138 al. 3 let. a CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2025 / 22
+
+AUDIENCE DE FAILLITE, CITATION À COMPARAÎTRE, NOTIFICATION IRRÉGULIÈRE, DROIT D'ÊTRE ENTENDU, DÉCISION DE RENVOI, NULLITÉ | 29 al. 2 Cst., 174 al. 1 LP, 136 CPC (CH), 138 al. 1 CPC (CH), 138 al. 3 let. a CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF25.001792-250235
+84
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+30 juillet 2025
+__________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Giroud Walther, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+29 al. 2 Cst. ; 174 al. 1 LP ; 136, 138 al. 1 et 3 let. a CPC
+La Cour des poursuites et faillites
+du Tribunal cantonal, statuant à huis clos en sa qualité d'autorité de recours en matière
+sommaire de poursuites et de faillite, s'occupe du recours exercé par
+A.________...]
+contre le jugement rendu le 17 février 2025, à la suite de l’audience du même jour,
+par la Présidente du Tribunal d’arrondissement de La Côte, prononçant la faillite de
+la recourante à la réquisition de
+K.________...]
+.
+Vu les pièces au
+dossier, la cour considère :
+En fait :
+1.
+a)
+Le
+31 janvier 2024, à la réquisition de K.________, l’Office des poursuites du
+district de Nyon a notifié à A.________, dans la poursuite n° 11'080’433, un
+commandement de payer portant sur les sommes de 1) 24'969 fr. 15 avec intérêts à 5% dès
+le 14 février 2023, 2) 150 fr. sans intérêt, 3) 60 fr. sans intérêt et 4) 311
+fr. 07 sans intérêt, indiquant comme titre de la créance ou cause de l’obligation :
+1) «
+No d’affiliation ...]215200,
+Arriéré sur compte courant, calcul des cotisations du 01.10.2023, dû depuis le 14.12.2023.
+» ;
+2) «
+Frais de poursuite
+» ;
+3) «
+Frais de rappel
+» ;
+4) «
+5 % intérêts
+moratoires avant la pour-suite
+».
+La
+poursuivie n’a pas formé opposition.
+b)
+Le
+7 mai 2024, à la réquisition de la poursuivante, l’Office des pour-suites du district
+de Nyon a notifié à la poursuivie une commination de faillite dans la poursuite n°
+11'080'433 susmentionnée.
+2.
+Par acte du 14 janvier 2025, la
+poursuivante a requis de la Présidente du Tribunal d’arrondissement de La Côte qu’elle
+prononce la faillite d’A.________.
+Par courrier recommandé
+du 16 janvier 2025, la présidente a adressé la requête de faillite à la poursuivie
+et l’a citée à comparaître à une audience fixée au 17 février 2025.
+Le pli contenant cette citation a été retourné par la poste au greffe du tribunal d’arrondissement
+avec la mention «
+non
+réclamé
+».
+Il a été adressé à nouveau à la poursuivie en courrier A le 30 janvier 2025.
+3.
+Par jugement rendu par défaut
+des parties le 17 février 2025, la Présidente du Tribunal d’arrondissement de La Côte,
+statuant en tant qu’autorité de première instance en matière sommaire de poursuites
+et faillites, a prononcé la faillite d’A.________ avec effet à 11 h 30 (I), et a
+mis les frais judici-aires, fixés à 200 fr., à la charge de la faillie (II).
+Selon le suivi des envois de la Poste, le pli contenant ce jugement a été retourné au
+greffe du tribunal d’arrondissement avec la mention «
+non
+réclamé
+» le
+26 février 2025.
+4.
+Par acte du 26 février 2025,
+la faillie a recouru contre ce jugement, concluant à son annulation pour le motif qu’elle
+n’a pas pu défendre ses intérêts lors d’une audience.
+Par décision du 28
+février 2025, le Président de la cour de céans a rejeté, faute d’être
+motivée, la requête d’effet suspensif contenue dans le recours.
+Par déterminations
+du 10 avril 2025, l’intimée a indiqué «
+suivre
+les conclusions prises par le Tribunal d’arrondissement de La Côte dans son jugement du 17
+février 2025 (…) en ce sens que la partie intimée n’a pas justifié par titre
+que la créance a été acquittée en capital, frais et intérêts
+».
+En droit
+:
+I.
+En vertu de l'art. 174 al. 1, 1
+ère
+phrase, LP (loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1),
+la décision du juge de la faillite peut, dans les dix jours, faire l'objet d'un recours
+au sens du CPC (Code de procédure civile du 19 décembre 2008 ; RS 272). Selon l'art.
+321 al. 1 CPC, le recours s'exerce par le dépôt d'un acte écrit et motivé, introduit
+auprès de l'instance de recours.
+En l’espèce,
+le recours, déposé en temps utile et motivé conformément à l’art. 321
+al. 1 CPC, est recevable.
+Les déterminations de l’intimée sont également recevables.
+II.
+a)
+A
+teneur de l'art. 138 al. 1 CPC, les citations, les ordonnances et les décisions doivent
+être notifiées par envoi recommandé ou d'une autre manière contre accusé de
+réception. Un acte est notamment réputé notifié en cas d'envoi recom-mandé,
+lorsque celui-ci n’a pas été retiré à l'expiration d'un délai de sept
+jours à compter de l'échec de la remise, si le destinataire devait s'attendre à recevoir
+la notification (art. 138 al. 3 let. a CPC). La fiction de notification valant en cas d'envoi
+recommandé ne s'applique toutefois pas à l'avis de l'audience de faillite (art. 168
+LP ; ATF 138 III 225 consid. 3 ; TF 5A_466/2012 du 4 septembre 2012 consid. 4.1.1). En
+effet, comme le prévoit expressément l'art. 138 al. 3 let. a CPC, un acte judiciaire
+ne peut être réputé notifié que si son destinataire devait s'attendre à le recevoir.
+Un rapport procédural, qui impose aux parties de se comporter conformément aux règles
+de la bonne foi, soit, notamment, de se préoccuper de ce que les actes judi-ciaires concernant la
+procédure puissent leur être notifiés, ne prend toutefois nais-sance qu'à partir
+de la litispendance (ATF 138 III 225 précité consid. 3.1 ; ATF 130 III 396 consid.
+1.2.3 et les références ; TF 5D_130/2011 du 22 septembre 2011 consid. 2.1, publié
+in
+Pra 2012 (42) 300 ; TF 5A_466/2012 précité consid. 4.1.1). Or, la procédure tendant au
+prononcé de la faillite est une nouvelle procédure par rapport aux étapes précédentes
+y menant. Elle ne fait automatiquement suite ni à la procé-dure préalable, ni à la
+commination de faillite (art. 159 ss LP). Ainsi, la procédure de faillite n'est
+pendante qu'à partir de la réquisition de faillite et le devoir des parties de se
+comporter selon la bonne foi ne naît qu'après la création du rapport de procé-dure
+en découlant (ATF 138 III 225 précité consid. 3.2 ; TF 5A_466/2012 précité
+consid. 4.1.1).
+L'avis aux parties de
+l'audience de faillite avant la tenue de celle-ci (art. 168 LP) est une condition formelle
+de la décision de faillite. Si cet avis n'a pas lieu, le droit des parties d'être entendues,
+protégé par l'art. 29 al. 2 Cst. (Constitution fédérale du 18 avril 1999 ; RS
+101), est violé, car il découle de ce droit notamment le droit d'être cité régulièrement
+aux débats. Cette garantie a pour but d'assurer à chaque partie le droit de ne pas être
+condamnée sans avoir été mise en mesure de défendre ses intérêts (ATF 131
+I 185 consid. 2.1 ; ATF 117 Ib 347 consid. 2b/bb et les références ; TF 5A_466/2012 précité
+consid. 4.1.2). En particulier, le débiteur est privé de la possibilité de prouver les
+faits qui doivent conduire au rejet de la réqui-sition de faillite (art. 172 LP). L'atteinte
+causée par le défaut d'une citation valable-ment notifiée est d'une gravité telle
+qu'elle ne peut pas être réparée devant l'instance de recours ; si cette atteinte
+est réalisée, la cause doit être renvoyée à l'autorité de première
+instance (ATF 138 III 225 précité consid. 3.3 et les références ; TF 5A_466/
+2012 consid. 4.1.2 précité).
+Le fardeau de la preuve
+de la notification d'un acte et de la date de cette notification incombe à l'autorité qui entend
+en tirer une conséquence juridique et cette autorité supporte les conséquences de l'absence
+de preuve (Bohnet,
+in
+Bohnet et
+alii
+(éd.) Commentaire romand, Code de procédure civile, 2
+e
+éd, n. 35
+ad
+art. 138 CPC).
+b)
+En
+l'espèce, la requête et la citation à comparaître à l'audience de faillite ont
+été envoyées à la recourante le 16 janvier 2025. L'envoi recommandé est cependant
+venu en retour à l'autorité de première instance avec la mention «
+non
+réclamé
+». Le pli
+a été renvoyé à la recourante en courrier A le 30 janvier 2025. Conformément
+à la jurisprudence précitée, la fiction de la notification à l'échéance
+du délai de garde postal ne s'applique pas. Il ne ressort par ailleurs pas du dossier que le pli
+non réclamé aurait été à nouveau notifié à sa destinataire d’une
+autre manière contre accusé de réception, par exemple par huissier. Le simple renvoi en
+courrier A n’est pas conforme aux exigences posées par l’art. 138 al. 1 CPC.
+Il n'est au demeu-rant pas établi que la recourante, qui ne s’est pas présentée
+à l’audience, l’a effec-tivement reçu. Il résulte de ce qui précède
+que la requête et l'avis d'audience de faillite n’ont pas été valablement notifiés
+à la recourante. Cette dernière n'a dès lors pas eu la possibilité de prendre connaissance
+de la requête, ni de se déterminer à son sujet avant que le jugement ne soit rendu, ce
+qui constitue une violation de son droit d'être entendue.
+Dans ces circonstances, il y a lieu d’annuler le jugement attaqué et de renvoyer la cause
+à la première juge afin qu’elle statue à nouveau après avoir valablement notifié
+la requête de faillite à la recourante et cité celle-ci à comparaître
+à une nouvelle audience.
+III.
+En conclusion, le recours doit
+être admis, le jugement annulé et la cause renvoyée à la première juge afin
+qu’elle procède dans le
+sens des
+considé-rants
+.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., sont laissés
+à la charge de l’Etat (art. 107 al. 2 CPC), l’avance de frais du même montant effectuée
+par la recourante lui étant restituée.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le jugement du 17 février 2025 est annulé et la cause renvoyée à
+la
+Présidente du Tribunal d’arrondissement de La Côte afin qu’elle statue à nouveau
+après avoir valablement notifié la requête de faillite à
+A.________
+et cité celle-ci à comparaître
+à une nouvelle audience.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont laissés à la charge
+de l’Etat
+.
+IV.
+L'avance de frais de 300 fr. (trois
+cents francs) effectuée par la recou-rante
+A.________
+lui est restituée.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+A.________,
+‑
+K.________,
+-
+M. le Préposé à l'Office des poursuites du district de Nyon,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de La Côte,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte.
+La greffière :
