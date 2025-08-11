@@ -1,0 +1,163 @@
+---
+decision_id: "vd_findinfo_Faillite___2025___25"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2025 / 25"
+decided: "2025-08-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10479319"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-148.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2025 / 25
+
+## Regeste
+
+VOIE DE DROIT, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, OUVERTURE DE LA FAILLITE, RESTITUTION DU DÉLAI, DÉLAI DE RECOURS, OBSERVATION DU DÉLAI | 174 al. 1 LP, 321 al. 2 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2025 / 25
+
+VOIE DE DROIT, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, OUVERTURE DE LA FAILLITE, RESTITUTION DU DÉLAI, DÉLAI DE RECOURS, OBSERVATION DU DÉLAI | 174 al. 1 LP, 321 al. 2 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF25.009230-250750
+105
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+11 août 2025
+__________________
+Composition
+:              M.
+Hack
+,
+président
+M.
+Maillard et Mme Giroud Walther, juges
+Greffière
+:              Mme
+Logoz
+*****
+Art.
+321 al. 2 CPC ; 174 al. 1 LP
+Vu le jugement rendu le 9 avril 2025, à la suite de l’audience du 8 avril 2025, par la Présidente
+du Tribunal d’arrondissement de la Broye et du Nord vaudois (ci-après : la Présidente),
+prononçant, par défaut des parties, la faillite de
+C.________SA
+,
+à [...], avec effet au 8 avril 2025, à 11 heures 45, à la requête de
+B.________SA
+,
+à [...] (VS), représentée par F.________Sàrl,
+vu la requête de restitution de délai formée le 15 avril 2025 par la faillie,
+vu la décision rendue le 16 avril 2025 par laquelle la Présidente a prononcé l’effet
+suspensif en ce sens que les effets de la procédure de faillite étaient suspendus jusqu’à
+droit connu sur la requête de restitution de délai,
+vu l’avis adressé le même jour par la Présidente à la requérante, fixant
+à celle-ci un délai non prolongeable au 1
+er
+mai 2025 pour produire la quittance de l’office des poursuites attestant du paiement intégral
+de la poursuite en cause,
+vu la décision rendue le 13 mai 2025, par laquelle la Présidente a rejeté la requête
+de restitution de délai formée le 15 avril 2025 par C.________SA (I), a confirmé la faillite
+de cette dernière, avec effet au 13 mai 2025, à 9 heures (II) et a mis les frais de la décision,
+par 400 fr., à la charge de la faillie (III),
+vu la notification de cette décision à la faillie le 16 mai 2025,
+vu la lettre datée du 24 mai 2025 et postée le 28 mai suivant, selon le suivi de l’envoi
+recommandé au dossier, adressée par C.________SA à la Présidente, informant celle-ci
+qu’elle avait trouvé un arrangement avec le créancier, que cet arrangement était
+en cours de signature et qu’il y avait lieu de considérer cette lettre comme un recours contre
+le jugement du 13 mai 2025, et demandant que lui soit confirmé « l’effet suspensif voire
+l’annulation de la faillite en attendant le règlement intégral des frais de la poursuite
+»,
+vu la lettre datée du 28 mai 2025 et adressée le même jour par C.________SA à la
+Présidente, lui transmettant une convention de paiement signée le 28 mai 2025 avec la créancière,
+vu la lettre du 6 juin 2025 par laquelle la F.________Sàrl a indiqué au tribunal d’arrondissement
+que « la convention de paiement accordée à Mme [...] [ndlr : à C.________SA]
+et les divers courriers qui vous ont été adressés par cette dernière valait recours
+contre la décision de faillite du 13 mai 2025 et demande d’annulation de cette dernière,
+conformément aux volontés exprimées par notre client B.________SA »,
+vu la transmission du dossier par le tribunal d’arrondissement à la cour de céans, autorité
+de recours,
+vu le prononcé du 18 juin 2025 par lequel la Vice-présidente de la cour de céans a rejeté
+la requête d’effet suspensif (I) et a dit que les frais de la décision suivaient le sort
+de la cause (II) ;
+attendu que la voie du recours des art. 319 ss CPC (Code de procédure civile du 19 décembre
+2008 ; RS 272) est ouverte contre la décision déclarant irrecevable ou rejetant la requête
+de restitution de délai (art. 148 LP [loi fédérale du 11 avril 1889 sur la poursuite pour
+dettes et la faillite ; RS 281.1] ; CPF 15 décembre 2023/270 ; CPF 30 décembre 2020/354 ; CPF
+5 mars 2018/26),
+qu’en procédure sommaire, le délai de recours est de dix jours dès la notification
+de la décision attaquée (art. 321 al. 2 CPC),
+que le délai de recours est réputé observé si l’acte de recours est adressé
+à l’autorité précédente en temps utile (ATF 140 III 636 consid. 3.7),
+qu’en l’espèce, la décision attaquée a été notifiée à
+la faillie le
+16 mai 2025,
+que le délai de recours de dix jours suivant cette date a commencé à courir le 17 mai
+2025 et arrivait à échéance le 26 mai suivant,
+que le recours formé le 24 mai 2025 par la faillie, mais posté le 28 mai suivant, a donc été
+interjeté tardivement,
+attendu que, par ailleurs, il n’y a pas de recours au sens de l’art. 174
+al.
+1 LP contre une décision confirmant une faillite (CPF 5 août 2024/151 ; CPF
+29
+décembre 2023/287 ; CPF 17 août 2021/181 ; CPF 5 mars 2018/ 26 et les arrêts cités),
+que la décision du 13 mai 2025 ne constitue pas un nouveau jugement de faillite contre lequel la
+voie du recours serait ouverte,
+que la faillite prononcée le 9 avril 2025 n’a à aucun moment été annulée,
+la décision du 16 avril 2025 ayant seulement suspendu ses effets,
+qu’en tant qu’il vise éventuellement le jugement de faillite du 9 avril 2025, le recours
+est donc encore plus tardif,
+qu’en tout état de cause, le recours est irrecevable ;
+que la convention de paiement signée le 28 mai 2025 par les parties ne change rien aux constats
+exposés ci-dessus, dès lors que ce moyen aurait dû être dirigé contre le jugement
+de faillite,
+attendu que le présent arrêt est rendu sans frais (art. 11 TFJC [tarif des frais judiciaires
+civils ; BLV 270.11.5]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours de C.________SA est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+C.________SA,
+‑
+F.________Sàrl (pour B.________SA),
+-
+M. le Préposé à l'Office des poursuites du district de la Broye-Vully,
+-
+Mme la Préposée à l'Office des faillites de l'arrondissement de la Broye et du Nord
+vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de la Broye-Nord vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et, en original, à :
+‑
+Mme la Président du Tribunal d'arrondissement de la Broye et du Nord vaudois.
+La greffière :
