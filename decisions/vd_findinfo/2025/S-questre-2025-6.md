@@ -1,0 +1,195 @@
+---
+decision_id: "vd_findinfo_S_questre___2025___6"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2025 / 6"
+decided: "2025-08-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10620046"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-056.md", "switzerland/bund/acts/272/art-132.md", "switzerland/bund/acts/272/art-309.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-278.md"]
+---
+
+# VD Findinfo Séquestre / 2025 / 6
+
+## Regeste
+
+SÉQUESTRE{LP}, ACTE DE RECOURS, MOTIVATION DE LA DEMANDE | 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Séquestre / 2025 / 6
+
+SÉQUESTRE{LP}, ACTE DE RECOURS, MOTIVATION DE LA DEMANDE | 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+KH25.031167-250932
+119
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+20 août 2025
+__________________
+Composition
+:              M.
+Hack
+,
+président
+Mmes
+Byrde et Cherpillod, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+321 al. 1 CPC
+Vu la décision rendue le 11 juillet 2025, adressée pour notification le
+14
+juillet 2025, par laquelle la Juge de paix du district de l’Ouest lausannois a rejeté la requête
+de séquestre déposée le 1
+er
+juillet 2025 par
+G.________
+contre
+Y.________
+(I), a mis les frais judiciaires, fixés à 150 fr., à la charge de la requérante (II
+et III) et a rayé la cause du rôle (IV),
+vu le recours contre cette décision déposée par G.________ le 17 juillet 2025, accompagné
+d’un lot de pièces nouvelles,
+vu les autres pièces du dossier ;
+attendu qu’un
+recours au
+sens des art. 319 ss CPC (Code de procédure civile du 19 décembre 2008 ; RS 272) est ouvert
+contre les décisions rendues en matière de séquestre, en vertu des art. 309 let.
+b ch. 6 et 319 let. a CPC (TF 5A_508/ 2012 du 28 août 2012 consid. 3.1 ; Jeandin,
+in
+Bohnet
+et
+alii
+[éd.], Commentaire
+romand, Code de procédure civile, 2
+e
+éd., 2019, n. 14a
+ad
+art.
+309 CPC ; CPF 19 juin 2025/79 ; CPF 17 février 2023/14 et les arrêts cités),
+que le recours doit être introduit auprès de l'instance de recours par acte écrit et motivé
+(art. 321 al. 1 CPC), dans les dix jours à compter de la notification de la décision motivée
+(art. 321 al. 2 CPC),
+qu’en l’espèce, l’acte de recours a été déposé en temps utile ;
+attendu que pour être recevable, le recours doit être motivé (art. 321 al. 1
+CPC),
+que cela signifie que le recourant doit démontrer le caractère erroné de la motivation de
+la décision attaquée et que son argumentation doit être suffisam-ment explicite pour que
+l’instance de recours puisse la comprendre, ce qui suppose une désignation précise des
+passages de la décision qu’il attaque et des pièces du dossier sur lesquelles il fonde
+sa critique (ATF 147 III 176 consid. 4.2.1 ; TF 5A_734/ 2023 du 18 décembre 2023 consid. 3.3 et
+les arrêts cités ; TF 5D_43/2019 du 24 mai 2019 consid. 3.2.2.1),
+que ni l’art. 132 al. 1 et 2 ni l’art. 56 CPC ne sont applicables en cas d’absence
+de motivation d’un acte de recours (TF 5A_734/2023 précité consid. 3.3 in
+fine et les arrêts cités),
+qu’en outre, le recours doit
+contenir des
+conclusions
+chiffrées,
+s'agis-sant de
+conclusions
+pécuniaires,
+sous peine d'irrecevabilité et il ne saurait être remé-dié à ce vice par la
+fixation d'un délai de l'art. 132 CPC (cf. ATF 137 III 617 consid. 4 et 5, JdT 2014 II 187) ou de
+l'art. 56 CPC (TF 5A_3/2019 du 18 février 2019 consid. 4.2, RSPC 2019 p. 310 ; TF 5A_855/2012
+du 13 février 2013 consid. 5, RSPC 2013 p. 257 ; CPF 22 février 2021/17 ; CREC 2 juin
+2014/190 ; CREC 11 juillet 2014/238) ;
+attendu qu’en l’espèce, la juge de paix a rejeté la requête de séquestre
+présentée par la recourante au motif que celle-ci n’avait pas rendu vraisemblable l’existence
+de sa créance, motivant que l’intéressée n’avait produit, pour tout moyen
+de preuve, que trois courriers qu’elle avait adressés à l’intimé pour lui
+demander le remboursement d’une somme de 3'418 fr. 50 au titre d’avance de salaire versée
+à tort, pièces qui n’établissaient, en particulier, ni l’existence d’un
+rapport de travail ni le versement d’un salaire,
+que dans son acte de recours, la recourante expose qu’après la démis-sion d’Y.________,
+elle n’avait pas tous les éléments en main pour établir le décompte final du
+prénommé et que «
+lorsque
+Y.________ a constaté qu’il n’avait pas reçu son solde de tout compte en juillet,
+ce dernier a refusé et a demandé un vire-ment au plus vite
+»,
+que «
+la personne
+en charge des salaires étant en vacances, nous avons pensé bien faire et donc procédé
+à un acompte de CHF 3'000.00
+»,
+que «
+l’acompte
+versé était provisoire et malencontreusement trop élevé
+»
+et qu’au vu de ces circonstances, elle demande «
+le
+remboursement de ce trop-perçu, afin de régu-lariser la situation
+»,
+que ce faisant, la recourante ne formule aucun grief contre la motivation de la décision attaquée,
+selon laquelle les pièces produites à l’appui de sa requête de séquestre n’étaient
+pas suffisantes pour rendre vraisemblable l’existence de sa créance à l’égard
+de l’intimé,
+que la recourante ne formule pas non de conclusions précises, étant observé que dans son
+acte de recours, elle indique avoir versé à l’intimé un acompte de 3'000 fr., alors
+que la créance qu’elle avait articulée à l’appui de sa requête de séquestre
+était de 3'418 fr. 50,
+que par ailleurs, les pièces nouvelles qu’elle a produites à l’appui de son acte
+de recours sont irrecevables en vertu de l’art. 326 al. 1 CPC (l’
+art. 278
+al. 3 LP, qui concerne le recours contre les décisions d’opposition au séquestre,
+ne s’appliquant pas au recours contre un refus du séquestre (CPF 20 mars 2017/34 ; CPF,
+24 novembre 2015/324 ; CPF, 15 janvier 2015/7))
+,
+de sorte qu’il ne peut en être tenu compte par la Cour de céans,
+que le recours doit dès
+lors être déclaré irrecevable
+pour
+absence de motivation pertinente et topique ;
+attendu que le présent
+arrêt est rendu sans fais
+(art.
+11 TFJC [tarif des frais judiciaires en matière civile ; BLV 270.11.5])
+.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+G.________.
+Vu l’absence de conclusions chiffrées
+,
+la Cour des poursuites et faillites ne peut pas déterminer la valeur litigieuse
+.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe
+(art.
+74 LTF). Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Juge de paix du district de l’Ouest lausannois.
+La greffière :
