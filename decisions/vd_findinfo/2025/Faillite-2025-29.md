@@ -1,0 +1,189 @@
+---
+decision_id: "vd_findinfo_Faillite___2025___29"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2025 / 29"
+decided: "2025-09-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10495604"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-132.md", "switzerland/bund/acts/272/art-138.md", "switzerland/bund/acts/272/art-145.md", "switzerland/bund/acts/272/art-146.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2025 / 29
+
+## Regeste
+
+RESTITUTION DU DÉLAI, OUVERTURE DE LA FAILLITE, AVANCE DE FRAIS, DÉCISION D'IRRECEVABILITÉ, MOTIVATION DE LA DEMANDE, MOYEN DE DROIT, FÉRIES JUDICIAIRES, PROCÉDURE SOMMAIRE | 145 al. 2 let. a CPC (CH), 145 al. 3 CPC (CH), 145 al. 4 CPC (CH), 321 al. 1 CPC (CH), 321 al. 2 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2025 / 29
+
+RESTITUTION DU DÉLAI, OUVERTURE DE LA FAILLITE, AVANCE DE FRAIS, DÉCISION D'IRRECEVABILITÉ, MOTIVATION DE LA DEMANDE, MOYEN DE DROIT, FÉRIES JUDICIAIRES, PROCÉDURE SOMMAIRE | 145 al. 2 let. a CPC (CH), 145 al. 3 CPC (CH), 145 al. 4 CPC (CH), 321 al. 1 CPC (CH), 321 al. 2 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF25.010813-251003
+130
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+2 septembre 2025
+_______________________
+Composition
+:              M.
+Hack
+,
+président
+Mme
+Byrde et M. Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+145 al. 2 let. a, 3 et 4, 321 al. 1 et 2 CPC
+Vu le jugement rendu à l’issue d’une audience tenue par défaut des parties le 13
+mai 2025 par la Présidente du Tribunal d’arrondissement de l’Est vaudois (ci-après :
+la Présidente), prononçant la faillite de
+V.________
+,
+à [...], le jour même à 16 heures, à la requête de
+P.________
+,
+à [...],
+vu l’envoi de ce jugement pour notification aux parties le 19 mai 2025,
+vu la requête en restitution de délai et demande d’effet suspensif adressée à
+la Présidente par V.________, datée du 24 et postée le 26 mai 2025,
+vu le courrier adressé le 2 juin 2025 par la Présidente au requérant, lui fixant notamment
+un délai au 23 juin 2025 pour verser une avance de frais de 400 fr. au greffe du tribunal au moyen
+de la QR-facture référencée qui lui parviendrait par courrier séparé et l’informant
+expressément que si cette avance de frais n’était pas réglée dans le délai
+précité, sa requête de restitution serait déclarée irrecevable,
+vu la décision du 10 juin 2025 par laquelle la Présidente a prononcé l’effet suspensif
+en ce sens que les effets de la faillite étaient suspendus jusqu’à droit connu sur la
+requête de restitution de délai,
+vu la lettre adressée le 25 juin 2025 par la Présidente au requérant, lui impartissant
+un ultime délai au 3 juillet 2025 pour régler l’avance de frais de 400 fr. restée
+impayée,
+vu la décision rendue le 9 juillet 2025, par laquelle la Présidente a déclaré irrecevable
+pour défaut d’avance de frais la requête de restitution de délai déposée
+le 24 mai 2025 par V.________ (I), a confirmé la faillite de celui-ci prononcée le 13 mai 2025,
+à 16 heures (II) et a arrêté les frais de cette décision à 200 fr. à la
+charge du failli (III),
+vu le suivi de l’envoi de cette décision au requérant sous pli recommandé, indiquant
+que le destinataire a été «
+avisé
+pour retrait
+» le 10 juillet 2025, avec
+un délai au 17 juillet suivant, que le délai de garde a été prolongé par le
+destinataire au 7 août 2025 et que le pli lui a été remis au guichet à cette dernière
+date,
+vu le recours formé contre ce prononcé par acte daté du 8 et posté le 12 août
+2025 par « W.________Sàrl, X.________ », disant agir comme représentant
+du failli et concluant en substance à l’annulation de la décision de faillite,
+vu le prononcé présidentiel du 13 août 2025, prenant date le lendemain, rejetant la requête
+d’effet suspensif contenue dans le recours ;
+attendu que la voie du recours des art. 319 ss CPC est ouverte contre la décision déclarant
+irrecevable ou rejetant la requête de restitution de délai en vue d’obtenir la tenue
+d’une nouvelle audience de faillite (CPF 11 mars 2025/23 ; CPF 5 mars 2018/26),
+qu’en procédure sommaire, le délai de recours est de dix jours dès la notification
+de la décision attaquée (art. 321 al. 2 CPC),
+que selon l’art. 138 al. 3 let. a CPC, en cas d’envoi recommandé, un acte est réputé
+notifié à l’expiration d’un délai de sept jours si le destinataire devait
+s’attendre à recevoir la notification,
+qu’une prolongation du délai de garde par la Poste à la demande du destinataire est sans
+effet sur le délai de sept jours de l’art. 138 al. 3 let. a CPC,
+qu’en l’espèce, la décision attaquée est censée avoir été notifiée
+au recourant le 17 juillet 2025,
+que ce jour était compris dans la période de suspension du 15 juillet au 15 août inclus
+durant laquelle les délais légaux et les délais fixés judiciairement ne courent pas
+(art. 145 al. 1 let. a CPC),
+que lorsqu’un acte est notifié pendant la suspension d’un délai, celui-ci court
+à compter du jour qui suit la fin de la suspension (art. 146 al. 1 CPC),
+que, toutefois, la suspension des délais ne s’applique en principe pas à la procédure
+sommaire (art. 145 al. 2 let. b CPC), laquelle est applicable dans les procédures judiciaires en
+matière de faillite (art. 251 let. a CPC
+cum
+145 al. 4 LP),
+que la suspension des délais s’applique néanmoins si les parties n’ont pas été
+rendues attentives aux exceptions prévues à l’art. 145 al. 2 CPC, comme l’exige
+l’art. 145 al. 3 CPC (ATF 139 III 78 consid. 5 ; TF 4A_475/2018 du 12 septembre 2019 consid.
+5.1 non publié aux ATF 145 III 469),
+qu’en l’espèce, la décision attaquée indique bien la voie du recours (319
+ss CPC), mais ne rend pas les parties attentives à l’art. 145 al. 2 CPC,
+qu’il s’ensuit que la suspension du délai de recours s’applique en l’espèce,
+ce délai ayant par conséquent commencé à courir le 16 août 2025, de sorte que
+le recours déposé le 12 août 2025 l’a été en temps utile ;
+attendu que le recours tend à l’annulation du jugement de faillite,
+que le recours contre un jugement de faillite doit s’exercer dans les dix jours suivant sa notification
+(art. 174 al. 1 LP [loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1]),
+qu’en tant qu’il est dirigé contre le jugement de faillite du 13 mai 2025, adressé
+pour notification aux parties le 19 mai suivant, le recours du 12 août 2025 est largement tardif,
+que, par ailleurs, il n’y a pas de recours au sens de l’art. 174
+al.
+1 LP contre une décision confirmant une faillite (CPF 5 août 2024/151 ; CPF
+29
+décembre 2023/287 ; CPF 17 août 2021/181 ; CPF 5 mars 2018/ 26 et les arrêts cités),
+que la décision du 9 juillet 2025 ne constitue pas un nouveau jugement de faillite contre lequel
+la voie du recours serait ouverte, mais confirme la faillite prononcée le 13 mai 2025 - la Présidente
+ayant cependant omis de préciser qu’elle prenait effet le 9 juillet 2025, vu l’effet
+suspensif accordé -,
+que pour ces motifs, le recours contre le jugement de faillite est irrecevable ;
+attendu que le recours doit être motivé (art. 321 al. 1 CPC), ce qui signifie que le recourant
+doit démontrer le caractère erroné de la motivation de la décision attaquée
+(ATF 147 III 176 consid. 4.2.1 et les références),
+qu’en l’espèce, la Présidente a déclaré la requête de restitution
+de délai irrecevable en se fondant sur l’art. 59 al. 1 et 2 CPC, après avoir constaté
+que l’avance de frais requise par l’avis du 2 juin 2025 n’avait pas été versée
+dans l’ultime délai au 3 juillet 2025 imparti par son avis du 25 juin 2025,
+que le recourant admet avoir effectué tardivement, le 7 août 2025, l’avance de frais
+requise,
+qu’il ne remet ainsi pas en cause la décision attaquée de manière conforme aux exigences
+précitées en matière de motivation,
+que pour ce motif également, le recours est irrecevable ;
+attendu que, vu le sort du recours, il n’est pas nécessaire d’impartir un délai
+au représentant du recourant pour justifier de ses pouvoirs en application de l’art. 132 al.
+1 CPC ;
+attendu que le présent arrêt est rendu sans frais (art. 11 TFJC [tarif des frais judiciaires
+civils ; BLV 270.11.5]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. X.________, W.________Sàrl (pour V.________)
+‑
+P.________,
+-
+M. le Préposé à l'Office des poursuites du district de La Riviera – Pays-d’Enhaut,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l’Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois.
+La greffière :
