@@ -1,0 +1,345 @@
+---
+decision_id: "vd_findinfo_Faillite___2025___37"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2025 / 37"
+decided: "2025-09-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10511562"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2025 / 37
+
+## Regeste
+
+RESTITUTION DU DÉLAI, OUVERTURE DE LA FAILLITE, JUGEMENT PAR DÉFAUT, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, MOTIVATION DE LA DEMANDE | 149 CPC (CH), 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2025 / 37
+
+RESTITUTION DU DÉLAI, OUVERTURE DE LA FAILLITE, JUGEMENT PAR DÉFAUT, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, MOTIVATION DE LA DEMANDE | 149 CPC (CH), 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF25.014425-251110
+147
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+19 septembre 2025
+_______________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+149 et 321 al. 1 CPC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+Q.________
+,
+à [...], contre la décision rendue le 28 août 2025 par la Présidente du Tribunal
+d’arrondissement de La Côte, dans le cadre de la procédure de faillite opposant la recourante
+à
+U.________
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Par requête adressée le 26 mars 2025 au Tribunal d’arrondissement de La Côte (ci-après :
+le Tribunal), U.________ a requis la faillite de Q.________. Elle a produit un commandement de payer
+et une commination de faillite notifiés à la débitrice le 18 novembre 2024, respectivement
+le 12 décembre 2024, dans la poursuite n° 11499172 de l’Office des poursuites du district
+de Morges (ci-après : l’Office), portant sur le montant de 3'621 fr. de cotisations LPP.
+b)
+La Présidente du tribunal saisie du dossier (ci-après : la Présidente) a convoqué
+les parties à son audience du 5 mai 2025. La créancière était dispensée de comparution.
+Le représentant de la débitrice, au bénéfice d’une procuration, a comparu et
+a été entendu lors de cette audience. Selon le procès-verbal, un
+délai
+au 2 juin 2025 à 11 heures
+a été
+imparti à la débitrice
+pour
+s’acquitter de la poursuite en cause
+auprès
+de l’Office et
+présenter
+tout justificatif
+,
+à
+défaut de quoi, la faillite serait prononcée le 2 juin 2025 à 11 heures
+.
+Une copie du procès-verbal a été remise au comparant à l’issue de l’audience,
+valant
+citation à comparaître
+à l’audience du 2 juin 2025 à 11 heures
+.
+c)
+Par jugement rendu à l’issue de l’audience du 2 juin 2025, à laquelle aucune des
+parties n’a comparu, la Présidente a prononcé la faillite de Q.________, le 2 juin 2025
+à 11 heures 30, par défaut des parties (I) et a mis les frais, par 200 fr., à la
+charge de la faillie (II).
+2.
+a)
+Le 5 juin 2025, Q.________ a déposé
+une requête de restitution de délai, sollicitant également l’effet suspensif. Elle
+a fait valoir que «
+le
+non-respect du délai en question ne résulte pas d’une négligence, mais de justes
+motifs
+» en expliquant avoir affecté
+les liquidités dont elle disposait au paiement des salaires de ses employés et du loyer, ce
+qui avait retardé le paiement de la poursuite en cause
+.
+Elle a produit «
+la
+preuve du paiement de la poursuite n° 11499172
+»,
+à savoir la copie d’un ordre de paiement qu’elle avait donné par e-banking le 5
+juin 2025 pour être exécuté le lendemain, portant sur un montant de 3’650 fr. à
+verser à l’Office avec l’information «
+Solde
+poursuite n 11499172
+».
+b)
+Par avis du 10 juin 2025, le greffe du Tribunal
+a fixé à la requérante un
+délai
+au 30 juin 2025
+pour effectuer une avance de frais
+de procédure de 400 fr. et l’a informée qu’elle devrait en outre s’acquitter
+d’un émolument de 300 fr. directement à l’Office des faillites de l’arrondissement
+de La Côte.
+Il
+l’a invitée par ailleurs à indiquer «
+dans
+le même délai
+», les
+motifs
+de son absence à l’audience
+.
+c)
+L’effet suspensif a été accordé par prononcé présidentiel du 10 juin
+2025, en ce sens que les effets de la procédure de faillite étaient suspendus jusqu’à
+droit connu sur la demande de restitution de délai.
+d)
+Par avis du greffe du Tribunal du 17 juillet 2025, un
+ultime
+délai au 22 juillet 2025
+a été
+imparti à la requérante
+pour
+indiquer les motifs de son absence à l’audience du 2 juin 2025
+«
+ainsi que
+pour
+solder la poursuite n° 11499172
+».
+L’avis précisait que
+passé
+ce délai
+, une
+décision
+serait rendue sur la base du dossier
+,
+sans fixation d’une nouvelle audience
+.
+e)
+Par lettre du 31 juillet 2025, la Présidente a indiqué à la requérante que, malgré
+le versement de 3'650 fr. effectué le 5 juin 2025, la poursuite n’était pas entièrement
+soldée. Elle a invité l’intéressée à régler ce solde au plus vite,
+en lui précisant que,
+sans
+nouvelles de sa part d’ici au 15 août 2025, la faillite prononcée le 2 juin 2025 serait
+confirmée
+.
+f)
+Par prononcé du 28 août 2025, la Présidente a rejeté la requête de restitution
+de délai déposée le 5 juin 2025 (I), a révoqué l’effet suspensif accordé
+le 10 juin 2025 (II), a confirmé les chiffres I et II du jugement rendu le 2 juin 2025 et dit que
+la faillite de Q.________ prenait effet le 28 août 2025 à 14 heures (III) et a mis les frais
+de ce prononcé, par 200 fr., à la charge de la faillie, éventuels frais du Registre foncier
+compris (IV). Se fondant sur les conditions posées par l’art. 148 CPC (Code de procédure
+civile ; RS 172) et la doctrine y relative, la Présidente a retenu que la requérante n’avait
+pas indiqué les motifs de son absence à l’audience du 2 juin 2025 dans les délais
+impartis pour ce faire et qu’elle ne s’était pas présentée à cette audience
+de manière délibérée, ce qui ne constituait pas une faute légère. Elle
+a constaté, au surplus, que la créance en poursuite n’avait pas été entièrement
+réglée par la requérante malgré les rappels adressés à celle-ci les 17
+et 31 juillet 2025.
+Adressé aux parties le jour même, ce prononcé a été notifié à la requérante
+le 29 août 2025.
+g)
+Par courriel du 29 août 2025, la débitrice a transmis au Tribunal un échange de courriels
+qu’elle avait eu les 5 et 6 juin 2025 avec l’Office des poursuites du district de Morges,
+à savoir :
+-
+un courriel de sa part à l’Office du 5 juin 2025, à 10 heures 27, dont la teneur est
+la suivante :
+«
+Merci
+de me dire le solde des deux poursuites valeur pour le 12 juin svp
+N :
+11499172
+N :
+11522420
+» ;
+-
+la réponse de l’Office par courriel du 6 juin 2025, à 9 heures 45 :
+«
+Dès
+lors, la poursuite n° 11499172 est annulée et le solde de la poursuite n° 11522420 s’élève
+à 6'265.75 au 12 juin 2025.
+De
+plus, la société a été déclarée en faillite en date du 2 juin 2025. En
+cas de question veuillez contacter l’Office des faillites de l’arrondissement de La Côte
+à Nyon.
+».
+Le Tribunal a répondu à la débitrice, par courriel du 29 août 2025, qu’il lui
+appartenait de faire recours au Tribunal cantonal dans les dix jours, comme indiqué dans le prononcé
+du 28 août 2025.
+3.
+Par acte adressé le 1
+er
+septembre 2025 au Tribunal cantonal, indiquant comme objet : «
+demande
+de recours gracieux
+», Q.________ a
+sollicité «
+un
+ultime délai afin de permettre la mise à jour de [son] dossier et sa régularisation
+».
+Le 16 septembre 2025, la recourante a requis l’effet suspensif et le déblocage immédiat
+de ses comptes bancaires.
+En droit
+:
+I.
+a)
+Le recours est dirigé contre «
+le
+prononcé de la faillite de la société Q.________, en date du 28 août 2025
+».
+La recourante invoque la «
+confirmation
+»
+de l’Office selon laquelle la poursuite en cause «
+a
+été annulée depuis le 5 juin 2025
+»
+et la fermeture annuel de la société du 14 juillet au 5 août 2025, «
+ce
+qui a pu retarder la transmission ou la prise en compte des documents nécessaires
+».
+Elle considère que, dans ces conditions, «
+cette
+décision est injustifiée
+»
+et sollicite un ultime délai pour régulariser sa situation.
+b)
+Il n’y a pas de recours au sens de l’art. 174 al. 1 LP (loi fédérale sur la poursuite
+pour dettes et la faillite ; RS 281.1) contre une décision confirmant une faillite (CPF 5 août
+2024/151 ; CPF 29 décembre 2023/287 ; CPF 17 août 2021/181 ; CPF 5 mars 2018/26
+et les arrêts cités).
+c)
+La décision du 28 août 2025 ne constitue pas un nouveau jugement de faillite contre lequel
+la voie du recours serait ouverte, mais confirme la faillite prononcée le 2 juin 2035, dont les
+effets ont seulement été reportés au 28 août 2025 en raison l’effet suspensif
+accordé.
+Dans la mesure où il est dirigé « contre le prononcé de la faillite »
+du 28 août 2025, le recours est irrecevable.
+Dans la mesure où il tendrait à faire annuler le jugement de faillite du 2 juin 2025, le recours
+serait largement tardif, le délai de recours de l’art. 174 al. 1 LP étant de dix jours,
+et par conséquent, irrecevable pour ce motif également.
+II.
+a)
+Selon l’art. 149 CPC, le tribunal statue
+définitivement sur la restitution au sens de l’art. 148 CPC, à moins que le refus de
+restitution n’entraîne la perte définitive du droit. Autrement dit, la voie du recours
+des art. 319 ss CPC est ouverte si la décision refusant la restitution entraîne, pour la partie
+défaillante, la perte définitive de l'action ou d'un moyen (TF 4A_634/2021 du 3 janvier 2022
+consid. 3.3 et les références citées). Tel est le cas de la décision rejetant
+ou déclarant irrecevable la requête de restitution de délai en vue d’obtenir la
+tenue d’une nouvelle audience de faillite (CPF 11 mars 2025/23 ; CPF 5 mars 2018 et les références
+citées) - ou à tout le moins le réexamen des conditions pour prononcer la faillite - dès
+lors que, dans un tel cas, la faillite est confirmée et que, comme dit supra (consid. I b), il n’y
+a pas de recours contre la confirmation de la faillite.
+b)
+A teneur de l’art. 321 al. 1 CPC, le recours, écrit et motivé, est introduit auprès
+de l’instance de recours. Le délai pour recourir contre les décisions prises en procédure
+sommaire est de dix jours (art. 321 al. 2 CPC).
+Pour répondre à l’exigence de motivation, le recourant doit démontrer le caractère
+erroné de la motivation de la décision attaquée et son argumentation doit être
+suffisamment explicite pour que l’instance de recours puisse la comprendre, ce qui suppose une
+désignation précise des passages de la décision qu’il attaque et des pièces
+du dossier sur lesquelles il fonde sa critique (ATF 147 III 176 consid. 4.2.1 et les références).
+c)
+En l’espèce, le recours déposé le 1
+er
+septembre 2025 l’a été en temps utile.
+En revanche, il ne satisfait pas aux exigences précitées en matière de motivation. En
+effet, la recourante ne conteste pas les considérants topiques de la décision attaquée
+selon lesquelles son défaut à l’audience de faillite du 2 juin 2025, délibéré,
+n’était pas imputable qu’à une faute légère de sa part. Pour ce motif,
+le recours est irrecevable.
+III.
+En conclusion, le recours doit être déclaré irrecevable selon la procédure de l’art.
+322 al. 1 in fine CPC.
+Vu le sort du recours, la requête d’effet suspensif n’a plus d’objet.
+L’arrêt, rendu sans frais, est exécutoire.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+La requête d’effet suspensif est sans objet.
+III.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Q.________,
+‑
+U.________,
+-
+M. le Préposé à l'Office des poursuites du district de Morges,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Registre foncier, Office de La Côte,
+-
+Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte.
+La greffière :
