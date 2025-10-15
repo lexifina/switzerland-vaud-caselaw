@@ -1,0 +1,132 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2025___28"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2025 / 28"
+decided: "2025-10-15"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10557549"
+cites_law: ["switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2025 / 28
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ | 49 al. 1 CPC (CH)
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative Réc-civile / 2025 / 28
+Vaud Tribunal cantonal Cour administrative Réc-civile / 2025 / 28
+Vaud Tribunal cantonal Cour administrative Réc-civile / 2025 / 28
+
+DÉCISION D'IRRECEVABILITÉ | 49 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+42/2025
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 15 octobre 2025
+__________________
+Présidence
+de               Mme
+Bernel
+,
+présidente
+Juges
+:              Mme
+Bendani et M. Maillard
+Greffière
+:              Mme
+Neurohr
+*****
+Art.
+49 al. 1 CPC.
+Vu la procédure [...] pendante devant la Justice de paix du district de [...] et la curatelle de
+représentation et de gestion instituée le 9 octobre 2023 en faveur de L.________,
+vu la demande adressée le 3 septembre 2025 par L.________ au Tribunal cantonal, tendant à la
+récusation de la Juge de paix H.________ en charge de la procédure [...],
+vu le courrier adressé le 8 septembre 2025 à L.________ par la Présidente de la Chambre
+des curatelles du Tribunal cantonal, la Juge cantonale G.________, l’informant que dans la mesure
+où sa demande de récusation semblait concerner la magistrate en charge de son dossier, trois
+autres magistrats du même office étaient compétents pour statuer, que la Chambre des curatelles
+n’était en conséquence pas compétente pour traiter sa demande qui était classée
+sans suite, et l’invitant à s’adresser à la Justice de paix du district de [...],
+vu le courrier du 25 septembre 2025 de L.________, requérant de la Présidente de la Chambre
+des curatelles qu’elle revoie sa décision et transfère sa demande à une « autorité
+réellement compétente »,
+vu le courrier daté du 27 septembre 2025, déposé au greffe du Tribunal cantonal le 29
+septembre 2025 à l’attention de la Présidente de la Chambre des curatelles G.________,
+dans lequel L.________ a sollicité des nouvelles de sa demande du 3 septembre 2025,
+vu la demande du 27 septembre 2025 de L.________ (ci-après : le requérant), déposée
+au greffe du Tribunal cantonal le 29 septembre 2025, tendant à la récusation de la Juge cantonale
+et Présidente de la Chambre des curatelles G.________,
+vu la transmission de cette demande par la Juge cantonale G.________ à la Cour administrative du
+Tribunal cantonal, comme objet de sa compétence, le 30 septembre 2025,
+vu les déterminations du même jour de la Juge cantonale G.________,
+vu les pièces au dossier ;
+attendu que la Cour administrative du Tribunal cantonal est compétente pour statuer sur une demande
+de récusation d’un juge cantonal (art. 8a al. 5 CDPJ [Code de droit privé judiciaire
+vaudois du 12 janvier 2010 ; BLV 211.02] et 6 al. 1 let. a ROTC [règlement organique du Tribunal
+cantonal du 13 novembre 2007 ; BLV 173.31.1]),
+que la Cour administrative est ainsi compétente pour statuer sur la demande du 27 septembre 2025
+tendant à la récusation de la Juge cantonale G.________ ;
+attendu que, conformément à l’art. 49 al. 1 CPC (Code de procédure civile du
+19 décembre 2008 ; RS 272), la partie qui entend obtenir la récusation d’un magistrat
+ou d’un fonctionnaire judiciaire la demande au tribunal aussitôt qu’elle a eu connaissance
+du motif de récusation et doit rendre vraisemblables les faits qui motivent sa demande,
+que si la partie n’a pas à prouver les éléments qu’elle invoque, elle doit
+tout de même faire état, à l’appui de sa demande, d’un contexte qui permet
+de tenir pour plausible le motif de récusation allégué (TF 5F_3/2015 du 13 août 2015
+consid. 2.2),
+que la partie doit se prévaloir de faits, ce qui exclut les critiques générales ou les
+simples soupçons ne se fondant sur aucun élément tangible (TF 8C_648/2012 du 29 novembre
+2012 consid. 2),
+qu’il n’est pas possible de demander, par avance, la récusation d’un juge dans
+toute cause dont ce magistrat pourrait un jour être saisi et qui concernerait le requérant
+(TF 5F_3/2015 du 13 août 2015 consid. 2.2 ; TF 6F_11/2008 du 2 septembre 2008 consid.
+1) ;
+attendu que le requérant demande la récusation de la Juge cantonale G.________ « dans
+les procédures [le] concernant devant la Chambre des curatelles »,
+que la Juge cantonale G.________ n’est actuellement saisie d’aucun dossier concernant le
+requérant,
+qu’ainsi, la demande du requérant est formulée de manière générale et
+par avance,
+qu’elle est en conséquence irrecevable ;
+attendu que la présente décision peut être rendue sans frais judiciaires de première
+instance (art. 52 TFJC [tarif du 28 septembre 2010 des frais judiciaires civils ; BLV 270.11.5]
+et art. 19 al. 3 LVPAE [Loi du 29 mai 2012 d’application du droit fédéral de
+la protection de l’adulte et de l'enfant ; BLV 211.255])
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation déposée le 27 septembre 2025 par L.________ est irrecevable.
+II.
+La décision, rendue sans frais, est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+M. L.________ (personnellement),
+-
+Mme la Juge cantonale G.________, au Palais.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+La greffière :
