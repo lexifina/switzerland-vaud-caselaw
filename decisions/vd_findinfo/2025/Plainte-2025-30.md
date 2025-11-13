@@ -1,0 +1,242 @@
+---
+decision_id: "vd_findinfo_Plainte___2025___30"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2025 / 30"
+decided: "2025-11-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10592749"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-138.md", "switzerland/bund/acts/272/art-142.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-329.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-031.md", "switzerland/bund/acts/281.1/art-033.md"]
+---
+
+# VD Findinfo Plainte / 2025 / 30
+
+## Regeste
+
+ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, OBSERVATION DU DÉLAI, DÉLAI DE RECOURS, PLAINTE{LP}, FICTION DE LA NOTIFICATION, RESTITUTION DU DÉLAI, EMPÊCHEMENT NON FAUTIF | 18 al. 1 LP, 31 LP, 33 al. 4 LP, 138 al. 3 let. a CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Plainte / 2025 / 30
+
+ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, OBSERVATION DU DÉLAI, DÉLAI DE RECOURS, PLAINTE{LP}, FICTION DE LA NOTIFICATION, RESTITUTION DU DÉLAI, EMPÊCHEMENT NON FAUTIF | 18 al. 1 LP, 31 LP, 33 al. 4 LP, 138 al. 3 let. a CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FA25.034010-251435
+31
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+13 novembre 2025
+_______________________
+Composition
+:               M.
+Hack
+,
+président
+Mmes
+Byrde et Giroud Walther, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1, 31 et 33 al. 4 LP ; 138 al. 3 let. a CPC
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+R.________
+,
+à [...], contre la décision rendue le 29 septembre 2025, à la suite de l’audience
+du 2 septembre 2025, par la Présidente du Tribunal d’arrondissement de La Broye et du Nord
+vaudois, autorité inférieure de surveillance, dans la cause opposant le recourant à l’
+Office
+des poursuites du district de La Broye-Vully
+,
+à Payerne.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 9 juillet 2025, R.________ a saisi l’autorité inférieure de surveillance de l’arrondissement
+de La Broye et du Nord vaudois d’une plainte au sens de l’art. 17 LP (loi fédérale
+sur la poursuite pour dettes et la faillite ; RS 281.1) contre la décision de saisie de salaire
+prise à son encontre par l’Office des poursuites du district de La Broye-Vully (ci-après :
+l’Office), le 24 mars 2025, dans le cadre de la continuation de plusieurs poursuites requises contre
+lui. Cette décision, qui arrêtait à 4'200 fr. la part saisissable de son salaire mensuel
+dès le 1
+er
+septembre
+2025, avait été adressée sous pli recommandé au débiteur, qui l’avait
+réceptionnée le 31 mars 2025. Dans sa plainte, le débiteur soutenait en substance que
+cette saisie de salaire portait atteinte à son minimum vital et demandait que le calcul en soit
+corrigé.
+Par avis du 18 juillet 2025, reçu par le débiteur le 21 juillet suivant, la Présidente
+du Tribunal d’arrondissement de La Broye et du Nord vaudois (ci-après : la Présidente)
+en charge du dossier a cité le plaignant et l’Office à son audience du 2 septembre
+2025 et a invité l’Office à produire ses déterminations sur la plainte dans un délai
+échéant le 4 août 2025.
+L’avis précité indiquait que l’effet suspensif était prononcé. Par décision
+rectificative du 23 juillet 2025, la Présidente a refusé l’effet suspensif et invité
+l’Office à consigner les saisies courantes jusqu’à droit connu sur la plainte.
+L’audience s’est tenue le 2 septembre 2025 en présence de deux représentantes de
+l’Office. Le débiteur ne s’est pas présenté ni personne en son nom.
+2.
+Par décision du 29 septembre 2025, la Présidente a rejeté la plainte et rendu sa décision
+sans frais ni dépens. Elle a considéré, en résumé, que certaines des «
+charges
+incompressibles
+» alléguées
+par le plaignant étaient incluses dans la base mensuelle de 1'200 fr. retenue pour un adulte vivant
+seul, que d’autres n’avaient pas à être prises en compte, faute pour le débiteur
+d’avoir prouvé qu’elles étaient effectivement payées, et que d’autres
+encore n’étaient pas justifiées par pièces. Elle a relevé que le plaignant
+ne s’était présenté à aucune des convocations que l’Office lui avait
+adressées afin d’établir avec lui son minimum d’existence.
+Cette décision a été adressée au plaignant sous pli recommandé le 29 septembre
+2025. Selon le suivi d’envoi au dossier, le plaignant a été avisé le 30 septembre
+suivant de l’arrivée du pli à l’office postal de distribution et du délai
+au 7 octobre 2025 dont il disposait pour venir le retirer au guichet. Il a alors déclenché
+un ordre de prolongation du délai de garde postale au 28 octobre 2025.
+3.
+Le 27 octobre 2025, R.________ a déposé au greffe de l’autorité inférieure
+de surveillance un acte daté du 24 octobre 2025, indiquant comme objet :
+«
+Recours
+au sens de l’art. 17 LP – Demande de suspension de saisie, restitution de délai (art.
+33 LP) et révision exceptionnelle (art. 329 CPC)
+».
+Il a pris les conclusions suivantes :
+«
+1. Suspendre immédiatement
+toute saisie de salaire en cours
+2. Interdire tout contact avec mon employeur dans l’intervalle
+3. Accepter la restitution du délai (art 33 LP)
+4. Autoriser la révision de la décision par défaut (art. 329 CPC)
+5. Prendre en compte la procédure de sursis concordataire en cours
+6. Me convoquer pour exposer ma situation et soumettre mes documents
+».
+En droit :
+I.
+Le délai pour recourir contre une décision de l'autorité inférieure de surveillance
+est de dix jours à compter de sa notification (art. 18 al. 1 LP et 28 al. 1 LVLP [loi vaudoise d'application
+de la LP ; RSV 280.05]).
+Selon l’art. 31 LP, les règles du CPC (Code de procédure civile ; RS 272) s'appliquent
+à la computation et l'observation des délais, sauf disposition contraire de la LP. Aux termes
+de l’art. 138 al. 3 let. a CPC, un acte est réputé notifié en cas d’envoi
+recommandé, lorsque celui-ci n’a pas été retiré à l’expiration d’un
+délai de sept jours à compter de l’échec de la remise, si le destinataire devait
+s'attendre à recevoir la notification. En cas de demande de garde du courrier, le pli est considéré
+comme communiqué le dernier jour du délai de sept jours dès la réception du pli à
+l’office de poste du domicile du destinataire (ATF 141 II 429 consid. 3.3 ; TF 4D_19/2020 du 26
+mars 2020). En d’autres termes, le délai de sept jours n’est pas prolongé lorsque
+la Poste permet de retirer le courrier dans un délai plus long suite à une demande de prolongation
+du délai de garde (ATF 141 II 429 précité).
+En l’espèce, la fiction de la notification de l’art. 138 al. 3 let. a CPC est opposable
+au recourant qui était au courant de la procédure de plainte qu’il avait lui-même
+initiée. La décision du 29 septembre 2025 doit dès lors être considérée
+comme lui ayant été valablement notifiée à l’échéance du délai
+de garde de sept jours, soit le 7 octobre 2025. Le délai de recours de dix jours, qui a commencé
+à courir le lendemain, s’est terminé le samedi 18 octobre 2025, échéance reportée
+au lundi 20 octobre 2025 (art. 142 al. 3 CPC).
+Le recours déposé le 27 octobre 2025 est donc tardif et, pour ce motif, irrecevable.
+II.
+Le recourant sollicite la restitution du délai de recours. Il indique n’avoir pas pu agir
+dans le délai légal de dix jours et soutient que «
+cette
+inaction n’est pas [sa] faute, mais liée à [son] absence de moyens juridiques, des contraintes
+professionnelles lourdes et un fort isolement administratif
+».
+Selon l’art. 33 al. 4 LP, qui constitue une
+lex
+specialis
+par rapport à l'art. 148 CPC,
+quiconque a été empêché sans sa faute d’agir dans le délai fixé peut
+demander à l’autorité de surveillance ou à l’autorité judiciaire compétente
+qu’elle lui restitue ce délai, l’intéressé devant, à compter de la fin
+de l’empêchement, déposer une requête motivée dans un délai égal
+au délai échu et accomplir auprès de l’autorité compétente l’acte
+juridique omis. L’autorité saisie d’une demande de restitution statue librement,
+sur la base des preuves littérales administrées, le degré de preuve requis étant
+la simple vraisemblance (Gilliéron, Commentaire de la loi fédérale sur la poursuite pour
+dettes et la faillite, n. 57
+ad
+art. 33 LP).
+Selon la jurisprudence, il faut entendre par empêchement non fautif, non seulement l'impossibilité
+objective ou la force majeure, mais aussi l'impossibilité subjective due à des circonstances
+personnelles ou à une erreur excusable, ces circonstances devant être appréciées
+objectivement en ce sens qu'est non fautive toute circonstance qui aurait empêché un intéressé
+consciencieux, respectivement son représentant, d'agir dans le délai fixé (TF 5A_972/2018
+du 5 février 2019 consid. 5.1 ; TF 5A_149/2013 du 10 juin 2013 consid. 5.1.1 et les réf. cit.).
+Ainsi, dès que, nonobstant les circonstances, on peut exiger de la partie qu’elle agisse elle-même
+ou qu’elle charge un tiers d'agir en son nom, il n'y a plus d'empêchement non fautif (TF 5A_673/2017
+du 22 mars 2018 consid. 2.3.1). L’ignorance de règles juridiques d’une partie non assistée
+ne constitue pas un empêchement non fautif,
+sous
+réserve de circonstances particulières
+(TF 5A_969/2018 du 6 mai 2019 consid. 2.2.3).
+En l’espèce, les circonstances invoquées par le recourant, outre qu’elles ne sont
+aucunement documentées ni, partant, établies, même au degré de la seule vraisemblance,
+ne constituent pas des motifs d’empêchement non fautif. Rien en effet ne permet de retenir
+que le recourant, qui a déposé lui-même un acte de recours le 27 octobre 2025, était
+objectivement empêché de le faire une semaine auparavant, soit à l’échéance
+du délai légal de recours, le 20 octobre 2025, ou à tout le moins de mandater un tiers
+pour agir en son nom.
+La requête de restitution de délai doit par conséquent être rejetée.
+III.
+Vu le sort du recours,
+la requête d’effet suspensif est sans objet.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+La requête de restitution de délai est rejetée.
+II.
+Le recours est irrecevable.
+III.
+La requête d’effet suspensif est sans objet.
+IV.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. R.________,
+‑
+M. le Préposé à l’Office des poursuites du district de La Broye-Vully,
+-
+Confédération
+suisse,
+-
+Etat de [...],
+-
+Etat de [...],
+-
+Caisse publique de chômage
+du Canton de [...],
+-
+[...] SA,
+-
+[...] SA.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière :
