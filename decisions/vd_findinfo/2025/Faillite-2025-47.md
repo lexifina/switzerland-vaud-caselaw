@@ -1,0 +1,133 @@
+---
+decision_id: "vd_findinfo_Faillite___2025___47"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2025 / 47"
+decided: "2025-11-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/10612490"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-242.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2025 / 47
+
+## Regeste
+
+OBJET DU RECOURS, OUVERTURE DE LA FAILLITE, RESTITUTION DU DÉLAI | 174 al. 1 LP, 242 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites Faillite / 2025 / 47
+
+OBJET DU RECOURS, OUVERTURE DE LA FAILLITE, RESTITUTION DU DÉLAI | 174 al. 1 LP, 242 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF25.020034-250740
+196
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+25 novembre 2025
+______________________
+Composition
+:              M.
+Hack
+,
+président
+Mmes
+Byrde et Giroud Walther, juges
+Greffière
+:              Mme
+Logoz
+*****
+Art.
+174 al. 1 LP ; 242 CPC
+Vu le jugement rendu le 2 juin 2025, à la suite de l’audience du même jour tenue par
+défaut des parties, par la Présidente du Tribunal d’arrondissement de La Côte, prononçant
+la faillite de
+N.________
+,
+à [...], à la réquisition de
+B.________
+,
+à [...] (ZH), et mettant les frais, par 200 fr., à la charge du failli,
+vu le recours, daté du 5 juin 2025 et remis à la poste le lendemain, interjeté par le
+failli,
+vu la requête de restitution de délai déposée par le failli auprès de la présidente
+du tribunal d’arrondissement le 16 juin 2025,
+vu la décision de la présidente du 18 juin 2025, prononçant l’effet suspensif jusqu’à
+droit connu sur la demande de restitution de délai,
+vu le courrier du président de la cour de céans à la présidente du tribunal d’arrondissement
+du 15 juillet 2025, la priant d’informer la Cour des poursuites et faillites de la décision
+qui serait rendue sur la requête de restitution de délai, après quoi la cour pourrait
+traiter le recours,
+vu le prononcé rendu le 31 juillet 2025 par la Présidente du Tribunal d’arrondissement
+de La Côte, ensuite de l’audience tenue le 28 juillet 2025 par défaut des parties, admettant
+la requête de restitution de délai, révoquant l’effet suspensif accordé le
+18 juin 2025, confirmant le prononcé de faillite, faute de paiement de la dette en poursuite, avec
+effet au 31 juillet 2025 à 15h00, et mettant les frais, par 200 fr., à la charge du failli,
+vu le courrier recommandé du président de la cour de céans au failli du 23 septembre 2025,
+constatant que celui-ci n’a pas recouru contre le prononcé du
+31
+juillet 2025 admettant sa demande de restitution de délai mais prononçant une nouvelle fois
+sa faillite, indiquant que la cour de céans envisage de considérer son recours comme ayant
+perdu son objet et l’invitant à se déterminer sur ce qui précédait dans un
+délai de dix jours dès réception,
+vu la réception de ce courrier le 24 septembre 2025 par son destinataire, qui ne lui a donné
+aucune suite dans le délai imparti ;
+attendu que le jugement de faillite peut faire l’objet d’un recours au sens du Code de procédure
+civile (art. 174 al. 1 LP [loi fédérale sur la poursuite pour dettes et la faillite du 11 avril
+1889 ; RS 281.1]),
+qu’en l’espèce, toutefois, l’admission de la requête de restitution de délai
+par la présidente du tribunal d’arrondissement a eu pour effet de mettre à néant
+le jugement de faillite du 2 juin 2025 (cf. Tappy, in Commentaire romand, Code de procédure civile,
+2
+e
+éd., 2019, n. 5 ad art. 148 CPC),
+que, par conséquent, le recours formé contre ce jugement n’a plus d’objet,
+qu’il convient dès lors de le constater et de rayer la cause du rôle en application de
+l’art. 242 CPC (Code de procédure civile du 19 décembre 2008 ; RS 272) ;
+attendu que le présent arrêt peut être rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est sans objet.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. N.________,
+‑
+B.________,
+-
+M. le Préposé à l'Office des poursuites du district de Morges,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme et M. les Conservateurs du Registre foncier, Office de La Côte,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte.
+La greffière :
