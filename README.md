@@ -1,5 +1,7 @@
 # Swiss case law: Vaud (cantonal courts and bodies)
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of Vaud, Switzerland, which global-law reads at `switzerland/vaud/caselaw/`.
+
 Every published decision of these courts and bodies as a git history: one file per decision, one commit per decision,
 dated the day it was decided. 169,221 decisions from 1958-10-27 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `switzerland/vaud/caselaw`.
